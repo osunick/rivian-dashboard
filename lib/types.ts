@@ -36,6 +36,7 @@ export interface Report {
   summary: string;
   fullReport: string;
   items: ReportItem[];
+  scanError?: string;
 }
 
 export type SourceKey = keyof Report['sources'];

@@ -38,9 +38,10 @@ function formatFull(ts: string): string {
 
 function ReportRow({ report, index }: { report: Report; index: number }) {
   const [expanded, setExpanded] = useState(false);
+  const isFailed = !!report.scanError;
 
   return (
-    <div className={`border-b border-[#1F1F1F] last:border-0 ${index % 2 === 0 ? 'bg-[#0D0D0D]' : ''}`}>
+    <div className={`border-b border-[#1F1F1F] last:border-0 ${isFailed ? 'opacity-50' : index % 2 === 0 ? 'bg-[#0D0D0D]' : ''}`}>
       <div className="flex items-center gap-4 px-3 py-2.5 hover:bg-[#141414] transition-colors">
         {/* Timestamp */}
         <div className="font-mono text-[#6B7280] text-xs whitespace-nowrap w-44 flex-shrink-0">
@@ -59,14 +60,20 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
 
         {/* Summary */}
         <div className="text-[#F5F5F5] text-xs flex-1 min-w-0 leading-relaxed">
-          <span className="text-[#6B7280] mr-2">
-            {report.themes.slice(0, 2).map(t => (
-              <span key={t} className="inline-block bg-[#1F1F1F] text-[#6B7280] rounded px-1.5 py-0.5 text-[9px] mr-1 font-mono">
-                {t}
+          {isFailed ? (
+            <span className="text-[#F59E0B] font-mono text-[11px]">⚠️ SCAN FAILED — {report.scanError}</span>
+          ) : (
+            <>
+              <span className="text-[#6B7280] mr-2">
+                {report.themes.slice(0, 2).map(t => (
+                  <span key={t} className="inline-block bg-[#1F1F1F] text-[#6B7280] rounded px-1.5 py-0.5 text-[9px] mr-1 font-mono">
+                    {t}
+                  </span>
+                ))}
               </span>
-            ))}
-          </span>
-          <span className="text-[#A1A1AA]">{report.summary}</span>
+              <span className="text-[#A1A1AA]">{report.summary}</span>
+            </>
+          )}
         </div>
 
         {/* Expand button */}

@@ -134,10 +134,13 @@ function DrillDownPanel({ report, onClose }: { report: Report; onClose: () => vo
                   <p className="text-[#6B7280] text-[11px] mt-0.5 leading-relaxed line-clamp-2">
                     {item.snippet}
                   </p>
-                  {/* URL */}
-                  <span className="text-[#374151] text-[10px] font-mono truncate block mt-0.5">
-                    {item.url}
-                  </span>
+                  {/* URL + published date */}
+                  <div className="flex items-center gap-2 mt-0.5">
+                    <span className="text-[#374151] text-[10px] font-mono truncate">{item.url}</span>
+                    {(item as any).publishedAt && (
+                      <span className="text-[#22C55E] text-[10px] font-mono flex-shrink-0">· {(item as any).publishedAt}</span>
+                    )}
+                  </div>
                 </div>
               </div>
             </div>

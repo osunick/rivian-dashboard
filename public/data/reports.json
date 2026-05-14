@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "id": "2026-05-14T03:48:00.000Z",
+    "timestamp": "2026-05-14T03:48:00.000Z",
+    "sentiment": { "positive": 0, "neutral": 0, "negative": 0 },
+    "sources": {
+      "reddit_rivian":  { "found": 0, "sentiment": null },
+      "reddit_ev":      { "found": 0, "sentiment": null },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 0, "sentiment": null },
+      "news":           { "found": 0, "sentiment": null },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "themes": [],
+    "competitiveContext": "No fresh competitive content retrieved — search engine unavailable this cycle.",
+    "summary": "Scan failed: DuckDuckGo returned bot-detection challenges on all 10 query attempts. No fresh data retrieved for this cycle.",
+    "fullReport": "⚠️ *Rivian Autonomy Pulse — Scan Failed*\n_May 13, 2026 — 8:48 PM PT_\n\nSearch engine (DuckDuckGo) returned bot-detection blocks on all query attempts this cycle. No fresh data could be retrieved.\n\nNext scheduled scan should recover automatically.",
+    "items": [],
+    "scanError": "DuckDuckGo bot-detection challenge on all 10 queries. No results retrieved."
+  },
+  {
+    "id": "2026-05-14T03:42:00.000Z",
+    "timestamp": "2026-05-14T03:42:00.000Z",
+    "sentiment": { "positive": 48, "neutral": 37, "negative": 15 },
+    "sources": {
+      "reddit_rivian":  { "found": 0, "sentiment": null },
+      "reddit_ev":      { "found": 2, "sentiment": "neutral" },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 5, "sentiment": "positive" },
+      "news":           { "found": 3, "sentiment": "positive" },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "themes": [
+      "Gen 1 vs Gen 2 autonomy platform comparison (Driver+ vs RAP)",
+      "Autonomy+ subscription pricing ($2,500 one-time / $49.99/month)",
+      "In-house autonomy silicon and LiDAR roadmap for 2026"
+    ],
+    "competitiveContext": "Rivian's Autonomy+ is positioned directly against Tesla FSD with a lower $2,500 one-time price, though Rivian's platform is earlier in its rollout compared to Tesla's more mature FSD and Waymo's established robotaxi service.",
+    "summary": "Rivian autonomy discussion is active on owner forums, centered on the Gen 1/Gen 2 platform split and upcoming Autonomy+ subscription pricing. Press coverage is upbeat, highlighting Rivian's in-house chip development and LiDAR plans as differentiators.",
+    "fullReport": "🔵 *Rivian Autonomy Pulse*\n_May 13, 2026 — 8:42 PM PT_\n\n*📊 Sentiment Snapshot*\nPositive: 48% | Neutral: 37% | Negative: 15%\n_Rivian's autonomy roadmap is generating genuine enthusiasm among owners, tempered by some caution around subscription costs and the Gen 1/Gen 2 feature gap._\n\n*📣 Reddit*\n• [r/electricvehicles] *Honest opinion about Rivian* — General community discussion; autonomy features mentioned as a key differentiator but older Gen 1 owners wary about Driver+ being siloed vs. the new RAP platform on Gen 2.\n  🔗 https://www.reddit.com/r/electricvehicles/comments/10b071m/honest_opinion_about_rivian/\n\n*🏁 RivianForums*\n• *Autonomy+ / Driver+ / Universal Hands-Free comparison test Gen 1 vs Gen 2* — Owner ran a back-to-back real-world comparison on the same road with a loaner 2024 R1T and their own 2025 R1S. Hands-free behavior and smoothness noticeably improved on Gen 2 RAP.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-universal-hands-free-comparison-test-on-gen-1-vs-gen-2.57335/\n• *Confirmed: Driver+ is obsolete — RAP is exclusive to Gen 2* — Rivian FAQ clarifies the platform split; community broadly neutral-to-accepting but Gen 1 owners express concern about future feature parity.\n  🔗 https://www.rivianforums.com/forum/threads/confirmed-driver-is-obsolete-and-rivian-autonomy-platform-is-exclusive-to-gen-2-rivian-faq.28710/\n• *Autonomy+ / Driver+ Subscription — How Much Will You Pay?* — Subscription pricing thread as the free trial window closes; community divided on whether $49.99/month or $2,500 one-time is reasonable.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-subscription-how-much-will-you-pay.52110/\n\n*📰 News & Press*\n• *Rivian's New $2,500 Autonomy+ Package Undercuts Tesla FSD* (Autoblog) — Rivian unveiled in-house self-driving silicon and LiDAR integration plans; Autonomy+ subscription launches 2026 with hands-free driving at a lower price than Tesla FSD.\n  🔗 https://www.autoblog.com/news/rivian-self-driving-autonomy-and-ai\n• *Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Assistant* (Edmunds) — Deep dive into Rivian's future hands-free driving roadmap, new AI assistant, and the company's ambitious autonomy timeline.\n  🔗 https://www.edmunds.com/car-news/rivian-autonomy-lidar-ai.html\n• *Rivian Autonomy & AI Day — Lidar, Hands-Free Driving, Rivian Assistant* (RivianForums) — Rivian's official event coverage; Autonomy+ priced at $2,500 one-time or $49.99/month, launching early 2026.\n  🔗 https://www.rivianforums.com/rivian-autonomy-ai-day-is-here-watch-livestream/\n\n*📌 Key Themes*\n1. Gen 1 vs Gen 2 autonomy platform split (Driver+ vs Rivian Autonomy Platform)\n2. Subscription pricing debate ($2,500 one-time or $49.99/month)\n3. In-house silicon + LiDAR roadmap positioning Rivian as a long-term autonomy player",
+    "items": [
+      {
+        "title": "Autonomy+ / Driver+ / Universal Hands-free comparison test on Gen 1 vs Gen 2",
+        "url": "https://www.rivianforums.com/forum/threads/autonomy-driver-universal-hands-free-comparison-test-on-gen-1-vs-gen-2.57335/",
+        "source": "rivianforums",
+        "sentiment": "positive",
+        "publishedAt": null,
+        "snippet": "An owner ran a back-to-back comparison of Autonomy+/Driver+ on the same road stretch using a loaner 2024 R1T (Gen 1) and their own 2025 R1S (Gen 2). The hands-free experience on Gen 2 RAP was noticeably smoother and more capable. Detailed real-world test with community engagement."
+      },
+      {
+        "title": "What is the Difference Between Driver+ and Rivian Autonomy Platform — Clarifying Terminology",
+        "url": "https://www.rivianforums.com/forum/threads/what-is-the-difference-between-driver-and-rivian-autonomy-platform-clarifying-terminology-and-naming.43357/",
+        "source": "rivianforums",
+        "sentiment": "neutral",
+        "publishedAt": null,
+        "snippet": "Community member attempts to clear up the confusing array of Rivian autonomy terms (Driver+, RAP, RAP+). Clarifies that Gen 1 keeps Driver+ while Gen 2 gets the new Rivian Autonomy Platform, with the door open for future feature divergence. High informational value thread."
+      },
+      {
+        "title": "Confirmed: Driver+ is obsolete and Rivian Autonomy Platform+ is exclusive to Gen 2",
+        "url": "https://www.rivianforums.com/forum/threads/confirmed-driver-is-obsolete-and-rivian-autonomy-platform-is-exclusive-to-gen-2-rivian-faq.28710/",
+        "source": "rivianforums",
+        "sentiment": "neutral",
+        "publishedAt": null,
+        "snippet": "Rivian's FAQ confirmed the Gen 1/Gen 2 platform split, with Driver+ staying on older vehicles and RAP/RAP+ exclusive to Gen 2. Gen 1 owners expressed concern about long-term support, though free features currently have parity."
+      },
+      {
+        "title": "Autonomy+ / Driver+ Subscription How Much Will You Pay?",
+        "url": "https://www.rivianforums.com/forum/threads/autonomy-driver-subscription-how-much-will-you-pay.52110/",
+        "source": "rivianforums",
+        "sentiment": "neutral",
+        "publishedAt": null,
+        "snippet": "With the free trial window closing in late 2025, owners debated whether $49.99/month or $2,500 one-time is fair. Community split between those who see value in hands-free driving and those skeptical of paying for features they've had for free."
+      },
+      {
+        "title": "Rivian's New $2,500 Autonomy+ Package Undercuts Tesla FSD",
+        "url": "https://www.autoblog.com/news/rivian-self-driving-autonomy-and-ai",
+        "source": "news",
+        "sentiment": "positive",
+        "publishedAt": null,
+        "snippet": "Autoblog reports on Rivian's Autonomy & AI Day reveal: in-house self-driving silicon, LiDAR integration for future models, and the Autonomy+ subscription launching in 2026. The $2,500 one-time price is framed as undercutting Tesla FSD's cost, generating positive press coverage."
+      },
+      {
+        "title": "Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Assistant",
+        "url": "https://www.edmunds.com/car-news/rivian-autonomy-lidar-ai.html",
+        "source": "news",
+        "sentiment": "positive",
+        "publishedAt": null,
+        "snippet": "Edmunds provides a detailed look at Rivian's autonomy roadmap including proprietary AI chips, LiDAR sensor integration, and a new in-car AI assistant. Coverage is enthusiastic about Rivian's vertical integration approach and long-term hands-free driving ambitions."
+      },
+      {
+        "title": "Rivian Autonomy & AI Day! Lidar, Hands-Free Driving, Rivian Assistant — Livestream Coverage",
+        "url": "https://www.rivianforums.com/rivian-autonomy-ai-day-is-here-watch-livestream/",
+        "source": "rivianforums",
+        "sentiment": "positive",
+        "publishedAt": null,
+        "snippet": "RivianForums covered Rivian's official Autonomy & AI Day event. Autonomy+ subscription announced at $2,500 (one-time) or $49.99/month, launching early 2026. Community reception was largely excited, with forum members praising Rivian's commitment to building autonomy in-house."
+      },
+      {
+        "title": "Honest opinion about Rivian",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/10b071m/honest_opinion_about_rivian/",
+        "source": "reddit_ev",
+        "sentiment": "neutral",
+        "publishedAt": null,
+        "snippet": "r/electricvehicles discussion on Rivian's overall value proposition as an EV. Autonomy features are mentioned among differentiators, though the thread predates the Gen 2 RAP announcement. Mixed but generally positive community sentiment about Rivian's direction."
+      }
+    ]
+  }
+]
