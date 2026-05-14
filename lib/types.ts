@@ -1,5 +1,13 @@
 export type SentimentLabel = 'positive' | 'neutral' | 'negative';
 
+export interface ReportItem {
+  title: string;
+  url: string;
+  source: string; // SourceKey
+  sentiment: SentimentLabel;
+  snippet: string;
+}
+
 export interface SourceData {
   found: number;
   sentiment: SentimentLabel | null;
@@ -27,6 +35,7 @@ export interface Report {
   competitiveContext: string;
   summary: string;
   fullReport: string;
+  items: ReportItem[];
 }
 
 export type SourceKey = keyof Report['sources'];

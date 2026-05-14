@@ -81,22 +81,68 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
 
       {/* Expanded full report */}
       {expanded && (
-        <div className="px-3 pb-4 pt-1">
-          <div className="bg-[#0A0A0A] border border-[#1F1F1F] rounded p-4">
-            <div className="text-[#6B7280] text-[10px] font-mono mb-2 uppercase tracking-wider">
-              Full Report
-            </div>
-            <pre className="text-[#A1A1AA] text-xs font-mono whitespace-pre-wrap leading-relaxed">
-              {report.fullReport}
-            </pre>
-            {report.competitiveContext && (
-              <div className="mt-3 pt-3 border-t border-[#1F1F1F]">
-                <div className="text-[#6B7280] text-[10px] font-mono uppercase tracking-wider mb-1">
-                  Competitive Context
-                </div>
-                <p className="text-[#A1A1AA] text-xs leading-relaxed">{report.competitiveContext}</p>
+        <div className="px-3 pb-4 pt-1 space-y-3">
+
+          {/* Source items with hyperlinks */}
+          {report.items?.length > 0 && (
+            <div className="bg-[#0A0A0A] border border-[#1F1F1F] rounded overflow-hidden">
+              <div className="px-4 py-2 border-b border-[#1F1F1F] bg-[#0D1117] flex items-center justify-between">
+                <span className="text-[#6B7280] text-[10px] font-mono uppercase tracking-wider">Source Material</span>
+                <span className="text-[#374151] text-[10px] font-mono">{report.items.length} items · click to verify</span>
               </div>
-            )}
+              <div className="divide-y divide-[#1F1F1F]">
+                {report.items.map((item, i) => (
+                  <div key={i} className="px-4 py-3 hover:bg-[#111111] transition-colors">
+                    <div className="flex items-start gap-3">
+                      <div
+                        className="w-1 rounded-full mt-1 flex-shrink-0 self-stretch min-h-[32px]"
+                        style={{ backgroundColor:
+                          item.sentiment === 'positive' ? '#22C55E' :
+                          item.sentiment === 'negative' ? '#EF4444' : '#6B7280'
+                        }}
+                      />
+                      <div className="flex-1 min-w-0">
+                        <div className="flex items-center gap-2 mb-1 flex-wrap">
+                          <span className="text-[10px] font-mono px-1.5 py-0.5 rounded bg-[#1F1F1F] text-[#9CA3AF]">
+                            {item.source}
+                          </span>
+                          <span className="text-[10px] font-mono" style={{
+                            color: item.sentiment === 'positive' ? '#22C55E' :
+                                   item.sentiment === 'negative' ? '#EF4444' : '#6B7280'
+                          }}>
+                            {item.sentiment}
+                          </span>
+                        </div>
+                        <a
+                          href={item.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-[#3B82F6] text-xs font-semibold hover:text-[#60A5FA] hover:underline transition-colors block leading-snug mb-1"
+                        >
+                          {item.title} ↗
+                        </a>
+                        <p className="text-[#6B7280] text-[11px] leading-relaxed">{item.snippet}</p>
+                        <span className="text-[#374151] text-[10px] font-mono break-all">{item.url}</span>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Competitive context */}
+          {report.competitiveContext && (
+            <div className="bg-[#0A0A0A] border border-[#1F1F1F] rounded p-4">
+              <div className="text-[#6B7280] text-[10px] font-mono uppercase tracking-wider mb-1">Competitive Context</div>
+              <p className="text-[#A1A1AA] text-xs leading-relaxed">{report.competitiveContext}</p>
+            </div>
+          )}
+
+          {/* Full text */}
+          <div className="bg-[#0A0A0A] border border-[#1F1F1F] rounded p-4">
+            <div className="text-[#6B7280] text-[10px] font-mono mb-2 uppercase tracking-wider">Full Summary</div>
+            <pre className="text-[#A1A1AA] text-xs font-mono whitespace-pre-wrap leading-relaxed">{report.fullReport}</pre>
           </div>
         </div>
       )}
