@@ -1,0 +1,192 @@
+[
+  {
+    "id": "2026-05-13T09:00:00Z",
+    "timestamp": "2026-05-13T09:00:00Z",
+    "sentiment": { "positive": 62, "neutral": 24, "negative": 14 },
+    "sources": {
+      "reddit_rivian":  { "found": 47, "sentiment": "positive" },
+      "reddit_ev":      { "found": 31, "sentiment": "positive" },
+      "reddit_sdc":     { "found": 18, "sentiment": "neutral" },
+      "rivianforums":   { "found": 22, "sentiment": "positive" },
+      "news":           { "found": 9,  "sentiment": "positive" },
+      "twitter":        { "found": 83, "sentiment": "positive" },
+      "youtube":        { "found": 14, "sentiment": "neutral" },
+      "hackernews":     { "found": 7,  "sentiment": "neutral" }
+    },
+    "themes": ["ADAS highway assist", "OTA update v2.8", "Full self-drive beta"],
+    "competitiveContext": "Tesla FSD v13 rollout dominating SDC discourse, but Rivian's new ADAS claims are drawing favorable comparison threads.",
+    "summary": "Rivian autonomy sentiment strongly positive this morning driven by social buzz around the v2.8 OTA highway assist update and early access driver reports.",
+    "fullReport": "Morning scan (2026-05-13 09:00 UTC)\n\nOverall sentiment trending strongly positive (+62%). The dominant signal is excitement around the v2.8 OTA update which introduced enhanced highway lane-centering and adaptive cruise. Reddit/Rivian saw 47 posts with overwhelmingly positive framing — top post: 'Highway assist on the R1T is genuinely impressive now' (1.2k upvotes). Twitter volume at 83 posts, mix of owner reports and tech media amplification. HackerNews thread on autonomy stack architecture drew moderate engagement with mostly neutral technical discussion. No significant negative spikes; 14% negative is driven by isolated complaints about false-positive braking on rural two-lane roads. Competitive note: Tesla FSD v13 chatter is heavy but not cannibalizing Rivian conversation — if anything, it's elevating the category."
+  },
+  {
+    "id": "2026-05-12T21:00:00Z",
+    "timestamp": "2026-05-12T21:00:00Z",
+    "sentiment": { "positive": 55, "neutral": 29, "negative": 16 },
+    "sources": {
+      "reddit_rivian":  { "found": 39, "sentiment": "positive" },
+      "reddit_ev":      { "found": 24, "sentiment": "neutral" },
+      "reddit_sdc":     { "found": 12, "sentiment": "neutral" },
+      "rivianforums":   { "found": 18, "sentiment": "positive" },
+      "news":           { "found": 6,  "sentiment": "neutral" },
+      "twitter":        { "found": 71, "sentiment": "positive" },
+      "youtube":        { "found": 11, "sentiment": "positive" },
+      "hackernews":     { "found": 4,  "sentiment": "neutral" }
+    },
+    "themes": ["OTA update v2.8", "lane centering", "owner testimonials"],
+    "competitiveContext": "Waymo's SF expansion news briefly spiked SDC sentiment; Rivian remains in the consumer ADAS frame rather than robotaxi comparison.",
+    "summary": "Evening scan shows sustained positive momentum from the v2.8 release; YouTube creator reviews beginning to amplify reach beyond core community.",
+    "fullReport": "Evening scan (2026-05-12 21:00 UTC)\n\nSentiment holding positive at 55% as the day winds down. YouTube activity picked up with two creator reviews posted (combined ~45k views at scan time) — both favorable, focusing on the smoothness of the highway assist. Rivian Forums activity high with a dedicated v2.8 megathread at 210 replies. Reddit/EV went neutral as the Waymo SF expansion story temporarily dominated the subreddit. Twitter still strong. Negative feedback cluster around 'auto-steer disengagement on merge' — a known edge case that Rivian acknowledged in the patch notes. News coverage minimal — one EV trade pub article, neutral in tone."
+  },
+  {
+    "id": "2026-05-12T09:00:00Z",
+    "timestamp": "2026-05-12T09:00:00Z",
+    "sentiment": { "positive": 44, "neutral": 33, "negative": 23 },
+    "sources": {
+      "reddit_rivian":  { "found": 28, "sentiment": "neutral" },
+      "reddit_ev":      { "found": 19, "sentiment": "negative" },
+      "reddit_sdc":     { "found": 22, "sentiment": "negative" },
+      "rivianforums":   { "found": 15, "sentiment": "neutral" },
+      "news":           { "found": 11, "sentiment": "negative" },
+      "twitter":        { "found": 56, "sentiment": "neutral" },
+      "youtube":        { "found": 8,  "sentiment": null },
+      "hackernews":     { "found": 3,  "sentiment": "neutral" }
+    },
+    "themes": ["NHTSA inquiry", "false positive braking", "competitor comparison"],
+    "competitiveContext": "Bloomberg published a piece comparing Rivian ADAS to GM's Super Cruise unfavorably on highway performance metrics, amplifying negative coverage.",
+    "summary": "Sentiment dipped noticeably following an NHTSA preliminary inquiry announcement and critical media coverage comparing Rivian's ADAS to incumbent systems.",
+    "fullReport": "Morning scan (2026-05-12 09:00 UTC)\n\nA tough morning. Sentiment dropped to 44% positive / 23% negative — the worst reading in recent history. The catalyst: NHTSA opened a preliminary inquiry into Rivian's automatic emergency braking system following 12 consumer complaints. News coverage was swift and moderately negative. Reddit/SDC framing was particularly harsh, drawing comparisons to early Tesla Autopilot incidents. Reddit/EV also negative with a top post titled 'Is Rivian's ADAS ready for prime time?' accumulating 800 upvotes with critical comment thread. Twitter held more neutral — many posts were wait-and-see. Forums stayed measured with moderators pinning an official Rivian statement. YouTube had no relevant new content at scan time."
+  },
+  {
+    "id": "2026-05-11T21:00:00Z",
+    "timestamp": "2026-05-11T21:00:00Z",
+    "sentiment": { "positive": 51, "neutral": 31, "negative": 18 },
+    "sources": {
+      "reddit_rivian":  { "found": 35, "sentiment": "positive" },
+      "reddit_ev":      { "found": 22, "sentiment": "neutral" },
+      "reddit_sdc":     { "found": 14, "sentiment": "neutral" },
+      "rivianforums":   { "found": 19, "sentiment": "positive" },
+      "news":           { "found": 5,  "sentiment": "positive" },
+      "twitter":        { "found": 64, "sentiment": "positive" },
+      "youtube":        { "found": 12, "sentiment": "positive" },
+      "hackernews":     { "found": 5,  "sentiment": "neutral" }
+    },
+    "themes": ["pre-release v2.8 hype", "fleet learning", "OTA roadmap"],
+    "competitiveContext": "Rivian's blog post on fleet learning architecture drew favorable comparisons to Tesla's FSD approach on HackerNews and LinkedIn.",
+    "summary": "Pre-release anticipation for v2.8 OTA update building across channels, with Rivian's fleet learning blog post driving technical credibility.",
+    "fullReport": "Evening scan (2026-05-11 21:00 UTC)\n\nSentiment solid at 51% positive. The day was defined by Rivian's blog post on their fleet learning infrastructure — published at 14:00 UTC, it generated strong engagement on HackerNews (178 points, 94 comments) and LinkedIn. Technical audience response was favorable, noting the novel approach to edge-case scenario collection. Reddit/Rivian excitement about the upcoming v2.8 release (leaked changelog circulating). Twitter dominated by owner anticipation posts. YouTube creator 'EVtech_daily' posted a preview video analyzing the blog post, 28k views by scan time."
+  },
+  {
+    "id": "2026-05-11T09:00:00Z",
+    "timestamp": "2026-05-11T09:00:00Z",
+    "sentiment": { "positive": 58, "neutral": 27, "negative": 15 },
+    "sources": {
+      "reddit_rivian":  { "found": 42, "sentiment": "positive" },
+      "reddit_ev":      { "found": 27, "sentiment": "positive" },
+      "reddit_sdc":     { "found": 16, "sentiment": "positive" },
+      "rivianforums":   { "found": 24, "sentiment": "positive" },
+      "news":           { "found": 8,  "sentiment": "positive" },
+      "twitter":        { "found": 77, "sentiment": "positive" },
+      "youtube":        { "found": 9,  "sentiment": "neutral" },
+      "hackernews":     { "found": 6,  "sentiment": "neutral" }
+    },
+    "themes": ["Rivian autonomy roadmap", "R2 ADAS specs", "software-defined vehicle"],
+    "competitiveContext": "Rivian CEO interview on ADAS roadmap got widespread positive pickup; frames Rivian as 'thoughtful' vs Tesla's 'move fast' approach.",
+    "summary": "Strong positive sentiment driven by CEO media tour discussing Rivian's ADAS philosophy and R2 autonomy feature expectations.",
+    "fullReport": "Morning scan (2026-05-11 09:00 UTC)\n\nExcellent morning reading. 58% positive, 15% negative. RJ Scaringe's interview with The Verge published overnight — the headline 'Rivian is building autonomy the right way' resonated strongly across all channels. Reddit sentiment strongly positive across all three monitored subreddits. Twitter amplified the Verge piece widely. Forum discussion focused on R2 ADAS expectations and whether the R1 would receive full feature parity. News coverage overwhelmingly positive — Electrek, InsideEVs, CleanTechnica all picked up the story with favorable framing."
+  },
+  {
+    "id": "2026-05-10T21:00:00Z",
+    "timestamp": "2026-05-10T21:00:00Z",
+    "sentiment": { "positive": 48, "neutral": 36, "negative": 16 },
+    "sources": {
+      "reddit_rivian":  { "found": 31, "sentiment": "neutral" },
+      "reddit_ev":      { "found": 20, "sentiment": "neutral" },
+      "reddit_sdc":     { "found": 11, "sentiment": "positive" },
+      "rivianforums":   { "found": 17, "sentiment": "positive" },
+      "news":           { "found": 4,  "sentiment": "neutral" },
+      "twitter":        { "found": 59, "sentiment": "positive" },
+      "youtube":        { "found": 15, "sentiment": "positive" },
+      "hackernews":     { "found": 2,  "sentiment": "neutral" }
+    },
+    "themes": ["driver assist testimonials", "R1T long haul", "hands-free driving"],
+    "competitiveContext": "Ford BlueCruise 1.3 reviews dropping this week; some cross-shopping discussion but Rivian owners largely uninterested in switching.",
+    "summary": "Quiet evening with organic positive content from owner testimonials and YouTube road trip content; no major news events driving the cycle.",
+    "fullReport": "Evening scan (2026-05-10 21:00 UTC)\n\nA quiet but positive evening. No major news events. Organic content dominated — several YouTube road trip videos featuring extended hands-free highway driving in R1T units. Reddit/Rivian had a popular 'my 2,000 mile road trip with ADAS on' post (900 upvotes). Forums discussion about edge cases and how to give feedback to Rivian. Twitter mix of owner posts and tech enthusiast reposts. Ford BlueCruise comparison threads present but low engagement — Rivian community not particularly interested in the comparison. Overall reading: healthy baseline sentiment."
+  },
+  {
+    "id": "2026-05-10T09:00:00Z",
+    "timestamp": "2026-05-10T09:00:00Z",
+    "sentiment": { "positive": 53, "neutral": 28, "negative": 19 },
+    "sources": {
+      "reddit_rivian":  { "found": 38, "sentiment": "positive" },
+      "reddit_ev":      { "found": 25, "sentiment": "neutral" },
+      "reddit_sdc":     { "found": 20, "sentiment": "neutral" },
+      "rivianforums":   { "found": 16, "sentiment": "positive" },
+      "news":           { "found": 7,  "sentiment": "neutral" },
+      "twitter":        { "found": 68, "sentiment": "positive" },
+      "youtube":        { "found": 10, "sentiment": "positive" },
+      "hackernews":     { "found": 8,  "sentiment": "negative" }
+    },
+    "themes": ["autonomy safety record", "sensor redundancy", "lidar debate"],
+    "competitiveContext": "HackerNews thread sparked by a critical paper on camera-only ADAS systems drew skepticism toward non-lidar approaches, briefly touching Rivian.",
+    "summary": "Mixed morning with positive mainstream sentiment offset by technical skepticism on HackerNews around Rivian's camera-forward sensor approach.",
+    "fullReport": "Morning scan (2026-05-10 09:00 UTC)\n\nMixed signals this morning. Mainstream channels (Reddit/Rivian, Twitter) remain solidly positive. However, HackerNews surfaced a link to an academic paper arguing camera-only ADAS is fundamentally limited — comment thread (8 relevant posts captured) was critical of Rivian's sensor approach, calling it 'Tesla's mistake but slower.' This narrative has not yet crossed over to mainstream EV channels. News cycle neutral with no major stories. YouTube positive with tutorial-style content about getting the most from driver assist features. Forums discussing sensor redundancy — mostly curious rather than alarmed tone."
+  },
+  {
+    "id": "2026-05-09T21:00:00Z",
+    "timestamp": "2026-05-09T21:00:00Z",
+    "sentiment": { "positive": 60, "neutral": 26, "negative": 14 },
+    "sources": {
+      "reddit_rivian":  { "found": 44, "sentiment": "positive" },
+      "reddit_ev":      { "found": 29, "sentiment": "positive" },
+      "reddit_sdc":     { "found": 15, "sentiment": "positive" },
+      "rivianforums":   { "found": 21, "sentiment": "positive" },
+      "news":           { "found": 10, "sentiment": "positive" },
+      "twitter":        { "found": 88, "sentiment": "positive" },
+      "youtube":        { "found": 17, "sentiment": "positive" },
+      "hackernews":     { "found": 5,  "sentiment": "neutral" }
+    },
+    "themes": ["autonomy demo event", "press coverage", "investor confidence"],
+    "competitiveContext": "Rivian's private autonomy demo for press and investors widely covered; no competitor managed comparable mindshare this week.",
+    "summary": "Peak positive sentiment of the week driven by Rivian's closed autonomy demo event coverage and strong investor-community reaction.",
+    "fullReport": "Evening scan (2026-05-09 21:00 UTC)\n\nBest reading of the tracked period: 60% positive, 14% negative. Today's private autonomy demo event for select press and investors generated enormous positive coverage. Key outlets (TechCrunch, Ars Technica, The Verge, Electrek) all published glowing first-person accounts of the demonstration. Twitter volume at 88 — highest in period — driven by journalist posts from the event. Reddit across all three subs positive. YouTube creators who attended posted same-day reaction videos (combined 200k+ views). Investor reaction on Twitter notably optimistic, with several analysts posting bullish takes. Forums buzzing with owner pride. This is the kind of earned media cycle that represents genuine brand-building momentum."
+  },
+  {
+    "id": "2026-05-09T09:00:00Z",
+    "timestamp": "2026-05-09T09:00:00Z",
+    "sentiment": { "positive": 49, "neutral": 34, "negative": 17 },
+    "sources": {
+      "reddit_rivian":  { "found": 33, "sentiment": "positive" },
+      "reddit_ev":      { "found": 21, "sentiment": "neutral" },
+      "reddit_sdc":     { "found": 13, "sentiment": "neutral" },
+      "rivianforums":   { "found": 14, "sentiment": "positive" },
+      "news":           { "found": 5,  "sentiment": "neutral" },
+      "twitter":        { "found": 61, "sentiment": "positive" },
+      "youtube":        { "found": 7,  "sentiment": "neutral" },
+      "hackernews":     { "found": 3,  "sentiment": "neutral" }
+    },
+    "themes": ["demo day anticipation", "autonomy timeline speculation", "R2 launch window"],
+    "competitiveContext": "Pre-event buzz has Rivian trending alongside Tesla and Waymo in autonomous vehicle news aggregators for the first time.",
+    "summary": "Measured positive baseline morning with growing anticipation for the afternoon autonomy demo event and R2 timeline speculation threads.",
+    "fullReport": "Morning scan (2026-05-09 09:00 UTC)\n\nBaseline positive scan ahead of the afternoon demo event. Most channels in anticipation mode — Reddit threads speculating on what will be shown, Twitter journalists posting pre-event notes. Forums thread titled 'What are you hoping to see at the demo?' at 150 replies. YouTube quiet — creators saving content for post-event coverage. News cycle light with one pre-event preview article from Electrek. HackerNews briefly had a 'Rivian autonomy' thread on the front page, neutral in tone. Negative signals mostly impatient criticism about timeline delays compared to Tesla."
+  },
+  {
+    "id": "2026-05-08T21:00:00Z",
+    "timestamp": "2026-05-08T21:00:00Z",
+    "sentiment": { "positive": 45, "neutral": 35, "negative": 20 },
+    "sources": {
+      "reddit_rivian":  { "found": 29, "sentiment": "neutral" },
+      "reddit_ev":      { "found": 18, "sentiment": "negative" },
+      "reddit_sdc":     { "found": 16, "sentiment": "negative" },
+      "rivianforums":   { "found": 13, "sentiment": "neutral" },
+      "news":           { "found": 8,  "sentiment": "negative" },
+      "twitter":        { "found": 52, "sentiment": "neutral" },
+      "youtube":        { "found": 6,  "sentiment": "neutral" },
+      "hackernews":     { "found": 4,  "sentiment": "negative" }
+    },
+    "themes": ["ADAS recall concerns", "competitor advances", "safety criticism"],
+    "competitiveContext": "Waymo's robotaxi expansion and Tesla FSD milestone announcements dominated the autonomy news cycle, making Rivian's offering look incremental.",
+    "summary": "Weakest sentiment of the tracked period with elevated negative signals driven by competitor milestone announcements and residual safety concerns.",
+    "fullReport": "Evening scan (2026-05-08 21:00 UTC)\n\nLowest positive reading of the period at 45%, negative elevated at 20%. A tough evening driven by competitor news overshadowing Rivian. Waymo announced 100k weekly rides milestone and Tesla's FSD 1M-mile safety stats generated significant positive press for both — by contrast, Rivian's incremental ADAS updates felt small. Reddit/EV and Reddit/SDC both ran active comparison threads unfavorable to Rivian. News coverage picked up a critical piece from a legacy auto trade publication questioning Rivian's ADAS development pace. HackerNews had a thread linking a critical analysis of Rivian's autonomy hire pace. Rivian Forums held steady — core community not rattled. Twitter neutral-to-mixed. The context: this dip appears competitor-driven rather than Rivian-specific; pending demo event should help reframe."
+  }
+]
