@@ -1,5 +1,135 @@
 [
   {
+    "id": "2026-05-15T04:13:00.000Z",
+    "timestamp": "2026-05-15T04:13:00.000Z",
+    "sentiment": { "positive": 60, "neutral": 30, "negative": 10 },
+    "sources": {
+      "reddit_rivian":  { "found": 1, "sentiment": "positive" },
+      "reddit_ev":      { "found": 0, "sentiment": null },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 0, "sentiment": null },
+      "news":           { "found": 2, "sentiment": "positive" },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "themes": [
+      "Driver assist praised for real-world long-distance highway performance",
+      "Hey Rivian AI assistant now rolling out to all Gen 1 and Gen 2 R1 owners",
+      "In-house lidar development as cornerstone of full autonomous driving stack"
+    ],
+    "competitiveContext": "Rivian's in-house lidar push and AI assistant rollout signal continued autonomy ambitions, but no direct Tesla FSD or Waymo comparison content appeared in fresh results this cycle.",
+    "summary": "Low activity cycle — 3 items found. A fresh r/Rivian post praised driver assist on a 500-mile road trip, while Electrek covered the Hey Rivian AI assistant rollout (May 12) and Rivian's in-house lidar plans (May 5). Sentiment mildly positive; forums and HackerNews quiet.",
+    "fullReport": "⚠️ *Low activity cycle — 3 items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 9:13 PM PT — direct source scan_\n\n*📊 Sentiment Snapshot*\nPositive: 60% | Neutral: 30% | Negative: 10%\n_Mild positivity driven by a real-world driver assist success story and the Hey Rivian AI rollout. No negative signals detected._\n\n*📣 Reddit*\n• [r/Rivian] *Amazing energy efficiency* — R1S owner drove 500+ miles Park City→Tahoe using driver assist \"the whole way which worked very well,\" achieving 3.5 mi/kWh. Real-world ADAS validation. (3 pts)\n  🔗 https://www.reddit.com/r/Rivian/comments/1tdix31/amazing_energy_efficiency/\n\n*📰 News & Press*\n• *Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control* (Electrek, May 12) — Rivian's new AI-powered voice assistant is rolling out to all Gen 1 and Gen 2 R1 owners, bringing full vehicle control via voice — a meaningful step in Rivian's broader AI/autonomy integration story.\n  🔗 https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/\n• *Rivian mulls making its own lidar as it builds full autonomous driving stack* (Electrek, May 5) — Rivian is considering manufacturing its own lidar sensors in the US, potentially through a Chinese partnership, as part of building a complete in-house autonomous driving stack. _(10 days old — included per lenient freshness policy)_\n  🔗 https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/\n\n*🐦 Twitter/X*\n_Nothing found (Nitter returned empty)_\n\n*💻 HackerNews*\n_Nothing found within 48h window_\n\n*🏁 Competitive Context*\n_Rivian's in-house lidar push and AI assistant rollout signal continued autonomy ambitions, but no direct Tesla FSD or Waymo comparison content appeared in fresh results this cycle._\n\n*📌 Key Themes*\n1. Driver assist performing reliably on real-world long-distance highway trips\n2. Hey Rivian AI assistant now live across all R1 vehicles\n3. In-house lidar development as foundation of full autonomous stack",
+    "items": [
+      {
+        "title": "Amazing energy efficiency",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tdix31/amazing_energy_efficiency/",
+        "source": "reddit_rivian",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-15",
+        "snippet": "R1S owner drove 500+ miles from Park City UT to Tahoe on I-80, using driver assist the whole way which 'worked very well.' Achieved 3.5 mi/kWh average. Real-world validation of Rivian's driver assistance system on a long highway trip with gear, a dog, and two passengers."
+      },
+      {
+        "title": "Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control",
+        "url": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
+        "source": "news",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-12",
+        "snippet": "Rivian is rolling out its new AI-powered voice assistant to all Gen 1 and Gen 2 R1 owners as part of a software update. The Hey Rivian assistant enables full vehicle control via voice commands, representing a significant step in Rivian's AI and autonomy platform integration."
+      },
+      {
+        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
+        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
+        "source": "news",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-05",
+        "snippet": "Rivian is considering manufacturing its own lidar sensors in the United States, potentially through a partnership with Chinese firms, as part of its effort to build a complete in-house autonomous driving stack. The move reflects Rivian's ambition to control the full ADAS hardware and software pipeline."
+      }
+    ]
+  },
+  {
+    "id": "2026-05-15T04:07:00.000Z",
+    "timestamp": "2026-05-15T04:07:00.000Z",
+    "sentiment": { "positive": 0, "neutral": 0, "negative": 0 },
+    "sources": {
+      "reddit_rivian":  { "found": 0, "sentiment": null },
+      "reddit_ev":      { "found": 0, "sentiment": null },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 0, "sentiment": null },
+      "news":           { "found": 0, "sentiment": null },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "themes": [],
+    "competitiveContext": "No fresh competitive content confirmed within 24h. Most recent explicitly dated results referenced Reuters (April 24, 2026) and HackerNews items from ~5 months ago — all excluded.",
+    "summary": "All 10 queries ran successfully via Tavily with freshness=day. Results were returned across all sources but no items carried visible publish timestamps confirming last-24h freshness. HackerNews results explicitly showed '5 months ago'; other results lacked dates. Zero confirmed fresh items this cycle.",
+    "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 10:07 PM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 queries ran via Tavily with freshness=day. Results returned across all sources but none carried visible publish timestamps confirming last-24h freshness. HN items explicitly dated ~5 months ago; others had no visible dates. All excluded per freshness policy._",
+    "items": []
+  },
+  {
+    "id": "2026-05-15T04:03:00.000Z",
+    "timestamp": "2026-05-15T04:03:00.000Z",
+    "sentiment": { "positive": 0, "neutral": 0, "negative": 0 },
+    "sources": {
+      "reddit_rivian":  { "found": 0, "sentiment": null },
+      "reddit_ev":      { "found": 0, "sentiment": null },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 0, "sentiment": null },
+      "news":           { "found": 0, "sentiment": null },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "themes": [],
+    "competitiveContext": "No fresh competitive content confirmed within 24h. Most recent visible dated items were Bloomberg (Apr 22) and Reuters (Apr 24) — both weeks old.",
+    "summary": "All 10 Tavily queries ran successfully with freshness=day. No results carried visible publish timestamps within the last 24 hours. The only explicit date found was 'r/electricvehicles 27d ago' on an Uber/Rivian robotaxi post (~April 17). Zero items confirmed fresh this cycle.",
+    "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 10:03 PM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 queries ran via Tavily with freshness=day. Results were returned but no visible publish timestamps confirmed last-24h freshness. Most recent explicitly dated item: Bloomberg Apr 22, Reuters Apr 24. All excluded per freshness policy._",
+    "items": []
+  },
+  {
+    "id": "2026-05-14T16:46:00.000Z",
+    "timestamp": "2026-05-14T16:46:00.000Z",
+    "sentiment": { "positive": 0, "neutral": 0, "negative": 0 },
+    "sources": {
+      "reddit_rivian":  { "found": 0, "sentiment": null },
+      "reddit_ev":      { "found": 0, "sentiment": null },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 0, "sentiment": null },
+      "news":           { "found": 0, "sentiment": null },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "themes": [],
+    "competitiveContext": "No fresh competitive content confirmed within 24h — most visible dated results were from Bloomberg (Apr 22) and Reuters (Apr 24), both weeks old.",
+    "summary": "All 10 queries ran successfully via Tavily with freshness=day, but no results carried visible publish timestamps within the last 24 hours. The only explicit date found was '27d ago' on an r/electricvehicles Uber/Rivian robotaxi post. Zero items confirmed fresh this cycle.",
+    "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 9:46 AM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 search queries ran cleanly via Tavily. Results were returned across all sources but none carried visible publish timestamps confirming last-24h freshness. Most recent visible date found: Bloomberg Apr 22, Reuters Apr 24. Excluded per freshness policy._",
+    "items": []
+  },
+  {
+    "id": "2026-05-14T14:24:00.000Z",
+    "timestamp": "2026-05-14T14:24:00.000Z",
+    "sentiment": { "positive": 0, "neutral": 0, "negative": 0 },
+    "sources": {
+      "reddit_rivian":  { "found": 0, "sentiment": null },
+      "reddit_ev":      { "found": 0, "sentiment": null },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 0, "sentiment": null },
+      "news":           { "found": 0, "sentiment": null },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "themes": [],
+    "competitiveContext": "No fresh competitive content found — most search queries returned bot-detection blocks this cycle.",
+    "summary": "Partial scan failure: DuckDuckGo returned bot-detection challenges on 7 of 10 queries. RivianForums and YouTube results were returned but lacked visible timestamps and appear to be older content; excluded per freshness rules. 0 confirmed fresh items this cycle.",
+    "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 7:24 AM PT_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts in last 24h_\n\n*📰 News & Press*\n_No fresh articles in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: 7 of 10 search queries hit bot-detection blocks (DuckDuckGo). Rivianforums and YouTube results were returned but lacked visible publication timestamps and appear to be older threads; excluded per freshness policy._",
+    "items": [],
+    "scanError": "DuckDuckGo bot-detection on 7/10 queries. Rivianforums and YouTube results returned but no visible timestamps confirming last-24h publication; excluded per freshness rules."
+  },
+  {
     "id": "2026-05-14T03:48:00.000Z",
     "timestamp": "2026-05-14T03:48:00.000Z",
     "sentiment": { "positive": 0, "neutral": 0, "negative": 0 },
@@ -41,7 +171,7 @@
     ],
     "competitiveContext": "Rivian's Autonomy+ is positioned directly against Tesla FSD with a lower $2,500 one-time price, though Rivian's platform is earlier in its rollout compared to Tesla's more mature FSD and Waymo's established robotaxi service.",
     "summary": "Rivian autonomy discussion is active on owner forums, centered on the Gen 1/Gen 2 platform split and upcoming Autonomy+ subscription pricing. Press coverage is upbeat, highlighting Rivian's in-house chip development and LiDAR plans as differentiators.",
-    "fullReport": "🔵 *Rivian Autonomy Pulse*\n_May 13, 2026 — 8:42 PM PT_\n\n*📊 Sentiment Snapshot*\nPositive: 48% | Neutral: 37% | Negative: 15%\n_Rivian's autonomy roadmap is generating genuine enthusiasm among owners, tempered by some caution around subscription costs and the Gen 1/Gen 2 feature gap._\n\n*📣 Reddit*\n• [r/electricvehicles] *Honest opinion about Rivian* — General community discussion; autonomy features mentioned as a key differentiator but older Gen 1 owners wary about Driver+ being siloed vs. the new RAP platform on Gen 2.\n  🔗 https://www.reddit.com/r/electricvehicles/comments/10b071m/honest_opinion_about_rivian/\n\n*🏁 RivianForums*\n• *Autonomy+ / Driver+ / Universal Hands-Free comparison test Gen 1 vs Gen 2* — Owner ran a back-to-back real-world comparison on the same road with a loaner 2024 R1T and their own 2025 R1S. Hands-free behavior and smoothness noticeably improved on Gen 2 RAP.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-universal-hands-free-comparison-test-on-gen-1-vs-gen-2.57335/\n• *Confirmed: Driver+ is obsolete — RAP is exclusive to Gen 2* — Rivian FAQ clarifies the platform split; community broadly neutral-to-accepting but Gen 1 owners express concern about future feature parity.\n  🔗 https://www.rivianforums.com/forum/threads/confirmed-driver-is-obsolete-and-rivian-autonomy-platform-is-exclusive-to-gen-2-rivian-faq.28710/\n• *Autonomy+ / Driver+ Subscription — How Much Will You Pay?* — Subscription pricing thread as the free trial window closes; community divided on whether $49.99/month or $2,500 one-time is reasonable.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-subscription-how-much-will-you-pay.52110/\n\n*📰 News & Press*\n• *Rivian's New $2,500 Autonomy+ Package Undercuts Tesla FSD* (Autoblog) — Rivian unveiled in-house self-driving silicon and LiDAR integration plans; Autonomy+ subscription launches 2026 with hands-free driving at a lower price than Tesla FSD.\n  🔗 https://www.autoblog.com/news/rivian-self-driving-autonomy-and-ai\n• *Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Assistant* (Edmunds) — Deep dive into Rivian's future hands-free driving roadmap, new AI assistant, and the company's ambitious autonomy timeline.\n  🔗 https://www.edmunds.com/car-news/rivian-autonomy-lidar-ai.html\n• *Rivian Autonomy & AI Day — Lidar, Hands-Free Driving, Rivian Assistant* (RivianForums) — Rivian's official event coverage; Autonomy+ priced at $2,500 one-time or $49.99/month, launching early 2026.\n  🔗 https://www.rivianforums.com/rivian-autonomy-ai-day-is-here-watch-livestream/\n\n*📌 Key Themes*\n1. Gen 1 vs Gen 2 autonomy platform split (Driver+ vs Rivian Autonomy Platform)\n2. Subscription pricing debate ($2,500 one-time or $49.99/month)\n3. In-house silicon + LiDAR roadmap positioning Rivian as a long-term autonomy player",
+    "fullReport": "🔵 *Rivian Autonomy Pulse*\n_May 13, 2026 — 8:42 PM PT_\n\n*📊 Sentiment Snapshot*\nPositive: 48% | Neutral: 37% | Negative: 15%\n_Rivian's autonomy roadmap is generating genuine enthusiasm among owners, tempered by some caution around subscription costs and the Gen 1/Gen 2 feature gap._\n\n*📣 Reddit*\n• [r/electricvehicles] *Honest opinion about Rivian* — General community discussion; autonomy features mentioned as a key differentiator but older Gen 1 owners wary about Driver+ being siloed vs. the new RAP platform on Gen 2.\n  🔗 https://www.reddit.com/r/electricvehicles/comments/10b071m/honest_opinion_about_rivian/\n\n*🏁 RivianForums*\n• *Autonomy+ / Driver+ / Universal Hands-Free comparison test Gen 1 vs Gen 2* — Owner ran a back-to-back real-world comparison on the same road with a loaner 2024 R1T and their own 2025 R1S. Hands-free behavior and smoothness noticeably improved on Gen 2 RAP.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-universal-hands-free-comparison-test-on-gen-1-vs-gen-2.57335/\n• *Confirmed: Driver+ is obsolete — RAP is exclusive to Gen 2* — Rivian FAQ clarifies the platform split; community broadly neutral-to-accepting but Gen 1 owners express concern about future feature parity.\n  🔗 https://www.rivianforums.com/forum/threads/confirmed-driver-is-obsolete-and-rivian-autonomy-platform-is-exclusive-to-gen-2-rivian-faq.28710/\n• *Autonomy+ / Driver+ Subscription — How Much Will You Pay?* — Subscription pricing thread as the free trial window closes; community divided on whether $49.99/month or $2,500 one-time is reasonable.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-subscription-how-much-will-you-pay.52110/\n\n*📰 News & Press*\n• *Rivian's New $2,500 Autonomy+ Package Undercuts Tesla FSD* (Autoblog) — Rivian unveiled in-house self-driving silicon and LiDAR integration plans; Autonomy+ subscription launches 2026 with hands-free driving at a lower price than Tesla FSD.\n  🔗 https://www.autoblog.com/news/rivian-self-driving-autonomy-and-ai\n• *Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Assistant* (Edmunds) — Deep dive into Rivian's autonomy roadmap including proprietary AI chips, LiDAR sensor integration, and a new in-car AI assistant. Coverage is enthusiastic about Rivian's vertical integration approach and long-term hands-free driving ambitions.\n  🔗 https://www.edmunds.com/car-news/rivian-autonomy-lidar-ai.html\n• *Rivian Autonomy & AI Day — Lidar, Hands-Free Driving, Rivian Assistant* (RivianForums) — Rivian's official event coverage; Autonomy+ priced at $2,500 one-time or $49.99/month, launching early 2026. Community reception was largely excited, with forum members praising Rivian's commitment to building autonomy in-house.\n  🔗 https://www.rivianforums.com/rivian-autonomy-ai-day-is-here-watch-livestream/\n\n*📌 Key Themes*\n1. Gen 1 vs Gen 2 autonomy platform split (Driver+ vs Rivian Autonomy Platform)\n2. Subscription pricing debate ($2,500 one-time or $49.99/month)\n3. In-house silicon + LiDAR roadmap positioning Rivian as a long-term autonomy player",
     "items": [
       {
         "title": "Autonomy+ / Driver+ / Universal Hands-free comparison test on Gen 1 vs Gen 2",
