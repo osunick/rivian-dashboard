@@ -64,3 +64,29 @@ export function getActiveSourcesLatest(): number {
 export function getLast5ReportsNewestFirst(): Report[] {
   return validReports.slice(0, 5);
 }
+
+/** Returns all items from reports that include a given theme, deduplicated by URL. */
+export function getItemsByTheme(theme: string): (Report['items'][number] & { reportTimestamp: string })[] {
+  const seen = new Set<string>();
+  const result: (Report['items'][number] & { reportTimestamp: string })[] = [];
+  for (const r of reports) {
+    if (r.themes.includes(theme)) {
+      for (const item of r.items) {
+        if (!seen.has(item.url)) {
+          seen.add(item.url);
+          result.push({ ...item, reportTimestamp: r.timestamp });
+        }
+      }
+    }
+  }
+  return result;
+}
+
+/** Pre-computed map of theme → source items, for passing to client components. */
+export function getThemeItemsMap(): Record<string, (Report['items'][number] & { reportTimestamp: string })[]> {
+  const map: Record<string, (Report['items'][number] & { reportTimestamp: string })[]> = {};
+  for (const { theme } of getThemeFrequency()) {
+    map[theme] = getItemsByTheme(theme);
+  }
+  return map;
+}

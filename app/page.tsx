@@ -4,6 +4,7 @@ import {
   getLast10Reports,
   getSevenDayAvgScore,
   getThemeFrequency,
+  getThemeItemsMap,
   getSentimentDelta,
   getTotalPostsLatest,
   getActiveSourcesLatest,
@@ -13,7 +14,7 @@ import { SOURCE_KEYS } from '@/lib/types';
 import KpiCards from '@/components/KpiCards';
 import SentimentTrendChart from '@/components/SentimentTrendChart';
 import SourceActivityChart from '@/components/SourceActivityChart';
-import ThemeFrequencyChart from '@/components/ThemeFrequencyChart';
+import ThemeSection from '@/components/ThemeSection';
 import SourceSentimentMatrix from '@/components/SourceSentimentMatrix';
 import ReportHistory from '@/components/ReportHistory';
 
@@ -24,6 +25,7 @@ export default function DashboardPage() {
   const last10 = getLast10Reports();
   const avgScore = getSevenDayAvgScore();
   const themes = getThemeFrequency();
+  const themeItemsMap = getThemeItemsMap();
   const positiveDelta = getSentimentDelta('positive');
   const negativeDelta = getSentimentDelta('negative');
   const totalPosts = getTotalPostsLatest();
@@ -140,7 +142,7 @@ export default function DashboardPage() {
                   <span className="text-[#6B7280] text-xs font-mono">ALL REPORTS</span>
                 </div>
                 {themes.length > 0
-                  ? <ThemeFrequencyChart data={themes} />
+                  ? <ThemeSection themes={themes} themeItemsMap={themeItemsMap} />
                   : <div className="text-[#6B7280] text-xs font-mono py-8 text-center">No themes yet</div>
                 }
               </div>

@@ -11,6 +11,7 @@ interface ThemeEntry {
 
 interface Props {
   data: ThemeEntry[];
+  onThemeClick?: (theme: string) => void;
 }
 
 function truncate(s: string, n = 18): string {
@@ -28,7 +29,7 @@ const CustomTooltip = ({ active, payload }: any) => {
   );
 };
 
-export default function ThemeFrequencyChart({ data }: Props) {
+export default function ThemeFrequencyChart({ data, onThemeClick }: Props) {
   const max = Math.max(...data.map(d => d.count), 1);
 
   const chartData = data.map(d => ({
@@ -61,7 +62,8 @@ export default function ThemeFrequencyChart({ data }: Props) {
           width={120}
         />
         <Tooltip content={<CustomTooltip />} cursor={{ fill: '#1F1F1F' }} />
-        <Bar dataKey="count" radius={[0, 2, 2, 0]}>
+        <Bar dataKey="count" radius={[0, 2, 2, 0]} cursor={onThemeClick ? 'pointer' : 'default'}
+          onClick={(d: any) => onThemeClick?.(d.theme)}>
           {chartData.map((_, i) => (
             <Cell
               key={i}
