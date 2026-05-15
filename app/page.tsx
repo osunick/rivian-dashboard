@@ -52,14 +52,14 @@ export default function DashboardPage() {
     <div className="min-h-screen bg-[#0A0A0A]">
       <div className="h-0.5 w-full bg-[#3B82F6]" />
 
-      <header className="flex items-center justify-between px-6 py-3 border-b border-[#1F1F1F] bg-[#111111]">
+      <header className="flex flex-col sm:flex-row sm:items-center sm:justify-between px-4 sm:px-6 py-3 gap-2 border-b border-[#1F1F1F] bg-[#111111]">
         <div className="flex items-center gap-3">
           <span className="text-[#3B82F6] text-xl">🔵</span>
           <span className="text-[#F5F5F5] font-semibold text-lg tracking-tight">Rivian Autonomy</span>
           <span className="text-[#1F1F1F]">|</span>
           <span className="text-[#6B7280] text-sm font-mono">SENTIMENT DASHBOARD</span>
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex flex-wrap items-center gap-2 sm:text-right">
           {lastUpdated ? (
             <>
               <span className="text-[#6B7280] text-xs">LAST UPDATED</span>
@@ -72,7 +72,7 @@ export default function DashboardPage() {
         </div>
       </header>
 
-      <main className="px-6 py-5 space-y-5 max-w-screen-2xl mx-auto">
+      <main className="px-3 sm:px-6 py-4 sm:py-5 space-y-5 max-w-screen-2xl mx-auto">
 
         {/* Failed scan banner */}
         {failedScans.length > 0 && (
@@ -115,16 +115,16 @@ export default function DashboardPage() {
             />
 
             {/* Row 2 — Charts */}
-            <div className="grid grid-cols-5 gap-4">
-              <div className="col-span-3 bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
-                <div className="flex items-center justify-between mb-3">
+            <div className="grid grid-cols-1 lg:grid-cols-5 gap-4">
+              <div className="lg:col-span-3 bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
+                <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Sentiment Trend</h2>
                   <span className="text-[#6B7280] text-xs font-mono">LAST 10 VALID REPORTS · CLICK TO DRILL DOWN</span>
                 </div>
                 <SentimentTrendChart data={last10} />
               </div>
-              <div className="col-span-2 bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
-                <div className="flex items-center justify-between mb-3">
+              <div className="lg:col-span-2 bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
+                <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Activity</h2>
                   <span className="text-[#6B7280] text-xs font-mono">LATEST CYCLE</span>
                 </div>
@@ -133,9 +133,9 @@ export default function DashboardPage() {
             </div>
 
             {/* Row 3 — Panels */}
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
-                <div className="flex items-center justify-between mb-3">
+                <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Theme Frequency</h2>
                   <span className="text-[#6B7280] text-xs font-mono">ALL REPORTS</span>
                 </div>
@@ -145,7 +145,7 @@ export default function DashboardPage() {
                 }
               </div>
               <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
-                <div className="flex items-center justify-between mb-3">
+                <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Sentiment Matrix</h2>
                   <span className="text-[#6B7280] text-xs font-mono">LAST 5 CYCLES</span>
                 </div>

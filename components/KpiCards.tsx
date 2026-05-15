@@ -28,7 +28,7 @@ export default function KpiCards({
   const scoreColor = avgScore >= 60 ? '#22C55E' : avgScore >= 45 ? '#6B7280' : '#EF4444';
 
   return (
-    <div className="grid grid-cols-5 gap-4">
+    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 sm:gap-4">
       {/* Card 1 — Positive % */}
       <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
         <div className="text-[#6B7280] text-xs uppercase tracking-wider mb-1">Positive</div>

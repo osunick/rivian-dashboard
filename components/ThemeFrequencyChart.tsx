@@ -13,7 +13,7 @@ interface Props {
   data: ThemeEntry[];
 }
 
-function truncate(s: string, n = 22): string {
+function truncate(s: string, n = 18): string {
   return s.length > n ? s.slice(0, n - 1) + '…' : s;
 }
 
@@ -58,7 +58,7 @@ export default function ThemeFrequencyChart({ data }: Props) {
           tick={{ fill: '#6B7280', fontSize: 10, fontFamily: 'monospace' }}
           tickLine={false}
           axisLine={false}
-          width={150}
+          width={120}
         />
         <Tooltip content={<CustomTooltip />} cursor={{ fill: '#1F1F1F' }} />
         <Bar dataKey="count" radius={[0, 2, 2, 0]}>

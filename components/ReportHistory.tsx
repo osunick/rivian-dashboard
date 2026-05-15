@@ -42,7 +42,37 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
 
   return (
     <div className={`border-b border-[#1F1F1F] last:border-0 ${isFailed ? 'opacity-50' : index % 2 === 0 ? 'bg-[#0D0D0D]' : ''}`}>
-      <div className="flex items-center gap-4 px-3 py-2.5 hover:bg-[#141414] transition-colors">
+      {/* Mobile layout */}
+      <div className="flex sm:hidden flex-col gap-1.5 px-3 py-2.5 hover:bg-[#141414] transition-colors">
+        <div className="flex items-center justify-between">
+          <span className="font-mono text-[#6B7280] text-[10px]">{formatFull(report.timestamp)}</span>
+          <div className="flex items-center gap-1">
+            <button
+              onClick={() => setExpanded(e => !e)}
+              className="flex-shrink-0 w-6 h-6 flex items-center justify-center text-[#6B7280] hover:text-[#F5F5F5] hover:bg-[#1F1F1F] rounded transition-colors text-xs"
+              title={expanded ? 'Collapse' : 'Expand full report'}
+            >
+              {expanded ? '▼' : '▶'}
+            </button>
+          </div>
+        </div>
+        {isFailed ? (
+          <span className="text-[#F59E0B] font-mono text-[11px]">⚠️ SCAN FAILED — {report.scanError}</span>
+        ) : (
+          <>
+            <MiniSentimentBar {...report.sentiment} />
+            <div className="flex gap-2 text-[10px] font-mono">
+              <span className="text-[#22C55E]">{report.sentiment.positive}%</span>
+              <span className="text-[#6B7280]">{report.sentiment.neutral}%</span>
+              <span className="text-[#EF4444]">{report.sentiment.negative}%</span>
+            </div>
+            <div className="text-[#A1A1AA] text-xs leading-snug line-clamp-2">{report.summary}</div>
+          </>
+        )}
+      </div>
+
+      {/* Desktop layout */}
+      <div className="hidden sm:flex items-center gap-4 px-3 py-2.5 hover:bg-[#141414] transition-colors">
         {/* Timestamp */}
         <div className="font-mono text-[#6B7280] text-xs whitespace-nowrap w-44 flex-shrink-0">
           {formatFull(report.timestamp)}
@@ -161,7 +191,7 @@ export default function ReportHistory({ reports }: Props) {
   return (
     <div className="max-h-[400px] overflow-y-auto rounded border border-[#1F1F1F]">
       {/* Header row */}
-      <div className="flex items-center gap-4 px-3 py-2 border-b border-[#1F1F1F] bg-[#0D0D0D] sticky top-0 z-10">
+      <div className="hidden sm:flex items-center gap-4 px-3 py-2 border-b border-[#1F1F1F] bg-[#0D0D0D] sticky top-0 z-10">
         <div className="font-mono text-[#374151] text-[10px] uppercase tracking-wider w-44 flex-shrink-0">
           Timestamp
         </div>

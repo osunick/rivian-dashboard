@@ -68,7 +68,7 @@ export default function SourceActivityChart({ data }: Props) {
           tick={{ fill: '#6B7280', fontSize: 10, fontFamily: 'monospace' }}
           tickLine={false}
           axisLine={false}
-          width={88}
+          width={72}
         />
         <Tooltip content={<CustomTooltip />} cursor={{ fill: '#1F1F1F' }} />
         <Bar dataKey="found" radius={[0, 2, 2, 0]}>
