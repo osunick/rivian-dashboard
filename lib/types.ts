@@ -1,14 +1,36 @@
 export type SentimentLabel = 'positive' | 'neutral' | 'negative';
 
+export type CategoryKey = 'autonomy' | 'vehicles' | 'business' | 'software' | 'community' | 'competitive';
+
+export const CATEGORY_LABELS: Record<CategoryKey, string> = {
+  autonomy:    '🤖 Autonomy',
+  vehicles:    '🚗 Vehicles & Products',
+  business:    '💰 Business & Finance',
+  software:    '📱 Software & Tech',
+  community:   '🌐 Community',
+  competitive: '⚔️ Competitive Intel',
+};
+
+export const CATEGORY_KEYS: CategoryKey[] = [
+  'autonomy', 'vehicles', 'business', 'software', 'community', 'competitive',
+];
+
 export interface ReportItem {
   title: string;
   url: string;
   source: string; // SourceKey
   sentiment: SentimentLabel;
   snippet: string;
+  category?: CategoryKey;
+  publishedAt?: string | null;
 }
 
 export interface SourceData {
+  found: number;
+  sentiment: SentimentLabel | null;
+}
+
+export interface CategoryData {
   found: number;
   sentiment: SentimentLabel | null;
 }
@@ -31,6 +53,7 @@ export interface Report {
     youtube: SourceData;
     hackernews: SourceData;
   };
+  categories?: Partial<Record<CategoryKey, CategoryData>>;
   themes: string[];
   competitiveContext: string;
   summary: string;

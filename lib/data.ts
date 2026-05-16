@@ -1,4 +1,4 @@
-import { Report, SourceKey } from './types';
+import { Report, SourceKey, CategoryKey, CATEGORY_KEYS } from './types';
 import reportsRaw from '../public/data/reports.json';
 
 // Cast and sort newest first
@@ -87,6 +87,51 @@ export function getThemeItemsMap(): Record<string, (Report['items'][number] & { 
   const map: Record<string, (Report['items'][number] & { reportTimestamp: string })[]> = {};
   for (const { theme } of getThemeFrequency()) {
     map[theme] = getItemsByTheme(theme);
+  }
+  return map;
+}
+
+/** Aggregated category breakdown across recent valid reports. */
+export function getCategoryBreakdown(): { key: CategoryKey; label: string; found: number; sentiment: string | null }[] {
+  const LABELS: Record<CategoryKey, string> = {
+    autonomy:    '🤖 Autonomy',
+    vehicles:    '🚗 Vehicles & Products',
+    business:    '💰 Business & Finance',
+    software:    '📱 Software & Tech',
+    community:   '🌐 Community',
+    competitive: '⚔️ Competitive Intel',
+  };
+  // Count items by category across all reports
+  const counts: Record<CategoryKey, number> = { autonomy: 0, vehicles: 0, business: 0, software: 0, community: 0, competitive: 0 };
+  for (const r of validReports) {
+    for (const item of r.items) {
+      if (item.category && item.category in counts) {
+        counts[item.category as CategoryKey]++;
+      }
+    }
+  }
+  return CATEGORY_KEYS
+    .map(key => ({ key, label: LABELS[key], found: counts[key], sentiment: null }))
+    .filter(c => c.found > 0)
+    .sort((a, b) => b.found - a.found);
+}
+
+/** Items grouped by category, deduplicated by URL. */
+export function getCategoryItemsMap(): Record<CategoryKey, (Report['items'][number] & { reportTimestamp: string })[]> {
+  const map = {} as Record<CategoryKey, (Report['items'][number] & { reportTimestamp: string })[]>;
+  const seen: Record<string, Set<string>> = {};
+  for (const key of CATEGORY_KEYS) {
+    map[key] = [];
+    seen[key] = new Set();
+  }
+  for (const r of validReports) {
+    for (const item of r.items) {
+      const cat = item.category as CategoryKey;
+      if (cat && CATEGORY_KEYS.includes(cat) && !seen[cat].has(item.url)) {
+        seen[cat].add(item.url);
+        map[cat].push({ ...item, reportTimestamp: r.timestamp });
+      }
+    }
   }
   return map;
 }

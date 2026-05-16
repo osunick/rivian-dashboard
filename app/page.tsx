@@ -5,6 +5,8 @@ import {
   getSevenDayAvgScore,
   getThemeFrequency,
   getThemeItemsMap,
+  getCategoryBreakdown,
+  getCategoryItemsMap,
   getSentimentDelta,
   getTotalPostsLatest,
   getActiveSourcesLatest,
@@ -15,6 +17,7 @@ import KpiCards from '@/components/KpiCards';
 import SentimentTrendChart from '@/components/SentimentTrendChart';
 import SourceActivityChart from '@/components/SourceActivityChart';
 import ThemeSection from '@/components/ThemeSection';
+import CategoryBreakdown from '@/components/CategoryBreakdown';
 import SourceSentimentMatrix from '@/components/SourceSentimentMatrix';
 import ReportHistory from '@/components/ReportHistory';
 
@@ -26,6 +29,8 @@ export default function DashboardPage() {
   const avgScore = getSevenDayAvgScore();
   const themes = getThemeFrequency();
   const themeItemsMap = getThemeItemsMap();
+  const categories = getCategoryBreakdown();
+  const categoryItemsMap = getCategoryItemsMap();
   const positiveDelta = getSentimentDelta('positive');
   const negativeDelta = getSentimentDelta('negative');
   const totalPosts = getTotalPostsLatest();
@@ -57,7 +62,7 @@ export default function DashboardPage() {
       <header className="flex flex-col sm:flex-row sm:items-center sm:justify-between px-4 sm:px-6 py-3 gap-2 border-b border-[#1F1F1F] bg-[#111111]">
         <div className="flex items-center gap-3">
           <span className="text-[#3B82F6] text-xl">🔵</span>
-          <span className="text-[#F5F5F5] font-semibold text-lg tracking-tight">Rivian Autonomy</span>
+          <span className="text-[#F5F5F5] font-semibold text-lg tracking-tight">Rivian Pulse</span>
           <span className="text-[#1F1F1F]">|</span>
           <span className="text-[#6B7280] text-sm font-mono">SENTIMENT DASHBOARD</span>
         </div>
@@ -92,7 +97,7 @@ export default function DashboardPage() {
             <div className="text-[#3B82F6] text-4xl mb-4">🔵</div>
             <div className="text-[#F5F5F5] text-lg font-semibold mb-2">Waiting for first scan</div>
             <div className="text-[#6B7280] text-sm max-w-md">
-              The sentiment tracker runs every 12 hours and fetches real data from Reddit, news outlets, forums, and more.
+              The tracker runs twice daily and fetches real data from Reddit, news outlets, forums, and more across all Rivian topics.
               Check back soon — or trigger a manual run.
             </div>
             {reports.length > 0 && (
@@ -138,13 +143,10 @@ export default function DashboardPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
                 <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
-                  <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Theme Frequency</h2>
-                  <span className="text-[#6B7280] text-xs font-mono">ALL REPORTS</span>
+                  <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Topic Breakdown</h2>
+                  <span className="text-[#6B7280] text-xs font-mono">CLICK TO DRILL DOWN</span>
                 </div>
-                {themes.length > 0
-                  ? <ThemeSection themes={themes} themeItemsMap={themeItemsMap} />
-                  : <div className="text-[#6B7280] text-xs font-mono py-8 text-center">No themes yet</div>
-                }
+                <CategoryBreakdown categories={categories} itemsMap={categoryItemsMap} />
               </div>
               <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
                 <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
