@@ -240,11 +240,11 @@ export default function SentimentTrendChart({ data }: Props) {
                 strokeDasharray="4 2"
               />
             )}
-            <Area type="monotone" dataKey="Positive" stackId="1"
+            <Area type="monotone" dataKey="Positive"
               stroke="#22C55E" fill="url(#gradPos)" strokeWidth={2} dot={{ r: 3, fill: '#22C55E' }} activeDot={{ r: 5 }} />
-            <Area type="monotone" dataKey="Neutral" stackId="1"
+            <Area type="monotone" dataKey="Neutral"
               stroke="#6B7280" fill="url(#gradNeu)" strokeWidth={1.5} dot={{ r: 2, fill: '#6B7280' }} activeDot={{ r: 4 }} />
-            <Area type="monotone" dataKey="Negative" stackId="1"
+            <Area type="monotone" dataKey="Negative"
               stroke="#EF4444" fill="url(#gradNeg)" strokeWidth={2} dot={{ r: 3, fill: '#EF4444' }} activeDot={{ r: 5 }} />
           </AreaChart>
         </ResponsiveContainer>
