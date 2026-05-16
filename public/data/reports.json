@@ -1,5 +1,137 @@
 [
   {
+    "id": "2026-05-16T03:00:00.000Z",
+    "timestamp": "2026-05-16T03:00:00.000Z",
+    "sentiment": { "positive": 55, "neutral": 18, "negative": 27 },
+    "sources": {
+      "reddit_rivian":  { "found": 5, "sentiment": "neutral" },
+      "reddit_ev":      { "found": 0, "sentiment": null },
+      "reddit_sdc":     { "found": 0, "sentiment": null },
+      "rivianforums":   { "found": 0, "sentiment": null },
+      "news":           { "found": 6, "sentiment": "positive" },
+      "twitter":        { "found": 0, "sentiment": null },
+      "youtube":        { "found": 0, "sentiment": null },
+      "hackernews":     { "found": 0, "sentiment": null }
+    },
+    "categories": {
+      "autonomy":    { "found": 2, "sentiment": "neutral" },
+      "vehicles":    { "found": 3, "sentiment": "positive" },
+      "business":    { "found": 2, "sentiment": "neutral" },
+      "software":    { "found": 2, "sentiment": "positive" },
+      "community":   { "found": 1, "sentiment": "negative" },
+      "competitive": { "found": 1, "sentiment": "neutral" }
+    },
+    "themes": [
+      "R2 configurator now live — Performance trim at $57,990 undercuts Tesla Model Y Performance by $890",
+      "'Hey Rivian' AI assistant rolling out with full vehicle control, beating Tesla Grok's capabilities",
+      "OTA update causing driver assist instability on some vehicles; RIVN stock down ~3% on rate hike fears"
+    ],
+    "competitiveContext": "The R2 Performance ($57,990) undercuts the Tesla Model Y Performance ($58,880), and Rivian's 'Hey Rivian' AI assistant controls core vehicle systems (climate, drive modes, ride height) that Tesla's Grok still cannot touch. Uber meanwhile is investing $10B+ in robotaxi alternatives as it distances itself from Waymo.",
+    "summary": "A major day for Rivian: the R2 configurator went live May 15 with pricing that edges out Tesla Model Y Performance, while the 'Hey Rivian' AI assistant (rolled out May 12) continues to impress as a more capable in-car voice system than Tesla's Grok. Stock pressure continues with RIVN down ~3% amid rate hike concerns, and community reports flag a recent OTA update breaking driver assist on some vehicles.",
+    "fullReport": "🔵 *Rivian Pulse*\n_May 15, 2026, 9:00 PM MT — 11 items across 5 categories_\n\n*📊 Overall Sentiment*\nPositive: 55% | Neutral: 18% | Negative: 27%\n_Strong product news (R2 configurator, Hey Rivian) offset by stock pressure and OTA driver assist regression reports._\n\n━━━━━━━━━━\n🚗 *Vehicles & Products* (3)\n• R2 configurator live: Performance trim at $57,990 — undercuts Tesla Model Y Performance by $890. Three trims, spring 2026 deliveries.\n• CEO hints at R2 pickup + R2X variants as R2 production ramps at Normal, IL\n• Side-by-side: Catalina Cove vs Launch Green color showdown at Palo Alto block party\n\n📱 *Software & Tech* (2)\n• \"Hey Rivian\" AI rolling out to all R1 owners — controls drive modes, climate, frunk, range. Beats Tesla Grok on vehicle integration.\n• Owner feature request: Rivian Assistant missing smart home integration (Alexa-style)\n\n💰 *Business & Finance* (2)\n• VW overtakes Amazon as largest RIVN shareholder at 15.9% stake\n• RIVN flagged as high-debt, rate-sensitive — closed down ~3% ($14.06) on May 15 amid Fed rate hike fears\n\n🤖 *Autonomy* (2)\n• Rivian mulling in-house lidar manufacturing as it builds full autonomous stack\n• OTA update broke driver assist for some users — intermittent dropouts on RT 3 (Cape Cod→Boston)\n\n🌐 *Community* (1)\n• R1S owner reports home charger throttling to 48A for months — seeking diagnosis\n\n⚔️ *Competitive Intel* (1)\n• Uber investing $10B+ in robotaxi alternatives while publicly criticizing Waymo partner\n━━━━━━━━━━\n\n_Reply with a category name for full details_",
+    "items": [
+      {
+        "title": "Rivian opens R2 configurator: here are all the options and pricing",
+        "url": "https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-15",
+        "snippet": "Rivian opened the R2 online configurator ahead of its June timeline. The Performance trim starts at $57,990 — $890 below Tesla Model Y Performance at $58,880. Three trims offered with staggered availability; Performance is the only one configurable now, bundling Autonomy+ and the Tow Package in the Launch Package."
+      },
+      {
+        "title": "Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control",
+        "url": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
+        "source": "news",
+        "category": "software",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-12",
+        "snippet": "Rivian deployed its AI-powered voice assistant to all Gen 1 and Gen 2 R1 owners. Built on 'Rivian Unified Intelligence,' it controls drive modes, ride height, frunk, climate settings, and reads/responds to messages. Notably outperforms Tesla's competing Grok assistant, which still cannot control vehicle systems months after launch."
+      },
+      {
+        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
+        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
+        "source": "news",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-05",
+        "snippet": "CEO RJ Scaringe confirmed Rivian is in active discussions about manufacturing lidar sensors domestically, potentially via Chinese tech partnerships. Complements the RAP1 chip (5nm, 1,600 TOPS), making Rivian one of the most vertically integrated autonomy players in the consumer vehicle space."
+      },
+      {
+        "title": "Volkswagen overtakes Amazon as Rivian's (RIVN) largest shareholder with 15.9% stake",
+        "url": "https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/",
+        "source": "news",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-05",
+        "snippet": "Volkswagen now owns 209.8 million shares of Rivian (RIVN), representing a 15.9% stake — surpassing Amazon as the largest shareholder. The deepening VW relationship signals continued confidence in Rivian's platform and software capabilities."
+      },
+      {
+        "title": "Rivian (RIVN) CEO hints at R2 pickup and R2X variants as production ramps",
+        "url": "https://electrek.co/2026/05/06/rivian-r2-variants-pickup-r2x-scaringe/",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-06",
+        "snippet": "Rivian CEO RJ Scaringe confirmed the company is developing undisclosed R2 variants, hinting at a pickup truck and an R2X performance variant. The move would spread R2 platform development costs across a broader lineup as production scales at Normal, IL."
+      },
+      {
+        "title": "Uber turns on Waymo as it pours $10B+ into owning robotaxi alternatives",
+        "url": "https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-15",
+        "snippet": "Uber is publicly criticizing its robotaxi partner Waymo while investing over $10 billion to develop competing autonomous vehicle alternatives. The strategic pivot signals growing tension in the robotaxi space and potential opportunities for new AV platform entrants."
+      },
+      {
+        "title": "Update killed driver assist",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tegu2c/update_killed_driver_assist/",
+        "source": "reddit_rivian",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-15",
+        "snippet": "Owner reports that after a recent OTA software update, driver assist on their vehicle intermittently stops working on RT 3 (Cape Cod to Boston) — a route it previously handled nearly end-to-end. The update also caused infotainment cutouts, which a reboot fixed, but driver assist issues persist."
+      },
+      {
+        "title": "Rivian Assistant Integrations",
+        "url": "https://www.reddit.com/r/Rivian/comments/1teh1oy/rivian_assistant_integrations/",
+        "source": "reddit_rivian",
+        "category": "software",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-15",
+        "snippet": "Owner asks whether Rivian Assistant will eventually support smart home integrations like the Alexa integration it replaced, specifically for controlling home lights when arriving at a dark house. Reflects demand for expanded third-party integrations beyond Google Calendar currently supported."
+      },
+      {
+        "title": "Rivian Charger - Slowed",
+        "url": "https://www.reddit.com/r/Rivian/comments/1teh825/rivian_charger_slowed/",
+        "source": "reddit_rivian",
+        "category": "community",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-15",
+        "snippet": "R1S owner reports their home charger has been throttling — showing 'charging slowed' messages for 2-3 months, hitting the 48A/22 mi/hr peak for less than an hour. Issue persists even in moderate 40°F garage temperatures, leading to questions about charger degradation."
+      },
+      {
+        "title": "Catalina Cove and Launch Green Side-by-Side",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tegut0/catalina_cove_and_launch_green_sidebyside/",
+        "source": "reddit_rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-15",
+        "snippet": "Owner photographed the two R2 Launch Package exclusive colors side-by-side at a Palo Alto block party — Catalina Cove (blue, $2,000) and Launch Green ($2,000). The color comparison is timely as the R2 configurator went live today, helping reservation holders make color decisions."
+      },
+      {
+        "title": "Rate Hike Fears: Five Stocks at Risk — RIVN flagged as high-debt, rate-sensitive",
+        "url": "https://www.reddit.com/r/GetRichShortTerm/comments/1te9ct6/rate_hike_fears_five_stocks_at_risk_and_five_to/",
+        "source": "reddit_rivian",
+        "category": "business",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-15",
+        "snippet": "RIVN was highlighted as a high-risk stock in a rate hike scenario: described as a 'high-debt EV maker dependent on cheap financing' that exemplifies the danger of rising interest rates for small-cap growth names. RIVN traded down approximately 3% to $14.06 on May 15."
+      }
+    ]
+  },
+  {
     "id": "2026-05-15T15:00:00.000Z",
     "timestamp": "2026-05-15T15:00:00.000Z",
     "sentiment": { "positive": 55, "neutral": 35, "negative": 10 },
