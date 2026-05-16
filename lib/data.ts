@@ -1,4 +1,4 @@
-import { Report, SourceKey, CategoryKey, CATEGORY_KEYS } from './types';
+import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, CompetitorProfile, COMPETITORS, ThreatLevel } from './types';
 import reportsRaw from '../public/data/reports.json';
 
 // Cast and sort newest first
@@ -134,4 +134,87 @@ export function getCategoryItemsMap(): Record<CategoryKey, (Report['items'][numb
     }
   }
   return map;
+}
+
+// ─── Competitive Intelligence ─────────────────────────────────────────────────
+
+type ReportItemWithTimestamp = Report['items'][number] & { reportTimestamp: string };
+
+/** All items tagged as competitive, across all valid reports, deduplicated by URL. */
+export function getCompetitiveItems(): ReportItemWithTimestamp[] {
+  const seen = new Set<string>();
+  const result: ReportItemWithTimestamp[] = [];
+  for (const r of validReports) {
+    for (const item of r.items) {
+      if (item.category === 'competitive' && !seen.has(item.url)) {
+        seen.add(item.url);
+        result.push({ ...item, reportTimestamp: r.timestamp });
+      }
+    }
+  }
+  return result;
+}
+
+/** Items mentioning a specific competitor, matched by keyword list. */
+export function getItemsByCompetitor(keywords: string[]): ReportItemWithTimestamp[] {
+  const seen = new Set<string>();
+  const result: ReportItemWithTimestamp[] = [];
+  const lower = keywords.map(k => k.toLowerCase());
+  for (const r of validReports) {
+    for (const item of r.items) {
+      const text = `${item.title} ${item.snippet}`.toLowerCase();
+      if (lower.some(kw => text.includes(kw)) && !seen.has(item.url)) {
+        seen.add(item.url);
+        result.push({ ...item, reportTimestamp: r.timestamp });
+      }
+    }
+  }
+  return result;
+}
+
+/** Derive competitive threat level for a competitor based on mention recency + volume. */
+export function getCompetitorThreatLevel(
+  competitor: CompetitorProfile,
+  items: ReportItemWithTimestamp[]
+): ThreatLevel {
+  if (items.length === 0) return competitor.defaultThreat;
+  const now = Date.now();
+  const recent48h = items.filter(i => now - new Date(i.reportTimestamp).getTime() < 48 * 3600 * 1000);
+  if (recent48h.length >= 3) return 'high';
+  if (recent48h.length >= 1 || items.length >= 3) return 'elevated';
+  if (items.length >= 1) return competitor.defaultThreat;
+  return 'low';
+}
+
+/** Pre-computed competitor intel for all COMPETITORS, for server component passing to client. */
+export function getCompetitorIntelMap(): Record<string, {
+  items: ReportItemWithTimestamp[];
+  threatLevel: ThreatLevel;
+}> {
+  const map: Record<string, { items: ReportItemWithTimestamp[]; threatLevel: ThreatLevel }> = {};
+  for (const competitor of COMPETITORS) {
+    const items = getItemsByCompetitor(competitor.keywords);
+    map[competitor.id] = {
+      items,
+      threatLevel: getCompetitorThreatLevel(competitor, items),
+    };
+  }
+  return map;
+}
+
+/** Total count of competitive items in latest report. */
+export function getCompetitiveItemCountLatest(): number {
+  const r = getLatestReport();
+  if (!r) return 0;
+  return r.items.filter(i => i.category === 'competitive').length;
+}
+
+/** Overall competitive heat level derived from threat levels across all competitors. */
+export function getOverallThreatLevel(): ThreatLevel {
+  const intel = getCompetitorIntelMap();
+  const levels: ThreatLevel[] = Object.values(intel).map(v => v.threatLevel);
+  if (levels.includes('high')) return 'high';
+  if (levels.includes('elevated')) return 'elevated';
+  if (levels.includes('medium')) return 'medium';
+  return 'low';
 }
