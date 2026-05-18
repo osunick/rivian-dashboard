@@ -101,12 +101,18 @@ export function getCategoryBreakdown(): { key: CategoryKey; label: string; found
     community:   '🌐 Community',
     competitive: '⚔️ Competitive Intel',
   };
-  // Count items by category across all reports
+  // Count items by category across all reports, deduplicated by URL per category
   const counts: Record<CategoryKey, number> = { autonomy: 0, vehicles: 0, business: 0, software: 0, community: 0, competitive: 0 };
+  const seen: Record<CategoryKey, Set<string>> = {
+    autonomy: new Set(), vehicles: new Set(), business: new Set(),
+    software: new Set(), community: new Set(), competitive: new Set(),
+  };
   for (const r of validReports) {
     for (const item of r.items) {
-      if (item.category && item.category in counts) {
-        counts[item.category as CategoryKey]++;
+      const cat = item.category as CategoryKey;
+      if (cat && cat in counts && !seen[cat].has(item.url)) {
+        seen[cat].add(item.url);
+        counts[cat]++;
       }
     }
   }
