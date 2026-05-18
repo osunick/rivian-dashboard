@@ -38,6 +38,7 @@ export default function ScoutingReport({
   const threat = THREAT_DISPLAY[threatLevel];
   const date = new Date(timestamp).toLocaleDateString('en-US', {
     month: 'short', day: 'numeric', year: 'numeric',
+    timeZone: 'America/Los_Angeles',
   });
 
   return (

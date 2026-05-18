@@ -32,7 +32,8 @@ function MiniSentimentBar({ positive, neutral, negative }: { positive: number; n
 function formatFull(ts: string): string {
   return new Date(ts).toLocaleString('en-US', {
     month: 'short', day: 'numeric', year: 'numeric',
-    hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+    hour: '2-digit', minute: '2-digit', timeZoneName: 'short',
+    timeZone: 'America/Los_Angeles'
   });
 }
 

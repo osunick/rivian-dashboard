@@ -27,8 +27,8 @@ function SentimentDot({ sentiment }: { sentiment: SentimentLabel | null }) {
 
 function formatShort(ts: string): string {
   const d = new Date(ts);
-  return d.toLocaleDateString('en-US', { month: 'numeric', day: 'numeric' }) +
-    ' ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false });
+  return d.toLocaleDateString('en-US', { month: 'numeric', day: 'numeric', timeZone: 'America/Los_Angeles' }) +
+    ' ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'America/Los_Angeles' });
 }
 
 export default function SourceSentimentMatrix({ reports }: Props) {

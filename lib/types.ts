@@ -129,10 +129,10 @@ export const COMPETITORS: CompetitorProfile[] = [
     name: 'Ford',
     ticker: 'F',
     segment: 'Trucks & SUVs',
-    tagline: 'F-150 Lightning, Explorer EV',
-    keywords: ['ford', 'f-150 lightning', 'lightning', 'explorer ev', 'mach-e', 'argo'],
+    tagline: 'F-150 Lightning, Mustang Mach-E',
+    keywords: ['ford', 'f-150 lightning', 'lightning', 'mach-e', 'mustang mach-e', 'argo'],
     vehicles: [
-      { competitorModel: 'Explorer EV', competitorPrice: 42995, rivianRival: 'R2 (base)', rivianPrice: 45000, note: 'Explorer $2K cheaper' },
+      { competitorModel: 'Mach-E (base)', competitorPrice: 42995, rivianRival: 'R2 (base)', rivianPrice: 45000, note: 'Mach-E ~$2K cheaper' },
       { competitorModel: 'F-150 Lightning', competitorPrice: 49995, rivianRival: 'R1T (base)', rivianPrice: 71500, note: 'R1T is premium tier' },
     ],
     defaultThreat: 'medium',

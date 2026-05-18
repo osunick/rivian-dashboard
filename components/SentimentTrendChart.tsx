@@ -31,8 +31,8 @@ const SOURCE_COLOR: Record<string, string> = {
 
 function formatXAxis(timestamp: string): string {
   const d = new Date(timestamp);
-  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) +
-    ' ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false });
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'America/Los_Angeles' }) +
+    ' ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'America/Los_Angeles' });
 }
 
 const CustomTooltip = ({ active, payload, label }: any) => {
@@ -54,7 +54,8 @@ const CustomTooltip = ({ active, payload, label }: any) => {
 function DrillDownPanel({ report, onClose }: { report: Report; onClose: () => void }) {
   const items = report.items ?? [];
   const ts = new Date(report.timestamp).toLocaleString('en-US', {
-    month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+    month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short',
+    timeZone: 'America/Los_Angeles'
   });
 
   return (
