@@ -1,5 +1,222 @@
 [
   {
+    "id": "2026-05-18T14:00:00.000Z",
+    "timestamp": "2026-05-18T14:00:00.000Z",
+    "sentiment": {
+      "positive": 48,
+      "neutral": 27,
+      "negative": 25
+    },
+    "sources": {
+      "reddit_rivian": { "found": 5, "sentiment": "neutral" },
+      "reddit_ev":     { "found": 2, "sentiment": "neutral" },
+      "reddit_sdc":    { "found": 0, "sentiment": null },
+      "rivianforums":  { "found": 1, "sentiment": "positive" },
+      "news":          { "found": 13, "sentiment": "positive" },
+      "twitter":       { "found": 0, "sentiment": null },
+      "youtube":       { "found": 0, "sentiment": null },
+      "hackernews":    { "found": 0, "sentiment": null }
+    },
+    "categories": {
+      "autonomy":    { "found": 2, "sentiment": "positive" },
+      "vehicles":    { "found": 3, "sentiment": "positive" },
+      "business":    { "found": 3, "sentiment": "neutral" },
+      "software":    { "found": 1, "sentiment": "negative" },
+      "community":   { "found": 2, "sentiment": "neutral" },
+      "competitive": { "found": 9, "sentiment": "neutral" }
+    },
+    "themes": [
+      "Scout Motors delayed to 2028 — Rivian software JV failed to deliver, near-term adventure EV competition eliminated",
+      "Tesla Robotaxi under fire: 17 NHTSA crashes unredacted + CA sales -24% + 4680 underperformance = autonomy window open for Rivian",
+      "R2 configurator live + CEO hinting at R2 pickup/R2X — product momentum strong even as RIVN stock flatlines at $13-14"
+    ],
+    "competitiveContext": "Scout Motors (VW's direct Rivian outdoor EV rival) announced a delay to summer 2028, explicitly because the Rivian software JV has not delivered what Scout needs — removing a major near-term competitive threat but flagging VW partnership execution risk. Tesla faces a credibility squeeze on three fronts: 17 Robotaxi crash narratives published via NHTSA, California sales down 24% in Q1 2026, and the 4680 battery underperforming specs — creating a genuine autonomy/product narrative window for Rivian's Hey Rivian AI and in-house lidar roadmap. The R2's real pricing battleground is increasingly Korean/Japanese OEM lease deals: Hyundai is pushing $14,500-$16,750 lease cash on the IONIQ 9 and Toyota bZ holds 0% APR — Rivian needs strong R2 lease programs and a mature service network to win conquest buyers.",
+    "summary": "This Monday morning scan surfaces two major competitive developments: Scout Motors delayed to 2028 (citing Rivian software JV failures), and Tesla's three-front credibility squeeze (Robotaxi crashes, CA sales -24%, 4680 underperformance) widening Rivian's autonomy narrative window. On the Rivian side, the R2 configurator went live May 15, Hey Rivian AI is generating genuine owner delight, VW holds 15.9% of RIVN, and Georgia plant capacity is up 50%. RIVN stock sits in a $13-14 downtrend — the Q2 R2 delivery ramp is the catalyst the equity story needs.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 18, 2026 — 8:00 AM MT — 20 signals · 6 categories_\n\n*🎯 SITREP*\n• Scout Motors delayed to 2028 — blames Rivian software JV failure; direct outdoor EV threat gone near-term\n• Tesla 3-front squeeze: Robotaxi 17 crashes + CA sales -24% + 4680 underperform = autonomy window open\n• R2 configurator live, CEO hinting R2 pickup/R2X; RIVN stuck at $13-14 floor, needs delivery ramp\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Scout Motors (VW)*: Launch delayed to summer 2028 — Der Spiegel reports Rivian software alliance has not delivered what Scout needs, forcing crisis-ridden Cariad unit to step in. Near-term R2 competitor eliminated; watch for JV credibility fallout\n  https://www.cbtnews.com/scout-motors-to-delay-ev-launch/\n• *Tesla*: FSD V14.3.3 drops May 17 with 33% faster Smart Summon + Spring 2026 UI. But CA sales -24% in Q1, 17 Robotaxi crash reports published, 4680 battery cells underperforming promises. High cadence but mounting liabilities\n  https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/\n• *Hyundai/Toyota*: IONIQ 9 pushing $14.5K-$16.75K lease cash (3-row, 335-mi range); Toyota bZ at 0% APR. R2 lease economics must compete or lose conquest buyers\n  https://www.reddit.com/r/leasehacker/\n• *Waymo*: $16B round closed — AV investment surge accelerating competitive timeline pressure on Rivian autonomy\n  https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/5/waymo-s-16b-round-drives-private-equity-investment-surge-in-autonomous-vehicles-101366069\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🤖 Autonomy (2)*\n• Owner loves Hey Rivian: 'Tell me about the town I'm driving through' — real-world AI delight, calling it favorite feature\n  https://www.reddit.com/r/Rivian/comments/1tgnf13/my_favorite_use_of_assistant/\n• Rivian mulls in-house lidar — US-based Chinese firm partnership possible for full AV stack\n  https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/\n\n*🚗 Vehicles (3)*\n• R2 configurator live — reservation holders building and pricing; spring 2026 deliveries on track\n  https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/\n• CEO hints R2 pickup + R2X performance variants in development as Normal IL plant ramps\n  https://electrek.co/2026/05/06/rivian-r2-variants-pickup-r2x-scaringe/\n• Unintentional door opening: R1S owner accidentally triggering door while in reverse — UX/button config fix needed\n  https://www.reddit.com/r/Rivian/comments/1tglgm5/unintentional_door_opening/\n\n*💰 Business (3)*\n• VW now Rivian's largest shareholder: 15.9% stake (209.8M shares), overtaking Amazon\n  https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/\n• Georgia plant capacity raised 50% to 300K vehicles/yr — manufacturing scale signal\n  https://electrek.co/2026/04/30/rivian-rivn-boosts-production-capacity-georgia-plant-50/\n• RIVN in $13-14 downtrend: sector rotation, Hold consensus, PT $16.3-$20\n  https://www.reddit.com/r/ChartNavigators/comments/1tg6f5f/what_plays_are_you_looking_into_for_tomorrow/\n\n*📱 Software (1)*\n• Unintentional R1S door pop in reverse — owners requesting double-press confirmation setting\n  https://www.reddit.com/r/Rivian/comments/1tglgm5/unintentional_door_opening/\n\n*🌐 Community (2)*\n• Prospective R2 buyer worried about service wait times vs Tesla's mature support network\n  https://www.reddit.com/r/Rivian/comments/1tgkwn0/thinking_about_an_r2_to_replace_a_my_but_nervous/\n• r/RIVNstock community convinced institutional players suppressing share price ahead of R2 ramp\n  https://www.reddit.com/r/RIVNstock/comments/1tgn32k/dont_let_the_corporations_win/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Scout JV risk: Cariad stepping in for Rivian software — formal VW statement could clarify or damage partnership\n• R2 service network gap: Tesla switchers cite service wait times as #1 concern; needs infrastructure response before volume ramp\n• EV lease battlefield: IONIQ 9 and bZ incentives are aggressive — Rivian needs competitive R2 lease program\n\n_Competitive threat: 🟠 ELEVATED — Tesla iteration cadence + AV investment surge; Scout delay + Tesla stumbles create real near-term window_\n_Dashboard: https://watchgamefilm.vercel.app_\n_Dashboard status: pending verification_",
+    "items": [
+      {
+        "title": "Scout Motors to delay EV launch to summer 2028 — blames Rivian software alliance",
+        "url": "https://www.cbtnews.com/scout-motors-to-delay-ev-launch/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-15",
+        "snippet": "VW's Scout Motors brand is delaying launch to summer 2028, per Der Spiegel, citing that the Rivian software alliance has not delivered what Scout needs, forcing VW's crisis-ridden Cariad unit to step in. This removes a significant near-term R2 competitor in the outdoor EV segment but signals potential VW-Rivian JV execution friction."
+      },
+      {
+        "title": "Tesla increases Actually Smart Summon speed by 33% in FSD v14.3.3",
+        "url": "https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-17",
+        "snippet": "Tesla rolled out FSD V14.3.3 on May 17 with Spring 2026 UI, 33% faster Smart Summon, and a new intervention-free streak gamification counter. Tesla's software iteration cadence remains high — Rivian should study the streak mechanic as a model for Autonomy+ engagement loops."
+      },
+      {
+        "title": "Tesla finally reveals what happened in 17 Robotaxi crashes (NHTSA unredacted)",
+        "url": "https://electrek.co/2026/05/15/tesla-unredacts-robotaxi-crash-narratives-nhtsa/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-15",
+        "snippet": "Tesla unredacted 17 Robotaxi crash narratives filed with NHTSA, revealing failure modes in its unsupervised AV fleet. Combined with a Reuters investigation showing long wait times and surface-street-only routing, Tesla's autonomous vehicle credibility is under serious pressure — creating a narrative window for Rivian's Hey Rivian AI positioning."
+      },
+      {
+        "title": "Tesla's California sales crash 24% in Q1 2026",
+        "url": "https://electrek.co/2026/04/21/tesla-california-sales-crash-24-percent-q1-2026-ev-market/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "positive",
+        "publishedAt": "2026-04-21",
+        "snippet": "Tesla's California Q1 2026 registrations fell 24.3% YoY — over 10,000 fewer vehicles sold. California's entire EV market hit its lowest since 2021. This is a meaningful opening for R2 among California adventure and outdoor buyers actively seeking non-Tesla options at $45K."
+      },
+      {
+        "title": "Tesla's 4680 battery cells are underperforming and frustrating buyers",
+        "url": "https://electrek.co/2026/05/07/tesla-4680-battery-cell-performance-data-shows-cant-build-own-cells/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-07",
+        "snippet": "Five years after Battery Day, Tesla's in-house 4680 cells are delivering only a fraction of promised energy density gains. Buyers are frustrated with the gap between marketing claims and real-world performance. Rivian's use of established cell suppliers and pack integration focus may prove more reliable at scale."
+      },
+      {
+        "title": "Tesla FSD faces EU regulator skepticism over speeding and safety",
+        "url": "https://electrek.co/2026/05/05/tesla-fsd-eu-regulators-skepticism-speeding-approval/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-05",
+        "snippet": "Reuters obtained emails from European regulators expressing significant skepticism toward Tesla FSD, citing speeding behavior and safety concerns. EU approval is far from certain. Rivian maintains a clean regulatory standing with a more conservative ADAS positioning."
+      },
+      {
+        "title": "Uber turns on Waymo as it pours $10B+ into owning robotaxi alternatives",
+        "url": "https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-15",
+        "snippet": "Uber is publicly criticizing Waymo while investing $10B+ to own its own robotaxi stack. Uber also holds 19.6M Rivian shares. This creates strategic ambiguity: will Uber accelerate EDV fleet deployment on Rivian, or build competing AV hardware?"
+      },
+      {
+        "title": "Waymo's $16B round drives private equity investment surge in autonomous vehicles",
+        "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/5/waymo-s-16b-round-drives-private-equity-investment-surge-in-autonomous-vehicles-101366069",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-01",
+        "snippet": "Waymo's $16B funding round triggered record AV private equity investment in early 2026. The 2026 ADS Scorecard ranks Waymo at 87.9/100 while Aurora surpassed 100K driverless trucking miles. Accelerating AV commercial scale increases timeline pressure on Rivian's autonomy roadmap."
+      },
+      {
+        "title": "May 2026 EV lease: IONIQ 9 at $15K+ incentives, Toyota bZ at 0% APR",
+        "url": "https://www.reddit.com/r/leasehacker/",
+        "source": "reddit_ev",
+        "category": "competitive",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-01",
+        "snippet": "May 2026 lease data shows IONIQ 9 (3-row, 335-mile) carrying $14,500-$16,750 lease cash at under $600/mo; Toyota bZ at 0% APR and $481/mo base. R2 will compete at this price tier and needs strong incentive programs or conquest buyers will default to heavily subsidized alternatives."
+      },
+      {
+        "title": "My favorite use of assistant",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tgnf13/my_favorite_use_of_assistant/",
+        "source": "reddit_rivian",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-18",
+        "snippet": "R1T owner shares their favorite Hey Rivian use: asking the assistant about the town they're driving through — 'tell me about the cool or off-the-beaten-path things to try or see here.' Owner praises the hands-free contextual intelligence vs. phone use while driving. Real-world AI delight signal."
+      },
+      {
+        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
+        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
+        "source": "news",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-05",
+        "snippet": "Rivian is considering manufacturing lidar sensors in-house via a US-based Chinese tech partnership as part of building a full AV stack. Combined with the RAP1 silicon chip (5nm, 1,600 TOPS), this positions Rivian as one of the most vertically integrated consumer AV players — increasingly important as AV investment accelerates."
+      },
+      {
+        "title": "Rivian opens R2 configurator: here are all the options and pricing",
+        "url": "https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-15",
+        "snippet": "Rivian opened the R2 online configurator giving reservation holders first access to all options and pricing. R2 Performance positions Rivian directly against Model Y Performance. Spring 2026 deliveries on track — a critical revenue and narrative milestone for the R2 launch."
+      },
+      {
+        "title": "Rivian (RIVN) CEO hints at R2 pickup and R2X variants as production ramps",
+        "url": "https://electrek.co/2026/05/06/rivian-r2-variants-pickup-r2x-scaringe/",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-06",
+        "snippet": "CEO RJ Scaringe confirmed development of R2 variants including a pickup truck and R2X performance model. The platform strategy mirrors R1's dual-vehicle approach and spreads development costs across a broader addressable market as production scales."
+      },
+      {
+        "title": "Unintentional door opening while in reverse",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tglgm5/unintentional_door_opening/",
+        "source": "reddit_rivian",
+        "category": "software",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-18",
+        "snippet": "R1S owner reports accidentally triggering the driver door open while in reverse — has happened twice with doors locked. Community suspects ergonomic issue for shorter drivers sitting close to the button. Owner requesting double-press confirmation setting. Safety-relevant UX issue worth tracking ahead of R2 door design review."
+      },
+      {
+        "title": "Volkswagen overtakes Amazon as Rivian's (RIVN) largest shareholder with 15.9% stake",
+        "url": "https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/",
+        "source": "news",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-05",
+        "snippet": "VW now owns 209.8 million shares (15.9% stake) surpassing Amazon as Rivian's largest shareholder. The deepening relationship reinforces confidence in Rivian's platform value — though the Scout delay now introduces JV software execution risk that needs monitoring."
+      },
+      {
+        "title": "Rivian (RIVN) lifts production capacity for its Georgia plant by 50% to 300K vehicles annually",
+        "url": "https://electrek.co/2026/04/30/rivian-rivn-boosts-production-capacity-georgia-plant-50/",
+        "source": "news",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-04-30",
+        "snippet": "Rivian expects to produce up to 300,000 vehicles annually at its Georgia plant — a 50% increase from prior guidance. Strong manufacturing confidence signal as R2 production starts at Normal and Georgia positioned for next capacity wave."
+      },
+      {
+        "title": "RIVN downtrending at $13-14: sector rotation, technical breakdown, Hold consensus",
+        "url": "https://www.reddit.com/r/ChartNavigators/comments/1tg6f5f/what_plays_are_you_looking_into_for_tomorrow/",
+        "source": "reddit_ev",
+        "category": "business",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-18",
+        "snippet": "Financial community flags RIVN in a confirmed downtrend at $13-14: 5/22/26 14.0P at $0.45, analyst consensus Hold, price target $16.3-$20. Weakness attributed to sector rotation and technical breakdown. R2 delivery ramp and Hey Rivian/Autonomy+ press needed to shift institutional sentiment."
+      },
+      {
+        "title": "Thinking about an R2 to replace a MY but nervous about lack of manufacturer support",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tgkwn0/thinking_about_an_r2_to_replace_a_my_but_nervous/",
+        "source": "reddit_rivian",
+        "category": "community",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-18",
+        "snippet": "Prospective R2 buyer considering switching from Model Y but flagging service wait time concerns — Tesla has mature multi-SC + mobile support in their area while Rivian horror stories about long wait times have them worried. This is a recurring conquest conversion blocker that needs an aggressive infrastructure response before R2 volume ramp."
+      },
+      {
+        "title": "Don't let the corporations win — RIVN retail investor sentiment",
+        "url": "https://www.reddit.com/r/RIVNstock/comments/1tgn32k/dont_let_the_corporations_win/",
+        "source": "reddit_rivian",
+        "category": "community",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-18",
+        "snippet": "r/RIVNstock community post arguing institutional players are suppressing RIVN shares ahead of the R2 ramp — framing the decline as manipulation given strong fundamentals (Q1 revenue, Georgia plant, R2 production). Retail sentiment frustrated but still bullish on R2 thesis."
+      },
+      {
+        "title": "2026 Rivian VIN Decoders — active community tracking",
+        "url": "https://www.rivianforums.com/forum/threads/2026-rivian-vin-decoders.44742",
+        "source": "rivianforums",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": null,
+        "snippet": "Active RivianForums thread tracking 2026 Rivian VIN decoder patterns as new vehicles enter production. Community enthusiasts cross-referencing VINs with build specs and production timing — a leading indicator of R2 delivery ramp velocity. Date unknown — flagged accordingly."
+      }
+    ]
+  },
+  {
     "id": "2026-05-16T03:46:00.000Z",
     "timestamp": "2026-05-16T03:46:00.000Z",
     "sentiment": {
