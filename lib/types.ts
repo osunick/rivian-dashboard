@@ -23,6 +23,7 @@ export interface ReportItem {
   snippet: string;
   category?: CategoryKey;
   publishedAt?: string | null;
+  themes?: string[]; // Short 2-4 word tags, e.g. "FSD update", "RIVN stock"
 }
 
 export interface SourceData {
