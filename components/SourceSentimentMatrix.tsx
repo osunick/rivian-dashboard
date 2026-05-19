@@ -16,7 +16,6 @@ interface Item {
 
 interface Props {
   reports: Report[]; // newest first, up to 5
-  sourceItemsMap: Record<string, Item[]>; // all items per source across all valid reports
 }
 
 const SENTIMENT_COLORS: Record<string, string> = {
@@ -55,8 +54,17 @@ function formatShort(ts: string): string {
     ' ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'America/Los_Angeles' });
 }
 
-export default function SourceSentimentMatrix({ reports, sourceItemsMap }: Props) {
+export default function SourceSentimentMatrix({ reports }: Props) {
   const [modal, setModal] = useState<{ title: string; items: Item[] } | null>(null);
+
+  // Build per-source item map from the reports we already have
+  const sourceItemsMap: Record<string, Item[]> = {};
+  for (const r of reports) {
+    for (const item of (r.items ?? [])) {
+      if (!sourceItemsMap[item.source]) sourceItemsMap[item.source] = [];
+      sourceItemsMap[item.source].push({ ...item, reportTimestamp: r.timestamp });
+    }
+  }
 
   function openRow(key: SourceKey) {
     const items = sourceItemsMap[key] ?? [];

@@ -202,7 +202,7 @@ export default function DashboardPage() {
                   <span className="text-[#6B7280] text-xs font-mono">LAST 5 SCANS · CLICK TO DRILL DOWN</span>
                 </div>
                 {last5.length > 0
-                  ? <SourceSentimentMatrix reports={last5} sourceItemsMap={sourceItemsMap} />
+                  ? <SourceSentimentMatrix reports={last5} />
                   : <div className="text-[#6B7280] text-xs font-mono py-8 text-center">No data yet</div>
                 }
               </div>
