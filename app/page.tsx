@@ -181,9 +181,9 @@ export default function DashboardPage() {
               <div className="lg:col-span-2 bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
                 <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Activity</h2>
-                  <span className="text-[#6B7280] text-xs font-mono">LATEST SCAN</span>
+                  <span className="text-[#6B7280] text-xs font-mono">LATEST SCAN · CLICK TO DRILL DOWN</span>
                 </div>
-                <SourceActivityChart data={sourceActivityData} />
+                <SourceActivityChart data={sourceActivityData} itemsMap={sourceItemsMap} />
               </div>
             </div>
 
