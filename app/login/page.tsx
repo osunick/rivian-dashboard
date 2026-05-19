@@ -41,8 +41,8 @@ export default function LoginPage() {
 
         <div className="text-center mb-8">
           <span className="text-[#3B82F6] text-3xl">🔵</span>
-          <h1 className="text-[#F5F5F5] font-semibold text-xl mt-3 tracking-tight">Rivian Autonomy</h1>
-          <p className="text-[#6B7280] text-sm font-mono mt-1">SENTIMENT DASHBOARD</p>
+          <h1 className="text-[#F5F5F5] font-semibold text-xl mt-3 tracking-tight">GameFilm</h1>
+          <p className="text-[#6B7280] text-sm font-mono mt-1">INTELLIGENCE DASHBOARD</p>
         </div>
 
         <form onSubmit={handleSubmit} className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-6 space-y-4">

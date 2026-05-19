@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Rivian Autonomy — Sentiment Dashboard',
-  description: 'Real-time social sentiment tracking for Rivian autonomy coverage',
+  title: 'GameFilm',
+  description: 'Competitive intelligence dashboard',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
