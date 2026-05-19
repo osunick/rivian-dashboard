@@ -95,19 +95,16 @@ export default function SourceSentimentMatrix({ matrix }: Props) {
                       >
                         <SentimentDot
                           sentiment={cell.sentiment}
-                          found={cell.found}
+                          found={cell.items.length}
                           onClick={cell.items.length > 0 ? () => setModal({ title: `${row.label} · ${matrix.headers[ci]}`, items: cell.items }) : undefined}
                         />
                       </div>
-                      {cell.found > 0 && (
+                      {cell.items.length > 0 && (
                         <div
-                          className={`text-[9px] text-center font-mono mt-0.5 transition-colors${cell.items.length > 0 ? ' text-[#374151] cursor-pointer hover:text-[#3B82F6]' : ' text-[#374151]'}`}
-                          onClick={() => {
-                            if (cell.items.length === 0) return;
-                            setModal({ title: `${row.label} · ${matrix.headers[ci]}`, items: cell.items });
-                          }}
+                          className="text-[9px] text-center font-mono mt-0.5 text-[#374151] cursor-pointer hover:text-[#3B82F6] transition-colors"
+                          onClick={() => setModal({ title: `${row.label} · ${matrix.headers[ci]}`, items: cell.items })}
                         >
-                          {cell.found}
+                          {cell.items.length}
                         </div>
                       )}
                     </td>
