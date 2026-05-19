@@ -1,7 +1,8 @@
 'use client';
 
-import { useState } from 'react';
-import { SOURCE_LABELS, SourceKey, SentimentLabel } from '@/lib/types';
+import { useState, useMemo } from 'react';
+import { SOURCE_LABELS, SourceKey, SentimentLabel, SOURCE_KEYS } from '@/lib/types';
+import reportsRaw from '@/public/data/reports.json';
 
 interface SourceEntry {
   source: string;
@@ -21,7 +22,6 @@ interface Item {
 
 interface Props {
   data: SourceEntry[];
-  itemsMap?: Record<string, Item[]>;
 }
 
 const SENTIMENT_COLORS: Record<string, string> = {
@@ -35,7 +35,32 @@ function sentimentColor(s: SentimentLabel | null): string {
   return SENTIMENT_COLORS[s ?? 'unknown'];
 }
 
-export default function SourceActivityChart({ data, itemsMap }: Props) {
+// Build itemsMap client-side from bundled JSON — no RSC prop needed
+function buildItemsMap(): Record<string, Item[]> {
+  const map: Record<string, Item[]> = {};
+  const seen: Record<string, Set<string>> = {};
+  for (const key of SOURCE_KEYS) {
+    map[key] = [];
+    seen[key] = new Set();
+  }
+  const reports = (reportsRaw as any[]).filter(
+    r => !r.scanError && (r.sentiment?.positive + r.sentiment?.neutral + r.sentiment?.negative) > 0
+  );
+  for (const r of reports) {
+    for (const item of (r.items ?? [])) {
+      const src = item.source as string;
+      if (SOURCE_KEYS.includes(src as SourceKey) && !seen[src].has(item.url)) {
+        seen[src].add(item.url);
+        map[src].push({ ...item, reportTimestamp: r.timestamp });
+      }
+    }
+  }
+  return map;
+}
+
+const ITEMS_MAP = buildItemsMap();
+
+export default function SourceActivityChart({ data }: Props) {
   const [open, setOpen] = useState<string | null>(null);
 
   const sorted = [...data].sort((a, b) => b.found - a.found);
@@ -46,14 +71,13 @@ export default function SourceActivityChart({ data, itemsMap }: Props) {
       {sorted.map(entry => {
         const label = SOURCE_LABELS[entry.source as SourceKey] ?? entry.source;
         const color = sentimentColor(entry.sentiment);
-        const items = itemsMap?.[entry.source] ?? [];
+        const items = ITEMS_MAP[entry.source] ?? [];
         const hasItems = items.length > 0;
         const pct = (entry.found / max) * 100;
         const isOpen = open === entry.source;
 
         return (
           <div key={entry.source} className="rounded-md border border-transparent hover:border-[#2A2A2A] transition-colors">
-            {/* Row — always clickable */}
             <div
               role="button"
               tabIndex={0}
@@ -92,15 +116,14 @@ export default function SourceActivityChart({ data, itemsMap }: Props) {
               </div>
             </div>
 
-            {/* Inline drill-down */}
             {isOpen && (
               <div className="border-t border-[#1F1F1F] px-2 pb-2 pt-2 space-y-2">
                 {items.length === 0 ? (
-                  <p className="text-[#6B7280] text-xs font-mono text-center py-2">No items on record for this source.</p>
+                  <p className="text-[#6B7280] text-xs font-mono text-center py-2">No items on record.</p>
                 ) : (
                   items.slice(0, 10).map((item, i) => (
                     <div key={i} className="rounded border border-[#1F1F1F] bg-[#0D0D0D] p-3 space-y-1">
-                      <div className="flex flex-wrap items-center gap-1.5 mb-1">
+                      <div className="flex flex-wrap items-center gap-1.5">
                         <span
                           className="text-[10px] font-mono px-1 py-0.5 rounded"
                           style={{
@@ -130,7 +153,7 @@ export default function SourceActivityChart({ data, itemsMap }: Props) {
                 )}
                 {items.length > 10 && (
                   <p className="text-[#4B5563] text-[10px] font-mono text-center pt-1">
-                    + {items.length - 10} more items across all scans
+                    +{items.length - 10} more across all scans
                   </p>
                 )}
               </div>

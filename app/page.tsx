@@ -183,7 +183,7 @@ export default function DashboardPage() {
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Activity</h2>
                   <span className="text-[#6B7280] text-xs font-mono">LATEST SCAN · CLICK TO DRILL DOWN</span>
                 </div>
-                <SourceActivityChart data={sourceActivityData} itemsMap={sourceItemsMap} />
+                <SourceActivityChart data={sourceActivityData} />
               </div>
             </div>
 
