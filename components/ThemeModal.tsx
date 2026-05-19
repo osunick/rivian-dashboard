@@ -1,6 +1,7 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
+import { createPortal } from 'react-dom';
 import { SOURCE_LABELS, SourceKey } from '@/lib/types';
 
 interface Item {
@@ -26,61 +27,90 @@ const SENTIMENT_COLOR: Record<string, string> = {
 };
 
 export default function ThemeModal({ theme, items, onClose }: Props) {
-  // Close on Escape
+  const [mounted, setMounted] = useState(false);
+
   useEffect(() => {
+    setMounted(true);
     const handler = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose(); };
     window.addEventListener('keydown', handler);
-    return () => window.removeEventListener('keydown', handler);
+    // Prevent body scroll while modal is open
+    document.body.style.overflow = 'hidden';
+    return () => {
+      window.removeEventListener('keydown', handler);
+      document.body.style.overflow = '';
+    };
   }, [onClose]);
 
-  return (
+  if (!mounted) return null;
+
+  const modal = (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center px-4"
-      style={{ background: 'rgba(0,0,0,0.75)' }}
+      style={{
+        position: 'fixed',
+        inset: 0,
+        zIndex: 9999,
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        padding: '0 16px',
+        background: 'rgba(0,0,0,0.80)',
+      }}
       onClick={onClose}
     >
       <div
-        className="relative bg-[#111111] border border-[#2F2F2F] rounded-xl w-full max-w-2xl max-h-[80vh] flex flex-col shadow-2xl"
+        style={{
+          position: 'relative',
+          background: '#111111',
+          border: '1px solid #2F2F2F',
+          borderRadius: '12px',
+          width: '100%',
+          maxWidth: '672px',
+          maxHeight: '80vh',
+          display: 'flex',
+          flexDirection: 'column',
+          boxShadow: '0 25px 50px -12px rgba(0,0,0,0.9)',
+        }}
         onClick={e => e.stopPropagation()}
       >
         {/* Header */}
-        <div className="flex items-start justify-between px-5 py-4 border-b border-[#1F1F1F]">
-          <div className="flex-1 pr-4">
-            <div className="text-[#6B7280] text-xs font-mono uppercase tracking-wider mb-1">Theme</div>
-            <div className="text-[#F5F5F5] text-sm font-semibold leading-snug">{theme}</div>
+        <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', padding: '16px 20px', borderBottom: '1px solid #1F1F1F' }}>
+          <div style={{ flex: 1, paddingRight: '16px' }}>
+            <div style={{ color: '#6B7280', fontSize: '11px', fontFamily: 'monospace', textTransform: 'uppercase', letterSpacing: '0.1em', marginBottom: '4px' }}>Source</div>
+            <div style={{ color: '#F5F5F5', fontSize: '14px', fontWeight: 600, lineHeight: 1.4 }}>{theme}</div>
           </div>
           <button
             onClick={onClose}
-            className="text-[#6B7280] hover:text-[#F5F5F5] text-lg leading-none transition-colors mt-0.5"
+            style={{ color: '#6B7280', fontSize: '18px', lineHeight: 1, background: 'none', border: 'none', cursor: 'pointer', marginTop: '2px' }}
           >
             ✕
           </button>
         </div>
 
         {/* Body */}
-        <div className="overflow-y-auto flex-1 px-5 py-4 space-y-4">
+        <div style={{ overflowY: 'auto', flex: 1, padding: '16px 20px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
           {items.length === 0 ? (
-            <div className="text-[#6B7280] text-sm font-mono text-center py-8">
-              No source items linked to this theme.
+            <div style={{ color: '#6B7280', fontSize: '13px', fontFamily: 'monospace', textAlign: 'center', padding: '32px 0' }}>
+              No items found for this source.
             </div>
           ) : (
             items.map((item, i) => (
-              <div key={i} className="border border-[#1F1F1F] rounded-lg p-4 space-y-2">
-                <div className="flex flex-wrap items-center gap-2">
-                  <span className="text-[#6B7280] text-xs font-mono">
+              <div key={i} style={{ border: '1px solid #1F1F1F', borderRadius: '8px', padding: '16px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '8px' }}>
+                  <span style={{ color: '#6B7280', fontSize: '11px', fontFamily: 'monospace' }}>
                     {SOURCE_LABELS[item.source as SourceKey] ?? item.source}
                   </span>
-                  <span
-                    className="text-xs font-mono px-1.5 py-0.5 rounded"
-                    style={{
-                      color: SENTIMENT_COLOR[item.sentiment] ?? '#6B7280',
-                      background: (SENTIMENT_COLOR[item.sentiment] ?? '#6B7280') + '18',
-                    }}
-                  >
+                  <span style={{
+                    fontSize: '11px',
+                    fontFamily: 'monospace',
+                    padding: '2px 6px',
+                    borderRadius: '4px',
+                    color: SENTIMENT_COLOR[item.sentiment] ?? '#6B7280',
+                    background: (SENTIMENT_COLOR[item.sentiment] ?? '#6B7280') + '22',
+                  }}>
                     {item.sentiment}
                   </span>
                   {item.publishedAt && (
-                    <span className="text-[#4B5563] text-xs font-mono">{item.publishedAt}</span>
+                    <span style={{ color: '#4B5563', fontSize: '11px', fontFamily: 'monospace' }}>{item.publishedAt}</span>
                   )}
                 </div>
 
@@ -88,20 +118,20 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[#F5F5F5] text-sm font-semibold hover:text-[#3B82F6] transition-colors block leading-snug"
+                  style={{ color: '#F5F5F5', fontSize: '14px', fontWeight: 600, textDecoration: 'none', lineHeight: 1.4, display: 'block' }}
                 >
                   {item.title}
                 </a>
 
                 {item.snippet && (
-                  <p className="text-[#9CA3AF] text-xs leading-relaxed">{item.snippet}</p>
+                  <p style={{ color: '#9CA3AF', fontSize: '12px', lineHeight: 1.6, margin: 0 }}>{item.snippet}</p>
                 )}
 
                 <a
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[#3B82F6] text-xs font-mono hover:underline break-all"
+                  style={{ color: '#3B82F6', fontSize: '11px', fontFamily: 'monospace', textDecoration: 'none', wordBreak: 'break-all' }}
                 >
                   🔗 {item.url}
                 </a>
@@ -110,10 +140,12 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
           )}
         </div>
 
-        <div className="px-5 py-3 border-t border-[#1F1F1F] text-[#4B5563] text-xs font-mono">
-          {items.length} source item{items.length !== 1 ? 's' : ''}
+        <div style={{ padding: '12px 20px', borderTop: '1px solid #1F1F1F', color: '#4B5563', fontSize: '11px', fontFamily: 'monospace' }}>
+          {items.length} item{items.length !== 1 ? 's' : ''}
         </div>
       </div>
     </div>
   );
+
+  return createPortal(modal, document.body);
 }

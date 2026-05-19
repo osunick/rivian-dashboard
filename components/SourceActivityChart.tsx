@@ -48,19 +48,20 @@ export default function SourceActivityChart({ data, itemsMap }: Props) {
         {sorted.map(entry => {
           const label = SOURCE_LABELS[entry.source as SourceKey] ?? entry.source;
           const color = sentimentColor(entry.sentiment);
-          const hasItems = itemsMap && (itemsMap[entry.source]?.length ?? 0) > 0;
+          const items = itemsMap?.[entry.source] ?? [];
+          const hasItems = items.length > 0;
           const pct = (entry.found / max) * 100;
 
           return (
-            <button
+            <div
               key={entry.source}
-              onClick={() => hasItems && setActive({ source: entry.source, label })}
-              className={`w-full text-left group ${hasItems ? 'cursor-pointer' : 'cursor-default'}`}
-              disabled={!hasItems}
+              onClick={() => { if (hasItems) setActive({ source: entry.source, label }); }}
+              className={`rounded-md px-2 py-1.5 transition-colors ${hasItems ? 'cursor-pointer hover:bg-[#1A1A1A]' : 'cursor-default opacity-60'}`}
             >
               <div className="flex items-center justify-between mb-1">
-                <span className={`text-xs font-mono transition-colors ${hasItems ? 'text-[#9CA3AF] group-hover:text-[#F5F5F5]' : 'text-[#6B7280]'}`}>
+                <span className={`text-xs font-mono ${hasItems ? 'text-[#9CA3AF]' : 'text-[#6B7280]'}`}>
                   {label}
+                  {hasItems && <span className="text-[#3B82F6] ml-1 text-[10px]">↗</span>}
                 </span>
                 <div className="flex items-center gap-2">
                   {entry.sentiment && (
@@ -71,7 +72,7 @@ export default function SourceActivityChart({ data, itemsMap }: Props) {
                       {entry.sentiment}
                     </span>
                   )}
-                  <span className="text-[#6B7280] text-xs font-mono">
+                  <span className="text-[#6B7280] text-xs font-mono tabular-nums">
                     {entry.found}
                   </span>
                 </div>
@@ -82,11 +83,11 @@ export default function SourceActivityChart({ data, itemsMap }: Props) {
                   style={{
                     width: `${pct}%`,
                     backgroundColor: color,
-                    opacity: entry.found === 0 ? 0.3 : 0.8,
+                    opacity: entry.found === 0 ? 0.2 : 0.75,
                   }}
                 />
               </div>
-            </button>
+            </div>
           );
         })}
 
