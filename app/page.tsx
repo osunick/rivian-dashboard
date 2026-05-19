@@ -14,6 +14,7 @@ import {
   getCompetitorIntelMap,
   getCompetitiveItemCountLatest,
   getOverallThreatLevel,
+  getSourceItemsMap,
 } from '@/lib/data';
 import { SOURCE_KEYS } from '@/lib/types';
 import KpiCards from '@/components/KpiCards';
@@ -48,6 +49,7 @@ export default function DashboardPage() {
   const totalPosts = getTotalPostsLatest();
   const activeSources = getActiveSourcesLatest();
   const last5 = getLast5ReportsNewestFirst();
+  const sourceItemsMap = getSourceItemsMap();
   const competitorIntelMap = getCompetitorIntelMap();
   const competitiveItems = getCompetitiveItemCountLatest();
   const threatLevel = getOverallThreatLevel();
@@ -197,10 +199,10 @@ export default function DashboardPage() {
               <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
                 <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Matrix</h2>
-                  <span className="text-[#6B7280] text-xs font-mono">LAST 5 SCANS</span>
+                  <span className="text-[#6B7280] text-xs font-mono">LAST 5 SCANS · CLICK TO DRILL DOWN</span>
                 </div>
                 {last5.length > 0
-                  ? <SourceSentimentMatrix reports={last5} />
+                  ? <SourceSentimentMatrix reports={last5} sourceItemsMap={sourceItemsMap} />
                   : <div className="text-[#6B7280] text-xs font-mono py-8 text-center">No data yet</div>
                 }
               </div>

@@ -1,4 +1,4 @@
-import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, CompetitorProfile, COMPETITORS, ThreatLevel } from './types';
+import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, SOURCE_KEYS, CompetitorProfile, COMPETITORS, ThreatLevel } from './types';
 import reportsRaw from '../public/data/reports.json';
 
 // Cast and sort newest first
@@ -204,6 +204,26 @@ export function getCompetitorIntelMap(): Record<string, {
       items,
       threatLevel: getCompetitorThreatLevel(competitor, items),
     };
+  }
+  return map;
+}
+
+/** All items grouped by source key, across all valid reports, deduplicated by URL. */
+export function getSourceItemsMap(): Record<SourceKey, (Report['items'][number] & { reportTimestamp: string })[]> {
+  const map = {} as Record<SourceKey, (Report['items'][number] & { reportTimestamp: string })[]>;
+  const seen: Record<string, Set<string>> = {};
+  for (const key of SOURCE_KEYS) {
+    map[key] = [];
+    seen[key] = new Set();
+  }
+  for (const r of validReports) {
+    for (const item of r.items) {
+      const src = item.source as SourceKey;
+      if (SOURCE_KEYS.includes(src) && !seen[src].has(item.url)) {
+        seen[src].add(item.url);
+        map[src].push({ ...item, reportTimestamp: r.timestamp });
+      }
+    }
   }
   return map;
 }
