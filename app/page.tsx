@@ -10,11 +10,11 @@ import {
   getSentimentDelta,
   getTotalPostsLatest,
   getActiveSourcesLatest,
-  getLast5ReportsNewestFirst,
+
   getCompetitorIntelMap,
   getCompetitiveItemCountLatest,
   getOverallThreatLevel,
-  getSourceItemsMap,
+  getSourceMatrixData,
 } from '@/lib/data';
 import { SOURCE_KEYS } from '@/lib/types';
 import KpiCards from '@/components/KpiCards';
@@ -48,8 +48,7 @@ export default function DashboardPage() {
   const negativeDelta = getSentimentDelta('negative');
   const totalPosts = getTotalPostsLatest();
   const activeSources = getActiveSourcesLatest();
-  const last5 = getLast5ReportsNewestFirst();
-  const sourceItemsMap = getSourceItemsMap();
+  const matrixData = getSourceMatrixData();
   const competitorIntelMap = getCompetitorIntelMap();
   const competitiveItems = getCompetitiveItemCountLatest();
   const threatLevel = getOverallThreatLevel();
@@ -201,8 +200,8 @@ export default function DashboardPage() {
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Matrix</h2>
                   <span className="text-[#6B7280] text-xs font-mono">LAST 5 SCANS · CLICK TO DRILL DOWN</span>
                 </div>
-                {last5.length > 0
-                  ? <SourceSentimentMatrix reports={last5} />
+                {matrixData.rows.length > 0
+                  ? <SourceSentimentMatrix matrix={matrixData} />
                   : <div className="text-[#6B7280] text-xs font-mono py-8 text-center">No data yet</div>
                 }
               </div>

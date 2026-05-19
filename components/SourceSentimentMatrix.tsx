@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Report, SOURCE_KEYS, SOURCE_LABELS, SourceKey, SentimentLabel } from '@/lib/types';
+import { SourceMatrixData, MatrixRow } from '@/lib/data';
 import ThemeModal from './ThemeModal';
 
 interface Item {
@@ -15,7 +15,7 @@ interface Item {
 }
 
 interface Props {
-  reports: Report[]; // newest first, up to 5
+  matrix: SourceMatrixData;
 }
 
 const SENTIMENT_COLORS: Record<string, string> = {
@@ -25,63 +25,31 @@ const SENTIMENT_COLORS: Record<string, string> = {
 };
 
 function SentimentDot({ sentiment, found, onClick }: {
-  sentiment: SentimentLabel | null;
+  sentiment: string | null;
   found: number;
   onClick?: () => void;
 }) {
-  const isClickable = found > 0 && onClick;
+  const clickable = found > 0 && !!onClick;
   if (!sentiment) {
     return (
       <span
-        className={`w-3 h-3 rounded-full bg-[#1F1F1F] inline-block ${isClickable ? 'cursor-pointer' : ''}`}
+        className={`w-3 h-3 rounded-full bg-[#1F1F1F] inline-block${clickable ? ' cursor-pointer' : ''}`}
         onClick={onClick}
       />
     );
   }
   return (
     <span
-      className={`w-3 h-3 rounded-full inline-block transition-transform ${isClickable ? 'cursor-pointer hover:scale-125' : ''}`}
-      style={{ backgroundColor: SENTIMENT_COLORS[sentiment] }}
-      title={`${sentiment} · ${found} item${found !== 1 ? 's' : ''} — click to drill down`}
+      className={`w-3 h-3 rounded-full inline-block transition-transform${clickable ? ' cursor-pointer hover:scale-125' : ''}`}
+      style={{ backgroundColor: SENTIMENT_COLORS[sentiment] ?? '#6B7280' }}
+      title={clickable ? `${sentiment} · ${found} item${found !== 1 ? 's' : ''} — click to drill down` : sentiment}
       onClick={onClick}
     />
   );
 }
 
-function formatShort(ts: string): string {
-  const d = new Date(ts);
-  return d.toLocaleDateString('en-US', { month: 'numeric', day: 'numeric', timeZone: 'America/Los_Angeles' }) +
-    ' ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'America/Los_Angeles' });
-}
-
-export default function SourceSentimentMatrix({ reports }: Props) {
+export default function SourceSentimentMatrix({ matrix }: Props) {
   const [modal, setModal] = useState<{ title: string; items: Item[] } | null>(null);
-
-  // Build per-source item map from the reports we already have
-  const sourceItemsMap: Record<string, Item[]> = {};
-  for (const r of reports) {
-    for (const item of (r.items ?? [])) {
-      if (!sourceItemsMap[item.source]) sourceItemsMap[item.source] = [];
-      sourceItemsMap[item.source].push({ ...item, reportTimestamp: r.timestamp });
-    }
-  }
-
-  function openRow(key: SourceKey) {
-    const items = sourceItemsMap[key] ?? [];
-    if (items.length === 0) return;
-    setModal({ title: `${SOURCE_LABELS[key]} — All Scans`, items });
-  }
-
-  function openCell(key: SourceKey, report: Report) {
-    const items = report.items
-      .filter(i => i.source === key)
-      .map(i => ({ ...i, reportTimestamp: report.timestamp }));
-    if (items.length === 0) return;
-    setModal({
-      title: `${SOURCE_LABELS[key]} · ${formatShort(report.timestamp)}`,
-      items,
-    });
-  }
 
   return (
     <>
@@ -89,67 +57,61 @@ export default function SourceSentimentMatrix({ reports }: Props) {
         <table className="w-full text-xs border-collapse">
           <thead>
             <tr>
-              <th className="text-left text-[#6B7280] font-mono font-normal pb-2 pr-4 w-32">
-                SOURCE
-              </th>
-              {reports.map(r => (
-                <th key={r.id} className="text-center text-[#6B7280] font-mono font-normal pb-2 px-2 whitespace-nowrap">
-                  {formatShort(r.timestamp)}
+              <th className="text-left text-[#6B7280] font-mono font-normal pb-2 pr-4 w-32">SOURCE</th>
+              {matrix.headers.map((h, i) => (
+                <th key={matrix.reportIds[i]} className="text-center text-[#6B7280] font-mono font-normal pb-2 px-2 whitespace-nowrap">
+                  {h}
                 </th>
               ))}
             </tr>
           </thead>
           <tbody>
-            {SOURCE_KEYS.map((key, i) => {
-              const allItems = sourceItemsMap[key] ?? [];
-              const hasAny = allItems.length > 0;
+            {matrix.rows.map((row, i) => {
+              const hasAny = row.allItems.length > 0;
               return (
-                <tr
-                  key={key}
-                  className={i % 2 === 0 ? 'bg-[#0D0D0D]' : 'bg-transparent'}
-                >
+                <tr key={row.key} className={i % 2 === 0 ? 'bg-[#0D0D0D]' : 'bg-transparent'}>
                   <td className="py-2 pr-4 whitespace-nowrap">
                     <button
-                      onClick={() => openRow(key)}
-                      disabled={!hasAny}
+                      onClick={() => {
+                        if (row.allItems.length === 0) return;
+                        setModal({ title: `${row.label} — All Scans`, items: row.allItems });
+                      }}
                       className={`text-xs font-mono transition-colors text-left ${
-                        hasAny
-                          ? 'text-[#9CA3AF] hover:text-[#3B82F6] cursor-pointer'
-                          : 'text-[#374151] cursor-default'
+                        hasAny ? 'text-[#9CA3AF] hover:text-[#3B82F6] cursor-pointer' : 'text-[#374151] cursor-default'
                       }`}
-                      title={hasAny ? `${allItems.length} items from ${SOURCE_LABELS[key]} — click to view all` : 'No items'}
+                      title={hasAny ? `${row.allItems.length} items · click to view all` : 'No items'}
                     >
-                      {SOURCE_LABELS[key]}
+                      {row.label}
                     </button>
                   </td>
-                  {reports.map(r => {
-                    const src = r.sources[key];
-                    const cellItems = r.items.filter(i => i.source === key);
-                    return (
-                      <td key={r.id} className="py-2 px-2 text-center">
+                  {row.cells.map((cell, ci) => (
+                    <td key={matrix.reportIds[ci]} className="py-2 px-2 text-center">
+                      <div
+                        className={`flex justify-center items-center${cell.items.length > 0 ? ' cursor-pointer' : ''}`}
+                        onClick={() => {
+                          if (cell.items.length === 0) return;
+                          setModal({ title: `${row.label} · ${matrix.headers[ci]}`, items: cell.items });
+                        }}
+                      >
+                        <SentimentDot
+                          sentiment={cell.sentiment}
+                          found={cell.found}
+                          onClick={cell.items.length > 0 ? () => setModal({ title: `${row.label} · ${matrix.headers[ci]}`, items: cell.items }) : undefined}
+                        />
+                      </div>
+                      {cell.found > 0 && (
                         <div
-                          className={`flex justify-center items-center ${cellItems.length > 0 ? 'cursor-pointer group' : ''}`}
-                          onClick={() => openCell(key, r)}
+                          className={`text-[9px] text-center font-mono mt-0.5 transition-colors${cell.items.length > 0 ? ' text-[#374151] cursor-pointer hover:text-[#3B82F6]' : ' text-[#374151]'}`}
+                          onClick={() => {
+                            if (cell.items.length === 0) return;
+                            setModal({ title: `${row.label} · ${matrix.headers[ci]}`, items: cell.items });
+                          }}
                         >
-                          <SentimentDot
-                            sentiment={src.sentiment}
-                            found={src.found}
-                            onClick={cellItems.length > 0 ? () => openCell(key, r) : undefined}
-                          />
+                          {cell.found}
                         </div>
-                        {src.found > 0 && (
-                          <div
-                            className={`text-[9px] text-center font-mono mt-0.5 transition-colors ${
-                              cellItems.length > 0 ? 'text-[#374151] cursor-pointer hover:text-[#3B82F6]' : 'text-[#374151]'
-                            }`}
-                            onClick={() => openCell(key, r)}
-                          >
-                            {src.found}
-                          </div>
-                        )}
-                      </td>
-                    );
-                  })}
+                      )}
+                    </td>
+                  ))}
                 </tr>
               );
             })}

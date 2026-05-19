@@ -1,4 +1,4 @@
-import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, SOURCE_KEYS, CompetitorProfile, COMPETITORS, ThreatLevel } from './types';
+import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, SOURCE_KEYS, SOURCE_LABELS, CompetitorProfile, COMPETITORS, ThreatLevel } from './types';
 import reportsRaw from '../public/data/reports.json';
 
 // Cast and sort newest first
@@ -226,6 +226,57 @@ export function getSourceItemsMap(): Record<SourceKey, (Report['items'][number] 
     }
   }
   return map;
+}
+
+export interface MatrixCell {
+  found: number;
+  sentiment: string | null;
+  items: (Report['items'][number] & { reportTimestamp: string })[];
+}
+
+export interface MatrixRow {
+  key: SourceKey;
+  label: string;
+  allItems: (Report['items'][number] & { reportTimestamp: string })[];
+  cells: MatrixCell[]; // same order as headers
+}
+
+export interface SourceMatrixData {
+  headers: string[];       // formatted date strings, newest first
+  reportIds: string[];     // report ids, same order
+  rows: MatrixRow[];
+}
+
+/**
+ * Pre-computed flat matrix data for the SourceSentimentMatrix component.
+ * Avoids relying on the RSC serializer to faithfully hydrate nested Report[].items.
+ */
+export function getSourceMatrixData(): SourceMatrixData {
+  const reports5 = validReports.slice(0, 5);
+
+  const headers = reports5.map(r => {
+    const d = new Date(r.timestamp);
+    return d.toLocaleDateString('en-US', { month: 'numeric', day: 'numeric', timeZone: 'America/Los_Angeles' }) +
+      ' ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'America/Los_Angeles' });
+  });
+
+  const reportIds = reports5.map(r => r.id);
+
+  // Build all-items map (across all valid reports, not just last 5)
+  const allItemsMap = getSourceItemsMap();
+
+  const rows: MatrixRow[] = SOURCE_KEYS.map(key => ({
+    key,
+    label: SOURCE_LABELS[key],
+    allItems: allItemsMap[key],
+    cells: reports5.map(r => ({
+      found: r.sources[key].found,
+      sentiment: r.sources[key].sentiment ?? null,
+      items: (r.items ?? []).filter(i => i.source === key).map(i => ({ ...i, reportTimestamp: r.timestamp })),
+    })),
+  }));
+
+  return { headers, reportIds, rows };
 }
 
 /** Total count of competitive items in latest report. */
