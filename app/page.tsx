@@ -27,7 +27,7 @@ import ReportHistory from '@/components/ReportHistory';
 import CompetitorWatch from '@/components/CompetitorWatch';
 import ScoutingReport from '@/components/ScoutingReport';
 
-export const dynamic = 'force-static';
+export const dynamic = 'force-dynamic';
 
 const THREAT_HEADER: Record<string, { color: string; label: string }> = {
   high:     { color: '#EF4444', label: 'HIGH THREAT' },
