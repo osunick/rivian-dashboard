@@ -40,22 +40,25 @@ function formatFull(ts: string): string {
 function ReportRow({ report, index }: { report: Report; index: number }) {
   const [expanded, setExpanded] = useState(false);
   const isFailed = !!report.scanError;
+  const toggle = () => setExpanded(e => !e);
 
   return (
-    <div className={`border-b border-[#1F1F1F] last:border-0 ${isFailed ? 'opacity-50' : index % 2 === 0 ? 'bg-[#0D0D0D]' : ''}`}>
-      {/* Mobile layout */}
-      <div className="flex sm:hidden flex-col gap-1.5 px-3 py-2.5 hover:bg-[#141414] transition-colors">
+    <div className={`border-b border-[#1F1F1F] last:border-0 ${isFailed ? 'opacity-50' : index % 2 === 0 ? 'bg-[#0D0D0D]' : ''} ${expanded ? 'bg-[#141414]' : ''}`}>
+      {/* Mobile layout — whole row clickable */}
+      <button
+        type="button"
+        onClick={toggle}
+        aria-expanded={expanded}
+        className="flex sm:hidden w-full flex-col gap-1.5 px-3 py-2.5 text-left hover:bg-[#141414] active:bg-[#1a1a1a] transition-colors cursor-pointer"
+      >
         <div className="flex items-center justify-between">
           <span className="font-mono text-[#6B7280] text-[10px]">{formatFull(report.timestamp)}</span>
-          <div className="flex items-center gap-1">
-            <button
-              onClick={() => setExpanded(e => !e)}
-              className="flex-shrink-0 w-6 h-6 flex items-center justify-center text-[#6B7280] hover:text-[#F5F5F5] hover:bg-[#1F1F1F] rounded transition-colors text-xs"
-              title={expanded ? 'Collapse' : 'Expand full report'}
-            >
-              {expanded ? '▼' : '▶'}
-            </button>
-          </div>
+          <span
+            className={`flex-shrink-0 w-6 h-6 flex items-center justify-center text-[#6B7280] text-xs transition-transform ${expanded ? 'rotate-90' : ''}`}
+            aria-hidden="true"
+          >
+            ▶
+          </span>
         </div>
         {isFailed ? (
           <span className="text-[#F59E0B] font-mono text-[11px]">⚠️ SCAN FAILED — {report.scanError}</span>
@@ -67,13 +70,18 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
               <span className="text-[#6B7280]">{report.sentiment.neutral}%</span>
               <span className="text-[#EF4444]">{report.sentiment.negative}%</span>
             </div>
-            <div className="text-[#A1A1AA] text-xs leading-snug line-clamp-2">{report.summary}</div>
+            <div className={`text-[#A1A1AA] text-xs leading-snug ${expanded ? '' : 'line-clamp-2'}`}>{report.summary}</div>
           </>
         )}
-      </div>
+      </button>
 
-      {/* Desktop layout */}
-      <div className="hidden sm:flex items-center gap-4 px-3 py-2.5 hover:bg-[#141414] transition-colors">
+      {/* Desktop layout — whole row clickable */}
+      <button
+        type="button"
+        onClick={toggle}
+        aria-expanded={expanded}
+        className="hidden sm:flex w-full items-center gap-4 px-3 py-2.5 text-left hover:bg-[#141414] active:bg-[#1a1a1a] transition-colors cursor-pointer"
+      >
         {/* Timestamp */}
         <div className="font-mono text-[#6B7280] text-xs whitespace-nowrap w-44 flex-shrink-0">
           {formatFull(report.timestamp)}
@@ -102,20 +110,19 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
                   </span>
                 ))}
               </span>
-              <span className="text-[#A1A1AA]">{report.summary}</span>
+              <span className="text-[#A1A1AA] truncate inline-block max-w-full align-middle">{report.summary}</span>
             </>
           )}
         </div>
 
-        {/* Expand button */}
-        <button
-          onClick={() => setExpanded(e => !e)}
-          className="flex-shrink-0 w-6 h-6 flex items-center justify-center text-[#6B7280] hover:text-[#F5F5F5] hover:bg-[#1F1F1F] rounded transition-colors text-xs"
-          title={expanded ? 'Collapse' : 'Expand full report'}
+        {/* Expand chevron */}
+        <span
+          className={`flex-shrink-0 w-6 h-6 flex items-center justify-center text-[#6B7280] text-xs transition-transform ${expanded ? 'rotate-90' : ''}`}
+          aria-hidden="true"
         >
-          {expanded ? '▼' : '▶'}
-        </button>
-      </div>
+          ▶
+        </span>
+      </button>
 
       {/* Expanded full report */}
       {expanded && (
@@ -150,6 +157,11 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
                           }}>
                             {item.sentiment}
                           </span>
+                          {item.themes?.slice(0, 3).map(t => (
+                            <span key={t} className="text-[10px] font-mono px-1.5 py-0.5 rounded bg-[#1F2937] text-[#9CA3AF]">
+                              {t}
+                            </span>
+                          ))}
                         </div>
                         <a
                           href={item.url}
@@ -190,7 +202,7 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
 
 export default function ReportHistory({ reports }: Props) {
   return (
-    <div className="max-h-[400px] overflow-y-auto rounded border border-[#1F1F1F]">
+    <div className="max-h-[480px] overflow-y-auto rounded border border-[#1F1F1F]">
       {/* Header row */}
       <div className="hidden sm:flex items-center gap-4 px-3 py-2 border-b border-[#1F1F1F] bg-[#0D0D0D] sticky top-0 z-10">
         <div className="font-mono text-[#374151] text-[10px] uppercase tracking-wider w-44 flex-shrink-0">
@@ -200,7 +212,7 @@ export default function ReportHistory({ reports }: Props) {
           Sentiment
         </div>
         <div className="font-mono text-[#374151] text-[10px] uppercase tracking-wider flex-1">
-          Summary
+          Summary · click row to expand
         </div>
         <div className="w-6 flex-shrink-0" />
       </div>
