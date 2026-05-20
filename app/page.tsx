@@ -26,6 +26,7 @@ import SourceSentimentMatrix from '@/components/SourceSentimentMatrix';
 import ReportHistory from '@/components/ReportHistory';
 import CompetitorWatch from '@/components/CompetitorWatch';
 import ScoutingReport from '@/components/ScoutingReport';
+import SearchButton from '@/components/SearchButton';
 
 export const dynamic = 'force-dynamic';
 
@@ -86,6 +87,7 @@ export default function DashboardPage() {
           <span className="text-[#6B7280] text-sm font-mono">RIVIAN COMPETITIVE INTELLIGENCE</span>
         </div>
         <div className="flex flex-wrap items-center gap-3 sm:text-right">
+          <SearchButton />
           {/* Threat badge */}
           <div className="flex items-center gap-1.5 px-2 py-0.5 rounded border text-xs font-mono font-semibold"
             style={{ color: threatDisplay.color, borderColor: `${threatDisplay.color}40` }}>
