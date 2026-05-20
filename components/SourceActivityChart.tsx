@@ -114,7 +114,7 @@ export default function SourceActivityChart({ data }: Props) {
                     </a>
                     {item.snippet && (
                       <p style={{ color: '#6B7280', fontSize: '11px', lineHeight: 1.6, margin: '4px 0 0' }}>
-                        {item.snippet.slice(0, 200)}{item.snippet.length > 200 ? '…' : ''}
+                        {item.snippet}
                       </p>
                     )}
                   </div>

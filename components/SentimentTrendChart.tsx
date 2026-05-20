@@ -126,18 +126,18 @@ function DrillDownPanel({ report, onClose }: { report: Report; onClose: () => vo
                     href={item.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-[#F5F5F5] text-xs font-semibold leading-snug hover:text-[#3B82F6] transition-colors block truncate"
+                    className="text-[#F5F5F5] text-xs font-semibold leading-snug hover:text-[#3B82F6] transition-colors block"
                     title={item.title}
                   >
                     {item.title} ↗
                   </a>
                   {/* Snippet */}
-                  <p className="text-[#6B7280] text-[11px] mt-0.5 leading-relaxed line-clamp-2">
+                  <p className="text-[#6B7280] text-[11px] mt-0.5 leading-relaxed">
                     {item.snippet}
                   </p>
                   {/* URL + published date */}
                   <div className="flex items-center gap-2 mt-0.5">
-                    <span className="text-[#374151] text-[10px] font-mono truncate">{item.url}</span>
+                    <span className="text-[#374151] text-[10px] font-mono break-all">{item.url}</span>
                     {(item as any).publishedAt && (
                       <span className="text-[#22C55E] text-[10px] font-mono flex-shrink-0">· {(item as any).publishedAt}</span>
                     )}
