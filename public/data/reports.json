@@ -2686,5 +2686,320 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-20T02:00:00.000Z",
+    "timestamp": "2026-05-20T02:00:00.000Z",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 30,
+      "negative": 30
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "reddit_ev": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "news": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Autonomy+",
+      "FSD update",
+      "Georgia plant",
+      "Hey Rivian",
+      "OTA update",
+      "R2 launch",
+      "RIVN stock",
+      "Scout Motors",
+      "VW partnership",
+      "Waymo move",
+      "infotainment bug",
+      "owner experience",
+      "recall alert"
+    ],
+    "competitiveContext": "Tesla's Musk (May 18) again promised unsupervised FSD 'widespread in the US by year-end,' but Reuters data shows only 25 cumulative Robotaxi vehicles with documented convenience failures and 17 NHTSA-filed crashes \u2014 a credible long-horizon threat but wide execution gap giving Rivian's autonomy build time to close. Scout Motors delayed its outdoor-truck EV launch to summer 2028 (from 2027), partly because the Rivian-VW software JV hasn't delivered Scout's software needs, which simultaneously removes a near-term R1T/R1S competitor and underscores that the JV must accelerate to protect VW's investment thesis. Uber's $10B anti-Waymo bet signals commercial AV market flux \u2014 Rivian PMs should watch for fleet partnership openings as its own autonomy stack matures.",
+    "summary": "A productive cycle for Rivian: R2 configurator live, 'Hey Rivian' rolled to all R1 owners, VW solidified as largest shareholder (15.9%), and Georgia plant capacity jumped 50% to 300K. On the flip side, RIVN traded down to $12.90 on high volume, a director-level insider buy of $251K signaled confidence, and an OTA-triggered liftgate bug is surfacing. Competitively, Tesla's FSD promises accelerate but execution remains thin; Scout's 2028 delay removes a key threat window.",
+    "fullReport": "\ud83c\udfac *GameFilm \u2014 Rivian Intel*\n_[Tuesday, May 20, 2026 \u2014 7:00 PM PT \u2014 18 signals \u00b7 6 categories]_\n\n*\ud83c\udfaf SITREP*\n\u2022 Scout Motors delays to summer 2028 \u2014 Rivian's outdoor-truck window stays open; JV software gap is the reason\n\u2022 R2 configurator live + CEO confirms R2 pickup/R2X variants \u2014 Rivian's mid-size expansion is real and accelerating\n\u2022 RIVN at $12.90 with 94x volume spike after-hours; director insider buy of $251K same day \u2014 watch for catalyst\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\u2694\ufe0f FIELD INTELLIGENCE* \u2014 What the competition is doing\n\n\u2022 *Tesla*: Musk (May 18) again promised unsupervised FSD \"widespread in US by year-end\" \u2014 but Reuters data shows only 25 Robotaxi vehicles with long wait times, surface-street routing limits, and 17 NHTSA-filed crashes unredacted. FSD V14.3.3 dropped with 33% Smart Summon speed boost. Basic Autopilot moving to paid FSD (Netherlands, likely global). Tesla's AV narrative accelerates faster than its fleet.\n  https://electrek.co/2026/05/18/musk-unsupervised-fsd-widespread-us-end-of-year-smart-mobility-summit/\n\n\u2022 *Scout Motors* (VW): Delayed EV launch to summer 2028 \u2014 partly because the Rivian-VW software JV hasn't delivered what Scout needs. CARIAD stepping in. Near-term outdoor truck threat removed; long-term JV pressure to deliver intensifies.\n  https://www.cbtnews.com/scout-motors-to-delay-ev-launch/\n\n\u2022 *Uber/Waymo*: Uber publicly turned on Waymo while committing $10B+ to own its own AV stack. Commercial fleet AV market is fracturing \u2014 potential partnership opening for Rivian's EDV/fleet positioning.\n  https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\ude97 RIVIAN POSITION*\n\n*\ud83e\udd16 Autonomy (2)*\n\u2022 \"Hey Rivian\" AI voice assistant now live on all Gen 1+2 R1 vehicles via 2026.15 OTA \u2014 uses on-vehicle + cloud AI hybrid\n  https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/\n\u2022 Rivian exploring in-house lidar manufacturing (US-based, potential Chinese partnership) as it builds full AV stack\n  https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/\n\n*\ud83d\ude97 Vehicles (2)*\n\u2022 R2 configurator is live \u2014 reservation holders can now configure and price their R2 SUV\n  https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/\n\u2022 CEO Scaringe confirmed R2 pickup + R2X variants in development \u2014 mid-size platform expanding\n  https://electrek.co/2026/05/06/rivian-r2-variants-pickup-r2x-scaringe/\n\n*\ud83d\udcb0 Business (4)*\n\u2022 VW overtakes Amazon as RIVN's largest shareholder at 15.9% (209.8M shares)\n  https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/\n\u2022 Georgia plant capacity raised 50% to 300K vehicles/year\n  https://electrek.co/2026/04/30/rivian-rivn-boosts-production-capacity-georgia-plant-50/\n\u2022 Director Aidan Gomez buys $251K in RIVN at current lows \u2014 insider confidence signal\n  https://www.investing.com/news/insider-trading-news/rivian-director-aidan-gomez-buys-251460-in-stock-93CH-4699989\n\u2022 RIVN trading at $12.90 (-3%) with 94.3x normal volume after-hours \u2014 analyst Hold, PT $16.3\u2013$20\n  https://www.reddit.com/r/TheDesperateTrader/comments/1ti4ubm/stock_market_scanner_amc_leads_eve_after_hours/\n\n*\ud83d\udcf1 Software (2)*\n\u2022 R1S liftgate randomly opening post-latest OTA \u2014 reported by multiple 2026 owners; no app interaction required\n  https://www.reddit.com/r/Rivian/comments/1ti6adk/liftgate_randomly_opening_on_r1s/\n\u2022 2026.15 update rollout being tracked on RivianForums \u2014 \"Hey Rivian\" headline feature, community broadly positive\n  https://www.rivianforums.com/whats-coming-in-2026-15-update-including-rivian-assistant/\n\n*\ud83c\udf10 Community (1)*\n\u2022 R1T used-vs-lease debate trending \u2014 owners anxious about post-warranty repair costs; early owners considering offloading\n  https://www.reddit.com/r/Rivian/comments/1ti5ucp/buy_r1t_used_or_lease_new_r1t/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udccc PM WATCH LIST*\n\u2022 OTA liftgate bug: Is this an isolated regression or a pattern? Needs immediate QA triage \u2014 safety + brand trust risk\n\u2022 Tesla FSD paywall creep (Basic Autopilot \u2192 paid): Driver+ is free standard \u2014 marketing should amplify this gap\n\u2022 RIVN 94x volume spike: What's the catalyst? Options market flagging a near-term event (5/29 puts active)\n\u2022 Uber/Waymo fracture: Commercial fleet AV landscape is open \u2014 any Rivian EDV+autonomy fleet pitch in pipeline?\n\u2022 Scout delay: Rivian has 2+ years of outdoor-EV window before Scout is a real threat \u2014 use it for brand entrenchment\n\n_Competitive threat: \ud83d\udfe0 ELEVATED_\n_Dashboard: https://watchgamefilm.vercel.app_\n_[Dashboard verification pending deploy]_",
+    "items": [
+      {
+        "title": "Musk says Tesla unsupervised FSD will be 'widespread' in the US by year-end \u2014 again",
+        "url": "https://electrek.co/2026/05/18/musk-unsupervised-fsd-widespread-us-end-of-year-smart-mobility-summit/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-18",
+        "snippet": "Elon Musk at the Smart Mobility Summit in Tel Aviv restated that Tesla's unsupervised FSD will be 'widespread in the US by end of 2026,' citing three Texas cities already running driverless Robotaxi. This is the same promise made during 2025 earnings; Reuters data shows only 25 cumulative vehicles deployed. For Rivian PMs: Tesla's narrative pressure on autonomy is escalating \u2014 but its fleet is microscopic and credibility is eroding.",
+        "themes": [
+          "FSD update"
+        ]
+      },
+      {
+        "title": "Tesla increases Actually Smart Summon speed by 33% in new FSD update V14.3.3",
+        "url": "https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-17",
+        "snippet": "Tesla pushed FSD V14.3.3 with a 33% Smart Summon speed increase to 8 mph. Incremental ADAS progress, but real. Rivian's Driver+ feature set should be benchmarked against Tesla's active-summon capabilities \u2014 owners are comparing notes publicly.",
+        "themes": [
+          "FSD update"
+        ]
+      },
+      {
+        "title": "Tesla finally reveals what happened in 17 'Robotaxi' crashes",
+        "url": "https://electrek.co/2026/05/15/tesla-unredacts-robotaxi-crash-narratives-nhtsa/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-15",
+        "snippet": "Tesla unredacted 17 autonomous driving crash narratives filed with NHTSA, providing the first public view of its Robotaxi safety record. The disclosures reveal the real operational risk profile. For Rivian: this is a cautionary playbook \u2014 transparency on AV incidents will be scrutinized; Rivian should prepare its own incident disclosure posture as Autonomy+ expands.",
+        "themes": [
+          "FSD update",
+          "recall alert"
+        ]
+      },
+      {
+        "title": "Uber turns on Waymo as it pours $10B+ into owning robotaxi alternatives",
+        "url": "https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-15",
+        "snippet": "Uber is publicly distancing from Waymo while investing $10B+ to build or acquire its own AV stack. This is a seismic fleet AV market signal \u2014 the largest ride-hail platform is consolidating away from Waymo partnerships. Rivian has EDV/fleet infrastructure; this is a potential opening to position as an AV-capable fleet partner in the post-Waymo ride-hail gap.",
+        "themes": [
+          "Waymo move",
+          "fleet/EDV"
+        ]
+      },
+      {
+        "title": "Scout Motors to delay EV launch to summer 2028 amid tech challenges",
+        "url": "https://www.cbtnews.com/scout-motors-to-delay-ev-launch/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-15",
+        "snippet": "VW's Scout brand (Traveler SUV and Terra pickup \u2014 direct R1S/R1T competitors) has delayed its launch to summer 2028 from 2027, reportedly because the Rivian-VW software JV hasn't delivered the needed stack and CARIAD is stepping in. Positive for Rivian's near-term competitive position in outdoor EVs; also a warning sign that the JV must deliver to keep VW's full confidence.",
+        "themes": [
+          "Scout Motors",
+          "VW partnership"
+        ]
+      },
+      {
+        "title": "Tesla moves Basic Autopilot features to paid FSD where available",
+        "url": "https://electrek.co/2026/05/12/tesla-removes-basic-autopilot-netherlands-fsd-only/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-12",
+        "snippet": "Tesla removed Basic Autopilot from its online configurator in the Netherlands, forcing buyers to pay for full FSD. This monetization move \u2014 likely to spread \u2014 raises Tesla's ADAS entry price. Rivian's Driver+ is included standard; this could be a differentiation talking point in markets where Tesla is paywalling basic ADAS.",
+        "themes": [
+          "FSD update",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Tesla Robotaxi's 'convenience issues' are hiding the real safety bottleneck",
+        "url": "https://electrek.co/2026/05/12/tesla-robotaxi-convenience-issues-hide-safety-bottleneck/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-12",
+        "snippet": "Reuters investigation documents long wait times, surface-street-only routing, and near-zero vehicle availability across Tesla's three-city Robotaxi service. The 'convenience' framing is masking real safety constraints on route scope. Rivian PMs: Tesla's AV moat is less durable than the marketing implies \u2014 the gap to match on ADAS quality is narrower than the narrative suggests.",
+        "themes": [
+          "FSD update",
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control",
+        "url": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
+        "source": "news",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-12",
+        "snippet": "Rivian deployed its new AI-powered 'Hey Rivian' voice assistant \u2014 powered by Rivian Unified Intelligence combining on-vehicle and cloud AI \u2014 to all Gen 1 and Gen 2 R1 owners via the 2026.15 OTA. The assistant can control 'countless vehicle functions' via voice. This is a direct competitive counter to Tesla's AI assistant narrative and positions Rivian in the AI-defined vehicle race.",
+        "themes": [
+          "Hey Rivian",
+          "OTA update"
+        ]
+      },
+      {
+        "title": "Rivian opens R2 configurator: here are all the options and pricing",
+        "url": "https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-15",
+        "snippet": "Rivian opened the online R2 configurator for reservation holders, revealing full trim/color/option pricing. This is a critical commercial milestone for the ~$45K mid-size SUV that needs to generate volume to fund Rivian's path to profitability. Configurator open = deliveries imminent; PM teams should monitor option attach rates and pricing complaints.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) CEO hints at R2 pickup and R2X variants as production ramps",
+        "url": "https://electrek.co/2026/05/06/rivian-r2-variants-pickup-r2x-scaringe/",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-06",
+        "snippet": "CEO RJ Scaringe confirmed undisclosed R2 variants including an R2 pickup and 'R2X' variant. This expansion of the platform signals Rivian's intent to fill the mid-size segment across body styles \u2014 directly competing with Ford Maverick and potentially the Scout Terra. Timeline unclear but public confirmation raises demand expectations.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
+        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
+        "source": "news",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-05",
+        "snippet": "Rivian is exploring manufacturing its own lidar sensors in the US, potentially through a Chinese partnership, as it builds a full autonomous driving stack. Vertical integration on lidar would reduce supply chain risk and improve margin. This is a signal that Rivian sees its autonomy stack as a core platform asset, not a supplier-dependent feature.",
+        "themes": [
+          "Autonomy+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Volkswagen overtakes Amazon as Rivian's (RIVN) largest shareholder with 15.9% stake",
+        "url": "https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/",
+        "source": "news",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-05",
+        "snippet": "VW now holds 209.8 million RIVN shares (15.9%), overtaking Amazon as largest shareholder. This deepens the JV alignment and raises the stakes for both parties. VW's growing equity position signals long-term commitment to the platform partnership \u2014 and increases Rivian's leverage in JV negotiations.",
+        "themes": [
+          "VW partnership"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) lifts production capacity for its Georgia plant by 50% to 300K vehicles annually",
+        "url": "https://electrek.co/2026/04/30/rivian-rivn-boosts-production-capacity-georgia-plant-50/",
+        "source": "news",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-04-30",
+        "snippet": "Rivian now expects up to 300,000 vehicles annually at its Georgia plant, a 50% increase from prior guidance of 200K. This is a major manufacturing scale signal ahead of R2 ramp. Higher capacity gives Rivian negotiating leverage with suppliers and a path to unit economics at scale \u2014 but execution risk increases.",
+        "themes": [
+          "Georgia plant"
+        ]
+      },
+      {
+        "title": "Rivian director Aidan Gomez buys $251,460 in stock",
+        "url": "https://www.investing.com/news/insider-trading-news/rivian-director-aidan-gomez-buys-251460-in-stock-93CH-4699989",
+        "source": "reddit_rivian",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-19",
+        "snippet": "Rivian board director Aidan Gomez (Cohere AI CEO) purchased $251,460 in RIVN shares. Insider buys at current price levels signal board-level confidence. Given RIVN's recent technical weakness (~$12.90), this is a notable contrarian signal worth tracking.",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "RIVN showing 94.3x normal volume at $12.90 (-3.0%) in after-hours scanner",
+        "url": "https://www.reddit.com/r/TheDesperateTrader/comments/1ti4ubm/stock_market_scanner_amc_leads_eve_after_hours/",
+        "source": "reddit_ev",
+        "category": "business",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-19",
+        "snippet": "After-hours scanner flagged RIVN with 94.3x normal volume at $12.90 (-3%), while analyst consensus holds at 'Hold' with price target range $16.3\u2013$20. The extreme volume spike warrants attention \u2014 could signal institutional positioning ahead of an event. RIVN is in the price range flagging put options ($12.5P for 5/29).",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "Liftgate randomly opening on R1S \u2014 possible OTA bug",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ti6adk/liftgate_randomly_opening_on_r1s/",
+        "source": "reddit_rivian",
+        "category": "software",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-19",
+        "snippet": "Multiple R1S owners report liftgates opening spontaneously \u2014 while parked, without any app interaction \u2014 following the latest software update. One owner reports two occurrences in two days. This is a potential OTA regression with real safety implications (vehicle left open, possible garage door conflicts). PM teams should escalate to software QA immediately.",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "What's Coming in 2026.15 Update, Including Rivian Assistant",
+        "url": "https://www.rivianforums.com/whats-coming-in-2026-15-update-including-rivian-assistant/",
+        "source": "rivianforums",
+        "category": "software",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-12",
+        "snippet": "RivianForums thread discussing the 2026.15 OTA's bundled features, with 'Hey Rivian' as the headline addition. Community reception is largely positive, with owners excited about voice control capabilities. However the liftgate bug (also appearing post-update) may dampen overall satisfaction if not patched quickly.",
+        "themes": [
+          "Hey Rivian",
+          "OTA update"
+        ]
+      },
+      {
+        "title": "Buy R1T used or lease new R1T?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ti5ucp/buy_r1t_used_or_lease_new_r1t/",
+        "source": "reddit_rivian",
+        "category": "community",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-19",
+        "snippet": "Community debate over buying used R1T (2023-24 vintage) vs leasing new. Key anxiety: early owners planning to sell before warranty expiration due to repair cost concerns; high-mileage durability data still sparse. This hesitation pattern affects used market health and could create lease-demand opportunity if Rivian promotes warranty confidence.",
+        "themes": [
+          "owner experience",
+          "R1T review"
+        ]
+      }
+    ]
   }
 ]
