@@ -4557,5 +4557,180 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-21T15:49:00.000Z",
+    "timestamp": "2026-05-21T15:49:00.000Z",
+    "sentiment": {
+      "positive": 29,
+      "neutral": 42,
+      "negative": 29
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "FSD update",
+      "OTA update",
+      "R1T review",
+      "R2 launch",
+      "RIVN stock",
+      "Tesla pricing",
+      "brand sentiment",
+      "earnings",
+      "infotainment bug",
+      "owner experience"
+    ],
+    "competitiveContext": "Tesla ends one-time FSD purchases across Europe effective May 21 (today), forcing subscription-only ADAS \u2014 a paywall expansion that makes Rivian\u2019s included base Driver+ an increasingly compelling differentiator, especially as Rivian maps out R2 European launch positioning. Combined with Tesla\u2019s earlier Netherlands Basic Autopilot paywall move, Tesla is now systematically gating every ADAS tier behind recurring fees while Rivian includes highway hands-free driving in base price \u2014 a marketing gap Rivian PMs should exploit immediately. Separately, Rivian faces a significant delivery pace challenge: the reaffirmed 62\u201367K full-year 2026 guidance requires near-doubling Q1\u2019s 10,365 pace over the remaining three quarters, making R2 ramp execution the single most important near-term business signal.",
+    "summary": "A moderate cycle with fresh community quality signals and a key competitive move: Tesla ends one-time FSD purchases in Europe today, forcing subscriptions, while Rivian\u2019s included Driver+ becomes a stronger value proposition in European expansion markets. Reddit surfaces R1T owner quality concerns (OTA battery drain, $3,800 roof glass replacement, persistent reverse-gear popping) that need QA monitoring. RIVN analyst and Reddit bull thesis is rebuilding around R2 ramp + new robotics partnerships. Rivian\u2019s ability to fully disable vehicle data collection generated 760 HN points \u2014 a privacy differentiator worth amplifying in product positioning.",
+    "fullReport": "\ud83c\udfac *GameFilm \u2014 Rivian Intel*\n_Thursday, May 21, 2026 \u2014 8:49 AM PT \u2014 7 signals \u00b7 5 categories_\n\n*\ud83c\udfaf SITREP*\n\u2022 Tesla ends one-time FSD purchases in Europe TODAY (May 21) \u2014 subscription-only from here; Rivian\u2019s included Driver+ becomes stronger value prop\n\u2022 Rivian delivery guidance requires near-doubling of Q1\u2019s 10,365 pace \u2014 R2 ramp is the only lever to hit 62\u201367K\n\u2022 Community quality signals: OTA battery drain, $3,800 roof glass, reverse popping \u2014 needs QA monitoring\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\u2694\ufe0f FIELD INTELLIGENCE* \u2014 What the competition is doing\n\u2022 *Tesla*: Ends one-time FSD purchases across Europe on May 21, switching to subscription-only. Netherlands was the pilot; now rolling Europe-wide. Combined with Basic Autopilot paywall move, Tesla is gating every ADAS tier behind recurring fees \u2014 while Rivian includes highway hands-free in base price. R2 European launch messaging should call this out explicitly.\n  https://x.com/SERobinsonJr/status/2052507577184072114\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\ude97 RIVIAN POSITION*\n\n*\ud83d\ude97 Vehicles (1)*\n\u2022 2025 R1T: Loud popping from rear when reversing after idle \u2014 service center couldn\u2019t replicate; 21 owner comments active; reproducible quality signal needing engineering attention\n  https://www.reddit.com/r/Rivian/comments/1tjkbly/loud_popping_sound_in_reverse/\n\n*\ud83d\udcb0 Business (2)*\n\u2022 RIVN bull case rebuilding: Yahoo Finance analysis (32 Reddit upvotes) cites R2 ramp + new robotics partnerships as thesis reset \u2014 retail re-engagement signal\n  https://finance.yahoo.com/markets/stocks/articles/bull-case-rivian-automotive-rivn-101708773.html\n\u2022 Rivian reaffirms 62\u201367K 2026 delivery guidance \u2014 requires ~1.7\u20131.8x Q1 delivery rate through year-end; R2 ramp execution is make-or-break\n  https://eletric-vehicles.com/rivian/rivian-reaffirms-2026-guidance-implying-a-near-doubling-of-quarterly-deliveries\n\n*\ud83d\udcf1 Software (2)*\n\u2022 OTA battery drain: R1T Launch Edition owner reports 1%/3hr idle loss post-recent update; suspects software change or 12V battery; community actively diagnosing \u2014 watch for pattern\n  https://www.reddit.com/r/Rivian/comments/1tjmzgz/trying_to_understand_power_draw/\n\u2022 Rivian data privacy goes viral on HackerNews (760 pts): support page detailing how to disable ALL vehicle data collection \u2014 unique vs. Tesla; PM opportunity to amplify ahead of R2 launch\n  https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\n\n*\ud83c\udf10 Community (1)*\n\u2022 R1T dynamic roof glass cracked by falling debris: $3,800 replacement + 1 day turnaround. Owner notes windshield survived apricot-sized rock at 65mph but roof glass is fragile. Repair cost visibility may surface in R2 buying comparisons.\n  https://www.reddit.com/r/Rivian/comments/1tjmfaf/r1t_dynamic_roof_glass_cost_is/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udccc PM WATCH LIST*\n\u2022 Tesla FSD Europe paywall: one-time purchase ends today \u2014 R2 European launch messaging should explicitly call out included Driver+ vs. Tesla\u2019s subscription wall\n\u2022 R2 delivery velocity: 62\u201367K 2026 guidance requires near-doubling of Q1 rate \u2014 any production disruption this quarter is material to the equity story\n\u2022 OTA battery drain reports: potential post-update regression; needs QA triage before community narrative builds into a trust issue\n\n_Competitive threat: \ud83d\udfe0 ELEVATED \u2014 Tesla FSD paywall expansion tightens ADAS value gap; R2 delivery execution is Rivian\u2019s near-term make-or-break_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Tesla will end one-time FSD purchases across Europe on May 21 \u2014 subscription-only",
+        "url": "https://x.com/SERobinsonJr/status/2052507577184072114",
+        "source": "twitter",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "publishedAt": null,
+        "snippet": "Tesla is ending the option to purchase Full Self-Driving as a one-time fee across European markets effective May 21, 2026, switching to subscription-only pricing. This follows the Netherlands Basic Autopilot paywall pilot. For Rivian PMs: Tesla is systematically gating every ADAS tier behind recurring revenue while Rivian includes highway hands-free driving in base price \u2014 a concrete differentiator to amplify in R2 European launch positioning.",
+        "themes": [
+          "FSD update",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Loud popping sound in reverse \u2014 2025 R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tjkbly/loud_popping_sound_in_reverse/",
+        "source": "reddit_rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "publishedAt": "2026-05-21",
+        "snippet": "2025 R1T owner reports a loud cracking/popping sound from the rear of the vehicle when reversing after being parked. Compares it to wheels breaking out of ice. Service center could not replicate the issue. 21 community comments actively diagnosing \u2014 a reproducible quality signal that needs engineering triage before it scales with R2 deliveries.",
+        "themes": [
+          "owner experience",
+          "R1T review"
+        ]
+      },
+      {
+        "title": "The Bull Case For Rivian Automotive (RIVN) Could Change Following R2 Shift And Mind Robotics Stakes",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-rivian-automotive-rivn-101708773.html",
+        "source": "reddit_ev",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-21",
+        "snippet": "Yahoo Finance analysis explores how Rivian\u2019s investment thesis is shifting from R1-centric to R2-volume-driven, with new robotics partnership stakes (Mind Robotics) adding an AV/AI angle to the bull case. The post earned 32 upvotes in r/RIVNstock, signaling retail investor re-engagement after recent stock weakness \u2014 R2 delivery ramp is the catalyst the equity story needs.",
+        "themes": [
+          "RIVN stock",
+          "earnings"
+        ]
+      },
+      {
+        "title": "Rivian Reaffirms 2026 Guidance, Implying a Near-Doubling of Quarterly Deliveries",
+        "url": "https://eletric-vehicles.com/rivian/rivian-reaffirms-2026-guidance-implying-a-near-doubling-of-quarterly-deliveries",
+        "source": "news",
+        "category": "business",
+        "sentiment": "neutral",
+        "publishedAt": null,
+        "snippet": "Rivian reaffirmed full-year 2026 delivery guidance of 62,000\u201367,000 vehicles. With only 10,365 delivered in Q1, the company needs to deliver between 51,635 and 56,635 vehicles in Q2\u2013Q4 \u2014 roughly 1.7\u20131.8x the Q1 rate. R2 production on a single shift at Normal is the primary ramp lever. Date unknown \u2014 flagged accordingly.",
+        "themes": [
+          "R2 launch",
+          "earnings"
+        ]
+      },
+      {
+        "title": "Trying to understand power draw \u2014 OTA-suspected idle battery drain",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tjmzgz/trying_to_understand_power_draw/",
+        "source": "reddit_rivian",
+        "category": "software",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-21",
+        "snippet": "R1T Launch Edition owner reports 1% battery drain every 3 hours while idle overnight \u2014 behavior that started within the last week with Gear Guard off at home. Owner suspects a recent OTA update changed something, or the 12V battery is starting to fail. Potentially the start of a post-update parasitic drain pattern. 11 community comments active.",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "Can I disable all data collection from my vehicle? \u2014 Rivian support page goes viral on HackerNews",
+        "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+        "source": "hackernews",
+        "category": "software",
+        "sentiment": "positive",
+        "publishedAt": "2026-04-30",
+        "snippet": "Rivian\u2019s official support page detailing how owners can disable ALL vehicle data collection and internet connectivity went viral on HackerNews with 760 points and 350+ comments. Rivian is the only major auto brand with a full connectivity kill switch: \u2018the vehicle still operates with all its physical capabilities\u2019 when disconnected. This is a major privacy differentiator vs. Tesla and legacy OEMs \u2014 Rivian PMs should amplify this in R2 positioning. (Published Apr 30; HN activity peaked May 2026 \u2014 included for PM relevance.)",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "R1T dynamic roof glass cost is $3,800 \u2014 owner impact report",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tjmfaf/r1t_dynamic_roof_glass_cost_is/",
+        "source": "reddit_rivian",
+        "category": "community",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-21",
+        "snippet": "R1T owner reports falling debris cracked the dynamic roof glass, costing $3,800 to replace (1-day turnaround). Owner noted the windshield survived an apricot-sized rock at 65mph without a mark, but the roof glass is more vulnerable. Repair sticker shock may factor into R2 buying decisions for budget-sensitive buyers comparing ownership cost to Model Y.",
+        "themes": [
+          "owner experience"
+        ]
+      }
+    ]
   }
 ]
