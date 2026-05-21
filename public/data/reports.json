@@ -4874,5 +4874,203 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-21T21:09:00.000Z",
+    "timestamp": "2026-05-21T21:09:00.000Z",
+    "sentiment": {
+      "positive": 22,
+      "neutral": 34,
+      "negative": 44
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "themes": [
+      "Cybertruck news",
+      "OTA update",
+      "R1S review",
+      "R2 launch",
+      "RIVN stock",
+      "brand sentiment",
+      "infotainment bug",
+      "owner experience",
+      "recall alert",
+      "service network"
+    ],
+    "competitiveContext": "Tesla's Cybertruck takes its third major credibility hit in May 2026: a safety recall for 173 vehicles (2024-2026, base 18\" steel wheels) over wheel stud separation risk, traced to an OEM change management error in August 2025 production. This follows the viral lake wade-mode arrest (May 19-20) and Q1 US sales of only 3,519 units — collectively a structural narrative opening for Rivian's R1T and R2 adventure positioning that Rivian PMs should capitalize on immediately. Tesla also ended one-time FSD purchases in Europe effective May 21, making Rivian's included Driver+ an increasingly concrete differentiator for any EU market entry strategy.",
+    "summary": "A moderate cycle with 9 fresh signals. The Cybertruck recall (wheel stud separation, 173 vehicles) adds to the truck's May credibility pile-up — creating Rivian's best narrative window in months for direct quality and capability comparisons. On the Rivian side, R2 configuration invites slipping to June compresses the 'spring deliveries' window and requires proactive customer communication. RIVN retail buzz jumped +19.1 (7-day positive momentum). Quality watch: Connect+ degrading post-2026.15 OTA (possible bandwidth conflict with cloud AI stack), South NJ with zero service coverage, and R1S Gen 1 turtle mode at 45K miles.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Thursday, May 21, 2026 — 2:09 PM PT — 9 signals · 5 categories_\n\n*🎯 SITREP*\n• Cybertruck's 3rd May blow: wheel stud recall (173 vehicles) + lake incident + 3,519 Q1 units — adventure truck narrative window is wide open for Rivian\n• R2 config invites shift to June — spring delivery window compressing; reservation attrition risk needs proactive comms\n• Connect+ degrading post-2026.15 OTA, NJ service gap flagged, R1S turtle mode at 45K mi — quality cluster ahead of R2 ramp\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Tesla (Cybertruck)*: Recall issued for 173 Cybertrucks (2024–2026, base 18\" steel wheels) over wheel stud separation risk — root cause traced to an OEM change management error in August 2025 production. Third major Cybertruck credibility blow this month: lake incident (May 19-20), Q1 sales just 3,519 units, now a safety recall. Rivian's R1T quality story has never looked better by contrast.\n  https://www.indexbox.io/blog/tesla-recalls-cybertrucks-over-wheel-detachment-risk/\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🚗 Vehicles (3)*\n• R2 configuration invites won't open until June — CFO confirmation compresses the 'spring delivery' promise; buyers in back-of-queue asking urgent delivery timeline questions\n  https://eletric-vehicles.com/rivian/rivian-r2-orders-wont-open-until-june-narrowing-window-for-first-half-deliveries\n• R2 interior design was CEO's call: no physical A/C buttons — RJ Scaringe overruled engineers for screen-heavy UX; real-world owner reactions start with first deliveries this summer\n  https://theevreport.com/rivian-r2s-screen-heavy-interior-was-a-top-down-ceo-decision\n• R1S Gen 1 turtle mode at 45K miles: 12V, system fault, and AWD warnings firing simultaneously — cascading battery failure pattern emerging in higher-mileage Gen 1 fleet\n  https://www.reddit.com/r/Rivian/comments/1tjx27y/12v_system_fault_awd/\n\n*💰 Business (2)*\n• RIVN +19.1 seven-day retail buzz with positive momentum — significant rebound heading into June R2 configuration invites; retail sentiment building a floor\n  https://www.reddit.com/r/RetailStockSignals/comments/1tjt0fb/daily_retail_stock_signals_may_21_2026_nvda_leads/\n• Electrek questions Rivian's billion-dollar e-bike brand: is it strategic diversification or capital distraction during critical R2 ramp?\n  https://electrek.co/2026/04/28/the-uncomfortable-reality-behind-rivians-new-billion-dollar-e-bike-brand/\n\n*📱 Software (2)*\n• Connect+ degraded since 2026.15 OTA — streaming fails to load, hotspot crawls, Rivian Assistant shows offline; possible bandwidth conflict between cloud AI stack and cellular\n  https://www.reddit.com/r/Rivian/comments/1tjwchn/connect_issues_r1s_gen_1/\n• Rivian app 3.11.0: swipe navigation between vehicles, chargers, and features — UX quality-of-life win as R2 onboarding begins for a new wave of owners\n  https://x.com/EVguyZach\n\n*🌐 Community (1)*\n• South NJ entirely unserved by Rivian service centers — Cherry Hill/Philadelphia metro is a major car-buying market with zero Rivian coverage; Tesla is building a new showroom there\n  https://www.reddit.com/r/Rivian/comments/1tjx9aa/nj_service_centers/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Cybertruck triple-blow in May: capitalize NOW with direct R1T/R2 vs Cybertruck quality comparison before the news cycle fades\n• R2 June config vs 'spring delivery' promise: draft transparent customer update to prevent reservation attrition in back-of-queue\n• Connect+ OTA bandwidth regression: if cloud AI is throttling connectivity, this is an architectural fix needed before R2 scale\n\n_Competitive threat: 🟠 ELEVATED — Cybertruck implosion creates short-term opening; Tesla FSD narrative + Cybercab scaling remain long-horizon threat_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Tesla recalls 173 Cybertrucks over wheel stud separation risk",
+        "url": "https://www.indexbox.io/blog/tesla-recalls-cybertrucks-over-wheel-detachment-risk/",
+        "source": "news",
+        "category": "competitive",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-10",
+        "snippet": "Tesla issued a recall for 173 Cybertrucks (2024-2026, base 18-inch steel wheels) after wheel studs were found capable of separating from the hub due to cracked brake rotors. Root cause: a change management error meant planned durability improvements were not incorporated when production started August 28, 2025. Combined with the viral lake wade-mode arrest and Q1 sales of only 3,519 units, this is Cybertruck's third major credibility blow in May 2026.",
+        "themes": [
+          "recall alert",
+          "Cybertruck news"
+        ]
+      },
+      {
+        "title": "Rivian R2 Orders Won't Open Until June, Narrowing Window for First-Half Deliveries",
+        "url": "https://eletric-vehicles.com/rivian/rivian-r2-orders-wont-open-until-june-narrowing-window-for-first-half-deliveries",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "publishedAt": null,
+        "snippet": "Configuration invitations for R2 reservation holders will not roll out until June 2026, per CFO Claire McDonough, compressing the first-half delivery window significantly. With production underway at Normal, IL since April 22 and 20,000-25,000 R2 deliveries targeted for 2026, Rivian PMs must prepare transparent customer communication about the gap between the original 'spring deliveries' promise and actual order/delivery timelines.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 won't have physical A/C buttons — CEO RJ Scaringe's deliberate screen-heavy choice",
+        "url": "https://theevreport.com/rivian-r2s-screen-heavy-interior-was-a-top-down-ceo-decision",
+        "source": "news",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "publishedAt": "2026-04-22",
+        "snippet": "RJ Scaringe personally overruled engineers who wanted physical climate controls in the R2, opting for a fully screen-integrated UX consistent with Rivian's software-forward brand identity. The decision trades tactile familiarity for design coherence and will face real-world validation with first deliveries. Early owner reactions at block parties have been mixed on the interior approach vs. the R1's buttons.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "R1S Gen 1 turtle mode: 12V, system fault, and AWD warnings at 45K miles",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tjx27y/12v_system_fault_awd/",
+        "source": "reddit_rivian",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-21",
+        "snippet": "R1S Gen 1 owner (45K miles) reports vehicle entering turtle mode with simultaneous 12V, system fault, and AWD failure warnings. Community suspects cascading 12V battery failure affecting auxiliary systems — a recurring pattern among higher-mileage Gen 1 vehicles. A leading indicator of wear patterns that Rivian must proactively address as R2 owners begin to experience year 3-4 ownership.",
+        "themes": [
+          "R1S review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian's new 'billion-dollar' e-bike brand — the uncomfortable reality behind the valuation",
+        "url": "https://electrek.co/2026/04/28/the-uncomfortable-reality-behind-rivians-new-billion-dollar-e-bike-brand/",
+        "source": "news",
+        "category": "business",
+        "sentiment": "neutral",
+        "publishedAt": "2026-04-28",
+        "snippet": "Electrek takes a skeptical look at Rivian's e-bike spinoff reportedly carrying a billion-dollar valuation, questioning the capital allocation rationale during a critical R2 ramp period. The piece raises whether the venture signals strategic diversification confidence or distraction from core vehicle execution at a pivotal moment in the company's history.",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "RIVN +19.1 seven-day buzz with positive momentum — May 21, 2026 retail signals",
+        "url": "https://www.reddit.com/r/RetailStockSignals/comments/1tjt0fb/daily_retail_stock_signals_may_21_2026_nvda_leads/",
+        "source": "reddit_ev",
+        "category": "business",
+        "sentiment": "positive",
+        "publishedAt": "2026-05-21",
+        "snippet": "Daily retail sentiment tracker shows RIVN with a +19.1 seven-day buzz increase and positive momentum on May 21 — ranked among the top 7-day movers. This is a significant rebound from prior weeks' technical downtrend and follows the Director insider buy and improving product narrative. Positive retail sentiment heading into June configuration invites could help support the stock floor.",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "NJ Service Centers: South Jersey has no Rivian service coverage — gap ahead of R2 ramp",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tjx9aa/nj_service_centers/",
+        "source": "reddit_rivian",
+        "category": "community",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-21",
+        "snippet": "Owner maps South Jersey as effectively unserved — King of Prussia PA is 2 hours in traffic, Trenton equally far. The Cherry Hill/Philadelphia metro is one of the densest car-buying markets on the East Coast, and the owner notes Tesla is actively building a larger showroom there. This is a concrete service coverage gap that Rivian must address before R2 delivery volume arrives in the region.",
+        "themes": [
+          "owner experience",
+          "service network"
+        ]
+      },
+      {
+        "title": "Connect+ Issues post-2026.15 OTA: streaming, hotspot slowdowns, Rivian Assistant offline",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tjwchn/connect_issues_r1s_gen_1/",
+        "source": "reddit_rivian",
+        "category": "software",
+        "sentiment": "negative",
+        "publishedAt": "2026-05-21",
+        "snippet": "R1S Gen 1 owner reports Connect+ connectivity degraded significantly since the 2026.15 OTA update that introduced Rivian Assistant — streaming services fail to load, hotspot is near-unusable, and the assistant now displays as offline. If the OTA update is throttling bandwidth to power the cloud AI stack, this is a critical architectural trade-off with negative owner experience implications at scale.",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "Rivian app 3.11.0 adds swipe navigation between vehicles, chargers, and features",
+        "url": "https://x.com/EVguyZach",
+        "source": "twitter",
+        "category": "software",
+        "sentiment": "positive",
+        "publishedAt": null,
+        "snippet": "Community tracker @EVguyZach notes Rivian app update v3.11.0 adds swipe navigation between vehicle status, nearby chargers, and other Rivian features — improving the home screen UX flow. A welcome quality-of-life improvement as Rivian prepares to onboard a new wave of R2 customers who will primarily interact with the brand through the mobile app.",
+        "themes": [
+          "OTA update"
+        ]
+      }
+    ]
   }
 ]
