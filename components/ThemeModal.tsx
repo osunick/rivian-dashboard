@@ -26,7 +26,14 @@ const SENTIMENT_COLOR: Record<string, string> = {
   negative: '#EF4444',
 };
 
+function sortNewestFirst<T extends { reportTimestamp?: string }>(arr: T[]): T[] {
+  return [...arr].sort((a, b) =>
+    new Date(b.reportTimestamp ?? 0).getTime() - new Date(a.reportTimestamp ?? 0).getTime()
+  );
+}
+
 export default function ThemeModal({ theme, items, onClose }: Props) {
+  const sorted = sortNewestFirst(items);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -88,12 +95,12 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
 
         {/* Body */}
         <div style={{ overflowY: 'auto', flex: 1, padding: '16px 20px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
-          {items.length === 0 ? (
+          {sorted.length === 0 ? (
             <div style={{ color: '#6B7280', fontSize: '13px', fontFamily: 'monospace', textAlign: 'center', padding: '32px 0' }}>
               No items found for this source.
             </div>
           ) : (
-            items.map((item, i) => (
+            sorted.map((item, i) => (
               <div key={i} style={{ border: '1px solid #1F1F1F', borderRadius: '8px', padding: '16px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
                 <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '8px' }}>
                   <span style={{ color: '#6B7280', fontSize: '11px', fontFamily: 'monospace' }}>
@@ -141,7 +148,7 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
         </div>
 
         <div style={{ padding: '12px 20px', borderTop: '1px solid #1F1F1F', color: '#4B5563', fontSize: '11px', fontFamily: 'monospace' }}>
-          {items.length} item{items.length !== 1 ? 's' : ''}
+          {sorted.length} item{sorted.length !== 1 ? 's' : ''}
         </div>
       </div>
     </div>

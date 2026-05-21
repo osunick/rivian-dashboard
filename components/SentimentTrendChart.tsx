@@ -52,7 +52,16 @@ const CustomTooltip = ({ active, payload, label }: any) => {
 };
 
 function DrillDownPanel({ report, onClose }: { report: Report; onClose: () => void }) {
-  const items = report.items ?? [];
+  const rawItems = report.items ?? [];
+  // Most recent first by publishedAt, then by array order
+  const items = [...rawItems].sort((a, b) => {
+    const paA = a.publishedAt ? new Date((a as any).publishedAt).getTime() : NaN;
+    const paB = b.publishedAt ? new Date((b as any).publishedAt).getTime() : NaN;
+    if (!isNaN(paB) && !isNaN(paA)) return paB - paA;
+    if (!isNaN(paB)) return 1;
+    if (!isNaN(paA)) return -1;
+    return 0;
+  });
   const ts = new Date(report.timestamp).toLocaleString('en-US', {
     month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short',
     timeZone: 'America/Los_Angeles'

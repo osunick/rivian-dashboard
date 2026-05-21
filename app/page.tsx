@@ -70,6 +70,15 @@ export default function DashboardPage() {
       }))
     : [];
 
+  // Items from the latest scan only, grouped by source (for drill-down date filtering)
+  const sourceItemsFromLatest: Record<string, any[]> = {};
+  if (latest) {
+    for (const item of latest.items ?? []) {
+      if (!sourceItemsFromLatest[item.source]) sourceItemsFromLatest[item.source] = [];
+      sourceItemsFromLatest[item.source].push({ ...item, reportTimestamp: latest.timestamp });
+    }
+  }
+
   const failedScans = reports.filter(r => r.scanError);
   const threatDisplay = THREAT_HEADER[threatLevel] ?? THREAT_HEADER.medium;
 
@@ -184,7 +193,7 @@ export default function DashboardPage() {
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Activity</h2>
                   <span className="text-[#6B7280] text-xs font-mono">LATEST SCAN · CLICK TO DRILL DOWN</span>
                 </div>
-                <SourceActivityChart data={sourceActivityData} />
+                <SourceActivityChart data={sourceActivityData} itemsMap={sourceItemsFromLatest} />
               </div>
             </div>
 

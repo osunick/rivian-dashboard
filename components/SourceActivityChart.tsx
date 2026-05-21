@@ -1,6 +1,5 @@
 // Intentionally NOT 'use client' — pure HTML, no JS needed
 import { SOURCE_LABELS, SourceKey, SentimentLabel, SOURCE_KEYS } from '@/lib/types';
-import reportsRaw from '@/public/data/reports.json';
 
 interface SourceEntry {
   source: string;
@@ -10,6 +9,8 @@ interface SourceEntry {
 
 interface Props {
   data: SourceEntry[];
+  /** Items from the specific scan being shown — passed from the parent server component */
+  itemsMap: Record<string, any[]>;
 }
 
 const SENTIMENT_COLORS: Record<string, string> = {
@@ -18,30 +19,7 @@ const SENTIMENT_COLORS: Record<string, string> = {
   negative: '#EF4444',
 };
 
-function buildItemsMap() {
-  const map: Record<string, any[]> = {};
-  for (const key of SOURCE_KEYS) map[key] = [];
-  const seen: Record<string, Set<string>> = {};
-  for (const key of SOURCE_KEYS) seen[key] = new Set();
-
-  const reports = (reportsRaw as any[]).filter(
-    r => !r.scanError && (r.sentiment?.positive + r.sentiment?.neutral + r.sentiment?.negative) > 0
-  );
-  for (const r of reports) {
-    for (const item of (r.items ?? [])) {
-      const src = item.source as string;
-      if (SOURCE_KEYS.includes(src as SourceKey) && !seen[src].has(item.url)) {
-        seen[src].add(item.url);
-        map[src].push({ ...item, reportTimestamp: r.timestamp });
-      }
-    }
-  }
-  return map;
-}
-
-const ITEMS_MAP = buildItemsMap();
-
-export default function SourceActivityChart({ data }: Props) {
+export default function SourceActivityChart({ data, itemsMap }: Props) {
   const sorted = [...data].sort((a, b) => b.found - a.found);
   const max = Math.max(...sorted.map(d => d.found), 1);
 
@@ -50,7 +28,11 @@ export default function SourceActivityChart({ data }: Props) {
       {sorted.map(entry => {
         const label = SOURCE_LABELS[entry.source as SourceKey] ?? entry.source;
         const color = SENTIMENT_COLORS[entry.sentiment ?? ''] ?? '#374151';
-        const items = ITEMS_MAP[entry.source] ?? [];
+        const rawItems = itemsMap[entry.source] ?? [];
+        // Most recent first
+        const items = [...rawItems].sort((a, b) =>
+          new Date(b.reportTimestamp ?? 0).getTime() - new Date(a.reportTimestamp ?? 0).getTime()
+        );
         const pct = (entry.found / max) * 100;
 
         return (

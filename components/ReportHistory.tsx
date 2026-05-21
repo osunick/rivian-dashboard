@@ -39,6 +39,8 @@ function formatFull(ts: string): string {
 
 function ReportRow({ report, index }: { report: Report; index: number }) {
   const [expanded, setExpanded] = useState(false);
+  const [notesExpanded, setNotesExpanded] = useState(false);
+  const [summaryExpanded, setSummaryExpanded] = useState(false);
   const isFailed = !!report.scanError;
   const toggle = () => setExpanded(e => !e);
 
@@ -70,7 +72,11 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
               <span className="text-[#6B7280]">{report.sentiment.neutral}%</span>
               <span className="text-[#EF4444]">{report.sentiment.negative}%</span>
             </div>
-            <div className={`text-[#A1A1AA] text-xs leading-snug ${expanded ? '' : 'line-clamp-2'}`}>{report.summary}</div>
+            <div
+              className={`text-[#A1A1AA] text-xs leading-snug ${summaryExpanded ? '' : 'line-clamp-2'} cursor-pointer`}
+              onClick={e => { e.stopPropagation(); setSummaryExpanded(s => !s); }}
+              title={summaryExpanded ? 'Collapse summary' : 'Expand summary'}
+            >{report.summary}{!summaryExpanded && <span className="text-[#4B5563] ml-1 text-[10px] font-mono hover:text-[#9CA3AF]">▼</span>}</div>
           </>
         )}
       </button>
@@ -110,7 +116,14 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
                   </span>
                 ))}
               </span>
-              <span className="text-[#A1A1AA] truncate inline-block max-w-full align-middle">{report.summary}</span>
+              <span
+                className={`text-[#A1A1AA] inline-block align-middle cursor-pointer ${summaryExpanded ? 'whitespace-normal' : 'truncate max-w-full'}`}
+                onClick={e => { e.stopPropagation(); setSummaryExpanded(s => !s); }}
+                title={summaryExpanded ? 'Collapse summary' : 'Expand summary'}
+              >
+                {report.summary}
+                {!summaryExpanded && <span className="text-[#4B5563] ml-1 text-[10px] font-mono hover:text-[#9CA3AF]"> ▼</span>}
+              </span>
             </>
           )}
         </div>
@@ -136,7 +149,14 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
                 <span className="text-[#374151] text-[10px] font-mono">{report.items.length} items · click to verify</span>
               </div>
               <div className="divide-y divide-[#1F1F1F]">
-                {report.items.map((item, i) => (
+                {[...report.items].sort((a, b) => {
+                  const paA = (a as any).publishedAt ? new Date((a as any).publishedAt).getTime() : NaN;
+                  const paB = (b as any).publishedAt ? new Date((b as any).publishedAt).getTime() : NaN;
+                  if (!isNaN(paB) && !isNaN(paA)) return paB - paA;
+                  if (!isNaN(paB)) return 1;
+                  if (!isNaN(paA)) return -1;
+                  return 0;
+                }).map((item, i) => (
                   <div key={i} className="px-4 py-3 hover:bg-[#111111] transition-colors">
                     <div className="flex items-start gap-3">
                       <div
@@ -189,11 +209,26 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
             </div>
           )}
 
-          {/* Full text */}
-          <div className="bg-[#0A0A0A] border border-[#1F1F1F] rounded p-4">
-            <div className="text-[#6B7280] text-[10px] font-mono mb-2 uppercase tracking-wider">Full Summary</div>
-            <pre className="text-[#A1A1AA] text-xs font-mono whitespace-pre-wrap leading-relaxed">{report.fullReport}</pre>
-          </div>
+          {/* Full notes — expandable */}
+          {report.fullReport && (
+            <div className="bg-[#0A0A0A] border border-[#1F1F1F] rounded overflow-hidden">
+              <button
+                type="button"
+                onClick={() => setNotesExpanded(n => !n)}
+                className="w-full flex items-center justify-between px-4 py-2.5 hover:bg-[#0D1117] transition-colors"
+              >
+                <span className="text-[#6B7280] text-[10px] font-mono uppercase tracking-wider">Field Notes</span>
+                <span className={`text-[#6B7280] text-[10px] font-mono flex items-center gap-1.5 transition-colors ${notesExpanded ? 'text-[#9CA3AF]' : ''}`}>
+                  {notesExpanded ? 'collapse ▲' : 'expand ▼'}
+                </span>
+              </button>
+              {notesExpanded && (
+                <div className="px-4 pb-4 pt-1 border-t border-[#1F1F1F]">
+                  <pre className="text-[#A1A1AA] text-xs font-mono whitespace-pre-wrap leading-relaxed">{report.fullReport}</pre>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       )}
     </div>
