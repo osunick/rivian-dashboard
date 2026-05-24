@@ -45,6 +45,11 @@ try {
     process.exit(0);
   }
 
+  // Optimize: Keep only last 30 entries to prevent file bloat/token waste
+  if (existing.length >= 30) {
+    existing.shift();
+  }
+
   existing.push(entry);
   // Backup first
   fs.copyFileSync(FILE, FILE + '.bak');
