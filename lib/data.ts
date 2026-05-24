@@ -1,15 +1,49 @@
 import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, SOURCE_KEYS, SOURCE_LABELS, CompetitorProfile, COMPETITORS, ThreatLevel } from './types';
-import reportsRaw from '../public/data/reports.json';
+import fs from 'fs';
+import path from 'path';
 
-// Cast and sort newest first
-export const reports: Report[] = (reportsRaw as Report[]).sort(
-  (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
-);
+// Read reports.json fresh at request time (server-side only).
+// Avoids Next.js bundling stale data at build time.
+function loadReports(): Report[] {
+  try {
+    const filePath = path.join(process.cwd(), 'public', 'data', 'reports.json');
+    const raw = fs.readFileSync(filePath, 'utf8');
+    const parsed = JSON.parse(raw) as Report[];
+    return parsed.sort(
+      (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
+    );
+  } catch (err) {
+    console.error('[lib/data] Failed to load reports.json:', err);
+    return [];
+  }
+}
 
-// Valid reports = no scan errors and at least some data found
-export const validReports: Report[] = reports.filter(
-  r => !r.scanError && (r.sentiment.positive + r.sentiment.neutral + r.sentiment.negative) > 0
-);
+// Getter API — call these from server components for fresh data each render.
+export function getReports(): Report[] {
+  return loadReports();
+}
+
+export function getValidReports(): Report[] {
+  return loadReports().filter(
+    r => !r.scanError && (r.sentiment.positive + r.sentiment.neutral + r.sentiment.negative) > 0
+  );
+}
+
+// Back-compat lazy proxies — existing call sites that read `reports`/`validReports`
+// as if they were arrays will get a fresh snapshot on each property access.
+export const reports: Report[] = new Proxy([] as Report[], {
+  get(_t, prop) {
+    const r = loadReports();
+    return (r as unknown as Record<string | symbol, unknown>)[prop as string];
+  },
+}) as Report[];
+
+export const validReports: Report[] = new Proxy([] as Report[], {
+  get(_t, prop) {
+    const r = getValidReports();
+    return (r as unknown as Record<string | symbol, unknown>)[prop as string];
+  },
+}) as Report[];
 
 export function getLatestReport(): Report | null {
   return validReports[0] ?? null;
@@ -33,7 +67,7 @@ export function getSevenDayAvgScore(): number {
 
 export function getThemeFrequency(): { theme: string; count: number }[] {
   const freq: Record<string, number> = {};
-  for (const r of reports) {
+  for (const r of getReports()) {
     for (const item of r.items) {
       for (const t of (item.themes ?? [])) {
         freq[t] = (freq[t] || 0) + 1;
@@ -71,7 +105,7 @@ export function getLast5ReportsNewestFirst(): Report[] {
 export function getItemsByTheme(theme: string): (Report['items'][number] & { reportTimestamp: string })[] {
   const seen = new Set<string>();
   const result: (Report['items'][number] & { reportTimestamp: string })[] = [];
-  for (const r of reports) {
+  for (const r of getReports()) {
     for (const item of r.items) {
       if ((item.themes ?? []).includes(theme) && !seen.has(item.url)) {
         seen.add(item.url);
@@ -107,7 +141,7 @@ export function getCategoryBreakdown(): { key: CategoryKey; label: string; found
     autonomy: new Set(), vehicles: new Set(), business: new Set(),
     software: new Set(), community: new Set(), competitive: new Set(),
   };
-  for (const r of validReports) {
+  for (const r of getValidReports()) {
     for (const item of r.items) {
       const cat = item.category as CategoryKey;
       if (cat && cat in counts && !seen[cat].has(item.url)) {
@@ -130,7 +164,7 @@ export function getCategoryItemsMap(): Record<CategoryKey, (Report['items'][numb
     map[key] = [];
     seen[key] = new Set();
   }
-  for (const r of validReports) {
+  for (const r of getValidReports()) {
     for (const item of r.items) {
       const cat = item.category as CategoryKey;
       if (cat && CATEGORY_KEYS.includes(cat) && !seen[cat].has(item.url)) {
@@ -150,7 +184,7 @@ type ReportItemWithTimestamp = Report['items'][number] & { reportTimestamp: stri
 export function getCompetitiveItems(): ReportItemWithTimestamp[] {
   const seen = new Set<string>();
   const result: ReportItemWithTimestamp[] = [];
-  for (const r of validReports) {
+  for (const r of getValidReports()) {
     for (const item of r.items) {
       if (item.category === 'competitive' && !seen.has(item.url)) {
         seen.add(item.url);
@@ -166,7 +200,7 @@ export function getItemsByCompetitor(keywords: string[]): ReportItemWithTimestam
   const seen = new Set<string>();
   const result: ReportItemWithTimestamp[] = [];
   const lower = keywords.map(k => k.toLowerCase());
-  for (const r of validReports) {
+  for (const r of getValidReports()) {
     for (const item of r.items) {
       const text = `${item.title} ${item.snippet}`.toLowerCase();
       if (lower.some(kw => text.includes(kw)) && !seen.has(item.url)) {
@@ -216,7 +250,7 @@ export function getSourceItemsMap(): Record<SourceKey, (Report['items'][number] 
     map[key] = [];
     seen[key] = new Set();
   }
-  for (const r of validReports) {
+  for (const r of getValidReports()) {
     for (const item of r.items) {
       const src = item.source as SourceKey;
       if (SOURCE_KEYS.includes(src) && !seen[src].has(item.url)) {
@@ -252,7 +286,7 @@ export interface SourceMatrixData {
  * Avoids relying on the RSC serializer to faithfully hydrate nested Report[].items.
  */
 export function getSourceMatrixData(): SourceMatrixData {
-  const reports5 = validReports.slice(0, 5);
+  const reports5 = getValidReports().slice(0, 5);
 
   const headers = reports5.map(r => {
     const d = new Date(r.timestamp);
