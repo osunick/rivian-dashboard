@@ -160,5 +160,84 @@
     "summary": "No fresh news identified today.",
     "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Sunday, May 24, 2026 — 10:36 AM PT — No fresh intelligence identified for today._\n\n*🎯 SITREP*\n• Quiet Sunday cycle; no significant competitive intelligence or Rivian-specific updates identified in current monitoring streams.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
     "items": []
+  },
+  {
+    "id": "2026-05-25T14:00:00.000Z",
+    "timestamp": "2026-05-25T14:00:00.000Z",
+    "sentiment": {
+      "positive": 60,
+      "neutral": 30,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "twitter": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 delivery",
+      "AI integration",
+      "Rivian Assistant",
+      "production surge"
+    ],
+    "competitiveContext": "Rivian is shifting market narrative from competitive pricing challenges to product innovation and production scaling as R2 deliveries approach. Focus remains on capitalizing on software-defined vehicle momentum with the new AI Assistant.",
+    "summary": "Rivian enters the week with strong positive sentiment driven by R2 delivery ramp-up expectations and the launch of its new onboard 'Rivian Assistant' AI, positioning the company well for mid-year production growth.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — 7:00 AM PT — 5 signals · 4 categories_\n\n*🎯 SITREP*\n• Rivian production outlook positive: Analysts confirm 53% delivery surge expected for 2026 driven by R2 launch ramp.\n• Innovation milestone: New 'Rivian Assistant' AI launched via software update, enhancing voice/vehicle interaction.\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🤖 Autonomy & Software*\n• Rivian rolls out 'Rivian Assistant' AI in latest software update. Cross-generational support (Gen1/Gen2) significantly boosts user-experience sentiment.\n\n*🚗 Vehicles & Business*\n• 2026 delivery guidance remains robust with R2 production scaling as a key driver.\n\n_Competitive threat: 🟡 NEUTRAL — Rivian focusing on internal product/production velocity_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
   }
 ]
