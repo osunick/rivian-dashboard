@@ -5867,5 +5867,29 @@
         ]
       }
     ]
+  },
+  {
+    "id": "rf-20260524-001",
+    "timestamp": "2026-05-25T02:00:00Z",
+    "sentiment": "Positive",
+    "sources": [
+      "Industry Pulse",
+      "Rivian Internal Analytics"
+    ],
+    "categories": [
+      "Market Update",
+      "EV Charging Infrastructure"
+    ],
+    "themes": [
+      "Charging Efficiency",
+      "Network Expansion"
+    ],
+    "competitiveContext": "Tesla's ongoing North American Charging Standard (NACS) integration remains a key competitive focal point.",
+    "summary": "Report on current charging network performance and regional expansion metrics.",
+    "fullReport": "The week in review shows steady growth in DC fast charging utilization across the Adventure Network, with a notable uptick in R1T/R1S charging sessions at national park corridors.",
+    "items": [
+      "Expansion of 25 new chargers in the Pacific Northwest",
+      "Software OTA update improving cold-weather charging speeds"
+    ]
   }
 ]
