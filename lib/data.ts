@@ -2,6 +2,7 @@ import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, SOURCE_KEYS, SOURCE_LABE
 import reportsRaw from '../public/data/reports.json';
 
 // Cast and sort newest first
+// Force redeploy to fix auth redirect
 export const reports: Report[] = (reportsRaw as Report[]).sort(
   (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
 );
