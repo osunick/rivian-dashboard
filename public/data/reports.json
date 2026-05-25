@@ -324,6 +324,35 @@
     "competitor": "Tesla",
     "topic": "Software Stack Updates",
     "summary": "Reported acceleration in FSD v14 deployment across legacy fleets.",
-    "strategic_implication": "Competitive pressure on R1 series ADAS feature parity; recommend prioritization of R1 Gen 2 OTA software rollout."
+    "strategic_implication": "Competitive pressure on R1 series ADAS feature parity; recommend prioritization of R1 Gen 2 OTA software rollout.",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 20,
+      "negative": 60
+    },
+    "sources": {
+      "news": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "themes": [
+      "FSD",
+      "ADAS",
+      "OTA"
+    ],
+    "competitiveContext": "Tesla FSD v14 is scaling rapidly, increasing the burden on Rivian to match feature functionality in the R1 series.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — ADAS Update_\n\n*🎯 SITREP*\n• Tesla FSD v14 deployment accelerating across legacy fleets.\n\n*⚔️ FIELD INTELLIGENCE*\n• Competitive pressure on R1 series ADAS feature parity rising. Prioritize R1 Gen 2 OTA rollout.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
   }
 ]
