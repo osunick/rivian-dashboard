@@ -243,9 +243,78 @@
   {
     "id": "tesla-q2-2026-market-share",
     "timestamp": "2026-05-25T14:38:00Z",
-    "category": "Market Intelligence",
-    "competitor": "Tesla",
-    "summary": "Tesla market share reached 59% in recent Q1/Q2 2026 reporting, reinforcing dominance in the mass-premium segment. Rivian continues to differentiate via the 'adventure-lifestyle' moat, insulating from direct price-war attrition seen in standard passenger vehicle segments.",
-    "analyst_note": "Monitor Tesla's pricing strategy in response to Rivian's R2 ramp-up. Continued focus on supply chain resilience is critical."
+    "sentiment": {
+      "positive": 40,
+      "neutral": 40,
+      "negative": 20
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Tesla market share",
+      "EV pricing"
+    ],
+    "competitiveContext": "Tesla market share reached 59% in recent Q1/Q2 2026 reporting, reinforcing dominance in the mass-premium segment. Rivian continues to differentiate via the 'adventure-lifestyle' moat, insulating from direct price-war attrition seen in standard passenger vehicle segments.",
+    "summary": "Tesla market share reached 59% in recent reporting, reinforcing dominance. Rivian continues to differentiate via the 'adventure-lifestyle' moat.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — Market Intelligence Update_\n\n*🎯 SITREP*\n• Tesla U.S. EV market share hit 59% in Q2 2026 reporting.\n\n*⚔️ FIELD INTELLIGENCE*\n• Tesla's mass-market dominance persists, creating high pressure on niche players. Rivian's R2 ramp must focus on segment differentiation to avoid direct price competition.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
   }
 ]
