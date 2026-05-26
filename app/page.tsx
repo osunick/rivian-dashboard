@@ -27,6 +27,7 @@ import ReportHistory from '@/components/ReportHistory';
 import CompetitorWatch from '@/components/CompetitorWatch';
 import ScoutingReport from '@/components/ScoutingReport';
 import SearchButton from '@/components/SearchButton';
+import ChatButton from '@/components/ChatButton';
 
 export const dynamic = 'force-dynamic';
 
@@ -97,6 +98,7 @@ export default function DashboardPage() {
         </div>
         <div className="flex flex-wrap items-center gap-3 sm:text-right">
           <SearchButton />
+          <ChatButton />
           {/* Threat badge */}
           <div className="flex items-center gap-1.5 px-2 py-0.5 rounded border text-xs font-mono font-semibold"
             style={{ color: threatDisplay.color, borderColor: `${threatDisplay.color}40` }}>
