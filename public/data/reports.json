@@ -1,156 +1,5 @@
 [
   {
-    "id": "2026-05-14T03:42:00.000Z",
-    "timestamp": "2026-05-14T03:42:00.000Z",
-    "sentiment": {
-      "positive": 48,
-      "neutral": 37,
-      "negative": 15
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 5,
-        "sentiment": "positive"
-      },
-      "news": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "Gen 1 vs Gen 2 autonomy platform comparison (Driver+ vs RAP)",
-      "Autonomy+ subscription pricing ($2,500 one-time / $49.99/month)",
-      "In-house autonomy silicon and LiDAR roadmap for 2026"
-    ],
-    "competitiveContext": "Rivian's Autonomy+ is positioned directly against Tesla FSD with a lower $2,500 one-time price, though Rivian's platform is earlier in its rollout compared to Tesla's more mature FSD and Waymo's established robotaxi service.",
-    "summary": "Rivian autonomy discussion is active on owner forums, centered on the Gen 1/Gen 2 platform split and upcoming Autonomy+ subscription pricing. Press coverage is upbeat, highlighting Rivian's in-house chip development and LiDAR plans as differentiators.",
-    "fullReport": "🔵 *Rivian Autonomy Pulse*\n_May 13, 2026 — 8:42 PM PT_\n\n*📊 Sentiment Snapshot*\nPositive: 48% | Neutral: 37% | Negative: 15%\n_Rivian's autonomy roadmap is generating genuine enthusiasm among owners, tempered by some caution around subscription costs and the Gen 1/Gen 2 feature gap._\n\n*📣 Reddit*\n• [r/electricvehicles] *Honest opinion about Rivian* — General community discussion; autonomy features mentioned as a key differentiator but older Gen 1 owners wary about Driver+ being siloed vs. the new RAP platform on Gen 2.\n  🔗 https://www.reddit.com/r/electricvehicles/comments/10b071m/honest_opinion_about_rivian/\n\n*🏁 RivianForums*\n• *Autonomy+ / Driver+ / Universal Hands-Free comparison test Gen 1 vs Gen 2* — Owner ran a back-to-back real-world comparison on the same road with a loaner 2024 R1T and their own 2025 R1S. Hands-free behavior and smoothness noticeably improved on Gen 2 RAP.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-universal-hands-free-comparison-test-on-gen-1-vs-gen-2.57335/\n• *Confirmed: Driver+ is obsolete — RAP is exclusive to Gen 2* — Rivian FAQ clarifies the platform split; community broadly neutral-to-accepting but Gen 1 owners express concern about future feature parity.\n  🔗 https://www.rivianforums.com/forum/threads/confirmed-driver-is-obsolete-and-rivian-autonomy-platform-is-exclusive-to-gen-2-rivian-faq.28710/\n• *Autonomy+ / Driver+ Subscription — How Much Will You Pay?* — Subscription pricing thread as the free trial window closes; community divided on whether $49.99/month or $2,500 one-time is reasonable.\n  🔗 https://www.rivianforums.com/forum/threads/autonomy-driver-subscription-how-much-will-you-pay.52110/\n\n*📰 News & Press*\n• *Rivian's New $2,500 Autonomy+ Package Undercuts Tesla FSD* (Autoblog) — Rivian unveiled in-house self-driving silicon and LiDAR integration plans; Autonomy+ subscription launches 2026 with hands-free driving at a lower price than Tesla FSD.\n  🔗 https://www.autoblog.com/news/rivian-self-driving-autonomy-and-ai\n• *Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Assistant* (Edmunds) — Deep dive into Rivian's autonomy roadmap including proprietary AI chips, LiDAR sensor integration, and a new in-car AI assistant. Coverage is enthusiastic about Rivian's vertical integration approach and long-term hands-free driving ambitions.\n  🔗 https://www.edmunds.com/car-news/rivian-autonomy-lidar-ai.html\n• *Rivian Autonomy & AI Day — Lidar, Hands-Free Driving, Rivian Assistant* (RivianForums) — Rivian's official event coverage; Autonomy+ priced at $2,500 one-time or $49.99/month, launching early 2026. Community reception was largely excited, with forum members praising Rivian's commitment to building autonomy in-house.\n  🔗 https://www.rivianforums.com/rivian-autonomy-ai-day-is-here-watch-livestream/\n\n*📌 Key Themes*\n1. Gen 1 vs Gen 2 autonomy platform split (Driver+ vs Rivian Autonomy Platform)\n2. Subscription pricing debate ($2,500 one-time or $49.99/month)\n3. In-house silicon + LiDAR roadmap positioning Rivian as a long-term autonomy player",
-    "items": [
-      {
-        "title": "Autonomy+ / Driver+ / Universal Hands-free comparison test on Gen 1 vs Gen 2",
-        "url": "https://www.rivianforums.com/forum/threads/autonomy-driver-universal-hands-free-comparison-test-on-gen-1-vs-gen-2.57335/",
-        "source": "rivianforums",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "An owner ran a back-to-back comparison of Autonomy+/Driver+ on the same road stretch using a loaner 2024 R1T (Gen 1) and their own 2025 R1S (Gen 2). The hands-free experience on Gen 2 RAP was noticeably smoother and more capable. Detailed real-world test with community engagement."
-      },
-      {
-        "title": "What is the Difference Between Driver+ and Rivian Autonomy Platform — Clarifying Terminology",
-        "url": "https://www.rivianforums.com/forum/threads/what-is-the-difference-between-driver-and-rivian-autonomy-platform-clarifying-terminology-and-naming.43357/",
-        "source": "rivianforums",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Community member attempts to clear up the confusing array of Rivian autonomy terms (Driver+, RAP, RAP+). Clarifies that Gen 1 keeps Driver+ while Gen 2 gets the new Rivian Autonomy Platform, with the door open for future feature divergence. High informational value thread."
-      },
-      {
-        "title": "Confirmed: Driver+ is obsolete and Rivian Autonomy Platform+ is exclusive to Gen 2",
-        "url": "https://www.rivianforums.com/forum/threads/confirmed-driver-is-obsolete-and-rivian-autonomy-platform-is-exclusive-to-gen-2-rivian-faq.28710/",
-        "source": "rivianforums",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Rivian's FAQ confirmed the Gen 1/Gen 2 platform split, with Driver+ staying on older vehicles and RAP/RAP+ exclusive to Gen 2. Gen 1 owners expressed concern about long-term support, though free features currently have parity."
-      },
-      {
-        "title": "Autonomy+ / Driver+ Subscription How Much Will You Pay?",
-        "url": "https://www.rivianforums.com/forum/threads/autonomy-driver-subscription-how-much-will-you-pay.52110/",
-        "source": "rivianforums",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "With the free trial window closing in late 2025, owners debated whether $49.99/month or $2,500 one-time is fair. Community split between those who see value in hands-free driving and those skeptical of paying for features they've had for free."
-      },
-      {
-        "title": "Rivian's New $2,500 Autonomy+ Package Undercuts Tesla FSD",
-        "url": "https://www.autoblog.com/news/rivian-self-driving-autonomy-and-ai",
-        "source": "news",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Autoblog reports on Rivian's Autonomy & AI Day reveal: in-house self-driving silicon, LiDAR integration for future models, and the Autonomy+ subscription launching in 2026. The $2,500 one-time price is framed as undercutting Tesla FSD's cost, generating positive press coverage."
-      },
-      {
-        "title": "Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Assistant",
-        "url": "https://www.edmunds.com/car-news/rivian-autonomy-lidar-ai.html",
-        "source": "news",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Edmunds provides a detailed look at Rivian's autonomy roadmap including proprietary AI chips, LiDAR sensor integration, and a new in-car AI assistant. Coverage is enthusiastic about Rivian's vertical integration approach and long-term hands-free driving ambitions."
-      },
-      {
-        "title": "Rivian Autonomy & AI Day! Lidar, Hands-Free Driving, Rivian Assistant — Livestream Coverage",
-        "url": "https://www.rivianforums.com/rivian-autonomy-ai-day-is-here-watch-livestream/",
-        "source": "rivianforums",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "RivianForums covered Rivian's official Autonomy & AI Day event. Autonomy+ subscription announced at $2,500 (one-time) or $49.99/month, launching early 2026. Community reception was largely excited, with forum members praising Rivian's commitment to building autonomy in-house."
-      },
-      {
-        "title": "Honest opinion about Rivian",
-        "url": "https://www.reddit.com/r/electricvehicles/comments/10b071m/honest_opinion_about_rivian/",
-        "source": "reddit_ev",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "r/electricvehicles discussion on Rivian's overall value proposition as an EV. Autonomy features are mentioned among differentiators, though the thread predates the Gen 2 RAP announcement. Mixed but generally positive community sentiment about Rivian's direction."
-      }
-    ],
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    }
-  },
-  {
     "id": "2026-05-14T03:48:00.000Z",
     "timestamp": "2026-05-14T03:48:00.000Z",
     "sentiment": {
@@ -6807,5 +6656,460 @@
     "competitiveContext": "Tesla FSD v14 is scaling rapidly, increasing the burden on Rivian to match feature functionality in the R1 series.",
     "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — ADAS Update_\n\n*🎯 SITREP*\n• Tesla FSD v14 deployment accelerating across legacy fleets.\n\n*⚔️ FIELD INTELLIGENCE*\n• Competitive pressure on R1 series ADAS feature parity rising. Prioritize R1 Gen 2 OTA rollout.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
     "items": []
+  },
+  {
+    "id": "2026-05-25T21:48:00-07:00",
+    "timestamp": "2026-05-25T21:48:00-07:00",
+    "sentiment": {
+      "positive": 42,
+      "neutral": 54,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 24,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "mixed"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "BMW iX3",
+      "Ford Lightning",
+      "R1S delivery",
+      "R1S review",
+      "R1T review",
+      "R2 air compressor",
+      "R2 launch",
+      "charging infra",
+      "infotainment bug",
+      "owner experience",
+      "range anxiety",
+      "software quality",
+      "steering issue",
+      "suspension issue"
+    ],
+    "competitiveContext": "BMW iX3 is actively targeting R2 reservation holders with engaged sales — a concerned post notes Rivian has been 'nearly radio silent' compared to BMW's attentive service. Meanwhile, Ford Lightning continues to be a benchmark comparison; owners report the R1S dramatically outperforms F150 Lightning on range efficiency (190mi trip with aggressive driving: Lightning arrived at 25% battery, R1S at 40% with 140mi remaining). Scout Motors remains quiet with no discussion, suggesting Rivian owners aren't yet viewing it as a threat.",
+    "summary": "Owner love dominates the cycle — posts celebrating R1T truck ownership, towing capability, and range efficiency land 100+ upvotes, while comparisons to Ford Lightning reinforce Rivian's EV efficiency advantage. Quality concerns surface around rear air suspension and steering calibration on Gen 2 vehicles. The most actionable competitive signal: BMW iX3 is intercepting R2 waitlist candidates with proactive outreach while Rivian stays quiet.",
+    "fullReport": "GameFilm intel for May 25, 2026: 26 new items across r/Rivian (24) and r/RivianR2 (3). Community sentiment is strongly positive with 11 favorable posts vs. 1 negative, driven by R1T/R1S ownership celebrations and a standout range anxiety comparison showing the R1S dramatically outpacing Ford Lightning. Software and hardware quality issues (modem failures, rear suspension lag, steering calibration) represent recurring Gen 2 complaints. Business signals include an R1S lease deal in SoCal ($900/mo) and a former early adopter returning. The competitive watch: BMW iX3 outreach to R2 reservation holders with attentive sales represents a real conversion risk heading into the R2 launch window.",
+    "items": [
+      {
+        "title": "Modem issues",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnusm0/modem_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T20:23:11-07:00",
+        "score": 3,
+        "snippet": "Gen2 R1T owner. My internet connectivity has now failed 3 times in 3 months. It may be the internet module. I have created a service ticket, but I'm curious if anyone has had this issue and if it's been fully resolved?",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "R1S Gen2 Charging Curve 10 to 50%",
+        "url": "https://i.redd.it/9g44yiw75e3h1.png",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T19:14:36-07:00",
+        "score": 7,
+        "snippet": "Started strong with 200kw, reaching a peak of 209KW, then started falling of a cliff at around 30%. Latest software update installed 2026.15.0. 2025 Rivian R1S Gen 2 Max pack. Wish the peak speed held for a little longer.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S review",
+          "charging infra"
+        ]
+      },
+      {
+        "title": "Such a great tow rig",
+        "url": "https://i.redd.it/9t8jek5isd3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T18:03:21-07:00",
+        "score": 111,
+        "snippet": "Tows better than my old 550hp expedition, quiet. Comfy, great support vehicle. Couldn't be happier.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Any off-roading trails/treks in NJ area",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnoozc/any_offroading_trailstreks_in_nj_area_or_de_or_pa/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T15:57:14-07:00",
+        "score": 3,
+        "snippet": "Looking for a recommendation for off roading treks in NJ area to take R1S.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Time for a laugh at range anxiety",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnne30/time_for_a_laugh_at_range_anxiety/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T15:03:18-07:00",
+        "score": 120,
+        "snippet": "190-mile trip in R1S Tri Max (140kwh) — drove 75-85mph, arrived with 40% and 140 miles remaining. F150 Lightning (131kwh) on same route arrived at 25% with ~60 miles left. Rivian manages energy far better.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "range anxiety",
+          "Ford Lightning",
+          "R1S review"
+        ]
+      },
+      {
+        "title": "R1S Lease in SoCal",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnm2fp/r1s_lease_in_socal/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T14:11:48-07:00",
+        "score": 4,
+        "snippet": "R1S 2026 dual motors, standard battery. $3500 down + $500 Rivian rebate + $3k federal credit. 36 mo, $900/mo. Switching from Acura MDX. Asking if better deals available.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S delivery",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Last change option",
+        "url": "https://i.redd.it/vnz0hg0bac3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T12:59:34-07:00",
+        "score": 19,
+        "snippet": "Feature request: add option to show overall energy consumption since last vehicle charge.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "OTA update"
+        ]
+      },
+      {
+        "title": "R1S Rear Suspension",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnhgm0/r1s_rear_suspension/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T11:23:39-07:00",
+        "score": 3,
+        "snippet": "After overnight sit (12 hrs), rear air suspension drops to lowest position and takes 2-3 minutes to return to Standard height. Front suspension unaffected. Is this normal?",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S review",
+          "suspension issue"
+        ]
+      },
+      {
+        "title": "Any rumors of upcoming deals?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnhbej/any_rumors_of_upcoming_deals/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T11:18:51-07:00",
+        "score": 0,
+        "snippet": "No significant incentives this year. Considering R2 but Rivian rep says reservations won't be fulfilled until mid-2027. Asking sleuth community for deal rumors.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "R2 air compressor options",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tngb9z/r2_air_compressor_options/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T10:43:05-07:00",
+        "score": 2,
+        "snippet": "R1T owner loves built-in air compressor; moving to R2. Wants to know what fits R2 for on-board air. Looking for space-efficient solution.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 air compressor",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Those eyes",
+        "url": "https://i.redd.it/k0s5uxq4jb3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T10:28:24-07:00",
+        "score": 78,
+        "snippet": "Photo of R1S/R1T front face with signature illuminated headlights. Community positivity around design.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Tire shop recommendations in New Haven CT",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnfk5e/tire_shop_recommendations_in_new_haven_ct/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T10:16:46-07:00",
+        "score": 1,
+        "snippet": "Seeking tire shop recommendation for R1S replacement in New Haven CT. Few Rivians in area, wants experienced shop.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Base Sound",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnezjw/base_sound/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T09:56:34-07:00",
+        "score": 0,
+        "snippet": "Has base sound improved in Gen 2 via software updates to where the upgrade isn't required?",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "infotainment bug",
+          "OTA update"
+        ]
+      },
+      {
+        "title": "Still one of the best videos of R2 driving",
+        "url": "https://youtu.be/O8DOeaNsEFg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T09:19:31-07:00",
+        "score": 41,
+        "snippet": "YouTube video of R2 driving — described as still one of the best. Community engagement positive.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "R1S",
+        "url": "https://i.redd.it/w4hb55jp3b3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T09:00:47-07:00",
+        "score": 184,
+        "snippet": "Photo post celebrating R1S ownership — highest score of cycle (184). Caption: 'Omg this truck is everything I dreamt it would be'",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "gen 2 R1s quad bad handling",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tncuqe/gen_2_r1s_quad_bad_handling/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T08:40:37-07:00",
+        "score": 6,
+        "snippet": "Gen 2 R1S quad: steering very loose, car doesn't drive straight, pulls right, leans bouncy. Worse than Bronco, can't compare to Model X. No confidence at speed.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S review",
+          "steering issue"
+        ]
+      },
+      {
+        "title": "2026 R1T",
+        "url": "https://i.redd.it/juyeo3mqta3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T08:04:55-07:00",
+        "score": 94,
+        "snippet": "Photo post: 'Omg this truck is everything I dreamt it would be' — celebrating new 2026 R1T delivery.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "The Do-It-All Truck",
+        "url": "https://www.reddit.com/gallery/1tnbpye",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T08:00:37-07:00",
+        "score": 34,
+        "snippet": "R1T capable of more than proportions suggest. Never underestimate. Gym equipment transport also works.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Is leaving R1S unplugged for 2 weeks an issue?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnba6v/is_leaving_r1s_unplugged_for_2_weeks_an_issue_i/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T07:44:44-07:00",
+        "score": 0,
+        "snippet": "No garage or home charging. Asks about battery drain over 2 weeks and which settings to disable (Gear Guard mentioned) to minimize drain.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "R1T, Forza Horizon 6",
+        "url": "https://i.redd.it/n6wrox8lla3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T07:19:31-07:00",
+        "score": 39,
+        "snippet": "Screenshot of Rivian R1T in Forza Horizon 6 game. Crossover between gaming and automotive community.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Torque pull",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tn9ukt/torque_pull/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T06:52:45-07:00",
+        "score": 1,
+        "snippet": "2025 R1T dual: torque pull to the right on acceleration despite multiple wheel swaps and rotations. Now replaced tires at 30k — pull only on acceleration.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T review",
+          "steering issue"
+        ]
+      },
+      {
+        "title": "S vs T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tn91xn/s_vs_t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T06:22:36-07:00",
+        "score": 26,
+        "snippet": "R1S quad loaner vs R1T dual: R1T more composed, better suspension, better steering, more comfortable ride. R1S speakers much better though. Preferring R1T overall.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "R1S review"
+        ]
+      },
+      {
+        "title": "I am BACK!",
+        "url": "https://i.redd.it/7smlfr2ax93h1.png",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T05:07:37-07:00",
+        "score": 51,
+        "snippet": "Early R1T adopter returning after lease end. Rivian employee contact facilitated new order — expecting delivery in 4-5 weeks. Brand loyalty strong.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "owner experience",
+          "R1S delivery"
+        ]
+      },
+      {
+        "title": "How many waiting for an R2 have ordered a BMW iX3?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tn6adf/how_many_waiting_for_r2_have_ordered_a_bmw_ix3/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-25T04:25:14-07:00",
+        "score": 0,
+        "snippet": "Placed BMW iX3 order after Rivian silence on R2 timeline (mid-2027 estimated fulfillment). BMW attentive, Rivian nearly radio silent. Watching BMW scoop up R2 reservation holders.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "R2 launch",
+          "BMW iX3"
+        ]
+      },
+      {
+        "title": "21' vs 20' wheels for R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tng5jy/am_i_missing_something_21_vs_20/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-05-25T10:37:14-07:00",
+        "score": 24,
+        "snippet": "Early R2 reservation holder weighing 21\" Performance Launch wheels (better aesthetics, hides dirt) vs 20\" (the 'obvious choice' per community). Leaning toward 21s for looks.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "How many waiting for an R2 have ordered a BMW iX3? (r/RivianR2)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tn6adf/how_many_waiting_for_r2_have_ordered_a_bmw_ix3/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-05-25T04:26:02-07:00",
+        "score": 0,
+        "snippet": "Duplicate crosspost of BMW iX3/R2 competition signal to r/RivianR2.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "R2 launch",
+          "BMW iX3"
+        ]
+      }
+    ]
   }
 ]
