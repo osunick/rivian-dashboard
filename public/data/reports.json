@@ -1,87 +1,5 @@
 [
   {
-    "id": "2026-05-14T16:46:00.000Z",
-    "timestamp": "2026-05-14T16:46:00.000Z",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [],
-    "competitiveContext": "No fresh competitive content confirmed within 24h — most visible dated results were from Bloomberg (Apr 22) and Reuters (Apr 24), both weeks old.",
-    "summary": "All 10 queries ran successfully via Tavily with freshness=day, but no results carried visible publish timestamps within the last 24 hours. The only explicit date found was '27d ago' on an r/electricvehicles Uber/Rivian robotaxi post. Zero items confirmed fresh this cycle.",
-    "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 9:46 AM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 search queries ran cleanly via Tavily. Results were returned across all sources but none carried visible publish timestamps confirming last-24h freshness. Most recent visible date found: Bloomberg Apr 22, Reuters Apr 24. Excluded per freshness policy._",
-    "items": [],
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    }
-  },
-  {
     "id": "2026-05-15T04:03:00.000Z",
     "timestamp": "2026-05-15T04:03:00.000Z",
     "sentiment": {
@@ -6942,6 +6860,165 @@
         "themes": [
           "R2 launch",
           "BMW iX3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-26T14:00:16Z",
+    "timestamp": "2026-05-26T14:00:16Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 80,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "R1S review",
+      "R1T review",
+      "owner experience",
+      "range anxiety"
+    ],
+    "competitiveContext": "No significant competitor signals surfaced today. The Rivian community is focused on R2 anticipation and day-to-day ownership questions. No Tesla, Ford, or Waymo news picked up in today's crawl — a quiet competitive day, though this may reflect crawl timing rather than actual silence.",
+    "summary": "Light signal day with only 5 new items across Rivian communities, all owner-generated and focused on R2 pre-launch questions and organic ownership experience. No news-tier content surfaced. Community is curious and engaged but not in crisis mode. No red-flag topics.",
+    "fullReport": "Rivian communities are quiet today. Three threads on r/Rivian: an R1S ferry photo celebrating the owner lifestyle (high score, positive signal), a tonneau cover maintenance question (low engagement, neutral), and a Tesla-to-Rivian service comparison thread (zero score, worth watching — signals potential service friction as a conversion barrier). Two r/RivianR2 threads both show strong pre-launch curiosity: tire range tradeoffs and cargo dimensions. No regulatory, autonomy, or earnings signals today.",
+    "items": [
+      {
+        "title": "R1S on a little ferry",
+        "url": "https://www.reddit.com/gallery/1to6501",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T05:56:31-07:00",
+        "score": 58,
+        "snippet": "Was down by the water and saw a nice R1S getting a lift across the little channel",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R1S review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Time to lube the toneau cover",
+        "url": "https://www.reddit.com/r/Rivian/comments/1to60n2/time_to_lube_the_toneau_cover/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T05:51:23-07:00",
+        "score": 4,
+        "snippet": "What kind of lubricant should I use for the tonneau cover? I assume not WD-40.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Those who switched from Tesla: how does the Rivian servicing & repair experience compare?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tnzdfh/those_who_switched_from_tesla_how_does_the_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T00:14:06-07:00",
+        "score": 0,
+        "snippet": "Tesla-to-Rivian service comparison thread highlighting Rivian's service gaps vs Tesla's in-app ease, mobile appointments, and loaner handling — conversion risk if unaddressed.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Why does the 20 inch tire get less range?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1to6uby/why_does_the_20_inch_tire_get_less_range/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-26T06:23:16-07:00",
+        "score": 0,
+        "snippet": "R2 pre-launch question on tire size vs. range tradeoffs — Performance edition website shows 307 mi (20\") vs 330 mi (21\") range. Community wants answers on weight and aero implications.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "range anxiety"
+        ]
+      },
+      {
+        "title": "Cargo Space",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tnzr6h/cargo_space/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-26T00:34:51-07:00",
+        "score": 0,
+        "snippet": "R2 pre-launch cargo dimension questions — owner comparing to Jeep Patriot, seeking box measurements rather than cubic feet to assess real-world hauling capacity.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "owner experience"
         ]
       }
     ]
