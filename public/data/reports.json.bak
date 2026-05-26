@@ -1,0 +1,368 @@
+[
+  {
+    "id": "2026-05-22T14:00:00.000Z",
+    "timestamp": "2026-05-22T14:00:00.000Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 17,
+      "negative": 33
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Autonomy+",
+      "Cybertruck news",
+      "FSD update",
+      "Hey Rivian",
+      "OTA update",
+      "R1S review",
+      "R2 launch",
+      "RIVN stock",
+      "Tesla pricing",
+      "brand sentiment",
+      "fleet/EDV",
+      "infotainment bug",
+      "regulatory news"
+    ],
+    "competitiveContext": "Tesla cut Cybertruck base pricing to $59,990 AWD (down $20K from the previous $79,990 Premium entry point), placing it below R1T's ~$69,900 starting price for the first time — Rivian PMs must urgently decide whether to match with an R1T price cut, reframe R1T as a premium tier, or accelerate R2 buyer migration into the sub-$60K bracket. The Cybertruck simultaneously took major PR damage when a Texas driver was arrested for deliberately driving into Grapevine Lake to test \"Wade Mode,\" handing Rivian a clean narrative advantage in authentic off-road credibility. Tesla's FSD expansion into Lithuania (May 20) and an incomplete Terafab AI compute deal (per SpaceX S-1 filing) signal both accelerating ADAS competition internationally and potential compute bottlenecks in Tesla's autonomy training pipeline.",
+    "summary": "High-urgency competitive cycle: Tesla slashed Cybertruck base pricing to $59,990 — directly undercutting R1T's ~$69,900 for the first time — while a viral Cybertruck \"Wade Mode\" arrest story handed Rivian a brand credibility gift. On the Rivian side, R2 first delivery is confirmed for June 1 (with 20-25K units targeted in 2026), the Uber CEO is publicly discussing the $1.25B robotaxi deal on podcast, and Rivian clarified the hybrid on-vehicle/cloud AI architecture behind its assistant. Software quality remains a watch item: a safety-relevant infotainment freeze at 75mph and a widespread messaging bug (with community PSA) continue the pattern of 2026.15 OTA regressions.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Friday, May 22, 2026 — 7:00 AM PT — 12 signals · 5 categories_\n\n*🎯 SITREP*\n• Tesla cuts Cybertruck base $20K to $59,990 AWD — now CHEAPER than R1T (~$69,900) for first time; urgent Rivian pricing decision\n• Cybertruck owner arrested for lake \"Wade Mode\" stunt — viral brand damage, Rivian adventure narrative window wide open\n• R2 first delivery confirmed June 1 + Uber CEO publicly pitching Rivian robotaxi deal on podcast\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Tesla (Cybertruck pricing)*: New $59,990 base AWD model — same 325-mile range as old $79,990 Premium, cuts air suspension. Cyberbeast also drops $15K to $99,990. First time Cybertruck base undercuts R1T MSRP. Rivian needs a response — price cut, premium reframe, or accelerate R2 buyer migration.\n  https://insideevs.com/news/787859/tesla-cybertruck-price-cut-2026\n• *Tesla (Cybertruck PR)*: Owner arrested May 21 after deliberately driving his Cybertruck into Grapevine Lake, TX to test \"Wade Mode.\" Vehicle disabled, took on water, driver jailed on park/water safety charges. Viral across BBC, Automotive News — priceless opening for Rivian's authentic off-road credibility narrative.\n  https://www.bbc.com/news/articles/c072x1kml44o\n• *Tesla (FSD)*: FSD Supervised launches in Lithuania — second European country after initial EU rollout (May 20). International ADAS expansion accelerating; Rivian has no comparable international autonomy roadmap publicly announced.\n  https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/\n• *Tesla (AI compute)*: SpaceX S-1 IPO filing reveals Tesla's Terafab AI compute deal is \"far from done\" — raises questions about training compute capacity for FSD at scale, potentially bottlenecking Tesla's autonomy iteration speed.\n  https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🤖 Autonomy (1)*\n• Rivian clarifies AI architecture: Assistant uses hybrid on-vehicle + cloud AI (not a single local model) via Rivian Unified Intelligence — optimized for latency-sensitive vehicle control locally plus cloud cognition for complex queries\n  https://x.com/Rivian/status/2054617871330791629\n\n*🚗 Vehicles (3)*\n• R2 first delivery confirmed June 1 — RivianForums thread confirms a member receiving their R2 on June 1; 20-25K R2 deliveries targeted for full 2026 (total 62-67K vehicles)\n  https://www.rivianforums.com/forum/threads/any-shot-at-r2-delivery-by-july.58417/page-2\n• @Rivian R2 launch campaign active: \"Wherever your day takes you, R2 is ready\" (462 likes, 27 replies) — building pre-delivery momentum\n  https://x.com/Rivian/status/2048871737799098879\n• R1S Gen 2 pet cam gap: R2 confirmed to have RGB interior camera enabling pet cam; R1S Gen 2 only has grayscale driver-attention camera — feature gap frustrating Gen 2 owners, fuels Gen 3 speculation\n  https://www.reddit.com/r/Rivian/comments/1tkgnuk/why_cant_r1s_gen_2_get_pet_cam/\n\n*💰 Business (2)*\n• Uber CEO Khosrowshahi discusses Rivian's R2 robotaxi platform and AI/autonomy team on The Verge podcast — external validation of Rivian's $1.25B robotaxi deal (50K vehicles through 2031) ahead of R2 launch\n  https://www.rivian_forums\n• RIVN at $14.11 (May 22): 5/29/26 13.0P @ 0.16, downtrend persists, Hold consensus, PT $16.3-$20 — stock still pinned in $13-14 range; R2 deliveries starting June 1 are the catalyst\n  https://www.reddit.com/r/ChartNavigators/comments/1tk2ndr/what_plays_are_you_looking_into_for_tomorrow/\n\n*📱 Software (2)*\n• Safety-relevant: 2023 R1T owner reports infotainment screens freeze for 15 seconds at 75mph after 2026.15 OTA — regen monitor showed wrong state while owner was actively braking; accelerator/brake worked but screens dead\n  https://www.reddit.com/r/Rivian/comments/1tk96zr/software_glitches_at_75mph/\n• Community PSA for widespread Hey Rivian messaging bug: fix is toggling \"Share messaging notifications\" under Bluetooth > RIVIAN AUDIO settings — 46-upvote post suggests very common issue post-2026.15\n  https://www.reddit.com/r/Rivian/comments/1tk5lsw/psa_for_everyone_posting_about_messages_not_working/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Cybertruck at $59,990 vs R1T at ~$69,900: define Rivian's pricing response before R2 launch creates mixed signals on brand tier\n• 2026.15 OTA quality pattern: 4 distinct bugs in 1 week (phonebook, crash, messages, highway freeze) — needs a 2026.16 quality-fix OTA ASAP\n• R2 launch readiness: June 1 T-minus 10 days — service network, first-batch defect rate, and initial owner NPS will define the R2 narrative for months\n\n_Competitive threat: 🔴 HIGH — Cybertruck price cut directly undercuts R1T segment; Tesla FSD expanding internationally_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
+  },
+  {
+    "id": "2026-05-24T10:36:00.000Z",
+    "timestamp": "2026-05-24T10:36:00.000Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "competitiveContext": "No fresh intelligence identified for the current calendar day (May 24, 2026).",
+    "summary": "No fresh news identified today.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Sunday, May 24, 2026 — 10:36 AM PT — No fresh intelligence identified for today._\n\n*🎯 SITREP*\n• Quiet Sunday cycle; no significant competitive intelligence or Rivian-specific updates identified in current monitoring streams.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
+  },
+  {
+    "id": "2026-05-25T14:00:00.000Z",
+    "timestamp": "2026-05-25T14:00:00.000Z",
+    "sentiment": {
+      "positive": 60,
+      "neutral": 30,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "twitter": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 delivery",
+      "AI integration",
+      "Rivian Assistant",
+      "production surge"
+    ],
+    "competitiveContext": "Rivian is shifting market narrative from competitive pricing challenges to product innovation and production scaling as R2 deliveries approach. Focus remains on capitalizing on software-defined vehicle momentum with the new AI Assistant.",
+    "summary": "Rivian enters the week with strong positive sentiment driven by R2 delivery ramp-up expectations and the launch of its new onboard 'Rivian Assistant' AI, positioning the company well for mid-year production growth.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — 7:00 AM PT — 5 signals · 4 categories_\n\n*🎯 SITREP*\n• Rivian production outlook positive: Analysts confirm 53% delivery surge expected for 2026 driven by R2 launch ramp.\n• Innovation milestone: New 'Rivian Assistant' AI launched via software update, enhancing voice/vehicle interaction.\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🤖 Autonomy & Software*\n• Rivian rolls out 'Rivian Assistant' AI in latest software update. Cross-generational support (Gen1/Gen2) significantly boosts user-experience sentiment.\n\n*🚗 Vehicles & Business*\n• 2026 delivery guidance remains robust with R2 production scaling as a key driver.\n\n_Competitive threat: 🟡 NEUTRAL — Rivian focusing on internal product/production velocity_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
+  },
+  {
+    "id": "2026-05-25T14:38:00.000Z",
+    "timestamp": "2026-05-25T14:38:00.000Z",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 40,
+      "negative": 20
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Tesla market share",
+      "EV pricing"
+    ],
+    "competitiveContext": "Tesla market share reached 59% in recent Q1/Q2 2026 reporting, reinforcing dominance in the mass-premium segment. Rivian continues to differentiate via the 'adventure-lifestyle' moat, insulating from direct price-war attrition seen in standard passenger vehicle segments.",
+    "summary": "Tesla market share reached 59% in recent reporting, reinforcing dominance. Rivian continues to differentiate via the 'adventure-lifestyle' moat.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — Market Intelligence Update_\n\n*🎯 SITREP*\n• Tesla U.S. EV market share hit 59% in Q2 2026 reporting.\n\n*⚔️ FIELD INTELLIGENCE*\n• Tesla's mass-market dominance persists, creating high pressure on niche players. Rivian's R2 ramp must focus on segment differentiation to avoid direct price competition.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
+  },
+  {
+    "date": "2026-05-25",
+    "id": "riv-2026-05-25",
+    "timestamp": "2026-05-25T20:02:00Z",
+    "competitor": "Tesla",
+    "topic": "Software Stack Updates",
+    "summary": "Reported acceleration in FSD v14 deployment across legacy fleets.",
+    "strategic_implication": "Competitive pressure on R1 series ADAS feature parity; recommend prioritization of R1 Gen 2 OTA software rollout.",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 20,
+      "negative": 60
+    },
+    "sources": {
+      "news": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "themes": [
+      "FSD",
+      "ADAS",
+      "OTA"
+    ],
+    "competitiveContext": "Tesla FSD v14 is scaling rapidly, increasing the burden on Rivian to match feature functionality in the R1 series.",
+    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — ADAS Update_\n\n*🎯 SITREP*\n• Tesla FSD v14 deployment accelerating across legacy fleets.\n\n*⚔️ FIELD INTELLIGENCE*\n• Competitive pressure on R1 series ADAS feature parity rising. Prioritize R1 Gen 2 OTA rollout.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": []
+  },
+  {
+    "id": "2026-05-25T14:44:00.000Z",
+    "timestamp": "2026-05-25T14:44:00.000Z",
+    "date": "2026-05-25",
+    "analyst": "Dr. Theopolis",
+    "focus": "Rivian Competitive Intelligence",
+    "summary": "Memorial Day market lull. Competitor news light; Rivian R2 community sentiment remains high as first-delivery cycle approaches. No critical pivots identified.",
+    "sentiment": "neutral",
+    "confidence": 0.98
+  }
+]

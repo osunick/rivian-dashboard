@@ -65,8 +65,8 @@ export default function DashboardPage() {
   const sourceActivityData = latest
     ? SOURCE_KEYS.map(key => ({
         source: key,
-        found: latest.sources[key].found,
-        sentiment: latest.sources[key].sentiment,
+        found: latest.sources[key]?.found ?? 0,
+        sentiment: latest.sources[key]?.sentiment ?? null,
       }))
     : [];
 

@@ -46,8 +46,10 @@ export interface Report {
   };
   sources: {
     reddit_rivian: SourceData;
+    reddit_rivian_r2?: SourceData;
     reddit_ev: SourceData;
     reddit_sdc: SourceData;
+    reddit_stocks?: SourceData;
     rivianforums: SourceData;
     news: SourceData;
     twitter: SourceData;
@@ -66,9 +68,11 @@ export interface Report {
 export type SourceKey = keyof Report['sources'];
 
 export const SOURCE_LABELS: Record<SourceKey, string> = {
-  reddit_rivian: 'r/Rivian',
-  reddit_ev:     'r/electricvehicles',
-  reddit_sdc:    'r/SelfDrivingCars',
+  reddit_rivian:    'r/Rivian',
+  reddit_rivian_r2: 'r/RivianR2',
+  reddit_ev:        'r/electricvehicles',
+  reddit_sdc:       'r/SelfDrivingCars',
+  reddit_stocks:    'r/stocks',
   rivianforums:  'RivianForums',
   news:          'News',
   twitter:       'Twitter/X',
@@ -78,8 +82,10 @@ export const SOURCE_LABELS: Record<SourceKey, string> = {
 
 export const SOURCE_KEYS: SourceKey[] = [
   'reddit_rivian',
+  'reddit_rivian_r2',
   'reddit_ev',
   'reddit_sdc',
+  'reddit_stocks',
   'rivianforums',
   'news',
   'twitter',
