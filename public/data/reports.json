@@ -1,87 +1,5 @@
 [
   {
-    "id": "2026-05-15T04:07:00.000Z",
-    "timestamp": "2026-05-15T04:07:00.000Z",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [],
-    "competitiveContext": "No fresh competitive content confirmed within 24h. Most recent explicitly dated results referenced Reuters (April 24, 2026) and HackerNews items from ~5 months ago — all excluded.",
-    "summary": "All 10 queries ran successfully via Tavily with freshness=day. Results were returned across all sources but no items carried visible publish timestamps confirming last-24h freshness. HackerNews results explicitly showed '5 months ago'; other results lacked dates. Zero confirmed fresh items this cycle.",
-    "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 10:07 PM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 queries ran via Tavily with freshness=day. Results returned across all sources but none carried visible publish timestamps confirming last-24h freshness. HN items explicitly dated ~5 months ago; others had no visible dates. All excluded per freshness policy._",
-    "items": [],
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    }
-  },
-  {
     "id": "2026-05-15T04:13:00.000Z",
     "timestamp": "2026-05-15T04:13:00.000Z",
     "sentiment": {
@@ -7022,5 +6940,148 @@
     "summary": "Quiet cycle — zero new items after dedup. All five Rivian community posts surfaced this morning were already captured in the prior cycle.",
     "fullReport": "Quiet cycle. No new items surfaced across any monitored sources after deduplication against the 200 known URLs from 33 prior reports. Standing by.",
     "items": []
+  },
+  {
+    "id": "2026-05-26T15:38:30Z",
+    "timestamp": "2026-05-26T15:38:30Z",
+    "sentiment": {
+      "positive": 55,
+      "neutral": 15,
+      "negative": 30
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "mixed"
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R1T review",
+      "R1 delivery",
+      "brand sentiment",
+      "recall alert",
+      "owner experience"
+    ],
+    "competitiveContext": "Tesla has not seen major R1-related chatter today; Ferrari's new $700K+ electric supercar headlines EV segment news, reinforcing how Rivian's ~$70K R1T sits in a very different value tier — driving dynamics conversation underscores R1's enthusiast credibility while used Quad prices staying elevated signals strong brand residual strength.",
+    "summary": "Quiet cycle with 4 new signals all from r/Rivian — a mix of positive brand/resale signals and one service quality flag. No competitive or autonomy news today. Used Quad R1T prices holding at ~$60K indicate solid demand, but a roof glass replacement leak is a service execution risk worth monitoring.",
+    "fullReport": "GameFilm intel cycle for 2026-05-26. 4 new items detected, all from r/Rivian. Community focus: driving dynamics debate (R1 vs Ferrari EV reference), strong used G1 Quad prices confirming brand health, lease cost discussion for 2026 R1S, and a water leak complaint after certified repair. No signals from autonomy, competition, or news sources today.",
+    "items": [
+      {
+        "title": "Does R1 drive like a sports car?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1toacrt/does_r1_drive_like_a_sports_car/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T08:28:46-07:00",
+        "score": 0,
+        "snippet": "Users debate whether the R1 drives like a sports car — the discussion puts the debate to rest with a reference to Ferrari's new $700K+ electric car as context.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review"
+        ]
+      },
+      {
+        "title": "Anyone noticed used G1 Quad prices recently?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1toa4q8/anyone_noticed_used_g1_quad_prices_recently/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T08:20:50-07:00",
+        "score": 1,
+        "snippet": "Used Quad-Motor R1T (2023, 31K miles) estimated trade-in at ~$52K with listed prices still in the $60Ks — strong residual values signal persistent demand and brand health.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "R1S 2025-2026 Lease",
+        "url": "https://www.reddit.com/r/Rivian/comments/1to9hy9/r1s_20252026_lease/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T07:58:48-07:00",
+        "score": 0,
+        "snippet": "Owner paying ~$900/mo for a 2026 R1S Dual/Standard with $3,500 down on a 36-month, 10K mile/year lease — reflects current EV leasing market rates for full-size SUVs.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "Could a leak near the sun visor be caused by replacing the rear roof glass?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1to8l8x/could_a_leak_near_the_sun_visor_be_caused_by/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T07:26:31-07:00",
+        "score": 1,
+        "snippet": "Water leak reported near the passenger sun visor after a Rivian-certified collision shop replaced the rear roof glass — a service execution issue that could indicate a quality gap in certified repair network.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "recall alert",
+          "owner experience"
+        ]
+      }
+    ]
   }
 ]
