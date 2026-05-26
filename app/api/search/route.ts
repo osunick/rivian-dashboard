@@ -42,7 +42,7 @@ export async function GET(req: NextRequest) {
   for (const report of reports) {
     if (report.scanError) continue;
 
-    for (const item of report.items) {
+    for (const item of report.items ?? []) {
       if (seen.has(item.url)) continue;
 
       // Filter: sentiment

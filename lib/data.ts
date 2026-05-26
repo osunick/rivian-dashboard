@@ -35,7 +35,7 @@ export function getSevenDayAvgScore(): number {
 export function getThemeFrequency(): { theme: string; count: number }[] {
   const freq: Record<string, number> = {};
   for (const r of reports) {
-    for (const item of r.items) {
+    for (const item of r.items ?? []) {
       for (const t of (item.themes ?? [])) {
         freq[t] = (freq[t] || 0) + 1;
       }
@@ -73,7 +73,7 @@ export function getItemsByTheme(theme: string): (Report['items'][number] & { rep
   const seen = new Set<string>();
   const result: (Report['items'][number] & { reportTimestamp: string })[] = [];
   for (const r of reports) {
-    for (const item of r.items) {
+    for (const item of r.items ?? []) {
       if ((item.themes ?? []).includes(theme) && !seen.has(item.url)) {
         seen.add(item.url);
         result.push({ ...item, reportTimestamp: r.timestamp });
@@ -109,7 +109,7 @@ export function getCategoryBreakdown(): { key: CategoryKey; label: string; found
     software: new Set(), community: new Set(), competitive: new Set(),
   };
   for (const r of validReports) {
-    for (const item of r.items) {
+    for (const item of r.items ?? []) {
       const cat = item.category as CategoryKey;
       if (cat && cat in counts && !seen[cat].has(item.url)) {
         seen[cat].add(item.url);
@@ -132,7 +132,7 @@ export function getCategoryItemsMap(): Record<CategoryKey, (Report['items'][numb
     seen[key] = new Set();
   }
   for (const r of validReports) {
-    for (const item of r.items) {
+    for (const item of r.items ?? []) {
       const cat = item.category as CategoryKey;
       if (cat && CATEGORY_KEYS.includes(cat) && !seen[cat].has(item.url)) {
         seen[cat].add(item.url);
@@ -152,7 +152,7 @@ export function getCompetitiveItems(): ReportItemWithTimestamp[] {
   const seen = new Set<string>();
   const result: ReportItemWithTimestamp[] = [];
   for (const r of validReports) {
-    for (const item of r.items) {
+    for (const item of r.items ?? []) {
       if (item.category === 'competitive' && !seen.has(item.url)) {
         seen.add(item.url);
         result.push({ ...item, reportTimestamp: r.timestamp });
@@ -168,7 +168,7 @@ export function getItemsByCompetitor(keywords: string[]): ReportItemWithTimestam
   const result: ReportItemWithTimestamp[] = [];
   const lower = keywords.map(k => k.toLowerCase());
   for (const r of validReports) {
-    for (const item of r.items) {
+    for (const item of r.items ?? []) {
       const text = `${item.title} ${item.snippet}`.toLowerCase();
       if (lower.some(kw => text.includes(kw)) && !seen.has(item.url)) {
         seen.add(item.url);
@@ -218,7 +218,7 @@ export function getSourceItemsMap(): Record<SourceKey, (Report['items'][number] 
     seen[key] = new Set();
   }
   for (const r of validReports) {
-    for (const item of r.items) {
+    for (const item of r.items ?? []) {
       const src = item.source as SourceKey;
       if (SOURCE_KEYS.includes(src) && !seen[src].has(item.url)) {
         seen[src].add(item.url);
@@ -284,7 +284,7 @@ export function getSourceMatrixData(): SourceMatrixData {
 export function getCompetitiveItemCountLatest(): number {
   const r = getLatestReport();
   if (!r) return 0;
-  return r.items.filter(i => i.category === 'competitive').length;
+  return (r.items ?? []).filter(i => i.category === 'competitive').length;
 }
 
 /** Overall competitive heat level derived from threat levels across all competitors. */
