@@ -39,6 +39,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [
@@ -114,7 +122,33 @@
         "publishedAt": null,
         "snippet": "r/electricvehicles discussion on Rivian's overall value proposition as an EV. Autonomy features are mentioned among differentiators, though the thread predates the Gen 2 RAP announcement. Mixed but generally positive community sentiment about Rivian's direction."
       }
-    ]
+    ],
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-14T03:48:00.000Z",
@@ -156,6 +190,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [],
@@ -163,7 +205,33 @@
     "summary": "Scan failed: DuckDuckGo returned bot-detection challenges on all 10 query attempts. No fresh data retrieved for this cycle.",
     "fullReport": "⚠️ *Rivian Autonomy Pulse — Scan Failed*\n_May 13, 2026 — 8:48 PM PT_\n\nSearch engine (DuckDuckGo) returned bot-detection blocks on all query attempts this cycle. No fresh data could be retrieved.\n\nNext scheduled scan should recover automatically.",
     "items": [],
-    "scanError": "DuckDuckGo bot-detection challenge on all 10 queries. No results retrieved."
+    "scanError": "DuckDuckGo bot-detection challenge on all 10 queries. No results retrieved.",
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-14T14:24:00.000Z",
@@ -205,6 +273,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [],
@@ -212,7 +288,33 @@
     "summary": "Partial scan failure: DuckDuckGo returned bot-detection challenges on 7 of 10 queries. RivianForums and YouTube results were returned but lacked visible timestamps and appear to be older content; excluded per freshness rules. 0 confirmed fresh items this cycle.",
     "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 7:24 AM PT_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts in last 24h_\n\n*📰 News & Press*\n_No fresh articles in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: 7 of 10 search queries hit bot-detection blocks (DuckDuckGo). Rivianforums and YouTube results were returned but lacked visible publication timestamps and appear to be older threads; excluded per freshness policy._",
     "items": [],
-    "scanError": "DuckDuckGo bot-detection on 7/10 queries. Rivianforums and YouTube results returned but no visible timestamps confirming last-24h publication; excluded per freshness rules."
+    "scanError": "DuckDuckGo bot-detection on 7/10 queries. Rivianforums and YouTube results returned but no visible timestamps confirming last-24h publication; excluded per freshness rules.",
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-14T16:46:00.000Z",
@@ -254,13 +356,47 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [],
     "competitiveContext": "No fresh competitive content confirmed within 24h — most visible dated results were from Bloomberg (Apr 22) and Reuters (Apr 24), both weeks old.",
     "summary": "All 10 queries ran successfully via Tavily with freshness=day, but no results carried visible publish timestamps within the last 24 hours. The only explicit date found was '27d ago' on an r/electricvehicles Uber/Rivian robotaxi post. Zero items confirmed fresh this cycle.",
     "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 9:46 AM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 search queries ran cleanly via Tavily. Results were returned across all sources but none carried visible publish timestamps confirming last-24h freshness. Most recent visible date found: Bloomberg Apr 22, Reuters Apr 24. Excluded per freshness policy._",
-    "items": []
+    "items": [],
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-15T04:03:00.000Z",
@@ -302,13 +438,47 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [],
     "competitiveContext": "No fresh competitive content confirmed within 24h. Most recent visible dated items were Bloomberg (Apr 22) and Reuters (Apr 24) — both weeks old.",
     "summary": "All 10 Tavily queries ran successfully with freshness=day. No results carried visible publish timestamps within the last 24 hours. The only explicit date found was 'r/electricvehicles 27d ago' on an Uber/Rivian robotaxi post (~April 17). Zero items confirmed fresh this cycle.",
     "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 10:03 PM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 queries ran via Tavily with freshness=day. Results were returned but no visible publish timestamps confirmed last-24h freshness. Most recent explicitly dated item: Bloomberg Apr 22, Reuters Apr 24. All excluded per freshness policy._",
-    "items": []
+    "items": [],
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-15T04:07:00.000Z",
@@ -350,13 +520,47 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [],
     "competitiveContext": "No fresh competitive content confirmed within 24h. Most recent explicitly dated results referenced Reuters (April 24, 2026) and HackerNews items from ~5 months ago — all excluded.",
     "summary": "All 10 queries ran successfully via Tavily with freshness=day. Results were returned across all sources but no items carried visible publish timestamps confirming last-24h freshness. HackerNews results explicitly showed '5 months ago'; other results lacked dates. Zero confirmed fresh items this cycle.",
     "fullReport": "⚠️ *Low activity cycle — 0 fresh items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 10:07 PM PT — last 24h scan_\n\n*📊 Sentiment Snapshot*\nPositive: —% | Neutral: —% | Negative: —%\n_No confirmed fresh content from the last 24h._\n\n*📣 Reddit*\n_No fresh posts confirmed in last 24h_\n\n*📰 News & Press*\n_No fresh articles confirmed in last 24h_\n\n*🐦 Twitter/X*\n_Nothing fresh found_\n\n*📺 YouTube*\n_Nothing fresh found_\n\n*💻 HackerNews*\n_Nothing fresh found_\n\n*📌 Key Themes (last 24h)*\n_No themes — quiet cycle._\n\n_Note: All 10 queries ran via Tavily with freshness=day. Results returned across all sources but none carried visible publish timestamps confirming last-24h freshness. HN items explicitly dated ~5 months ago; others had no visible dates. All excluded per freshness policy._",
-    "items": []
+    "items": [],
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-15T04:13:00.000Z",
@@ -398,6 +602,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [
@@ -433,7 +645,33 @@
         "publishedAt": "2026-05-05",
         "snippet": "Rivian is considering manufacturing its own lidar sensors in the United States, potentially through a partnership with Chinese firms, as part of its effort to build a complete in-house autonomous driving stack. The move reflects Rivian's ambition to control the full ADAS hardware and software pipeline."
       }
-    ]
+    ],
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-15T15:00:00.000Z",
@@ -475,6 +713,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [
@@ -510,7 +756,33 @@
         "publishedAt": "2026-05-05",
         "snippet": "CEO RJ Scaringe confirmed Rivian is in active discussions about manufacturing lidar sensors domestically, potentially via Chinese tech partnerships. The move complements Rivian's RAP1 chip (5nm, 1,600 TOPS) and in-house AI software, making Rivian one of the most vertically integrated autonomy players in the consumer vehicle space."
       }
-    ]
+    ],
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    }
   },
   {
     "id": "2026-05-16T03:00:00.000Z",
@@ -550,6 +822,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -728,6 +1008,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -962,6 +1250,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -1176,6 +1472,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -1448,6 +1752,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -1633,6 +1945,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -1894,6 +2214,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -2108,6 +2436,14 @@
       "hackernews": {
         "found": 1,
         "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -2418,6 +2754,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -2725,6 +3069,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -3040,6 +3392,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -3389,6 +3749,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -3756,6 +4124,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -4140,6 +4516,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -4598,6 +4982,14 @@
       "hackernews": {
         "found": 1,
         "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -4773,6 +5165,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -4913,6 +5313,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -5113,6 +5521,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -5298,6 +5714,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -5908,6 +6332,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -5980,6 +6412,14 @@
         "sentiment": null
       },
       "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
         "found": 0,
         "sentiment": null
       }
@@ -6061,6 +6501,14 @@
       "hackernews": {
         "found": 0,
         "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -6105,10 +6553,84 @@
     "analyst": "Dr. Theopolis",
     "focus": "Rivian Competitive Intelligence",
     "summary": "Memorial Day market lull. Competitor news light; Rivian R2 community sentiment remains high as first-delivery cycle approaches. No critical pivots identified.",
-    "sentiment": "neutral",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
     "confidence": 0.98,
     "items": [],
-    "themes": []
+    "themes": [],
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "competitiveContext": "",
+    "fullReport": ""
   },
   {
     "id": "2026-05-25-tesla-v4",
@@ -6125,7 +6647,76 @@
     },
     "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 25, 2026 — Infrastructure Update_\n\n*🎯 SITREP*\n• Tesla V4 Supercharger deployment accelerating in PNW.\n\n*⚔️ FIELD INTELLIGENCE*\n• Potential impact on Rivian Adventure Network rollout schedule in the region.\n\n_Dashboard: https://watchgamefilm.vercel.app_",
     "items": [],
-    "themes": []
+    "themes": [],
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "competitiveContext": ""
   },
   {
     "date": "2026-05-25",
@@ -6144,6 +6735,42 @@
       "news": {
         "found": 1,
         "sentiment": "negative"
+      },
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "categories": {
@@ -6154,6 +6781,22 @@
       "competitive": {
         "found": 1,
         "sentiment": "negative"
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
       }
     },
     "themes": [
