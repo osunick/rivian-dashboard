@@ -52,7 +52,7 @@ ${reportSummaries}
 ${question}`;
 
   try {
-    const model = 'gemini-3.1-flash'; // Use flash for speed/cost
+    const model = 'gemini-2.5-flash';
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
 
     const response = await fetch(url, {
@@ -62,7 +62,7 @@ ${question}`;
         contents: [{ parts: [{ text: prompt }] }],
         generationConfig: {
           temperature: 0.4,
-          maxOutputTokens: 800,
+          maxOutputTokens: 4000,
         },
       }),
     });

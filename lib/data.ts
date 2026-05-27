@@ -287,7 +287,17 @@ export function getCompetitiveItemCountLatest(): number {
   return (r.items ?? []).filter(i => i.category === 'competitive').length;
 }
 
-/** Overall competitive heat level derived from threat levels across all competitors. */
+/** Returns reports filtered by scope: 'latest' (validReports[0]), '7d' (last 7 days), or 'all' (all validReports). */
+export function getScopeReports(scope: string): { reports: Report[] } {
+  if (scope === 'all') return { reports: validReports };
+  if (scope === '7d') {
+    const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
+    return { reports: validReports.filter(r => new Date(r.timestamp).getTime() >= cutoff) };
+  }
+  // default: latest
+  return { reports: validReports.slice(0, 1) };
+}
+
 export function getOverallThreatLevel(): ThreatLevel {
   const intel = getCompetitorIntelMap();
   const levels: ThreatLevel[] = Object.values(intel).map(v => v.threatLevel);

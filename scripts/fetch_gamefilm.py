@@ -31,6 +31,100 @@ REPORTS_FILE = os.path.join(os.path.dirname(__file__), '..', 'public', 'data', '
 PT = zoneinfo.ZoneInfo('America/Los_Angeles')
 TODAY_PT = datetime.now(PT).date()
 
+def fetch_rivianforums():
+    """Fetch UHF/Hands-Free Driving forum threads via Playwright."""
+    import subprocess
+
+    node_script = """
+const { chromium } = require('playwright');
+(async () => {
+  const browser = await chromium.launch({ headless: true });
+  const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    viewport: { width: 1280, height: 800 },
+  });
+  const page = await context.newPage();
+
+  await page.setExtraHTTPHeaders({ 'Accept-Language': 'en-US,en;q=0.9' });
+
+  try {
+    await page.goto('https://www.rivianforums.com/forum/forums/uhf-hands-free-driving-autonomy-driving-aids-adas.48/', {
+      waitUntil: 'domcontentloaded',
+      timeout: 45000
+    });
+
+    // Wait for Cloudflare challenge to clear
+    try {
+      await page.waitForFunction(() => {
+        const t = document.title;
+        return !t.includes('Just a moment') && !t.includes('cf-challenge') && !t.includes('cloudflare');
+      }, { timeout: 30000 });
+    } catch (e) {
+      console.log(JSON.stringify({ threads: [], error: 'CF challenge not cleared' }));
+      await browser.close();
+      return;
+    }
+
+    await page.waitForTimeout(2000);
+
+    const threads = await page.evaluate(() => {
+      const selectors = ['.structItem', '.thread-list-item', '.discussionListItem', 'tr[data-id]'];
+      let items = [];
+      for (const sel of selectors) {
+        items = document.querySelectorAll(sel);
+        if (items.length > 0) break;
+      }
+      if (items.length === 0) {
+        const links = document.querySelectorAll('a[href*="/threads/"]');
+        return Array.from(links).slice(0, 30).map(link => ({
+          title: link.textContent.trim(),
+          url: link.href,
+        }));
+      }
+      return Array.from(items).map(el => {
+        const link = el.querySelector('a[href*="/threads/"]') || el.querySelector('a');
+        const titleEl = el.querySelector('.structItem-title a, .thread-title, .title');
+        const authorEl = el.querySelector('.structItem-meta a, .author, .username');
+        const repliesEl = el.querySelector('.structItem-messageCount, .reply-count');
+        const viewsEl = el.querySelector('.structItem-viewCount, .view-count');
+        return {
+          title: titleEl ? titleEl.textContent.trim() : (link ? link.textContent.trim() : ''),
+          url: link ? link.href : '',
+          author: authorEl ? authorEl.textContent.trim() : '',
+          replies: repliesEl ? repliesEl.textContent.trim() : '',
+          views: viewsEl ? viewsEl.textContent.trim() : '',
+        };
+      });
+    });
+
+    console.log(JSON.stringify({ threads, success: true }));
+  } catch (err) {
+    console.log(JSON.stringify({ threads: [], error: err.message }));
+  }
+
+  await browser.close();
+})();
+"""
+    result = subprocess.run(
+        ['node', '-e', node_script],
+        cwd=os.path.dirname(__file__),
+        capture_output=True, text=True, timeout=90
+    )
+    if result.returncode != 0:
+        print(f"[fetch_gamefilm] RivianForums Playwright error: {result.stderr}", file=sys.stderr)
+        return []
+    try:
+        data = json.loads(result.stdout)
+        if not data.get('success'):
+            print(f"[fetch_gamefilm] RivianForums fetch failed: {data.get('error', 'unknown')}", file=sys.stderr)
+            return []
+        threads = data.get('threads', [])
+        print(f"[fetch_gamefilm] RivianForums: {len(threads)} threads fetched", file=sys.stderr)
+        return threads
+    except:
+        print(f"[fetch_gamefilm] RivianForums parse error: {result.stdout[:200]}", file=sys.stderr)
+        return []
+
 def fetch_json(url, timeout=10):
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 GameFilm/1.0'})
@@ -141,6 +235,19 @@ def main():
     hn_items = fetch_hackernews()
     raw_items.extend(hn_items)
     print(f"[fetch_gamefilm] HackerNews: {len(hn_items)} items", file=sys.stderr)
+
+    # RivianForums - UHF/Hands-Free Driving forum
+    rf_threads = fetch_rivianforums()
+    for t in rf_threads:
+        raw_items.append({
+            'title': t.get('title', ''),
+            'url': t.get('url', ''),
+            'source': 'rivianforums',
+            'publishedAt': None,  # forum doesn't expose easy timestamps
+            'score': 0,
+            'snippet': f"Author: {t.get('author', 'unknown')}",
+        })
+    print(f"[fetch_gamefilm] RivianForums: {len(rf_threads)} threads", file=sys.stderr)
 
     # Deduplicate against known URLs
     seen = set()

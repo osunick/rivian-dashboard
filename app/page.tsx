@@ -1,5 +1,5 @@
 import {
-  reports,
+  reports as allReports,
   getLatestReport,
   getLast10Reports,
   getSevenDayAvgScore,
@@ -10,13 +10,13 @@ import {
   getSentimentDelta,
   getTotalPostsLatest,
   getActiveSourcesLatest,
-
   getCompetitorIntelMap,
   getCompetitiveItemCountLatest,
   getOverallThreatLevel,
   getSourceMatrixData,
+  getScopeReports,
 } from '@/lib/data';
-import { SOURCE_KEYS } from '@/lib/types';
+import { SOURCE_KEYS, SentimentLabel } from '@/lib/types';
 import KpiCards from '@/components/KpiCards';
 import SentimentTrendChart from '@/components/SentimentTrendChart';
 import SourceActivityChart from '@/components/SourceActivityChart';
@@ -38,7 +38,9 @@ const THREAT_HEADER: Record<string, { color: string; label: string }> = {
   low:      { color: '#22C55E', label: 'CLEAR' },
 };
 
-export default function DashboardPage() {
+export default function DashboardPage({ searchParams }: { searchParams: { scope?: string } }) {
+  const scope = (searchParams.scope ?? 'latest') as 'latest' | '7d' | 'all';
+
   const latest = getLatestReport();
   const last10 = getLast10Reports();
   const avgScore = getSevenDayAvgScore();
@@ -55,6 +57,9 @@ export default function DashboardPage() {
   const competitiveItems = getCompetitiveItemCountLatest();
   const threatLevel = getOverallThreatLevel();
 
+  const { reports } = getScopeReports(scope);
+  const failedScans = allReports.filter(r => r.scanError);
+
   const lastUpdated = latest
     ? new Date(latest.timestamp).toLocaleString('en-US', {
         month: 'short', day: 'numeric', year: 'numeric',
@@ -63,24 +68,46 @@ export default function DashboardPage() {
       })
     : null;
 
-  const sourceActivityData = latest
-    ? SOURCE_KEYS.map(key => ({
-        source: key,
-        found: latest.sources[key]?.found ?? 0,
-        sentiment: latest.sources[key]?.sentiment ?? null,
-      }))
-    : [];
+  // Source activity — always count from items[] so bars reflect actual data
+  const sourceActivityData = (() => {
+    const seen: Record<string, Set<string>> = {};
+    const counts: Record<string, { found: number; sentiment: SentimentLabel | null }> = {};
+    for (const r of reports) {
+      for (const item of r.items ?? []) {
+        const src = item.source;
+        if (!src) continue;
+        if (!seen[src]) seen[src] = new Set();
+        if (seen[src].has(item.url)) continue;
+        seen[src].add(item.url);
+        if (!counts[src]) counts[src] = { found: 0, sentiment: null };
+        counts[src].found++;
+        if (!counts[src].sentiment && item.sentiment) counts[src].sentiment = item.sentiment as SentimentLabel;
+      }
+    }
+    return SOURCE_KEYS.map(key => ({
+      source: key,
+      found: counts[key]?.found ?? 0,
+      sentiment: counts[key]?.sentiment ?? null,
+    }));
+  })();
 
-  // Items from the latest scan only, grouped by source (for drill-down date filtering)
-  const sourceItemsFromLatest: Record<string, any[]> = {};
-  if (latest) {
-    for (const item of latest.items ?? []) {
-      if (!sourceItemsFromLatest[item.source]) sourceItemsFromLatest[item.source] = [];
-      sourceItemsFromLatest[item.source].push({ ...item, reportTimestamp: latest.timestamp });
+  // Items grouped by source, deduplicated by URL, across scope (always from items[])
+  const sourceItemsFromScope: Record<string, any[]> = {};
+  {
+    const seenSrc: Record<string, Set<string>> = {};
+    for (const r of reports) {
+      for (const item of r.items ?? []) {
+        const src = item.source;
+        if (!src) continue;
+        if (!seenSrc[src]) seenSrc[src] = new Set();
+        if (seenSrc[src].has(item.url)) continue;
+        seenSrc[src].add(item.url);
+        if (!sourceItemsFromScope[src]) sourceItemsFromScope[src] = [];
+        sourceItemsFromScope[src].push({ ...item, reportTimestamp: r.timestamp });
+      }
     }
   }
 
-  const failedScans = reports.filter(r => r.scanError);
   const threatDisplay = THREAT_HEADER[threatLevel] ?? THREAT_HEADER.medium;
 
   return (
@@ -119,6 +146,18 @@ export default function DashboardPage() {
 
       <main className="px-3 sm:px-6 py-4 sm:py-5 space-y-5 max-w-screen-2xl mx-auto">
 
+        {/* Scope toggle */}
+        <div className="flex items-center gap-2">
+          <span className="text-[#6B7280] text-xs font-mono uppercase tracking-wider">Scope:</span>
+          {([['latest','Latest Scan'],['7d','Last 7 Days'],['all','All Time']] as const).map(([val, label]) => (
+            <a key={val} href={`?scope=${val}`}>
+              <button className={`px-3 py-1 rounded text-xs font-mono border transition-colors ${scope === val ? 'bg-[#3B82F6] border-[#3B82F6] text-white' : 'bg-[#111111] border-[#1F1F1F] text-[#6B7280] hover:border-[#3B82F6]'}`}>
+                {label}
+              </button>
+            </a>
+          ))}
+        </div>
+
         {/* Failed scan banner */}
         {failedScans.length > 0 && (
           <div className="border border-[#F59E0B33] bg-[#F59E0B08] rounded-lg px-4 py-3 flex items-center gap-3">
@@ -147,7 +186,7 @@ export default function DashboardPage() {
           </div>
         ) : (
           <>
-            {/* ── Row 0: Scouting Report (competitive context, prominent) */}
+            {/* ── Row 0: Scouting Report */}
             <ScoutingReport
               competitiveContext={latest.competitiveContext ?? ''}
               summary={latest.summary}
@@ -193,13 +232,16 @@ export default function DashboardPage() {
               <div className="lg:col-span-2 bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
                 <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
                   <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">Source Activity</h2>
-                  <span className="text-[#6B7280] text-xs font-mono">LATEST SCAN · CLICK TO DRILL DOWN</span>
+                  <span className="text-[#6B7280] text-xs font-mono uppercase">{scope === 'latest' ? 'LATEST SCAN' : scope === '7d' ? 'LAST 7 DAYS' : 'ALL TIME'} · CLICK TO DRILL DOWN</span>
                 </div>
-                <SourceActivityChart data={sourceActivityData} itemsMap={sourceItemsFromLatest} />
+                <SourceActivityChart
+                  data={sourceActivityData}
+                  itemsMap={sourceItemsFromScope}
+                />
               </div>
             </div>
 
-            {/* ── Row 4: Intel by Domain + Key Themes */}
+            {/* ── Row 4: Intel by Domain + Source Matrix */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
                 <div className="flex flex-wrap items-center justify-between gap-1 mb-3">
@@ -220,7 +262,7 @@ export default function DashboardPage() {
               </div>
             </div>
 
-            {/* ── Row 5: Top Signals (Theme Frequency) */}
+            {/* ── Row 5: Top Signals */}
             {themes.length > 0 && (
               <div className="bg-[#111111] border border-[#1F1F1F] rounded-lg p-4">
                 <div className="flex items-center justify-between mb-3">
