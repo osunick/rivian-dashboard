@@ -6965,5 +6965,105 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-27T18:05:30Z",
+    "timestamp": "2026-05-27T18:05:30Z",
+    "sentiment": {
+      "positive": 100,
+      "neutral": 0,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "owner experience"
+    ],
+    "competitiveContext": "No competitor signals in this cycle. Broader EV market context unchanged from prior cycle — Tesla, Ford, Scout, GM all quiet on Rivian-watch surfaces today.",
+    "summary": "Quiet cycle — single signal, an R2 reservation holder expressing delivery anticipation (score 28). R2 launch anxiety remains the dominant community emotion as June approaches.",
+    "fullReport": "Single-signal cycle. R2 reservation holder commiserating about waiting for the delivery email while limping along an older ICE. High engagement (28) reinforces that R2 anticipation is the strongest current community theme. No competitive, autonomy, business, or software signals.",
+    "items": [
+      {
+        "title": "Anyone else in a state of worry, limping along an older ICE vehicle right now, just itching for that magical email to arrive?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpb5m8/anyone_else_in_a_state_of_worry_limping_along_an/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T09:44:31-07:00",
+        "score": 28,
+        "snippet": "R2 reservation holder stuck in a 2015 Ford Edge expressing anxiety about R2 delivery timing as June approaches. High engagement (score 28) reinforces strong R2 launch anticipation.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      }
+    ]
   }
 ]
