@@ -1,157 +1,5 @@
 [
   {
-    "id": "2026-05-27T14:04:17+00:00",
-    "timestamp": "2026-05-27T14:04:17+00:00",
-    "sentiment": {
-      "positive": 33,
-      "neutral": 17,
-      "negative": 50
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 6,
-        "sentiment": "positive"
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "community": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "software": {
-        "found": 3,
-        "sentiment": "negative"
-      }
-    },
-    "themes": [
-      "brand sentiment",
-      "owner experience"
-    ],
-    "competitiveContext": "No competitor signals this cycle. Tesla, Waymo, Aurora, Scout, and legacy OEMs all silent in monitored channels. The absence is itself notable — quiet windows are useful for Rivian PMs to ship without competitive overhang.",
-    "summary": "Near-empty intel cycle — only 1 new item: an organic owner photo share from r/Rivian (foggy morning garden). All other sources (r/RivianR2, r/EV, r/SDC, r/stocks, HN, RivianForums) produced zero new items today. Brand sentiment positive but signal too thin to draw conclusions.",
-    "fullReport": "Quiet cycle. Only one new item in 24h of monitoring — an owner-generated lifestyle photo post. No competitor moves, no software complaints, no business news. Useful as a baseline reading.",
-    "items": [
-      {
-        "title": "Popped in our garden this morning while people were heading to work. We are still trying to get Rivian to take one of our pics, right?",
-        "url": "https://www.reddit.com/gallery/1tp3hkn",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T05:02:54-07:00",
-        "score": 10,
-        "snippet": "Owner shares a foggy morning photo from their Rivian — organic brand-positive lifestyle content.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Dolby audio sounds like cheeks",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tp6hr5/dolby_audio_sounds_like_cheeks/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T07:01:43-07:00",
-        "score": 1,
-        "snippet": "Owner reports Dolby audio on Apple Music is quiet and all sound is shoved to front speakers; reset attempts did not fix.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "A new change for Rivian Rewards and R2?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tp3ths/a_new_change_for_rivian_rewards_and_r2/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T05:16:56-07:00",
-        "score": 6,
-        "snippet": "Community member asks whether Rivian Rewards points can now be earned on R2 referrals, noting that only R1 orders have historically been eligible.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "Hey Rivian",
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "New Rivian AI has trouble picking up the voices of women and children",
-        "url": "https://youtu.be/47DDoEmB1Zg?si=HEzx-2peJcavJRrT",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T05:13:57-07:00",
-        "score": 0,
-        "snippet": "YouTube video documents Rivian's voice AI consistently failing to detect or respond to women and children's voices, even from the driver's seat.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "Driver+",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "Popped in our garden this morning while people were heading to work. We are still trying to get Rivian to take one of our pics, right?",
-        "url": "https://www.reddit.com/g/comments/1tp3hkn",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T05:02:54-07:00",
-        "score": 11,
-        "snippet": "Owner shares a foggy morning photo from their Rivian — ambient content reflecting brand-positive owner sentiment.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Audio problems?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tp33vh/audio_problems/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T04:46:03-07:00",
-        "score": 3,
-        "snippet": "Owner reports Apple Music audio dropping out mid-drive across only front two speakers; occurs hours into drive after latest OTA release.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "infotainment bug",
-          "OTA update"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T02:05:00Z-gf",
     "timestamp": "2026-05-27T02:05:00.000Z",
     "sentiment": {
@@ -7971,6 +7819,119 @@
         "category": "competitive",
         "sentiment": "neutral",
         "themes": []
+      }
+    ]
+  },
+  {
+    "id": "2026-05-27T22:06:00Z",
+    "timestamp": "2026-05-27T22:06:00Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 50,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "community"
+    ],
+    "competitiveContext": "No competitor signals this cycle. R2 demo drive launch on June 9 remains the dominant near-term Rivian narrative, with no fresh competitive moves from Tesla, Scout, Ford, or GM in this window.",
+    "summary": "Quiet cycle — just 2 new signals, both r/RivianR2 posts re-surfacing R2 demo drive announcement (June 9) and a reservation transfer question. Dedup likely missed these against the prior cycle due to URL format mismatch.",
+    "fullReport": "2 new signals, both R2-related Reddit posts that echoed the prior cycle. R2 launch momentum confirmed for June 9.",
+    "items": [
+      {
+        "title": "Reservation in my name - can my partner use my reservation?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T13:06:26-07:00",
+        "score": 0,
+        "snippet": "Reservation transfer question between partners — minor purchase-intent friction signal as R2 deliveries approach.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian announces deliveries and demo drives begin June 9!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T12:48:17-07:00",
+        "score": 22,
+        "snippet": "R2 deliveries and demo drives confirmed to start June 9 — strong positive engagement in r/RivianR2.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
       }
     ]
   }
