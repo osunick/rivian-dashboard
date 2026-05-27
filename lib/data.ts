@@ -143,6 +143,93 @@ export function getCategoryItemsMap(): Record<CategoryKey, (Report['items'][numb
   return map;
 }
 
+// ─── Rivian Autonomy Issues ─────────────────────────────────────────────────────
+
+// Keywords that indicate a Rivian-internal autonomy/software issue
+const AUTONOMY_ISSUE_KEYWORDS = [
+  'autonomy unavailable', 'driver assist unavailable', 'driver plus unavailable',
+  'highway assist not available', 'highway assist unavailable', 'autonomy won\'t reengage',
+  'autonomy disabled', 'autonomy reengage', 'autonomy system disabled',
+  'adaptive cruise control unavailable', 'acc unavailable', 'acc disabled',
+  'lane assist disabled', 'lane keeping disabled', 'blind spot disabled',
+  'autopilot disabled', 'hands free disabled', 'uhf fault', 'uhf fault',
+  'autonomy+ disabled', 'autonomy+ fault', 'driver+ disabled', 'driver+ fault',
+  'autonomy plus disabled', 'autonomy plus fault',
+  'OTA update', 'ota update', 'software update', 'software regression',
+  'update broke', 'update killed', 'software bug', 'software glitch',
+  'infotainment cutout', 'infotainment bug', 'screen cutout', 'screen frozen',
+  'voice assistant fail', 'voice recognition fail', 'hey rivian fail',
+  'hey rivian wrong', 'hey rivian broken', 'rivian assistant fail',
+  'comma stuck', 'comma disabled', 'comma fault', 'comma failed',
+  'autonomy stuck in park', 'vehicle stuck in park', 'cant engage autonomy',
+  'autonomy engagement failed', 'autonomy intermittent',
+];
+
+const ISSUE_SNIPPET_KEYWORDS = [
+  'unavailable until serviced', 'unavailable until your next drive',
+  'fault state', 'requires service', 'recurring issue', 'software stability',
+  'disabled after', 'killed driver assist', 'update killed', 'broke driver assist',
+  'regression', 'software regression', 'stuck in park', 'cant engage',
+];
+
+function isAutonomyIssue(item: { title: string; snippet?: string }): boolean {
+  const text = `${item.title} ${item.snippet}`.toLowerCase();
+  // Must contain at least one issue keyword in title
+  const titleHit = AUTONOMY_ISSUE_KEYWORDS.some(kw => item.title.toLowerCase().includes(kw));
+  // And/or snippet strongly suggests issue (secondary check)
+  const snippetHit = ISSUE_SNIPPET_KEYWORDS.some(kw => (item.snippet ?? '').toLowerCase().includes(kw));
+  return titleHit || snippetHit;
+}
+
+export interface RivianAutonomyIssue {
+  title: string;
+  url: string;
+  source: string;
+  sentiment: string;
+  snippet: string;
+  category?: string;
+  publishedAt?: string | null;
+  reportTimestamp: string;
+  issueType: 'engagement' | 'software' | 'hardware' | 'feature-regression' | 'voice-ai' | 'third-party';
+}
+
+function classifyIssue(item: { title: string; snippet?: string }): RivianAutonomyIssue['issueType'] {
+  const text = `${item.title} ${item.snippet}`.toLowerCase();
+  if (text.includes('stuck in park') || text.includes('comma stuck') || text.includes('cant engage') ||
+      text.includes('disabled') || text.includes('unavailable') || text.includes('won\'t reengage') ||
+      text.includes('reengage')) return 'engagement';
+  if (text.includes('ota') || text.includes('update') || text.includes('software regression') ||
+      text.includes('update broke') || text.includes('update killed') || text.includes('software bug')) return 'software';
+  if (text.includes('comma') || text.includes('third party') || text.includes('harness')) return 'third-party';
+  if (text.includes('hey rivian') || text.includes('voice') || text.includes('assistant fail') ||
+      text.includes('music') || text.includes('recognition')) return 'voice-ai';
+  if (text.includes('hardware') || text.includes('gen 3') || text.includes('camera') ||
+      text.includes('sensor')) return 'hardware';
+  return 'feature-regression';
+}
+
+/** All items across all categories that describe Rivian autonomy/ADAS/software issues.
+ *  Deduplicated by URL, sorted newest-first. */
+export function getRivianAutonomyIssues(): RivianAutonomyIssue[] {
+  const seen = new Set<string>();
+  const result: RivianAutonomyIssue[] = [];
+  for (const r of validReports) {
+    for (const item of r.items ?? []) {
+      if (!isAutonomyIssue(item)) continue;
+      if (seen.has(item.url)) continue;
+      seen.add(item.url);
+      result.push({
+        ...item,
+        reportTimestamp: r.timestamp,
+        issueType: classifyIssue(item),
+      });
+    }
+  }
+  return result.sort(
+    (a, b) => new Date(b.reportTimestamp).getTime() - new Date(a.reportTimestamp).getTime()
+  );
+}
+
 // ─── Competitive Intelligence ─────────────────────────────────────────────────
 
 type ReportItemWithTimestamp = Report['items'][number] & { reportTimestamp: string };

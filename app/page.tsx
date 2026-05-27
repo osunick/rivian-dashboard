@@ -15,6 +15,7 @@ import {
   getOverallThreatLevel,
   getSourceMatrixData,
   getScopeReports,
+  getRivianAutonomyIssues,
 } from '@/lib/data';
 import { SOURCE_KEYS, SentimentLabel } from '@/lib/types';
 import KpiCards from '@/components/KpiCards';
@@ -26,6 +27,7 @@ import SourceSentimentMatrix from '@/components/SourceSentimentMatrix';
 import ReportHistory from '@/components/ReportHistory';
 import CompetitorWatch from '@/components/CompetitorWatch';
 import ScoutingReport from '@/components/ScoutingReport';
+import AutonomyIssues from '@/components/AutonomyIssues';
 import SearchButton from '@/components/SearchButton';
 import ChatButton from '@/components/ChatButton';
 
@@ -56,6 +58,7 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
   const competitorIntelMap = getCompetitorIntelMap();
   const competitiveItems = getCompetitiveItemCountLatest();
   const threatLevel = getOverallThreatLevel();
+  const autonomyIssues = getRivianAutonomyIssues();
 
   const { reports } = getScopeReports(scope);
   const failedScans = allReports.filter(r => r.scanError);
@@ -218,6 +221,17 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
                 <span className="text-[#6B7280] text-xs font-mono">CLICK CARD TO EXPAND INTEL</span>
               </div>
               <CompetitorWatch intelMap={competitorIntelMap} />
+            </div>
+
+            {/* ── Row 2b: Rivian Autonomy Issues */}
+            <div>
+              <div className="flex items-center justify-between mb-3">
+                <h2 className="text-[#F5F5F5] text-sm font-semibold uppercase tracking-wider">
+                  🐛 Rivian Autonomy &amp; Software Issues
+                </h2>
+                <span className="text-[#6B7280] text-xs font-mono">INTERNAL · ALL CATEGORIES</span>
+              </div>
+              <AutonomyIssues issues={autonomyIssues} />
             </div>
 
             {/* ── Row 3: Signal Trend + Source Activity */}
