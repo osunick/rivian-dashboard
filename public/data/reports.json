@@ -1,116 +1,5 @@
 [
   {
-    "id": "2026-05-15T04:13:00.000Z",
-    "timestamp": "2026-05-15T04:13:00.000Z",
-    "sentiment": {
-      "positive": 60,
-      "neutral": 30,
-      "negative": 10
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "Driver assist praised for real-world long-distance highway performance",
-      "Hey Rivian AI assistant now rolling out to all Gen 1 and Gen 2 R1 owners",
-      "In-house lidar development as cornerstone of full autonomous driving stack"
-    ],
-    "competitiveContext": "Rivian's in-house lidar push and AI assistant rollout signal continued autonomy ambitions, but no direct Tesla FSD or Waymo comparison content appeared in fresh results this cycle.",
-    "summary": "Low activity cycle — 3 items found. A fresh r/Rivian post praised driver assist on a 500-mile road trip, while Electrek covered the Hey Rivian AI assistant rollout (May 12) and Rivian's in-house lidar plans (May 5). Sentiment mildly positive; forums and HackerNews quiet.",
-    "fullReport": "⚠️ *Low activity cycle — 3 items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 14, 2026 — 9:13 PM PT — direct source scan_\n\n*📊 Sentiment Snapshot*\nPositive: 60% | Neutral: 30% | Negative: 10%\n_Mild positivity driven by a real-world driver assist success story and the Hey Rivian AI rollout. No negative signals detected._\n\n*📣 Reddit*\n• [r/Rivian] *Amazing energy efficiency* — R1S owner drove 500+ miles Park City→Tahoe using driver assist \"the whole way which worked very well,\" achieving 3.5 mi/kWh. Real-world ADAS validation. (3 pts)\n  🔗 https://www.reddit.com/r/Rivian/comments/1tdix31/amazing_energy_efficiency/\n\n*📰 News & Press*\n• *Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control* (Electrek, May 12) — Rivian's new AI-powered voice assistant is rolling out to all Gen 1 and Gen 2 R1 owners, bringing full vehicle control via voice — a meaningful step in Rivian's broader AI/autonomy integration story.\n  🔗 https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/\n• *Rivian mulls making its own lidar as it builds full autonomous driving stack* (Electrek, May 5) — Rivian is considering manufacturing its own lidar sensors in the US, potentially through a Chinese partnership, as part of building a complete in-house autonomous driving stack. _(10 days old — included per lenient freshness policy)_\n  🔗 https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/\n\n*🐦 Twitter/X*\n_Nothing found (Nitter returned empty)_\n\n*💻 HackerNews*\n_Nothing found within 48h window_\n\n*🏁 Competitive Context*\n_Rivian's in-house lidar push and AI assistant rollout signal continued autonomy ambitions, but no direct Tesla FSD or Waymo comparison content appeared in fresh results this cycle._\n\n*📌 Key Themes*\n1. Driver assist performing reliably on real-world long-distance highway trips\n2. Hey Rivian AI assistant now live across all R1 vehicles\n3. In-house lidar development as foundation of full autonomous stack",
-    "items": [
-      {
-        "title": "Amazing energy efficiency",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tdix31/amazing_energy_efficiency/",
-        "source": "reddit_rivian",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-15",
-        "snippet": "R1S owner drove 500+ miles from Park City UT to Tahoe on I-80, using driver assist the whole way which 'worked very well.' Achieved 3.5 mi/kWh average. Real-world validation of Rivian's driver assistance system on a long highway trip with gear, a dog, and two passengers."
-      },
-      {
-        "title": "Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control",
-        "url": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
-        "source": "news",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-12",
-        "snippet": "Rivian is rolling out its new AI-powered voice assistant to all Gen 1 and Gen 2 R1 owners as part of a software update. The Hey Rivian assistant enables full vehicle control via voice commands, representing a significant step in Rivian's AI and autonomy platform integration."
-      },
-      {
-        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
-        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
-        "source": "news",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-05",
-        "snippet": "Rivian is considering manufacturing its own lidar sensors in the United States, potentially through a partnership with Chinese firms, as part of its effort to build a complete in-house autonomous driving stack. The move reflects Rivian's ambition to control the full ADAS hardware and software pipeline."
-      }
-    ],
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    }
-  },
-  {
     "id": "2026-05-15T15:00:00.000Z",
     "timestamp": "2026-05-15T15:00:00.000Z",
     "sentiment": {
@@ -7591,5 +7480,163 @@
     "summary": "Quiet cycle: zero new signals after dedup against 256 known URLs. All sources fetched normally (r/Rivian 30, r/RivianR2 6, RivianForums 25) but all items already captured in the prior cycle ~5 minutes ago.",
     "fullReport": "Quiet cycle — see brief.",
     "items": []
+  },
+  {
+    "id": "2026-05-27T14:00:00+00:00",
+    "timestamp": "2026-05-27T14:00:00+00:00",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 20,
+      "negative": 60
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Driver+",
+      "Hey Rivian",
+      "R2 launch",
+      "infotainment bug",
+      "owner experience",
+      "OTA update"
+    ],
+    "competitiveContext": "No competitor signals today. Tesla, Waymo, and legacy OEMs continue advancing autonomy stacks while Rivian's Driver+ remains unreleased to the public. This quiet cycle offers no offset to growing software quality concerns — PMs should note the audio bug cluster and voice AI weakness as tangible differentiators at risk.",
+    "summary": "Quiet intel cycle with just 5 Reddit posts from r/Rivian, all user-generated content. Audio system complaints dominate — Dolby output and Apple Music dropouts reported by multiple owners. A YouTube video surfaces a potential bias issue with Rivian's voice AI struggling to pick up women and children's voices. A community member raises a Rewards/R2 eligibility question (likely resolved in thread). No forum, HN, or news activity.",
+    "fullReport": "Five items sourced from r/Rivian today. Three are software-negative (audio dropouts, Dolby issues, voice AI). One community-neutral (Rivian Rewards/R2). One community-positive (owner photo share). NoRivianForums, HN, Reddit R2/EV/SDC/stocks produced no new items. Competitor channels quiet. The absence of competitive signals is notable given ongoing Tesla FSD and Waymo advancements.",
+    "items": [
+      {
+        "title": "Dolby audio sounds like cheeks",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tp6hr5/dolby_audio_sounds_like_cheeks/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T07:01:43-07:00",
+        "score": 1,
+        "snippet": "Owner reports Dolby audio on Apple Music is quiet and all sound is shoved to front speakers; reset attempts did not fix.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "A new change for Rivian Rewards and R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tp3ths/a_new_change_for_rivian_rewards_and_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T05:16:56-07:00",
+        "score": 6,
+        "snippet": "Community member asks whether Rivian Rewards points can now be earned on R2 referrals, noting that only R1 orders have historically been eligible.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Hey Rivian",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "New Rivian AI has trouble picking up the voices of women and children",
+        "url": "https://youtu.be/47DDoEmB1Zg?si=HEzx-2peJcavJRrT",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T05:13:57-07:00",
+        "score": 0,
+        "snippet": "YouTube video documents Rivian's voice AI consistently failing to detect or respond to women and children's voices, even from the driver's seat.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "Popped in our garden this morning while people were heading to work. We are still trying to get Rivian to take one of our pics, right?",
+        "url": "https://www.reddit.com/g/comments/1tp3hkn",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T05:02:54-07:00",
+        "score": 11,
+        "snippet": "Owner shares a foggy morning photo from their Rivian — ambient content reflecting brand-positive owner sentiment.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Audio problems?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tp33vh/audio_problems/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T04:46:03-07:00",
+        "score": 3,
+        "snippet": "Owner reports Apple Music audio dropping out mid-drive across only front two speakers; occurs hours into drive after latest OTA release.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "OTA update"
+        ]
+      }
+    ]
   }
 ]
