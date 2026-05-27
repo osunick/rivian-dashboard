@@ -7633,5 +7633,132 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-27T21:57:00Z",
+    "timestamp": "2026-05-27T21:57:00Z",
+    "sentiment": {
+      "positive": 9,
+      "neutral": 55,
+      "negative": 36
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "owner experience",
+      "R1S review"
+    ],
+    "competitiveContext": "No high-signal competitive intel in today's fetch. Tesla FSD, Waymo, and Aurora are quiet. The R2's June 9 delivery and demo-drive launch is Rivian's most significant near-term play — no direct competitive threat detected in today's signals.",
+    "summary": "Light cycle dominated by R2 launch momentum — demo drives and deliveries confirmed for June 9. One negative community signal: an owner dealing with a hit-and-run-adjacent incident and documentation problems. Twitter/Threads noise is high-volume but low-signal (social posts, influencer content). No autonomous driving, software bug, earnings, or regulatory signals today.",
+    "fullReport": "Rivian's R2 launch machine is in full gear — deliveries and demo drives confirmed for June 9, per community posts. R2 reservation transfer mechanics are also being discussed, suggesting customers are actively preparing for handoffs. The sole negative is a community incident (rear-end collision with documentation complications), which is a brand-experience risk worth monitoring. Competitive landscape is quiet today — no Tesla pricing moves, FSD updates, or Waymo/ Aurora headlines. Rivian's window to own the narrative around R2 launch is open.",
+    "items": [
+      {
+        "title": "My R1S got Rear Ended - driver gave me fake insurance and registration info",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpjunl/my_r1s_got_rear_ended_driver_gave_me_fake/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T14:51:06-07:00",
+        "score": 1,
+        "snippet": "Owner's R1S was rear-ended at a stoplight by a driver with no documentation; police called, insurance details in question.",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "owner experience",
+          "R1S review"
+        ]
+      },
+      {
+        "title": "Reservation in my name - can my partner use my reservation?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T13:06:26-07:00",
+        "score": 0,
+        "snippet": "R2 reservation holder asks whether their reservation can be transferred to or used by a partner — indicates active preparation for R2 handoffs.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian announces deliveries and demo drives begin June 9!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T12:48:17-07:00",
+        "score": 21,
+        "snippet": "Rivian officially confirms R2 deliveries begin June 9, with demo drives also launching that day at Rivian Spaces and Service Centers.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      }
+    ]
   }
 ]
