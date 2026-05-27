@@ -6881,5 +6881,633 @@
     "summary": "Quiet cycle — no new signals captured since the previous run earlier this hour.",
     "fullReport": "Quiet cycle. No new items detected after deduplication against the prior 27 reports / 220 known URLs.",
     "items": []
+  },
+  {
+    "id": "2026-05-27T02:00:19Z-gf",
+    "timestamp": "2026-05-27T02:00:19.082Z",
+    "sentiment": {
+      "positive": 25,
+      "neutral": 31,
+      "negative": 44
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 24,
+        "sentiment": "negative"
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 14,
+        "sentiment": "negative"
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 5,
+        "sentiment": "positive"
+      }
+    },
+    "themes": [
+      "Autonomy+",
+      "Driver+",
+      "FSD update",
+      "Hey Rivian",
+      "OTA update",
+      "R1 delivery",
+      "R1T review",
+      "R1S review",
+      "R2 launch",
+      "Tesla pricing",
+      "UHF",
+      "brand sentiment",
+      "competitive",
+      "infotainment bug",
+      "owner experience",
+      "recall alert"
+    ],
+    "competitiveContext": "BMW and Mercedes are pulling back from Level 3 autonomy, while Uber is positioning its driver network as a sensor grid for AV developers — potentially reshaping how autonomy data is sourced at scale. Meanwhile, Elon Musk's public admission that he misled Tesla customers about FSD timelines adds fuel to Rivian's positioning around transparent, customer-first autonomy promises. Comma open-source community continues making rapid progress on Gen 1 Rivian angle-based steering, while Rivian's own Gen 2 L2→L3 roadmap (L2 in 2026, L3 in 2027) remains on track.",
+    "summary": "36 new signals captured across Reddit and RivianForums — a heavier-than-usual autonomy day driven by UHF/Autonomy+ fault reports, Gen 1 vs Gen 2 hardware questions, and community debate around RJ's Level 3 commitments. Community sentiment around R2 launch remains enthusiastic (R2 transport trucks getting upvoted), but RivianForums is showing notable frustration with Autonomy+ reliability and the expectation gap on hands-free features being 'included' vs paywalled. Competitive framing is favorable: BMW/Mercedes retreat and Tesla FSD credibility issues give Rivian room to differentiate.",
+    "fullReport": "See brief below.",
+    "items": [
+      {
+        "title": "Non-fancy car to Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tor5py/nonfancy_car_to_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T18:42:47-07:00",
+        "score": 5,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "CRV owner asks what to expect transitioning to Rivian — manual driving dynamics, touchscreen-heavy UX, and hands-free capability compared to traditional vehicles.",
+        "themes": [
+          "owner experience",
+          "R1T review"
+        ]
+      },
+      {
+        "title": "Rivian strategy / Saudi talk",
+        "url": "https://www.reddit.com/r/Rivian/comments/1toqg3m/rivian_strategy_saudi_talk/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T18:11:45-07:00",
+        "score": 0,
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "User proposes Saudi Arabia exit its Lucid position and consolidate Rivian investment — highlights RJ's relationship with Hassan Jameel (ALJ) as strategic anchor.",
+        "themes": [
+          "RIVN stock",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "2026 R1 Build Quality",
+        "url": "https://v.redd.it/xulzy9olvk3h1",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T17:53:12-07:00",
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "snippet": "Eight-month-old 2026 R1S with 5 service visits still suffering rattles, squeaks, window failures, and roof trim detachment. Owner frustrated — 'get your shit together Rivian.'",
+        "themes": [
+          "R1S review",
+          "recall alert",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Loving my Brand New 2026 R1T QUAD - Full Review Switching from Tesla Model X Plaid",
+        "url": "https://www.reddit.com/gallery/1topiet",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T17:30:31-07:00",
+        "score": 68,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "New R1T QUAD owner documents switch from Tesla Model X Plaid HW3 FSD and Ram 2500 — calls it an 'amazing daily,' praising driving dynamics and build quality.",
+        "themes": [
+          "R1T review",
+          "Tesla pricing",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Before and After Twraps and AO Badges",
+        "url": "https://www.reddit.com/gallery/1top8r1",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T17:19:21-07:00",
+        "score": 12,
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Owner documents chrome delete using Twraps vinyl on R1S — debadging and black/yellow accent package. Wheel sections 'way more tedious than expected.'",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Cheap & easy wireless charger improvement",
+        "url": "https://i.redd.it/5iwigya2jk3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T16:47:16-07:00",
+        "score": 37,
+        "category": "software",
+        "sentiment": "positive",
+        "snippet": "$4 magnetic phone holder upgrade for factory wireless charger — keeps MagSafe phones in place without hundreds in aftermarket solutions.",
+        "themes": [
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Coming from a Tesla MY to a R2. Will the self driving be at least as good?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tonof2/coming_from_a_tesla_my_to_a_r2_will_the_self/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T16:15:42-07:00",
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "snippet": "Tesla Model Y owner evaluating R2 for 550-mile highway routes — needs lane-keeping and traffic handling, doesn't want lane changes or city driving. Questions whether R2 autonomy matches Model Y FSD experience.",
+        "themes": [
+          "FSD update",
+          "R2 launch",
+          "Driver+",
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "Am I the only moron who thought hands-free driving on the highway was included by default with Gen 2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tonlv1/am_i_the_only_moron_who_thought_handsfree_driving/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-26T16:12:51-07:00",
+        "score": 9,
+        "category": "software",
+        "sentiment": "negative",
+        "snippet": "Gen 2 owner assumed highway hands-free was included, discovered it requires separate purchase — frustration over unclear feature gating. Triggers UHF discussion.",
+        "themes": [
+          "Hey Rivian",
+          "UHF",
+          "Driver+",
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "I spy a truckload of R2s",
+        "url": "https://i.redd.it/nbvgx9y1hk3h1.jpeg",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-26T16:31:44-07:00",
+        "score": 209,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Photo of R2 units in transport — 's00n.' Strong upvote count signals high community excitement for R2 delivery ramp.",
+        "themes": [
+          "R2 launch",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Two people are about to be very happy.",
+        "url": "https://i.redd.it/47fc303idk3h1.jpeg",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-26T16:11:44-07:00",
+        "score": 109,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "R2 delivery photo — two units visible, enthusiastic community response.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Leasing Estimates",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tomidr/leasing_estimates/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-26T15:29:43-07:00",
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "R2 lease pricing speculation — R1T starts at $799 with $7-8k down; user compares to Tesla Y Performance at $900 with minimal down. Hopes for performance variant.",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Angle-based steering now working on Comma for Gen 1 Rivians!",
+        "url": "https://www.rivianforums.com/forum/threads/angle-based-steering-now-working-on-comma-for-gen-1-rivians.57914/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "snippet": "Open-source Comma community achieves angle-based steering control on Gen 1 Rivian — significant milestone for DIY autonomy on pre-Gen2 hardware.",
+        "themes": [
+          "Autonomy+",
+          "FSD update",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Universal hands free UHF faults",
+        "url": "https://www.rivianforums.com/forum/threads/universal-hands-free-uhf-faults.59190/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "snippet": "Multiple users reporting UHF system faults — reliability concerns for the hands-free driving feature.",
+        "themes": [
+          "UHF",
+          "Autonomy+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Story: Introducing Rivian Assistant & Rivian Unified Intelligence. Unlock hands-free utility with Connect+",
+        "url": "https://www.rivianforums.com/forum/threads/story-introducing-rivian-assistant-rivian-unified-intelligence-unlock-hands-free-utility-with-connect.58997/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "software",
+        "sentiment": "neutral",
+        "snippet": "Rivian announcement covering new AI assistant and unified intelligence platform bundled with Connect+ subscription — framing hands-free utility as a premium feature.",
+        "themes": [
+          "Hey Rivian",
+          "OTA update"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs. Tesla Autonomy Driving Technology & Philosophy Comparison",
+        "url": "https://www.rivianforums.com/forum/threads/rivian-r2-vs-tesla-autonomy-driving-technology-philosophy-comparison.58938/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Community comparison of R2 vs Tesla autonomy stack — differences in sensor philosophy, compute strategy, and deployment timelines.",
+        "themes": [
+          "R2 launch",
+          "FSD update",
+          "competitive"
+        ]
+      },
+      {
+        "title": "Installed Comma 4 Ai and now R1T stuck in Park!",
+        "url": "https://www.rivianforums.com/forum/threads/installed-comma-4-ai-and-now-r1t-stuck-in-park.59326/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "snippet": "R1T rendered immobile after Comma 4 AI install — potential safety-critical failure requiring service intervention.",
+        "themes": [
+          "recall alert",
+          "owner experience",
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "Adaptive Cruise Control unavailable until serviced",
+        "url": "https://www.rivianforums.com/forum/threads/adaptive-cruise-control-unavailable-until-serviced.51156/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "software",
+        "sentiment": "negative",
+        "snippet": "ACC disabled until service visit — recurring issue indicating software stability problem with Driver+ components.",
+        "themes": [
+          "infotainment bug",
+          "Driver+",
+          "recall alert"
+        ]
+      },
+      {
+        "title": "Highway Assist Not Available Until Your Next Drive",
+        "url": "https://www.rivianforums.com/forum/threads/highway-assist-not-available-until-your-next-drive.59204/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "snippet": "Highway Assist enters fault state and requires drive cycle to reset — intermittent reliability issue for Autonomy+ feature.",
+        "themes": [
+          "Autonomy+",
+          "Driver+",
+          "UHF"
+        ]
+      },
+      {
+        "title": "Witness Me! What does your Rivian see",
+        "url": "https://www.rivianforums.com/forum/threads/witness-me-what-does-your-rivian-see.59112/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Visual showcase of Rivian sensor stack perception — owner-generated content celebrating the vehicle's environmental awareness.",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Comma harness issues?",
+        "url": "https://www.rivianforums.com/forum/threads/comma-harness-issues.54209/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "software",
+        "sentiment": "neutral",
+        "snippet": "Troubleshooting thread for Comma harness installation problems on Rivian — community peer support for third-party autonomy hardware.",
+        "themes": [
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Autonomy won't reengage",
+        "url": "https://www.rivianforums.com/forum/threads/autonomy-won%E2%80%99t-reengage.59157/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "snippet": "Autonomy system refuses to reengage after being disabled — usability failure requiring service diagnosis.",
+        "themes": [
+          "Autonomy+",
+          "Driver+",
+          "UHF",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "Comma Extreme Dev Kit NOW AVAILABLE",
+        "url": "https://www.rivianforums.com/forum/threads/comma-extreme-dev-kit-now-available.59106/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Comma releases Extreme Dev Kit for advanced open-source autonomous development — Rivian remains a key supported vehicle.",
+        "themes": [
+          "FSD update",
+          "competitive"
+        ]
+      },
+      {
+        "title": "When will R1 get Gen 3 hardware?",
+        "url": "https://www.rivianforums.com/forum/threads/when-will-r1-get-gen-3-hardware.58973/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "Gen 1 R1 owners asking when they'll get hardware upgrade path to match Gen 2 capability — expectation management gap around longevity.",
+        "themes": [
+          "R1 delivery",
+          "R2 launch",
+          "competitive"
+        ]
+      },
+      {
+        "title": "Reminder: Rivian Promised Level 3 'Eyes Off the Road' Autonomy on Gen 1",
+        "url": "https://www.rivianforums.com/forum/threads/reminder-rivian-promised-level-3-eyes-off-the-road-autonomy-on-gen-1.41117/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "snippet": "Community revival of original Gen 1 L3 promise — owner frustration building as timeline and hardware support remain unclear.",
+        "themes": [
+          "Autonomy+",
+          "Driver+",
+          "regulatory news"
+        ]
+      },
+      {
+        "title": "Confirmed: Voice recognition local processing for R1 (Gen 1 and Gen 2). The R2 will have a local LLM.",
+        "url": "https://www.rivianforums.com/forum/threads/confirmed-voice-recognition-local-processing-for-r1-gen-1-and-gen-2-the-r2-will-have-a-local-llm.58928/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "software",
+        "sentiment": "positive",
+        "snippet": "Official confirmation: R1 (Gen 1/2) gets local voice processing; R2 gets on-device LLM — differentiates R2 as the AI-forward platform.",
+        "themes": [
+          "Hey Rivian",
+          "OTA update",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Comma 4 - can't get longitudinal enabled with lukas longitudinal harness",
+        "url": "https://www.rivianforums.com/forum/threads/comma-4-cant-get-longitudinal-enabled-with-lukas-longitudinal-harness.58284/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "software",
+        "sentiment": "negative",
+        "snippet": "Comma 4 longitudinal control not enabling with Lukas harness on Rivian — technical integration issue blocking full autonomous capability.",
+        "themes": [
+          "infotainment bug",
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "Highest possible Comma 3X mount position?",
+        "url": "https://www.rivianforums.com/forum/threads/highest-possible-comma-3x-mount-position.58890/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Owner seeking optimal Comma 3X windshield mount position for best sensor visibility on Rivian — community knowledge-sharing.",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian Autonomy+ vs Subaru Eyesight",
+        "url": "https://www.rivianforums.com/forum/threads/rivian-autonomy-vs-subaru-eyesight.58852/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Comparison thread: Rivian Autonomy+ feature set and performance vs Subaru Eyesight — benchmarking against established ADAS.",
+        "themes": [
+          "competitive",
+          "Autonomy+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Adaptive Cruise Control Improper Tire Size Detected",
+        "url": "https://www.rivianforums.com/forum/threads/adaptive-cruise-control-improper-tire-size-detected.58855/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "snippet": "ACC rejects vehicle after tire size change — software flags non-OEM tire configurations and disables driver assistance.",
+        "themes": [
+          "recall alert",
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Eye Tracker: Too Efficient?",
+        "url": "https://www.rivianforums.com/forum/threads/eye-tracker-too-efficient.58792/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "snippet": "Discussion on driver monitoring camera sensitivity — eye tracker triggering at high rate, potentially over-restrictive for Autonomy+ users.",
+        "themes": [
+          "Autonomy+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "TechCrunch - Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+        "url": "https://www.rivianforums.com/forum/threads/techcrunch-uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies.58740/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Uber proposes monetizing driver network as AV sensor data supplier — could reshape competitive landscape for autonomy data collection.",
+        "themes": [
+          "Waymo move",
+          "Aurora update",
+          "competitive"
+        ]
+      },
+      {
+        "title": "Autonomy+ issues and questions...",
+        "url": "https://www.rivianforums.com/forum/threads/autonomy-issues-and-questions.58537/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "snippet": "Consolidated thread of Autonomy+ complaints — multiple users reporting faults, disengagements, and feature gaps vs expectations.",
+        "themes": [
+          "Autonomy+",
+          "Driver+",
+          "UHF"
+        ]
+      },
+      {
+        "title": "RJ's commitments on Gen 2 R1 Autonomous Driving: L2 this year (2026), L3 next year (2027)",
+        "url": "https://www.rivianforums.com/forum/threads/rjs-commitments-on-gen-2-r1-autonomous-driving-l2-this-year-2026-l3-next-year-2027.58407/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "snippet": "Scraped reference to RJ's public L2/L3 timeline for Gen 2 R1 — 2026 L2, 2027 L3. Sets expectation framework for owners.",
+        "themes": [
+          "Autonomy+",
+          "Driver+",
+          "regulatory news"
+        ]
+      },
+      {
+        "title": "Futurism - 'Elon Musk Admits He Lied to Tesla Customers' Faces for Years About Self-Driving'",
+        "url": "https://www.rivianforums.com/forum/threads/futurism-elon-musk-admits-he-lied-to-tesla-customers%E2%80%99-faces-for-years-about-self-driving.58448/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet": "Musk's FSD admission shared widely in Rivian community — frames as competitive opportunity for Rivian's more transparent autonomy messaging.",
+        "themes": [
+          "FSD update",
+          "competitive",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "BMW and Mercedes pulling back on Level 3 autonomy",
+        "url": "https://www.rivianforums.com/forum/threads/bmw-and-mercedes-pulling-back-on-level-3-autonomy.58387/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet": "BMW and Mercedes slow L3 rollout citing regulatory complexity — contrasts with Rivian's public L2→L3 timeline commitment.",
+        "themes": [
+          "regulatory news",
+          "competitive",
+          "Waymo move"
+        ]
+      },
+      {
+        "title": "Driver+ Autonomy+ with a hitch accessory?",
+        "url": "https://www.rivianforums.com/forum/threads/driver-autonomy-with-a-hitch-accessory.58244/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "Owner asks whether Autonomy+/Driver+ remain functional when hitch accessory is installed — integration question for outdoor/lifestyle use case.",
+        "themes": [
+          "R1T review",
+          "Autonomy+",
+          "Driver+"
+        ]
+      }
+    ]
   }
 ]
