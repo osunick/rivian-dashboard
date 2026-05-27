@@ -6760,5 +6760,210 @@
         "snippet": "Owner photographed the two R2 Launch Package exclusive colors side-by-side at a Palo Alto block party — Catalina Cove (blue, $2,000) and Launch Green ($2,000). The color comparison is timely as the R2 configurator went live today, helping reservation holders make color decisions."
       }
     ]
+  },
+  {
+    "id": "2026-05-27T18:00:00Z",
+    "timestamp": "2026-05-27T18:00:00Z",
+    "sentiment": {
+      "positive": 63,
+      "neutral": 37,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "EV incentives",
+      "OTA update",
+      "R1S review",
+      "R1T review",
+      "R2 launch",
+      "charging infra",
+      "owner experience",
+      "brand sentiment",
+      "range anxiety"
+    ],
+    "competitiveContext": "No competitor mentions appeared in today's signal. However, the broader EV market remains active — Tesla continues bundling inventory incentives, Ford Lightning pricing pressure persists, and Scout Motors is ramping R2 competitor positioning. Rivian's community signal remains positive, but silence on competitive moves on Reddit today means no directthreat detected.",
+    "summary": "Quiet cycle with 8 signals, all community-driven. Owner join posts dominate — two new R1T/R1S owners expressing excitement, plus a third \"switch\" post. An OTA-related idle drain improvement claim is notable as a potential proxy for software quality perception. The R1S Dual Standard lease deal post signals pricing pressure ahead of Dual Standard discontinuation. R2 anticipation remains the strongest emotional thread across both subreddits.",
+    "fullReport": "Eight signals across r/Rivian and r/RivianR2 with no competitive or autonomy content. Community sentiment is strongly positive, driven by new owner enthusiasm. One software signal (idle drain improvement) suggests an OTA may have shipped a vampire drain fix. The R1S Dual Standard lease credit extension post highlights aggressive inventory clearance pricing. Tire availability frustration (Hankook Ion HT) and L1 charging consumption question round out operational owner concerns.",
+    "items": [
+      {
+        "title": "Made the switch!",
+        "url": "https://www.reddit.com/gallery/1tpd3rt",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T10:52:40-07:00",
+        "score": 5,
+        "snippet": "New Rivian owner sharing excitement about joining the brand.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Hankook Ion HT Availability",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpbew9/hankook_ion_ht_availability/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T09:53:11-07:00",
+        "score": 3,
+        "snippet": "Owner struggling to source Hankook Ion HT tires — three retailers have canceled orders. Accessory/part availability gaps remain an friction point.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "PSA: R1S Dual Standard $3k lease credit extended to June 3rd, possibly cheapest time to get an R1S before DS is discontinued",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpb1r4/psa_r1s_dual_standard_3k_lease_credit_extended_to/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T09:40:49-07:00",
+        "score": 3,
+        "snippet": "R1S Dual Standard lease credit extended to June 3 — 6 units available at ~$79,990 MSRP leasing ~$936/mo at 0% down. Signals aggressive inventory clearance ahead of DS discontinuation.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R1S review",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Anyone else notice an improvement in idle drain since last update?",
+        "url": "https://i.redd.it/ii95phjk2p3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T08:00:02-07:00",
+        "score": 4,
+        "snippet": "Owner reports idle drain improved from ~1kWh/24h to ~0.7kWh/60h after recent OTA update. Claims a real-world vampire drain fix shipped silently.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "OTA update",
+          "range anxiety"
+        ]
+      },
+      {
+        "title": "Rooftop Tent for tall people?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tp7jkr/rooftop_tent_for_tall_people/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T07:38:47-07:00",
+        "score": 3,
+        "snippet": "Owner (~6'7\") seeking rooftop tent recommendation for R1T bed. No community answers yet — shows active outdoor/adventure accessory interest.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Finally Joined the Rivian Family!",
+        "url": "https://i.redd.it/phcplcq1v71h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T07:09:41-07:00",
+        "score": 34,
+        "snippet": "New R1S owner sharing delivery joy — highest score (34) in today's batch, strongest brand sentiment signal.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Vehicle usage while L1 charging",
+        "url": "https://i.redd.it/ei4wfvijto3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T07:08:46-07:00",
+        "score": 4,
+        "snippet": "New R1T owner on L1 charging reporting ~10% energy used by vehicle while charging/idle. Asks if this is normal — highlights L1 experience friction for prospective buyers.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "charging infra",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Anyone else in a state of worry, limping along an older ICE vehicle right now, just itching for that magical email to arrive?",
+        "url": "https://www.reddit.com/r/RivianR2/posts/1tpb5m8",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T09:44:31-07:00",
+        "score": 27,
+        "snippet": "R2 reservation holder stuck with aging ICE vehicle (2015 Ford Edge) expressing anxiety about delivery timing. High engagement (score 27) — R2 launch anticipation is real and emotional.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      }
+    ]
   }
 ]
