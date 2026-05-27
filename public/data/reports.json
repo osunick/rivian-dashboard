@@ -1,116 +1,5 @@
 [
   {
-    "id": "2026-05-15T15:00:00.000Z",
-    "timestamp": "2026-05-15T15:00:00.000Z",
-    "sentiment": {
-      "positive": 55,
-      "neutral": 35,
-      "negative": 10
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "'Hey Rivian' AI assistant rollout generating real-world community adoption questions",
-      "Rivian building full autonomous stack: in-house lidar, RAP1 silicon chip, proprietary AI software",
-      "Rivian's vehicle-control AI surpasses Tesla Grok — can actually command drive modes, ride height, climate"
-    ],
-    "competitiveContext": "Rivian's Hey Rivian assistant now controls core vehicle systems (drive modes, ride height, climate) — something Tesla's competing Grok assistant still cannot do months after launch, positioning Rivian's AI platform as more deeply integrated.",
-    "summary": "Low activity cycle — 3 items found. The 'Hey Rivian' AI assistant rollout (Electrek, May 12) is the dominant story, with a Reddit user today troubleshooting iOS integration. Electrek also covered Rivian's in-house lidar ambitions (May 5). News sentiment positive; HN and forums quiet.",
-    "fullReport": "⚠️ *Low activity cycle — 3 items found across all sources.*\n\n🔵 *Rivian Autonomy Pulse*\n_May 15, 2026 — 9:00 AM MT — direct source scan_\n\n*📊 Sentiment Snapshot*\nPositive: 55% | Neutral: 35% | Negative: 10%\n_Driven by positive coverage of the Hey Rivian AI assistant rollout and in-house lidar development. Minor friction signals from early adopters troubleshooting the new assistant._\n\n*📣 Reddit*\n• [r/Rivian] *Rivian assistant won't show messages from IOS* — Fresh post (today) from a user who installed the new Hey Rivian AI assistant on their R1S and hit a permissions wall trying to link iOS messages data. Indicates active rollout with early-adopter friction. (1 pt)\n  🔗 https://www.reddit.com/r/Rivian/comments/1tdysfr/rivian_assistant_wont_show_messages_from_ios/\n\n*📰 News & Press*\n• *Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control* (Electrek, May 12) — Rivian deployed its AI-powered voice assistant to all Gen 1 and Gen 2 R1 owners. Built on 'Rivian Unified Intelligence,' it controls drive modes, ride height, frunk, climate, and can summarize/respond to texts — beating Tesla's Grok assistant which still can't touch vehicle systems. _(3 days old — lenient inclusion)_\n  🔗 https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/\n• *Rivian mulls making its own lidar as it builds full autonomous driving stack* (Electrek, May 5) — CEO RJ Scaringe confirms active discussions on domestically produced lidar, potentially via Chinese tech partnerships. Paired with the RAP1 chip (5nm, 1,600 TOPS), Rivian is assembling one of the most vertically integrated autonomy stacks outside Tesla and Waymo. _(10 days old — lenient inclusion)_\n  🔗 https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/\n\n*🐦 Twitter/X*\n_Nothing found (Nitter returned empty)_\n\n*💻 HackerNews*\n_Nothing found within 48h window_\n\n*🏁 Competitive Context*\n_Rivian's Hey Rivian assistant controls core vehicle systems — drive modes, ride height, climate — something Tesla's Grok still cannot do. Rivian's full-stack approach (custom silicon + lidar + AI) increasingly mirrors Waymo's vertical integration philosophy, but for consumer vehicles._\n\n*📌 Key Themes*\n1. 'Hey Rivian' AI rollout: now live for all R1 owners, early iOS setup friction reported\n2. In-house lidar + RAP1 silicon: Rivian's full autonomous stack taking shape\n3. Vehicle-control AI as competitive edge over Tesla's in-car Grok assistant",
-    "items": [
-      {
-        "title": "Rivian assistant won't show messages from IOS",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tdysfr/rivian_assistant_wont_show_messages_from_ios/",
-        "source": "reddit_rivian",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-15",
-        "snippet": "User installed the new Hey Rivian AI assistant on their R1S and hit a permissions issue trying to share iOS messages data. Bluetooth settings show all boxes checked but in-vehicle messages settings page has no data-sharing option. Early-adopter friction with the AI assistant rollout."
-      },
-      {
-        "title": "Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control",
-        "url": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
-        "source": "news",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-12",
-        "snippet": "Rivian deployed its AI-powered voice assistant to all Gen 1 and Gen 2 R1 owners as part of a new OTA update. Built on 'Rivian Unified Intelligence,' the assistant controls drive modes, ride height, frunk, climate settings, and can read and respond to messages. Notably, it can control vehicle systems that Tesla's competing Grok assistant still cannot reach."
-      },
-      {
-        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
-        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
-        "source": "news",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-05",
-        "snippet": "CEO RJ Scaringe confirmed Rivian is in active discussions about manufacturing lidar sensors domestically, potentially via Chinese tech partnerships. The move complements Rivian's RAP1 chip (5nm, 1,600 TOPS) and in-house AI software, making Rivian one of the most vertically integrated autonomy players in the consumer vehicle space."
-      }
-    ],
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    }
-  },
-  {
     "id": "2026-05-16T03:00:00.000Z",
     "timestamp": "2026-05-16T03:00:00.000Z",
     "sentiment": {
@@ -7635,6 +7524,106 @@
         "themes": [
           "infotainment bug",
           "OTA update"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-27T14:04:17+00:00",
+    "timestamp": "2026-05-27T14:04:17+00:00",
+    "sentiment": {
+      "positive": 100,
+      "neutral": 0,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "brand sentiment",
+      "owner experience"
+    ],
+    "competitiveContext": "No competitor signals this cycle. Tesla, Waymo, Aurora, Scout, and legacy OEMs all silent in monitored channels. The absence is itself notable — quiet windows are useful for Rivian PMs to ship without competitive overhang.",
+    "summary": "Near-empty intel cycle — only 1 new item: an organic owner photo share from r/Rivian (foggy morning garden). All other sources (r/RivianR2, r/EV, r/SDC, r/stocks, HN, RivianForums) produced zero new items today. Brand sentiment positive but signal too thin to draw conclusions.",
+    "fullReport": "Quiet cycle. Only one new item in 24h of monitoring — an owner-generated lifestyle photo post. No competitor moves, no software complaints, no business news. Useful as a baseline reading.",
+    "items": [
+      {
+        "title": "Popped in our garden this morning while people were heading to work. We are still trying to get Rivian to take one of our pics, right?",
+        "url": "https://www.reddit.com/gallery/1tp3hkn",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T05:02:54-07:00",
+        "score": 10,
+        "snippet": "Owner shares a foggy morning photo from their Rivian — organic brand-positive lifestyle content.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
         ]
       }
     ]
