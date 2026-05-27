@@ -162,13 +162,19 @@ export function getCompetitiveItems(): ReportItemWithTimestamp[] {
   return result;
 }
 
-/** Items mentioning a specific competitor, matched by keyword list. */
+/** Items explicitly tagged 'competitive' by the LLM analyzer, matched by competitor keyword.
+ *  Strict: only items where category=competitive AND keyword match. Avoids Rivian-internal
+ *  posts (e.g. ACC faults, Comma installs) that carry 'competitive' category incorrectly.
+ *  Note: items not tagged competitive will not appear in CompetitorWatch until the
+ *  GameFilm analyzer prompt is tightened to avoid over-tagging. */
 export function getItemsByCompetitor(keywords: string[]): ReportItemWithTimestamp[] {
   const seen = new Set<string>();
   const result: ReportItemWithTimestamp[] = [];
   const lower = keywords.map(k => k.toLowerCase());
   for (const r of validReports) {
     for (const item of r.items ?? []) {
+      // Only items the LLM explicitly tagged as competitive
+      if (item.category !== 'competitive') continue;
       const text = `${item.title} ${item.snippet}`.toLowerCase();
       if (lower.some(kw => text.includes(kw)) && !seen.has(item.url)) {
         seen.add(item.url);
