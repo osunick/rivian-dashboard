@@ -7760,5 +7760,218 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-27T22:00:00Z",
+    "timestamp": "2026-05-27T22:00:00Z",
+    "sentiment": {
+      "positive": 30,
+      "neutral": 70,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "community",
+      "competitive",
+      "owner experience"
+    ],
+    "competitiveContext": "Renault, Honda, and Rivian were cited together in European EV discussions on Threads, suggesting Rivian is increasingly grouped with legacy OEMs in the competitive landscape. Meanwhile, R2 demo drives kicking off June 9 put Rivian in direct competitive timing against Scout Motors' launch and Ford Lightning momentum. No direct autonomy or pricing threats surfaced today.",
+    "summary": "Light signal day with R2 pre-launch activity dominating — demo drives announced for June 9 and more R2s hitting Spaces/Service Centers. Community posts center on reservation transfers and influencer owner content (Jenna Ezarik's R1S 3-year post). No negative signals; competitive landscape quiet aside from Threads mention grouping Rivian with Renault/Honda.",
+    "fullReport": "10 new signals collected. R2 launch momentum is the dominant narrative — deliveries and demo drives confirmed for June 9, with expanded demo vehicle distribution to Rivian Spaces and Service Centers. Owner community is active with reservation-family transfer questions and veteran owner posts. No autonomy, FSD, or regulatory news surfaced today.",
+    "items": [
+      {
+        "title": "Reservation in my name - can my partner use my reservation?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T13:06:26-07:00",
+        "score": 0,
+        "snippet": "A Reddit user asks whether a reservation held by one partner can be transferred or used by another — indicative of family purchase dynamics and reservation transfer policy concerns as R2 delivery timelines approach.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "community",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian announces deliveries and demo drives begin June 9!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T12:48:17-07:00",
+        "score": 21,
+        "snippet": "Rivian officially announced R2 deliveries and demo drives beginning June 9 — the most significant R2 launch milestone to date, generating strong positive engagement in the R2 community.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Greg Nunez (@GregNunez50) / Posts / X - Twitter",
+        "url": "https://x.com/GregNunez50",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Profile link for Greg Nunez (EV analyst/journalist) — no specific content parsed from this fetch cycle.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Second - Threads",
+        "url": "https://www.threads.com/@jonkung/post/DY2dWWMFlFP",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Generic Threads link from Jon Kung — content not parsed in this cycle.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Two are Renault, one Honda, and one Rivian - Threads",
+        "url": "https://www.threads.com/@nate_downes/post/DY2Rce1FLUl/two-are-renault-one-honda-and-one-rivian",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "A thread comparing EVs from Renault, Honda, and Rivian — Rivian is being discussed in the context of multi-brand EV comparisons, reinforcing its position as a mainstream EV option alongside legacy manufacturers.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "competitive"
+        ]
+      },
+      {
+        "title": "Even MORE R2s on the way to Rivian Spaces and Service Centers ...",
+        "url": "https://www.threads.com/@riviantrackr/post/DY0rERvlJ2s/even-more-r-s-on-the-way-to-rivian-spaces-and-service-centers-for-demo-drives",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "RivianTrackr reports additional R2s are en route to Rivian Spaces and Service Centers for demo drive preparation — consistent with June 9 demo drive launch date and expanding retail footprint.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "3 years with my R1S, and for its birthday we got a new Rivian ...",
+        "url": "https://www.facebook.com/JennaEzarik/posts/3-years-with-my-r1s-and-for-its-birthday-we-got-a-new-rivian-assistant-feature-r/1551582816332159",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Influencer Jenna Ezarik posts about her 3-year R1S anniversary and a new Rivian assistant feature — positive owner sentiment and organic brand advocacy from a notable EV YouTuber.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "R1S review"
+        ]
+      },
+      {
+        "title": "3 years with my R1S, and for its birthday we got a new Rivian ...",
+        "url": "https://www.instagram.com/reel/DY0r20qyBU_",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Instagram Reel from Jenna Ezarik cross-posting the R1S 3-year anniversary and new Rivian assistant feature — positive owner experience signal and brand advocacy via visual media.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "R1S review"
+        ]
+      },
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/p/DY2lVFolDEt",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Instagram post — content not parsed in this fetch cycle.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "2026 Agenda | MOVE 2026",
+        "url": "https://www.terrapinn.com/exhibition/move/2026-Agenda.stm",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "MOVE 2026 mobility expo agenda — Rivian may have a presence or be discussed; no specific Rivian content parsed from this cycle.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": []
+      }
+    ]
   }
 ]
