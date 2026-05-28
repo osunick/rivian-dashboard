@@ -1,240 +1,5 @@
 [
   {
-    "id": "2026-05-21T17:45:00.000Z",
-    "timestamp": "2026-05-21T17:45:00.000Z",
-    "sentiment": {
-      "positive": 42,
-      "neutral": 33,
-      "negative": 25
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 5,
-        "sentiment": "positive"
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
-        "sentiment": "negative"
-      },
-      "twitter": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 1,
-        "sentiment": "positive"
-      }
-    },
-    "categories": {
-      "software": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 2,
-        "sentiment": "negative"
-      },
-      "vehicles": {
-        "found": 1,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "FSD update",
-      "Hey Rivian",
-      "OTA update",
-      "RIVN stock",
-      "owner experience"
-    ],
-    "competitiveContext": "Tesla Cybercab mass production is scaling dramatically faster than expected: 70+ production-spec robotaxi units were spotted at Gigafactory Texas as of May 16, just three weeks after Musk confirmed production start in late April — and the first recorded Cybercab accident was captured this week. For Rivian PMs, this compresses the competitive AV timeline significantly: if Tesla launches Cybercab commercial service in Texas/California by Q3-Q4 2026, it will dominate the autonomy narrative before Rivian has publicly articulated an Autonomy+ roadmap. The in-house lidar make-vs-buy decision and a public Driver+/Autonomy+ milestone statement must be prioritized now.",
-    "summary": "Quiet 2-hour cycle with 5 net-new signals. Standout: Rivian's official R2 Software Walkaround video with VP Wassym Bensaid — a high-credibility software showcase released today ahead of R2 deliveries. RIVN technically recovered from .80 to .78, suggesting a technical floor forming. Community sentiment is strongly positive with Gen1 Meridian audio appreciation and Rivian Roamer app delight. Critical competitive flag: Tesla Cybercab production at 70+ units at Gigafactory Texas with first accident recorded — the robotaxi timeline is compressing faster than expected.",
-    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Thursday, May 21, 2026 — 10:45 AM PT — 5 signals · 4 categories_\n\n*🎯 SITREP*\n• Tesla Cybercab: 70+ production-spec units spotted at Gigafactory Texas — AV mass production compressing faster than expected, first accident recorded\n• Rivian R2 Software Walkaround video with VP Wassym Bensaid released today — official pre-delivery software showcase\n• RIVN technically recovering from .80 floor to .78 — UltraBuy signals flagging potential base formation\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Tesla (Cybercab)*: 70+ production-spec robotaxi units spotted at Gigafactory Texas as of May 16 — just 3 weeks after Musk confirmed production start in late April. First recorded Cybercab accident also captured this week. Commercial service expansion to additional cities by Q3-Q4 2026 increasingly plausible. Rivian must publicly articulate Autonomy+ milestones before Cybercab owns the AV narrative.\n  https://www.youtube.com/watch?v=Ca0WcuZYOZ0\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*📱 Software (1)*\n• R2 Software Walk Around with VP Wassym Bensaid (official Rivian YouTube) — production-ready UI, vehicle control flows, and assistant integration showcase ahead of first deliveries\n  https://youtube.com/shorts/TJ322IZKco0\n\n*💰 Business (1)*\n• RIVN dipped to .80 then recovered to .78 — UltraBuy signals caught the low; stock grinding back above moving averages\n  https://www.reddit.com/r/StockTradingIdeas/comments/1tjrj8y/rivn_dipped_to_1280_then_quietly_recovered_to/\n\n*🌐 Community (2)*\n• Gen1 R1S owner returns from Gen2 loaner: \"I never knew how much I truly loved my Meridian system\" — premium audio differentiation signal for R1 positioning vs R2\n  https://www.reddit.com/r/Rivian/comments/1tjs0al/meridian_audio/\n• R1T owner discovers Rivian Roamer showing cabin overheat protection cycles in real-time — genuine app transparency delight moment worth amplifying in R2 marketing\n  https://www.reddit.com/r/Rivian/comments/1tjretf/rivian_roamer_is_neat_cabin_overheat_protection/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Tesla Cybercab scaling: 70+ units at GigaTexas — when does commercial service expand beyond Austin? Rivian needs a public Autonomy+ milestone statement now\n• R2 Software Walkaround with Bensaid: video suggests delivery-ready software — watch for imminent delivery date announcement\n• RIVN .80 floor forming: does R2 delivery ramp catalyst arrive before the 5/29 put options expire?\n\n_Competitive threat: 🔴 HIGH — Tesla Cybercab mass production scaling faster than expected; Rivian autonomy roadmap silence is increasingly costly_\n_Dashboard: https://watchgamefilm.vercel.app_",
-    "items": [
-      {
-        "title": "R2 Software Walk Around | Rivian (ft. Wassym Bensaid)",
-        "url": "https://youtube.com/shorts/TJ322IZKco0",
-        "source": "reddit_ev",
-        "category": "software",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-21",
-        "snippet": "Official Rivian YouTube Shorts video shared on r/RivianR2 showing VP of Software Wassym Bensaid walking through the R2's production-ready software. Covers the UI design, vehicle control flows, and assistant integration — a direct preview of the day-one R2 software experience. High PM relevance ahead of imminent deliveries.",
-        "themes": [
-          "OTA update",
-          "Hey Rivian"
-        ]
-      },
-      {
-        "title": "Meridian Audio — Gen1 R1S owner misses Meridian after Gen2 loaner week",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjs0al/meridian_audio/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-21",
-        "snippet": "R1S Launch Edition owner returned from a week-long Gen2 loaner while in service and immediately noticed the audio difference: \"I never knew how much I truly loved my Meridian system until I got back in mine today.\" Captures the Gen1 premium audio differentiation — relevant for R1 retention positioning and R2 audio tier decisions.",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Rivian Roamer is neat: cabin overheat protection visible in app",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjretf/rivian_roamer_is_neat_cabin_overheat_protection/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-21",
-        "snippet": "R1T owner parked at an airport discovers Rivian Roamer app logging cabin overheat protection fan cycles in real-time — 3-4 activations on sunny days, zero on rainy days, back in shade by 2pm. \"Awesome little details from Rivian Roamer.\" App transparency driving genuine owner delight — an R2 marketing angle worth amplifying.",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": " dipped to .80 then quietly recovered to .78 — UltraBuy signals active",
-        "url": "https://www.reddit.com/r/StockTradingIdeas/comments/1tjrj8y/rivn_dipped_to_1280_then_quietly_recovered_to/",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-21",
-        "snippet": "Technical analysis tracker flags RIVN recovering from .80 dip to .78, with UltraBuy signals catching each low and UltraShort flagging bounces. Framing: \"EV maker slowly grinding back above moving averages — is Rivian ready to accelerate?\" Suggests a technical base may be forming ahead of the R2 delivery catalyst.",
-        "themes": [
-          "RIVN stock"
-        ]
-      },
-      {
-        "title": "Tesla Cybercab Mass Production Spotted — 70+ Units at Gigafactory Texas, First Accident Recorded",
-        "url": "https://www.youtube.com/watch?v=Ca0WcuZYOZ0",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-16",
-        "snippet": "More than 70 production-spec Tesla Cybercab robotaxis were spotted at Gigafactory Texas as of May 16 — just three weeks after Musk confirmed production start in late April 2026. The first recorded Cybercab accident was also captured this week. For Rivian PMs: Tesla's AV mass production timeline is compressing significantly faster than expected. Cybercab commercial service could reach additional US cities by Q3-Q4 2026, making Autonomy+ roadmap communication an urgent priority.",
-        "themes": [
-          "FSD update"
-        ]
-      },
-      {
-        "title": "Tesla will end one-time FSD purchases across Europe on May 21 — subscription-only",
-        "url": "https://x.com/SERobinsonJr/status/2052507577184072114",
-        "source": "twitter",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Tesla is ending the option to purchase Full Self-Driving as a one-time fee across European markets effective May 21, 2026, switching to subscription-only pricing. This follows the Netherlands Basic Autopilot paywall pilot. For Rivian PMs: Tesla is systematically gating every ADAS tier behind recurring revenue while Rivian includes highway hands-free driving in base price — a concrete differentiator to amplify in R2 European launch positioning.",
-        "themes": [
-          "FSD update",
-          "Tesla pricing"
-        ]
-      },
-      {
-        "title": "Loud popping sound in reverse — 2025 R1T",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjkbly/loud_popping_sound_in_reverse/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-21",
-        "snippet": "2025 R1T owner reports a loud cracking/popping sound from the rear of the vehicle when reversing after being parked. Compares it to wheels breaking out of ice. Service center could not replicate the issue. 21 community comments actively diagnosing — a reproducible quality signal that needs engineering triage before it scales with R2 deliveries.",
-        "themes": [
-          "owner experience",
-          "R1T review"
-        ]
-      },
-      {
-        "title": "The Bull Case For Rivian Automotive (RIVN) Could Change Following R2 Shift And Mind Robotics Stakes",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-rivian-automotive-rivn-101708773.html",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-21",
-        "snippet": "Yahoo Finance analysis explores how Rivian’s investment thesis is shifting from R1-centric to R2-volume-driven, with new robotics partnership stakes (Mind Robotics) adding an AV/AI angle to the bull case. The post earned 32 upvotes in r/RIVNstock, signaling retail investor re-engagement after recent stock weakness — R2 delivery ramp is the catalyst the equity story needs.",
-        "themes": [
-          "RIVN stock",
-          "earnings"
-        ]
-      },
-      {
-        "title": "Rivian Reaffirms 2026 Guidance, Implying a Near-Doubling of Quarterly Deliveries",
-        "url": "https://eletric-vehicles.com/rivian/rivian-reaffirms-2026-guidance-implying-a-near-doubling-of-quarterly-deliveries",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Rivian reaffirmed full-year 2026 delivery guidance of 62,000–67,000 vehicles. With only 10,365 delivered in Q1, the company needs to deliver between 51,635 and 56,635 vehicles in Q2–Q4 — roughly 1.7–1.8x the Q1 rate. R2 production on a single shift at Normal is the primary ramp lever. Date unknown — flagged accordingly.",
-        "themes": [
-          "R2 launch",
-          "earnings"
-        ]
-      },
-      {
-        "title": "Trying to understand power draw — OTA-suspected idle battery drain",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjmzgz/trying_to_understand_power_draw/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-21",
-        "snippet": "R1T Launch Edition owner reports 1% battery drain every 3 hours while idle overnight — behavior that started within the last week with Gear Guard off at home. Owner suspects a recent OTA update changed something, or the 12V battery is starting to fail. Potentially the start of a post-update parasitic drain pattern. 11 community comments active.",
-        "themes": [
-          "OTA update",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "Can I disable all data collection from my vehicle? — Rivian support page goes viral on HackerNews",
-        "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-        "source": "hackernews",
-        "category": "software",
-        "sentiment": "positive",
-        "publishedAt": "2026-04-30",
-        "snippet": "Rivian’s official support page detailing how owners can disable ALL vehicle data collection and internet connectivity went viral on HackerNews with 760 points and 350+ comments. Rivian is the only major auto brand with a full connectivity kill switch: ‘the vehicle still operates with all its physical capabilities’ when disconnected. This is a major privacy differentiator vs. Tesla and legacy OEMs — Rivian PMs should amplify this in R2 positioning. (Published Apr 30; HN activity peaked May 2026 — included for PM relevance.)",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "R1T dynamic roof glass cost is $3,800 — owner impact report",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjmfaf/r1t_dynamic_roof_glass_cost_is/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-21",
-        "snippet": "R1T owner reports falling debris cracked the dynamic roof glass, costing $3,800 to replace (1-day turnaround). Owner noted the windshield survived an apricot-sized rock at 65mph without a mark, but the roof glass is more vulnerable. Repair sticker shock may factor into R2 buying decisions for budget-sensitive buyers comparing ownership cost to Model Y.",
-        "themes": [
-          "owner experience"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-21T02:00:00.000Z",
     "timestamp": "2026-05-21T02:00:00.000Z",
     "sentiment": {
@@ -8400,6 +8165,110 @@
         "category": "business",
         "sentiment": "neutral",
         "themes": []
+      }
+    ]
+  },
+  {
+    "id": "2026-05-28T22:06:43Z",
+    "timestamp": "2026-05-28T22:06:43Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 100
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "VW partnership",
+      "brand sentiment"
+    ],
+    "competitiveContext": "No new competitor moves in this micro-cycle. Continued Bluesky discussion (Brad Deleong follow-up) reinforces an emerging skeptical narrative around Rivian/VW's AI-forward, walled-garden software strategy.",
+    "summary": "Quiet cycle — only 1 new signal. Brad Deleong follow-up Bluesky post linking his substack arguing AI-forward car companies like Rivian/VW will 'get their clocks cleaned.' Same author as the 10-like skeptic thread earlier today; narrative is being amplified by the author himself.",
+    "fullReport": "1 new signal post-dedup. A Brad Deleong follow-up Bluesky post (continuation of his earlier 10-like thread) linking his substack piece arguing AI-forward car companies like Rivian/VW will underperform. Brand sentiment narrative pressure continues. No movement on Reddit (still 403'd), HackerNews, news, or RivianForums in this cycle.",
+    "items": [
+      {
+        "title": "Brad Deleong (Bluesky follow-up): 'I Think AI-Forward Car Companies Like Rivian Are Going to Get Their Clocks Cleaned'",
+        "url": "https://bsky.app/profile/did:plc:ggxmdwtojxh2poo2kmjsyr4p/post/3mmwt3rdyas27",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T20:06:53.177Z",
+        "score": 3,
+        "snippet": "Follow-up post (2/END) by Brad Deleong linking his substack piece arguing AI-forward car companies like Rivian/VW will underperform vs. CarPlay/Android Auto incumbents. Continuation of the same author's earlier 10-like skeptic thread.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "VW partnership",
+          "brand sentiment"
+        ]
       }
     ]
   }
