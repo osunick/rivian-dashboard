@@ -1,200 +1,5 @@
 [
   {
-    "id": "2026-05-22T02:00:00.000Z",
-    "timestamp": "2026-05-22T02:00:00.000Z",
-    "sentiment": {
-      "positive": 28,
-      "neutral": 47,
-      "negative": 25
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 2,
-        "sentiment": "negative"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "news": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 3,
-        "sentiment": "negative"
-      },
-      "software": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 2,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "Hey Rivian",
-      "OTA update",
-      "R1S review",
-      "R2 launch",
-      "RIVN stock",
-      "Tesla pricing",
-      "brand sentiment",
-      "charging infra",
-      "earnings",
-      "infotainment bug",
-      "owner experience"
-    ],
-    "competitiveContext": "Tesla launched a Supercharger virtual queue pilot at 5 locations (May 12) — beginning to address one of its most-cited UX failures around charging congestion; Rivian PMs should actively amplify RAN's queue-free, owned-network advantage in R2 marketing before Tesla scales this fix nationally. Motor Trend is covering 2026 refreshes to Tesla's full lineup (Model Y, X, Cybertruck) with potential spec and pricing changes that will directly compete with R1T/R1S/R2 — Rivian product teams should monitor these updates within the next 30 days as R2 deliveries begin ramping. RIVN remains in a confirmed $13–14 technical downtrend with a fresh 5/29/26 put at $0.16 active — the equity narrative needs a first-delivery event, positive R2 press, or Q2 delivery beat to break out of this range.",
-    "summary": "A quiet 8-signal cycle dominated by post-OTA 2026.15 community reactions: owners found Rivian Assistant's guardrails charmingly strict (refusing a Futurama quote) and discovered the update connects to unexpected domains (example.com, Samsung.com) in firewall logs — a minor software transparency flag. Business signals remain mixed: a fresh 5/29 downtrend put is active on RIVN while a $250M IPO-era class action settlement resurfacing in investor forums reminds the market of 2021–22 pricing missteps. Two competitive items worth tracking: Tesla's Supercharger virtual queue pilot starts narrowing a charging UX gap, and Motor Trend previews 2026 refreshes across Tesla's full lineup just as R2 deliveries approach.",
-    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Thursday, May 21, 2026 — 7:00 PM PT — 8 signals · 4 categories_\n\n*🎯 SITREP*\n• Tesla launches Supercharger virtual queue pilot — begins closing charging congestion gap; amplify RAN's frictionless advantage now\n• RIVN fresh 5/29 put active at $0.16, downtrend holds — R2 delivery event is the only near-term catalyst\n• OTA 2026.15 connecting to example.com + Samsung.com in firewall logs — minor transparency flag needing engineering explanation\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Tesla (Charging)*: Virtual queue pilot launched at 5 Supercharger locations — finally addressing the wait-time congestion problem that has been a competitive pain point vs. Rivian's RAN. If this scales nationally, Rivian's \"no queue\" charging narrative weakens. R2 marketing should hammer RAN's frictionless experience before Tesla makes this disappear.\n  https://electrek.co/2026/05/12/tesla-supercharger-virtual-queue-pilot-5-locations/\n• *Tesla (Lineup)*: MotorTrend covering 2026 updates to Model Y, Model X, and Cybertruck — notable spec and feature changes incoming across all segments competing with Rivian. \"Does the Model Y still deserve to be the bestselling EV SUV?\" sets up the competitive narrative right as R2 deliveries begin.\n  https://x.com/MotorTrend/status/1960749364348907741\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*💰 Business (3)*\n• RIVN fresh downtrend put: 5/29/26 13.0P @ $0.16, Hold consensus, PT $16.3–$20.0 — stock needs a positive catalyst before May options expiry\n  https://www.reddit.com/r/ChartNavigators/comments/1tk2ndr/what_plays_are_you_looking_into_for_tomorrow/\n• Q1 2026 delivery/production figures thread active on RivianForums — community parsing 10,365 deliveries (+20% YoY) and what the R2 ramp implies for Q2–Q4 pace\n  https://www.rivianforums.com/q1-2026-delivery-and-production-figures-released\n• $250M RIVN class action settlement (2021-22 IPO pricing scandal) still accepting late claims at ~$1.18/share — resurfaces in investor communities ahead of R2 launch, potential brand trust reminder\n  https://www.reddit.com/r/EVStocks/comments/1tjysnv/did_you_own_rivian_rivn_around_the_time_of_their/\n\n*📱 Software (2)*\n• OTA 2026.15 connects to example.com + Samsung.com: R1S owner's firewall logged outbound calls to both domains post-update. example.com is IANA's reserved test domain; Samsung.com may indicate Knox/connectivity integration. Rivian should clarify publicly before this becomes a privacy story.\n  https://www.reddit.com/r/Rivian/comments/1tk11ko/examplecom_and_samsungcom/\n• Rivian Assistant guardrails delight: R1T owner's Futurama quote (\"kill all the humans\") met with polite refusal — \"perfectly hilarious response\" per owner, though raises always-listening sensitivity question. Net positive brand moment.\n  https://www.reddit.com/r/Rivian/comments/1tk0ha3/good_guard_rails/\n\n*🌐 Community (1)*\n• First-time EV buyer asking about used 2025 R1S with 56K miles — is EV mileage concern different from ICE? Active thread with experienced owners reassuring on battery longevity. Growing used-vehicle market signal as R2 pulls new buyers.\n  https://www.reddit.com/r/Rivian/comments/1tjyyj8/buying_used_mileage/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Supercharger queue pilot: if Tesla scales to 50+ locations by summer, RAN's frictionless advantage erodes — track monthly\n• OTA firewall hits: example.com + Samsung.com connections need Rivian to proactively explain before privacy bloggers amplify\n• RIVN 5/29 puts expiring: are institutional players positioning for further weakness before R2 delivery confirmation?\n• $250M settlement news cycle: monitor for mainstream press pickup that could dent brand trust heading into R2 launch window\n\n_Competitive threat: 🟠 ELEVATED — Tesla's charging UX gap closing; lineup refresh pressure mounting; R2 delivery execution remains make-or-break_\n_Dashboard: https://watchgamefilm.vercel.app_\n_[Dashboard status pending verification]_",
-    "items": [
-      {
-        "title": "OTA 2026.15 connects to example.com and Samsung.com — owner firewall logs reveal unexpected domains",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tk11ko/examplecom_and_samsungcom/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-22",
-        "snippet": "R1S owner who updated to OTA 2026.15 noticed their firewall logging outbound connections to example.com and Samsung.com from the vehicle. example.com is IANA's reserved test domain (unusual for production software); Samsung.com may indicate Knox or connectivity integration. Rivian should proactively explain these connections before the observation spreads as a privacy or security story.",
-        "themes": [
-          "OTA update",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "Good guard rails — Rivian Assistant refuses Futurama quote with humor",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tk0ha3/good_guard_rails/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-22",
-        "snippet": "R1T owner quoted Futurama's 'Hey baby, wanna kill all the humans?' to Rivian Assistant, which replied: 'I can't help you with that request. I was designed to be a helpful assistant.' Owner called it 'perfectly hilarious' but noted the always-listening aspect is 'a little too sensitive.' Net positive brand moment demonstrating AI safety guardrails working while driving authentic community engagement.",
-        "themes": [
-          "Hey Rivian",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Buying used R1S — should mileage concern me for EV vs ICE?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjyyj8/buying_used_mileage/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-22",
-        "snippet": "First-time EV buyer considering a used 2025 R1S Adventure dual motor max battery with 56K miles, asking whether EV mileage concern differs from ICE — plans to keep it 5+ years. Active thread with experienced owners reassuring on battery longevity. Signal of growing used-vehicle market interest as R2 launch draws new buyers and R1 owners trade up.",
-        "themes": [
-          "owner experience",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "RIVN fresh downtrend play — 5/29/26 13.0P @ $0.16, Hold consensus, technical breakdown",
-        "url": "https://www.reddit.com/r/ChartNavigators/comments/1tk2ndr/what_plays_are_you_looking_into_for_tomorrow/",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-22",
-        "snippet": "Fresh ChartNavigators post lists RIVN as a downtrending ticker: 5/29/26 13.0P at $0.16, analyst consensus Hold, PT $16.3–$20.0. Weakness attributed to sector rotation and technical breakdown. RIVN remains stuck in the $13–14 floor with put options expiring May 29 — R2 first-delivery event is the only near-term catalyst that could shift this trajectory.",
-        "themes": [
-          "RIVN stock"
-        ]
-      },
-      {
-        "title": "Tesla launches Supercharger virtual queue pilot at 5 locations after fights broke out",
-        "url": "https://electrek.co/2026/05/12/tesla-supercharger-virtual-queue-pilot-5-locations/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-12",
-        "snippet": "Tesla launched a virtual waitlist pilot at 5 Supercharger locations, letting drivers join a queue via app rather than circling for a stall — a response to physical altercations at congested stations. If this scales nationally, it closes one of the key differentiators that Rivian's RAN has maintained vs Tesla. Rivian PMs should front-run this in R2 marketing and highlight RAN's scale plans.",
-        "themes": [
-          "charging infra"
-        ]
-      },
-      {
-        "title": "2026 Tesla SUV and Truck Lineup Changes — Model Y, Model X, Cybertruck all get notable updates",
-        "url": "https://x.com/MotorTrend/status/1960749364348907741",
-        "source": "twitter",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Motor Trend is covering notable changes to Tesla's 2026 Model Y, Model X, and Cybertruck lineup — framing the piece with 'Does the Model Y still deserve to be the bestselling EV SUV?' This refresh cycle lands directly in Rivian's R2 launch window and could include pricing, spec, or feature changes that alter R2's competitive positioning.",
-        "themes": [
-          "Tesla pricing"
-        ]
-      },
-      {
-        "title": "Q1 2026 Rivian Delivery and Production Figures Released — community analysis thread",
-        "url": "https://www.rivianforums.com/q1-2026-delivery-and-production-figures-released",
-        "source": "rivianforums",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Active RivianForums thread processing Q1 2026 delivery and production figures: 10,365 deliveries (+20% YoY), $1.38B revenue, first gross profit. Community is triangulating what the R2 ramp pace implies for Q2–Q4 delivery targets — 62K–67K full-year guidance requires nearly doubling the Q1 run rate. Date unknown — flagged accordingly.",
-        "themes": [
-          "earnings",
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "$250M Rivian IPO class action settlement still accepting late claims — ~$1.18/share payout",
-        "url": "https://www.reddit.com/r/EVStocks/comments/1tjysnv/did_you_own_rivian_rivn_around_the_time_of_their/",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-21",
-        "snippet": "r/EVStocks post highlights the $250M Rivian investor class action settlement (covering shares Nov 2021–Mar 2022 around the IPO price increase scandal) is still accepting late claims at ~$1.18/share. Resurfacing in investor communities ahead of R2 launch could generate negative press and remind new R2 buyers of historic pricing communication failures.",
-        "themes": [
-          "RIVN stock"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-21T21:09:00.000Z",
     "timestamp": "2026-05-21T21:09:00.000Z",
     "sentiment": {
@@ -8381,5 +8186,87 @@
         "snippet": "Driveteslacanada on Bluesky amplifies the NHTSA investigation into R1 rear suspension failures — negative safety narrative gaining social traction ahead of what is supposed to be a celebratory R2 launch week."
       }
     ]
+  },
+  {
+    "id": "2026-05-28T18:05:00.000Z",
+    "timestamp": "2026-05-28T18:05:00.000Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "competitiveContext": "No new competitor signals this cycle. Prior cycle covered Waymo's Zeekr robotaxi deployment and Slate Auto's June 24 order opening.",
+    "summary": "Quiet cycle — 0 new items after dedup. Reddit endpoints continue returning 403; news, social, and forums sources fetched but all surfaced URLs already captured in prior reports.",
+    "fullReport": "Quiet cycle — no new signals. All sources fetched cleanly (Reddit still blocked at 403) but everything was already captured in the previous run earlier today.",
+    "items": []
   }
 ]
