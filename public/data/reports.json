@@ -1,177 +1,5 @@
 [
   {
-    "id": "2026-05-23T02:00:00.000Z",
-    "timestamp": "2026-05-23T02:00:00.000Z",
-    "sentiment": {
-      "positive": 33,
-      "neutral": 50,
-      "negative": 16
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 3,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 1,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 2,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "AV deployment",
-      "Aurora update",
-      "Model Y update",
-      "R2 launch",
-      "Tesla pricing",
-      "Waymo move",
-      "app bug",
-      "autonomous ownership",
-      "brand sentiment",
-      "software quality"
-    ],
-    "competitiveContext": "Tesla launched a refreshed Model Y with Cybertruck-inspired styling and base pricing competitive with R2 — this is a significant visual reframing of the Model Y segment and Rivian should monitor conquest impact post-R2 launch. Waymo + Toyota partnership signals L4 consumer vehicle ownership timelines accelerating (not just robotaxi services). Aurora's I-45 driverless truck deployment marks the first commercial AV service on public roads — Rivian's robotaxi strategy with Uber must demonstrate parity or risk being perceived as behind. The competitive autonomy landscape is consolidating: Waymo expanding to 20 cities, Aurora launching commercial trucking, Tesla iterating FSD at scale. Rivian's June R2 launch must clearly articulate why Hey Rivian + Autonomy+ matters in this crowded field.",
-    "summary": "Quiet cycle with 6 new signals: 2 positive R2 momentum items from Nashville events; 1 app regression bug; 3 competitive moves (Tesla Model Y refresh, Waymo-Toyota L4 partnership, Aurora commercial trucking). R2 launch readiness confirmed by real owner enthusiasm. Competitive autonomy landscape heating up with multiple players crossing commercial thresholds.",
-    "fullReport": "",
-    "items": [
-      {
-        "title": "R2 Sound System - Nashville Event Impressions",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tkxuy9/sound_system/",
-        "source": "reddit_rivian_r2",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-22",
-        "snippet": "Owner attended Nashville R2 event and was impressed with sound system quality and acoustic insulation. Sound engineer father validated the audio performance. Positive signal on R2 interior quality ahead of June 1 launch.",
-        "themes": [
-          "R2 launch",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "R2 Nashville - 5 Hour Drive for Test Drive",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tkwkkq/r2_nasheville/",
-        "source": "reddit_rivian_r2",
-        "category": "community",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-22",
-        "snippet": "Reservation holder drove 5 hours to Nashville event and confirmed purchase after seeing R2 in person. High engagement signal for R2 launch momentum.",
-        "themes": [
-          "R2 launch",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "App AC Control Bug - Feature Not Responding",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tkzkrf/why_cant_i_turn_on_the_ac_from_the_app/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-22",
-        "snippet": "Owner reports AC pre-conditioning via Rivian app stopped working this past week. Common daily-use feature regression affecting user experience.",
-        "themes": [
-          "app bug",
-          "software quality"
-        ]
-      },
-      {
-        "title": "Tesla Model Y Refresh - Updated Styling, $59,990 Base",
-        "url": "https://www.autonews.com/tesla/an-tesla-launches-freshened-model-y-in-us",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-22",
-        "snippet": "Tesla launches updated Model Y in U.S. with Cybertruck-inspired fascia design (integrated light bars). Base model pricing and feature updates position it directly against R2 pricing segment.",
-        "themes": [
-          "Tesla pricing",
-          "Model Y update"
-        ]
-      },
-      {
-        "title": "Waymo + Toyota Partnership - L4 Consumer Vehicle Exploration",
-        "url": "https://avmarketstrategist.substack.com/p/av-market-update-cw19",
-        "source": "news",
-        "category": "autonomy",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-22",
-        "snippet": "Waymo and Toyota announced preliminary agreement to develop L4 autonomous vehicle platform for consumers, potentially shifting industry from service-only to ownership models. Signals accelerating consumer AV timeline.",
-        "themes": [
-          "Waymo move",
-          "autonomous ownership"
-        ]
-      },
-      {
-        "title": "Aurora Driverless Trucks on I-45 - Commercial Launch",
-        "url": "https://www.autonews.com/technology/an-autonomous-driving-hits-high-gear-0502",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-22",
-        "snippet": "Aurora's autonomous trucks are live on Interstate 45, marking first commercial driverless service on public roads. Also: Waymo hitting 250K+ driverless rides per week. AV commercial viability proven.",
-        "themes": [
-          "Aurora update",
-          "AV deployment"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-22T14:00:00.000Z",
     "timestamp": "2026-05-22T14:00:00.000Z",
     "sentiment": {
@@ -8205,6 +8033,206 @@
         "themes": [
           "competitive",
           "recall alert"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-28T14:10:00Z",
+    "timestamp": "2026-05-28T14:10:00Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 37,
+      "negative": 13
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "mixed"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "OTA update",
+      "owner experience",
+      "recall alert",
+      "regulatory news"
+    ],
+    "competitiveContext": "Quiet competitive cycle — no major competitor moves; story remains dominated by Rivian's own R2 launch ramp (first deliveries June 9, Performance + Launch Package highlighted as flagship trim) set against the ongoing NHTSA probe of ~115k R1 vehicles. PMs should watch whether competitors (Tesla, Ford, GM) react to R2 pricing/positioning once configurator data circulates.",
+    "summary": "Small follow-on cycle (8 items) — mostly R2 launch amplification on Threads/Bluesky and continued spread of yesterday's NHTSA probe news. New signal: Rivian shipped Share/Favorite buttons in R1/R2 app, and an R2 Performance Launch Package is being positioned as the flagship variant.",
+    "fullReport": "GameFilm follow-on cycle, May 28 2026. 8 new signals — light cycle dominated by R2 launch chatter (Portuguese-language coverage, R2 Performance Launch Package framing, RivianTrackr commentary) and continued amplification of the NHTSA investigation into 114,922 Rivian vehicles. One small product win: Rivian added Share and Favorite buttons to R1/R2 configurator UX. One business item (Valley Electric sale to MYR Group) is unrelated to Rivian.",
+    "items": [
+      {
+        "title": "Prospect Capital sells Valley Electric to MYR Group for $328m",
+        "url": "https://www.pehub.com/prospect-capital-sells-valley-electric-to-myr-group-for-328m/",
+        "source": "news",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "PE deal — Valley Electric acquired by MYR Group for $328M. Not Rivian-specific; noise item.",
+        "themes": [
+          "regulatory news"
+        ]
+      },
+      {
+        "title": "Rivian has added Share and Favorite buttons to the R1 and R2",
+        "url": "https://www.threads.com/@chrishilbe/post/DY2s3SDFZQo/media",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "software",
+        "sentiment": "positive",
+        "snippet": "Rivian shipped Share and Favorite buttons in the R1/R2 app/configurator — small UX win during R2 launch window.",
+        "themes": [
+          "OTA update",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian confirma entrega dos primeiros SUV R2 para o início de junho",
+        "url": "https://www.threads.com/@forum.tugatech/post/DY26UJUgjol",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Portuguese-language tech forum covering R2 first deliveries for early June — international coverage spreading.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Great article (RivianTrackr on Threads)",
+        "url": "https://www.threads.com/@riviantrackr/post/DY3KMhFlH7d/great-article",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "RivianTrackr endorsing an R2 coverage piece — community amplification continues.",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "This mid-size R2 Performance with the Launch Package is Rivian's flagship",
+        "url": "https://www.threads.com/@supbrice/post/DY26gZ8ESHL/this-mid-size-r-performance-with-the-launch-package-is-rivians-solution-to",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "R2 Performance + Launch Package being framed by enthusiasts as the flagship R2 variant — important positioning signal for trim mix.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Me too (RivianTrackr on Threads)",
+        "url": "https://www.threads.com/@riviantrackr/post/DY2_FoKFKaT",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "RivianTrackr reply post — low-signal community chatter around R2 launch.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@babygoldie.bsky.social: NHTSA launches investigation into 114,922 Rivian vehicles",
+        "url": "https://bsky.app/profile/did:plc:xhrtfphu4gzqrztkpb3a63qf/post/3mmw6rmritq2n",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T21:52:41Z",
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "negative",
+        "snippet": "Continued Bluesky amplification of NHTSA preliminary investigation into 114,922 Rivian vehicles — story has legs into evening news cycle.",
+        "themes": [
+          "recall alert",
+          "regulatory news"
+        ]
+      },
+      {
+        "title": "@buchikuma.bsky.social: Rivian R2 first delivery June 9 (TechCrunch)",
+        "url": "https://bsky.app/profile/did:plc:jf26a7dgps3fck4zc7anchdl/post/3mmw2tfizwu2m",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T12:52:17Z",
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Japanese-language Bluesky post linking TechCrunch R2 June 9 first delivery article — global reach.",
+        "themes": [
+          "R2 launch"
         ]
       }
     ]
