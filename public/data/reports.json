@@ -1,460 +1,5 @@
 [
   {
-    "id": "2026-05-25T21:48:00-07:00",
-    "timestamp": "2026-05-25T21:48:00-07:00",
-    "sentiment": {
-      "positive": 42,
-      "neutral": 54,
-      "negative": 4
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 24,
-        "sentiment": "positive"
-      },
-      "reddit_rivian_r2": {
-        "found": 3,
-        "sentiment": "mixed"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 13,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 4,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 4,
-        "sentiment": "neutral"
-      },
-      "community": {
-        "found": 6,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 3,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "BMW iX3",
-      "Ford Lightning",
-      "R1S delivery",
-      "R1S review",
-      "R1T review",
-      "R2 air compressor",
-      "R2 launch",
-      "charging infra",
-      "infotainment bug",
-      "owner experience",
-      "range anxiety",
-      "software quality",
-      "steering issue",
-      "suspension issue"
-    ],
-    "competitiveContext": "BMW iX3 is actively targeting R2 reservation holders with engaged sales — a concerned post notes Rivian has been 'nearly radio silent' compared to BMW's attentive service. Meanwhile, Ford Lightning continues to be a benchmark comparison; owners report the R1S dramatically outperforms F150 Lightning on range efficiency (190mi trip with aggressive driving: Lightning arrived at 25% battery, R1S at 40% with 140mi remaining). Scout Motors remains quiet with no discussion, suggesting Rivian owners aren't yet viewing it as a threat.",
-    "summary": "Owner love dominates the cycle — posts celebrating R1T truck ownership, towing capability, and range efficiency land 100+ upvotes, while comparisons to Ford Lightning reinforce Rivian's EV efficiency advantage. Quality concerns surface around rear air suspension and steering calibration on Gen 2 vehicles. The most actionable competitive signal: BMW iX3 is intercepting R2 waitlist candidates with proactive outreach while Rivian stays quiet.",
-    "fullReport": "GameFilm intel for May 25, 2026: 26 new items across r/Rivian (24) and r/RivianR2 (3). Community sentiment is strongly positive with 11 favorable posts vs. 1 negative, driven by R1T/R1S ownership celebrations and a standout range anxiety comparison showing the R1S dramatically outpacing Ford Lightning. Software and hardware quality issues (modem failures, rear suspension lag, steering calibration) represent recurring Gen 2 complaints. Business signals include an R1S lease deal in SoCal ($900/mo) and a former early adopter returning. The competitive watch: BMW iX3 outreach to R2 reservation holders with attentive sales represents a real conversion risk heading into the R2 launch window.",
-    "items": [
-      {
-        "title": "Modem issues",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnusm0/modem_issues/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T20:23:11-07:00",
-        "score": 3,
-        "snippet": "Gen2 R1T owner. My internet connectivity has now failed 3 times in 3 months. It may be the internet module. I have created a service ticket, but I'm curious if anyone has had this issue and if it's been fully resolved?",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "infotainment bug",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "R1S Gen2 Charging Curve 10 to 50%",
-        "url": "https://i.redd.it/9g44yiw75e3h1.png",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T19:14:36-07:00",
-        "score": 7,
-        "snippet": "Started strong with 200kw, reaching a peak of 209KW, then started falling of a cliff at around 30%. Latest software update installed 2026.15.0. 2025 Rivian R1S Gen 2 Max pack. Wish the peak speed held for a little longer.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R1S review",
-          "charging infra"
-        ]
-      },
-      {
-        "title": "Such a great tow rig",
-        "url": "https://i.redd.it/9t8jek5isd3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T18:03:21-07:00",
-        "score": 111,
-        "snippet": "Tows better than my old 550hp expedition, quiet. Comfy, great support vehicle. Couldn't be happier.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Any off-roading trails/treks in NJ area",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnoozc/any_offroading_trailstreks_in_nj_area_or_de_or_pa/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T15:57:14-07:00",
-        "score": 3,
-        "snippet": "Looking for a recommendation for off roading treks in NJ area to take R1S.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Time for a laugh at range anxiety",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnne30/time_for_a_laugh_at_range_anxiety/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T15:03:18-07:00",
-        "score": 120,
-        "snippet": "190-mile trip in R1S Tri Max (140kwh) — drove 75-85mph, arrived with 40% and 140 miles remaining. F150 Lightning (131kwh) on same route arrived at 25% with ~60 miles left. Rivian manages energy far better.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "range anxiety",
-          "Ford Lightning",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "R1S Lease in SoCal",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnm2fp/r1s_lease_in_socal/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T14:11:48-07:00",
-        "score": 4,
-        "snippet": "R1S 2026 dual motors, standard battery. $3500 down + $500 Rivian rebate + $3k federal credit. 36 mo, $900/mo. Switching from Acura MDX. Asking if better deals available.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "R1S delivery",
-          "EV incentives"
-        ]
-      },
-      {
-        "title": "Last change option",
-        "url": "https://i.redd.it/vnz0hg0bac3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T12:59:34-07:00",
-        "score": 19,
-        "snippet": "Feature request: add option to show overall energy consumption since last vehicle charge.",
-        "category": "software",
-        "sentiment": "neutral",
-        "themes": [
-          "OTA update"
-        ]
-      },
-      {
-        "title": "R1S Rear Suspension",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnhgm0/r1s_rear_suspension/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T11:23:39-07:00",
-        "score": 3,
-        "snippet": "After overnight sit (12 hrs), rear air suspension drops to lowest position and takes 2-3 minutes to return to Standard height. Front suspension unaffected. Is this normal?",
-        "category": "vehicles",
-        "sentiment": "negative",
-        "themes": [
-          "R1S review",
-          "suspension issue"
-        ]
-      },
-      {
-        "title": "Any rumors of upcoming deals?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnhbej/any_rumors_of_upcoming_deals/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T11:18:51-07:00",
-        "score": 0,
-        "snippet": "No significant incentives this year. Considering R2 but Rivian rep says reservations won't be fulfilled until mid-2027. Asking sleuth community for deal rumors.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "R2 air compressor options",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tngb9z/r2_air_compressor_options/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T10:43:05-07:00",
-        "score": 2,
-        "snippet": "R1T owner loves built-in air compressor; moving to R2. Wants to know what fits R2 for on-board air. Looking for space-efficient solution.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 air compressor",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Those eyes",
-        "url": "https://i.redd.it/k0s5uxq4jb3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T10:28:24-07:00",
-        "score": 78,
-        "snippet": "Photo of R1S/R1T front face with signature illuminated headlights. Community positivity around design.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Tire shop recommendations in New Haven CT",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnfk5e/tire_shop_recommendations_in_new_haven_ct/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T10:16:46-07:00",
-        "score": 1,
-        "snippet": "Seeking tire shop recommendation for R1S replacement in New Haven CT. Few Rivians in area, wants experienced shop.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Base Sound",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnezjw/base_sound/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T09:56:34-07:00",
-        "score": 0,
-        "snippet": "Has base sound improved in Gen 2 via software updates to where the upgrade isn't required?",
-        "category": "software",
-        "sentiment": "neutral",
-        "themes": [
-          "infotainment bug",
-          "OTA update"
-        ]
-      },
-      {
-        "title": "Still one of the best videos of R2 driving",
-        "url": "https://youtu.be/O8DOeaNsEFg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T09:19:31-07:00",
-        "score": 41,
-        "snippet": "YouTube video of R2 driving — described as still one of the best. Community engagement positive.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "R1S",
-        "url": "https://i.redd.it/w4hb55jp3b3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T09:00:47-07:00",
-        "score": 184,
-        "snippet": "Photo post celebrating R1S ownership — highest score of cycle (184). Caption: 'Omg this truck is everything I dreamt it would be'",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1S review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "gen 2 R1s quad bad handling",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tncuqe/gen_2_r1s_quad_bad_handling/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T08:40:37-07:00",
-        "score": 6,
-        "snippet": "Gen 2 R1S quad: steering very loose, car doesn't drive straight, pulls right, leans bouncy. Worse than Bronco, can't compare to Model X. No confidence at speed.",
-        "category": "vehicles",
-        "sentiment": "negative",
-        "themes": [
-          "R1S review",
-          "steering issue"
-        ]
-      },
-      {
-        "title": "2026 R1T",
-        "url": "https://i.redd.it/juyeo3mqta3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T08:04:55-07:00",
-        "score": 94,
-        "snippet": "Photo post: 'Omg this truck is everything I dreamt it would be' — celebrating new 2026 R1T delivery.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "The Do-It-All Truck",
-        "url": "https://www.reddit.com/gallery/1tnbpye",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T08:00:37-07:00",
-        "score": 34,
-        "snippet": "R1T capable of more than proportions suggest. Never underestimate. Gym equipment transport also works.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Is leaving R1S unplugged for 2 weeks an issue?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnba6v/is_leaving_r1s_unplugged_for_2_weeks_an_issue_i/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T07:44:44-07:00",
-        "score": 0,
-        "snippet": "No garage or home charging. Asks about battery drain over 2 weeks and which settings to disable (Gear Guard mentioned) to minimize drain.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "R1T, Forza Horizon 6",
-        "url": "https://i.redd.it/n6wrox8lla3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T07:19:31-07:00",
-        "score": 39,
-        "snippet": "Screenshot of Rivian R1T in Forza Horizon 6 game. Crossover between gaming and automotive community.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Torque pull",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tn9ukt/torque_pull/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T06:52:45-07:00",
-        "score": 1,
-        "snippet": "2025 R1T dual: torque pull to the right on acceleration despite multiple wheel swaps and rotations. Now replaced tires at 30k — pull only on acceleration.",
-        "category": "vehicles",
-        "sentiment": "negative",
-        "themes": [
-          "R1T review",
-          "steering issue"
-        ]
-      },
-      {
-        "title": "S vs T",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tn91xn/s_vs_t/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T06:22:36-07:00",
-        "score": 26,
-        "snippet": "R1S quad loaner vs R1T dual: R1T more composed, better suspension, better steering, more comfortable ride. R1S speakers much better though. Preferring R1T overall.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "I am BACK!",
-        "url": "https://i.redd.it/7smlfr2ax93h1.png",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T05:07:37-07:00",
-        "score": 51,
-        "snippet": "Early R1T adopter returning after lease end. Rivian employee contact facilitated new order — expecting delivery in 4-5 weeks. Brand loyalty strong.",
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "owner experience",
-          "R1S delivery"
-        ]
-      },
-      {
-        "title": "How many waiting for an R2 have ordered a BMW iX3?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tn6adf/how_many_waiting_for_r2_have_ordered_a_bmw_ix3/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-25T04:25:14-07:00",
-        "score": 0,
-        "snippet": "Placed BMW iX3 order after Rivian silence on R2 timeline (mid-2027 estimated fulfillment). BMW attentive, Rivian nearly radio silent. Watching BMW scoop up R2 reservation holders.",
-        "category": "competitive",
-        "sentiment": "negative",
-        "themes": [
-          "R2 launch",
-          "BMW iX3"
-        ]
-      },
-      {
-        "title": "21' vs 20' wheels for R2",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tng5jy/am_i_missing_something_21_vs_20/",
-        "source": "reddit_rivian_r2",
-        "publishedAt": "2026-05-25T10:37:14-07:00",
-        "score": 24,
-        "snippet": "Early R2 reservation holder weighing 21\" Performance Launch wheels (better aesthetics, hides dirt) vs 20\" (the 'obvious choice' per community). Leaning toward 21s for looks.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "How many waiting for an R2 have ordered a BMW iX3? (r/RivianR2)",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tn6adf/how_many_waiting_for_r2_have_ordered_a_bmw_ix3/",
-        "source": "reddit_rivian_r2",
-        "publishedAt": "2026-05-25T04:26:02-07:00",
-        "score": 0,
-        "snippet": "Duplicate crosspost of BMW iX3/R2 competition signal to r/RivianR2.",
-        "category": "competitive",
-        "sentiment": "negative",
-        "themes": [
-          "R2 launch",
-          "BMW iX3"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-23T14:00:00.000Z",
     "timestamp": "2026-05-23T14:00:00.000Z",
     "sentiment": {
@@ -8164,6 +7709,273 @@
         "snippet": "Author: josh0",
         "themes": [
           "owner experience"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-28T03:09:39Z",
+    "timestamp": "2026-05-28T03:09:39Z",
+    "sentiment": {
+      "positive": 73,
+      "neutral": 20,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 11,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "positive"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "infotainment bug",
+      "owner experience",
+      "Cybertruck news",
+      "Tesla pricing"
+    ],
+    "competitiveContext": "No major autonomy moves surfaced today—no FSD updates, Waymo expansions, or Aurora news. The competitive field is quiet, which gives Rivian a cleaner window heading into R2 launch day June 9. Nuro showed a Lucid robotaxi in testing but this doesn't directly pressure Rivian. The most relevant competitive signal is the R2's $53,500 pricing coming in $16-20K below a base Cybertruck—positioning the R2 as the value play in the adventure EV segment.",
+    "summary": "R2 launch day (June 9) dominates today's signal—11 of 15 new items are social posts about order invites, pricing, and demo drive availability. One real owner pain point surfaced: the phone app's energy tracker is drastically underreporting consumption (bug filed). One competitive pricing data point from Bluesky confirms R2 undercuts Cybertruck by $16-20K, a key PM talking point heading into launch. No autonomy, earnings, or geopolitical risk signals today.",
+    "fullReport": "Today was a quiet-cycle R2 launch anticipation day across social channels. The Rivian community is energized—multiple Threads/Twitter posts spread the June 9 order invite news. One negative: a reddit_rivian owner reported the phone app shows a fraction of actual energy usage, suggesting a data calculation bug in the app. Bluesky confirmed R2 Launch Edition pricing at ~$53,500, noting it's $16-20K less than a base Cybertruck—competitive framing that plays well in owner communities. No RivianForums threads survived deduplication, suggesting no burning forum-level issues. No news source hits today.",
+    "items": [
+      {
+        "title": "Energy usage on phone shows a fraction of what I actually used",
+        "url": "https://i.redd.it/3afetfulfs3h1.png",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T19:17:45-07:00",
+        "score": 3,
+        "snippet": "The Rivian phone app's energy widget reports ~0.7 kWh for an 11-mile highway commute when actual usage is likely 3-4x higher—a significant underreporting bug.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian R2 first build or CPO 23/24 1x 50drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpqept/rivian_r2_first_build_or_cpo_2324_1x_50drive/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T19:26:48-07:00",
+        "score": 0,
+        "snippet": "R2 reservation holder debating first-build risk vs. waiting for CPO to avoid early production issues—has narrowed choice to R2 vs. another EV.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian R2 officially launches June 9 – order invites, first deliveries ...",
+        "url": "https://www.threads.com/@electrek.co/post/DY24lfCgb1Q/rivian-r-officially-launches-june-order-invites-first-deliveries-demo-drives",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Electrek confirms June 9 as R2 launch date with order invites rolling out in batches and demo drives available at Rivian Spaces same day.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Best car I've ever owned - Threads",
+        "url": "https://www.threads.com/@bobby/post/DY2aNIhIKMf",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Owner endorsement of Rivian as 'best car I've ever owned'—organic brand sentiment signal on Threads.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "tl;dr - Demo drives also start June 9 at Rivian Spaces",
+        "url": "https://www.threads.com/@riviantrackr/post/DY2sOdlFAGR/tl-dr-r-ordering-opens-june-invites-go-out-in-rolling-batches-starting-june-r",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian order invites go out in rolling batches starting June 9; demo drives also begin same day at Rivian Spaces nationwide.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 Ordering Opens June 9th With Performance Launch ...",
+        "url": "https://www.threads.com/@riviantrackr/post/DY2radMlBhe/rivian-r-ordering-opens-june-th-with-performance-launch-edition-at",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian R2 ordering opens June 9 with Performance Launch Edition at premium trim; standard variants follow.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Should You Buy or Lease the Rivian R2 Launch Edition",
+        "url": "https://www.threads.com/@riviantrackr/post/DY1-aGdDgfU/buy-or-lease-r-launch-edition-i-say-lease-li-dar-lands-late-and-you-cant",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Financing analysis: lease vs. buy decision for R2 Launch Edition, noting lease option may suit buyers wary of long-term ownership ahead of faster tech cycles.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "June 9 is the big day. R2 officially launches! ✉️",
+        "url": "https://www.facebook.com/rivianofficial/posts/june-9-is-the-big-day-r2-officially-launches-%EF%B8%8F-order-invitations-begin-%EF%B8%8F-custome/1426862762806298",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian official Facebook post confirming June 9 order invitation rollout and customer deliveries beginning.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 order invitations will start rolling out June 9th | The Verge",
+        "url": "https://www.theverge.com/transportation/938549/rivian-r2-order-invitations-will-start-rolling-out-june-9th",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "The Verge covers R2 order invite rollout—invitations in rolling batches starting June 9, first customer deliveries shortly after.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian R1S Wheel & Tire Packages",
+        "url": "https://www.instagram.com/p/DY2ZOYWCfwo",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian accessory post for R1S wheel and tire packages—accessory ecosystem marketing.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S review"
+        ]
+      },
+      {
+        "title": "Rivian R2 launches June 9 - Facebook",
+        "url": "https://www.facebook.com/groups/874936780768370/posts/1483235513271824",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Facebook group post confirming June 9 R2 launch date to enthusiast community.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Nuro Shows Lucid Robotaxi in Testing as Bay Area Launch ...",
+        "url": "https://eletric-vehicles.com/nuro/nuro-shows-lucid-robotaxi-in-testing-as-bay-area-launch-looms-video",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Nuro showcasing Lucid-built robotaxi in Bay Area testing ahead of commercial launch—a minor autonomy competitor signal.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Aurora update"
+        ]
+      },
+      {
+        "title": "Bluesky: R2 priced ~$53,500, $16-20K less than Cybertruck or Rivian",
+        "url": "https://bsky.app/profile/did:plc:mjz7abd5vj7yqee4ycxjlsn2/post/3mmuxlgiink2w",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T02:21:29.572Z",
+        "score": 2,
+        "snippet": "R2 Launch Edition priced at ~$53,500—$16-20K less than a base Cybertruck or comparable Rivian R1T, making it a strong value play in the adventure EV segment.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Cybertruck news",
+          "Tesla pricing"
         ]
       }
     ]
