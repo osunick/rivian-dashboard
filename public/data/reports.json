@@ -1,148 +1,5 @@
 [
   {
-    "id": "2026-05-26T15:38:30Z",
-    "timestamp": "2026-05-26T15:38:30Z",
-    "sentiment": {
-      "positive": 55,
-      "neutral": 15,
-      "negative": 30
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 4,
-        "sentiment": "mixed"
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "R1T review",
-      "R1 delivery",
-      "brand sentiment",
-      "recall alert",
-      "owner experience"
-    ],
-    "competitiveContext": "Tesla has not seen major R1-related chatter today; Ferrari's new $700K+ electric supercar headlines EV segment news, reinforcing how Rivian's ~$70K R1T sits in a very different value tier — driving dynamics conversation underscores R1's enthusiast credibility while used Quad prices staying elevated signals strong brand residual strength.",
-    "summary": "Quiet cycle with 4 new signals all from r/Rivian — a mix of positive brand/resale signals and one service quality flag. No competitive or autonomy news today. Used Quad R1T prices holding at ~$60K indicate solid demand, but a roof glass replacement leak is a service execution risk worth monitoring.",
-    "fullReport": "GameFilm intel cycle for 2026-05-26. 4 new items detected, all from r/Rivian. Community focus: driving dynamics debate (R1 vs Ferrari EV reference), strong used G1 Quad prices confirming brand health, lease cost discussion for 2026 R1S, and a water leak complaint after certified repair. No signals from autonomy, competition, or news sources today.",
-    "items": [
-      {
-        "title": "Does R1 drive like a sports car?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1toacrt/does_r1_drive_like_a_sports_car/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-26T08:28:46-07:00",
-        "score": 0,
-        "snippet": "Users debate whether the R1 drives like a sports car — the discussion puts the debate to rest with a reference to Ferrari's new $700K+ electric car as context.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review"
-        ]
-      },
-      {
-        "title": "Anyone noticed used G1 Quad prices recently?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1toa4q8/anyone_noticed_used_g1_quad_prices_recently/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-26T08:20:50-07:00",
-        "score": 1,
-        "snippet": "Used Quad-Motor R1T (2023, 31K miles) estimated trade-in at ~$52K with listed prices still in the $60Ks — strong residual values signal persistent demand and brand health.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "R1S 2025-2026 Lease",
-        "url": "https://www.reddit.com/r/Rivian/comments/1to9hy9/r1s_20252026_lease/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-26T07:58:48-07:00",
-        "score": 0,
-        "snippet": "Owner paying ~$900/mo for a 2026 R1S Dual/Standard with $3,500 down on a 36-month, 10K mile/year lease — reflects current EV leasing market rates for full-size SUVs.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "R1 delivery"
-        ]
-      },
-      {
-        "title": "Could a leak near the sun visor be caused by replacing the rear roof glass?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1to8l8x/could_a_leak_near_the_sun_visor_be_caused_by/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-26T07:26:31-07:00",
-        "score": 1,
-        "snippet": "Water leak reported near the passenger sun visor after a Rivian-certified collision shop replaced the rear roof glass — a service execution issue that could indicate a quality gap in certified repair network.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "recall alert",
-          "owner experience"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-26T14:00:16Z",
     "timestamp": "2026-05-26T14:00:16Z",
     "sentiment": {
@@ -7669,6 +7526,301 @@
         "themes": [
           "Driver+",
           "Autonomy+"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-28T02:00:37.000Z",
+    "timestamp": "2026-05-28T02:00:37.000Z",
+    "sentiment": {
+      "positive": 54,
+      "neutral": 37,
+      "negative": 9
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 8,
+        "sentiment": "mixed-negative"
+      },
+      "news": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "twitter": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 8,
+        "sentiment": "negative"
+      },
+      "software": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 8,
+        "sentiment": "negative"
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Autonomy+",
+      "Charging infra",
+      "Connect+",
+      "Driver+",
+      "EV incentives",
+      "Ford Lightning",
+      "R2 launch",
+      "R2 delivery",
+      "RIVN stock",
+      "Tesla pricing",
+      "VW partnership",
+      "brand sentiment",
+      "charging infra",
+      "infotainment bug",
+      "owner experience"
+    ],
+    "competitiveContext": "Ferrari unveiled its electric car to market backlash — divisiveness as strategy, potentially carving luxury EV mindshare Rivian targets. Scania (Traton Group) launched under-cab battery + MCS for commercial trucks, advancing truck electrification against Rivian's EDV fleet pitch. Rivian itself is pre-positioning: R2 stockpile confirmed ahead of June 9 launch, extended offers through June 4 to drive conversions, and actively hiring to build European sales/delivery/service network — signaling real international expansion intent beyond the VW partnership go-private scare.",
+    "summary": "R2 launch readiness dominates this cycle: confirmed June 9 first deliveries, stockpile sightings, and reservation-holder discussion running hot on colors and interiors. Owner community surfaces real frustrations — subscription pricing vs. Tesla, active infotainment bug with center vents, and Comma hardware integration issues — alongside genuine enthusiasm for Autonomy+ and hands-free driving. Social sentiment is mixed: brand-loyal Bluesky posts boost Rivian over Ford, but critics focus on pricing and stock losses. No earnings, regulatory, or recall alerts this cycle.",
+    "fullReport": "See detailed items array",
+    "items": [
+      {
+        "title": "R2s Are Gathering",
+        "url": "https://v.redd.it/yl1giw4uhr3h1",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T16:10:11-07:00",
+        "score": 135,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Rivian is building a stockpile of R2s in preparation for the R2 Launch on June 9th.",
+        "themes": [
+          "R2 launch",
+          "R2 delivery"
+        ]
+      },
+      {
+        "title": "Rivian Will Deliver the First R2 SUVs on June 9",
+        "url": "https://www.theverge.com/tech/938635/rivian-will-deliver-first-r2-suvs-june-9",
+        "source": "news",
+        "publishedAt": "2026-05-27T20:30:00Z",
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Rivian is confirmed to begin delivering R2 SUVs to customers on June 9, marking the automaker's expansion into a more affordable market segment.",
+        "themes": [
+          "R2 launch",
+          "R2 delivery"
+        ]
+      },
+      {
+        "title": "Rivian has extended all of their current offers until June 4th",
+        "url": "https://www.threads.com/@chrishilbe/post/DY03e0NjmmH/",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "Rivian extended all current offers through June 4, supporting end-of-month conversions ahead of the R2 launch.",
+        "themes": [
+          "R2 launch",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Can't say I'm sad for the lot. They caved to the polluter king. I'm buying a Rivian.",
+        "url": "https://bsky.app/profile/did:plc:hza5qbmpnf5qtqfizhung2r6/",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T01:27:12Z",
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet": "Bluesky user reports switching from Ford Mach E to Rivian, citing Ford CEO caving to oil interests as motivation — Rivian winning brand-loyal EV converts.",
+        "themes": [
+          "Ford Lightning",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Rivian pays their bills. Tesla doesn't. Don't ask how I know.",
+        "url": "https://bsky.app/profile/did:plc:yebesvzbp2bvhbntzykismm5/",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T01:22:32Z",
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet": "Bluesky user strongly prefers Rivian over Tesla, referencing financial reliability and supplier payment record as differentiators.",
+        "themes": [
+          "brand sentiment",
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "Story: Introducing Rivian Assistant & Rivian Unified Intelligence. Unlock hands-free utility with Connect+",
+        "url": "https://www.rivianforums.com/forum/threads/story-introducing-rivian-assistant-rivian-unified-intelligence-unlock-hands-free-utility-with-connect.58997/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "snippet": "RivianForums admin announces Rivian Assistant and Unified Intelligence — new hands-free utility and Connect+ tier detailing the AI assistant roadmap.",
+        "themes": [
+          "Autonomy+",
+          "Connect+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Rivian Autonomy+ vs Subaru Eyesight",
+        "url": "https://www.rivianforums.com/forum/threads/rivian-autonomy-vs-subaru-eyesight.58852/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "snippet": "Owner benchmarked Rivian Autonomy+ against Subaru Eyesight — worth tracking as a product differentiator in ADAS comparisons.",
+        "themes": [
+          "Autonomy+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Why are my center vents always pointing the wrong direction?",
+        "url": "https://i.redd.it/hmo1dxqh5s3h1.jpeg",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T18:26:45-07:00",
+        "score": 9,
+        "category": "software",
+        "sentiment": "negative",
+        "snippet": "Owner reports center vents randomly reverse direction after sleep wake cycles — toggling vent off/on recalibrates, suggesting infotainment firmware bug.",
+        "themes": [
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "Connect +, AI and other suggestions",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tpno93/connect_ai_and_other_suggestions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T17:25:52-07:00",
+        "score": 0,
+        "category": "business",
+        "sentiment": "negative",
+        "snippet": "Owner frustrated that Connect+ subscription costs 1/3 more than Tesla's equivalent and that basic voice assistant tasks also require a subscription — pricing vs. Tesla竞争力 question raised.",
+        "themes": [
+          "Connect+",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Comma Extreme Dev Kit NOW AVAILABLE",
+        "url": "https://www.rivianforums.com/forum/threads/comma-extreme-dev-kit-now-available.59106/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "snippet": "Third-party Comma Extreme dev kit launched for Rivian — active developer ecosystem around hands-free driving and autonomy integration.",
+        "themes": [
+          "Autonomy+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Universal hands free UHF faults",
+        "url": "https://www.rivianforums.com/forum/threads/universal-hands-free-uhf-faults.59190/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "snippet": "Owner reports universal hands-free (UHF) faults — real-worldAutonomy+ reliability concern surfacing in the owner community.",
+        "themes": [
+          "Autonomy+",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Rivian R2s weigh 4850 to 5016 lbs. They cost $45k to $58k.",
+        "url": "https://bsky.app/profile/did:plc:lmjcioo3d7z4zq7bngozxape/post/3mmurz7tbck2f",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T00:41:50Z",
+        "score": 1,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "snippet": "Bluesky user critiques R2 weight-to-price ratio, comparing to Toyota Sequoia/BMW X5 — frames as heavy with premium pricing, potential brand risk.",
+        "themes": [
+          "R2 launch",
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "Rivian Seeks Lead to Build European Sales, Delivery, and Service Network | EV",
+        "url": "https://eletric-vehicles.com/rivian/rivian-seeks-lead-to-build-european-sales-delivery-and-service-network",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "Rivian is actively hiring to build out its European sales, delivery, and service network — scaling internationally beyond the VW partnership scope.",
+        "themes": [
+          "VW partnership",
+          "R2 delivery"
+        ]
+      },
+      {
+        "title": "I love the vehicles I bought stock at the IPO and got burned. Don't see them becoming profitable.",
+        "url": "https://bsky.app/profile/did:plc:ud3ivj6exn5filatva7gjd2y/",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T00:33:28Z",
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "negative",
+        "snippet": "Bluesky user critical of Rivian's path to profitability, citing VW loan, executive pay, and policy headwinds — reminds that some retail investors remain deeply underwater on IPO.",
+        "themes": [
+          "RIVN stock",
+          "VW partnership"
         ]
       }
     ]
