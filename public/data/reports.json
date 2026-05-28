@@ -1,254 +1,5 @@
 [
   {
-    "id": "2026-05-22T14:00:00.000Z",
-    "timestamp": "2026-05-22T14:00:00.000Z",
-    "sentiment": {
-      "positive": 50,
-      "neutral": 17,
-      "negative": 33
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 3,
-        "sentiment": "negative"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "news": {
-        "found": 4,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "vehicles": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 2,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 4,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "Autonomy+",
-      "Cybertruck news",
-      "FSD update",
-      "Hey Rivian",
-      "OTA update",
-      "R1S review",
-      "R2 launch",
-      "RIVN stock",
-      "Tesla pricing",
-      "brand sentiment",
-      "fleet/EDV",
-      "infotainment bug",
-      "regulatory news"
-    ],
-    "competitiveContext": "Tesla cut Cybertruck base pricing to $59,990 AWD (down $20K from the previous $79,990 Premium entry point), placing it below R1T's ~$69,900 starting price for the first time — Rivian PMs must urgently decide whether to match with an R1T price cut, reframe R1T as a premium tier, or accelerate R2 buyer migration into the sub-$60K bracket. The Cybertruck simultaneously took major PR damage when a Texas driver was arrested for deliberately driving into Grapevine Lake to test \"Wade Mode,\" handing Rivian a clean narrative advantage in authentic off-road credibility. Tesla's FSD expansion into Lithuania (May 20) and an incomplete Terafab AI compute deal (per SpaceX S-1 filing) signal both accelerating ADAS competition internationally and potential compute bottlenecks in Tesla's autonomy training pipeline.",
-    "summary": "High-urgency competitive cycle: Tesla slashed Cybertruck base pricing to $59,990 — directly undercutting R1T's ~$69,900 for the first time — while a viral Cybertruck \"Wade Mode\" arrest story handed Rivian a brand credibility gift. On the Rivian side, R2 first delivery is confirmed for June 1 (with 20-25K units targeted in 2026), the Uber CEO is publicly discussing the $1.25B robotaxi deal on podcast, and Rivian clarified the hybrid on-vehicle/cloud AI architecture behind its assistant. Software quality remains a watch item: a safety-relevant infotainment freeze at 75mph and a widespread messaging bug (with community PSA) continue the pattern of 2026.15 OTA regressions.",
-    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Friday, May 22, 2026 — 7:00 AM PT — 12 signals · 5 categories_\n\n*🎯 SITREP*\n• Tesla cuts Cybertruck base $20K to $59,990 AWD — now CHEAPER than R1T (~$69,900) for first time; urgent Rivian pricing decision\n• Cybertruck owner arrested for lake \"Wade Mode\" stunt — viral brand damage, Rivian adventure narrative window wide open\n• R2 first delivery confirmed June 1 + Uber CEO publicly pitching Rivian robotaxi deal on podcast\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Tesla (Cybertruck pricing)*: New $59,990 base AWD model — same 325-mile range as old $79,990 Premium, cuts air suspension. Cyberbeast also drops $15K to $99,990. First time Cybertruck base undercuts R1T MSRP. Rivian needs a response — price cut, premium reframe, or accelerate R2 buyer migration.\n  https://insideevs.com/news/787859/tesla-cybertruck-price-cut-2026\n• *Tesla (Cybertruck PR)*: Owner arrested May 21 after deliberately driving his Cybertruck into Grapevine Lake, TX to test \"Wade Mode.\" Vehicle disabled, took on water, driver jailed on park/water safety charges. Viral across BBC, Automotive News — priceless opening for Rivian's authentic off-road credibility narrative.\n  https://www.bbc.com/news/articles/c072x1kml44o\n• *Tesla (FSD)*: FSD Supervised launches in Lithuania — second European country after initial EU rollout (May 20). International ADAS expansion accelerating; Rivian has no comparable international autonomy roadmap publicly announced.\n  https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/\n• *Tesla (AI compute)*: SpaceX S-1 IPO filing reveals Tesla's Terafab AI compute deal is \"far from done\" — raises questions about training compute capacity for FSD at scale, potentially bottlenecking Tesla's autonomy iteration speed.\n  https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🤖 Autonomy (1)*\n• Rivian clarifies AI architecture: Assistant uses hybrid on-vehicle + cloud AI (not a single local model) via Rivian Unified Intelligence — optimized for latency-sensitive vehicle control locally plus cloud cognition for complex queries\n  https://x.com/Rivian/status/2054617871330791629\n\n*🚗 Vehicles (3)*\n• R2 first delivery confirmed June 1 — RivianForums thread confirms a member receiving their R2 on June 1; 20-25K R2 deliveries targeted for full 2026 (total 62-67K vehicles)\n  https://www.rivianforums.com/forum/threads/any-shot-at-r2-delivery-by-july.58417/page-2\n• @Rivian R2 launch campaign active: \"Wherever your day takes you, R2 is ready\" (462 likes, 27 replies) — building pre-delivery momentum\n  https://x.com/Rivian/status/2048871737799098879\n• R1S Gen 2 pet cam gap: R2 confirmed to have RGB interior camera enabling pet cam; R1S Gen 2 only has grayscale driver-attention camera — feature gap frustrating Gen 2 owners, fuels Gen 3 speculation\n  https://www.reddit.com/r/Rivian/comments/1tkgnuk/why_cant_r1s_gen_2_get_pet_cam/\n\n*💰 Business (2)*\n• Uber CEO Khosrowshahi discusses Rivian's R2 robotaxi platform and AI/autonomy team on The Verge podcast — external validation of Rivian's $1.25B robotaxi deal (50K vehicles through 2031) ahead of R2 launch\n  https://x.com/rivian_forums\n• RIVN at $14.11 (May 22): 5/29/26 13.0P @ 0.16, downtrend persists, Hold consensus, PT $16.3-$20 — stock still pinned in $13-14 range; R2 deliveries starting June 1 are the catalyst\n  https://www.reddit.com/r/ChartNavigators/comments/1tk2ndr/what_plays_are_you_looking_into_for_tomorrow/\n\n*📱 Software (2)*\n• Safety-relevant: 2023 R1T owner reports infotainment screens freeze for 15 seconds at 75mph after 2026.15 OTA — regen monitor showed wrong state while owner was actively braking; accelerator/brake worked but screens dead\n  https://www.reddit.com/r/Rivian/comments/1tk96zr/software_glitches_at_75mph/\n• Community PSA for widespread Hey Rivian messaging bug: fix is toggling \"Share messaging notifications\" under Bluetooth > RIVIAN AUDIO settings — 46-upvote post suggests very common issue post-2026.15\n  https://www.reddit.com/r/Rivian/comments/1tk5lsw/psa_for_everyone_posting_about_messages_not_working/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Cybertruck at $59,990 vs R1T at ~$69,900: define Rivian's pricing response before R2 launch creates mixed signals on brand tier\n• 2026.15 OTA quality pattern: 4 distinct bugs in 1 week (phonebook, crash, messages, highway freeze) — needs a 2026.16 quality-fix OTA ASAP\n• R2 launch readiness: June 1 T-minus 10 days — service network, first-batch defect rate, and initial owner NPS will define the R2 narrative for months\n\n_Competitive threat: 🔴 HIGH — Cybertruck price cut directly undercuts R1T segment; Tesla FSD expanding internationally_\n_Dashboard: https://watchgamefilm.vercel.app_",
-    "items": [
-      {
-        "title": "Software glitches at 75mph?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tk96zr/software_glitches_at_75mph/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-22",
-        "snippet": "2023 R1T owner reports infotainment screens freezing for ~15 seconds at highway speed after installing 2026.15 OTA. Screens stopped updating, regen monitor showed acceleration while owner was braking. Accelerator/brake functional throughout but screens went dark — safety-relevant regression that needs monitoring in the 2026.15 fleet rollout.",
-        "themes": [
-          "infotainment bug",
-          "OTA update"
-        ]
-      },
-      {
-        "title": "PSA FOR EVERYONE POSTING ABOUT MESSAGES NOT WORKING",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tk5lsw/psa_for_everyone_posting_about_messages_not_working/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-22",
-        "snippet": "Community PSA (46 upvotes) documents the fix for the widespread Hey Rivian messaging bug post-2026.15: enable \"Share messaging notifications\" toggle under Bluetooth > RIVIAN AUDIO. Volume of identical posts confirms this is hitting a large share of the 2026.15 install base — should be addressed in official Rivian support docs.",
-        "themes": [
-          "Hey Rivian",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "Why can't R1S Gen 2 get pet cam?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tkgnuk/why_cant_r1s_gen_2_get_pet_cam/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-22",
-        "snippet": "R1S Gen 2 owner asks why the R2 will have pet cam but the R1S Gen 2 does not. Root cause: R2 uses an RGB interior camera while R1S Gen 2 uses a grayscale driver-attention camera. Highlights growing feature gap between R1 and R2 as R2 launch nears — may feed Gen 2 disappointment and Gen 3 speculation.",
-        "themes": [
-          "R1S review",
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Any shot at R2 delivery by July? — first delivery confirmed June 1",
-        "url": "https://www.rivianforums.com/forum/threads/any-shot-at-r2-delivery-by-july.58417/page-2",
-        "source": "rivianforums",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-22",
-        "snippet": "RivianForums thread confirms a member is receiving their R2 delivery on June 1, 2026. Background: Rivian targets 20-25K R2 deliveries in 2026 (out of 62-67K total vehicles). First confirmed delivery date validates the spring launch timeline and sets clear expectations for reservation holders.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "@Rivian: Wherever your day takes you, R2 is ready to get you there",
-        "url": "https://x.com/Rivian/status/2048871737799098879",
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Official Rivian R2 promotional post generating strong engagement (462 likes, 27 replies) as the first delivery date approaches. Part of a social campaign building pre-delivery momentum and framing R2 as the everyday adventure vehicle ahead of the June launch.",
-        "themes": [
-          "R2 launch",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "@Rivian: Rivian Assistant powered by Rivian Unified Intelligence — on-vehicle + cloud AI mix",
-        "url": "https://x.com/Rivian/status/2054617871330791629",
-        "source": "twitter",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Rivian officially disclosed the AI architecture behind the Rivian Assistant: it uses a hybrid of on-vehicle processing and cloud AI, not a single local model. This means vehicle-control commands run locally for low latency while complex reasoning offloads to the cloud — a meaningful technical differentiator vs Tesla's primarily cloud-dependent approach.",
-        "themes": [
-          "Hey Rivian",
-          "Autonomy+"
-        ]
-      },
-      {
-        "title": "Uber CEO Khosrowshahi discusses Rivian R2 robotaxi deal on The Verge podcast",
-        "url": "https://x.com/rivian_forums",
-        "source": "twitter",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Uber CEO Dara Khosrowshahi appeared on The Verge podcast to discuss Uber's .25B investment in Rivian and the R2 robotaxi roadmap. The deal targets deployment of up to 50,000 R2-based robotaxis across 25 cities through 2031, with an initial M investment. External CEO validation ahead of R2 launch reinforces institutional confidence in Rivian's autonomy platform.",
-        "themes": [
-          "fleet/EDV",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "RIVN at .11 — 5/29/26 13.0P @ 0.16, downtrend continues, Hold consensus",
-        "url": "https://www.reddit.com/r/ChartNavigators/comments/1tk2ndr/what_plays_are_you_looking_into_for_tomorrow/",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-22",
-        "snippet": "Friday May 22 options analysis: RIVN listed as downtrending at -14, with 5/29/26 13.0P at /bin/zsh.16 active. Analyst consensus: Hold. Price target range .3-. Stock stuck below catalyst threshold despite R2 launch imminent — R2 first delivery June 1 and Uber CEO media tour are the near-term narrative drivers needed to shift price action.",
-        "themes": [
-          "RIVN stock"
-        ]
-      },
-      {
-        "title": "Tesla Cybertruck owner jailed after \"Wade Mode\" demo flops in Texas lake",
-        "url": "https://www.bbc.com/news/articles/c072x1kml44o",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-21",
-        "snippet": "A Texas driver was arrested May 21 after deliberately driving his Cybertruck into Grapevine Lake to test the vehicle's \"Wade Mode\" feature. The vehicle took on water, was disabled, and had to be rescued by fire department divers. Driver charged with operating a vehicle in a closed park/lake section. Viral coverage across BBC and automotive press — significant brand damage for Cybertruck's off-road credibility.",
-        "themes": [
-          "Cybertruck news"
-        ]
-      },
-      {
-        "title": "Tesla slashes Cybertruck base price to ,990 — K cheaper with same performance and range",
-        "url": "https://insideevs.com/news/787859/tesla-cybertruck-price-cut-2026",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": null,
-        "snippet": "Tesla launched a new ,990 Cybertruck Dual Motor AWD base model — same 325-mile range and performance as the old ,990 Premium, losing air suspension, 9.4\" rear screen, and seat ventilation. Cyberbeast also reverses its K 2025 price hike to ,990. For the first time, Cybertruck base undercuts R1T's ~,900 starting MSRP, creating direct pricing pressure that Rivian must address.",
-        "themes": [
-          "Cybertruck news",
-          "Tesla pricing"
-        ]
-      },
-      {
-        "title": "Tesla launches FSD Supervised in Lithuania — second European country",
-        "url": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-20",
-        "snippet": "Tesla's FSD (Supervised) driver assistance software is now rolling out in Lithuania, making it the second European market to receive the feature. Despite EU regulatory skepticism earlier in May, Tesla is moving forward with international ADAS expansion. Rivian has not announced comparable international autonomy plans, making Tesla's global ADAS footprint a growing competitive gap to watch.",
-        "themes": [
-          "FSD update",
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "SpaceX S-1 reveals Tesla's Terafab AI compute deal is far from complete",
-        "url": "https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-20",
-        "snippet": "SpaceX's S-1 IPO filing with the SEC reveals that Tesla's Terafab AI compute partnership is not yet finalized, despite prior confident announcements. This raises questions about Tesla's training compute capacity for FSD at scale. Potential bottleneck in Tesla's AI/autonomy pipeline could slow its iteration cadence — a relative window for Rivian's Unified Intelligence platform.",
-        "themes": [
-          "FSD update"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-22T02:00:00.000Z",
     "timestamp": "2026-05-22T02:00:00.000Z",
     "sentiment": {
@@ -8234,6 +7985,400 @@
         "themes": [
           "R2 launch"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-28T18:00:00.000Z",
+    "timestamp": "2026-05-28T18:00:00.000Z",
+    "sentiment": {
+      "positive": 41,
+      "neutral": 36,
+      "negative": 23
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 3,
+        "sentiment": "mixed"
+      },
+      "twitter": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 6,
+        "sentiment": "mixed"
+      },
+      "business": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": "mixed"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "VW partnership",
+      "Waymo move",
+      "Aurora update",
+      "Hey Rivian",
+      "Driver+",
+      "recall alert",
+      "RIVN stock",
+      "Tesla pricing",
+      "Cybertruck news",
+      "Ford Lightning",
+      "Scout Motors"
+    ],
+    "competitiveContext": "Waymo is deploying a Zeekr-built robotaxi fleet — a manufacturing milestone suggesting scale-up beyond trials, directly competitive with Tesla FSD narrative. Slate Auto taking orders for a $25K EV on June 24 represents a potential low-cost rival in a segment Rivian hasn't addressed; though not a direct R2 competitor, it could pull future EV consideration. Meanwhile Rivian's own R2 launch on June 9 and widening VW partnership signal that Rivian's software-defined vehicle approach is gaining institutional traction despite operational headwinds.",
+    "summary": "R2 launch momentum is the dominant story — deliveries June 9 confirmed across multiple channels and the Inc. feature adds legitimacy. The NHTSA rear-suspension investigation on R1 models is the chief risk signal, potentially casting a shadow over R2's launch week if unresolved. Bensaid's software-defined-vehicle interview on AI continues to reinforce Rivian's tech-forward positioning.",
+    "fullReport": "22 signals across news, Twitter and Bluesky (Reddit blocked). Top Rivian move: R2 confirmed for June 9 deliveries and order invites/public test drives opening simultaneously. Top competitor move: Waymo deploying Zeekr-built robotaxis for public ride-hail, a manufacturing-scale milestone. Important risk: NHTSA has opened a formal investigation into rear suspension failures on R1T and R1S — owners are already citing the issue on social media. VW partnership talks reportedly widening beyond the initial JV scope.",
+    "items": [
+      {
+        "title": "Slate Auto will start taking orders for its low-cost EV on June 24 - TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
+        "source": "news",
+        "publishedAt": "Thu, 28 May 2026 15:34:10 GMT",
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Tesla pricing"
+        ],
+        "snippet": "Slate Auto will begin taking orders for its $25K EV on June 24, positioning itself as an ultra-budget entry point into EVs — a segment Rivian has not addressed and may cannibalize future entry-level consideration."
+      },
+      {
+        "title": "Waymo to Deploy Robotaxi Built With Zeekr to Expand Public Rides - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/waymo-to-deploy-robotaxi-built-with-zeekr-to-expand-public-rides",
+        "source": "news",
+        "publishedAt": "Thu, 28 May 2026 15:00:00 GMT",
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Waymo move"
+        ],
+        "snippet": "Waymo is deploying a Zeekr-manufactured robotaxi for public ride-hail, a scale-manufacturing milestone that pits Waymo's managed service against Tesla's FSD approach head-to-head in the autonomy race."
+      },
+      {
+        "title": "Rivian under investigation over rear suspension failures on R1 models - TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+        "source": "news",
+        "publishedAt": "Thu, 28 May 2026 14:41:56 GMT",
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "recall alert"
+        ],
+        "snippet": "NHTSA has opened a preliminary investigation into R1T and R1S rear suspension failures — a safety issue that could require a recall and could affect brand perception as R2 deliveries begin June 9."
+      },
+      {
+        "title": "Nice write up in Inc as we are launching R2! Full article in bio",
+        "url": "https://www.threads.com/@bobby/post/DY3Jb2emQup",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ],
+        "snippet": "Rivian shared an Inc. magazine feature highlighting the R2 launch, lending mainstream business-press legitimacy to the upcoming June 9 delivery event."
+      },
+      {
+        "title": "Rivian will deliver the first R2 SUVs on June 9",
+        "url": "https://www.threads.com/@telestraw_/post/DY26_f0AeQJ/rivian-will-deliver-the-first-r-su-vs-on-june",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ],
+        "snippet": "Rivian confirmed first R2 deliveries are scheduled for June 9, with order invites and public test drives also opening that day — the commercial launch is fully underway."
+      },
+      {
+        "title": "Rivian has released screen protectors on the Gear Ship for R1T and R1S",
+        "url": "https://www.threads.com/@riviantrackr/post/DY2_D30FO42/rivian-has-released-screen-protectors-on-the-gear-ship-for-r-t-and-r-s-they",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience"
+        ],
+        "snippet": "Rivian released official screen protectors for R1T and R1S via the Gear Shop — a small but meaningful accessories expansion that signals continued attention to the existing R1 owner base ahead of R2 deliveries."
+      },
+      {
+        "title": "Rivian will deliver the electric R2 starting June 9th, but you'll need to snag an invite",
+        "url": "https://www.threads.com/@tdsci_official/post/DY3zOJzEbAW/rivian-will-deliver-the-electric-r-starting-june-th-but-youll-to-need-snag-an",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ],
+        "snippet": "Confirms R2 delivery process requires an order invite — suggests phased rollout rather than wide-open availability at launch."
+      },
+      {
+        "title": "U.S. News and World Report Best Adventure Vehicle for 2026",
+        "url": "https://www.facebook.com/usnewsandworldreport/posts/its-official-us-news-world-report-has-announced-its-first-ever-2026-best-adventu/1386228406706208",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "brand sentiment"
+        ],
+        "snippet": "An R1T or R1S earned U.S. News & World Report's first-ever Best Adventure Vehicle award for 2026, providing a third-party validation signal for R1's capability positioning."
+      },
+      {
+        "title": "Me too - Threads",
+        "url": "https://www.threads.com/@riviantrackr/post/DY2_FoKFKaT/me-too",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "owner experience"
+        ],
+        "snippet": "RivianTrackr amplifying owner sentiment on Threads — low signal but continues community engagement pattern typical of the brand."
+      },
+      {
+        "title": "Rivian R2 reservation update for non-owners - Facebook",
+        "url": "https://www.facebook.com/groups/874936780768370/posts/1483336573261718",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ],
+        "snippet": "A Facebook group post provides R2 reservation update for non-owner accounts — demand signal persists among new-to-Rivian customers ahead of June 9 deliveries."
+      },
+      {
+        "title": "Rivian's chief software officer Wassym Bensaid says the rise of AI makes vehicle software a different game",
+        "url": "https://www.instagram.com/p/DY4zi9lID0A",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Hey Rivian",
+          "Driver+"
+        ],
+        "snippet": "CSO Wassym Bensaid's Instagram post on AI and software-defined vehicles continues his thought-leadership push ahead of R2's launch — framing Rivian's software architecture as a durable competitive moat."
+      },
+      {
+        "title": "2 EV Stocks That Could Win Big Targeting the $10 Trillion Global Robotaxi Market - Motley Fool",
+        "url": "https://www.fool.com/investing/2026/05/28/2-ev-stocks-could-win-big-targeting-the-robotaxi",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN stock",
+          "Waymo move"
+        ],
+        "snippet": "Motley Fool analysis positions Rivian as one of two EV stocks with robotaxi upside, reinforcing investor narrative around Rivian's software-defined architecture as a long-term monetization vector."
+      },
+      {
+        "title": "Bluesky: Do these executives even know what they're talking about? Brain of mashed potatoes",
+        "url": "https://bsky.app/profile/did:plc:htqx4yapholzp65wymwh2xuy/post/3mmwlvlj3me2p",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:57:44.872Z",
+        "score": 1,
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Hey Rivian"
+        ],
+        "snippet": "Critical commentary on Rivian executive AV claims circulating on Bluesky implying skepticism about AI readiness — negative sentiment but limited reach (score: 1)."
+      },
+      {
+        "title": "Bluesky: Rivian Forest Edge limited edition interior package",
+        "url": "https://bsky.app/profile/did:plc:emamew5nsip5axfh33o4sjy7/post/3mmwlbha22524",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:47:00.576Z",
+        "score": 2,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "R1S review"
+        ],
+        "snippet": "Rivian introduced a Forest Edge limited-edition interior with a $9K package including exterior paint options, 22\" wheels, and Sound+Vision Package — targeting customization enthusiasts on the R1 Dual-motor AWD Max battery platform."
+      },
+      {
+        "title": "Bluesky: Rivian and Volkswagen Group Announce Plans for Joint Venture",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mmwl7c2z6y26",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:45:16.372Z",
+        "score": 0,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "VW partnership"
+        ],
+        "snippet": "Bluesky posts highlight the Rivian-VW Group joint venture announcements, signaling growing awareness of the partnership's significance for Rivian's software export strategy."
+      },
+      {
+        "title": "Bluesky: This is huge. Rivian has really worked to build a next generation of interface",
+        "url": "https://bsky.app/profile/did:plc:2hrwikobbjy5qjdyizmmvfg4/post/3mmwl45agns22",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:43:31.181Z",
+        "score": 0,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Hey Rivian",
+          "Driver+"
+        ],
+        "snippet": "Positive user quote praising Rivian's interface design for the R2 as a software-defined-vehicle milestone — unsolicited owner sentiment reinforcing software as a differentiator."
+      },
+      {
+        "title": "Bluesky: Tesla Model Y Competitor, the Rivian R2 Launches on June 9th",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mmwkwiy2sh2t",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:40:23.176Z",
+        "score": 1,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing"
+        ],
+        "snippet": "EV Shift coverage explicitly framing the R2 as a Tesla Model Y competitor ahead of its June 9 launch — R2 is being positioned in the market as a direct alternative to Tesla's volume leader."
+      },
+      {
+        "title": "Bluesky: Rivian setting June 9 as first R2 delivery date, order invites and test drives same day",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mmwkvanul62y",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:39:39.278Z",
+        "score": 1,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ],
+        "snippet": "Quartz Media amplifies the June 9 R2 delivery confirmation alongside simultaneous order invites and public test drives — mainstream finance media reinforcing launch legitimacy."
+      },
+      {
+        "title": "Bluesky: Great interview with Rivian CSO Wassym Bensaid on R2 as software-defined vehicle",
+        "url": "https://bsky.app/profile/did:plc:2hrwikobbjy5qjdyizmmvfg4/post/3mmwklapavc22",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:34:06.474Z",
+        "score": 1,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Hey Rivian",
+          "Driver+"
+        ],
+        "snippet": "Bluesky post shares YouTube interview with CSO Bensaid on R2's software-defined architecture and coming AI/automotive advances — another data point in the thought-leadership push around Rivian's software moat."
+      },
+      {
+        "title": "Bluesky: Rivian in talks with Volkswagen Group to widen tech partnership",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mmwjjo5ms22w",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:15:17.680Z",
+        "score": 1,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "VW partnership"
+        ],
+        "snippet": "Rivian is reportedly in talks to widen its VW partnership beyond the initial JV scope, potentially bringing more Rivian software technology into VW Group vehicles — a strategic expansion signal."
+      },
+      {
+        "title": "Bluesky: I guess I will never own a Rivian then. Their reasons why they won't offer it never make sense",
+        "url": "https://bsky.app/profile/did:plc:ib56bfp6mojnwkcbkmdtxoew/post/3mmwjdr3wa22s",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:12:00.973Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "owner experience",
+          "Hey Rivian"
+        ],
+        "snippet": "A frustrated Bluesky user says they will never own a Rivian citing feature-decision opacity — negative owner sentiment around product choices, though low engagement (score: 0)."
+      },
+      {
+        "title": "Bluesky: NHTSA opens investigation into Rivian R1S and R1T rear suspension failures",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mmwj62o3y42y",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T17:08:48.073Z",
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "recall alert"
+        ],
+        "snippet": "Driveteslacanada on Bluesky amplifies the NHTSA investigation into R1 rear suspension failures — negative safety narrative gaining social traction ahead of what is supposed to be a celebratory R2 launch week."
       }
     ]
   }
