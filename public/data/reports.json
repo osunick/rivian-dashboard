@@ -1,211 +1,5 @@
 [
   {
-    "id": "2026-05-21T21:09:00.000Z",
-    "timestamp": "2026-05-21T21:09:00.000Z",
-    "sentiment": {
-      "positive": 22,
-      "neutral": 34,
-      "negative": 44
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 3,
-        "sentiment": "negative"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 4,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 3,
-        "sentiment": "negative"
-      },
-      "business": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "software": {
-        "found": 2,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "competitive": {
-        "found": 1,
-        "sentiment": "negative"
-      }
-    },
-    "themes": [
-      "Cybertruck news",
-      "OTA update",
-      "R1S review",
-      "R2 launch",
-      "RIVN stock",
-      "brand sentiment",
-      "infotainment bug",
-      "owner experience",
-      "recall alert",
-      "service network"
-    ],
-    "competitiveContext": "Tesla's Cybertruck takes its third major credibility hit in May 2026: a safety recall for 173 vehicles (2024-2026, base 18\" steel wheels) over wheel stud separation risk, traced to an OEM change management error in August 2025 production. This follows the viral lake wade-mode arrest (May 19-20) and Q1 US sales of only 3,519 units — collectively a structural narrative opening for Rivian's R1T and R2 adventure positioning that Rivian PMs should capitalize on immediately. Tesla also ended one-time FSD purchases in Europe effective May 21, making Rivian's included Driver+ an increasingly concrete differentiator for any EU market entry strategy.",
-    "summary": "A moderate cycle with 9 fresh signals. The Cybertruck recall (wheel stud separation, 173 vehicles) adds to the truck's May credibility pile-up — creating Rivian's best narrative window in months for direct quality and capability comparisons. On the Rivian side, R2 configuration invites slipping to June compresses the 'spring deliveries' window and requires proactive customer communication. RIVN retail buzz jumped +19.1 (7-day positive momentum). Quality watch: Connect+ degrading post-2026.15 OTA (possible bandwidth conflict with cloud AI stack), South NJ with zero service coverage, and R1S Gen 1 turtle mode at 45K miles.",
-    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Thursday, May 21, 2026 — 2:09 PM PT — 9 signals · 5 categories_\n\n*🎯 SITREP*\n• Cybertruck's 3rd May blow: wheel stud recall (173 vehicles) + lake incident + 3,519 Q1 units — adventure truck narrative window is wide open for Rivian\n• R2 config invites shift to June — spring delivery window compressing; reservation attrition risk needs proactive comms\n• Connect+ degrading post-2026.15 OTA, NJ service gap flagged, R1S turtle mode at 45K mi — quality cluster ahead of R2 ramp\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Tesla (Cybertruck)*: Recall issued for 173 Cybertrucks (2024–2026, base 18\" steel wheels) over wheel stud separation risk — root cause traced to an OEM change management error in August 2025 production. Third major Cybertruck credibility blow this month: lake incident (May 19-20), Q1 sales just 3,519 units, now a safety recall. Rivian's R1T quality story has never looked better by contrast.\n  https://www.indexbox.io/blog/tesla-recalls-cybertrucks-over-wheel-detachment-risk/\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🚗 Vehicles (3)*\n• R2 configuration invites won't open until June — CFO confirmation compresses the 'spring delivery' promise; buyers in back-of-queue asking urgent delivery timeline questions\n  https://eletric-vehicles.com/rivian/rivian-r2-orders-wont-open-until-june-narrowing-window-for-first-half-deliveries\n• R2 interior design was CEO's call: no physical A/C buttons — RJ Scaringe overruled engineers for screen-heavy UX; real-world owner reactions start with first deliveries this summer\n  https://theevreport.com/rivian-r2s-screen-heavy-interior-was-a-top-down-ceo-decision\n• R1S Gen 1 turtle mode at 45K miles: 12V, system fault, and AWD warnings firing simultaneously — cascading battery failure pattern emerging in higher-mileage Gen 1 fleet\n  https://www.reddit.com/r/Rivian/comments/1tjx27y/12v_system_fault_awd/\n\n*💰 Business (2)*\n• RIVN +19.1 seven-day retail buzz with positive momentum — significant rebound heading into June R2 configuration invites; retail sentiment building a floor\n  https://www.reddit.com/r/RetailStockSignals/comments/1tjt0fb/daily_retail_stock_signals_may_21_2026_nvda_leads/\n• Electrek questions Rivian's billion-dollar e-bike brand: is it strategic diversification or capital distraction during critical R2 ramp?\n  https://electrek.co/2026/04/28/the-uncomfortable-reality-behind-rivians-new-billion-dollar-e-bike-brand/\n\n*📱 Software (2)*\n• Connect+ degraded since 2026.15 OTA — streaming fails to load, hotspot crawls, Rivian Assistant shows offline; possible bandwidth conflict between cloud AI stack and cellular\n  https://www.reddit.com/r/Rivian/comments/1tjwchn/connect_issues_r1s_gen_1/\n• Rivian app 3.11.0: swipe navigation between vehicles, chargers, and features — UX quality-of-life win as R2 onboarding begins for a new wave of owners\n  https://x.com/EVguyZach\n\n*🌐 Community (1)*\n• South NJ entirely unserved by Rivian service centers — Cherry Hill/Philadelphia metro is a major car-buying market with zero Rivian coverage; Tesla is building a new showroom there\n  https://www.reddit.com/r/Rivian/comments/1tjx9aa/nj_service_centers/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Cybertruck triple-blow in May: capitalize NOW with direct R1T/R2 vs Cybertruck quality comparison before the news cycle fades\n• R2 June config vs 'spring delivery' promise: draft transparent customer update to prevent reservation attrition in back-of-queue\n• Connect+ OTA bandwidth regression: if cloud AI is throttling connectivity, this is an architectural fix needed before R2 scale\n\n_Competitive threat: 🟠 ELEVATED — Cybertruck implosion creates short-term opening; Tesla FSD narrative + Cybercab scaling remain long-horizon threat_\n_Dashboard: https://watchgamefilm.vercel.app_",
-    "items": [
-      {
-        "title": "Tesla recalls 173 Cybertrucks over wheel stud separation risk",
-        "url": "https://www.indexbox.io/blog/tesla-recalls-cybertrucks-over-wheel-detachment-risk/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-10",
-        "snippet": "Tesla issued a recall for 173 Cybertrucks (2024-2026, base 18-inch steel wheels) after wheel studs were found capable of separating from the hub due to cracked brake rotors. Root cause: a change management error meant planned durability improvements were not incorporated when production started August 28, 2025. Combined with the viral lake wade-mode arrest and Q1 sales of only 3,519 units, this is Cybertruck's third major credibility blow in May 2026.",
-        "themes": [
-          "recall alert",
-          "Cybertruck news"
-        ]
-      },
-      {
-        "title": "Rivian R2 Orders Won't Open Until June, Narrowing Window for First-Half Deliveries",
-        "url": "https://eletric-vehicles.com/rivian/rivian-r2-orders-wont-open-until-june-narrowing-window-for-first-half-deliveries",
-        "source": "news",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Configuration invitations for R2 reservation holders will not roll out until June 2026, per CFO Claire McDonough, compressing the first-half delivery window significantly. With production underway at Normal, IL since April 22 and 20,000-25,000 R2 deliveries targeted for 2026, Rivian PMs must prepare transparent customer communication about the gap between the original 'spring deliveries' promise and actual order/delivery timelines.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian R2 won't have physical A/C buttons — CEO RJ Scaringe's deliberate screen-heavy choice",
-        "url": "https://theevreport.com/rivian-r2s-screen-heavy-interior-was-a-top-down-ceo-decision",
-        "source": "news",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "publishedAt": "2026-04-22",
-        "snippet": "RJ Scaringe personally overruled engineers who wanted physical climate controls in the R2, opting for a fully screen-integrated UX consistent with Rivian's software-forward brand identity. The decision trades tactile familiarity for design coherence and will face real-world validation with first deliveries. Early owner reactions at block parties have been mixed on the interior approach vs. the R1's buttons.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "R1S Gen 1 turtle mode: 12V, system fault, and AWD warnings at 45K miles",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjx27y/12v_system_fault_awd/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-21",
-        "snippet": "R1S Gen 1 owner (45K miles) reports vehicle entering turtle mode with simultaneous 12V, system fault, and AWD failure warnings. Community suspects cascading 12V battery failure affecting auxiliary systems — a recurring pattern among higher-mileage Gen 1 vehicles. A leading indicator of wear patterns that Rivian must proactively address as R2 owners begin to experience year 3-4 ownership.",
-        "themes": [
-          "R1S review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Rivian's new 'billion-dollar' e-bike brand — the uncomfortable reality behind the valuation",
-        "url": "https://electrek.co/2026/04/28/the-uncomfortable-reality-behind-rivians-new-billion-dollar-e-bike-brand/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "publishedAt": "2026-04-28",
-        "snippet": "Electrek takes a skeptical look at Rivian's e-bike spinoff reportedly carrying a billion-dollar valuation, questioning the capital allocation rationale during a critical R2 ramp period. The piece raises whether the venture signals strategic diversification confidence or distraction from core vehicle execution at a pivotal moment in the company's history.",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "RIVN +19.1 seven-day buzz with positive momentum — May 21, 2026 retail signals",
-        "url": "https://www.reddit.com/r/RetailStockSignals/comments/1tjt0fb/daily_retail_stock_signals_may_21_2026_nvda_leads/",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-21",
-        "snippet": "Daily retail sentiment tracker shows RIVN with a +19.1 seven-day buzz increase and positive momentum on May 21 — ranked among the top 7-day movers. This is a significant rebound from prior weeks' technical downtrend and follows the Director insider buy and improving product narrative. Positive retail sentiment heading into June configuration invites could help support the stock floor.",
-        "themes": [
-          "RIVN stock"
-        ]
-      },
-      {
-        "title": "NJ Service Centers: South Jersey has no Rivian service coverage — gap ahead of R2 ramp",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjx9aa/nj_service_centers/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-21",
-        "snippet": "Owner maps South Jersey as effectively unserved — King of Prussia PA is 2 hours in traffic, Trenton equally far. The Cherry Hill/Philadelphia metro is one of the densest car-buying markets on the East Coast, and the owner notes Tesla is actively building a larger showroom there. This is a concrete service coverage gap that Rivian must address before R2 delivery volume arrives in the region.",
-        "themes": [
-          "owner experience",
-          "service network"
-        ]
-      },
-      {
-        "title": "Connect+ Issues post-2026.15 OTA: streaming, hotspot slowdowns, Rivian Assistant offline",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tjwchn/connect_issues_r1s_gen_1/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-21",
-        "snippet": "R1S Gen 1 owner reports Connect+ connectivity degraded significantly since the 2026.15 OTA update that introduced Rivian Assistant — streaming services fail to load, hotspot is near-unusable, and the assistant now displays as offline. If the OTA update is throttling bandwidth to power the cloud AI stack, this is a critical architectural trade-off with negative owner experience implications at scale.",
-        "themes": [
-          "OTA update",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "Rivian app 3.11.0 adds swipe navigation between vehicles, chargers, and features",
-        "url": "https://x.com/EVguyZach",
-        "source": "twitter",
-        "category": "software",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Community tracker @EVguyZach notes Rivian app update v3.11.0 adds swipe navigation between vehicle status, nearby chargers, and other Rivian features — improving the home screen UX flow. A welcome quality-of-life improvement as Rivian prepares to onboard a new wave of R2 customers who will primarily interact with the brand through the mobile app.",
-        "themes": [
-          "OTA update"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-21T17:45:00.000Z",
     "timestamp": "2026-05-21T17:45:00.000Z",
     "sentiment": {
@@ -8268,5 +8062,345 @@
     "summary": "Quiet cycle — 0 new items after dedup. Reddit endpoints continue returning 403; news, social, and forums sources fetched but all surfaced URLs already captured in prior reports.",
     "fullReport": "Quiet cycle — no new signals. All sources fetched cleanly (Reddit still blocked at 403) but everything was already captured in the previous run earlier today.",
     "items": []
+  },
+  {
+    "id": "2026-05-28T22:03:03Z",
+    "timestamp": "2026-05-28T22:03:03Z",
+    "sentiment": {
+      "positive": 11,
+      "neutral": 58,
+      "negative": 32
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 4,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 8,
+        "sentiment": "mixed"
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": "negative"
+      }
+    },
+    "themes": [
+      "Android Auto / CarPlay",
+      "brand sentiment",
+      "competitive",
+      "configurator update",
+      "direct-to-consumer",
+      "R2 launch",
+      "Slate Auto",
+      "software strategy",
+      "VW partnership"
+    ],
+    "competitiveContext": "Slate Auto (Jeff Bezos-backed) is moving into the entry EV segment with sub-$20k pricing and preorders opening June 24 — a new competitive threat in the affordable EV space Rivian has largely ignored. Meanwhile, high-visibility Bluesky voices (Brad Deleong, 10 likes) are publicly questioning Rivian/VW's anti-CarPlay/Android Auto walled-garden strategy as unrealistic, arguing screen-mirroring is essential. R2 launch countdown (June 9 invites) adds urgency to Rivian's execution window.",
+    "summary": "Light signal day — Reddit blocked by 403s, so Bluesky and HackerNews dominated. Top story is Rivian software chief Wassym Bensaid doubling down on refusing CarPlay, arguing native AI integration will make the debate 'completely obsolete.' The narrative is splitting: enthusiasts see vision; critics (Brad Deleong, 10+ likes) call it a walled-garden hallucination. Slate Auto is a new competitive data point entering the sub-$20k EV arena.",
+    "fullReport": "19 new signals gathered across HackerNews, Bluesky, Twitter, and news. Reddit sources blocked today (403 errors). No RivianForums items survived dedup. Top Rivian story: software chief Bensaid on Decoder explaining why CarPlay screen-mirroring conflicts with end-to-end AI-integrated UX — the debate will become 'completely obsolete.' Competitive alert: Slate Auto (Bezos-backed) will announce sub-$20k EV pricing June 24 with first deliveries late 2026. Brand sentiment under pressure on Bluesky as Deleong's anti-walled-garden thread gains traction.",
+    "items": [
+      {
+        "title": "Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete'",
+        "url": "https://www.macrumors.com/2026/05/28/rivian-software-chief-on-carplay/",
+        "source": "hackernews",
+        "publishedAt": "2026-05-28T19:35:17Z",
+        "score": 4,
+        "snippet": "Rivian software chief Wassym Bensaid said on The Verge's Decoder podcast that 'deep AI integration into the car' will make CarPlay debate 'completely obsolete.' He argued screen-mirroring solutions 'take over every single pixel' and that native end-to-end integration is superior to Android Auto/CarPlay.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Android Auto / CarPlay",
+          "software strategy"
+        ]
+      },
+      {
+        "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+        "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+        "source": "news",
+        "publishedAt": "Thu, 28 May 2026 20:29:00 GMT",
+        "score": 0,
+        "snippet": "Slate Auto (backed by Jeff Bezos and Mark Walter) will announce sub-$20k EV pricing and open non-refundable preorders on June 24, with first deliveries expected late 2026. The $7,500 federal EV tax credit that Slate was counting on was eliminated by the Trump administration.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Slate Auto",
+          "competitive",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Hard eyeroll to the max — Android Auto / Apple CarPlay",
+        "url": "https://bsky.app/profile/did:plc:zz27ueqtx4v7pm5gjavvg4hx/post/3mmwz75cp3k2y",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T21:55:46.674Z",
+        "score": 1,
+        "snippet": "User expresses frustration with Rivian's lack of Android Auto/CarPlay, reacting to Rivian's software stance with a 'hard eyeroll.'",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Android Auto / CarPlay",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Friend did the same but rivian. Didn't work. I did it with a 2008 Honda fit and it ruled tho",
+        "url": "https://bsky.app/profile/did:plc:rfyxckjtpaihga23ap2infwi/post/3mmwz357p4k2u",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T21:53:29.571Z",
+        "score": 0,
+        "snippet": "User shares anecdote that their friend's Rivian infotainment failed to do something a 2008 Honda Fit handled easily, implying poor software reliability in Rivian's system versus a much older car.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Looks like Rivian made some changes to its R1 configurator — R1 Dual Large discontinued All-Terrain, R1 Dual Max adds 20\" All-Terrain Dark, 20\" All-Terrain wheel discontinued, R1 Quad loses All-Terrain Dark",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mmwwr42pik27",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T21:12:10.376Z",
+        "score": 2,
+        "snippet": "Rivian has revised the R1 configurator: R1 Dual Large no longer offers All-Terrain wheels, R1 Dual Max gains 20\" All-Terrain Dark, the 20\" All-Terrain wheel is discontinued entirely, and R1 Quad no longer offers All-Terrain Dark. Consolidating wheel options.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "configurator update",
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "리비안 소프트웨어 전략이 자동차 인터페이스를 바꾸는 이유 (Why Rivian's software strategy changes automotive interfaces)",
+        "url": "https://bsky.app/profile/did:plc:ymnjpza4v6aj6vjtfxfvpwfg/post/3mmwvppaw7r23",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T20:53:25.173Z",
+        "score": 0,
+        "snippet": "Korean-language post referencing a piece on Rivian's software-defined vehicle strategy and how it reshapes automotive interfaces, with tags for #Rivian #SDV #AutomotiveInterface.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "software strategy"
+        ]
+      },
+      {
+        "title": "Not everyone will receive a Rivian R2 order invitation at the same time. Here's a look at who gets priority.",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mmwtufsz7x2c",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T20:20:14.873Z",
+        "score": 0,
+        "snippet": "Not all R2 reservation holders will receive order invitations simultaneously —Rivian is phasing invitations, with some buyers getting priority based on configuration and timing.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "I Think AI-Forward Car Companies Like Rivian Are Going to Get Their Clocks Cleaned",
+        "url": "https://bsky.app/profile/did:plc:fum3w4xzx34oraieuoexypw5/post/3mmwtjem4h22x",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T20:14:08.180Z",
+        "score": 1,
+        "snippet": "User shares a substack piece arguing that AI-forward car companies like Rivian are overhyped and will underperform — a negative signal on Rivian's tech-forward positioning.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Brad Deleong: Rivian/VW's anti-Android Auto anti-Apple CarPlay walled-garden dreams are 'likely hallucinations' — the $1500+ dark silicon issue",
+        "url": "https://bsky.app/profile/did:plc:ggxmdwtojxh2poo2kmjsyr4p/post/3mmwt2yha5s27",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T20:06:06.087Z",
+        "score": 10,
+        "snippet": "High-engagement thread (10 likes) from Brad Deleong calling Rivian/VW's refusal to integrate Android Auto or CarPlay a 'likely hallucination.' Argues the absence of physical buttons, reliance on software walled gardens, and $1500+ of unused chip area is economically irrational. Doubts consumers will accept it.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Android Auto / CarPlay",
+          "VW partnership",
+          "brand sentiment",
+          "software strategy"
+        ]
+      },
+      {
+        "title": "Rivian, Tesla, Lucid, Slate etc. are figuring out direct-to-consumer car sales and teaching the US public it's possible",
+        "url": "https://bsky.app/profile/did:plc:5e3t4nvx2iq3kyy5cm6kvepp/post/3mmwpq56cec2p",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T19:06:16.775Z",
+        "score": 0,
+        "snippet": "Post positions Rivian among Tesla, Lucid, and Slate as a pioneer of direct-to-consumer auto sales — a positive indicator of industry shift away from traditional dealership models.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "direct-to-consumer"
+        ]
+      },
+      {
+        "title": "Android Auto is a haphazard system and has many issues — looking forward to a well-integrated native system in the Rivian",
+        "url": "https://bsky.app/profile/did:plc:v7gngzva22rilmcp6fiypowf/post/3mmwp37lh6k2p",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T18:54:34.671Z",
+        "score": 0,
+        "snippet": "User defends Rivian's decision to exclude Android Auto, calling it a 'haphazard system' that is not native to vehicles, and expresses enthusiasm for Rivian's integrated alternative.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Android Auto / CarPlay",
+          "software strategy"
+        ]
+      },
+      {
+        "title": "A favorite for sure! — Rivian Forest Edge R1 color",
+        "url": "https://www.threads.com/@rivianofficial/post/DY4_tu7kc1b/a-favorite-for-sure",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian official posts about the Forest Edge R1 color as a community engagement piece — low-signal brand content.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "R1 review"
+        ]
+      },
+      {
+        "title": "R1 Forest Edge It's back! Design Your — rivian.com",
+        "url": "https://www.threads.com/@chrishilbe/post/DY4yrIYDtHY",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Community post noting the return of the Forest Edge color option on Rivian's R1 configurator.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "R1 Forest Edge It's back! — Rivian Forest Edge configurator",
+        "url": "https://www.threads.com/@chrishilbe/post/DY4yrIYDtHY/r-forest-edge-its-back-design-your",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Duplicate of above — same Forest Edge R1 color return to configurator, low-signal.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "Rivian R2 Arrives June 9 — Here's How Order Invitations Work",
+        "url": "https://www.threads.com/@automotivetestdrivers/post/DY4aSxCGhXV",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Third-party automotive account explaining R2 order invitation priority and June 9 timeline to followers — informative, neutral.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Quite interesting that Rivian has an entire section of the R1 Shop for ...",
+        "url": "https://www.threads.com/@chrishilbe/post/DY49MQ8lbFp",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "User notes Rivian devotes an entire shop section to R1 accessories — low-signal observation on Rivian's accessory/merchandise strategy.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "The automaker sued RJ Scaringe's Avera Automotive in 2010 ...",
+        "url": "https://x.com/therealautoblog/status/2060028392720765022",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Historical note that an automaker (contextually: presumably Amazon/Rivian-related) sued RJ Scaringe's Avera Automotive in 2010 — likely a historical footnote being recirculated. Low signal.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "2 days left: Lock in ticket savings of up to $410 to Disrupt 2026 — TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+        "source": "news",
+        "publishedAt": "Thu, 28 May 2026 14:00:00 GMT",
+        "score": 0,
+        "snippet": "TechCrunch Disrupt 2026 conference ad — not Rivian-related. Filter.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      }
+    ]
   }
 ]
