@@ -1,164 +1,5 @@
 [
   {
-    "id": "2026-05-26T14:00:16Z",
-    "timestamp": "2026-05-26T14:00:16Z",
-    "sentiment": {
-      "positive": 20,
-      "neutral": 80,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "R1S review",
-      "R1T review",
-      "owner experience",
-      "range anxiety"
-    ],
-    "competitiveContext": "No significant competitor signals surfaced today. The Rivian community is focused on R2 anticipation and day-to-day ownership questions. No Tesla, Ford, or Waymo news picked up in today's crawl — a quiet competitive day, though this may reflect crawl timing rather than actual silence.",
-    "summary": "Light signal day with only 5 new items across Rivian communities, all owner-generated and focused on R2 pre-launch questions and organic ownership experience. No news-tier content surfaced. Community is curious and engaged but not in crisis mode. No red-flag topics.",
-    "fullReport": "Rivian communities are quiet today. Three threads on r/Rivian: an R1S ferry photo celebrating the owner lifestyle (high score, positive signal), a tonneau cover maintenance question (low engagement, neutral), and a Tesla-to-Rivian service comparison thread (zero score, worth watching — signals potential service friction as a conversion barrier). Two r/RivianR2 threads both show strong pre-launch curiosity: tire range tradeoffs and cargo dimensions. No regulatory, autonomy, or earnings signals today.",
-    "items": [
-      {
-        "title": "R1S on a little ferry",
-        "url": "https://www.reddit.com/gallery/1to6501",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-26T05:56:31-07:00",
-        "score": 58,
-        "snippet": "Was down by the water and saw a nice R1S getting a lift across the little channel",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "R1S review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Time to lube the toneau cover",
-        "url": "https://www.reddit.com/r/Rivian/comments/1to60n2/time_to_lube_the_toneau_cover/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-26T05:51:23-07:00",
-        "score": 4,
-        "snippet": "What kind of lubricant should I use for the tonneau cover? I assume not WD-40.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "R1T review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Those who switched from Tesla: how does the Rivian servicing & repair experience compare?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tnzdfh/those_who_switched_from_tesla_how_does_the_rivian/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-26T00:14:06-07:00",
-        "score": 0,
-        "snippet": "Tesla-to-Rivian service comparison thread highlighting Rivian's service gaps vs Tesla's in-app ease, mobile appointments, and loaner handling — conversion risk if unaddressed.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "owner experience",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Why does the 20 inch tire get less range?",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1to6uby/why_does_the_20_inch_tire_get_less_range/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-26T06:23:16-07:00",
-        "score": 0,
-        "snippet": "R2 pre-launch question on tire size vs. range tradeoffs — Performance edition website shows 307 mi (20\") vs 330 mi (21\") range. Community wants answers on weight and aero implications.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch",
-          "range anxiety"
-        ]
-      },
-      {
-        "title": "Cargo Space",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tnzr6h/cargo_space/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-26T00:34:51-07:00",
-        "score": 0,
-        "snippet": "R2 pre-launch cargo dimension questions — owner comparing to Jeep Patriot, seeking box measurements rather than cubic feet to assess real-world hauling capacity.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-25T21:48:00-07:00",
     "timestamp": "2026-05-25T21:48:00-07:00",
     "sentiment": {
@@ -7821,6 +7662,508 @@
         "themes": [
           "RIVN stock",
           "VW partnership"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-28T02:08:00.000Z",
+    "timestamp": "2026-05-28T02:08:00.000Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 32,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "owner experience"
+    ],
+    "competitiveContext": "Dedup catch-up entry — duplicate cron fire 4 min after main 7pm cycle. All items already analyzed in prior entry.",
+    "summary": "Quiet — duplicate cron tick. URLs recorded for dedup; no new brief sent (avoids spam after main 7pm cycle).",
+    "fullReport": "Catch-up entry. See prior 02:00Z entry for the actual analysis.",
+    "items": [
+      {
+        "title": "Charging R1T w/ Generator",
+        "url": "/r/RivianR1T/comments/1tppe01/charging_r1t_w_generator/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T18:42:44-07:00",
+        "score": 1,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Charging R1T w/ Generator",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "R2- your color choice?",
+        "url": "/r/RivianR2/comments/1tpnwhc/r2_your_color_choice/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T17:36:09-07:00",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "R2- your color choice?",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Who’s waiting for the Coastal Cloud Signature interior?",
+        "url": "/r/RivianR2/comments/1tpnlfb/whos_waiting_for_the_coastal_cloud_signature/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T17:23:21-07:00",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Who’s waiting for the Coastal Cloud Signature interior?",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian Added Another All-NACS Charging Site",
+        "url": "https://evchargingstations.com/chargingnews/rivian-nacs-charging-site/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T16:32:08-07:00",
+        "score": 56,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Rivian Added Another All-NACS Charging Site",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "R2 Spotted in the wild!",
+        "url": "https://www.reddit.com/gallery/1tpmct5",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-05-27T16:30:52-07:00",
+        "score": 25,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "R2 Spotted in the wild!",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Ease of replacing seat and trim materials",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpodyj/ease_of_replacing_seat_and_trim_materials/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T17:57:15-07:00",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "I just can't deal with how cheap the seats look. On a lot of older cars you are able to take the original material off and replace with a custom aftermarket, based on maybe how the R1s are what do we ",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Trade in expectations?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpo0fq/trade_in_expectations/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T17:40:47-07:00",
+        "score": 4,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Have a slightly later reservation (March 2025) but am eagerly awaiting my R2 nonetheless. For anyone who’s purchased/leased a Rivian before, I’m curious how competitive they generally are with trade i",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "R2- your color choice?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpnwhc/r2_your_color_choice/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T17:35:52-07:00",
+        "score": 8,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "For your R2, what color do you plan to order?\n\nSorry I cant list all the colors for poll voting lol.\n\nLaunch Green -$2000   \nForest Green - $1500 coming late 2026  \nCatalina Cove - $2000  \nHalf Moon G",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Who’s waiting for the Coastal Cloud Signature interior?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpnlfb/whos_waiting_for_the_coastal_cloud_signature/",
+        "source": "reddit_rivianr2",
+        "publishedAt": "2026-05-27T17:22:25-07:00",
+        "score": 3,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "For those with an R2 reservation, I’m curious how much the Coastal Cloud Signature interior is affecting your order timing. Since Coastal Cloud Signature won’t be available until late 2026, would you ",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian илк Р2 СУВ моделларини 9-июндан етказиб беришни бошлайди - Zamin.uz",
+        "url": "https://zamin.uz/en/technology/203759-rivian-to-start-delivering-first-r2-suv-models-on-june-9.html",
+        "source": "news",
+        "publishedAt": "Wed, 27 May 2026 21:22:18 GMT",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Rivian илк Р2 СУВ моделларини 9-июндан етказиб беришни бошлайди - Zamin.uz",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Ferrari’s electric car: divisiveness is the point - The Economist",
+        "url": "https://www.economist.com/business/2026/05/27/ferraris-electric-car-divisiveness-is-the-point",
+        "source": "news",
+        "publishedAt": "Wed, 27 May 2026 20:15:17 GMT",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Ferrari’s electric car: divisiveness is the point - The Economist",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Scania launches under-cab battery and MCS for order - Automotive World",
+        "url": "https://www.automotiveworld.com/news/scania-launches-under-cab-battery-and-mcs-for-order/",
+        "source": "news",
+        "publishedAt": "Wed, 27 May 2026 04:30:11 GMT",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Scania launches under-cab battery and MCS for order - Automotive World",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Sunshine Is Actually The Cheapest Fuel For Your Car - CleanTechnica",
+        "url": "https://cleantechnica.com/2026/05/27/sunshine-is-actually-the-cheapest-fuel-for-your-car/",
+        "source": "news",
+        "publishedAt": "Wed, 27 May 2026 12:58:54 GMT",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Sunshine Is Actually The Cheapest Fuel For Your Car - CleanTechnica",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Kinda close to the daily drivers in my house",
+        "url": "https://www.threads.com/@jahanminoo/post/DY1GUDLlLWK/kinda-close-to-the-daily-drivers-in-my-house",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Kinda close to the daily drivers in my house",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Second - Threads",
+        "url": "https://www.threads.com/@jonkung/post/DY2dWWMFlFP/second",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Second - Threads",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Post by eStang (@estang14) - Threads",
+        "url": "https://www.threads.com/@estang14/post/DY03aRLANzT/post-by-e-stang-estang",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Post by eStang (@estang14) - Threads",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian has extended all of their current offers until June 4th. - Threads",
+        "url": "https://www.threads.com/@chrishilbe/post/DY03e0NjmmH/rivian-has-extended-all-of-their-current-offers-until-june-th-link-referral",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Rivian has extended all of their current offers until June 4th. - Threads",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Luxury Electric Vehicle Market Size, Share | Forecast [2034]",
+        "url": "https://www.fortunebusinessinsights.com/luxury-electric-vehicle-market-116504",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Luxury Electric Vehicle Market Size, Share | Forecast [2034]",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "The Italian marque's shares fell off a cliff as soon as it unveiled the ...",
+        "url": "https://www.facebook.com/Carscoopscom/posts/the-italian-marques-shares-fell-off-a-cliff-as-soon-as-it-unveiled-the-electric-/1354019699921600",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "The Italian marque's shares fell off a cliff as soon as it unveiled the ...",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@jcreek.bsky.social (Bluesky): Can’t say I’m sad for the lot. They caved to the polluter king. \n\nI’m buying a R",
+        "url": "https://bsky.app/profile/did:plc:hza5qbmpnf5qtqfizhung2r6/post/3mmuukeoox22e",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T01:27:12.771Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Can’t say I’m sad for the lot. They caved to the polluter king. \n\nI’m buying a Rivian. Considered the Ford Mach E but @jimfarley.bsky.social caved to oil.",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@ambienowl.bsky.social (Bluesky): Rivian pays their bills. Tesla doesn't. Don't ask how I know.",
+        "url": "https://bsky.app/profile/did:plc:yebesvzbp2bvhbntzykismm5/post/3mmuubzpzpk2h",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T01:22:32.676Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Rivian pays their bills. Tesla doesn't. Don't ask how I know.",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@zaminuz.bsky.social (Bluesky): Rivian начинает поставки первых моделей R2 SUV с 9 июня",
+        "url": "https://bsky.app/profile/did:plc:kqlor2dtz5ink4hghdz2ad2n/post/3mmutjg57qz2n",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T01:08:47.076Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Rivian начинает поставки первых моделей R2 SUV с 9 июня",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@sweetbitters.bsky.social (Bluesky): Remembering the time I was walking outside and it was really quiet, then I heard",
+        "url": "https://bsky.app/profile/did:plc:slxy4zfo7unufxv2osvz36rl/post/3mmutdbmtws23",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T01:05:20.374Z",
+        "score": 10,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Remembering the time I was walking outside and it was really quiet, then I heard a noise like ambiguous voiced angelic choir and thought I was getting abducted by evangelical aliens or some shit befor",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Button Up\n\nDoes your local @Rivian service center have buttons for kids?  \n\nNot ",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mmurw24w3h2w",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T00:40:03.480Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Button Up\n\nDoes your local @Rivian service center have buttons for kids?  \n\nNot gonna lie I wanted one of the @GearGuardGary buttons",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@theminsk.bsky.social (Bluesky): Sorry I see you are a Rivian fan. I love the vehicles I bought stock at the IPO ",
+        "url": "https://bsky.app/profile/did:plc:ud3ivj6exn5filatva7gjd2y/post/3mmurkd3rjk2c",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T00:33:28.977Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Sorry I see you are a Rivian fan. I love the vehicles I bought stock at the IPO and got burned. Don't see them becoming profitable. VW loan? Civil action? Executive pay? Where is the money 💰 coming fr",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@angelatrainir.bsky.social (Bluesky): Rivian Knockoff",
+        "url": "https://bsky.app/profile/did:plc:vm5x7k5oxntmt4cs43xnarpo/post/3mmur7bwyjk2r",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T00:27:19.576Z",
+        "score": 1,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Rivian Knockoff",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@rankednews.bsky.social (Bluesky): Rivian will deliver the first R2 SUVs on June 9: Rivian is set to deliver the fi",
+        "url": "https://bsky.app/profile/did:plc:42han5exrxyrgdsbwosrp7sy/post/3mmupvnkndp2l",
+        "source": "bluesky",
+        "publishedAt": "2026-05-28T00:04:02.873Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Rivian will deliver the first R2 SUVs on June 9: Rivian is set to deliver the first R2 SUVs to customers on June 9, marking a significant milestone for the automaker's expansion into a broader market ",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@faitbrut.bsky.social (Bluesky): 🔍 SOURCES :\n🔹 BBC World :\nhttps://www.bbc.com/news/articles/cj3pgrpmlklo\n\n🔹 Tech",
+        "url": "https://bsky.app/profile/did:plc:awz5xssgh4h5rfxbn7uczhlq/post/3mmupimf7jw2s",
+        "source": "bluesky",
+        "publishedAt": "2026-05-27T23:56:44.512Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "🔍 SOURCES :\n🔹 BBC World :\nhttps://www.bbc.com/news/articles/cj3pgrpmlklo\n\n🔹 TechCrunch :\nhttps://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/\n\n🔹 The Verge :\nhttps://www.t",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Witness Me!  What does your Rivian see",
+        "url": "https://www.rivianforums.com/forum/threads/witness-me-what-does-your-rivian-see.59112/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Author: Skeldog99",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Comma harness issues?",
+        "url": "https://www.rivianforums.com/forum/threads/comma-harness-issues.54209/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Author: bryanmtl",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Comma 4 - can't get longitudinal enabled with lukas longitudinal harness",
+        "url": "https://www.rivianforums.com/forum/threads/comma-4-cant-get-longitudinal-enabled-with-lukas-longitudinal-harness.58284/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Author: upalikaru",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Highest possible Comma 3X mount position?",
+        "url": "https://www.rivianforums.com/forum/threads/highest-possible-comma-3x-mount-position.58890/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "Author: josh0",
+        "themes": [
+          "owner experience"
         ]
       }
     ]
