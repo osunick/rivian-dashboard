@@ -1,283 +1,5 @@
 [
   {
-    "id": "2026-05-17T02:00:00.000Z",
-    "timestamp": "2026-05-17T02:00:00.000Z",
-    "sentiment": {
-      "positive": 55,
-      "neutral": 25,
-      "negative": 20
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 4,
-        "sentiment": "negative"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "news": {
-        "found": 11,
-        "sentiment": "positive"
-      },
-      "twitter": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 4,
-        "sentiment": "positive"
-      },
-      "vehicles": {
-        "found": 4,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 5,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 7,
-        "sentiment": "negative"
-      }
-    },
-    "themes": [
-      "R2 configurator live — deliveries imminent, CEO teasing pickup/R2X variants",
-      "Hey Rivian AI assistant now live on all vehicles (OTA 2026.15)",
-      "Tesla Robotaxi stumbles: 17 crashes unredacted, CA sales -24%, FSD unsupervised still delayed",
-      "RIVN institutional exodus: 53.4M shares net-sold in Q1 2026",
-      "Uber invests $10B+ in non-Waymo robotaxi alternatives — Rivian AV partnership at inflection"
-    ],
-    "competitiveContext": "Tesla's Robotaxi program is under intensifying pressure — 17 crash narratives were unredacted this week, a Reuters investigation confirmed systemic convenience failures, and California registrations crashed 24% in Q1 2026. Rivian PMs should lean into this: the autonomy narrative window is wide open while Tesla's credibility takes hits and FSD unsupervised remains perpetually delayed. The bigger wildcard is Uber's announced $10B+ bet on owning robotaxi alternatives (while publicly trashing Waymo) — Uber also just received 19.6M new Rivian shares in Q1, making the Rivian–Uber AV partnership either a major accelerant or a tension point depending on how Uber's in-house ambitions evolve. Cybertruck's anemic Q1 (3,519 units) signals the premium EV truck segment has real softness just as Rivian's R2 enters the more affordable mass-market tier with a live configurator.",
-    "summary": "This cycle is defined by Rivian's dual momentum story: the R2 configurator went live (May 15), and the 'Hey Rivian' AI assistant rolled out to all Gen 1 and Gen 2 vehicles via OTA 2026.15. VW is now the largest RIVN shareholder at 15.9%, and the Georgia plant capacity was lifted 50% to 300K/yr. The counterweight is a serious institutional confidence gap — 53.4M net RIVN shares were sold in Q1 2026, with 18 funds exiting entirely. Competitively, Tesla's stumbles create strategic breathing room on autonomy positioning.",
-    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Saturday, May 17, 2026 — 7:00 PM PT — 20 signals · 6 categories_\n\n*🎯 SITREP*\n• Tesla Robotaxi on fire: 17 crash reports unredacted + CA sales -24% → Rivian autonomy window is open\n• R2 configurator live ($45K start), Hey Rivian on all vehicles — dual product wins this week\n• RIVN institutional exit: 53.4M shares net-sold Q1, 18 funds gone — capital story needs attention\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n\n• *Tesla Robotaxi*: NHTSA crash data unredacted (17 incidents); Reuters confirms long waits, surface-street-only routing, near-zero availability. FSD unsupervised for consumers delayed again in Q1 earnings. Rivian angle: credibility gap creates opening to assert autonomous leadership with Hey Rivian + in-house lidar roadmap\n• *Tesla CA Sales*: Down 24% in Q1 2026 — over 10K fewer vehicles sold. Weakest CA EV market since 2021. Rivian angle: if R2 delivers at $45K with strong range, California loyalty to Tesla-alternatives is up for grabs\n• *Tesla ADAS*: Model Y is FIRST to pass new NHTSA ADAS certification. Tesla also moving Basic Autopilot to paid FSD tier (Netherlands first). Rivian angle: NHTSA cert is a bar Rivian's ADAS stack must now clear publicly — Highway Assist friction complaints on Reddit are a real signal\n• *Tesla Supercharging promo*: 1 year free Supercharging on new Model 3 orders, claims ~40% cost premium for non-Tesla EVs charging at Superchargers. Rivian angle: RAN network expansion (150+ chargers in LA) is the right countermove\n• *Uber vs. Waymo*: Uber publicly trashed Waymo while committing $10B+ to owning its own robotaxi stack. Uber is also a Rivian equity partner (19.6M shares Q1). Rivian angle: this is a double-edged signal — Uber may accelerate EDV deployments OR compete with Rivian on AV software\n• *Cybertruck Q1*: Only 3,519 units sold in the US — EV truck segment showing real demand softness at premium price points. Rivian angle: R2 at $45K targets a segment Cybertruck can't touch; R1T remains unchallenged at its adventure-truck positioning\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🤖 Autonomy (4)*\n• Hey Rivian AI assistant live on ALL Gen1 + Gen2 vehicles (OTA 2026.15) — understands contacts, trip status, voice commands\n• Rivian Unified Intelligence: on-vehicle + cloud AI hybrid architecture (not single local model)\n• Rivian mulling in-house lidar manufacturing (possibly via US-based Chinese firm partnership) for full AV stack\n• Gen2 Highway Assist: owners reporting overly aggressive eye-tracking alerts — UX friction point to address\n\n*🚗 Vehicles (4)*\n• R2 configurator LIVE (May 15) — reservation holders can now configure; starts ~$45K\n• CEO RJ Scaringe hints at R2 pickup + R2X variants in development as production ramps\n• Community asking: how many R1S owners trading in for R2? Interest in used R1 inventory signal\n• R2 production target: 20K–25K deliveries in 2026 (rivianforums) — one of fastest EV launch ramps in US history\n\n*💰 Business (5)*\n• VW now Rivian's largest shareholder at 15.9% (209.8M shares) — overtook Amazon\n• Q1 2026: $1.38B revenue, 10,365 deliveries (+20% YoY) — solid fundamentals\n• Georgia plant: capacity raised 50% to 300K vehicles/yr annually\n• RIVN institutional investors net-sold 53.4M shares Q1 2026 — Two Sigma (-24.4M), Renaissance (-5.5M), 18 funds fully exited\n• RIVN flagged as rate-sensitive: high debt, cheap financing dependent — watch Fed rate signals\n\n*📱 Software (1)*\n• 2026.15 OTA includes Hey Rivian assistant rollout to all vehicles\n\n*🌐 Community (1)*\n• R1S-to-R2 upgrade interest growing; owners watching used R1 inventory as they eye the switch\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Uber AV: their $10B robotaxi push vs. Waymo — does this accelerate or complicate the Rivian EDV partnership?\n• NHTSA ADAS cert: Tesla Model Y now certified — when does Rivian's Highway Assist / Driver+ go through the same gate?\n• Institutional confidence gap: 53.4M shares sold in Q1 — does R2 ramp and Hey Rivian launch change the narrative by Q2 earnings?\n• Hey Rivian friction: DMS/eye-tracking complaints are early signal — watch for OTA fix or owner churn impact\n\n_Competitive threat: 🟠 ELEVATED — Tesla's Supercharger moat + NHTSA cert keep pressure on; Robotaxi stumbles create a real autonomy window_",
-    "items": [
-      {
-        "title": "Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control",
-        "url": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
-        "source": "news",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-12",
-        "snippet": "Rivian is rolling out its new AI-powered voice assistant to all Gen 1 and Gen 2 R1 owners via OTA 2026.15. The assistant understands contacts, trip status, and vehicle context. 'Hey Rivian' can handle commands while drivers keep eyes on the road."
-      },
-      {
-        "title": "Rivian Assistant powered by Rivian Unified Intelligence — on-vehicle + cloud AI hybrid",
-        "url": "https://x.com/Rivian/status/2054633707017789775",
-        "source": "twitter",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Rivian's official account confirms the assistant uses a mix of on-vehicle and cloud AI rather than a single local model. This hybrid architecture positions it differently from fully cloud-dependent or fully on-device competitors. Relevant for latency, privacy, and offline use-case product decisions."
-      },
-      {
-        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
-        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
-        "source": "news",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-05",
-        "snippet": "Rivian is considering manufacturing lidar sensors in-house, potentially through a partnership with Chinese firms operating in the US. This signals serious intent to own the full AV stack end-to-end rather than remain dependent on third-party suppliers like Luminar or Mobileye."
-      },
-      {
-        "title": "Base Highway Assist — 'Keep Your Eyes on the Road' is Super Naggy Lately",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tfbbs2/base_highway_assist_keep_your_eyes_on_the_road_is/",
-        "source": "reddit_rivian",
-        "category": "autonomy",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-17",
-        "snippet": "Gen2 owner with hands on wheel and eyes forward reports Highway Assist's driver monitoring is triggering constant alerts — described as 'almost unusable, especially with sleeping passengers.' This friction threatens user adoption of the base ADAS tier just as Tesla Model Y earned NHTSA ADAS certification."
-      },
-      {
-        "title": "Rivian opens R2 configurator: here are all the options and pricing",
-        "url": "https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/",
-        "source": "news",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-15",
-        "snippet": "Rivian opened the R2 online configurator on May 15, giving reservation holders their first chance to see all options and pricing for its critical mid-size SUV. Starting around $45,000, it dramatically undercuts R1S/R1T pricing. Customer deliveries are scheduled for spring 2026."
-      },
-      {
-        "title": "Rivian (RIVN) CEO hints at R2 pickup and R2X variants as production ramps",
-        "url": "https://electrek.co/2026/05/06/rivian-r2-variants-pickup-r2x-scaringe/",
-        "source": "news",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-06",
-        "snippet": "CEO RJ Scaringe confirmed Rivian is developing undisclosed variants of the R2, hinting at both a pickup truck (R2T equivalent) and an R2X performance model. This expands the addressable market and suggests a platform strategy similar to how R1 served as a dual-vehicle foundation."
-      },
-      {
-        "title": "Rivian delays new R2 electric SUV with $45K starting price",
-        "url": "https://www.rivianforums.com/forum/threads/05-15-2026-usa-today-article-rivian-delays-new-r2-electric-suv-with-45k-starting-price.59135/",
-        "source": "rivianforums",
-        "category": "vehicles",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-15",
-        "snippet": "Despite the configurator going live, USA Today reported Rivian has delayed R2 customer deliveries. The delay creates messaging tension: configurator open but cars not arriving. PMs should watch whether the delay impacts reservation conversion or breeds cancellation."
-      },
-      {
-        "title": "How many of you are trading in your R1S for an R2?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tf9xcv/how_many_of_you_are_trading_in_your_r1s_for_an_r2/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-17",
-        "snippet": "Reddit thread shows growing R1S owner interest in switching to R2, with discussion of used R1 inventory flooding the pre-owned market. Suggests R2 is pulling demand from within Rivian's own ecosystem — watch whether this creates R1 secondhand supply that attracts new-to-Rivian buyers."
-      },
-      {
-        "title": "Volkswagen overtakes Amazon as Rivian's largest shareholder with 15.9% stake",
-        "url": "https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-05",
-        "snippet": "VW now owns 209.8 million shares of Rivian (15.9% stake) after issuing 62.9M new shares in Q1 2026. This makes VW the largest strategic investor, ahead of Amazon. The JV structure strengthens Rivian's platform tech monetization story and provides a floor against capital concerns."
-      },
-      {
-        "title": "Q1 2026: Rivian posts $1.38B revenue, deliveries up 20% YoY to 10,365",
-        "url": "https://riviantrackr.com/news/the-sunday-drive-rivian-week-in-review-april-27-to-may-3-2026/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-03",
-        "snippet": "Rivian's Q1 2026 delivered $1.38B revenue and 10,365 vehicles (+20% YoY). VW injected $1B during the quarter. Georgia plant was simultaneously announced at +50% capacity to 300K/yr, signaling Rivian is executing on multiple fronts simultaneously as R2 production starts."
-      },
-      {
-        "title": "Rivian (RIVN) lifts production capacity for its Georgia plant by 50% to 300K vehicles annually",
-        "url": "https://electrek.co/2026/04/30/rivian-rivn-boosts-production-capacity-georgia-plant-50/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": "2026-04-30",
-        "snippet": "Rivian now expects to produce up to 300,000 vehicles annually at its Georgia manufacturing plant — a 50% increase from prior guidance. This dramatically changes Rivian's long-term capacity narrative and supports the bullish R2 ramp thesis."
-      },
-      {
-        "title": "RIVN Q1 2026: institutional investors net-sold 53.4M shares; 18 funds exited entirely",
-        "url": "https://www.reddit.com/r/RIVNstock/comments/1tfas5o/the_real_reason_behind_29_price_decline_for_rivn/",
-        "source": "reddit_rivian",
-        "category": "business",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-16",
-        "snippet": "13-F filings reveal institutional investors net-reduced RIVN positions by 53.4M shares in Q1 2026 — Two Sigma sold 24.4M, Renaissance sold 5.5M, 18 funds exited completely. The 29% Q1 stock decline is now explained by systematic smart-money de-risking despite Rivian issuing 82.4M new shares to VW and Uber."
-      },
-      {
-        "title": "RIVN flagged as rate-sensitive: high-debt EV maker dependent on cheap financing",
-        "url": "https://www.reddit.com/r/GetRichShortTerm/comments/1te9ct6/",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-16",
-        "snippet": "An analysis thread flagged RIVN as among the most exposed stocks if Federal Reserve rate hike odds (at 45%) materialize. As a high-debt EV maker, Rivian's cost of capital is directly linked to rates — a risk factor as the company scales R2 production and builds out Georgia."
-      },
-      {
-        "title": "Uber turns on Waymo as it pours $10B+ into owning robotaxi alternatives",
-        "url": "https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-15",
-        "snippet": "Uber publicly criticized its Waymo partnership while committing $10B+ to owning proprietary robotaxi vehicles and technology. Uber also received 19.6M new Rivian shares in Q1 2026. This creates a fork: Uber may accelerate its EDV fleet built on Rivian, or it may push toward vertically owned AV hardware that competes with Rivian's platform."
-      },
-      {
-        "title": "Tesla finally reveals what happened in 17 Robotaxi crashes (NHTSA filing)",
-        "url": "https://electrek.co/2026/05/15/tesla-unredacts-robotaxi-crash-narratives-nhtsa/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-15",
-        "snippet": "Tesla unredacted 17 autonomous driving crash narratives with NHTSA, providing unprecedented transparency into its Robotaxi failure modes. Combined with a Reuters investigation documenting long wait times and surface-street-only routing, Tesla's unsupervised AV credibility is taking significant hits."
-      },
-      {
-        "title": "Tesla Robotaxi's 'convenience issues' are hiding the real safety bottleneck",
-        "url": "https://electrek.co/2026/05/12/tesla-robotaxi-convenience-issues-hide-safety-bottleneck/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-12",
-        "snippet": "Reuters investigation documents Tesla Robotaxi's systemic issues: long waits, surface-street-only routing, near-zero vehicle availability. The 'convenience issues' frame is masking deeper safety limitations. Rivian's advantage: its autonomy story is still clean and unencumbered by a contested Robotaxi narrative."
-      },
-      {
-        "title": "Tesla's California sales crash 24% in Q1 2026 — EV market lowest since 2021",
-        "url": "https://electrek.co/2026/04/21/tesla-california-sales-crash-24-percent-q1-2026-ev-market/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-04-21",
-        "snippet": "Tesla's California Q1 2026 registrations fell 24.3% YoY — over 10,000 fewer vehicles. The state's entire EV market hit its lowest point since 2021. Rivian's California R2 opportunity is significant: adventurous buyers in the state's outdoor-culture markets could be receptive to a non-Tesla option at $45K."
-      },
-      {
-        "title": "Tesla Model Y first to pass NHTSA's new ADAS certification tests",
-        "url": "https://electrek.co/2026/05/07/tesla-model-y-first-pass-nhtsa-new-adas-tests/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-07",
-        "snippet": "NHTSA announced the 2026 Tesla Model Y is the first vehicle to pass its new advanced driver assistance tests — though critics note the tests only cover the basics. This gives Tesla a credentialing advantage Rivian doesn't yet have. Rivian PMs should prioritize NHTSA ADAS certification for Highway Assist and Driver+ to close this gap."
-      },
-      {
-        "title": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
-        "url": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-04-24",
-        "snippet": "Tesla bundled a year of free Supercharging on new Model 3 orders and is messaging that non-Tesla EVs pay a 40% premium at its chargers. This is a deliberate FUD tactic against RAN and other charging networks. Rivian's 150+ charger LA expansion and RAN value proposition needs sharper marketing."
-      },
-      {
-        "title": "Cybertruck sold only 3,519 units in Q1 2026 — EV truck segment softening",
-        "url": "https://x.com/cybrtrkguy/status/2043703969650725071",
-        "source": "twitter",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": null,
-        "snippet": "Cox Automotive data shows Cybertruck moved only 3,519 units in Q1 2026 across the US — a weak showing for a high-profile launch vehicle. This confirms EV truck buyers at premium price points are a small, contested segment, validating Rivian's R2 strategy to move downmarket to $45K."
-      },
-      {
-        "title": "Tesla moves Basic Autopilot to paid FSD tier (Netherlands pilot)",
-        "url": "https://electrek.co/2026/05/12/tesla-removes-basic-autopilot-netherlands-fsd-only/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-12",
-        "snippet": "Tesla quietly removed Basic Autopilot from its Netherlands configurator — new orders there only offer Full Self-Driving as a paid add-on. This is a pricing/bundling test that could signal Tesla's global monetization strategy for ADAS. If Tesla gates basic lane-keeping behind a subscription, Rivian's standard Highway Assist becomes a competitive differentiator."
-      }
-    ]
-  },
-  {
     "id": "2026-05-16T14:01:00.000Z",
     "timestamp": "2026-05-16T14:01:00.000Z",
     "sentiment": {
@@ -7918,6 +7640,132 @@
         "themes": [
           "charging infra",
           "EV incentives"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-29T22:05:00.000Z",
+    "timestamp": "2026-05-29T22:05:00.000Z",
+    "sentiment": {
+      "positive": 67,
+      "neutral": 33,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "RIVN stock"
+    ],
+    "competitiveContext": "Quiet cycle on the competitive front — no fresh competitor moves vs the prior cycle. The R2 launch-date announcement reaffirms Rivian's near-term narrative dominance in the premium EV space.",
+    "summary": "Quiet cycle — only 3 new items after dedup. R2 SUV launch-date announcement lifted shares (Bluesky). Two low-signal Twitter/Threads items round out the cycle. No new autonomy, software, or competitive intel.",
+    "fullReport": "Quiet 5-minute follow-up cycle. R2 SUV launch-date announcement drove a small bump in RIVN shares per ts2tech (Bluesky). Two low-signal Twitter/Threads items (one English profile link, one non-English Threads post). No new autonomy, competitive, or RivianForums activity since the prior cycle.",
+    "items": [
+      {
+        "title": "Prashant Anubhav (@AnubhavPrashant) / Posts / X - Twitter",
+        "url": "https://x.com/AnubhavPrashant",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Generic Twitter profile link — low signal, no content snippet.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "哪有！ 我有幫小白吹吹 - Threads",
+        "url": "https://www.threads.com/@coconut_00312/post/DY6zx2anfN0/%E5%93%AA%E6%9C%89-%E6%88%91%E6%9C%89%E5%B9%AB%E5%B0%8F%E7%99%BD%E5%90%B9%E5%90%B9",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Non-English Threads post — unparseable context.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian shares rise as company announces R2 SUV launch date",
+        "url": "https://bsky.app/profile/did:plc:ljts44szt47c7wyklp2wghsx/post/3mmzk3qxjth24",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T22:03:23.776Z",
+        "score": 0,
+        "snippet": "Rivian shares rose on confirmation of an R2 SUV launch date — reinforces the R2 launch narrative driving recent stock momentum.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "RIVN stock"
         ]
       }
     ]
