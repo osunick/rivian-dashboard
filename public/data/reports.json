@@ -1,227 +1,5 @@
 [
   {
-    "id": "2026-05-18T15:57:00.000Z",
-    "timestamp": "2026-05-18T15:57:00.000Z",
-    "sentiment": {
-      "positive": 25,
-      "neutral": 40,
-      "negative": 35
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 5,
-        "sentiment": "negative"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "software": {
-        "found": 2,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 5,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "Autonomy+",
-      "Cybertruck news",
-      "FSD update",
-      "Hey Rivian",
-      "R1S review",
-      "R2 launch",
-      "RIVN stock",
-      "Scout Motors",
-      "Waymo move",
-      "brand sentiment",
-      "infotainment bug",
-      "regulatory news"
-    ],
-    "competitiveContext": "Scout Motors is facing dealer lawsuits in Colorado before selling a single truck, challenging its direct-to-consumer model and clouding its already-2028-delayed launch timeline — removing additional near-term competitive pressure on R2. Waymo's aggressive physical expansion is generating organized community resistance (50 cars flooding an Atlanta cul-de-sac, AZ residents raising formal concerns), a public trust cautionary tale Rivian PMs should internalize as they design their own autonomy rollout: consent-first, neighborhood-aware expansion beats rapid deployment. Tesla's FSD v14.3.3 (May 17) continues rapid iteration with gamification features while R1T holds solid at #3 in Q1 EV truck sales (1,658 units behind Cybertruck 3,519 and Lightning 2,060).",
-    "summary": "Scout Motors faces dealer lawsuits before its first sale, further weakening the near-term R2 competitor already hamstrung by a 2028 delay and JV software failures. Waymo expansion is generating community backlash (Atlanta, AZ) with important positioning implications for Rivian's own autonomy narrative. Fresh Hey Rivian reliability complaints are emerging (phonebook failures, post-reboot crashes) in the same week as the 2026.15 OTA rollout — an early-stage quality signal needing monitoring. RIVN remains at the $13–14 floor with active put options.",
-    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Monday, May 18, 2026 — 9:57 AM MT — 10 signals · 4 categories_\n\n*🎯 SITREP*\n• Scout Motors hit with dealer lawsuit before first sale — direct-to-consumer model challenged, near-term R2 rival further hamstrung\n• Waymo expansion backlash (Atlanta + AZ) creates positioning window for Rivian's measured, consent-first autonomy narrative\n• Hey Rivian reliability issues emerging at scale: phonebook failures + post-reboot crashes need urgent fix\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Scout Motors*: Colorado dealers sue before first sale, challenging direct-to-consumer privilege. Combined with the 2028 delay and Rivian JV software failures, Scout's path to market is deeply uncertain\n  https://www.msn.com/en-us/autos/news/dealers-are-suing-scout-motors-before-it-sells-a-single-truck/ar-AA1UT6y8\n• *Waymo*: Fleet of ~50 driverless vehicles overwhelmed Atlanta cul-de-sac (May 2026); AZ residents formally raising concerns. Rapid expansion without community consent is generating organized resistance — a cautionary template for Rivian's own autonomy deployment\n  https://www.azfamily.com/video/2026/05/16/residents-concerned-over-influx-waymo-cars/\n• *Tesla*: FSD v14.3.3 (May 17) — Spring 2026 UI, 33% faster Smart Summon, gamified streak counter. R1T holds #3 in Q1 EV truck sales (1,658 units) behind Cybertruck (3,519) and Lightning (2,060)\n  https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🚗 Vehicles (2)*\n• R2 Performance Launch Pack reservations active: buyers asking if lidar will be retrofitted free when available — expectation management needed\n  https://www.reddit.com/r/RivianR2/comments/1tgp36f/r2_performance_w_launch_pack/\n• R1S owners wishlisting R2 features for Gen3: RAP, lidar, R2 wheel controls, 800v DC charging — next R1 hardware cycle signal\n  https://www.reddit.com/r/Rivian/comments/1tgqgle/r1s_gen3_or_gen2_job3/\n\n*💰 Business (1)*\n• RIVN at $13–14 downtrend: 5/22/26 put active at $0.45, Hold consensus, analyst PT $16.3–$20 — needs R2 delivery catalyst\n  https://www.reddit.com/r/ChartNavigators/comments/1tg6f5f/what_plays_are_you_looking_into_for_tomorrow/\n\n*📱 Software (2)*\n• Hey Rivian post-reboot crash: assistant hears wake word but stops responding after 3–4 commands; full screen reboot required\n  https://www.reddit.com/r/Rivian/comments/1tgq3lb/rivian_assistant_not_working_for_me/\n• Hey Rivian phonebook miss: outbound calls/texts fail 100%; ~50% hit rate on incoming recognition only\n  https://www.reddit.com/r/Rivian/comments/1tgqd2s/rivian_assistant_wont_recognize_names_in_phonebook/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Hey Rivian reliability: two independent phonebook/crash reports on same morning — watch for pattern in 2026.16 feedback queue\n• Scout Motors: dealer lawsuit + JV failure + 2028 delay = what's Scout's realistic launch scenario now?\n• Waymo backlash as template: Rivian's autonomy expansion must explicitly lead with consent-aware, measured rollout messaging\n\n_Competitive threat: 🟠 ELEVATED — Tesla FSD cadence high; Scout + Waymo stumbles create near-term narrative wins for Rivian_\n_Dashboard: https://watchgamefilm.vercel.app_\n_[Dashboard status: pending verification]_",
-    "items": [
-      {
-        "title": "Rivian Assistant Not Working for Me",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tgq3lb/rivian_assistant_not_working_for_me/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-18",
-        "snippet": "2023 R1T owner reports Hey Rivian hears the wake word but doesn't acknowledge commands. Briefly worked after rebooting screens — lasted only 3-4 commands then stopped again. Multiple owners reporting similar intermittent failures on the fresh 2026.15 OTA rollout.",
-        "themes": [
-          "Hey Rivian",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "Rivian Assistant won't recognize names in phonebook",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tgqd2s/rivian_assistant_wont_recognize_names_in_phonebook/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-18",
-        "snippet": "Owner reports Hey Rivian works generally but fails 100% on outbound calls/texts to contacts — phonebook lookup returns nothing. Incoming recognition works ~50% of the time. Core hands-free calling use case is broken, undercutting the assistant's practical daily value.",
-        "themes": [
-          "Hey Rivian",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "R1S Gen3 or Gen2 - Job3?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tgqgle/r1s_gen3_or_gen2_job3/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-18",
-        "snippet": "Prospective R1S buyer (late 2026/early 2027) asks when R2 features will migrate to R1: R2 wheel controls, upgraded audio, RAP, lidar, and 800v DC charging. Clear wishlist signals what buyers see missing from R1S and shapes expectations for the next R1 hardware refresh.",
-        "themes": [
-          "R1S review",
-          "Autonomy+"
-        ]
-      },
-      {
-        "title": "R2 Performance w/ Launch Pack",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tgp36f/r2_performance_w_launch_pack/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-18",
-        "snippet": "Fresh R2 Performance reservation with Launch Pack. New buyer asking three questions: what to expect from Rivian, estimated delivery timeline, and whether Rivian will install lidar at no cost when available. Lidar retrofit expectation at the top trim is a PM communication challenge.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Fleet of ~50 driverless Waymo vehicles overwhelms quiet Atlanta cul-de-sac",
-        "url": "https://www.instagram.com/p/DYXEicNhrrn/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05",
-        "snippet": "A cluster of ~50 Waymo autonomous vehicles created a viral traffic jam in an Atlanta residential cul-de-sac, cycling for hours. Marks a growing pattern of AV operations generating community friction — a cautionary tale for any company deploying autonomous fleets in residential areas.",
-        "themes": [
-          "Waymo move"
-        ]
-      },
-      {
-        "title": "Residents concerned over influx of Waymo cars",
-        "url": "https://www.azfamily.com/video/2026/05/16/residents-concerned-over-influx-waymo-cars/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-16",
-        "snippet": "Arizona residents are formally raising concerns about the rapid increase in Waymo driverless vehicles in their neighborhoods — safety uncertainty, privacy, and quality-of-life disruption cited. Multiple local TV news outlets covering it signals this is becoming structured advocacy, not just online noise.",
-        "themes": [
-          "Waymo move",
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "Dealers are suing Scout Motors before it sells a single truck",
-        "url": "https://www.msn.com/en-us/autos/news/dealers-are-suing-scout-motors-before-it-sells-a-single-truck/ar-AA1UT6y8",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Colorado dealerships have filed a lawsuit challenging Scout Motors' ability to sell vehicles directly to consumers — a privilege currently reserved for EV-only automakers. Adds legal uncertainty to Scout's already-troubled path: 2028 delay, Rivian JV software failure, and now the direct-sales model under legal attack before launch.",
-        "themes": [
-          "Scout Motors",
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "Q1 2026 EV truck sales: Cybertruck #1 (3,519), Lightning #2 (2,060), R1T #3 (1,658), Silverado EV #4 (1,406)",
-        "url": "https://x.com/cybrtrkguy/status/2043703969650725071",
-        "source": "twitter",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "Cox Automotive Q1 2026 EV truck sales: Cybertruck leads at 3,519 units, Lightning second at 2,060, R1T third at 1,658, Silverado EV fourth at 1,406. R1S ranked #6 in all EVs at 5,494 units. Rivian's truck segment is competitive but the ceiling is low — validates R2's mass-market pivot.",
-        "themes": [
-          "Cybertruck news",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Tesla increases Actually Smart Summon speed by 33% in new FSD update (v14.3.3)",
-        "url": "https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-17",
-        "snippet": "Tesla rolled out FSD V14.3.3 on May 17 with Spring 2026 UI, 33% faster Smart Summon (now 8 mph max), and a new intervention-free streak counter gamifying FSD engagement. Continued high software iteration cadence — Rivian should study the streak mechanic for Autonomy+ and close Hey Rivian quality gaps urgently.",
-        "themes": [
-          "FSD update"
-        ]
-      },
-      {
-        "title": "RIVN downtrend at $13-14: sector rotation, put options active, Hold consensus",
-        "url": "https://www.reddit.com/r/ChartNavigators/comments/1tg6f5f/what_plays_are_you_looking_into_for_tomorrow/",
-        "source": "reddit_ev",
-        "category": "business",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-18",
-        "snippet": "Financial community flags RIVN in a confirmed $13-14 downtrend: 5/22/26 14.0P at $0.45, analyst consensus Hold, PT $16.3-$20. Weakness attributed to sector rotation and technical breakdown. R2 delivery ramp + Hey Rivian/Autonomy+ press is the narrative catalyst needed to shift institutional sentiment.",
-        "themes": [
-          "RIVN stock"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-18T14:00:00.000Z",
     "timestamp": "2026-05-18T14:00:00.000Z",
     "sentiment": {
@@ -7617,6 +7395,362 @@
         "category": "community",
         "sentiment": "neutral",
         "themes": [
+          "brand sentiment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-29T18:00:00Z",
+    "timestamp": "2026-05-29T18:00:00Z",
+    "sentiment": {
+      "positive": 47,
+      "neutral": 26,
+      "negative": 26
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Android Auto debate",
+      "Driver+",
+      "R2 launch",
+      "Tesla pricing",
+      "brand sentiment",
+      "infotainment bug",
+      "OTA update"
+    ],
+    "competitiveContext": "Tesla's Model Y efficiency benchmark is being directly challenged by R2 — Bluesky posts highlight R2 matching Tesla's efficiency despite a heavier platform, a key win for R2's competitive positioning. Meanwhile, Rivian's decision to reject Android Auto and bet on proprietary AI is drawing significant backlash on social media, with commentators calling it 'bullshit' and warning it could alienate mainstream buyers who expect standard smartphone integration — a potential vulnerability as R2 scales to volume.",
+    "summary": "R2 launch momentum peaks ahead of June 9 first deliveries and demo drives, with strong positive sentiment around the vehicle itself. However, Rivian's software strategy — specifically the rejection of Android Auto in favor of a proprietary AI-first experience — is generating sharp negative reaction from tech commentators and owners, creating a brand and UX risk heading into the delivery launch window.",
+    "fullReport": "Nineteen new signals captured. R2 dominates the narrative: pre-delivery excitement, spy sightings, efficiency claims, and color discussions are all positive. The Android Auto/AI strategy debate is the dominant negative thread, concentrated on Bluesky but with clear cross-platform reach. No new signals from RivianForums, HackerNews, or Reddit EV/stocks communities this cycle. The RJ Scaringe profile in r/Rivian is notable as a one-off brand narrative piece.",
+    "items": [
+      {
+        "title": "RJ Scaringe Made Rivian Cool. Now He Has to Make It Really ...",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tq6hsb/rj_scaringe_made_rivian_cool_now_he_has_to_make",
+        "source": "reddit_rivian",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Profile piece on RJ Scaringe navigating Rivian from culture darling to scaled mass-market EV maker — strategic inflection point as R2 launches.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 first build or CPO 23/24 1x 50drive : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpqept/rivian_r2_first_build_or_cpo_2324_1x_50drive",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Community discussion comparing first-build R2 vs certified pre-owned 2023/24 models for fleet/single motor 50kWh pack config.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "fleet/EDV"
+        ]
+      },
+      {
+        "title": "R2 Spotted in the wild! : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpmfoz/r2_spotted_in_the_wild",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Real-world sighting of R2 test mule generating excitement ahead of June 9 deliveries — reinforces organic pre-launch buzz.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Still one of the best videos of R2 driving !! Looks so good : r/RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tndzbh/still_one_of_the_best_videos_of_r2_driving_looks",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Community re-share of R2 driving footage maintaining high anticipation for the vehicle's on-road dynamics and design.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian Nashville : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tmbfyy/rivian_nashville",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Discussion of Rivian's Nashville presence, likely tied to service or sales footprint as R2 delivery date approaches.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "June 9th R2 Launches : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpgh1l/june_9th_r2_launches",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Direct confirmation of June 9 first delivery date for R2 — critical launch milestone generating strong pre-delivery enthusiasm.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "Rivian R2 To Feature Faster Infotainment and AI Processing - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tobnr7/rivian_r2_to_feature_faster_infotainment_and_ai",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "R2 gets refreshed infotainment hardware and AI processing stack — positioned as a major software upgrade over R1 lineup.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "OTA update",
+          "Driver+",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "Rivian announces deliveries and demo drives begin June 9! - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpghs6/rivian_announces_deliveries_and_demo_drives_begin",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian confirms June 9 as first delivery AND demo drive date — dual event to convert waitlist into orders.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "R2- your color choice? : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tpnwhc/r2_your_color_choice",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Community engagement on R2 color palette — indicator of strong pre-delivery configurator interest.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@jtretakoff.bsky.social (Bluesky): I like Rivian a lot, but this spin is just bullshit.",
+        "url": "https://bsky.app/profile/did:plc:i5b4cit5w6fn6ca5x2jhuu3s/post/3mmz42qz22b2u",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T17:52:17.573Z",
+        "score": 0,
+        "snippet": "Tech commentator calls out Rivian's AI-over-CarPlay messaging as misleading — existing Gemini/Android Auto integration already does what Rivian claims AI will enable. Calls for fast reversal.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): Rivian R2 first delivery June 9",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mmz3fv45fm2u",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T17:40:37.474Z",
+        "score": 0,
+        "snippet": "ICYMI summary noting June 9 first deliveries plus simultaneous order invites and public test drives.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@juanky7274.bsky.social (Bluesky): Rivian se niega a poner Apple CarPlay...",
+        "url": "https://bsky.app/profile/did:plc:jrhge4zgnq6ntoedfqnfz6ph/post/3mmz2lri2pg2k",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T17:26:01.773Z",
+        "score": 0,
+        "snippet": "Spanish-language post covering Rivian's CarPlay refusal with software chief's comments predicting AI will make it obsolete — draws 'locos' (crazy) response.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@cscottbrown.bsky.social (Bluesky): no Android Auto/CarPlay — wouldn't test drive",
+        "url": "https://bsky.app/profile/did:plc:xqllb247h7t66ol5ip5w6zmy/post/3mmz2liomtw2t",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T17:25:53.172Z",
+        "score": 1,
+        "snippet": "Influential AndroidAuthority writer states lack of Android Auto/CarPlay is a hard pass on test-driving — flags mainstream UX expectation gap.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): AI vs environmental mission balance",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mmyzfefwas2w",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T17:04:32.274Z",
+        "score": 0,
+        "snippet": "RivanTrackr raises question about balancing environmental mission with AI compute/data center intensity — notes shareholder proposals for transparency have failed but pressure is building.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment",
+          "regulatory news"
+        ]
+      },
+      {
+        "title": "@fedaibey.bsky.social (Bluesky): R2 impresses, matching Tesla efficiency",
+        "url": "https://www.bsky.app/profile/did:plc:p576hs55mlyq44v7el5qi2ca/post/3mmyze7mxe32p",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T17:03:53.872Z",
+        "score": 0,
+        "snippet": "Positive reaction praising R2 for matching Tesla efficiency — user emoji response signals genuine enthusiasm.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Tesla pricing",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian R2 Matches Tesla Model Y Efficiency",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mmyz5xumns2u",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T17:00:24.672Z",
+        "score": 0,
+        "snippet": "News brief: R2 (in production since late April) matches 2026 Tesla Model Y efficiency despite heavier platform — significant technical validation.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Tesla pricing",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@lumetanews.bsky.social (Bluesky): Full analysis — Rivian rejects Android Auto",
+        "url": "https://bsky.app/profile/did:plc:lvmclio2rjruz7oy7celwdjy/post/3mmyytteqgc23",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T16:54:43.675Z",
+        "score": 0,
+        "snippet": "Lumeta News full analysis on Rivian's Android Auto rejection and proprietary AI bet — tags: #AiIntegration #AutomotiveStrategy #SoftwareEcosystem.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@lumetanews.bsky.social (Bluesky): Rivian radical decision no Android Auto",
+        "url": "https://bsky.app/profile/did:plc:lvmclio2rjruz7oy7celwdjy/post/3mmyytspel42p",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T16:54:42.975Z",
+        "score": 0,
+        "snippet": "Direct framing of Rivian's decision as 'radical strategic decision' not to implement Android Auto — editorial framing signals this is being watched closely.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@lumetanews.bsky.social (Bluesky): Rivian bets on its own AI instead of Android Auto",
+        "url": "https://bsky.app/profile/did:plc:lvmclio2rjruz7oy7celwdjy/post/3mmyytsend322",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T16:54:42.673Z",
+        "score": 0,
+        "snippet": "Simple headline framing of Rivian's strategic bet — AI assistant vs Android Auto as binary choice in EV software stack.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
           "brand sentiment"
         ]
       }
