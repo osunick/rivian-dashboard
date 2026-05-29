@@ -1,200 +1,5 @@
 [
   {
-    "id": "2026-05-18T02:00:00.000Z",
-    "timestamp": "2026-05-18T02:00:00.000Z",
-    "sentiment": {
-      "positive": 40,
-      "neutral": 30,
-      "negative": 30
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 4,
-        "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "news": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "vehicles": {
-        "found": 4,
-        "sentiment": "neutral"
-      },
-      "business": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 3,
-        "sentiment": "negative"
-      }
-    },
-    "themes": [
-      "Tesla FSD v14.3.3 Spring 2026 features rolling out — 33% faster Smart Summon + streak gamification keeps software pressure on Rivian",
-      "Hey Rivian music recognition failure: Tidal voice commands returning wrong tracks, worse than old Alexa integration",
-      "RIVN at $13–14 downtrend zone with analyst Hold consensus — R2 ramp must shift institutional narrative"
-    ],
-    "competitiveContext": "Tesla shipped FSD v14.3.3 on May 17 with Spring 2026 UI features, a new intervention-free streak counter, and 33% faster Smart Summon — demonstrating continued high software iteration cadence while Rivian owners flag Hey Rivian music accuracy failures against the prior Alexa bar. Tesla is simultaneously running aggressive promo bundles (0% APR + 3 months free FSD + 1 year free Supercharging) on Model Y, directly targeting R2's $57–59K price tier. Rivian PMs should study the FSD streak tracker as a gamification signal for Autonomy+ engagement design, and should urgently address Hey Rivian Tidal accuracy before the regression becomes a sustained community narrative.",
-    "summary": "Relatively quiet Rivian-original news cycle — fresh community signals center on Hey Rivian music recognition failures, R2 LE delivery timeline uncertainty for new reservations, and R1S inventory discounting. The competitive story is busier: Tesla FSD v14.3.3 dropped May 17 with Spring 2026 features and faster Smart Summon, while Tesla's promotional bundles stack 0% APR + free FSD + free Supercharging to compete at R2's price tier. RIVN stock remains in a $13–14 downtrend with Hold consensus; Rivian needs Q2 R2 delivery momentum to shift the institutional narrative.",
-    "fullReport": "🎬 *GameFilm — Rivian Intel*\n_Sunday, May 18, 2026 — 8:00 PM MT — 12 signals · 6 categories_\n\n*🎯 SITREP*\n• Tesla FSD v14.3.3 drops Spring 2026 features + 33% faster Smart Summon — active software iteration pressure on Rivian's AI stack\n• R2 LE delivery uncertainty growing (2027+ window for new reservations); R1S inventory discounting signals near-term sell pressure\n• RIVN stuck in $13–14 downtrend zone with Hold consensus — needs Q2 R2 ramp catalyst\n\n━━━━━━━━━━\n*⚔️ FIELD INTELLIGENCE* — What the competition is doing\n• *Tesla (FSD v14.3.3)*: Rolled out May 17 with Spring 2026 UI features, new intervention-free streak tracker gamification, and Smart Summon 33% faster. EU regulators formally skeptical of FSD approval. Robotaxi narrative damaged (17 NHTSA crashes). Rivian angle: Tesla's cadence is high — close Hey Rivian quality gaps fast\n  https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/\n• *Tesla (Model Y promo bundle)*: 0% APR up to 72 months + 3 months free FSD + 1 year free Supercharging stacking on new orders — aggressive bundling competing directly at R2's $57–59K tier\n  https://www.reddit.com/r/teslareferralcode/comments/1tg8f0h/active_tesla_referral_link_3_months_free_fsd/\n• *Uber AV debate*: Community consensus forming that Uber's asset-light model is structurally resilient vs. pure AV fleet operators — complicates Rivian's EDV partnership as Uber builds its own robotaxi stack with $10B+\n  https://www.reddit.com/r/stockstobuytoday/comments/1tg8hlc/is_it_just_me_or_are_avs_not_actually_a_threat_to/\n\n━━━━━━━━━━\n*🚗 RIVIAN POSITION*\n\n*🤖 Autonomy (2)*\n• CEO RJ Scaringe in self-driving interview: \"Tesla's got a huge fleet. We have to catch up and then pass them\" — candid data-gap acknowledgment\n  https://x.com/SawyerMerritt/status/2032315028557193642\n• Rivian Assistant (OTA 2026.15) community testing underway on RivianForums — vehicle control praised, music accuracy friction emerging\n  https://www.rivianforums.com/whats-coming-in-2026-15-update-including-rivian-assistant/\n\n*🚗 Vehicles (4)*\n• R2 LE delivery timeline: new reservations asking if 2027 or 2029 — back-of-queue visibility gap is a retention risk\n  https://www.reddit.com/r/RivianR2/comments/1tg8ew7/likely_delivery_time_if_i_reserved_an_le_now/\n• R1S inventory $3K discount for self-financing/cash buyers — urgency pricing or excess inventory signal?\n  https://www.reddit.com/r/Rivian/comments/1tg7sxd/inventory_discount/\n• Edmunds R2 hands-on: \"Rivian's most important car ever\" — $59K, targets Model Y territory with adventure DNA\n  https://x.com/edmunds/status/2032109367353352220\n• R2 configurator: more color, wheel, interior photos added — reservation holders getting full visual clarity\n  https://x.com/RivianUpdates\n\n*💰 Business (1)*\n• RIVN downtrend flagged at $13–14: sector rotation + technical breakdown, Hold consensus, price target $16.3–$20\n  https://www.reddit.com/r/ChartNavigators/comments/1tg6f5f/what_plays_are_you_looking_into_for_tomorrow/\n\n*📱 Software (1)*\n• Hey Rivian music fail: \"Good day sunshine by the Beatles\" returns wrong cover — worse than old Alexa/Tidal, owners reverting to UI\n  https://www.reddit.com/r/Rivian/comments/1tg7wlk/hey_rivian_music_requests/\n\n*🌐 Community (1)*\n• R1T roof tent roundup: iKamper popular but pricey; base model owners concerned about range impact of heavy roof load\n  https://www.reddit.com/r/Rivian/comments/1tg7sxd/inventory_discount/\n\n━━━━━━━━━━\n*📌 PM WATCH LIST*\n• Hey Rivian music UX gap: Tidal voice integration is a regression from Alexa — daily touchpoint regression needs urgent fix\n• Tesla FSD streak tracker = gamification play — study for Autonomy+ engagement design and subscription loop\n• RIVN $13–14 floor: does Q2 R2 delivery ramp + Rivian Assistant press shift institutional sentiment?\n\n_Competitive threat: 🟠 ELEVATED — Tesla FSD cadence + promo bundles; Robotaxi stumbles create AV narrative window_\n_Dashboard: https://watchgamefilm.vercel.app",
-    "items": [
-      {
-        "title": "Tesla increases Actually Smart Summon speed by 33% in new FSD update (v14.3.3)",
-        "url": "https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-17",
-        "snippet": "Tesla rolled out FSD v14.3.3 on May 17 with the Spring 2026 UI update, 33% faster Smart Summon (now 8 mph), and a new intervention-free streak counter that gamifies FSD usage. This is Tesla's fastest major FSD update in months and signals continued software cadence pressure on Rivian's AI assistant and autonomy roadmap."
-      },
-      {
-        "title": "Tesla referral bundle: 0% APR + 3 months free FSD + 1 year free Supercharging stacking on Model Y",
-        "url": "https://www.reddit.com/r/teslareferralcode/comments/1tg8f0h/active_tesla_referral_link_3_months_free_fsd/",
-        "source": "reddit_ev",
-        "category": "competitive",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-18",
-        "snippet": "Tesla referral posts confirm an aggressive stacking promo: 0% APR up to 72 months on Model Y, 3 months free FSD via referral, 1 year free Supercharging on Model 3 Premium, and free premium paint on Performance models. The combined package creates significant value-per-dollar pressure on the R2 at $57–59K."
-      },
-      {
-        "title": "Are AVs actually a threat to Uber? Asset-light vs. AV fleet ownership debate",
-        "url": "https://www.reddit.com/r/stockstobuytoday/comments/1tg8hlc/is_it_just_me_or_are_avs_not_actually_a_threat_to/",
-        "source": "reddit_ev",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-18",
-        "snippet": "Community debate on Uber's structural advantage vs. pure AV companies: asset-light marketplace model protects Uber from fleet capital burn, while Tesla/Waymo-style operators bear 100% of vehicle cost. Relevant for Rivian's EDV partnership positioning as Uber simultaneously builds its own robotaxi stack with $10B+ investment."
-      },
-      {
-        "title": "Likely delivery time if I reserved an R2 LE now?",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tg8ew7/likely_delivery_time_if_i_reserved_an_le_now/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-18",
-        "snippet": "Prospective buyer asks about realistic R2 LE delivery timeline for new reservations — noting they are back of the line and wondering if they are looking at mid-late 2027 or 2029. Highlights growing community awareness that R2 wait times extend well beyond launch window, a potential reservation attrition signal."
-      },
-      {
-        "title": "Hey Rivian music requests: Tidal voice commands returning wrong tracks",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tg7wlk/hey_rivian_music_requests/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-18",
-        "snippet": "Owner reports Hey Rivian failing to correctly identify songs with explicit artist attribution — 'Good day sunshine by the Beatles' returns an obscure unplugged version. Multiple song requests similarly misfiring. Owner notes this is worse than the deprecated Alexa/Tidal integration and has reverted to manual UI control."
-      },
-      {
-        "title": "R1S inventory discount: $3K off for self-financing or cash buyers",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tg7sxd/inventory_discount/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-18",
-        "snippet": "Rivian sales rep offered $3,000 off any R1S inventory vehicle for buyers who provide their own financing or pay cash — with urgency pressure that the offer expires today. This may signal Rivian is actively clearing R1 inventory as R2 ramp begins, with implications for R1 residual values."
-      },
-      {
-        "title": "RIVN flagged as downtrending at $13–14 — sector rotation, Hold consensus",
-        "url": "https://www.reddit.com/r/ChartNavigators/comments/1tg6f5f/what_plays_are_you_looking_into_for_tomorrow/",
-        "source": "reddit_rivian",
-        "category": "business",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-18",
-        "snippet": "Financial community flags RIVN as a downtrending ticker: recommended short range $13–14, 5/22/26 14.0P at $0.45, analyst consensus Hold, price target $16.3–$20. Weakness attributed to sector rotation and technical breakdown. Rivian needs a Q2 R2 delivery catalyst to shift institutional sentiment off the current floor."
-      },
-      {
-        "title": "Rivian CEO RJ Scaringe on self-driving: we have to catch up with Tesla and then pass them",
-        "url": "https://x.com/SawyerMerritt/status/2032315028557193642",
-        "source": "twitter",
-        "category": "autonomy",
-        "sentiment": "neutral",
-        "publishedAt": null,
-        "snippet": "RJ Scaringe acknowledged Tesla's fleet data advantage in a new self-driving interview, framing Rivian's strategy as explicitly catching up and then surpassing Tesla. The candid admission signals Rivian is playing from behind on autonomy data volume, and the Hey Rivian + in-house lidar roadmap is the catch-up vehicle."
-      },
-      {
-        "title": "Edmunds R2 hands-on: Rivian's most important car ever — $59K starting, targets adventure buyers at Model Y territory",
-        "url": "https://x.com/edmunds/status/2032109367353352220",
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Edmunds published a hands-on R2 review via Twitter calling it the most critical vehicle in Rivian's lineup — a small electric SUV that starts at $59K and unapologetically targets the Model Y Performance territory with Rivian's adventure brand DNA. Positive media sentiment on the vehicle itself ahead of deliveries."
-      },
-      {
-        "title": "R2 configurator: new color, wheel, interior photos added — reservation holders getting full visual clarity",
-        "url": "https://x.com/RivianUpdates",
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Isaiah's RivianUpdates account confirms Rivian added R2 configurator photos including all paint color renders, wheel options in context, and interior material details. Reservation holders can now fully visualize their build — reducing the color decision friction that was evident at block party events."
-      },
-      {
-        "title": "What's Coming in OTA 2026.15 Including Rivian Assistant — RivianForums community testing",
-        "url": "https://www.rivianforums.com/whats-coming-in-2026-15-update-including-rivian-assistant/",
-        "source": "rivianforums",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "RivianForums thread covering the 2026.15 OTA update including the Rivian Assistant rollout. Community testing is underway with generally positive reception — vehicle control commands praised, though Hey Rivian music accuracy issues are beginning to surface in parallel discussions."
-      },
-      {
-        "title": "Experiences with roof tents for R1T?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tg8fhz/likely_delivery_time_if_i_reserved_an_le_now/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-18",
-        "snippet": "Base model R1T owner seeking roof tent recommendations — iKamper Rivian Tent is popular but expensive, and range concerns with a heavy roof load are real on the standard battery. Active community signal of demand for adventure accessories guidance and the capability-vs-efficiency trade-off on base trims."
-      }
-    ]
-  },
-  {
     "id": "2026-05-17T02:00:00.000Z",
     "timestamp": "2026-05-17T02:00:00.000Z",
     "sentiment": {
@@ -7728,6 +7533,391 @@
         "sentiment": "neutral",
         "themes": [
           "brand sentiment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-29T22:00:00.000Z",
+    "timestamp": "2026-05-29T22:00:00.000Z",
+    "sentiment": {
+      "positive": 27,
+      "neutral": 14,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 12,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "Tesla pricing",
+      "R1T review",
+      "R1S review",
+      "charging infra",
+      "VW partnership",
+      "RIVN stock",
+      "R3 launch",
+      "EV incentives"
+    ],
+    "competitiveContext": "Volvo's EX60 is emerging as a direct competitor to R2 alongside BMW iX3, with cross-shoppers actively comparing all three. The IONIQ 9's faster DC fast charging (82 min vs 135 min for 1,000 miles) highlights a real charging infrastructure gap for Rivian's 400V platform. Meanwhile, stock sentiment is buoyant on VW deal + R2 launch catalysts, suggesting Wall Street is betting on execution.",
+    "summary": "22 signals captured — R2 launch momentum is the dominant narrative, with visible truckload sightings confirming production ramp. EPA efficiency data showing R2 matches Model Y at 105 MPGe despite a heavier platform is a meaningful competitive proof point. Neutral-to-positive community sentiment overall, though internal Bluesky critique about charging speed and cost reminds that Rivian's 800V gap vs Korean competitors deserves PM attention.",
+    "fullReport": "Friday May 29, 2026 — 22 signals across Bluesky (12), Twitter (8), Reddit r/RivianR2 (2). Dominant theme: R2 launch drumbeat. Sighted truckloads of R2s confirm production scaling underway ahead of launch. EPA efficiency match with Model Y (105 MPGe, 330 mi vs 306 mi) is a key competitive proof point resonating in owner forums. Stock up 7.2% on VW deal + delivery forecast optimism. Community concern signals: (1) charging speed criticism from EV enthusiasts noting IONIQ 9's 800V advantage; (2) RJ Scaringe's challenge to make Rivian profitable post-launch; (3) Bloomington IL housing push for Rivian plant workers. No items from RivianForums or HackerNews this cycle.",
+    "items": [
+      {
+        "title": "I spy a truckload of R2s : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1too31d/i_spy_a_truckload_of_r2s",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "An owner spotter photographed a semi-truck carrying multiple R2 units, suggesting production scaling and dealer-bound shipments are underway ahead of launch.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "r/RivianR2 on Reddit: RJ Scaringe Made Rivian Cool. Now He Has ...",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tq6iqo/rj_scaringe_made_rivian_cool_now_he_has_to_make",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "An editorial examines CEO RJ Scaringe's transformation of Rivian's brand appeal and the urgent imperative to now deliver profitability alongside the cool factor.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "I can't believe the Rivian R2 is finally launching. - Threads",
+        "url": "https://www.threads.com/@greentexanev/post/DY7G32ulVJQ",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "An owner expressing excitement that the R2 is finally launching after a long wait, reflecting strong brand loyalty and pent-up demand.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Electrek (@electrek.co) - Threads",
+        "url": "https://www.threads.com/@electrek.co",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Electrek branded Threads account post — low signal without snippet.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "You know this!! - Threads",
+        "url": "https://www.threads.com/@jeaninepascua/post/DY7m2LzmmDm/you-know-this",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Generic supportive Threads post from an owner.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Post by H.C｜陳燦(@_.howchen._.432) - Threads",
+        "url": "https://www.threads.com/@_.howchen._.432/post/DY7qczeE_JI",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Non-English language post — Chinese characters, context unclear.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "哪有！ 我有幫小白吹吹 - Threads",
+        "url": "https://www.threads.com/@coconut_00312/post/DY6zx2anfN0/%E5%93%AA%E6%9C%89-%E6%88%91%E6%9C%83%E5%B9%AB%E5%B0%8F%E7%99%BD%E5%90%B9%E5%90%B9",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Non-English Threads post — Chinese language, unparseable for relevance.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Wait wth did I miss - Threads",
+        "url": "https://www.threads.com/@anarky_zey/post/DY7X0NNG5A-/wait-wth-did-i-miss",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Confused user asking about a recent Rivian development — low signal.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian R2 Matches Tesla Model Y Efficiency Despite Heavier Build",
+        "url": "https://eletric-vehicles.com/rivian/rivian-r2-matches-tesla-model-y-efficiency-despite-heavier-build",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "R2 achieves 105 MPGe combined and 330 mi EPA range, matching the Tesla Model Y Performance — key efficiency proof point despite R2's heavier platform.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Rivian Stock Climbs Friday: 5 Catalysts Driving the Sudden Surge",
+        "url": "https://medium.com/newsarticulated/rivian-stock-climbs-friday-5-catalysts-driving-the-sudden-surge-b448282b596f",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian stock surged Friday with 5 identified catalysts — VW partnership, R2 launch expectation, and improved delivery guidance among them.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN stock",
+          "VW partnership"
+        ]
+      },
+      {
+        "title": "Rivian's AI Push Is Picking a Fight With Its Own Mission - RivianTrackr",
+        "url": "https://riviantrackr.com/news/rivians-ai-push-is-picking-a-fight-with-its-own-mission",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "RivianTrackr analysis questioning whether Rivian's current AI autonomy investments are misaligned with its brand mission — raises questions about Driver+ roadmap prioritization.",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+",
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "Special Delivery at BCA - Instagram",
+        "url": "https://www.instagram.com/p/DY7Ye2sFjEr",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Instagram post thanking Rivian for a vehicle delivery at BCA (Bloomington, IL area) — community goodwill signal.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "1000-mile charging comparison — Rivian vs IONIQ 9",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mmzij3ezzk2r",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T21:35:03.571Z",
+        "score": 1,
+        "snippet": "Quantified charging time: IONIQ 9 needs ~82 min total for 1,000 miles vs ~135 min for Rivian (400V platform), highlighting Rivian's 800V architecture gap and slower DCFC adoption.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "charging infra",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Why would Rivian cut prices when losing money?",
+        "url": "https://bsky.app/profile/did:plc:aue4fu5cdnnevzbubu6kiby3/post/3mmzgwnai6s22",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T21:06:50.572Z",
+        "score": 0,
+        "snippet": "Bluesky user citing Wikipedia financial data, questioning Rivian's pricing strategy amid ongoing losses — reflects skeptical investor sentiment.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "Rivian Stock Grinds Higher As Volkswagen Deal And R2 Launch Loom",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mmzgkp5opu2m",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T21:00:10.672Z",
+        "score": 0,
+        "snippet": "Stock up 7.2% on upbeat delivery forecasts, VW partnership momentum, and R2 launch anticipation.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN stock",
+          "VW partnership",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Gen 2 R1T/R1S Forest Edge interior retired in 2024",
+        "url": "https://bsky.app/profile/did:plc:yde6f65eazewsozos42ucs7g/post/3mmzfyz3wrq2z",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T20:50:16.478Z",
+        "score": 0,
+        "snippet": "Rivian quietly retired Forest Edge (forest green + brown ash wood) interior option when Gen 2 launched — owner community noted the loss of a distinctive aesthetic.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T review",
+          "R1S review"
+        ]
+      },
+      {
+        "title": "Bloomington IL housing push for new Rivian plant workers",
+        "url": "https://bsky.app/profile/did:plc:5qqdoxg4lx3sxodfgiz3unoj/post/3mmzfxrda622b",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T20:49:36.673Z",
+        "score": 7,
+        "snippet": "Illinois Governor Pritzker + Strong Towns advocating for housing expansion in Bloomington to support workers at the new Rivian manufacturing plant.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Rivian charging time test methodology critique",
+        "url": "https://bsky.app/profile/did:plc:hcqh55paf7rtvlli3ymbgk5h/post/3mmzfjhbt2k2m",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T20:41:16.773Z",
+        "score": 0,
+        "snippet": "EV enthusiast notes 15-min fast charging tests disproportionately favor Rivian's large battery (200kW peak, 20% still significant miles) vs vehicles with smaller packs — a measurement methodology critique.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "charging infra"
+        ]
+      },
+      {
+        "title": "R2 EPA vs Model Y — 105 MPGe, 330 mi vs 306 mi",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mmzfiyxovk2m",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T20:41:22.078Z",
+        "score": 18,
+        "snippet": "RivianTrackr highlights official EPA numbers: R2 Performance matches Model Y Performance at 105 MPGe combined with 330 mi range vs 306 mi — same efficiency, more range.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Volvo EX60 cross-shopped against BMW iX3 and Rivian R2",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mmzf6pk5sc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T20:35:34.778Z",
+        "score": 1,
+        "snippet": "A cross-shopping conversation identifies Volvo EX60, BMW iX3, and Rivian R2 as tough competition in the premium EV space — Volvo emerging as a credible R2 threat.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Will Rivian R3 or R2 reach American market first?",
+        "url": "https://bsky.app/profile/did:plc:hrkdu4d4xpt445eylzp3l6hf/post/3mmzf636kac2c",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T20:35:12.571Z",
+        "score": 1,
+        "snippet": "EV enthusiast speculation on whether R3 or R2 will launch in the US first — signals R3 is actively considered alongside R2 as key volume plays.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "R3 launch"
+        ]
+      },
+      {
+        "title": "IONIQ 9 800V clears NA charging performance — Rivian 400V lag",
+        "url": "https://bsky.app/profile/did:plc:hcqh55paf7rtvlli3ymbgk5h/post/3mmzewjcils2m",
+        "source": "bluesky",
+        "publishedAt": "2026-05-29T20:30:42.716Z",
+        "score": 0,
+        "snippet": "EV analysts note IONIQ 9 (800V EGMP architecture) outpaces Rivian's 400V platform on peak charging — Rivian's huge battery mitigates but doesn't solve the architecture gap for long-distance travel efficiency.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "charging infra",
+          "EV incentives"
         ]
       }
     ]
