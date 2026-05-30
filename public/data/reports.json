@@ -1,210 +1,5 @@
 [
   {
-    "id": "2026-05-27T18:00:00Z",
-    "timestamp": "2026-05-27T18:00:00Z",
-    "sentiment": {
-      "positive": 63,
-      "neutral": 37,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 7,
-        "sentiment": "positive"
-      },
-      "reddit_rivian_r2": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "business": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "EV incentives",
-      "OTA update",
-      "R1S review",
-      "R1T review",
-      "R2 launch",
-      "charging infra",
-      "owner experience",
-      "brand sentiment",
-      "range anxiety"
-    ],
-    "competitiveContext": "No competitor mentions appeared in today's signal. However, the broader EV market remains active — Tesla continues bundling inventory incentives, Ford Lightning pricing pressure persists, and Scout Motors is ramping R2 competitor positioning. Rivian's community signal remains positive, but silence on competitive moves on Reddit today means no directthreat detected.",
-    "summary": "Quiet cycle with 8 signals, all community-driven. Owner join posts dominate — two new R1T/R1S owners expressing excitement, plus a third \"switch\" post. An OTA-related idle drain improvement claim is notable as a potential proxy for software quality perception. The R1S Dual Standard lease deal post signals pricing pressure ahead of Dual Standard discontinuation. R2 anticipation remains the strongest emotional thread across both subreddits.",
-    "fullReport": "Eight signals across r/Rivian and r/RivianR2 with no competitive or autonomy content. Community sentiment is strongly positive, driven by new owner enthusiasm. One software signal (idle drain improvement) suggests an OTA may have shipped a vampire drain fix. The R1S Dual Standard lease credit extension post highlights aggressive inventory clearance pricing. Tire availability frustration (Hankook Ion HT) and L1 charging consumption question round out operational owner concerns.",
-    "items": [
-      {
-        "title": "Made the switch!",
-        "url": "https://www.reddit.com/gallery/1tpd3rt",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T10:52:40-07:00",
-        "score": 5,
-        "snippet": "New Rivian owner sharing excitement about joining the brand.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Hankook Ion HT Availability",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpbew9/hankook_ion_ht_availability/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T09:53:11-07:00",
-        "score": 3,
-        "snippet": "Owner struggling to source Hankook Ion HT tires — three retailers have canceled orders. Accessory/part availability gaps remain an friction point.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R1T review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "PSA: R1S Dual Standard $3k lease credit extended to June 3rd, possibly cheapest time to get an R1S before DS is discontinued",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpb1r4/psa_r1s_dual_standard_3k_lease_credit_extended_to/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T09:40:49-07:00",
-        "score": 3,
-        "snippet": "R1S Dual Standard lease credit extended to June 3 — 6 units available at ~$79,990 MSRP leasing ~$936/mo at 0% down. Signals aggressive inventory clearance ahead of DS discontinuation.",
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "R1S review",
-          "EV incentives"
-        ]
-      },
-      {
-        "title": "Anyone else notice an improvement in idle drain since last update?",
-        "url": "https://i.redd.it/ii95phjk2p3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T08:00:02-07:00",
-        "score": 4,
-        "snippet": "Owner reports idle drain improved from ~1kWh/24h to ~0.7kWh/60h after recent OTA update. Claims a real-world vampire drain fix shipped silently.",
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "OTA update",
-          "range anxiety"
-        ]
-      },
-      {
-        "title": "Rooftop Tent for tall people?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tp7jkr/rooftop_tent_for_tall_people/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T07:38:47-07:00",
-        "score": 3,
-        "snippet": "Owner (~6'7\") seeking rooftop tent recommendation for R1T bed. No community answers yet — shows active outdoor/adventure accessory interest.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R1T review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Finally Joined the Rivian Family!",
-        "url": "https://i.redd.it/phcplcq1v71h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T07:09:41-07:00",
-        "score": 34,
-        "snippet": "New R1S owner sharing delivery joy — highest score (34) in today's batch, strongest brand sentiment signal.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Vehicle usage while L1 charging",
-        "url": "https://i.redd.it/ei4wfvijto3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T07:08:46-07:00",
-        "score": 4,
-        "snippet": "New R1T owner on L1 charging reporting ~10% energy used by vehicle while charging/idle. Asks if this is normal — highlights L1 experience friction for prospective buyers.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "charging infra",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Anyone else in a state of worry, limping along an older ICE vehicle right now, just itching for that magical email to arrive?",
-        "url": "https://www.reddit.com/r/RivianR2/posts/1tpb5m8",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T09:44:31-07:00",
-        "score": 27,
-        "snippet": "R2 reservation holder stuck with aging ICE vehicle (2015 Ford Edge) expressing anxiety about delivery timing. High engagement (score 27) — R2 launch anticipation is real and emotional.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T18:05:30Z",
     "timestamp": "2026-05-27T18:05:30Z",
     "sentiment": {
@@ -7995,6 +7790,373 @@
         "themes": [
           "R2 delivery",
           "R2 launch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-30T20:45:23Z",
+    "timestamp": "2026-05-30T20:45:23Z",
+    "sentiment": {
+      "positive": 37,
+      "neutral": 53,
+      "negative": 11
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "mixed"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 8,
+        "sentiment": "mixed"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 7,
+        "sentiment": "mixed"
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "mixed"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "positive"
+      }
+    },
+    "themes": [
+      "brand sentiment",
+      "EV incentives",
+      "fleet/EDV",
+      "Georgia plant",
+      "Hey Rivian",
+      "infotainment bug",
+      "OTA update",
+      "owner experience",
+      "R1 delivery",
+      "R2 launch",
+      "Tesla pricing"
+    ],
+    "competitiveContext": "Tesla's Model Y remains the primary benchmark for the R2, but the R2's official EPA efficiency matching of the Model Y is a key engineering vindication. Meanwhile, the broader industry (Mercedes, Mazda, Hyundai/Kia) is walking back buttonless-screen decisions, creating a risk that Rivian appears out of step with customer expectations if it continues to ignore CarPlay and voice-UI resistance. Rivian's aggressive R2 pricing at $49,500 and Georgia production ramp are on track for June 9 — execution risk is now the primary PM concern.",
+    "summary": "R2 launch cycle enters EPA validation phase with production underway and June 9 delivery start confirmed — Rivian's core PM teams are in final execution mode. Recurring software complaints around the mandatory voice assistant and CarPlay exclusion continue to generate negative sentiment across Bluesky and Reddit, with one viral post (14 engagements) explicitly citing voice UI as a purchase-blocker. A separate positive noise cluster around OTA updates and EDV fleet fixes shows the software team's responsiveness.",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Launch Oddballs : r/RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1trp1hb/launch_oddballs",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Community discussion about unusual or unexpected aspects of the R2 launch experience.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Why Rivian believes its cars are too smart for CarPlay",
+        "url": "https://www.msn.com/en-us/news/technology/why-rivian-believes-its-cars-are-too-smart-for-carplay/ar-AA24pz0N",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian software chief Wassym Bensaid explains the rationale for omitting CarPlay — Rivian's system is too integrated to delegate to Apple's interface.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Hey Rivian",
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Nilay asked Rivian software chief Wassym Bensaid about his ...",
+        "url": "https://www.instagram.com/reel/DY78tfsjJG0",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Video interview excerpt where The Verge's Nilay Patel challenges Rivian's software chief on the CarPlay decision and broader UX philosophy.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Hey Rivian",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "We're Entering The Era Of Software-Defined Cars",
+        "url": "https://www.autoblog.com/features/were-entering-the-era-of-software-defined-cars",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Feature piece on the broader industry shift toward software-defined vehicles, positioning Rivian against Tesla and legacy OEMs.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "regulatory news",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Rivian reveals the R2 electric SUV alongside smaller R3 and R3X",
+        "url": "https://www.mashable.com/article/rivian-r2-r3-r3x",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "R2 reveal coverage including the R3 and R3X crossovers, expanding Rivian's lineup beyond the R1 series.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian to start R2 SUV deliveries on June 9",
+        "url": "https://www.facebook.com/groups/newsposter/posts/1732985138052669",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Confirmed June 9 start date for R2 customer deliveries, with series production already underway.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "After years of teasing, Rivian finally revealed the R2—a smaller, lighter and far more affordable SUV",
+        "url": "https://www.threads.com/@gearoutside/post/DY9dmQ2ERAo/after-years-of-teasing-rivian-finally-revealed-the-r-a-smaller-lighter-and-far",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "News recap of the R2 reveal — smaller, lighter, more affordable than the R1 series.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "RIVIAN R2 2027 #rivian #rivianr2",
+        "url": "https://www.threads.com/@ivankukui/post/DY9yohkklmJ/video-rivian-r-rivian-rivianr",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Visual post showcasing the Rivian R2 ahead of 2027 model year milestones and deliveries.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian's new stock design improves the front end",
+        "url": "https://www.facebook.com/groups/RivianEV/posts/rivian-needs-make-stock-looks-so-much-better-i-actually-like-my-front-end-now/2236066047150664",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Owner sentiment that recent design updates to the front end of Rivian vehicles are well-received.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "New Rivian Assistant update rolling out to fix initial issues, improve QoL",
+        "url": "https://bsky.app/profile/dadontherunblog.com/post/3mn3w22ygvs2j",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T20:42:31.073Z",
+        "score": 0,
+        "snippet": "Rivian is quickly rolling out an update to fix major Assistant launch issues, bringing meaningful quality-of-life improvements.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "OTA update",
+          "Hey Rivian"
+        ]
+      },
+      {
+        "title": "Bluesky user criticizes Wassym Bensaid's CarPlay stance as 'petulant tech bro'",
+        "url": "https://bsky.app/profile/did:plc:gsky3wmjixg6aikpv3lnbzay/post/3mn3ui5mrqc27",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T20:14:36.272Z",
+        "score": 0,
+        "snippet": "User calls out Wassym Bensaid for refusing to reconsider the CarPlay ban, characterizing it as stubborn tech-bro mentality.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Hey Rivian",
+          "infotainment bug",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Industry reversing course on buttonless touchscreens; Rivian not following",
+        "url": "https://bsky.app/profile/did:plc:e5l6puxt32yyszuicnt5xjaz/post/3mn3twg7tbk2t",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T20:04:39.974Z",
+        "score": 1,
+        "snippet": "Criticism that the rest of the EV industry is walking back buttonless-screen decisions while Rivian doubles down, disappointing owners.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Hey Rivian",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "Rivian Van Software Update Fixes Drive-Unit Fault, Adds Google Maps",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mn3s5uudag2p",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T20:00:09.671Z",
+        "score": 0,
+        "snippet": "Rivian issues OTA update for its commercial EDV fleet van, fixing a drive-unit fault and adding Google Maps navigation.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "OTA update",
+          "fleet/EDV"
+        ]
+      },
+      {
+        "title": "Bluesky user rejects R2 over mandatory voice assistant requirement",
+        "url": "https://bsky.app/profile/did:plc:gsky3wmjixg6aikpv3lnbzay/post/3mn3tl7rz3s2r",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T19:58:26.974Z",
+        "score": 14,
+        "snippet": "Chevrolet Bolt owner says they were considering the R2 but rejected it after hearing they'll need to interact with Rivian's voice assistant — zero tolerance for in-car voice requirements.",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Hey Rivian",
+          "brand sentiment",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 matches Tesla Model Y energy efficiency in EPA testing",
+        "url": "https://bsky.app/profile/did:plc:a3bytqa2zaerm5c5tg3ja4tc/post/3mn3s5uudag2p",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T19:33:05.274Z",
+        "score": 1,
+        "snippet": "Brazilian source reporting that the Rivian R2 achieved the same official energy efficiency as the Tesla Model Y — a key milestone for R2's competitive positioning.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Rivian R2 Performance official efficiency numbers out, matches Tesla Model Y",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mn3rgseewf2e",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T19:20:10.476Z",
+        "score": 0,
+        "snippet": "Official EPA efficiency data for the Rivian R2 Performance variant reveals it matches the Tesla Model Y, validating Rivian's engineering on the efficiency front.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "The electric Rivian R2 starts at $49k — what ICE vehicle could it replace?",
+        "url": "https://bsky.app/profile/did:plc:yjqekodgo25hjem4isderwak/post/3mn3qwu224s2q",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T19:11:14.872Z",
+        "score": 1,
+        "snippet": "Discussion comparing the R2's $49,500 starting price to equivalent ICE vehicles, with political commentary on US manufacturing costs.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Series production of the Rivian R2 underway; EPA ratings and June 9 deliveries confirmed",
+        "url": "https://bsky.app/profile/did:plc:wvln7i4aflavtxau3h2ol6ib/post/3mn3paoaspk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T18:41:02.071Z",
+        "score": 3,
+        "snippet": "R2 series production confirmed at Georgia plant; first EPA range and energy consumption ratings released ahead of June 9 deliveries.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Georgia plant",
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "New Rivian Assistant update in testing — language support, better calling, Quebec rollout",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mn3oz3nb4k26",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T18:36:44.277Z",
+        "score": 8,
+        "snippet": "New Rivian Assistant update in internal testing with better calling, contact search, auto punctuation, quieter chimes, smarter climate control, and first-ever Quebec language support — suggests broader international rollout.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "OTA update",
+          "Hey Rivian",
+          "Driver+"
         ]
       }
     ]
