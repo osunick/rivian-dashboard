@@ -1,254 +1,5 @@
 [
   {
-    "id": "2026-05-16T03:46:00.000Z",
-    "timestamp": "2026-05-16T03:46:00.000Z",
-    "sentiment": {
-      "positive": 72,
-      "neutral": 11,
-      "negative": 17
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 6,
-        "sentiment": "negative"
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 6,
-        "sentiment": "positive"
-      },
-      "twitter": {
-        "found": 6,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 4,
-        "sentiment": "negative"
-      },
-      "software": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "community": {
-        "found": 2,
-        "sentiment": "negative"
-      },
-      "vehicles": {
-        "found": 5,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 3,
-        "sentiment": "negative"
-      },
-      "competitive": {
-        "found": 1,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "R2 configurator now live — reservation holders can spec, price, and configure for the first time",
-      "Recent OTA update causing driver assist regressions on some vehicles (intermittent dropouts)",
-      "Rivian gaining serious investor credibility — VW overtakes Amazon as largest shareholder at 15.9%"
-    ],
-    "competitiveContext": "Uber is publicly turning on Waymo while pouring $10B+ into building its own robotaxi alternatives, reshaping the AV landscape Rivian is entering. Meanwhile Rivian's 'Hey Rivian' assistant outpaces Tesla Grok on in-vehicle control, and R2's pricing (now visible in the live configurator) directly targets Model Y Performance territory.",
-    "summary": "Major product milestone: the R2 configurator went live May 15 giving reservation holders first look at real pricing and options. Twitter activity picked up with @Rivian touting Normal plant production and the Hey Rivian AI rollout. One concern: a new OTA update has broken driver assist functionality for some owners, with intermittent dropouts on previously reliable routes.",
-    "fullReport": "🔵 *Rivian Pulse*\n_May 15, 2026 — 9:46 PM MT — 17 items across 6 categories_\n\n*📊 Overall Sentiment*\nPositive: 70% | Neutral: 12% | Negative: 18%\n_Strong product tailwinds — R2 configurator live, Hey Rivian expanding, Normal plant humming._\n\n━━━━━━━━━━\n🤖 *Autonomy* (4)\n• Update killed driver assist — OTA regression breaks driver assist intermittently on RT 3 (Cape Cod→Boston)\n• Hey Rivian AI rolling out to all Gen 1/Gen 2 R1 owners — full vehicle control via voice\n• @Rivian: \"Hey Rivian\" now available on all Rivian vehicles\n• Rivian mulling in-house lidar manufacturing for full autonomous stack\n\n🚗 *Vehicles & Products* (4)\n• R2 configurator is LIVE — reservation holders can now spec and price for the first time\n• CEO hints at R2 pickup + R2X performance variants as production ramps\n• @Rivian: R2 first variant (dual motor AWD) launches this spring\n• Catalina Cove vs Launch Green R2 color side-by-side spotted at Palo Alto block party\n\n💰 *Business & Finance* (3)\n• VW overtakes Amazon as RIVN's largest shareholder — 209.8M shares, 15.9% stake\n• @Rivian: Normal, IL plant \"absolutely humming\" with R1 and R2 production\n• RIVN closed ~3% down at $14.06 — flagged as high-debt, rate-sensitive in rate hike scenario analysis\n\n📱 *Software & Tech* (3)\n• @Rivian: Rivian Assistant controls countless vehicle functions by voice — now on all vehicles\n• @RivianTrackr: Rivian Assistant in update 2026.15 is out — hands-on testing underway\n• Feature request: owners want Rivian Assistant smart home integrations (Alexa-style light control)\n\n🌐 *Community* (2)\n• @RANtracker: Rivian added 11 new upcoming Adventure Network locations to projection map\n• R1S owner: home Level 2 charger throttling (\"charging slowed\") for 2-3 months — seeking diagnosis\n\n⚔️ *Competitive Intel* (1)\n• Uber publicly turns on Waymo while investing $10B+ in competing robotaxi alternatives\n━━━━━━━━━━\n\n_Reply with a category name for full details_",
-    "items": [
-      {
-        "title": "Update killed driver assist",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tegu2c/update_killed_driver_assist/",
-        "source": "reddit_rivian",
-        "category": "autonomy",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-16",
-        "snippet": "Owner reports a recent OTA software update broke driver assist on their R1 — now throws intermittent 'assistance not available on this road' alerts on RT 3 (Cape Cod to Boston), a route it previously handled nearly end-to-end. Infotainment cutouts were also reported post-update; reboot fixed audio but driver assist issues persist."
-      },
-      {
-        "title": "Rivian Assistant Integrations",
-        "url": "https://www.reddit.com/r/Rivian/comments/1teh1oy/rivian_assistant_integrations/",
-        "source": "reddit_rivian",
-        "category": "software",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-16",
-        "snippet": "Owner asks whether Rivian Assistant will restore the smart home integrations previously available via Alexa (e.g., turning on house lights while rolling up the driveway). Reflects wider community demand for third-party smart home connectivity beyond the current Google Calendar/contacts integration."
-      },
-      {
-        "title": "Rivian Charger - Slowed",
-        "url": "https://www.reddit.com/r/Rivian/comments/1teh825/rivian_charger_slowed/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-16",
-        "snippet": "R1S owner reports their home Level 2 charger has been showing 'charging slowed' messages for 2-3 months, hitting the 48A/22 mi/hr peak for less than an hour before throttling. Issue persists in moderate 40°F garage temperatures, raising questions about charger or vehicle battery degradation."
-      },
-      {
-        "title": "Catalina Cove and Launch Green Side-by-Side",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tegu2c/catalina_cove_and_launch_green_sidebyside/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-16",
-        "snippet": "Owner photographed the two R2 Launch Package exclusive colors side-by-side at a Palo Alto block party: Catalina Cove (blue) and Launch Green. Timely comparison as the R2 configurator went live the same day — helpful for reservation holders deciding between the $2,000 exclusive colors."
-      },
-      {
-        "title": "RIVN flagged as high-debt, rate-sensitive — stock down ~3% to $14.06",
-        "url": "https://www.reddit.com/r/GetRichShortTerm/comments/1te9ct6/rate_hike_fears_five_stocks_at_risk_and_five_to/",
-        "source": "reddit_rivian",
-        "category": "business",
-        "sentiment": "negative",
-        "publishedAt": "2026-05-15",
-        "snippet": "RIVN highlighted as a high-risk name in a rate hike scenario: described as a 'high-debt EV maker dependent on cheap financing' exemplifying small-cap rate sensitivity. RIVN traded down approximately 3% to $14.06 on May 15 during broader market rate hike anxiety."
-      },
-      {
-        "title": "Rivian opens R2 configurator: here are all the options and pricing",
-        "url": "https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/",
-        "source": "news",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-15",
-        "snippet": "Rivian opened the online R2 configurator ahead of spring deliveries, giving reservation holders their first look at full pricing and options. Multiple trims available with the Performance tier leading; the configurator launch marks a key pre-delivery milestone and generated significant community buzz."
-      },
-      {
-        "title": "Uber turns on Waymo as it pours $10B+ into owning robotaxi alternatives",
-        "url": "https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "publishedAt": "2026-05-15",
-        "snippet": "Uber is publicly criticizing its robotaxi partner Waymo while simultaneously investing $10 billion+ to develop competing autonomous alternatives. The strategic pivot signals fracturing in the AV partnership space and growing interest in owning autonomy stack development — context relevant to Rivian's own AV ambitions."
-      },
-      {
-        "title": "Rivian rolls out 'Hey Rivian' AI assistant with full vehicle control",
-        "url": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
-        "source": "news",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-12",
-        "snippet": "Rivian deployed its AI-powered voice assistant to all Gen 1 and Gen 2 R1 owners. The system controls drive modes, ride height, frunk, climate settings, and reads/responds to messages — outperforming Tesla's competing Grok assistant which still cannot command vehicle systems months after launch."
-      },
-      {
-        "title": "Rivian (RIVN) CEO hints at R2 pickup and R2X variants as production ramps",
-        "url": "https://electrek.co/2026/05/06/rivian-r2-variants-pickup-r2x-scaringe/",
-        "source": "news",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-06",
-        "snippet": "CEO RJ Scaringe confirmed Rivian is developing undisclosed R2 variants including a pickup truck and an R2X performance model. Spreading development costs across a broader R2 lineup as production scales at Normal, IL."
-      },
-      {
-        "title": "Volkswagen overtakes Amazon as Rivian's (RIVN) largest shareholder with 15.9% stake",
-        "url": "https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-05",
-        "snippet": "Volkswagen now owns 209.8 million shares of Rivian (RIVN), a 15.9% stake that surpasses Amazon as the largest single shareholder. The deepening VW relationship reinforces confidence in Rivian's platform and software capabilities from a major global OEM."
-      },
-      {
-        "title": "Rivian (RIVN) mulls making its own lidar as it builds full autonomous driving stack",
-        "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
-        "source": "news",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-05",
-        "snippet": "CEO RJ Scaringe confirmed active discussions about manufacturing lidar sensors domestically, potentially via a Chinese tech partnership. Complements the RAP1 chip (5nm, 1,600 TOPS), making Rivian one of the most vertically integrated autonomy players in the consumer vehicle segment."
-      },
-      {
-        "title": "@Rivian: Our plant in Normal is absolutely humming with R1 and R2 vehicles",
-        "url": "https://x.com/Rivian/status/2055046686108790838",
-        "source": "twitter",
-        "category": "business",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Official Rivian X/Twitter post celebrating production momentum at the Normal, IL plant, with both R1 and R2 vehicles rolling out to driveways across America. Signals strong manufacturing execution as R2 deliveries begin ramping."
-      },
-      {
-        "title": "@Rivian: Rivian Assistant controls countless vehicle functions with just your voice",
-        "url": "https://x.com/Rivian/with_replies",
-        "source": "twitter",
-        "category": "software",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Rivian's official account promoted the new Rivian Assistant's vehicle control capabilities. The assistant handles a wide range of in-vehicle commands by voice, positioning it as a meaningful step beyond traditional voice control systems."
-      },
-      {
-        "title": "@Rivian: Hey Rivian is now available on all Rivian vehicles",
-        "url": "https://x.com/Rivian/highlights",
-        "source": "twitter",
-        "category": "autonomy",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Rivian confirmed Hey Rivian is now fully deployed across all vehicle models, not just Gen 2. The official post highlighted off-road use cases — e.g., voice-controlling the vehicle after a dirty trail day — emphasizing practical adventure utility."
-      },
-      {
-        "title": "@RivianTrackr: Rivian Assistant in 2026.15 is finally out — I've been putting it to the test",
-        "url": "https://x.com/RivianTrackr",
-        "source": "twitter",
-        "category": "software",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "RivianTrackr, an independent Rivian news account, confirmed the Rivian Assistant shipped in OTA update 2026.15 and is now undergoing hands-on testing. Early community tracker coverage signals active owner interest in the new AI assistant feature."
-      },
-      {
-        "title": "@Rivian: The first R2 variant — dual motors, AWD — launches this spring",
-        "url": "https://x.com/Rivian/status/2021255369906131207",
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "Official Rivian tweet confirming the first R2 variant will be the dual-motor, all-wheel-drive model launching this spring. Coordinates with the R2 configurator going live on May 15, building reservation holder momentum."
-      },
-      {
-        "title": "@RANtracker: Rivian adds 11 new upcoming Adventure Network locations to projection map",
-        "url": "https://x.com/RANtracker",
-        "source": "twitter",
-        "category": "community",
-        "sentiment": "positive",
-        "publishedAt": null,
-        "snippet": "The independent Rivian Adventure Network tracker account reported Rivian updated its upcoming charger location projections with 11 new sites, including Bellingham WA, Tacoma WA, Ellensburg WA, and Tigard OR. Signals continued charging infrastructure expansion in the Pacific Northwest."
-      },
-      {
-        "title": "Catalina Cove and Launch Green Side-by-Side",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tegut0/catalina_cove_and_launch_green_sidebyside/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "publishedAt": "2026-05-15",
-        "snippet": "Owner photographed the two R2 Launch Package exclusive colors side-by-side at a Palo Alto block party — Catalina Cove (blue, $2,000) and Launch Green ($2,000). The color comparison is timely as the R2 configurator went live today, helping reservation holders make color decisions."
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T18:00:00Z",
     "timestamp": "2026-05-27T18:00:00Z",
     "sentiment": {
@@ -7953,6 +7704,297 @@
         "themes": [
           "testing/adjustments",
           "Driver+"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-30T14:02:51Z",
+    "timestamp": "2026-05-30T14:02:51Z",
+    "sentiment": {
+      "positive": 69,
+      "neutral": 19,
+      "negative": 12
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "R2 delivery",
+      "Tesla pricing",
+      "Driver+",
+      "Hey Rivian",
+      "infotainment bug",
+      "brand sentiment",
+      "owner experience"
+    ],
+    "competitiveContext": "Tesla continues to dominate the EV space with Model Y Performance as the default benchmark for any new compact EV SUV launch. RIVN's R2 is positioned to capture demand in the $45-55K segment where Tesla's pricing and feature set leave room. Meanwhile, Waymo's continued expansion reinforces that autonomy is becoming a required differentiator, not a nice-to-have — Rivian's AI voice bet needs to translate into a credible Driver+ story.",
+    "summary": "R2 launch energy is dominant — test drives, June 9 delivery countdown, and R2 vs Model Y comparisons filling social feeds. Rivian's public stance that customers prefer AI-native experiences over CarPlay/Android Auto is generating notable debate, with advocates pushing back on Bensaid's Decoder podcast take. Stock is up 14.6% this week. A service app regression (chatbot-before-ticket) is drawing owner complaints.",
+    "fullReport": "Full brief below.",
+    "items": [
+      {
+        "title": "Final R2 Block Party in San Francisco : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1trkum5/final_r2_block_party_in_san_francisco",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Final R2 Block Party in San Francisco — community members gathering to celebrate the R2 launch ahead of deliveries on June 9.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Rivian R2 Countdown : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1trsax7/rivian_r2_countdown",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Community countdown thread for R2 deliveries beginning June 9, reflecting strong anticipation.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R2 delivery",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Who says you need a gas tank to conquer the trails - US News / Threads",
+        "url": "https://www.threads.com/@usnews/post/DY8PnRUFX-M/who-says-you-need-a-gas-tank-to-conquer-the-trails-for-our-first-ever-u-s-news",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "US News highlights the R1T's off-road capability as a differentiator against gas trucks, reinforcing brand positioning.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review"
+        ]
+      },
+      {
+        "title": "I'm finally gonna get an EV! The Rivian R2 comes out on June 9th - Threads",
+        "url": "https://www.threads.com/@imparkerburton/post/DY7Oe9rAE2H",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "A prospective buyer celebrates R2 as their first EV purchase, signaling strong conversion from the R2 launch pipeline.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Rivian says the tremendous progress of AI-powered voice assistants will make car - Facebook/InsideEVs",
+        "url": "https://www.facebook.com/InsideeVs/posts/rivian-says-the-tremendous-progress-of-ai-powered-voice-assistants-will-make-car/1574769580883317",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian doubles down on AI voice assistants as the future of in-car experience, signaling a strategic bet against CarPlay/Android Auto.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Driver+",
+          "Hey Rivian"
+        ]
+      },
+      {
+        "title": "Rivian R2 Performance vs Tesla Model Y Performance, EPA official - Threads",
+        "url": "https://www.threads.com/@riviantrackr/post/DY77PP7FMUp/rivian-r-performance-vs-tesla-model-y-performance-epa-official-combined-mp-ge",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "EPA-rated R2 Performance against Model Y Performance puts Rivian in direct comparison shopping conversations.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Tesla pricing",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@geoff-airey.bsky.social (Bluesky): CarPlay on Rivian Decoder Podcast",
+        "url": "https://bsky.app/profile/did:plc:vhd6soworvonmlmresdu4ksw/post/3mn2zuogi6y2d",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T12:18:25.277Z",
+        "score": 1,
+        "snippet": "Rivian's Bensaid argued on the Decoder podcast that CarPlay won't be the norm in 5 years — listeners push back strongly, citing CarPlay as a must-have for many buyers.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+",
+          "infotainment bug",
+          "Hey Rivian"
+        ]
+      },
+      {
+        "title": "@trendalertstox.bsky.social (Bluesky): RIVN UP 14.63% this week",
+        "url": "https://bsky.app/profile/did:plc:2etirfyqqgrsbe7nibl4eyx3/post/3mn2t5r22sq2y",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T10:18:14.272Z",
+        "score": 0,
+        "snippet": "RIVN stock closed at $16.30, up 14.63% week-over-week, suggesting positive market reception to recent R2 and operational news.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "@chucky.bsky.social (Bluesky): 9to5Mac Daily: Apple Wallet IDs, Rivian and CarPlay",
+        "url": "https://bsky.app/profile/did:plc:uu2725lqpc5ph47nhrznd5nq/post/3mn2kauj6tb2s",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T07:38:54.671Z",
+        "score": 0,
+        "snippet": "9to5Mac covers Rivian's CarPlay stance as part of a broader Apple ecosystem story, highlighting the user-choice tension in Rivian's software philosophy.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Driver+",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "@chucky.bsky.social (Bluesky): Rivian is pretty sure customers want AI, not Android Auto",
+        "url": "https://bsky.app/profile/did:plc:uu2725lqpc5ph47nhrznd5nq/post/3mn2jbrndga2c",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T07:21:31.575Z",
+        "score": 0,
+        "snippet": "Rivian's strategic bet on AI-native infotainment over Android Auto generates discussion as the rollout details emerge.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Driver+",
+          "Hey Rivian"
+        ]
+      },
+      {
+        "title": "@hambry.bsky.social (Bluesky): Limited-run car paint colors, mirroring sneaker drops",
+        "url": "https://bsky.app/profile/did:plc:2527y2sog76oofmxozgqqop4/post/3mn2bewmdoe2i",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T05:00:07.173Z",
+        "score": 0,
+        "snippet": "Rivian planning limited-edition paint colors as scarcity drops — a community/brand play that mirrors streetwear FOMO mechanics.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@x-minus-t.bsky.social (Bluesky): Want to try the Rivian R2? Here's how you can secure a test drive - USA Today",
+        "url": "https://bsky.app/profile/did:plc:fjyz6vi5ih6fktq7rzkaiacb/post/3mn26ugudt62m",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T04:15:06.371Z",
+        "score": 0,
+        "snippet": "USA Today covers how to get an R2 test drive — Rivian opening access as June 9 delivery date approaches.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "R2 delivery"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Rivian app now forces AI chatbot before support ticket",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mn25g2q6zk2y",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T03:49:12.473Z",
+        "score": 3,
+        "snippet": "Rivian app removed direct service ticket filing — owners must now go through an AI chatbot first, drawing complaints about friction and AI accuracy.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Hey Rivian",
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@antara-poster.bsky.social (Bluesky): Rivian R2 deliveries in US begin June 9, 2026",
+        "url": "https://bsky.app/profile/did:plc:mwlzey3sttvtzgjtfci54ub3/post/3mmzzixq7rf2l",
+        "source": "bluesky",
+        "publishedAt": "2026-05-30T02:39:27.095Z",
+        "score": 0,
+        "snippet": "Indonesian news outlet covers R2 US delivery start date of June 9, reflecting international interest in R2 launch.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 delivery",
+          "R2 launch"
         ]
       }
     ]
