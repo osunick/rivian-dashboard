@@ -1,322 +1,5 @@
 [
   {
-    "id": "2026-05-27T21:42:48Z",
-    "timestamp": "2026-05-27T21:42:48Z",
-    "sentiment": {
-      "positive": 63,
-      "neutral": 26,
-      "negative": 11
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 3,
-        "sentiment": "mixed"
-      },
-      "reddit_rivian_r2": {
-        "found": 5,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 10,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 10,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 5,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 4,
-        "sentiment": "mixed"
-      },
-      "competitive": {
-        "found": 1,
-        "sentiment": "negative"
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "R1 delivery",
-      "R1T review",
-      "brand sentiment",
-      "EV incentives",
-      "Ferrari EV",
-      "RIVN stock"
-    ],
-    "competitiveContext": "Ferrari's first EV 'Luce' drew significant backlash (shares slumping) and Lamborghini's CEO doubled down on canceling their EV program — signaling premium ICE brands face serious headwinds going electric. This is a greenfield opportunity for Rivian's brand positioning as an EV-native premium maker. Meanwhile, ProLogium's $3.8B solid-state battery IPO signals the battery supply chain is maturing fast, which will benefit cost curves across the EV industry.",
-    "summary": "R2 launch momentum is dominant this cycle — June 9 deliveries and demo drives announced with high Reddit engagement (164+ upvotes on announcement thread). One negative owner-experience thread about a returned R1T (steering pull, repeated service visits) surfaced but appears isolated. Ferrari's EV stumbles and Lamborghini's EV reversal reinforce Rivian's advantage as an EV-native brand with real products already in customers' hands.",
-    "fullReport": "19 new signals captured. R2 dominates the Rivian conversation with launch date confirmed and high energy in enthusiast communities. One service-quality flag on R1T ownership — worth monitoring. Broader EV market news is neutral to positive for Rivian's positioning.",
-    "items": [
-      {
-        "id": "1",
-        "title": "Ownership Experience - Returned my 2024 Rivian R1T today multiple service visits",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tphre8/ownership_experience_returned_my_2024_rivian_r1t/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "negative",
-        "themes": [
-          "owner experience",
-          "R1T review"
-        ],
-        "snippet": "Owner returned a leased 2024 R1T with 22k miles after persistent steering pull that resisted multiple service visits over nearly a year. Signals a service-resolution gap that could affect brand sentiment if it becomes a pattern."
-      },
-      {
-        "id": "2",
-        "title": "Reservation in my name - can my partner use my reservation?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
-        "source": "reddit_rivian",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Day-1 R2 reserver asking whether reservation can be transferred to a partner's name — indicates high personal investment in the R2 launch and a likely operational question for the customer experience team."
-      },
-      {
-        "id": "3",
-        "title": "Rivian announces deliveries and demo drives begin June 9!",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
-        "source": "reddit_rivian",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "R1 delivery"
-        ],
-        "snippet": "Rivian's official announcement that R2 customer deliveries begin June 9 with demo drives available at all Rivian Spaces. Top post on r/Rivian with 164+ upvotes — strong signal of consumer excitement heading into launch."
-      },
-      {
-        "id": "4",
-        "title": "We have a date!!! June 9th",
-        "url": "https://i.redd.it/3lgjnbqljq3h1.jpeg",
-        "source": "reddit_rivianr2",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Enthusiast celebration post with 194 upvotes — community is treating June 9 as a landmark moment. Visual confirmation of Rivian's official launch announcement."
-      },
-      {
-        "id": "5",
-        "title": "June 9th R2 Launches",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tpgh1l/june_9th_r2_launches/",
-        "source": "reddit_rivianr2",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Direct link to Rivian's stories page and Instagram confirming order invitations begin, deliveries start, and demo drives open at all Rivian Spaces on June 9."
-      },
-      {
-        "id": "6",
-        "title": "Extra wheels, third party, bolt pattern?",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tpeuhl/extra_wheels_third_party_bolt_pattern/",
-        "source": "reddit_rivianr2",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "R2 reservation holder asking about third-party wheel compatibility and winter tire options — signals that launch-edition buyers are thinking ahead about ownership customization and that accessory ecosystem will matter."
-      },
-      {
-        "id": "7",
-        "title": "HOW does the Rivian starfish linkage reduce unsprung mass?",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tpdvew/how_does_the_rivian_starfish_linkage_reduce/",
-        "source": "reddit_rivianr2",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Mechanically-savvy user asking detailed engineering questions about R2's rear 'starfish' linkage and its unsprung mass benefits — indicates deep technical engagement among the R2 reservation community that could drive word-of-mouth credibility."
-      },
-      {
-        "id": "8",
-        "title": "Rivian R2 Launches June 9",
-        "url": "https://stories.rivian.com/r2-launch-june-9-2026",
-        "source": "reddit_electricvehicles",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Rivian's official R2 launch story cross-posted to r/electricvehicles with 44 upvotes — confirming launch date to a broader EV-interested audience outside Rivian's owned channels."
-      },
-      {
-        "id": "9",
-        "title": "Rivian will deliver the first R2 SUVs on June 9 - TechCrunch",
-        "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
-        "source": "news",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "RIVN stock"
-        ],
-        "snippet": "TechCrunch coverage of R2 delivery launch — key tech-media validation of the June 9 milestone. Positive framing positions this as a pivotal commercial moment for Rivian."
-      },
-      {
-        "id": "10",
-        "title": "Luce: Ferrari shares slump after it unveils first fully electric car - BBC",
-        "url": "https://www.bbc.com/news/articles/cwy22rddy5no",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "negative",
-        "themes": [
-          "brand sentiment",
-          "EV incentives"
-        ],
-        "snippet": "Ferrari's first EV 'Luce' received cold market reception — shares slumped on debut. Signals that even legendary ICE brands face significant EV brand-risk, which is a relative win for EV-native brands like Rivian."
-      },
-      {
-        "id": "11",
-        "title": "After Ferrari Luce backlash, Lamborghini CEO says canceling its own EV was the right choice - CNBC",
-        "url": "https://www.cnbc.com/2026/05/27/ferrari-luce-backlash-lamborghini-ceo-ev.html",
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "themes": [
-          "brand sentiment"
-        ],
-        "snippet": "Lamborghini's CEO explicitly credited their decision to cancel their EV program to Ferrari's struggles — a rare public validation of anti-EV strategy that highlights the EV transition risk legacy automakers face. Rivian, as an EV-native, has no such liability."
-      },
-      {
-        "id": "12",
-        "title": "Solid-state battery maker ProLogium to go public in $3.8 billion deal - Automotive News",
-        "url": "https://www.autonews.com/ev/batteries/ane-prologium-public-offer-0527/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "EV incentives"
-        ],
-        "snippet": "ProLogium's $3.8B SPAC listing is the latest signal that solid-state battery technology is commercializing rapidly. Benefits the entire EV industry cost curve including Rivian's future platforms."
-      },
-      {
-        "id": "13",
-        "title": "EQT-backed Voltera and EV rideshare platform Revel to merge - pehub.com",
-        "url": "https://www.pehub.com/eqt-backed-voltera-and-ev-rideshare-platform-revel-to-merge/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "charging infra"
-        ],
-        "snippet": "EV charging infrastructure player Voltera merging with rideshare platform Revel — consolidation in the charging space signals that scale is becoming table stakes, and that full-stack EV service models are emerging."
-      },
-      {
-        "id": "14",
-        "title": "Space Stocks Go Stellar Before SpaceX IPO. Red Flags as Rocket Lab, AST Soar. - Barron's",
-        "url": "https://www.barrons.com/articles/spacex-ipo-rocket-labs-stock-ast-spacemobile-e74fd3a8",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "RIVN stock"
-        ],
-        "snippet": "Broader space/tech IPO momentum may lift sentiment across innovative hardware companies including EV makers. Not directly Rivian-relevant but useful for benchmarking investor appetite."
-      },
-      {
-        "id": "15",
-        "title": "Cognition's $26B valuation, Thea Energy's $100M raise, and Equal's new owner - Axios",
-        "url": "https://www.axios.com/pro-rata-premium-first-look-cognition-thea-c1d99111-413a-4718-8121-7f64d2cbb2e3.html",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "RIVN stock"
-        ],
-        "snippet": "AI startup Cognition hitting $26B valuation signals robust VC appetite for deep tech. Rivian benefits from positive 'hard tech' investor sentiment climate."
-      },
-      {
-        "id": "16",
-        "title": "EQT-backed Voltera and EV rideshare platform Revel to merge - pehub.com",
-        "url": "https://www.pehub.com/eqt-backed-voltera-and-ev-rideshare-platform-revel-to-merge/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "charging infra"
-        ],
-        "snippet": "Duplicate of item 13. Skipping."
-      },
-      {
-        "id": "17",
-        "title": "Frontier Lithium Announces Participation in the 2026 Canadian Climate Investor Conference - TradingView",
-        "url": "https://www.tradingview.com/news/tmx_newsfile:658afbbc8094b:0-frontier-lithium-announces-participation-in-the-2026-canadian-climate-investor-conference/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [],
-        "snippet": "Pre-production lithium miner positioning for investor conference — lithium supply chain remains active but no direct Rivian impact."
-      },
-      {
-        "id": "18",
-        "title": "Pre-production lithium miner joins 2026 Canadian Climate Investor Conference - Stock Titan",
-        "url": "https://www.stocktitan.net/news/LITOF/frontier-lithium-announces-participation-in-the-2026-canadian-eh8stmkh99ah.html",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [],
-        "snippet": "Duplicate of item 17. Skipping."
-      },
-      {
-        "id": "19",
-        "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup - TechCrunch",
-        "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-        "source": "news",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [],
-        "snippet": "TechCrunch startup event — not Rivian-relevant."
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T21:49:00Z",
     "timestamp": "2026-05-27T21:49:00Z",
     "sentiment": {
@@ -8354,6 +8037,197 @@
         "themes": [
           "Charging infra"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-31T13:41:34+00:00",
+    "timestamp": "2026-05-31T13:41:34+00:00",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 60,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "R1S review",
+      "software update",
+      "EV incentives",
+      "charging infra",
+      "brand sentiment",
+      "RIVN stock"
+    ],
+    "competitiveContext": "The EV market is shifting toward affordable long-range vehicles — China's top-selling EV now starts under $10K and 300+ mile range is becoming table stakes. Waymo is expanding robotaxi service in major cities. Ferrari's polarizing EV design drew backlash, illustrating the risk of misreading buyer expectations on style vs substance. Rivian's AI-first infotainment strategy differentiates from Tesla's Android Auto tolerance and traditional CarPlay adoption — but execution and consumer education will determine if it lands.",
+    "summary": "R2 launch momentum is building as InsideEVs confirms deliveries begin in two weeks. Community sentiment is overwhelmingly positive — Bluesky users praise R1S crash protection and express growing conviction about R2's value proposition at current gas prices. Rivian's deliberate move away from Android Auto toward proprietary AI signals a confident but risky software differentiation bet that PMs should watch closely.",
+    "fullReport": "GameFilm — Rivian Intel. Sunday, May 31, 2026 — 6:40 AM PT — 61 signals · 6 categories. SITREP: Top competitive move is the broader EV market normalizing 300+ mile range and sub-$10K options from China, raising the bar for all players. Top Rivian move is the confirmed R2 delivery launch in ~2 weeks. Key risk is Rivian's AI-over-Android Auto strategy — bold differentiation that could delight early adopters but may alienate users who depend on CarPlay/Android Auto ecosystem. FIELD INTELLIGENCE (5): Rivian is charting an AI-first in-car experience, definitively moving away from Android Auto for a proprietary approach. Rivian R1S impressed in a real-world 35 MPH rear-end collision — owner praised crash protection, reinforcing brand safety equity. InsideEVs confirms Rivian will begin R2 deliveries in two weeks — official timing aligns with Georgia plant ramp. A Bluesky user highlights DC fast charging network maturity making mid-300s range EVs (citing R2) more accessible to mainstream buyers. COVID-era Rivian waitlist buyer who passed on R1 now planning to switch out of warranty — signals brand loyalty pipeline even among those who didn't convert on first try. RIVIAN POSITION: Autonomy (0) — no new signals. Vehicles (3) — R2 delivery timing confirmed; R1S crash protection reinforces safety brand; mid-300s range positioning validated by infrastructure improvements. Business (2) — R2 accessibility thesis gaining community validation; $6+ gas sentiment boosting EV purchase intent. Software (2) — AI-over-Android Auto strategy is a bold software bet with differentiation potential but execution risk. Community (1) — Owner loyalty pipeline active even for customers who passed initially. Competitive (1) — China EV pricing and Waymo expansion raise competitive stakes heading into R2 launch. PM WATCH LIST: R2 launch execution, AI-first UX adoption curve, competitive range/price pressure from China EVs.",
+    "items": [
+      {
+        "title": "Standard v Premium : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tsatgs/standard_v_premium",
+        "source": "reddit_rivian_r2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ],
+        "pmSummary": "Community question about R2 Standard vs Premium trim — signals buyer consideration and potential configurator/option confusion ahead of launch deliveries."
+      },
+      {
+        "title": "It's Official: Rivian Will Start Delivering R2s In Two Weeks - InsideEVs",
+        "url": "https://insideevs.com/news/797123/rivian-r2-deliveries-begin-june",
+        "source": "news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "It's Official: Rivian Will Start Delivering R2s In Two Weeks",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ],
+        "pmSummary": "InsideEVs confirms R2 deliveries begin in approximately two weeks — official launch timing validates Georgia plant ramp and marks the start of Rivian's high-volume chapter."
+      },
+      {
+        "title": "Rivian Prioritizes AI Over Android Auto for EV Experience",
+        "url": "https://bsky.app/profile/did:plc:jcmobds2oj52j47qjjaopx77/post/3mn5ce2464l26",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T09:55:30.772Z",
+        "score": 0,
+        "snippet": "Rivian Prioritizes AI Over Android Auto for EV Experience",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "software update"
+        ],
+        "pmSummary": "Rivian is charting an AI-first in-car experience, definitively moving away from Android Auto in favor of proprietary AI integration — a bold software differentiation bet."
+      },
+      {
+        "title": "Rivian R1S Rear-Ended by Audi A4 at Roughly 35 MPH Leaves Owner Impressed With Rivian's Crash Protection",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mn5cmdwjpu2f",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T10:00:09.871Z",
+        "score": 0,
+        "snippet": "Rivian R1S Rear-Ended by Audi A4 at Roughly 35 MPH Leaves Owner Impressed With Rivian's Crash Protection",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S review"
+        ],
+        "pmSummary": "Real-world R1S crash event in heavy traffic validates structural safety engineering — owner came away impressed, reinforcing brand equity in vehicle protection."
+      },
+      {
+        "title": "DC fast charging network good enough — Rivian R2 I'm looking at you",
+        "url": "https://bsky.app/profile/did:plc:66ha7i7qipeic326q7tcfjd5/post/3mn5jarrjec2g",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T11:58:57.273Z",
+        "score": 2,
+        "snippet": "DC fast charging network is good enough nowadays that even on smaller roads you can find one in less than every 250 miles. That makes mid 300 range EVs mighty attractive. Rivian R2 I'm looking at you",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "charging infra",
+          "EV incentives"
+        ],
+        "pmSummary": "Maturing DC fast charging infrastructure shifts range anxiety calculus in favor of mid-300s vehicles like R2 — positive signal for mainstream EV accessibility."
+      },
+      {
+        "title": "You can't beat an EV. Rivian is going to sell a ton of R2's",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mn5ndgso7s23",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T13:12:04.276Z",
+        "score": 0,
+        "snippet": "When you factor in price, performance, operating expense — you can't beat an EV. Rivian is going to sell a ton of R2's.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "RIVN stock"
+        ],
+        "pmSummary": "Community conviction that R2's price/performance/operating cost equation will drive volume — bullish signal for demand pipeline heading into launch."
+      },
+      {
+        "title": "COVID waitlist buyer now planning to switch out of warranty",
+        "url": "https://bsky.app/profile/did:plc:2ri6fvda6l77lstujbvvp4je/post/3mn4ujjfdqc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T05:48:04.179Z",
+        "score": 6,
+        "snippet": "Needed a new car during COVID when Rivian waitlist was well over a year, so passed. But have grown increasingly excited for my first out of warranty repair to finally make the jump.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment"
+        ],
+        "pmSummary": "Long-dormant waitlist customer re-engaging as vehicle ages — signals brand loyalty pipeline and conversion potential even among those who passed on first purchase cycle."
       }
     ]
   }
