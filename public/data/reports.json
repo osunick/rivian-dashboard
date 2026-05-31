@@ -1,256 +1,5 @@
 [
   {
-    "id": "2026-05-27T21:49:00Z",
-    "timestamp": "2026-05-27T21:49:00Z",
-    "sentiment": {
-      "positive": 60,
-      "neutral": 30,
-      "negative": 10
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 15,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "vehicles": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 2,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "Autonomy+",
-      "Driver+",
-      "Hey Rivian",
-      "R2 launch",
-      "Tesla pricing"
-    ],
-    "competitiveContext": "While other OEMs cancel or delay EV programs, Rivian is accelerating — confirming R2 deliveries and demo drives start June 9. Meanwhile, Tesla continues pricing pressure across its lineup, and a $229M Q1 autonomy R&D spend by Rivian signals the company is investing heavily to close any capability gap with Waymo and Aurora. The competitive window for Rivian to establish Driver+ credibility is narrowing as these players scale.",
-    "summary": "R2 launch momentum is the dominant signal today — Rivian confirmed deliveries and demo drives begin June 9 across Rivian Spaces and service centers. Social channels show growing R2 inventory movement and an owner celebrating a new Rivian Assistant feature on their R1S anniversary. One concern: a report suggests 2027 R2 leases may exceed $1,100/month, raising affordability questions for a key growth vehicle.",
-    "fullReport": "GameFilm intel for May 27, 2026: 19 new signals across 7 sources (19 Twitter/Threads, 2 Reddit r/RivianR2, 1 Reddit r/electricvehicles, 1 news). R2 launch dominates the cycle — Rivian officially confirmed deliveries and demo drives begin June 9, with units visibly moving to Spaces and service centers. A 3-year R1S owner celebrated receiving the new Rivian Assistant (Hey Rivian) feature as a birthday gift to themselves, suggesting OTA feature delivery is resonating with long-term owners. On autonomy, Rivian reportedly poured $229M into R&D in Q1 — a significant commitment that contrasts with cost-cutting at some competitors. The one negative note: a CarsDirect report indicates 2027 R2 lease pricing may exceed $1,100/month, which could dampen demand in a rate-sensitive segment. Competitive context: brands canceling EVs create a wedge for Rivian, but Tesla's ongoing pricing pressure and Aurora/Waymo scaling autonomy remain threats to Driver+ differentiation.",
-    "items": [
-      {
-        "title": "Reservation in my name - can my partner use my reservation?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T13:06:26-07:00",
-        "score": 0,
-        "category": "community",
-        "sentiment": "neutral",
-        "snippet": "R2 reservation holder asks whether their partner can take delivery under the same reservation — highlights potential friction in the R2 transfer/assignment process that PMs may want to clarify.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian announces deliveries and demo drives begin June 9!",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T12:48:17-07:00",
-        "score": 21,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "Rivian confirmed R2 deliveries begin June 9 with demo drives at Rivian Spaces and service centers — the most concrete launch timeline to date and a signal production is on track.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian R2 Launches June 9",
-        "url": "https://stories.rivian.com/r2-launch-june-9-2026?",
-        "source": "reddit_electricvehicles",
-        "publishedAt": "2026-05-27T13:11:02-07:00",
-        "score": 50,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "Rivian's official story confirms June 9 as R2 launch date with demo drives — this is the marquee announcement cross-posting across EV communities.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Cognition's $26B valuation, Thea Energy's $100M raise, and Equal's new owner - Axios",
-        "url": "https://amp.axios.com/pro-rata-premium-first-look-cognition-thea-c1d99111-413a-4718-8121-7f64d2cbb2e3.html",
-        "source": "news",
-        "publishedAt": "Wed, 27 May 2026 19:29:55 GMT",
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "neutral",
-        "snippet": "AI startup Cognition valued at $26B signals continued investor appetite for AI-native companies — talent and capital competition that could affect Rivian's ability to attract autonomy engineers.",
-        "themes": [
-          "Aurora update"
-        ]
-      },
-      {
-        "title": "2027 Rivian R2 Lease May Cost Over $1,100 A Month - CarsDirect",
-        "url": "https://www.carsdirect.com/deals-articles/2027-rivian-r2-lease-may-cost-over-1-100-a-month",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "business",
-        "sentiment": "negative",
-        "snippet": "A report suggests 2027 R2 lease pricing may exceed $1,100/month — if accurate, this puts R2 well into luxury tier and may limit addressable market at a critical launch moment.",
-        "themes": [
-          "R2 launch",
-          "Tesla pricing"
-        ]
-      },
-      {
-        "title": "Rivian Poured Over $229M Into Autonomy R&D in Q1, CEO Says | EV",
-        "url": "https://eletric-vehicles.com/rivian/rivian-poured-over-229m-into-autonomy-rd-in-q1-ceo-says",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "autonomy",
-        "sentiment": "neutral",
-        "snippet": "Rivian invested $229M in autonomy R&D in Q1 alone — a clear signal of commitment to Driver+ and Autonomy+ roadmaps, though investors will watch whether this translates to measurable capability progress.",
-        "themes": [
-          "Autonomy+",
-          "Driver+"
-        ]
-      },
-      {
-        "title": "3 years with my R1S, and for its birthday we got a new Rivian Assistant feature",
-        "url": "https://www.threads.com/@jennaezarik/video/DY0sIA8Epc5/video-years-with-my-r-s-and-for-its-birthday-we-got-a-new-rivian-assistant-feature",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "software",
-        "sentiment": "positive",
-        "snippet": "Long-term R1S owner celebrates their 3-year anniversary by receiving Hey Rivian as an OTA gift — demonstrates that post-purchase software updates are creating loyalty moments.",
-        "themes": [
-          "Hey Rivian",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "Looks like R2 is getting ready to hit some Rivian Spaces and service centers",
-        "url": "https://www.threads.com/@riviantrackr/post/DY0jvBvFGpT/looks-like-r-is-getting-ready-to-hit-some-rivian-spaces-and-service-centers",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R2 inventory sightings at Rivian Spaces and service centers ahead of June 9 launch — concrete operational evidence supporting the delivery timeline.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Even MORE R2s on the way to Rivian Spaces and Service Centers for demo drives",
-        "url": "https://www.threads.com/@riviantrackr/post/DY0rERvlJ2s/even-more-r-s-are-on-the-way-to-rivian-spaces-and-service-centers-for-demo-drives",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "第二批R2正在运往Rivian Spaces和服务中心——显示R2 demo drive网络正在积极扩大规模。",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian was awarded a patent for a vehicle cargo storage apparatus",
-        "url": "https://www.threads.com/@chrishilbe/post/DY19DIFlZmq",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "neutral",
-        "snippet": "Rivian awarded a patent for a vehicle cargo storage apparatus — IP portfolio development suggesting continued R1/R2 cargo innovation as a differentiator.",
-        "themes": [
-          "R1T review",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "While some brands have pulled back or outright canceled future EV plans, others s/",
-        "url": "https://www.facebook.com/CarsDotCom/posts/while-some-brands-have-pulled-back-or-outright-canceled-future-ev-plans-others-s/1430983555742065",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "positive",
-        "snippet": "Cars.com highlights that while competitors cancel EV programs, Rivian continues investing — brand sentiment opportunity as the 'last man standing' in adventure EV segment.",
-        "themes": [
-          "Ford Lightning",
-          "Scout Motors",
-          "GM EV"
-        ]
-      },
-      {
-        "title": "Even without knowing the origins, Rivian is a name that does the ...",
-        "url": "https://x.com/Jalopnik/status/2059432644857807259",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "community",
-        "sentiment": "neutral",
-        "snippet": "Jalopnik notes Rivian's brand name recognition independent of marketing spend — organic brand equity that could aid R2 adoption.",
-        "themes": [
-          "brand sentiment"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T21:57:00Z",
     "timestamp": "2026-05-27T21:57:00Z",
     "sentiment": {
@@ -8228,6 +7977,231 @@
           "brand sentiment"
         ],
         "pmSummary": "Long-dormant waitlist customer re-engaging as vehicle ages — signals brand loyalty pipeline and conversion potential even among those who passed on first purchase cycle."
+      }
+    ]
+  },
+  {
+    "id": "2026-05-31T19:13:00Z",
+    "timestamp": "2026-05-31T19:13:00Z",
+    "sentiment": {
+      "positive": 65,
+      "neutral": 25,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 25,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 12,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": "positive"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "R1T review",
+      "fleet/EDV",
+      "OTA update",
+      "Tesla pricing",
+      "EV incentives"
+    ],
+    "competitiveContext": "Tesla Model Y faces direct R2 challenge — Forbes notes R2 'imminent' and stacks competitively. Germany pushes €6K EV subsidy driving record Q1 adoption, signaling EU demand tailwind. Chinese EVs getting longer range at sub-$10K, a structural pricing threat to watch. Scout Motors (Volkswagen) continues stealth progress in same segment.",
+    "summary": "R2 launch momentum builds ahead of deliveries — Forbes coverage positions it as Model Y fighter, while Bluesky confirms official US delivery date is set. Sport Mode OTA rolls to all R1s (positive UX signal). Rivian AI-assistant positioning against CarPlay surfaces as a software differentiator. Amazon EDV depot electrification pushed to early 2027 — fleet milestone slightly delayed but on track.",
+    "fullReport": "Quiet to moderate signal day. R2 launch narrative is the dominant story — appearing in Forbes, InsideEVs, and Bluesky. Sport Mode OTA update is a goodwill win for existing R1 owners. No negative catalyst detected. EDV fleet electrification timeline slip (early 2027) is minor. Global EV incentive news (Germany) positive for category.",
+    "items": [
+      {
+        "title": "Rivian R2 Is Imminent: How It Stacks Up Against The Tesla Model Y",
+        "url": "https://www.forbes.com/sites/brookecrothers/2026/05/31/rivian-r2-is-imminent-how-it-stacks-up-against-the-tesla-model-y",
+        "source": "forbes",
+        "publishedAt": "2026-05-31",
+        "score": 0,
+        "snippet": "Forbes compares the R2 directly against the Tesla Model Y ahead of imminent US deliveries, noting competitive pricing and spec positioning.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Rivian says AI assistants will make Apple CarPlay obsolete as it builds its own AI-defined vehicle software",
+        "url": "https://bsky.app/profile/did:plc:qomkdnxrqw3gkbytdxea5z65/post/3mn64hf6uvs2j",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T17:42:42Z",
+        "score": 0,
+        "snippet": "Rivian publicly claims its AI-defined software stack will obsoleted Apple CarPlay, framing in-vehicle AI as a competitive differentiator.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Hey Rivian",
+          "OTA update"
+        ]
+      },
+      {
+        "title": "Rivian Adds A Sport Mode To All R1 EVs On The Road",
+        "url": "https://insideevs.com/news/787692/rivian-sport-mode-all-r1-evs-apple-watch-app",
+        "source": "insideevs",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian pushes Sport Mode to all R1s via OTA, with Apple Watch app update — positive ownership experience signal heading into R2 launch.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "OTA update",
+          "R1T review"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2: Everything We Know",
+        "url": "https://insideevs.com/reviews/722404/2026-rivian-r2-price-specs-release-date",
+        "source": "insideevs",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "InsideEVs publishes full R2 specs and release date roundup, reinforcing launch readiness.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian R2: Der offizielle US-Auslieferungstermin steht fest",
+        "url": "https://bsky.app/profile/did:plc:7soxm6ggjw5rwiybovutp5tr/post/3mn6aut4d4i2n",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T19:01:46Z",
+        "score": 0,
+        "snippet": "Bluesky confirms official R2 US delivery date is set (German source), adding specificity to launch timeline.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "On Friday, Rivian Automotive $RIVN reclaimed its recently broken weekly MA support",
+        "url": "https://bsky.app/profile/did:plc:djo74ravtncsifeywm3qmiow/post/3mn66ylnfcs2r",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T18:28:09Z",
+        "score": 0,
+        "snippet": "RIVN stock technical reclaims key moving average support after recent break — marginally bullish signal per chart watchers.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "Amazon had one of their Rivian electric delivery vans parked at the Cycling Classic in Clarendon",
+        "url": "https://bsky.app/profile/did=plc:drsuvxemjgu367n6xn4brx4h/post/3mn5xcs3wxc2x",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T16:10:36Z",
+        "score": 8,
+        "snippet": "Amazon EDV fleet deployment in Arlington pushed to early 2027 due to depot electrification timeline — minor delay but fleet/EDV narrative intact.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "fleet/EDV"
+        ]
+      },
+      {
+        "title": "Germany's €6,000 EV subsidy drives record Q1 adoption rates",
+        "url": "https://www.autonews.com/ev/ane-germans-make-ev-switch-on-incentive-energy-0528",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Germany's €6K EV subsidy produced record Q1 adoption — positive macro signal for EV category; Rivian benefits indirectly as category grows.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "The top-selling EV in China gets upgraded with a longer driving range, still starts at under $10K",
+        "url": "https://electrek.co/2026/05/28/chinas-top-selling-ev-gets-upgraded-still-starts-under-10k",
+        "source": "electrek",
+        "publishedAt": "2026-05-28",
+        "score": 0,
+        "snippet": "China's top-selling EV upgraded at sub-$10K with longer range — structural pricing pressure on all global EVs, indirect risk for Rivian in value segment.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Tesla pricing",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "I sure am looking forward to seeing how Subaru's new EV sells as well as Chevy's new Bolt and the Rivian R2",
+        "url": "https://bsky.app/profile/did:plc:yjqekodgo25hjem4isderwak/post/3mn5u6zm4p22l",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T15:14:50Z",
+        "score": 2,
+        "snippet": "Social sentiment grouping R2 alongside Chevy Bolt and Subaru EV as category wakeup call — strong brand positioning signal.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "brand sentiment"
+        ]
       }
     ]
   }
