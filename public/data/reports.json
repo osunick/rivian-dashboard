@@ -1,105 +1,5 @@
 [
   {
-    "id": "2026-05-27T18:05:30Z",
-    "timestamp": "2026-05-27T18:05:30Z",
-    "sentiment": {
-      "positive": 100,
-      "neutral": 0,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "owner experience"
-    ],
-    "competitiveContext": "No competitor signals in this cycle. Broader EV market context unchanged from prior cycle — Tesla, Ford, Scout, GM all quiet on Rivian-watch surfaces today.",
-    "summary": "Quiet cycle — single signal, an R2 reservation holder expressing delivery anticipation (score 28). R2 launch anxiety remains the dominant community emotion as June approaches.",
-    "fullReport": "Single-signal cycle. R2 reservation holder commiserating about waiting for the delivery email while limping along an older ICE. High engagement (28) reinforces that R2 anticipation is the strongest current community theme. No competitive, autonomy, business, or software signals.",
-    "items": [
-      {
-        "title": "Anyone else in a state of worry, limping along an older ICE vehicle right now, just itching for that magical email to arrive?",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tpb5m8/anyone_else_in_a_state_of_worry_limping_along_an/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T09:44:31-07:00",
-        "score": 28,
-        "snippet": "R2 reservation holder stuck in a 2015 Ford Edge expressing anxiety about R2 delivery timing as June approaches. High engagement (score 28) reinforces strong R2 launch anticipation.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T21:42:48Z",
     "timestamp": "2026-05-27T21:42:48Z",
     "sentiment": {
@@ -8157,6 +8057,302 @@
           "OTA update",
           "Hey Rivian",
           "Driver+"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-31T04:56:00Z",
+    "timestamp": "2026-05-31T04:56:00Z",
+    "sentiment": {
+      "positive": 33,
+      "neutral": 44,
+      "negative": 23
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "twitter": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "software": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "CarPlay/Android Auto",
+      "Charging infra",
+      "FSD update",
+      "R2 launch",
+      "R2 range/EPA",
+      "Recall alert",
+      "Regulatory news",
+      "VW partnership"
+    ],
+    "competitiveContext": "NHTSA has opened a formal probe into ~115k Rivian vehicles for a part defect causing unintended swerving — a reputational setback ahead of the R2 launch on June 9. Meanwhile, Volkswagen is deepening its Rivian investment despite EV demand headwinds and a potential $1.75B write-down, signaling continued OEM confidence in Rivian's software stack. Xpeng posted weak revenue guidance, reflecting broader EV demand softness in China that could pressure global pricing benchmarks.",
+    "summary": "Major news cycle dominated by the NHTSA probe into ~115k Rivian vehicles for a steering/swerve defect — regulatory risk is elevated heading into the critical June 9 R2 launch. On the positive side, the R2's EPA efficiency rating officially matches the Tesla Model Y, a key benchmark message for PMs. VW reaffirming its $1.75B Rivian bet despite demand headwinds adds business resilience signal.",
+    "fullReport": "Rivian is navigating a mixed news environment heading into the R2 launch. The NHTSA probe into ~115k vehicles for a part issue causing EVs to swerve is the top risk — it has regulatory and reputational implications, and owners are actively discussing it in online forums. On the vehicles side, the R2's EPA efficiency matching the Model Y is a strong marketing win. Rivian's software chief dismissing CarPlay/Android Auto as 'obsolete' in an AI-first world is a bold positioning move that reinforces the company's software-first identity. VW deepening its bet despite a potential $1.75B hit signals OEM-level confidence.",
+    "items": [
+      {
+        "title": "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles",
+        "url": "https://www.reuters.com/business/autos-transportation/us-auto-safety-regulator-opens-probe-into-nearly-115000-rivian-vehicles-2026-05-28",
+        "source": "reuters_top",
+        "publishedAt": "2026-05-28",
+        "score": 0,
+        "snippet": "NHTSA has opened a formal investigation into approximately 115,000 Rivian vehicles for a potential defect causing unintended vehicle movement or swerving.",
+        "category": "business",
+        "sentiment": "negative",
+        "snippet_summary": "NHTSA probe into ~115k Rivian vehicles for steering defect is a significant regulatory risk heading into the R2 launch window.",
+        "themes": [
+          "Recall alert",
+          "Regulatory news"
+        ]
+      },
+      {
+        "title": "Rivian Faces US Probe Over Part Issue Causing EVs to Swerve",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/rivian-faces-us-probe-over-issue-with-part-causing-evs-to-swerve",
+        "source": "bloomberg_top",
+        "publishedAt": "2026-05-28",
+        "score": 0,
+        "snippet": "Bloomberg confirms NHTSA has opened a preliminary evaluation into Rivian's potential steering/control defect across nearly all R1T, R1S, and EDV models.",
+        "category": "business",
+        "sentiment": "negative",
+        "snippet_summary": "Bloomberg confirms the scope of the NHTSA probe covers all Rivian models — R1T, R1S, and EDV — pointing to a systemic rather than model-specific issue.",
+        "themes": [
+          "Recall alert",
+          "Regulatory news"
+        ]
+      },
+      {
+        "title": "Volkswagen deepens Rivian bet as lagging EV demand threatens $1.75 billion hit",
+        "url": "https://www.europesays.com/germany/27279/",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31",
+        "score": 1,
+        "snippet": "VW is deepening its Rivian investment despite facing a potential $1.75B write-down from EV demand weakness — a significant vote of OEM confidence.",
+        "category": "business",
+        "sentiment": "positive",
+        "snippet_summary": "VW reaffirming its Rivian partnership and deepening investment despite a $1.75B potential hit signals strong OEM-level confidence in Rivian's software roadmap.",
+        "themes": [
+          "VW partnership"
+        ]
+      },
+      {
+        "title": "Rivian R2 matches Tesla Model Y efficiency despite bigger, heavier body",
+        "url": "https://electrek.co/2026/05/29/rivian-r2-epa-efficiency-matches-tesla-model-y",
+        "source": "electrek_main",
+        "publishedAt": "2026-05-29",
+        "score": 0,
+        "snippet": "The Rivian R2's EPA efficiency rating officially matches the Tesla Model Y despite a larger, heavier footprint — a key benchmark win for the upcoming launch.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet_summary": "R2's EPA efficiency matching the Model Y is a strong product validation signal — efficiency parity with Tesla at a similar price point is a meaningful marketing asset.",
+        "themes": [
+          "R2 range/EPA",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "The Rivian R2's EPA Numbers Are In, And It Beats The Model Y Where It Counts",
+        "url": "https://insideevs.com/news/792230/rivian-r2-epa-range-efficiency",
+        "source": "insideevs_main",
+        "publishedAt": "2026-05-29",
+        "score": 0,
+        "snippet": "InsideEVs highlights that the R2 beats the Model Y in range per dollar and real-world mixed driving efficiency despite being a larger vehicle.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet_summary": "R2 beats Model Y in range-per-dollar on mixed driving cycles — a nuanced but important differentiation point for PMs communicating value vs Tesla.",
+        "themes": [
+          "R2 range/EPA",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Rivian R2 officially launches June 9 - order invites, first deliveries, demo drives",
+        "url": "https://electrek.co/2026/05/27/rivian-r2-officially-launches-june-9-order-invites-first-deliveries-demo-drives",
+        "source": "electrek_main",
+        "publishedAt": "2026-05-27",
+        "score": 0,
+        "snippet": "Rivian confirms June 9 as the official R2 launch date with order invite system, first deliveries, and demo drive availability.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet_summary": "R2 launch officially set for June 9 — first deliveries and demo drives included. Key commercial milestone and PMs should be tracking invite queue depth.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian Software Chief Says Apple CarPlay and Android Auto Are...",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1ts8j7r/rivian_software_chief_says_apple_carplay_and",
+        "source": "reddit_electricvehicles",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian's software chief says the CarPlay/Android Auto debate is 'completely obsolete' in an AI-first world, doubling down on Rivian's native software stack.",
+        "category": "software",
+        "sentiment": "positive",
+        "snippet_summary": "Rivian's software chief dismissing CarPlay/Android Auto as obsolete is a bold identity play — positions Rivian's native stack as an AI-first differentiator.",
+        "themes": [
+          "CarPlay/Android Auto",
+          "OTA update"
+        ]
+      },
+      {
+        "title": "Rivian says AI makes debate over CarPlay 'completely obsolete'",
+        "url": "https://bsky.app/profile/did:plc:dwecjm5n7fyljcjk3vi7x5oa/post/3mn4fp7gkkh26",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31",
+        "score": 0,
+        "snippet": "Japanese-language summary of Rivian's position that AI renders CarPlay/Android Auto debates obsolete — reinforcing software-first brand messaging.",
+        "category": "software",
+        "sentiment": "positive",
+        "snippet_summary": "Rivian's stance that AI makes CarPlay irrelevant is resonating internationally — reinforces the native-stack differentiation narrative PMs can leverage.",
+        "themes": [
+          "CarPlay/Android Auto"
+        ]
+      },
+      {
+        "title": "Spotted one in the wild",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ts7yuh/spotted_one_in_the_wild",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Reddit user spots an R2 in public — first-sighting excitement, indicating early physical presence of pre-delivery units.",
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet_summary": "R2 increasingly visible in public — first-sighter posts signal growing pre-launch buzz and organic community excitement.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "\"Better than the Cadillac IQ, Better than the Rivian R1S\"",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mn4frtr5sk2e",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31",
+        "score": 4,
+        "snippet": "Bluesky post noting that the R1S compares favorably against the Cadillac IQ — positive brand positioning vs. legacy OEM flagship EVs.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet_summary": "R1S favorably compared to the Cadillac IQ in a public social post — signals positive brand perception vs. legacy luxury EV competitors.",
+        "themes": [
+          "R1S review"
+        ]
+      },
+      {
+        "title": "The BMW iX3 goes farther at 80 MPH than the launch Rivian R2's mixed driving EPA range — for the same price",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mn4otvu3522h",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31",
+        "score": 8,
+        "snippet": "A pointed competitive comparison: BMW iX3 outperforms the R2's mixed EPA range at 80 MPH for the same price — a range anxiety risk signal at highway speeds.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "snippet_summary": "The iX3 beating the R2 in highway-speed range for the same price is a real competitive concern — highway range anxiety remains a PM messaging gap to address.",
+        "themes": [
+          "R2 range/EPA",
+          "Range anxiety"
+        ]
+      },
+      {
+        "title": "Rivian Van Software Update Fixes Drive-Unit Fault, Adds Google Maps | EV",
+        "url": "https://eletric-vehicles.com/rivian/rivian-van-software-update-fixes-drive-unit-fault-adds-google-maps",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian's commercial van (EDV) software update resolves a drive-unit fault and adds Google Maps integration — positive fleet/owner experience signal.",
+        "category": "software",
+        "sentiment": "positive",
+        "snippet_summary": "EDV software update fixing drive-unit fault and adding Google Maps is a positive OTA story — demonstrates continued software support for fleet/EDV customers.",
+        "themes": [
+          "Fleet/EDV",
+          "OTA update",
+          "Charging infra"
+        ]
+      },
+      {
+        "title": "Pony AI Lifts 2026 Robotaxi Fleet Goal on Faster Growth - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth",
+        "source": "hackernews",
+        "publishedAt": "2026-05-26",
+        "score": 0,
+        "snippet": "Pony AI raising its 2026 robotaxi fleet goal to 3,500 vehicles on faster-than-expected commercial growth — signals accelerating competition in autonomy.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet_summary": "Pony AI scaling robotaxi fleet to 3,500 by end of 2026 — autonomy competition accelerating faster than expected, raises bar for Driver+ narrative.",
+        "themes": [
+          "Waymo move"
+        ]
+      },
+      {
+        "title": "Blink and Kempower expand US East Coast EV fast charging",
+        "url": "https://electrek.co/2026/05/29/blink-kempower-expand-us-east-coast-ev-fast-charging?extended-comments=1",
+        "source": "electrek_main",
+        "publishedAt": "2026-05-29",
+        "score": 0,
+        "snippet": "Blink and Kempower expanding US East Coast fast charging infrastructure — positive macro charging infra signal for EV adoption broadly.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet_summary": "East Coast fast charging expansion by Blink/Kempower benefits the broader EV ecosystem — Rivian drivers gain from improved charging accessibility.",
+        "themes": [
+          "Charging infra"
         ]
       }
     ]
