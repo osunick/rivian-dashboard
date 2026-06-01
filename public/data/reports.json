@@ -1,132 +1,5 @@
 [
   {
-    "id": "2026-05-27T21:57:00Z",
-    "timestamp": "2026-05-27T21:57:00Z",
-    "sentiment": {
-      "positive": 9,
-      "neutral": 55,
-      "negative": 36
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 8,
-        "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "owner experience",
-      "R1S review"
-    ],
-    "competitiveContext": "No high-signal competitive intel in today's fetch. Tesla FSD, Waymo, and Aurora are quiet. The R2's June 9 delivery and demo-drive launch is Rivian's most significant near-term play — no direct competitive threat detected in today's signals.",
-    "summary": "Light cycle dominated by R2 launch momentum — demo drives and deliveries confirmed for June 9. One negative community signal: an owner dealing with a hit-and-run-adjacent incident and documentation problems. Twitter/Threads noise is high-volume but low-signal (social posts, influencer content). No autonomous driving, software bug, earnings, or regulatory signals today.",
-    "fullReport": "Rivian's R2 launch machine is in full gear — deliveries and demo drives confirmed for June 9, per community posts. R2 reservation transfer mechanics are also being discussed, suggesting customers are actively preparing for handoffs. The sole negative is a community incident (rear-end collision with documentation complications), which is a brand-experience risk worth monitoring. Competitive landscape is quiet today — no Tesla pricing moves, FSD updates, or Waymo/ Aurora headlines. Rivian's window to own the narrative around R2 launch is open.",
-    "items": [
-      {
-        "title": "My R1S got Rear Ended - driver gave me fake insurance and registration info",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpjunl/my_r1s_got_rear_ended_driver_gave_me_fake/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T14:51:06-07:00",
-        "score": 1,
-        "snippet": "Owner's R1S was rear-ended at a stoplight by a driver with no documentation; police called, insurance details in question.",
-        "category": "community",
-        "sentiment": "negative",
-        "themes": [
-          "owner experience",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "Reservation in my name - can my partner use my reservation?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T13:06:26-07:00",
-        "score": 0,
-        "snippet": "R2 reservation holder asks whether their reservation can be transferred to or used by a partner — indicates active preparation for R2 handoffs.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian announces deliveries and demo drives begin June 9!",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T12:48:17-07:00",
-        "score": 21,
-        "snippet": "Rivian officially confirms R2 deliveries begin June 9, with demo drives also launching that day at Rivian Spaces and Service Centers.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T22:00:00Z",
     "timestamp": "2026-05-27T22:00:00Z",
     "sentiment": {
@@ -8200,6 +8073,302 @@
         "sentiment": "positive",
         "themes": [
           "R2 launch",
+          "brand sentiment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-01T03:18:00Z",
+    "timestamp": "2026-06-01T03:18:00Z",
+    "sentiment": {
+      "positive": 22,
+      "neutral": 78,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "owner experience",
+      "brand sentiment",
+      "EV incentives",
+      "manufacturing momentum"
+    ],
+    "competitiveContext": "No major competitor moves detected today. Broader EV news is sparse — WSJ flagged that ~1M potential new car buyers have left the market and aren't returning soon, which is a demand-side headwind for all EV makers including Rivian. Stellantis is investing in European EV manufacturing. RIVN's immediate competitive window centers on the R2 launch on June 9 — execution and delivery momentum will be the primary PM focus.",
+    "summary": "Quiet news cycle ahead of the R2 launch on June 9. Only 2 substantive Rivian-specific items surfaced — Rocklin, CA dealership opening and confirmed R2 delivery date. Broader community sentiment on Bluesky is neutral-to-positive with aspirational buyer interest and one neutrality flag on brake hold/cruise control system. No autonomy, regulatory, or earnings signals today.",
+    "fullReport": "**GameFilm — Rivian Intel | Quiet Cycle**\n\nSunday May 31, 2026 — Light signals across all monitored sources. The primary news driver is the confirmed June 9 R2 launch date and first-wave delivery invites. No major competitive, regulatory, or software update signals. Retail footprint expanding with Rocklin, CA location now open. Community sentiment holds steady.",
+    "items": [
+      {
+        "title": "Rivian in Rocklin, California is now Open! : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ttclvc/rivian_in_rocklin_california_is_now_open",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian's Rocklin, CA dealership is now open, expanding their retail footprint in Northern California ahead of the R2 launch.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@madshrimps.be (Bluesky): Rivian's R2 electric SUV launches on June 9 — Rivian is sending out invites and planning first deliveries for June 9.",
+        "url": "https://bsky.app/profile/did:plc:mqyjzq64pdtyeyqsaazj3vep/post/3mn73idpdiz26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T02:57:58.774Z",
+        "score": 0,
+        "snippet": "Rivian's R2 electric SUV launches on June 9. Rivian is sending out invites and planning the first deliveries for its R2 electric SUV for June 9.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@carameilatte.bsky.social (Bluesky): Love the unique lights on Rivian cars!",
+        "url": "https://bsky.app/profile/did:plc:z4vakpunp6cr4p2xo5tacdfe/post/3mn6tnike3m2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T00:37:40.774Z",
+        "score": 0,
+        "snippet": "Love the unique lights on Rivian cars! Positive owner affinity signal.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@sweatycyborg.bsky.social (Bluesky): Those Rivian cars also have weird lights. I don't know if I like them or not.",
+        "url": "https://bsky.app/profile/did:plc:a27hcyfr2rdgrxywvs2kvsi7/post/3mn6tgmddwc2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T00:33:51.474Z",
+        "score": 1,
+        "snippet": "Mixed sentiment on Rivian design — distinctive lights generating polarized reactions.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@ravenonthill.bsky.social (Bluesky): Bumper sticker humor — 'This Car Identifies As A Rivian'",
+        "url": "https://bsky.app/profile/did:plc:hutxbaw5ycnounmil57jkt73/post/3mn6qxxm2222x",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T23:49:53.574Z",
+        "score": 1,
+        "snippet": "Cultural Rivian identity meme circulating — indicates brand has cultural penetration beyond pure sales.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@pizzabuff.bsky.social (Bluesky): Twitter comments about Rivian are largely negative — 'no saving that website, it's gotta be 80% bots'",
+        "url": "https://bsky.app/profile/did:plc:db2zdcthsm5rlna3zfuych7c/post/3mn6izmewks2u",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T21:27:38.473Z",
+        "score": 1,
+        "snippet": "Bluesky user notes Twitter Rivian discourse is negative and bot-heavy — Twitter sentiment not representative of broader community.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@smudgiesmom.bsky.social (Bluesky): 'I adore my Subaru, but it's not EV either. I will, at some point in the future, trade up to a Subaru EV. Or if I win the lottery, a Rivian.'",
+        "url": "https://bsky.app/profile/did:plc:uppurv4jxxfvzr4z5no77jhe/post/3mn6h73vnl22o",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T20:54:52.977Z",
+        "score": 2,
+        "snippet": "Aspiration signal — Rivian positioned as aspirational/lottery-level purchase for non-owner. Brand halo exists.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@mynameisalison.bsky.social (Bluesky): Manufacturing comeback in Central Illinois with Rivian creating jobs and investing in innovation shows real momentum for the region.",
+        "url": "https://bsky.app/profile/did:plc:rjhvcat7gkd4ujpcew2efwzt/post/3mn6fjzqgms2b",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T20:25:22.973Z",
+        "score": 1,
+        "snippet": "Manufacturing momentum in Normal, IL — Rivian cited as example of industrial comeback in Central Illinois.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "manufacturing momentum",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@stacy17.bsky.social (Bluesky): 'Not enough $$$$ for Rivian. 😂. Maybe a Subaru. My friend loves hers, but it's no Rivian.'",
+        "url": "https://bsky.app/profile/did:plc:lsm2srt4br25d4q7rks4dkxv/post/3mn6ekqh6dj23",
+        "source": "bluesky",
+        "publishedAt": "2026-05-31T20:07:42.475Z",
+        "score": 1,
+        "snippet": "Affordability barrier noted — Rivian positioned as aspirational but price-committed purchase. Subaru loyalty persists.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment",
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "This is literally a fact. The brake hold/cruise control system ... - Threads (via Twitter)",
+        "url": "https://www.threads.com/@noyinjaden/post/DZAvRrYjken",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Brake hold/cruise control system issue reported — potential software or UIUX concern.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "infotainment bug",
+          "software update"
+        ]
+      },
+      {
+        "title": "Rivian R2: Der offizielle US-Auslieferungstermin steht fest - Threads",
+        "url": "https://www.threads.com/@mobiflip/post/DZA5bc4iYSt/rivian-r-der-offizielle-us-auslieferungstermin-steht-fest",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "German-language confirmation of R2 US delivery date — June 9 launch confirmed in EU press as well.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian is coming out with their new R2 model. I hope they ... - Threads",
+        "url": "https://www.threads.com/@keithhopkin/post/DZBJ_RAlDqP",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Pre-launch curiosity — user hoping R2 addresses prior concerns (context limited).",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "I went straight from a Hyundai Santa Fe to a rivian R1T... - Threads",
+        "url": "https://www.threads.com/@currentwithkate/post/DZAB9IsEarG/i-went-straight-from-a-hyundai-santa-fe-to-a-rivian-r-t-i-went-into-a-rovian",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Owner transition from Hyundai Santa Fe to R1T — positive first-hand comparison signal.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "R1T review"
+        ]
+      },
+      {
+        "title": "Rivian is a solid option - Threads",
+        "url": "https://www.threads.com/@dammit_wesley/post/DZAXcH0ka1P/rivian-is-a-solid-option",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "General endorsement — 'Rivian is a solid option' in EV consideration set.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Same! - Threads",
+        "url": "https://www.threads.com/@glenndrich/post/DZBNm5PAf6g",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Agreement echo — replies to another Rivian-positive post. No standalone signal.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
           "brand sentiment"
         ]
       }
