@@ -1,218 +1,5 @@
 [
   {
-    "id": "2026-05-27T22:00:00Z",
-    "timestamp": "2026-05-27T22:00:00Z",
-    "sentiment": {
-      "positive": 30,
-      "neutral": 70,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 8,
-        "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 7,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 1,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "community",
-      "competitive",
-      "owner experience"
-    ],
-    "competitiveContext": "Renault, Honda, and Rivian were cited together in European EV discussions on Threads, suggesting Rivian is increasingly grouped with legacy OEMs in the competitive landscape. Meanwhile, R2 demo drives kicking off June 9 put Rivian in direct competitive timing against Scout Motors' launch and Ford Lightning momentum. No direct autonomy or pricing threats surfaced today.",
-    "summary": "Light signal day with R2 pre-launch activity dominating — demo drives announced for June 9 and more R2s hitting Spaces/Service Centers. Community posts center on reservation transfers and influencer owner content (Jenna Ezarik's R1S 3-year post). No negative signals; competitive landscape quiet aside from Threads mention grouping Rivian with Renault/Honda.",
-    "fullReport": "10 new signals collected. R2 launch momentum is the dominant narrative — deliveries and demo drives confirmed for June 9, with expanded demo vehicle distribution to Rivian Spaces and Service Centers. Owner community is active with reservation-family transfer questions and veteran owner posts. No autonomy, FSD, or regulatory news surfaced today.",
-    "items": [
-      {
-        "title": "Reservation in my name - can my partner use my reservation?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T13:06:26-07:00",
-        "score": 0,
-        "snippet": "A Reddit user asks whether a reservation held by one partner can be transferred or used by another — indicative of family purchase dynamics and reservation transfer policy concerns as R2 delivery timelines approach.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "community",
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian announces deliveries and demo drives begin June 9!",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T12:48:17-07:00",
-        "score": 21,
-        "snippet": "Rivian officially announced R2 deliveries and demo drives beginning June 9 — the most significant R2 launch milestone to date, generating strong positive engagement in the R2 community.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Greg Nunez (@GregNunez50) / Posts / X - Twitter",
-        "url": "https://x.com/GregNunez50",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Profile link for Greg Nunez (EV analyst/journalist) — no specific content parsed from this fetch cycle.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": []
-      },
-      {
-        "title": "Second - Threads",
-        "url": "https://www.threads.com/@jonkung/post/DY2dWWMFlFP",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Generic Threads link from Jon Kung — content not parsed in this cycle.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": []
-      },
-      {
-        "title": "Two are Renault, one Honda, and one Rivian - Threads",
-        "url": "https://www.threads.com/@nate_downes/post/DY2Rce1FLUl/two-are-renault-one-honda-and-one-rivian",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "A thread comparing EVs from Renault, Honda, and Rivian — Rivian is being discussed in the context of multi-brand EV comparisons, reinforcing its position as a mainstream EV option alongside legacy manufacturers.",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "themes": [
-          "competitive"
-        ]
-      },
-      {
-        "title": "Even MORE R2s on the way to Rivian Spaces and Service Centers ...",
-        "url": "https://www.threads.com/@riviantrackr/post/DY0rERvlJ2s/even-more-r-s-on-the-way-to-rivian-spaces-and-service-centers-for-demo-drives",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "RivianTrackr reports additional R2s are en route to Rivian Spaces and Service Centers for demo drive preparation — consistent with June 9 demo drive launch date and expanding retail footprint.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "3 years with my R1S, and for its birthday we got a new Rivian ...",
-        "url": "https://www.facebook.com/JennaEzarik/posts/3-years-with-my-r1s-and-for-its-birthday-we-got-a-new-rivian-assistant-feature-r/1551582816332159",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Influencer Jenna Ezarik posts about her 3-year R1S anniversary and a new Rivian assistant feature — positive owner sentiment and organic brand advocacy from a notable EV YouTuber.",
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "3 years with my R1S, and for its birthday we got a new Rivian ...",
-        "url": "https://www.instagram.com/reel/DY0r20qyBU_",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Instagram Reel from Jenna Ezarik cross-posting the R1S 3-year anniversary and new Rivian assistant feature — positive owner experience signal and brand advocacy via visual media.",
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience",
-          "R1S review"
-        ]
-      },
-      {
-        "title": "Instagram",
-        "url": "https://www.instagram.com/p/DY2lVFolDEt",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Instagram post — content not parsed in this fetch cycle.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": []
-      },
-      {
-        "title": "2026 Agenda | MOVE 2026",
-        "url": "https://www.terrapinn.com/exhibition/move/2026-Agenda.stm",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "MOVE 2026 mobility expo agenda — Rivian may have a presence or be discussed; no specific Rivian content parsed from this cycle.",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "themes": []
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T22:06:00Z",
     "timestamp": "2026-05-27T22:06:00Z",
     "sentiment": {
@@ -8370,6 +8157,277 @@
         "sentiment": "neutral",
         "themes": [
           "brand sentiment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-01T14:03:45Z",
+    "timestamp": "2026-06-01T14:03:45Z",
+    "sentiment": {
+      "positive": 29,
+      "neutral": 57,
+      "negative": 14
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reuters_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "nytimes": {
+        "found": 0,
+        "sentiment": null
+      },
+      "wsj": {
+        "found": 0,
+        "sentiment": null
+      },
+      "automotive_news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "motor_trend": {
+        "found": 0,
+        "sentiment": null
+      },
+      "car_and_driver": {
+        "found": 0,
+        "sentiment": null
+      },
+      "insideevs_main": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "business_insider": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Autonomy+",
+      "EV incentives",
+      "R2 launch",
+      "RIVN stock",
+      "range anxiety",
+      "recall alert",
+      "Tesla pricing"
+    ],
+    "competitiveContext": "Lucid is positioning against Tesla's discontinued Model S/X lineup, potentially carving a niche in the premium long-range segment. Meanwhile, RoboSense is tripling LiDAR shipments and pivoting to robotics — signaling accelerating sensor cost improvements that could benefit Rivian's Driver+ hardware roadmap. GM's new Hummer concepts and Stellantis's Chinese partnerships indicate continued pressure on legacy brands, but no direct threat to Rivian's positioning this cycle.",
+    "summary": "A quiet cycle dominated by regulatory and range benchmarking news. NHTSA's investigation into ~115k Rivian EVs for rear suspension defects is the dominant risk signal this cycle — PMs should monitor for formal recall scope. R2 production momentum (580+ units in month one) is a bright spot, and Apple CarPlay support emerging via 9to5Mac suggests Rivian may be softening its closed-ecosystem stance. Community sentiment remains engaged around Autonomy+ contribution mechanics and Illinois job creation.",
+    "fullReport": "See brief output below.",
+    "items": [
+      {
+        "title": "米当局、リビアンのEV11.5万台の調査開始 後輪部品不具合の恐れ",
+        "url": "https://jp.reuters.com/markets/global-markets/KJB4QLFNSRI35AGHQOEMZBTY7A-2026-05-29",
+        "source": "reuters_top",
+        "category": "business",
+        "sentiment": "negative",
+        "snippet": "NHTSA has opened an investigation into approximately 115,000 Rivian EVs due to potential rear suspension component defects — the most significant regulatory risk signal this cycle.",
+        "themes": [
+          "recall alert"
+        ]
+      },
+      {
+        "title": "RIVN: ﾘﾋﾞｱﾝ・ｵｰﾄﾓｰﾃｨﾌﾞ Stock Price Quote - NASDAQ GS",
+        "url": "https://www.bloomberg.com/jp/quote/RIVN:US",
+        "source": "bloomberg_top",
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "RIVN stock quote page — active options flow noted (OptionsFlowBoss: 34,818 shares sold by insider Scaringe on May 28), flagging potential bearish insider signal.",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "Rivian Automotive, Inc. (RIVN) Is a Trending Stock: Facts to Know Before Betting on It - May 29, 2026",
+        "url": "https://markets.businessinsider.com/news/stocks/rivian-automotive--inc--rivn-is-a-trending-stock--facts-to-know-before-betting-on-it-15717389",
+        "source": "business_insider",
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Business Insider flags RIVN as a trending stock as of May 29 — directional bias not specified but typically retail-driven coverage.",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "300 Miles Of EV Range Is The New Normal. Is 400 Next?",
+        "url": "https://insideevs.com/features/790876/300-mile-range-evs-400-2026",
+        "source": "insideevs_main",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "InsideEVs benchmark feature establishing 300mi range as the new EV baseline — positions Rivian R1T (314mi) and R1S (352mi) competitively within the segment.",
+        "themes": [
+          "range anxiety"
+        ]
+      },
+      {
+        "title": "Why Lucid Is Cheering The End Of The Tesla Model S And Model X",
+        "url": "https://insideevs.com/news/790690/lucid-happy-about-tesla-model-s-x-demise",
+        "source": "insideevs_main",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Lucid is actively positioning against Tesla's discontinued Model S/X flagships — Rivian R1T/R1S occupy adjacent premium EV territory with no direct Lucid price competition yet.",
+        "themes": [
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Rivian R2 Sighting Points to 580-Plus Units Built in First Month",
+        "url": "https://eletric-vehicles.com/rivian/rivian-r2-sighting-points-to-580-plus-units-built-in-first-month",
+        "source": "twitter",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "R2 production reportedly reached 580+ units in its first full production month — a meaningful ramp signal suggesting Normal plant is achieving target throughput ahead of R2 launch.",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "9to5Mac Daily: May 29, 2026 – Apple Wallet IDs, Rivian and CarPlay",
+        "url": "https://bsky.app/profile/did:plc:dwecjm5n7fyljcjk3vi7x5oa/post/3mna7wu2uxf2t",
+        "source": "bluesky",
+        "category": "software",
+        "sentiment": "positive",
+        "snippet": "Rivian appears to be adding Apple CarPlay support according to 9to5Mac's May 29 daily — a notable shift from Rivian's historically closed infotainment ecosystem that could reduce a known owner complaint point.",
+        "themes": [
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "EVs in Illinois are creating 15,000 jobs — Rivian's Georgia plant investment underpins the count.",
+        "url": "https://bsky.app/profile/did:plc:d7peifwjyblmztynop67ujiw/post/3mna6td33hp2i",
+        "source": "bluesky",
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "Bluesky chatter reinforces Rivian's job creation narrative in Illinois — positive brand/regulatory sentiment signal ahead of any EV policy debates.",
+        "themes": [
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Rivian is wrong",
+        "url": "https://bsky.app/profile/did:plc:pjzkxwszsjritzjaciqdd4am/post/3mn7dukm35c2n",
+        "source": "bluesky",
+        "category": "community",
+        "sentiment": "negative",
+        "snippet": "One negative brand sentiment note on Bluesky — minimal reach but worth monitoring for emerging criticism patterns.",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Rivian R1S appears in powerful family SUV comparison alongside Mercedes GLE, Range Rover Sport, Volvo EX90.",
+        "url": "https://bsky.app/profile/did:plc:ashibln7aawnyzaz4sbk75tw/post/3mn7d6ysk242q",
+        "source": "bluesky",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Rivian R1S being grouped with Mercedes GLE, Range Rover Sport P550e, and Volvo EX90 in a 'most powerful family SUV' context — positive positioning against legacy premium brands.",
+        "themes": [
+          "R1S review"
+        ]
+      },
+      {
+        "title": "Does using Autonomy+ on your personal Rivian help advance it?",
+        "url": "https://www.rivianforums.com/forum/threads/does-using-autonomy-on-your-personal-rivian-help-advance-it.59637/",
+        "source": "rivianforums",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "snippet": "Rivian forum owner debate about whether personal Autonomy+ usage contributes to fleet learning — signals strong owner engagement with the autonomy roadmap and desire to participate in its development.",
+        "themes": [
+          "Autonomy+"
+        ]
+      },
+      {
+        "title": "Some of the most powerful family SUVs include the Mercedes-Benz GLE 580, Land Rover Range Rover Sport P550e, Volvo EX90, and the Rivian R1S.",
+        "url": "https://www.threads.com/@christi_jamelle/post/DZAttOElL3M/ive-seen-more-unreliability-about-tesla-than-rivian",
+        "source": "twitter",
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Owner-generated content comparing Tesla reliability unfavorably to Rivian — positive brand sentiment signal from organic owner advocacy.",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "R1 + R2 cross-pollination discussion on r/RivianR2 — owners considering R1 as first Rivian experience.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tt5usa/r1_r2",
+        "source": "reddit_rivianr2",
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "r/RivianR2 users discussing R1 as a gateway to the brand — positive brand funnel signal showing R2 interest driving R1 consideration.",
+        "themes": [
+          "R2 launch",
+          "R1 delivery"
         ]
       }
     ]
