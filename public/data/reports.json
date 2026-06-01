@@ -1,196 +1,5 @@
 [
   {
-    "id": "2026-05-27T22:10:28Z",
-    "timestamp": "2026-05-27T22:10:28.641050+00:00",
-    "sentiment": {
-      "positive": 50,
-      "neutral": 20,
-      "negative": 30
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 5,
-        "sentiment": "neutral"
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 3,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "infotainment bug",
-      "owner experience",
-      "Hey Rivian",
-      "Driver+",
-      "OTA update",
-      "brand sentiment"
-    ],
-    "competitiveContext": "No major competitor announcements surfaced today. The most relevant near-term external event is Rivian's own R2 launch/demonstration wave beginning June 9 — a critical proof point as the company works to rebuild revenue throughput. Ford's Lightning and GM's EV portfolio continue to scale quietly; no new threatening moves detected today, but the window for Rivian to establish R2 momentum before competitor next-wave launches is narrowing.",
-    "summary": "Light intel cycle — 7 signals across 2 sources. R2 launch activities dominate the RivianR2 sub (delivery/demo June 9, reservation transfer rules). Community sentiment on the main Rivian sub is mixed: strong positive owner experience feedback coexists with multiple infotainment bug reports (Dolby audio drop-out, Apple Music speaker failure, AI voice recognition failures). No regulatory news, earnings pre-announcements, or autonomy field reports.",
-    "fullReport": "Full 7-item brief: 5 items from r/Rivian (software complaints: Dolby/Apple Music audio drop-out, Hey Rivian voice recognition failure) alongside positive owner experience and R1 update feedback. 2 items from r/RivianR2: R2 delivery/demo wave confirmed for June 9, and a community question on reservation transfer mechanics. No new signals on autonomy, competitive moves, or business headlines.",
-    "items": [
-      {
-        "title": "Dolby audio sounds like cheeks",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tp6hr5/dolby_audio_sounds_like_cheeks/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T07:01:43-07:00",
-        "score": 1,
-        "snippet": "Anybody else Dolby on Apple M sound jank?  It's quiet. All shoved to front.  Tried reset.   Probably been asked before.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "infotainment bug",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "A new change for Rivian Rewards and R2?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tp3ths/a_new_change_for_rivian_rewards_and_r2/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T05:16:56-07:00",
-        "score": 9,
-        "snippet": "Can I earn points when referring someone to buy R2? Right now, only orders for a new R1 are eligible to earn Rivian Rewards points. However, you can use points when purchasing R2. Have we always been able to use our points to purchase an R2?",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "community"
-        ]
-      },
-      {
-        "title": "New Rivian AI has trouble picking up the voices of women and children",
-        "url": "https://youtu.be/47DDoEmB1Zg?si=HEzx-2peJcavJRrT",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T05:13:57-07:00",
-        "score": 0,
-        "snippet": "I noticed that the new Rivian AI has trouble picking up women and children's voices. It also struggles to pick up on voices other than the drivers. In this video I am in the driver's seat.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "Hey Rivian",
-          "Driver+",
-          "infotainment bug"
-        ]
-      },
-      {
-        "title": "Popped in our garden this morning while people were heading to work. We are still trying to get Rivian to take one of our pics, right?",
-        "url": "https://www.reddit.com/gallery/1tp3hkn",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T05:02:54-07:00",
-        "score": 50,
-        "snippet": "Beautiful foggy morning, I could hear the toads jumping away from me in the puddles.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Audio problems?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tp33vh/audio_problems/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T04:46:03-07:00",
-        "score": 3,
-        "snippet": "I drive a lot, and I've been noticing before the latest release (which absolutely rocks, my 2025 R1T actually gets terrific battery life now, very very very happy with this last release), that when I'm using Apple Music, sometimes the audio seems to drop out… it may be 5 min into a drive or 2 hours… suddenly it seems only the front two speakers have sound.",
-        "category": "software",
-        "sentiment": "neutral",
-        "themes": [
-          "infotainment bug",
-          "OTA update",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Reservation in my name - can my partner use my reservation?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T13:06:26-07:00",
-        "score": 0,
-        "snippet": "Can my partner use my R2 reservation if it's in my name? Wondering about transfer mechanics.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch",
-          "community"
-        ]
-      },
-      {
-        "title": "Rivian announces deliveries and demo drives begin June 9!",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T12:48:17-07:00",
-        "score": 20,
-        "snippet": "Rivian announces deliveries and demo drives begin June 9!",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "R1 delivery"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T22:20:13Z",
     "timestamp": "2026-05-27T22:20:13Z",
     "sentiment": {
@@ -8580,6 +8389,873 @@
         "sentiment": "positive",
         "themes": [
           "RIVN stock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-01T22:04:15.082033+00:00",
+    "timestamp": "2026-06-01T22:04:15.082033+00:00",
+    "new_item_count": 66,
+    "sentiment": {
+      "positive": 6,
+      "neutral": 89,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 17,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "business": {
+        "found": 41,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "competitive": {
+        "found": 21,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Ford Lightning",
+      "OTA update",
+      "R2 launch",
+      "RIVN stock",
+      "Tesla pricing",
+      "owner experience",
+      "recall alert"
+    ],
+    "competitiveContext": "NHTSA has opened a preliminary investigation into approximately 115,000 Rivian vehicles for rear suspension issues, a recall-level risk that could affect R1T and R1S owners. Meanwhile, Rivian's stock is climbing on VW partnership momentum and anticipation around the June 9th R2 launch date. Cross-shopping debates between R2 and Tesla Model Y highlight intensifying pricecompetition in the $45-60K EV segment.",
+    "summary": "Rivian enters a pivotal week as R2 customer deliveries begin June 9th with hundreds of staff vehicles already delivered. NHTSA's 115K-unit rear suspension probe is the top operational risk heading into launch. Investor sentiment is constructive — RIVN up on VW partnership momentum and R2 demand signals.",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 Across America : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tu22lr/r2_across_america",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "R2 Across America : r/RivianR2 - Reddit",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "R2 Across America : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tu5avd/r2_across_america",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "R2 Across America : r/RivianR2 - Reddit",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Lawrence Ulrich - The New York Times",
+        "url": "https://www.nytimes.com/by/lawrence-ulrich",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Lawrence Ulrich - The New York Times",
+        "themes": []
+      },
+      {
+        "title": "A Route 66 Road Trip in Cars of the Past, Present and Future",
+        "url": "https://www.nytimes.com/2026/05/23/us/route-66-100-years-cars.html",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "A Route 66 Road Trip in Cars of the Past, Present and Future",
+        "themes": []
+      },
+      {
+        "title": "Automobile Technology - The New York Times",
+        "url": "https://www.nytimes.com/topic/subject/automobile-technology",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Automobile Technology - The New York Times",
+        "themes": []
+      },
+      {
+        "title": "George Lucas - The New York Times",
+        "url": "https://www.nytimes.com/topic/person/george-lucas",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "George Lucas - The New York Times",
+        "themes": []
+      },
+      {
+        "title": "The Best Walmart Deals (Updated Daily) | Wirecutter",
+        "url": "https://www.nytimes.com/wirecutter/deals/best-walmart-deals",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "The Best Walmart Deals (Updated Daily) | Wirecutter",
+        "themes": []
+      },
+      {
+        "title": "米新車購入予定者、100万人消滅 すぐには戻らず - WSJ",
+        "url": "https://jp.wsj.com/articles/one-million-new-car-buyers-are-gone-and-theyre-not-coming-back-soon-93c4a7a8",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "米新車購入予定者、100万人消滅 すぐには戻らず - WSJ",
+        "themes": []
+      },
+      {
+        "title": "Kate Clark — Reporter at The Wall Street Journal",
+        "url": "https://www.wsj.com/news/author/kate-clark",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Kate Clark — Reporter at The Wall Street Journal",
+        "themes": []
+      },
+      {
+        "title": "The Shake-Up Coming for Car Dealerships - The Journal. - WSJ",
+        "url": "https://www.wsj.com/podcasts/the-journal/the-shakeup-coming-for-car-dealerships/129CEB0C-7031-473F-AFF3-B53321EF1C70?mod=error_page",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "The Shake-Up Coming for Car Dealerships - The Journal. - WSJ",
+        "themes": []
+      },
+      {
+        "title": "A Famous Math Problem Stumped Humans for 80 Years. AI Just ...",
+        "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "A Famous Math Problem Stumped Humans for 80 Years. AI Just ...",
+        "themes": []
+      },
+      {
+        "title": "QCMMPX | CREF Money Market Account R2 Stock Price and News",
+        "url": "https://www.wsj.com/market-data/quotes/mutualfund/QCMMPX",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "QCMMPX | CREF Money Market Account R2 Stock Price and News",
+        "themes": [
+          "RIVN stock",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "iPublish MarketPlace - Automotive",
+        "url": "https://classifiedsmarketplace.washingtonpost.com/marketplace/category/automotive/automotive",
+        "source": "washington_post",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "iPublish MarketPlace - Automotive",
+        "themes": []
+      },
+      {
+        "title": "Top Canadian auto stories for the week of May 25 - Automotive News",
+        "url": "https://www.autonews.com/manufacturing/anc-canadian-auto-news-week-may-25-2026",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Top Canadian auto stories for the week of May 25 - Automotive News",
+        "themes": []
+      },
+      {
+        "title": "Automotive News | Car, EV & Dealership News - Automotive News",
+        "url": "https://www.autonews.com",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Automotive News | Car, EV & Dealership News - Automotive News",
+        "themes": []
+      },
+      {
+        "title": "Connected vehicle data ‘can have intelligence value’ to adversaries: federal document - Automotive News",
+        "url": "https://www.autonews.com/canada/anc--6",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Connected vehicle data ‘can have intelligence value’ to adversaries: federal document - Automotive News",
+        "themes": []
+      },
+      {
+        "title": "Best 7-Seater SUVs for 2026 - MotorTrend's Tested Top Picks",
+        "url": "https://www.motortrend.com/rankings/suvs/7-seater",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Best 7-Seater SUVs for 2026 - MotorTrend's Tested Top Picks",
+        "themes": []
+      },
+      {
+        "title": "Cheapest 3-Row SUVs for 2026 - MotorTrend",
+        "url": "https://www.motortrend.com/rankings/suvs/3-row/cheapest",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Cheapest 3-Row SUVs for 2026 - MotorTrend",
+        "themes": []
+      },
+      {
+        "title": "Cheapest Vans for 2026 - MotorTrend's Tested Top Picks",
+        "url": "https://www.motortrend.com/rankings/vans/cheapest",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Cheapest Vans for 2026 - MotorTrend's Tested Top Picks",
+        "themes": []
+      },
+      {
+        "title": "Electric SUVs with the Most Range for 2026 - MotorTrend's Tested Top Picks",
+        "url": "https://www.motortrend.com/rankings/suvs/electric/range",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Electric SUVs with the Most Range for 2026 - MotorTrend's Tested Top Picks",
+        "themes": []
+      },
+      {
+        "title": "Alan Muir Design Director",
+        "url": "https://www.motortrend.com/author/451071/alan-muir?page=3",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Alan Muir Design Director",
+        "themes": []
+      },
+      {
+        "title": "The Most Expensive Cars and Trucks Made in America",
+        "url": "https://www.caranddriver.com/features/g25102201/most-expensive-cars-made-in-america",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "The Most Expensive Cars and Trucks Made in America",
+        "themes": []
+      },
+      {
+        "title": "Los 35 coches eléctricos con más autonomía del mercado, analizados",
+        "url": "https://www.caranddriver.com/es/coches/planeta-motor/g35350195/vehiculos-electricos-autonomia",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Los 35 coches eléctricos con más autonomía del mercado, analizados",
+        "themes": []
+      },
+      {
+        "title": "Reset a Check Engine Light at Your Own Risk - Car and Driver",
+        "url": "https://www.caranddriver.com/features/a25063304/reset-check-engine-light",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Reset a Check Engine Light at Your Own Risk - Car and Driver",
+        "themes": []
+      },
+      {
+        "title": "2027 GMC Sierra EV Review, Pricing, and Specs - Car and Driver",
+        "url": "https://www.caranddriver.com/gmc/sierra-ev-2027",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "2027 GMC Sierra EV Review, Pricing, and Specs - Car and Driver",
+        "themes": []
+      },
+      {
+        "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the ...",
+        "url": "https://www.reuters.com/legal/transactional/spacex-debut-draws-crowd-few-recent-hot-ipos-outpace-market-2026-05-26",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the ...",
+        "themes": []
+      },
+      {
+        "title": "Shift in hiring shows law firms favoring more experienced lawyers",
+        "url": "https://www.reuters.com/legal/legalindustry/shift-hiring-shows-law-firms-favoring-more-experienced-lawyers-2026-05-27",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Shift in hiring shows law firms favoring more experienced lawyers",
+        "themes": []
+      },
+      {
+        "title": "May 28, 2026 - Sitemap | Reuters",
+        "url": "https://www.reuters.com/sitemap/2026-05/28/1",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "May 28, 2026 - Sitemap | Reuters",
+        "themes": []
+      },
+      {
+        "title": "The AV Future Might Not Be Shared - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-01/think-robotaxis-are-disruptive-wait-until-everyone-buys-their-own-avs",
+        "source": "bloomberg_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "The AV Future Might Not Be Shared - Bloomberg.com",
+        "themes": []
+      },
+      {
+        "title": "Bloomberg Green - Bloomberg",
+        "url": "https://www.bloomberg.com/green",
+        "source": "bloomberg_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Bloomberg Green - Bloomberg",
+        "themes": []
+      },
+      {
+        "title": "RIVN, TSLA - Stock Price, Quote - CNBC",
+        "url": "https://www.cnbc.com/quotes/RIVN,%20TSLA",
+        "source": "cnbc_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "RIVN, TSLA - Stock Price, Quote - CNBC",
+        "themes": [
+          "RIVN stock",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "SpaceX sets aside up to 5% of shares in IPO for employees ... - CNBC",
+        "url": "https://www.cnbc.com/amp/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
+        "source": "cnbc_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "SpaceX sets aside up to 5% of shares in IPO for employees ... - CNBC",
+        "themes": []
+      },
+      {
+        "title": "MLTTX: MFS Lifetime 2070 Fund R2 - Stock Price, Quote and News - CNBC",
+        "url": "https://www.cnbc.com/quotes/MLTTX",
+        "source": "cnbc_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "MLTTX: MFS Lifetime 2070 Fund R2 - Stock Price, Quote and News - CNBC",
+        "themes": [
+          "RIVN stock",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Analyst Calls of the Day",
+        "url": "https://www.cnbc.com/analyst-calls-of-the-day",
+        "source": "cnbc_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Analyst Calls of the Day",
+        "themes": []
+      },
+      {
+        "title": "IBKR: Interactive Brokers Group Inc - Stock Price, Quote and News",
+        "url": "https://www.cnbc.com/quotes/IBKR",
+        "source": "cnbc_top",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "IBKR: Interactive Brokers Group Inc - Stock Price, Quote and News",
+        "themes": []
+      },
+      {
+        "title": "Get the latest stock market insights on Markets Insider",
+        "url": "https://markets.businessinsider.com/searchresults?_type=fonds&_search=%E5%A4%A7%E9%98%AA%E5%A4%A7%E9%98%AA%E7%8B%AD%E5%B1%B1%E5%B8%82%E7%BA%A6%E7%82%AE%E6%9E%81%E5%93%81%E7%BA%A6%E7%82%AE%EF%BC%88%E5%90%8C%E5%9F%8E%E7%BA%A6%E7%82%AE%E7%B6%B2%E8%8A%B7%EF%BD%8B%EF%BC%95%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%8E%EF%BD%96%EF%BD%89%EF%BD%90%E7%9C%9F%E5%AE%9E%E5%A4%96%E5%9B%B4%EF%BC%89%E6%80%8E%E4%B9%88%E6%89%BE%E5%A4%96%E5%9B%B4%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E4%B9%80%E5%A4%A7%E9%98%AA%E5%A4%A7%E9%98%AA%E7%8B%AD%E5%B1%B1%E5%B8%82%E6%89%BE%E5%B0%8F%E5%A7%90%E7%89%B9%E6%AE%8A%E6%9C%8D%E5%8A%A1%E4%B9%80%E5%A4%A7%E9%98%AA%E5%A4%A7%E9%98%AA%E7%8B%AD%E5%B1%B1%E5%B8%82%E6%89%BE%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%95%99%E5%AD%A6%E7%94%9F%E5%8C%85%E5%85%BBjfa%2F",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Get the latest stock market insights on Markets Insider",
+        "themes": []
+      },
+      {
+        "title": "MFS VALUE FUND CLASS R2 | Markets Insider",
+        "url": "https://markets.businessinsider.com/funds/mfs-value-fund-class-r2-us5529831167",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "MFS VALUE FUND CLASS R2 | Markets Insider",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Data Center Critic's Arrest Draws Attention to 387-Acre Site - Business Insider",
+        "url": "https://www.businessinsider.com/dixon-illinois-data-center-development-critic-arrested-2026-5",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Data Center Critic's Arrest Draws Attention to 387-Acre Site - Business Insider",
+        "themes": []
+      },
+      {
+        "title": "BMW i8 | Electrek",
+        "url": "https://electrek.co/guides/bmw-i8",
+        "source": "electrek_main",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "BMW i8 | Electrek",
+        "themes": []
+      },
+      {
+        "title": "Fortescue Nabrawind deploy first crane-less wind turbine in Africa",
+        "url": "https://electrek.co/2026/05/30/fortescue-nabrawind-deploy-first-crane-less-wind-turbine-in-africa?extended-comments=1",
+        "source": "electrek_main",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Fortescue Nabrawind deploy first crane-less wind turbine in Africa",
+        "themes": []
+      },
+      {
+        "title": "My dog's EV obsession.",
+        "url": "https://update.insideevs.com/p/my-dog-s-ev-obsession",
+        "source": "insideevs_main",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "My dog's EV obsession.",
+        "themes": []
+      },
+      {
+        "title": "Chief Nerd (@TheChiefNerd) / Posts / X - Twitter",
+        "url": "https://x.com/TheChiefNerd",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Chief Nerd (@TheChiefNerd) / Posts / X - Twitter",
+        "themes": []
+      },
+      {
+        "title": "$RIVN OI changes Insider SCARINGE ROBERT sold 34,818 on 28 ...",
+        "url": "https://x.com/OptionsFlowBoss/status/2061408559460491527",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "$RIVN OI changes Insider SCARINGE ROBERT sold 34,818 on 28 ...",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "It's June 1st, which means R2 deliveries start this month. And demo ...",
+        "url": "https://www.threads.com/@riviantrackr/post/DZDCG_rDs0D/its-june-st-which-means-r-deliveries-start-this-month-and-demo-units-are",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet": "It's June 1st, which means R2 deliveries start this month. And demo ...",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Working on R2 content meant to be evergreen, the kind of reference ...",
+        "url": "https://www.threads.com/@riviantrackr/post/DZBelyklAu1/working-on-r-content-meant-to-be-evergreen-the-kind-of-reference-page-you",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Working on R2 content meant to be evergreen, the kind of reference ...",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "R2 customer deliveries officially start on June 9th, but hundreds of ...",
+        "url": "https://www.threads.com/@rivianofficial/post/DZDarsVksut/r-customer-deliveries-officially-start-on-june-th-but-hundreds-of-rivian-team",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "R2 customer deliveries officially start on June 9th, but hundreds of ...",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "3 within 45 minutes of me. - Threads",
+        "url": "https://www.threads.com/@riviantrackr/post/DZB5sUADs-I/within-minutes-of-me",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "3 within 45 minutes of me. - Threads",
+        "themes": []
+      },
+      {
+        "title": "Re sharing to threads as I know there are lots of people excited for ...",
+        "url": "https://www.threads.com/@currentwithkate/post/DZC5FrtDhZF/re-sharing-to-threads-as-i-know-there-are-lots-of-people-excited-for-the-rivian",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Re sharing to threads as I know there are lots of people excited for ...",
+        "themes": []
+      },
+      {
+        "title": "eStang (@estang14) on Threads",
+        "url": "https://www.threads.com/@estang14/post/DZBppsSgBZ7/when-comparing-among-r-trims-range-and-price-whats-included-for-the-price-when",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "eStang (@estang14) on Threads",
+        "themes": []
+      },
+      {
+        "title": "Well decided on the 2026 R1 - Facebook",
+        "url": "https://www.facebook.com/groups/ghostriderzstreet/posts/well-decided-2026-r1/1392886586009676",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Well decided on the 2026 R1 - Facebook",
+        "themes": []
+      },
+      {
+        "title": "Rivian R2 Borealis - TikTok",
+        "url": "https://www.tiktok.com/discover/rivian-r2-borealis",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Rivian R2 Borealis - TikTok",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Is Rivian R2 worth a $25k premium over Tesla Model Y? - Facebook",
+        "url": "https://www.facebook.com/groups/874936780768370/posts/1486943859567656",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Is Rivian R2 worth a $25k premium over Tesla Model Y? - Facebook",
+        "themes": [
+          "Tesla pricing",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Rivian on Instagram: \"R2 customer deliveries officially start on June ...",
+        "url": "https://www.instagram.com/p/DZDfI4Qj1fp",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Rivian on Instagram: \"R2 customer deliveries officially start on June ...",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "After spending years working on autonomous vehicle technology at ...",
+        "url": "https://www.instagram.com/reel/DZDF-2aOsnL",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "snippet": "After spending years working on autonomous vehicle technology at ...",
+        "themes": []
+      },
+      {
+        "title": "Rivian Says Hundreds of Staff Have Taken Delivery of R2s as ...",
+        "url": "https://eletric-vehicles.com/rivian/rivian-says-hundreds-of-staff-have-taken-delivery-of-r2s-as-customer-launch-nears",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Rivian Says Hundreds of Staff Have Taken Delivery of R2s as ...",
+        "themes": [
+          "owner experience",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "The Polestar 5 is a relaxed electric grand tourer that looks great, and ...",
+        "url": "https://www.facebook.com/RoadandTrack/posts/the-polestar-5-is-a-relaxed-electric-grand-tourer-that-looks-great-and-is-a-blas/1354698169852711",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet": "The Polestar 5 is a relaxed electric grand tourer that looks great, and ...",
+        "themes": []
+      },
+      {
+        "title": "2026 Hummer EV Camper Revealed - Facebook",
+        "url": "https://www.facebook.com/AlahramAuto/posts/2026-hummer-ev-camper-revealed/1477100804459678",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "2026 Hummer EV Camper Revealed - Facebook",
+        "themes": []
+      },
+      {
+        "title": "NHTSA probe targets 115K Rivian vehicles over rear suspension ...",
+        "url": "https://www.wardsauto.com/news/nhtsa-probe-targets-115k-rivian-vehicles-over-rear-suspension-issue/821526",
+        "source": "twitter",
+        "publishedAt": null,
+        "score": 0,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "snippet": "NHTSA probe targets 115K Rivian vehicles over rear suspension ...",
+        "themes": [
+          "recall alert"
+        ]
+      },
+      {
+        "title": "@animeiscool.bsky.social (Bluesky): Getting a Rivian? Or a BMW M4?",
+        "url": "https://bsky.app/profile/did:plc:kieme6lsxzsbmcizqr4snp7b/post/3mnb2csydl22v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T21:42:18.476Z",
+        "score": 8,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Getting a Rivian? Or a BMW M4?",
+        "themes": []
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Yesterday I asked what spec you check first on the R2 and what you're cross-shop",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mnazmz5qhs25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T21:30:10.172Z",
+        "score": 1,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Yesterday I asked what spec you check first on the R2 and what you're cross-shopping it against. Those replies shaped exactly what went in here.\n\nThe R2 reference to keep open while you configure.\n\nriviantrackr.com/news/rivian-...",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@eu-de.bsky.social (Bluesky): Rivian Stock Climbs As Volkswagen Bet And R2 Launch Near\n\nhttps://www.europesays",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mnaxxozph72h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T21:00:17.577Z",
+        "score": 1,
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "Rivian Stock Climbs As Volkswagen Bet And R2 Launch Near\n\nhttps://www.europesays.com/germany/28329/\n\nRivian Automotive Inc. stocks have been trading up by 4.72 percent after upbeat production outlook fueled investor optimism.…",
+        "themes": [
+          "RIVN stock",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Wait until folks realize all the shenanigans they pull in service, or Rivian.\n\nB",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mnawgmkn4k2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T20:32:51.471Z",
+        "score": 0,
+        "category": "community",
+        "sentiment": "negative",
+        "snippet": "Wait until folks realize all the shenanigans they pull in service, or Rivian.\n\nBuddy needed their special team that QC's units going to reviewers and celebs, the \"craftsmanship team\" to finally get his R1T sorted after months of back and forth.",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): An absolutely terrible price on the California Dune R1T in used inventory direct",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mnavg4vtts2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T20:14:41.174Z",
+        "score": 1,
+        "category": "competitive",
+        "sentiment": "negative",
+        "snippet": "An absolutely terrible price on the California Dune R1T in used inventory directly from Rivian - I paid $99,500 before the $7,500 tax credit and incentives.  But..hear me out... ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ \n\nLink:  buff.ly/Mb8YFKg",
+        "themes": [
+          "Tesla pricing",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@cataloo.bsky.social (Bluesky): Rivian is the way.",
+        "url": "https://bsky.app/profile/did:plc:oiuofxks2wfwlvkdd6ujesen/post/3mnat5yhixs2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T19:34:22.674Z",
+        "score": 1,
+        "category": "competitive",
+        "sentiment": "positive",
+        "snippet": "Rivian is the way.",
+        "themes": []
+      },
+      {
+        "title": "@pantherraccoon.bsky.social (Bluesky): Considering that Ford sells 20x as many F-series pickups as Rivian sells R1Ts, t",
+        "url": "https://bsky.app/profile/did:plc:4ktfm42mb2iayemgslbpl5sv/post/3mnasgnedoc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T19:21:17.572Z",
+        "score": 1,
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Considering that Ford sells 20x as many F-series pickups as Rivian sells R1Ts, they’d need to be working four shifts in Normal. 😂",
+        "themes": [
+          "Ford Lightning"
+        ]
+      },
+      {
+        "title": "@bulskov.dk (Bluesky): Har en 2025 Born. De har skiftet til i 2026 er primært ratknapper der var både k",
+        "url": "https://bsky.app/profile/did:plc:2ipmji2nxw62ori6fqymyztc/post/3mnal5nfles2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-01T17:10:59.370Z",
+        "score": 0,
+        "category": "software",
+        "sentiment": "neutral",
+        "snippet": "Har en 2025 Born. De har skiftet til i 2026 er primært ratknapper der var både klik og touch, så man feks kan skrue op med en glidende bevægelse. Det er ok, men nu er det et hjul i stedet. Meget bedre.\nDe mangler en del i software, men de samarbejder med Rivian og der kommer bedre infotainment.",
+        "themes": [
+          "OTA update"
         ]
       }
     ]
