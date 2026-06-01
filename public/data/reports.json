@@ -1,118 +1,5 @@
 [
   {
-    "id": "2026-05-27T22:06:00Z",
-    "timestamp": "2026-05-27T22:06:00Z",
-    "sentiment": {
-      "positive": 50,
-      "neutral": 50,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "community"
-    ],
-    "competitiveContext": "No competitor signals this cycle. R2 demo drive launch on June 9 remains the dominant near-term Rivian narrative, with no fresh competitive moves from Tesla, Scout, Ford, or GM in this window.",
-    "summary": "Quiet cycle — just 2 new signals, both r/RivianR2 posts re-surfacing R2 demo drive announcement (June 9) and a reservation transfer question. Dedup likely missed these against the prior cycle due to URL format mismatch.",
-    "fullReport": "2 new signals, both R2-related Reddit posts that echoed the prior cycle. R2 launch momentum confirmed for June 9.",
-    "items": [
-      {
-        "title": "Reservation in my name - can my partner use my reservation?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpgzxq/reservation_in_my_name_can_my_partner_use_my/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T13:06:26-07:00",
-        "score": 0,
-        "snippet": "Reservation transfer question between partners — minor purchase-intent friction signal as R2 deliveries approach.",
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Rivian announces deliveries and demo drives begin June 9!",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpghgf/rivian_announces_deliveries_and_demo_drives_begin/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T12:48:17-07:00",
-        "score": 22,
-        "snippet": "R2 deliveries and demo drives confirmed to start June 9 — strong positive engagement in r/RivianR2.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-27T22:10:28Z",
     "timestamp": "2026-05-27T22:10:28.641050+00:00",
     "sentiment": {
@@ -8428,6 +8315,271 @@
         "themes": [
           "R2 launch",
           "R1 delivery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-01T18:05:00Z",
+    "timestamp": "2026-06-01T18:05:00Z",
+    "sentiment": {
+      "positive": 67,
+      "neutral": 8,
+      "negative": 25
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "rivianforums": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 3,
+        "sentiment": null
+      },
+      "twitter": {
+        "found": 0,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "mixed"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "negative"
+      }
+    },
+    "themes": [
+      "Aurora update",
+      "Driver+",
+      "EV incentives",
+      "FSD update",
+      "OTA update",
+      "R2 launch",
+      "RIVN stock",
+      "Waymo move",
+      "brand sentiment",
+      "charging infra",
+      "infotainment bug",
+      "owner experience",
+      "regulatory news"
+    ],
+    "competitiveContext": "Waymo is expanding aggressively with the Ojai robotaxi (100 vehicles across SF, Phoenix, LA this summer, adding San Diego, Las Vegas, Denver) — a direct signal that AV commercialization is accelerating and could set consumer expectations for hands-free driving that OEM-built vehicles must match. Tesla's robotaxi numbers are reported as 'alarming' per Electrek, suggesting FSD is still struggling for可靠性. Meanwhile, China's EV players (BYD, Geely, XPeng) are pivoting hard to fast-charging and robotaxi services as the domestic market contracts — competitive intensity in autonomy is increasing globally, making Rivian's Driver+ roadmap and R2 launch timing more consequential.",
+    "summary": "R2 launch week: Rivian begins shipping R2 next week with deliveries and demo drives starting this month (June 9 demos at Spaces), generating strong organic social traction. Brand sentiment is positive — the owl sound anecdote and owner-switching narrative are standout signals. Competitively, Waymo is the clear threat: Ojai deployment across major metros this summer while Tesla's robotaxi struggles. Tariff/EV policy headwinds in the U.S. add macro risk for all EV OEMs.",
+    "items": [
+      {
+        "source": "bluesky",
+        "title": "R2 deliveries start this month — demo units already at Spaces, demo drives June 9",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mnadmbw7ms2j",
+        "publishedAt": "2026-06-01T14:56:03Z",
+        "score": 13,
+        "snippet": "It's June 1st, which means R2 deliveries start this month. And demo units are already showing up at Spaces, like this one in Pittsburgh. Demo drives kick off June 9th.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ]
+      },
+      {
+        "source": "bluesky",
+        "title": "Rivian starts shipping the R2 next week — below $60k",
+        "url": "https://bsky.app/profile/did:plc:vy6o7yemm3w4nzy4pxnvwnm2/post/3mnaiz2xfys2z",
+        "publishedAt": "2026-06-01T16:32:38Z",
+        "score": 0,
+        "snippet": "Rivian starts shipping the R2 next week. Which is below 60k.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "source": "bluesky",
+        "title": "Rivian 'R2 Across America' official post — employee stories",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mnanox5qnc27",
+        "publishedAt": "2026-06-01T17:56:29Z",
+        "score": 1,
+        "snippet": "Rivian has shared an official news post titled 'R2 Across America' sharing different experiences employees have had with R2.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "brand sentiment"
+        ]
+      },
+      {
+        "source": "bluesky",
+        "title": "Rivian says AI makes debate over CarPlay 'completely obsolete'",
+        "url": "https://bsky.app/profile/did:plc:dwecjm5n7fyljcjk3vi7x5oa/post/3mnaknlzwsn2s",
+        "publishedAt": "2026-06-01T17:02:00Z",
+        "score": 0,
+        "snippet": "Rivian says AI makes debate over CarPlay 'completely obsolete' — signaling a坚定的软件-first座舱战略。",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "source": "bluesky",
+        "title": "For same price you can pick up a Rivian — buyer self-selection",
+        "url": "https://bsky.app/profile/did:plc:ookkk32stc2njh5u4pvzoli3/post/3mnajgct2522s",
+        "publishedAt": "2026-06-01T16:40:05Z",
+        "score": 7,
+        "snippet": "For the same price you can pick up a Rivian. Most people buying those pickups should actually probably be buying a Rivian instead.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ]
+      },
+      {
+        "source": "electrek",
+        "title": "Tesla Robotaxi numbers alarming; Waymo Ojai expanding in major cities",
+        "url": "https://electrek.co/2026/05/29/podcast-tesla-robotaxi-numbers-ferraris-controversial-luce-launches-waymo-ojai-and-more",
+        "publishedAt": "2026-05-29",
+        "score": 0,
+        "snippet": "Electrek podcast covers Tesla's alarming Robotaxi numbers, Ferrari's Luce launch, Waymo Ojai expansion across SF, Phoenix, LA — 100 Ojai vehicles deploying this summer.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Waymo move",
+          "FSD update"
+        ]
+      },
+      {
+        "source": "business_insider",
+        "title": "Waymo launches Ojai robotaxi — spacious, tested with 6 suitcases, glitched twice",
+        "url": "https://www.businessinsider.com/waymo-launches-ojai-robotaxi-major-cities-we-tested-it-2026-5",
+        "publishedAt": "2026-05-30",
+        "score": 0,
+        "snippet": "Waymo's new Ojai robotaxi (electric minivan) launches in SF, Phoenix, LA this summer — 100 vehicles initially, expanding to San Diego, Las Vegas, Denver. Business Insider tested it: roomy but glitched twice in Mission Bay.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Waymo move"
+        ]
+      },
+      {
+        "source": "automotive_news",
+        "title": "Tariffs, EV pullback could isolate U.S. auto industry",
+        "url": "https://www.autonews.com/manufacturing/an-tariffs-isolate-usa-global-trade-0601",
+        "publishedAt": "2026-06-01",
+        "score": 0,
+        "snippet": "June 1 Automotive News — tariffs and EV demand pullback threaten to isolate the U.S. auto industry from global markets, with domestic OEMs facing supply chain headwinds and retaliatory trade barriers.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "regulatory news",
+          "EV incentives"
+        ]
+      },
+      {
+        "source": "automotive_news",
+        "title": "BYD and Geely earnings tumble — fast-charging and robotaxis become survival tools in China EV downturn",
+        "url": "https://www.autonews.com/asia/an-china-ev-slowdown-electric-vehicle-byd-geely-xpeng-charging-robotaxi-0528",
+        "publishedAt": "2026-05-28",
+        "score": 0,
+        "snippet": "China EV market contracting sharply — BYD and Geely earnings fall as XPeng, Li Auto pivot hard to fast-charging and robotaxi services to survive the downturn.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "charging infra",
+          "Aurora update"
+        ]
+      },
+      {
+        "source": "bluesky",
+        "title": "Netlify CEO at CascadiaJS: Waymo rides + Rivian driving reframes expectations for hands-free future",
+        "url": "https://bsky.app/profile/did:plc:xbydfe2b7gdupgffhqccelkz/post/3mnaiyzhisc2j",
+        "publishedAt": "2026-06-01T16:32:46Z",
+        "score": 2,
+        "snippet": "Netlify CEO took Waymo in SF and drives his Rivian — says Copilot in IDE and universal hands-free driving are converging. References Claude Code as similar pattern.",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Waymo move",
+          "Driver+"
+        ]
+      },
+      {
+        "source": "bluesky",
+        "title": "Owl sound has neighbor looking up every time — brand distinctiveness",
+        "url": "https://bsky.app/profile/did:plc:bto5wssbk36x6qvdlgy4kbvm/post/3mnahrpe5xs26",
+        "publishedAt": "2026-06-01T16:10:36Z",
+        "score": 2,
+        "snippet": "My neighbor has a Rivian and I swear to god that owl sound has me looking up in the trees every freakin time. Sometimes I think he does it to fuck with me.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ]
+      },
+      {
+        "source": "bluesky",
+        "title": "RIVN stock uptrend: 4H SWING CROSS UP — EMA 20 crossed above EMA 50",
+        "url": "https://bsky.app/profile/did:plc:2etirfyqqgrsbe7nibl4eyx3/post/3mnadyptcth2b",
+        "publishedAt": "2026-06-01T15:02:57Z",
+        "score": 0,
+        "snippet": "RIVN showing 4H swing cross up: EMA 20 crossed above EMA 50, suggesting short-term bullish momentum ahead of R2 deliveries.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN stock"
         ]
       }
     ]
