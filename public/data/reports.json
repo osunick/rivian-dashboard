@@ -1,87 +1,5 @@
 [
   {
-    "id": "2026-05-28T18:05:00.000Z",
-    "timestamp": "2026-05-28T18:05:00.000Z",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 100,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 0,
-        "sentiment": null
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [],
-    "competitiveContext": "No new competitor signals this cycle. Prior cycle covered Waymo's Zeekr robotaxi deployment and Slate Auto's June 24 order opening.",
-    "summary": "Quiet cycle — 0 new items after dedup. Reddit endpoints continue returning 403; news, social, and forums sources fetched but all surfaced URLs already captured in prior reports.",
-    "fullReport": "Quiet cycle — no new signals. All sources fetched cleanly (Reddit still blocked at 403) but everything was already captured in the previous run earlier today.",
-    "items": []
-  },
-  {
     "id": "2026-05-28T22:03:03Z",
     "timestamp": "2026-05-28T22:03:03Z",
     "sentiment": {
@@ -8770,5 +8688,79 @@
         "publishedAt": null
       }
     ]
+  },
+  {
+    "id": "2026-06-03T22:08:36Z",
+    "timestamp": "2026-06-03T22:08:36Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 0,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "competitiveContext": "No new competitor signals fetched in this cycle.",
+    "summary": "Quiet cycle — no new items surfaced across all monitored sources (Reddit, HackerNews, RSS, Bluesky, expanded news). All sources returned zero new Rivian-relevant signals.",
+    "fullReport": "No new signals detected in this cycle.",
+    "items": []
   }
 ]
