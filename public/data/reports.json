@@ -1,429 +1,5 @@
 [
   {
-    "id": "2026-05-28T14:02:36Z",
-    "timestamp": "2026-05-28T14:02:36Z",
-    "sentiment": {
-      "positive": 54,
-      "neutral": 23,
-      "negative": 23
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 6,
-        "sentiment": "mixed"
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 4,
-        "sentiment": "negative"
-      },
-      "twitter": {
-        "found": 5,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 10,
-        "sentiment": "positive"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "vehicles": {
-        "found": 12,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 4,
-        "sentiment": "negative"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 2,
-        "sentiment": "positive"
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "recall alert",
-      "regulatory news",
-      "RIVN stock",
-      "owner experience",
-      "R1T review",
-      "brand sentiment",
-      "infotainment bug",
-      "competitive",
-      "earnings"
-    ],
-    "competitiveContext": "NHTSA opening a formal probe into ~115k Rivian vehicles over a rear toe link defect that may cause lane departures is the most urgent competitive risk today — it comes as Rivian prepares to launch R2 (June 9), its most important product, while Tesla continues aggressive pricing and Li Auto posts a loss amid hybrid demand softening. The Kia EV9 battery defect reinforces Rivian's quality story but the regulatory overhang could shadow R2's launch momentum.",
-    "summary": "26 new signals captured with R2 launch energy dominant across social channels — configurator live, June 9 first deliveries confirmed, 25k target by year-end. However, an NHTSA probe into ~115k Rivian vehicles for a rear toe link defect capable of causing lane departures is the top risk this cycle, with potential safety recall implications ahead of the R2 launch window.",
-    "fullReport": "GameFilm Intel — Thursday May 28, 2026. 26 new signals across Reddit, Bluesky, Twitter, and news. R2 launch dominates the conversation — configurator is live, RJ Scaringe called it 'the most important product we've ever made,' and first deliveries are set for June 9 with a 2-6 week delivery window. Meanwhile, NHTSA opened a formal investigation into ~115,000 Rivian R1T/R1S vehicles for a rear toe link defect that may cause vehicles to swerve across lanes, creating crash risk. On the business side, Bluesky posts cite a $13.33M/day cash burn ($1.2B over 90 days). Li Auto also posted a loss as hybrid sales slow — a cautionary competitive data point. Rivian-watch items: infotainment bug on Apple Watch app causing battery drain, and a Texas law tightening self-driving car oversight which may affect autonomy roadmap timing.",
-    "items": [
-      {
-        "title": "Paint quality?",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tq4bwi/paint_quality/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-28T06:53:49-07:00",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "snippet": "Tesla Y switcher asks about paint quality on Rivian vs Tesla — a key consideration for competitive positioning against Tesla's thin, easily scratched paint.",
-        "themes": [
-          "owner experience",
-          "R1T review",
-          "competitive"
-        ]
-      },
-      {
-        "title": "Kia's flagship EV has a battery problem",
-        "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-28T06:12:04-07:00",
-        "score": 9,
-        "category": "competitive",
-        "sentiment": "positive",
-        "snippet": "Kia EV9 battery issue gaining traction on r/Rivian — reinforces Rivian's battery quality narrative.",
-        "themes": [
-          "competitive",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "[MEGATHREAD] Week of May 28, 2026 - Ask your Service Questions Here!",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tq2xfq/megathread_week_of_may_28_2026_ask_your_service/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-28T06:00:51-07:00",
-        "score": 2,
-        "category": "community",
-        "sentiment": "neutral",
-        "snippet": "Weekly service Q&A thread — routine but indicates active owner base with ongoing service interactions.",
-        "themes": [
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Thinking about my R2 reservation again...",
-        "url": "https://i.redd.it/r1s8qcpokv3h1.jpeg",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-28T05:51:35-07:00",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R1T lease-holder planning transition to R2, drawn by Borealis + Cloud White color combo — strong R2 reservation sentiment as launch approaches.",
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Launch Day",
-        "url": "https://www.reddit.com/gallery/1tpznov",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-28T03:31:40-07:00",
-        "score": 25,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R1T owner shares launch day experience — tows a Corsair with ease, showcasing real-world capability and generating positive engagement (25 score).",
-        "themes": [
-          "R1T review",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Rivian Apple Watch app fast battery drain",
-        "url": "https://www.reddit.com/r/Rivian/comments/1tpylfd/rivian_apple_watch_app_fast_battery_drain/",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-28T02:34:40-07:00",
-        "score": 5,
-        "category": "software",
-        "sentiment": "negative",
-        "snippet": "Apple Watch app holding open Bluetooth connection to search for vehicle, causing significant battery drain on Watch Ultra Series 2 — infotainment bug impacting owner experience.",
-        "themes": [
-          "infotainment bug",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
-        "url": "https://www.reuters.com/business/autos-transportation/us-auto-safety-regulator-opens-probe-into-nearly-115000-rivian-vehicles-2026-05-28/",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 10:45:47 GMT",
-        "score": 0,
-        "category": "recall alert",
-        "sentiment": "negative",
-        "snippet": "NHTSA opens formal investigation into ~115,000 Rivian R1T/R1S vehicles for rear toe link defect that may cause vehicles to swerve across lanes and crash — top risk item this cycle.",
-        "themes": [
-          "recall alert",
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "These are some of most expensive American-made cars - AOL.com",
-        "url": "https://www.aol.com/articles/most-expensive-american-made-cars-135608012.html",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 02:31:04 GMT",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "snippet": "Rivian vehicles featured among most expensive American-made cars — brand positioning data point.",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Li Auto Suffers Loss as Hybrid Sales Slow, Shrinking Margins - WSJ",
-        "url": "https://www.wsj.com/business/autos/li-auto-suffers-loss-as-hybrid-sales-slow-shrinking-margins-cd6ced55",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 09:05:00 GMT",
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "positive",
-        "snippet": "Li Auto posts loss as hybrid demand slows and margins compress — competitive landscape data point relevant for Rivian's risk assessment in PHEV/EREV markets.",
-        "themes": [
-          "competitive",
-          "earnings"
-        ]
-      },
-      {
-        "title": "New Texas law tightens oversight on self-driving car companies - KXAN Austin",
-        "url": "https://www.kxan.com/traffic/transportation/new-texas-law-tightens-oversight-on-self-driving-car-companies/",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 12:36:38 GMT",
-        "score": 0,
-        "category": "autonomy",
-        "sentiment": "neutral",
-        "snippet": "Texas passes new law tightening self-driving car oversight — regulatory environment for autonomy hardening, potentially impacting Rivian's Driver+ timeline.",
-        "themes": [
-          "regulatory news",
-          "autonomy"
-        ]
-      },
-      {
-        "title": "Rivian Pushes R2 Canadian Details to 2027, When Deliveries Begin",
-        "url": "https://eletric-vehicles.com/rivian/rivian-pushes-r2-canadian-details-to-2027-when-deliveries-begin",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "snippet": "Canada market update: R2 Canadian details pushed to 2027 when deliveries begin — international rollout nuance.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian R2 launch date set for June 9, 2026 - Facebook",
-        "url": "https://www.facebook.com/groups/r2rivian/posts/1721837442162369",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R2 launch date confirmed: June 9, 2026 — first deliveries on this date per TechCrunch reporting.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian Sets Two-to-Six-Week R2 Delivery Window as Orders Open ...",
-        "url": "https://eletric-vehicles.com/rivian/rivian-sets-two-to-six-week-r2-delivery-window-as-orders-open-june-9",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R2 delivery window set at 2-6 weeks as orders open — operational readiness signal ahead of June 9.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "rivian r2 configurator is now live! - Instagram",
-        "url": "https://www.instagram.com/p/DY2zsX0gQkQ",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R2 configurator is now live — demand signal immediately visible as customers configure orders.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian's AI-led R2 SUVs went from skunkworks to silicon - MSN",
-        "url": "https://www.msn.com/en-us/news/technology/rivian-s-ai-led-r2-suvs-went-from-skunkworks-to-silicon/ar-AA23DDHD",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "MSN covers R2's AI-led development journey — skunkworks to silicon, framing R2 as a major tech product as well as vehicle.",
-        "themes": [
-          "R2 launch",
-          "software"
-        ]
-      },
-      {
-        "title": "@quartzmedia.bsky.social (Bluesky): U.S. safety regulators investigating nearly 115,000 Rivian trucks and SUVs over suspension defect",
-        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mmw6crn2py2l",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T13:54:35.077Z",
-        "score": 0,
-        "category": "recall alert",
-        "sentiment": "negative",
-        "snippet": "Bluesky amplifying NHTSA probe — rear toe link defect potentially causing Rivian EVs to swerve across lanes and crash.",
-        "themes": [
-          "recall alert",
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "@wesearch.press (Bluesky): Rivian will deliver first R2 SUVs on June 9",
-        "url": "https://bsky.app/profile/did:plc:7x3skqr64ypmqca7oaiytqmx/post/3mmw6a64j2y2s",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T13:53:07.479Z",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R2 first deliveries confirmed for June 9 —TechCrunch sourced announcement.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "@notateslaapp.com (Bluesky): Rivian R2 Launches on June 9th",
-        "url": "https://bsky.app/profile/did:plc:unyig7hrzlohznbnyqwtw3vl/post/3mmw44e4cce2v",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T13:15:12.075Z",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R2 launch June 9 cross-posted from notateslaapp.com — broad distribution of launch signal.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "@buchikuma.bsky.social (Bluesky): R2 SUV 6月9日 first delivery — RJ Scaringe 'most important product' — 25k target by year-end",
-        "url": "https://bsky.app/profile/did:plc:jf26a7dgps3fck4zc7anchdl/post/3mmw2tfoj5626",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T12:52:17.672Z",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "Japanese-language summary of R2 launch: June 9 first deliveries, RJ Scaringe 'most important product,' 25,000 target by year-end.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "@hilbe.bsky.social (Bluesky): NHTSA probe into nearly 115,000 Rivian vehicles",
-        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mmvytbazqf2p",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T12:16:26.074Z",
-        "score": 0,
-        "category": "recall alert",
-        "sentiment": "negative",
-        "snippet": "Bluesky cross-post of NHTSA probe — Reuters-sourced, gaining social amplification.",
-        "themes": [
-          "recall alert",
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "@dogsitmatter.bsky.social (Bluesky): Rivian, the first choice of evangelical aliens everywhere",
-        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mmvyreitqs2t",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T12:15:22.573Z",
-        "score": 0,
-        "category": "community",
-        "sentiment": "positive",
-        "snippet": "Tongue-in-cheek brand meme — signals strong cultural identity and community engagement around Rivian.",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "@auto-blog.bsky.social (Bluesky): Not everyone will receive a Rivian R2 order invitation at the same time — priority explainer",
-        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mmvxwu5cwd2k",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T12:00:33.471Z",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "snippet": "R2 order invitation priority explained — phased rollout, not all reservation holders invited simultaneously.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "@creditplayers.pro (Bluesky): Real-Time Cash-Equivalent Bleed: $13.33M/day ($1.2B/90 days)",
-        "url": "https://bsky.app/profile/did:plc:orilb575vnfmo7jwllyw6cal/post/3mmvxem3krs2e",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T11:50:20.574Z",
-        "score": 0,
-        "category": "business",
-        "sentiment": "negative",
-        "snippet": "Financial concern post: Rivian burning $13.33M/day cash equivalent — $1.2B over 90 days. Elevated financial risk signal ahead of R2 ramp.",
-        "themes": [
-          "RIVN stock",
-          "earnings"
-        ]
-      },
-      {
-        "title": "@dailykanban.com (Bluesky): Thursday Morning Auto News — NHTSA probes Rivian, Li Auto loss, Ferrari prove doubters wrong",
-        "url": "https://bsky.app/profile/did:plc:ubcricree3rmray5va2ngwql/post/3mmvxbpyi5c2j",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T11:48:46.271Z",
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "neutral",
-        "snippet": "Daily auto news roundup covering NHTSA probe, Li Auto loss, Ferrari — Rivian in context of broader industry currents.",
-        "themes": [
-          "competitive",
-          "recall alert"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-28T14:10:00Z",
     "timestamp": "2026-05-28T14:10:00Z",
     "sentiment": {
@@ -8909,6 +8485,217 @@
         "themes": [
           "OTA update"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-03T03:46:00Z",
+    "timestamp": "2026-06-03T03:46:00Z",
+    "fetchMeta": {
+      "newItemCount": 11,
+      "qualityItems": 2,
+      "note": "9 items were low-quality metadata (author pages, category indexes) with no snippet — included in count but limited in analysis"
+    },
+    "sentiment": {
+      "positive": 60,
+      "neutral": 40,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 5,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 2,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 5,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "positive"
+      }
+    },
+    "themes": [
+      "brand sentiment",
+      "Tesla pricing",
+      "R1 delivery"
+    ],
+    "competitiveContext": "Tesla continues to dominate EV mindshare but faces growing comparison fatigue as Rivian notches wins. Polestar and Lucid continue to be positioned as premium alternatives, though neither has Rivian's cultural momentum in enthusiast circles.",
+    "summary": "Quiet cycle — low signal day. Only 2 substantive items from 11 returned, both from Bluesky. One post links a Thestreet.com piece crediting Rivian with an achievement Tesla has 'long dominated.' A second humor post draws brand-equipment analogies (Rivian=Korg, Tesla=Casio) that suggest Rivian's standing in enthusiast culture is rising. No Reddit, HN, or news coverage yielded Rivian-specific content today.",
+    "fullReport": "GameFilm cycle for June 2, 2026 produced minimal Rivian-relevant signal. Tavily searches across Reddit communities returned items but none carried sufficient snippet content for analysis. The only substantive engagement came from Bluesky, where users are drawing favorable comparisons between Rivian and Tesla — both a brand win and a signal that Rivian's cultural positioning is strengthening independent of product news.",
+    "items": [
+      {
+        "title": "Rivian just achieved something Tesla has long dominated",
+        "url": "https://www.thestreet.com/automotive/rivian-just-achieved-something-tesla-has-long-dominated",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T03:38:28.974Z",
+        "score": 0,
+        "snippet": "Rivian just achieved something Tesla has long dominated",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "Tesla pricing"
+        ]
+      },
+      {
+        "title": "Rivian - Korg / Polestar - Roland / Lucid - Yamaha / Tesla - Casio",
+        "url": "https://bsky.app/profile/did:plc:sxxnq4pw7kwnpndh5efwvy7v/post/3mndzjp3fa22a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T02:06:14.972Z",
+        "score": 0,
+        "snippet": "Rivian - Korg / Polestar - Roland / Lucid - Yamaha / Tesla - Casio — brand comparison humor positioning Rivian as premium audio equivalent",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "R1 delivery"
+        ]
+      },
+      {
+        "title": "Automotive - iPublish MarketPlace",
+        "url": "https://classifiedsmarketplace.washingtonpost.com/marketplace/category/automotive",
+        "source": "washington_post",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Acura News",
+        "url": "https://www.autonews.com/honda/acura",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Jürgen Tap - MotorTrend",
+        "url": "https://www.motortrend.com/author/449154/jurgen-tap",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Ryan Lugo Digital Design Manager - MotorTrend",
+        "url": "https://www.motortrend.com/author/451195/ryan-lugo?page=4",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "John McGann Editor-in-Chief, HOT ROD",
+        "url": "https://www.motortrend.com/author/451124/john-mcgann?page=3",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Dan Edmunds Technical Editor - Car and Driver",
+        "url": "https://www.caranddriver.com/author/235067/dan-edmunds",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "CREF Total Global Stock Account Class R2 - Fund - Markets Insider",
+        "url": "https://markets.businessinsider.com/funds/cref-total-global-stock-account-class-r2-us1944081181",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Fred Lambert, Author at Electrek",
+        "url": "https://electrek.co/author/fredericclambert",
+        "source": "electrek_main",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "News - Electric Vehicle News and Trends | InsideEVs",
+        "url": "https://insideevs.com/news/category/news",
+        "source": "insideevs_main",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
       }
     ]
   }
