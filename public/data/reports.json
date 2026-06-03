@@ -1,399 +1,5 @@
 [
   {
-    "id": "2026-05-28T18:00:00.000Z",
-    "timestamp": "2026-05-28T18:00:00.000Z",
-    "sentiment": {
-      "positive": 41,
-      "neutral": 36,
-      "negative": 23
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 3,
-        "sentiment": "mixed"
-      },
-      "twitter": {
-        "found": 8,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 10,
-        "sentiment": "positive"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 4,
-        "sentiment": "positive"
-      },
-      "vehicles": {
-        "found": 6,
-        "sentiment": "mixed"
-      },
-      "business": {
-        "found": 5,
-        "sentiment": "positive"
-      },
-      "software": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 2,
-        "sentiment": "mixed"
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "VW partnership",
-      "Waymo move",
-      "Aurora update",
-      "Hey Rivian",
-      "Driver+",
-      "recall alert",
-      "RIVN stock",
-      "Tesla pricing",
-      "Cybertruck news",
-      "Ford Lightning",
-      "Scout Motors"
-    ],
-    "competitiveContext": "Waymo is deploying a Zeekr-built robotaxi fleet — a manufacturing milestone suggesting scale-up beyond trials, directly competitive with Tesla FSD narrative. Slate Auto taking orders for a $25K EV on June 24 represents a potential low-cost rival in a segment Rivian hasn't addressed; though not a direct R2 competitor, it could pull future EV consideration. Meanwhile Rivian's own R2 launch on June 9 and widening VW partnership signal that Rivian's software-defined vehicle approach is gaining institutional traction despite operational headwinds.",
-    "summary": "R2 launch momentum is the dominant story — deliveries June 9 confirmed across multiple channels and the Inc. feature adds legitimacy. The NHTSA rear-suspension investigation on R1 models is the chief risk signal, potentially casting a shadow over R2's launch week if unresolved. Bensaid's software-defined-vehicle interview on AI continues to reinforce Rivian's tech-forward positioning.",
-    "fullReport": "22 signals across news, Twitter and Bluesky (Reddit blocked). Top Rivian move: R2 confirmed for June 9 deliveries and order invites/public test drives opening simultaneously. Top competitor move: Waymo deploying Zeekr-built robotaxis for public ride-hail, a manufacturing-scale milestone. Important risk: NHTSA has opened a formal investigation into rear suspension failures on R1T and R1S — owners are already citing the issue on social media. VW partnership talks reportedly widening beyond the initial JV scope.",
-    "items": [
-      {
-        "title": "Slate Auto will start taking orders for its low-cost EV on June 24 - TechCrunch",
-        "url": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 15:34:10 GMT",
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "neutral",
-        "themes": [
-          "Tesla pricing"
-        ],
-        "snippet": "Slate Auto will begin taking orders for its $25K EV on June 24, positioning itself as an ultra-budget entry point into EVs — a segment Rivian has not addressed and may cannibalize future entry-level consideration."
-      },
-      {
-        "title": "Waymo to Deploy Robotaxi Built With Zeekr to Expand Public Rides - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-28/waymo-to-deploy-robotaxi-built-with-zeekr-to-expand-public-rides",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 15:00:00 GMT",
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "positive",
-        "themes": [
-          "Waymo move"
-        ],
-        "snippet": "Waymo is deploying a Zeekr-manufactured robotaxi for public ride-hail, a scale-manufacturing milestone that pits Waymo's managed service against Tesla's FSD approach head-to-head in the autonomy race."
-      },
-      {
-        "title": "Rivian under investigation over rear suspension failures on R1 models - TechCrunch",
-        "url": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 14:41:56 GMT",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "negative",
-        "themes": [
-          "recall alert"
-        ],
-        "snippet": "NHTSA has opened a preliminary investigation into R1T and R1S rear suspension failures — a safety issue that could require a recall and could affect brand perception as R2 deliveries begin June 9."
-      },
-      {
-        "title": "Nice write up in Inc as we are launching R2! Full article in bio",
-        "url": "https://www.threads.com/@bobby/post/DY3Jb2emQup",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Rivian shared an Inc. magazine feature highlighting the R2 launch, lending mainstream business-press legitimacy to the upcoming June 9 delivery event."
-      },
-      {
-        "title": "Rivian will deliver the first R2 SUVs on June 9",
-        "url": "https://www.threads.com/@telestraw_/post/DY26_f0AeQJ/rivian-will-deliver-the-first-r-su-vs-on-june",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Rivian confirmed first R2 deliveries are scheduled for June 9, with order invites and public test drives also opening that day — the commercial launch is fully underway."
-      },
-      {
-        "title": "Rivian has released screen protectors on the Gear Ship for R1T and R1S",
-        "url": "https://www.threads.com/@riviantrackr/post/DY2_D30FO42/rivian-has-released-screen-protectors-on-the-gear-ship-for-r-t-and-r-s-they",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "owner experience"
-        ],
-        "snippet": "Rivian released official screen protectors for R1T and R1S via the Gear Shop — a small but meaningful accessories expansion that signals continued attention to the existing R1 owner base ahead of R2 deliveries."
-      },
-      {
-        "title": "Rivian will deliver the electric R2 starting June 9th, but you'll need to snag an invite",
-        "url": "https://www.threads.com/@tdsci_official/post/DY3zOJzEbAW/rivian-will-deliver-the-electric-r-starting-june-th-but-youll-to-need-snag-an",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Confirms R2 delivery process requires an order invite — suggests phased rollout rather than wide-open availability at launch."
-      },
-      {
-        "title": "U.S. News and World Report Best Adventure Vehicle for 2026",
-        "url": "https://www.facebook.com/usnewsandworldreport/posts/its-official-us-news-world-report-has-announced-its-first-ever-2026-best-adventu/1386228406706208",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "brand sentiment"
-        ],
-        "snippet": "An R1T or R1S earned U.S. News & World Report's first-ever Best Adventure Vehicle award for 2026, providing a third-party validation signal for R1's capability positioning."
-      },
-      {
-        "title": "Me too - Threads",
-        "url": "https://www.threads.com/@riviantrackr/post/DY2_FoKFKaT/me-too",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "community",
-        "sentiment": "neutral",
-        "themes": [
-          "owner experience"
-        ],
-        "snippet": "RivianTrackr amplifying owner sentiment on Threads — low signal but continues community engagement pattern typical of the brand."
-      },
-      {
-        "title": "Rivian R2 reservation update for non-owners - Facebook",
-        "url": "https://www.facebook.com/groups/874936780768370/posts/1483336573261718",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "A Facebook group post provides R2 reservation update for non-owner accounts — demand signal persists among new-to-Rivian customers ahead of June 9 deliveries."
-      },
-      {
-        "title": "Rivian's chief software officer Wassym Bensaid says the rise of AI makes vehicle software a different game",
-        "url": "https://www.instagram.com/p/DY4zi9lID0A",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "Hey Rivian",
-          "Driver+"
-        ],
-        "snippet": "CSO Wassym Bensaid's Instagram post on AI and software-defined vehicles continues his thought-leadership push ahead of R2's launch — framing Rivian's software architecture as a durable competitive moat."
-      },
-      {
-        "title": "2 EV Stocks That Could Win Big Targeting the $10 Trillion Global Robotaxi Market - Motley Fool",
-        "url": "https://www.fool.com/investing/2026/05/28/2-ev-stocks-could-win-big-targeting-the-robotaxi",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "positive",
-        "themes": [
-          "RIVN stock",
-          "Waymo move"
-        ],
-        "snippet": "Motley Fool analysis positions Rivian as one of two EV stocks with robotaxi upside, reinforcing investor narrative around Rivian's software-defined architecture as a long-term monetization vector."
-      },
-      {
-        "title": "Bluesky: Do these executives even know what they're talking about? Brain of mashed potatoes",
-        "url": "https://bsky.app/profile/did:plc:htqx4yapholzp65wymwh2xuy/post/3mmwlvlj3me2p",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:57:44.872Z",
-        "score": 1,
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "Hey Rivian"
-        ],
-        "snippet": "Critical commentary on Rivian executive AV claims circulating on Bluesky implying skepticism about AI readiness — negative sentiment but limited reach (score: 1)."
-      },
-      {
-        "title": "Bluesky: Rivian Forest Edge limited edition interior package",
-        "url": "https://bsky.app/profile/did:plc:emamew5nsip5axfh33o4sjy7/post/3mmwlbha22524",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:47:00.576Z",
-        "score": 2,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R1T review",
-          "R1S review"
-        ],
-        "snippet": "Rivian introduced a Forest Edge limited-edition interior with a $9K package including exterior paint options, 22\" wheels, and Sound+Vision Package — targeting customization enthusiasts on the R1 Dual-motor AWD Max battery platform."
-      },
-      {
-        "title": "Bluesky: Rivian and Volkswagen Group Announce Plans for Joint Venture",
-        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mmwl7c2z6y26",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:45:16.372Z",
-        "score": 0,
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "VW partnership"
-        ],
-        "snippet": "Bluesky posts highlight the Rivian-VW Group joint venture announcements, signaling growing awareness of the partnership's significance for Rivian's software export strategy."
-      },
-      {
-        "title": "Bluesky: This is huge. Rivian has really worked to build a next generation of interface",
-        "url": "https://bsky.app/profile/did:plc:2hrwikobbjy5qjdyizmmvfg4/post/3mmwl45agns22",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:43:31.181Z",
-        "score": 0,
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "Hey Rivian",
-          "Driver+"
-        ],
-        "snippet": "Positive user quote praising Rivian's interface design for the R2 as a software-defined-vehicle milestone — unsolicited owner sentiment reinforcing software as a differentiator."
-      },
-      {
-        "title": "Bluesky: Tesla Model Y Competitor, the Rivian R2 Launches on June 9th",
-        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mmwkwiy2sh2t",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:40:23.176Z",
-        "score": 1,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "Tesla pricing"
-        ],
-        "snippet": "EV Shift coverage explicitly framing the R2 as a Tesla Model Y competitor ahead of its June 9 launch — R2 is being positioned in the market as a direct alternative to Tesla's volume leader."
-      },
-      {
-        "title": "Bluesky: Rivian setting June 9 as first R2 delivery date, order invites and test drives same day",
-        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mmwkvanul62y",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:39:39.278Z",
-        "score": 1,
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ],
-        "snippet": "Quartz Media amplifies the June 9 R2 delivery confirmation alongside simultaneous order invites and public test drives — mainstream finance media reinforcing launch legitimacy."
-      },
-      {
-        "title": "Bluesky: Great interview with Rivian CSO Wassym Bensaid on R2 as software-defined vehicle",
-        "url": "https://bsky.app/profile/did:plc:2hrwikobbjy5qjdyizmmvfg4/post/3mmwklapavc22",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:34:06.474Z",
-        "score": 1,
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "Hey Rivian",
-          "Driver+"
-        ],
-        "snippet": "Bluesky post shares YouTube interview with CSO Bensaid on R2's software-defined architecture and coming AI/automotive advances — another data point in the thought-leadership push around Rivian's software moat."
-      },
-      {
-        "title": "Bluesky: Rivian in talks with Volkswagen Group to widen tech partnership",
-        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mmwjjo5ms22w",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:15:17.680Z",
-        "score": 1,
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "VW partnership"
-        ],
-        "snippet": "Rivian is reportedly in talks to widen its VW partnership beyond the initial JV scope, potentially bringing more Rivian software technology into VW Group vehicles — a strategic expansion signal."
-      },
-      {
-        "title": "Bluesky: I guess I will never own a Rivian then. Their reasons why they won't offer it never make sense",
-        "url": "https://bsky.app/profile/did:plc:ib56bfp6mojnwkcbkmdtxoew/post/3mmwjdr3wa22s",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:12:00.973Z",
-        "score": 0,
-        "category": "community",
-        "sentiment": "negative",
-        "themes": [
-          "owner experience",
-          "Hey Rivian"
-        ],
-        "snippet": "A frustrated Bluesky user says they will never own a Rivian citing feature-decision opacity — negative owner sentiment around product choices, though low engagement (score: 0)."
-      },
-      {
-        "title": "Bluesky: NHTSA opens investigation into Rivian R1S and R1T rear suspension failures",
-        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mmwj62o3y42y",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T17:08:48.073Z",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "negative",
-        "themes": [
-          "recall alert"
-        ],
-        "snippet": "Driveteslacanada on Bluesky amplifies the NHTSA investigation into R1 rear suspension failures — negative safety narrative gaining social traction ahead of what is supposed to be a celebratory R2 launch week."
-      }
-    ]
-  },
-  {
     "id": "2026-05-28T18:05:00.000Z",
     "timestamp": "2026-05-28T18:05:00.000Z",
     "sentiment": {
@@ -8847,6 +8453,321 @@
         "source": "bluesky",
         "publishedAt": "2026-06-03T04:15:39.879Z",
         "score": 1
+      }
+    ]
+  },
+  {
+    "id": "2026-06-03T22:00:31Z",
+    "timestamp": "2026-06-03T22:00:31Z",
+    "sentiment": {
+      "positive": 72,
+      "neutral": 22,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 13,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "R2 launch",
+      "RIVN stock",
+      "R1 delivery",
+      "charging infra",
+      "owner experience",
+      "brand sentiment",
+      "EV incentives",
+      "fleet/EDV"
+    ],
+    "competitiveContext": "Slate (Amazon's lower-cost EV brand) is reportedly selling vehicles through Carvana, a potential disruptor to Rivian's retail strategy. Lucid continues to generate mainstream press coverage. The broader EV market is entering a new model cycle with 2026 offerings from multiple OEMs. RIVN's 10-day stock streak reflects investor confidence ahead of the R2 launch on June 9.",
+    "summary": "RIVN is on a historic 10-day winning streak, up 40%+ in two weeks ahead of R2 deliveries launching June 9. Community sentiment is strongly positive with owners excited about the R2 and Rivian's expanding charging network. Competitive pressure from Slate and Lucid is real but Rivian's brand and product momentum appear strong heading into a critical launch week.",
+    "fullReport": "RIVN has entered an unusually positive sentiment cycle driven by the imminent R2 launch. Bluesky is the dominant signal source today (13 of 19 items), reflecting high owner community engagement. Charging infrastructure milestone coverage and stock momentum are the top themes. No autonomy or software-specific concerns surfaced today.",
+    "items": [
+      {
+        "title": "R2 Reviews? : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tu09qw/r2_reviews",
+        "source": "reddit_rivianr2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "R2 owners in the subreddit are starting to share initial reviews and impressions ahead of the June 9 delivery date.",
+        "themes": [
+          "R2 launch",
+          "owner experience"
+        ],
+        "publishedAt": null
+      },
+      {
+        "title": "Rivian's EV Charging Network Is Growing Fast, And It Just Hit A ...",
+        "url": "https://insideevs.com/news/797654/rivian-ev-charging-network-growth-milestone",
+        "source": "insideevs_main",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Rivian's Adventure Network charging stations reached a significant milestone, with coverage expanding faster than most competitors.",
+        "themes": [
+          "charging infra",
+          "R1 delivery"
+        ],
+        "publishedAt": null
+      },
+      {
+        "title": "Rivian reports Q1 2026 production and delivery figures (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:zmmebzs3cgrvk5vhxwkzioz3/post/3mnfw3qvawb26",
+        "source": "bluesky",
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "Rivian disclosed Q1 2026 production and delivery numbers showing continued manufacturing ramp-up as R2 launch approaches.",
+        "themes": [
+          "R1 delivery",
+          "RIVN stock"
+        ],
+        "publishedAt": "2026-06-03T20:10:05Z"
+      },
+      {
+        "title": "$RIVN stock is on a 10-day winning streak (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:vvidntidrwdocqgjy5gz2kzc/post/3mnftkgnbhc2r",
+        "source": "bluesky",
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "$RIVN hits a 10-day winning streak — longest ever — up 40%+ in two weeks ahead of R2 deliveries starting June 9. Starts near $45K.",
+        "themes": [
+          "RIVN stock",
+          "R2 launch"
+        ],
+        "publishedAt": "2026-06-03T19:24:36Z"
+      },
+      {
+        "title": "Rivian shares on track for ten straight sessions in the green (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:ffux5unmagozmk4a6454xszd/post/3mnftnnsv7j2d",
+        "source": "bluesky",
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "Rivian shares on pace for longest winning streak ever ahead of R2 deliveries next week, signaling strong investor confidence.",
+        "themes": [
+          "RIVN stock",
+          "R2 launch"
+        ],
+        "publishedAt": "2026-06-03T19:26:24Z"
+      },
+      {
+        "title": "Rivian made an E-bike — ALSO TM-1 (Bluesky, techaltar)",
+        "url": "https://bsky.app/profile/did:plc:nfnmrpvuqd353tsw3b3qg2bu/post/3mnfqxflq3223",
+        "source": "bluesky",
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Rivian made an E-bike called the ALSO TM-1, generating buzz in the tech community with first impressions coverage.",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ],
+        "publishedAt": "2026-06-03T18:38:13Z"
+      },
+      {
+        "title": "Rivian E-bike ALSO TM-1 (Bluesky, techaltar.mas.to)",
+        "url": "https://bsky.app/profile/did:plc:bvulbzm7b53nuydycjvm267w/post/3mnfqxygysnz2",
+        "source": "bluesky",
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Second Bluesky share of the ALSO TM-1 E-bike launch, showing strong social engagement around the product.",
+        "themes": [
+          "brand sentiment"
+        ],
+        "publishedAt": "2026-06-03T18:38:40Z"
+      },
+      {
+        "title": "Slate selling new cars through Carvana (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:4jphg72g3zncjlbpvvagqvbs/post/3mnfngatumc23",
+        "source": "bluesky",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Slate (Amazon's budget EV brand) selling through Carvana could be a significant disruptor to Rivian's retail strategy; both Rivian and Lucid have invested heavily in direct sales.",
+        "themes": [
+          "brand sentiment",
+          "EV incentives"
+        ],
+        "publishedAt": "2026-06-03T17:34:53Z"
+      },
+      {
+        "title": "Bluesky: Amazon has 10% stake in Rivian (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:uptt6vaj56ngxtuyrp6niolg/post/3mnfvtq5p4k2i",
+        "source": "bluesky",
+        "category": "business",
+        "sentiment": "positive",
+        "snippet": "Commenter reminds that Amazon holds a 10% stake in Rivian and has a retail partnership with Hyundai, contextualizing brand loyalty discussions.",
+        "themes": [
+          "RIVN stock",
+          "brand sentiment"
+        ],
+        "publishedAt": "2026-06-03T20:05:36Z"
+      },
+      {
+        "title": "Bluesky: Solar + battery + Rivian buyer (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:vbjiqorp6x4twpecrozopyju/post/3mnfwjxrggk25",
+        "source": "bluesky",
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Owner shares that they're replacing their hybrid car with a Rivian after installing solar and battery — showing Rivian appeals to eco-conscious buyers.",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ],
+        "publishedAt": "2026-06-03T20:18:02Z"
+      },
+      {
+        "title": "Bluesky: Rivian R2 vs Slate (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:bjsxnxjeeugoc2csou7awqrp/post/3mnfss2kls22u",
+        "source": "bluesky",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Conversation comparing Rivian R2 to Amazon's Slate; R2 expected to have extra features while Slate will be cheaper but less feature-rich.",
+        "themes": [
+          "R2 launch"
+        ],
+        "publishedAt": "2026-06-03T19:10:58Z"
+      },
+      {
+        "title": "Bluesky: Inductive charging for Rivian (Bluesky)",
+        "url": "https://bsky.app/profile/did:plc:wuz3olgumxz6wm27lk3gwsvw/post/3mnfub2zb7s2l",
+        "source": "bluesky",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Discussion of plugless static inductive charging for Rivian models, suggesting interest in convenient charging solutions.",
+        "themes": [
+          "charging infra",
+          "owner experience"
+        ],
+        "publishedAt": "2026-06-03T19:37:21Z"
+      },
+      {
+        "title": "Used Rivian Models for Sale in O'fallon, MO (Car and Driver)",
+        "url": "https://www.caranddriver.com/cars-for-sale/rivian/ofallon-mo",
+        "source": "car_and_driver",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "Car and Driver listing page for used Rivian inventory in Missouri, reflecting active secondary market.",
+        "themes": [
+          "R1 delivery",
+          "owner experience"
+        ],
+        "publishedAt": null
+      },
+      {
+        "title": "Here's Every New Electric Vehicle Model for Sale in the US for 2026 (Car and Driver)",
+        "url": "https://www.caranddriver.com/features/g32463239/new-ev-models-us",
+        "source": "car_and_driver",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "Comprehensive 2026 EV buyer guide includes Rivian models alongside 30+ competitors, positioning R2 in a crowded market.",
+        "themes": [
+          "R2 launch"
+        ],
+        "publishedAt": null
+      },
+      {
+        "title": "GMC Hummer X Truck Concept (Motor Trend)",
+        "url": "https://www.motortrend.com/news/gmc-hummer-x-truck-and-suv-concepts",
+        "source": "motor_trend",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "GM teases smaller, more capable Hummer X concepts, positioning against Rivian's off-road细分市场.",
+        "themes": [
+          "GM EV"
+        ],
+        "publishedAt": null
+      },
+      {
+        "title": "Lucid Motors Inc coverage (NYT)",
+        "url": "https://www.nytimes.com/topic/lucid-motors-inc",
+        "source": "nytimes",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "New York Times ongoing coverage of Lucid Motors, Rivian's premium competitor in the luxury EV space.",
+        "themes": [],
+        "publishedAt": null
+      },
+      {
+        "title": "Automotive News Canada",
+        "url": "https://www.autonews.com/canada",
+        "source": "automotive_news",
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Canadian automotive industry coverage; Rivian has Georgia plant operations that affect North American production dynamics.",
+        "themes": [],
+        "publishedAt": null
+      },
+      {
+        "title": "Entrepreneurs & Startups (WSJ)",
+        "url": "https://www.wsj.com/topics/subject/entrepreneurs-and-startups",
+        "source": "wsj",
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "WSJ startup coverage section with potential Rivian relevance given company's growth-stage status.",
+        "themes": [],
+        "publishedAt": null
+      },
+      {
+        "title": "News Archive (Business Insider)",
+        "url": "https://markets.businessinsider.com/news/archive/2026/5/27?p=13",
+        "source": "business_insider",
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Business Insider market archive with general financial news coverage that may include Rivian mentions.",
+        "themes": [],
+        "publishedAt": null
       }
     ]
   }
