@@ -1,205 +1,5 @@
 [
   {
-    "id": "2026-05-28T14:10:00Z",
-    "timestamp": "2026-05-28T14:10:00Z",
-    "sentiment": {
-      "positive": 50,
-      "neutral": 37,
-      "negative": 13
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 5,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 2,
-        "sentiment": "mixed"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 4,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 1,
-        "sentiment": "negative"
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "OTA update",
-      "owner experience",
-      "recall alert",
-      "regulatory news"
-    ],
-    "competitiveContext": "Quiet competitive cycle — no major competitor moves; story remains dominated by Rivian's own R2 launch ramp (first deliveries June 9, Performance + Launch Package highlighted as flagship trim) set against the ongoing NHTSA probe of ~115k R1 vehicles. PMs should watch whether competitors (Tesla, Ford, GM) react to R2 pricing/positioning once configurator data circulates.",
-    "summary": "Small follow-on cycle (8 items) — mostly R2 launch amplification on Threads/Bluesky and continued spread of yesterday's NHTSA probe news. New signal: Rivian shipped Share/Favorite buttons in R1/R2 app, and an R2 Performance Launch Package is being positioned as the flagship variant.",
-    "fullReport": "GameFilm follow-on cycle, May 28 2026. 8 new signals — light cycle dominated by R2 launch chatter (Portuguese-language coverage, R2 Performance Launch Package framing, RivianTrackr commentary) and continued amplification of the NHTSA investigation into 114,922 Rivian vehicles. One small product win: Rivian added Share and Favorite buttons to R1/R2 configurator UX. One business item (Valley Electric sale to MYR Group) is unrelated to Rivian.",
-    "items": [
-      {
-        "title": "Prospect Capital sells Valley Electric to MYR Group for $328m",
-        "url": "https://www.pehub.com/prospect-capital-sells-valley-electric-to-myr-group-for-328m/",
-        "source": "news",
-        "publishedAt": null,
-        "score": 0,
-        "category": "business",
-        "sentiment": "neutral",
-        "snippet": "PE deal — Valley Electric acquired by MYR Group for $328M. Not Rivian-specific; noise item.",
-        "themes": [
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "Rivian has added Share and Favorite buttons to the R1 and R2",
-        "url": "https://www.threads.com/@chrishilbe/post/DY2s3SDFZQo/media",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "software",
-        "sentiment": "positive",
-        "snippet": "Rivian shipped Share and Favorite buttons in the R1/R2 app/configurator — small UX win during R2 launch window.",
-        "themes": [
-          "OTA update",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Rivian confirma entrega dos primeiros SUV R2 para o início de junho",
-        "url": "https://www.threads.com/@forum.tugatech/post/DY26UJUgjol",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "Portuguese-language tech forum covering R2 first deliveries for early June — international coverage spreading.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Great article (RivianTrackr on Threads)",
-        "url": "https://www.threads.com/@riviantrackr/post/DY3KMhFlH7d/great-article",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "community",
-        "sentiment": "positive",
-        "snippet": "RivianTrackr endorsing an R2 coverage piece — community amplification continues.",
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "This mid-size R2 Performance with the Launch Package is Rivian's flagship",
-        "url": "https://www.threads.com/@supbrice/post/DY26gZ8ESHL/this-mid-size-r-performance-with-the-launch-package-is-rivians-solution-to",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "R2 Performance + Launch Package being framed by enthusiasts as the flagship R2 variant — important positioning signal for trim mix.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Me too (RivianTrackr on Threads)",
-        "url": "https://www.threads.com/@riviantrackr/post/DY2_FoKFKaT",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "snippet": "RivianTrackr reply post — low-signal community chatter around R2 launch.",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "@babygoldie.bsky.social: NHTSA launches investigation into 114,922 Rivian vehicles",
-        "url": "https://bsky.app/profile/did:plc:xhrtfphu4gzqrztkpb3a63qf/post/3mmw6rmritq2n",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T21:52:41Z",
-        "score": 0,
-        "category": "competitive",
-        "sentiment": "negative",
-        "snippet": "Continued Bluesky amplification of NHTSA preliminary investigation into 114,922 Rivian vehicles — story has legs into evening news cycle.",
-        "themes": [
-          "recall alert",
-          "regulatory news"
-        ]
-      },
-      {
-        "title": "@buchikuma.bsky.social: Rivian R2 first delivery June 9 (TechCrunch)",
-        "url": "https://bsky.app/profile/did:plc:jf26a7dgps3fck4zc7anchdl/post/3mmw2tfizwu2m",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T12:52:17Z",
-        "score": 0,
-        "category": "vehicles",
-        "sentiment": "positive",
-        "snippet": "Japanese-language Bluesky post linking TechCrunch R2 June 9 first delivery article — global reach.",
-        "themes": [
-          "R2 launch"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-28T18:00:00.000Z",
     "timestamp": "2026-05-28T18:00:00.000Z",
     "sentiment": {
@@ -8696,6 +8496,357 @@
         "category": "vehicles",
         "sentiment": "neutral",
         "themes": []
+      }
+    ]
+  },
+  {
+    "id": "2026-06-03T14:04:31.788059+00:00",
+    "timestamp": "2026-06-03T14:04:31.788059+00:00",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 60,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 9,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "community": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Autonomy+",
+      "EV incentives",
+      "Hey Rivian",
+      "OTA update",
+      "R2 launch",
+      "brand sentiment",
+      "charging infra",
+      "competitive",
+      "regulatory news"
+    ],
+    "competitiveContext": "Mercedes-AMG's new electric GT and Ram's 777-hp halo truck show legacy OEMs doubling down on performance ICE/EV hybrids rather than full EV transitions — easing Rivian's competitive pressure on brand halo. Rivian's OTA momentum and self-driving ambitions contrast with this legacy pattern.",
+    "summary": "Today's cycle captured 20 signals across 6 categories. Rivian community is active on Bluesky with R2 excitement and a TopGear feature boost. Charging infrastructure and software updates (2026.15 AI assistant) provide positive signals. No breaking competitive or earnings news.",
+    "fullReport": "",
+    "items": [
+      {
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "",
+        "themes": [
+          "R2 launch"
+        ],
+        "title": "Name the car you will replace with the R2. : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tueyq6/name_the_car_you_will_replace_with_the_r2",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "competitive"
+        ],
+        "title": "沿66号公路，驶过一个世纪 - 纽约时报",
+        "url": "https://cn.nytimes.com/culture/20260529/route-66-100-years-cars",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "brand sentiment",
+          "regulatory news"
+        ],
+        "title": "The Shake-Up Coming for Car Dealerships - The Journal. - WSJ",
+        "url": "https://www.wsj.com/podcasts/the-journal/the-shake-up-coming-for-car-dealerships/129ceb0c-7031-473f-aff3-b53321ef1c70",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "competitive",
+          "EV incentives"
+        ],
+        "title": "First Shift: Mercedes-AMG's electric GT 4-door - Automotive News",
+        "url": "https://www.autonews.com/video/first-shift-mercedes-amgs-electric-gt-4-door",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "competitive"
+        ],
+        "title": "Ram Rumble Bee adds splashy 777-hp halo to truck brand - Automotive News",
+        "url": "https://www.autonews.com/stellantis/an-ram-rumblebee-strategy-0529",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "competitive"
+        ],
+        "title": "Ryan Lugo Digital Design Manager - MotorTrend",
+        "url": "https://www.motortrend.com/author/451195/ryan-lugo?page=5",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "competitive",
+          "EV incentives"
+        ],
+        "title": "Every EV from Every Brand in America - Car and Driver",
+        "url": "https://www.caranddriver.com/features/g64446307/every-ev-automaker",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "competitive"
+        ],
+        "title": "2026年 5月 29日 - サイトマップ | ロイター",
+        "url": "https://jp.reuters.com/sitemap/2026-05/29/1",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "EV incentives"
+        ],
+        "title": "Oil tops $100 as South Africa cuts fuel relief and raises petrol prices | Business Insider Africa",
+        "url": "https://africa.businessinsider.com/local/markets/oil-tops-dollar100-as-south-africa-cuts-fuel-relief-and-raises-petrol-prices/pwzqs42",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "",
+        "themes": [
+          "competitive"
+        ],
+        "title": "InsideEVs | Electric Vehicle News, Reviews, and Reports",
+        "url": "https://insideevs.com",
+        "source": "insideevs_main",
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Rivian is doing its part to grow the North American EV charging infastructure.\n\ninsideevs.com/news/797654/...",
+        "themes": [
+          "charging infra"
+        ],
+        "title": "@sparcmotion.bsky.social (Bluesky): Rivian is doing its part to grow the North American EV charging infastructure.\n\n",
+        "url": "https://bsky.app/profile/did:plc:4w3fg4ea3losti3dn534pfyn/post/3mnf7yren6k2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T13:34:42.771Z",
+        "score": 0
+      },
+      {
+        "category": "autonomy",
+        "sentiment": "positive",
+        "snippet": "Budoucnost autonomního řízení stojí na umělé inteligenci. Rivian věří, že do roku 2030 dosáhne autonomie úrovně 4.\n\nhttps://elektrickevozy.cz/clanky/plne-autonomni-auta-mohou-dorazit-jeste-pred-rokem-",
+        "themes": [
+          "Autonomy+",
+          "Autonomy+"
+        ],
+        "title": "@elektrickevozy.zpravobot.news.ap.brid.gy (Bluesky): Budoucnost autonomního řízení stojí na umělé inteligenci. Rivian věří, že do rok",
+        "url": "https://bsky.app/profile/did:plc:vzldcls54kewyl4icuh7qwuj/post/3mnf4hm3hqzi2",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T12:32:04.980Z",
+        "score": 0
+      },
+      {
+        "category": "software",
+        "sentiment": "positive",
+        "snippet": "Rivian’s New AI Assistant Is Here! Full 2026.15 Update Review & Stress Test\n\nyoutu.be/GSqGuMHiqTU\n\n#Rivian #ElectricVehicles",
+        "themes": [
+          "Hey Rivian",
+          "OTA update"
+        ],
+        "title": "@dadontherunblog.com (Bluesky): Rivian’s New AI Assistant Is Here! Full 2026.15 Update Review & Stress Test\n\nyou",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mnf4cagqdk22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T12:28:26.472Z",
+        "score": 0
+      },
+      {
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "Micromobility Europe: Rivian-Spinoff Also gibt Strom - mit einem starken E-Bike vision-mobility.de/news/micromo...",
+        "themes": [
+          "R2 launch",
+          "competitive"
+        ],
+        "title": "@vision-mobility.bsky.social (Bluesky): Micromobility Europe: Rivian-Spinoff Also gibt Strom - mit einem starken E-Bike ",
+        "url": "https://bsky.app/profile/did:plc:ykgfecrnf7ugnxgcvxoh2aip/post/3mnf44bh3em2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T12:25:05.385Z",
+        "score": 1
+      },
+      {
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "They also have powerful lobbying groups, nationally and at the state levels. That is why, in nearly half the US states, one cannot purchase a Tesla or Rivian. They have lobbied aggresively against the",
+        "themes": [
+          "brand sentiment"
+        ],
+        "title": "@okaynova.bsky.social (Bluesky): They also have powerful lobbying groups, nationally and at the state levels. Tha",
+        "url": "https://bsky.app/profile/did:plc:pntaam2f62mdrjqmiwgmwb4h/post/3mnf3wmnjfk2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T12:21:55.672Z",
+        "score": 0
+      },
+      {
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "(topGear)  Rivian, the auto company similar to Tesla, is the subject here.  Note the confident tone, glow, brand, and stunning vehicles, aimed at self-driving cars.  Great article for info.  I spent a",
+        "themes": [
+          "brand sentiment"
+        ],
+        "title": "@bluedotin.bsky.social (Bluesky): (topGear)  Rivian, the auto company similar to Tesla, is the subject here.  Note",
+        "url": "https://bsky.app/profile/did:plc:hopmfdwkfldzd3fqlbgrxkhv/post/3mnebbu4t4c2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T04:25:01.571Z",
+        "score": 11
+      },
+      {
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "#Rivian #R2",
+        "themes": [
+          "R2 launch"
+        ],
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mneatl6g4k2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T04:17:02.871Z",
+        "score": 0
+      },
+      {
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "#Rivian #R2",
+        "themes": [
+          "R2 launch"
+        ],
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mneasnwku22k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T04:16:31.774Z",
+        "score": 0
+      },
+      {
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "#Rivian #R2",
+        "themes": [
+          "R2 launch"
+        ],
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mnearnwajs2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T04:15:58.073Z",
+        "score": 0
+      },
+      {
+        "category": "community",
+        "sentiment": "neutral",
+        "snippet": "#Rivian",
+        "themes": [
+          "brand sentiment"
+        ],
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mnear4kkck2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T04:15:39.879Z",
+        "score": 1
       }
     ]
   }
