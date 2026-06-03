@@ -1,272 +1,5 @@
 [
   {
-    "id": "2026-05-28T03:09:39Z",
-    "timestamp": "2026-05-28T03:09:39Z",
-    "sentiment": {
-      "positive": 73,
-      "neutral": 20,
-      "negative": 7
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "reddit_rivian_r2": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 11,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 2,
-        "sentiment": "positive"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 13,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 1,
-        "sentiment": "positive"
-      }
-    },
-    "themes": [
-      "R2 launch",
-      "infotainment bug",
-      "owner experience",
-      "Cybertruck news",
-      "Tesla pricing"
-    ],
-    "competitiveContext": "No major autonomy moves surfaced today—no FSD updates, Waymo expansions, or Aurora news. The competitive field is quiet, which gives Rivian a cleaner window heading into R2 launch day June 9. Nuro showed a Lucid robotaxi in testing but this doesn't directly pressure Rivian. The most relevant competitive signal is the R2's $53,500 pricing coming in $16-20K below a base Cybertruck—positioning the R2 as the value play in the adventure EV segment.",
-    "summary": "R2 launch day (June 9) dominates today's signal—11 of 15 new items are social posts about order invites, pricing, and demo drive availability. One real owner pain point surfaced: the phone app's energy tracker is drastically underreporting consumption (bug filed). One competitive pricing data point from Bluesky confirms R2 undercuts Cybertruck by $16-20K, a key PM talking point heading into launch. No autonomy, earnings, or geopolitical risk signals today.",
-    "fullReport": "Today was a quiet-cycle R2 launch anticipation day across social channels. The Rivian community is energized—multiple Threads/Twitter posts spread the June 9 order invite news. One negative: a reddit_rivian owner reported the phone app shows a fraction of actual energy usage, suggesting a data calculation bug in the app. Bluesky confirmed R2 Launch Edition pricing at ~$53,500, noting it's $16-20K less than a base Cybertruck—competitive framing that plays well in owner communities. No RivianForums threads survived deduplication, suggesting no burning forum-level issues. No news source hits today.",
-    "items": [
-      {
-        "title": "Energy usage on phone shows a fraction of what I actually used",
-        "url": "https://i.redd.it/3afetfulfs3h1.png",
-        "source": "reddit_rivian",
-        "publishedAt": "2026-05-27T19:17:45-07:00",
-        "score": 3,
-        "snippet": "The Rivian phone app's energy widget reports ~0.7 kWh for an 11-mile highway commute when actual usage is likely 3-4x higher—a significant underreporting bug.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "infotainment bug",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Rivian R2 first build or CPO 23/24 1x 50drive",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tpqept/rivian_r2_first_build_or_cpo_2324_1x_50drive/",
-        "source": "reddit_rivianr2",
-        "publishedAt": "2026-05-27T19:26:48-07:00",
-        "score": 0,
-        "snippet": "R2 reservation holder debating first-build risk vs. waiting for CPO to avoid early production issues—has narrowed choice to R2 vs. another EV.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "Rivian R2 officially launches June 9 – order invites, first deliveries ...",
-        "url": "https://www.threads.com/@electrek.co/post/DY24lfCgb1Q/rivian-r-officially-launches-june-order-invites-first-deliveries-demo-drives",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Electrek confirms June 9 as R2 launch date with order invites rolling out in batches and demo drives available at Rivian Spaces same day.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Best car I've ever owned - Threads",
-        "url": "https://www.threads.com/@bobby/post/DY2aNIhIKMf",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Owner endorsement of Rivian as 'best car I've ever owned'—organic brand sentiment signal on Threads.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "brand sentiment",
-          "owner experience"
-        ]
-      },
-      {
-        "title": "tl;dr - Demo drives also start June 9 at Rivian Spaces",
-        "url": "https://www.threads.com/@riviantrackr/post/DY2sOdlFAGR/tl-dr-r-ordering-opens-june-invites-go-out-in-rolling-batches-starting-june-r",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Rivian order invites go out in rolling batches starting June 9; demo drives also begin same day at Rivian Spaces nationwide.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian R2 Ordering Opens June 9th With Performance Launch ...",
-        "url": "https://www.threads.com/@riviantrackr/post/DY2radMlBhe/rivian-r-ordering-opens-june-th-with-performance-launch-edition-at",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Rivian R2 ordering opens June 9 with Performance Launch Edition at premium trim; standard variants follow.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Should You Buy or Lease the Rivian R2 Launch Edition",
-        "url": "https://www.threads.com/@riviantrackr/post/DY1-aGdDgfU/buy-or-lease-r-launch-edition-i-say-lease-li-dar-lands-late-and-you-cant",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Financing analysis: lease vs. buy decision for R2 Launch Edition, noting lease option may suit buyers wary of long-term ownership ahead of faster tech cycles.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "June 9 is the big day. R2 officially launches! ✉️",
-        "url": "https://www.facebook.com/rivianofficial/posts/june-9-is-the-big-day-r2-officially-launches-%EF%B8%8F-order-invitations-begin-%EF%B8%8F-custome/1426862762806298",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Rivian official Facebook post confirming June 9 order invitation rollout and customer deliveries beginning.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian R2 order invitations will start rolling out June 9th | The Verge",
-        "url": "https://www.theverge.com/transportation/938549/rivian-r2-order-invitations-will-start-rolling-out-june-9th",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "The Verge covers R2 order invite rollout—invitations in rolling batches starting June 9, first customer deliveries shortly after.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Rivian R1S Wheel & Tire Packages",
-        "url": "https://www.instagram.com/p/DY2ZOYWCfwo",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Rivian accessory post for R1S wheel and tire packages—accessory ecosystem marketing.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R1S review"
-        ]
-      },
-      {
-        "title": "Rivian R2 launches June 9 - Facebook",
-        "url": "https://www.facebook.com/groups/874936780768370/posts/1483235513271824",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Facebook group post confirming June 9 R2 launch date to enthusiast community.",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Nuro Shows Lucid Robotaxi in Testing as Bay Area Launch ...",
-        "url": "https://eletric-vehicles.com/nuro/nuro-shows-lucid-robotaxi-in-testing-as-bay-area-launch-looms-video",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Nuro showcasing Lucid-built robotaxi in Bay Area testing ahead of commercial launch—a minor autonomy competitor signal.",
-        "category": "autonomy",
-        "sentiment": "neutral",
-        "themes": [
-          "Aurora update"
-        ]
-      },
-      {
-        "title": "Bluesky: R2 priced ~$53,500, $16-20K less than Cybertruck or Rivian",
-        "url": "https://bsky.app/profile/did:plc:mjz7abd5vj7yqee4ycxjlsn2/post/3mmuxlgiink2w",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T02:21:29.572Z",
-        "score": 2,
-        "snippet": "R2 Launch Edition priced at ~$53,500—$16-20K less than a base Cybertruck or comparable Rivian R1T, making it a strong value play in the adventure EV segment.",
-        "category": "competitive",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "Cybertruck news",
-          "Tesla pricing"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-28T14:02:36Z",
     "timestamp": "2026-05-28T14:02:36Z",
     "sentiment": {
@@ -8878,6 +8611,303 @@
         "snippet": "Tech reviewer 'techaltar' praises Rivian's pedal-by-wire TM-1 technology as 'wild' and announces an upcoming deep-dive video — strong tech-validation signal from a respected voice.",
         "themes": [
           "R1T review"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-03T02:03:46Z",
+    "timestamp": "2026-06-03T02:03:46Z",
+    "sentiment": {
+      "positive": 41,
+      "neutral": 36,
+      "negative": 23
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "software": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "EV incentives",
+      "Hey Rivian",
+      "OTA update",
+      "R2 launch",
+      "Rivian Care",
+      "infotainment bug",
+      "owner experience"
+    ],
+    "competitiveContext": "No major competitor moves surfaced today. Broader EV market headwinds (used-EV gap, buyer退出) may affect all OEMs — Rivian's relatively small scale makes it more vulnerable to consumer confidence issues than established brands with hybrid lineups.",
+    "summary": "Light cycle with 23 new items. Rivian's own product and service news dominates: a new AI voice assistant rolling out across R1/R2 platforms, a software bug (2026.15) causing location reporting issues, and Rivian Care expanding to six states. No major competitive or autonomy signals today. Broader EV market sentiment remains cautious.",
+    "fullReport": "Rivian intel for June 2, 2026. Software updates drive the news cycle: Rivian's AI voice assistant is rolling out to R1 and R2, offering owners a new interactive layer. However, the 2026.15 update introduced a location reporting bug affecting drive/charge session data — Rivian Roamer community has flagged the issue and confirmed Rivian is aware. Rivian Care extended to six states (CO, GA, IL, NY, OR, TX), expanding the post-warranty coverage program. Community tone is positive overall. No autonomy, competitive, or earnings signals today.",
+    "items": [
+      {
+        "title": "How Big Is The R2? : r/RivianR2 - Reddit",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tuwii6/how_big_is_the_r2",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "R2 fans asking sizing questions as launch approaches — indicates continued strong interest in the smaller, more affordable Rivian SUV.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "百万潜在买家退出美国新车市场，而且短期内不会回来",
+        "url": "https://cn.wsj.com/articles/%E7%99%BE%E4%B8%87%E6%BD%9C%E5%9C%A8%E4%B9%B0%E5%AE%B6%E9%80%80%E5%87%BA%E7%BE%8E%E5%9B%BD%E6%96%B0%E8%BD%A6%E5%B8%82%E5%9C%BA-%E8%80%8C%E4%B8%94%E7%9F%AD%E6%9C%9F%E5%86%85%E4%B8%8D%E4%BC%9A%E5%9B%9E%E6%9D%A5-490e5eca",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "WSJ Chinese edition reports millions of potential buyers have exited the US new car market and aren't coming back soon — EV demand headwind across the sector.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "EV incentives",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Guest commentary: The used-EV sales gap dealers must close - Automotive News",
+        "url": "https://www.autonews.com/opinion/guest-commentary/an-guest-commentary-used-ev-dealer-sales-readiness-education-gap-0528",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Dealers still struggling to bridge the used-EV sales gap — consumers unsure about battery health, charging, and long-term reliability. Opportunity for OEMs with strong CPO programs.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "EV incentives",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Rivian's New AI Voice Assistant Is Rolling Out. Here's What It Can Do",
+        "url": "https://insideevs.com/news/795539/rivian-assistant-launch-r1-r2-2026",
+        "source": "insideevs_main",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian rolling out a new AI voice assistant across R1 and R2 vehicles — brings natural language interaction to the infotainment stack. Positive owner experience signal.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Hey Rivian",
+          "OTA update",
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): PSA for Rivian owners on the 2026.15 update: some vehicles have stopped reporting accurate location data. If your recent drives or charges look off, here's what's going on and how to fix it.",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mndwalv36v25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T01:07:27.974Z",
+        "score": 0,
+        "snippet": "PSA for Rivian owners: the 2026.15 software update has caused location reporting issues on some vehicles — drive/charge sessions may show incorrect or missing location data. Rivian is aware and working on a fix.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): What you might notice: • Missing location and speed on drive and charge sessions • Location looking 'stuck' in the Rivian app • UHF not enabling where it used to",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mndwam7jcp2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T01:07:28.274Z",
+        "score": 0,
+        "snippet": "Follow-up detail on 2026.15 location bug — specific symptoms include missing speed/location on sessions, stuck location in app, and UHF not enabling properly.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): This is tied to the 2026.15 software, not your hardware and nothing you did. I've got word Rivian is aware and working on it.",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mndwamk7472s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T01:07:28.673Z",
+        "score": 0,
+        "snippet": "Rivian Roamer confirms 2026.15 location bug is software-side, not hardware. Rivian is actively working on a fix — owners are not at fault.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Step 2: After the restart, you may be prompted on the center display to enable precise location. Make sure you accept.",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mndwamzx5n24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T01:07:29.172Z",
+        "score": 0,
+        "snippet": "Workaround instructions for the 2026.15 location bug — restart and enable precise location on center display to restore functionality.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "OTA update",
+          "infotainment bug"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian Care isn't Texas-only anymore. It's in six states now: Colorado, Georgia, Illinois, New York, Oregon, and Texas. Covers the big stuff after your warranty ends plus the annoying curb rash and windshield chips.",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mndnbmpex22s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-02T22:27:01.272Z",
+        "score": 15,
+        "snippet": "Rivian Care extended-service program expanded from Texas to six states (CO, GA, IL, NY, OR, TX), covering major repairs after warranty and cosmetic issues like curb rash and windshield chips.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Care",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): All of the Lights. The 10 rgb lights on the front and rear of @Rivian R1S and R1T Gen 2 are nice...",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mndyoij5sg2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T01:51:02.773Z",
+        "score": 0,
+        "snippet": "Rivian owner shares positive morning ritual — RGB accent lights on Gen 2 R1S/R1T provide a nice 'charged and ready' visual cue.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "R1T review",
+          "R1S review"
+        ]
+      },
+      {
+        "title": "@mikethecargeek.bsky.social (Bluesky): A Used Rivian with a factory extended warranty sounds nice 👍",
+        "url": "https://bsky.app/profile/did:plc:2p3kzaumxai44oobd3thcehz/post/3mndouxg3pk2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-02T22:55:41.875Z",
+        "score": 0,
+        "snippet": "Community member positive about Rivian CPO + extended warranty offering — signals growing appeal of used Rivian market.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@spooksmalloy.bsky.social (Bluesky): Some classic 90s PC game called 'Skies of Avalon - The Ascension of Rivian' that looked like arse, played like arse and lead to at least one shooting at a convention",
+        "url": "https://bsky.app/profile/did:plc:5dmemtuurvy4q47pyk3z7pju/post/3mndmoj6gvc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-02T22:16:18.375Z",
+        "score": 1,
+        "snippet": "Off-topic: obscure 90s PC game shared as trivia — no Rivian relevance.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@fnstats.app (Bluesky): Removed: ... Rivian R1S ...",
+        "url": "https://bsky.app/profile/did:plc:crdgb5xa2nbtsffzccs4yq5h/post/3mndnivlnqb2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-02T22:31:03.192Z",
+        "score": 0,
+        "snippet": "Gaming/Fortnite stats post — Rivian R1S appears as a cosmetic/item but no relevance to Rivian automotive business.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@fnstats.app (Bluesky): Removed: ... Rivian R1S ...",
+        "url": "https://bsky.app/profile/did:plc:crdgb5xa2nbtsffzccs4yq5h/post/3mndshyoeqo27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T00:00:01.274Z",
+        "score": 0,
+        "snippet": "Gaming/Fortnite stats post — Rivian R1S appears as a cosmetic/item but no relevance to Rivian automotive business.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "My Dog Is Now Obsessed With Chevy EVs. And It's All Thanks To The Weird Space-Ship Hum They Make",
+        "url": "https://insideevs.com/news/797014/dogs-and-ev-sounds-explainer",
+        "source": "insideevs_main",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Fun owner story — dogs respond to EV speaker sounds. Light community content; no direct Rivian impact.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience"
+        ]
+      },
+      {
+        "title": "QNX and Vector Bosses on the Future of Software-Defined Vehicles - Motor Trend",
+        "url": "https://www.motortrend.com/news/the-inevitable-episode-141-qnx-vector-leaders-on-the-state-of-software-defined-vehicles",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "QNX and Vector executives discuss SDV architecture trends — relevant context for Rivian's software-defined vehicle roadmap but no direct news.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "OTA update"
         ]
       }
     ]
