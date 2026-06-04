@@ -1,345 +1,5 @@
 [
   {
-    "id": "2026-05-28T22:03:03Z",
-    "timestamp": "2026-05-28T22:03:03Z",
-    "sentiment": {
-      "positive": 11,
-      "neutral": 58,
-      "negative": 32
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 4,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "bluesky": {
-        "found": 10,
-        "sentiment": "neutral"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "business": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 8,
-        "sentiment": "mixed"
-      },
-      "community": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 4,
-        "sentiment": "negative"
-      }
-    },
-    "themes": [
-      "Android Auto / CarPlay",
-      "brand sentiment",
-      "competitive",
-      "configurator update",
-      "direct-to-consumer",
-      "R2 launch",
-      "Slate Auto",
-      "software strategy",
-      "VW partnership"
-    ],
-    "competitiveContext": "Slate Auto (Jeff Bezos-backed) is moving into the entry EV segment with sub-$20k pricing and preorders opening June 24 — a new competitive threat in the affordable EV space Rivian has largely ignored. Meanwhile, high-visibility Bluesky voices (Brad Deleong, 10 likes) are publicly questioning Rivian/VW's anti-CarPlay/Android Auto walled-garden strategy as unrealistic, arguing screen-mirroring is essential. R2 launch countdown (June 9 invites) adds urgency to Rivian's execution window.",
-    "summary": "Light signal day — Reddit blocked by 403s, so Bluesky and HackerNews dominated. Top story is Rivian software chief Wassym Bensaid doubling down on refusing CarPlay, arguing native AI integration will make the debate 'completely obsolete.' The narrative is splitting: enthusiasts see vision; critics (Brad Deleong, 10+ likes) call it a walled-garden hallucination. Slate Auto is a new competitive data point entering the sub-$20k EV arena.",
-    "fullReport": "19 new signals gathered across HackerNews, Bluesky, Twitter, and news. Reddit sources blocked today (403 errors). No RivianForums items survived dedup. Top Rivian story: software chief Bensaid on Decoder explaining why CarPlay screen-mirroring conflicts with end-to-end AI-integrated UX — the debate will become 'completely obsolete.' Competitive alert: Slate Auto (Bezos-backed) will announce sub-$20k EV pricing June 24 with first deliveries late 2026. Brand sentiment under pressure on Bluesky as Deleong's anti-walled-garden thread gains traction.",
-    "items": [
-      {
-        "title": "Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete'",
-        "url": "https://www.macrumors.com/2026/05/28/rivian-software-chief-on-carplay/",
-        "source": "hackernews",
-        "publishedAt": "2026-05-28T19:35:17Z",
-        "score": 4,
-        "snippet": "Rivian software chief Wassym Bensaid said on The Verge's Decoder podcast that 'deep AI integration into the car' will make CarPlay debate 'completely obsolete.' He argued screen-mirroring solutions 'take over every single pixel' and that native end-to-end integration is superior to Android Auto/CarPlay.",
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "Android Auto / CarPlay",
-          "software strategy"
-        ]
-      },
-      {
-        "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
-        "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 20:29:00 GMT",
-        "score": 0,
-        "snippet": "Slate Auto (backed by Jeff Bezos and Mark Walter) will announce sub-$20k EV pricing and open non-refundable preorders on June 24, with first deliveries expected late 2026. The $7,500 federal EV tax credit that Slate was counting on was eliminated by the Trump administration.",
-        "category": "competitive",
-        "sentiment": "negative",
-        "themes": [
-          "Slate Auto",
-          "competitive",
-          "EV incentives"
-        ]
-      },
-      {
-        "title": "Hard eyeroll to the max — Android Auto / Apple CarPlay",
-        "url": "https://bsky.app/profile/did:plc:zz27ueqtx4v7pm5gjavvg4hx/post/3mmwz75cp3k2y",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T21:55:46.674Z",
-        "score": 1,
-        "snippet": "User expresses frustration with Rivian's lack of Android Auto/CarPlay, reacting to Rivian's software stance with a 'hard eyeroll.'",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "Android Auto / CarPlay",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Friend did the same but rivian. Didn't work. I did it with a 2008 Honda fit and it ruled tho",
-        "url": "https://bsky.app/profile/did:plc:rfyxckjtpaihga23ap2infwi/post/3mmwz357p4k2u",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T21:53:29.571Z",
-        "score": 0,
-        "snippet": "User shares anecdote that their friend's Rivian infotainment failed to do something a 2008 Honda Fit handled easily, implying poor software reliability in Rivian's system versus a much older car.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "infotainment bug",
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Looks like Rivian made some changes to its R1 configurator — R1 Dual Large discontinued All-Terrain, R1 Dual Max adds 20\" All-Terrain Dark, 20\" All-Terrain wheel discontinued, R1 Quad loses All-Terrain Dark",
-        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mmwwr42pik27",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T21:12:10.376Z",
-        "score": 2,
-        "snippet": "Rivian has revised the R1 configurator: R1 Dual Large no longer offers All-Terrain wheels, R1 Dual Max gains 20\" All-Terrain Dark, the 20\" All-Terrain wheel is discontinued entirely, and R1 Quad no longer offers All-Terrain Dark. Consolidating wheel options.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "configurator update",
-          "R1 delivery"
-        ]
-      },
-      {
-        "title": "리비안 소프트웨어 전략이 자동차 인터페이스를 바꾸는 이유 (Why Rivian's software strategy changes automotive interfaces)",
-        "url": "https://bsky.app/profile/did:plc:ymnjpza4v6aj6vjtfxfvpwfg/post/3mmwvppaw7r23",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T20:53:25.173Z",
-        "score": 0,
-        "snippet": "Korean-language post referencing a piece on Rivian's software-defined vehicle strategy and how it reshapes automotive interfaces, with tags for #Rivian #SDV #AutomotiveInterface.",
-        "category": "software",
-        "sentiment": "neutral",
-        "themes": [
-          "software strategy"
-        ]
-      },
-      {
-        "title": "Not everyone will receive a Rivian R2 order invitation at the same time. Here's a look at who gets priority.",
-        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mmwtufsz7x2c",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T20:20:14.873Z",
-        "score": 0,
-        "snippet": "Not all R2 reservation holders will receive order invitations simultaneously —Rivian is phasing invitations, with some buyers getting priority based on configuration and timing.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "I Think AI-Forward Car Companies Like Rivian Are Going to Get Their Clocks Cleaned",
-        "url": "https://bsky.app/profile/did:plc:fum3w4xzx34oraieuoexypw5/post/3mmwtjem4h22x",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T20:14:08.180Z",
-        "score": 1,
-        "snippet": "User shares a substack piece arguing that AI-forward car companies like Rivian are overhyped and will underperform — a negative signal on Rivian's tech-forward positioning.",
-        "category": "competitive",
-        "sentiment": "negative",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "Brad Deleong: Rivian/VW's anti-Android Auto anti-Apple CarPlay walled-garden dreams are 'likely hallucinations' — the $1500+ dark silicon issue",
-        "url": "https://bsky.app/profile/did:plc:ggxmdwtojxh2poo2kmjsyr4p/post/3mmwt2yha5s27",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T20:06:06.087Z",
-        "score": 10,
-        "snippet": "High-engagement thread (10 likes) from Brad Deleong calling Rivian/VW's refusal to integrate Android Auto or CarPlay a 'likely hallucination.' Argues the absence of physical buttons, reliance on software walled gardens, and $1500+ of unused chip area is economically irrational. Doubts consumers will accept it.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "Android Auto / CarPlay",
-          "VW partnership",
-          "brand sentiment",
-          "software strategy"
-        ]
-      },
-      {
-        "title": "Rivian, Tesla, Lucid, Slate etc. are figuring out direct-to-consumer car sales and teaching the US public it's possible",
-        "url": "https://bsky.app/profile/did:plc:5e3t4nvx2iq3kyy5cm6kvepp/post/3mmwpq56cec2p",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T19:06:16.775Z",
-        "score": 0,
-        "snippet": "Post positions Rivian among Tesla, Lucid, and Slate as a pioneer of direct-to-consumer auto sales — a positive indicator of industry shift away from traditional dealership models.",
-        "category": "business",
-        "sentiment": "positive",
-        "themes": [
-          "direct-to-consumer"
-        ]
-      },
-      {
-        "title": "Android Auto is a haphazard system and has many issues — looking forward to a well-integrated native system in the Rivian",
-        "url": "https://bsky.app/profile/did:plc:v7gngzva22rilmcp6fiypowf/post/3mmwp37lh6k2p",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T18:54:34.671Z",
-        "score": 0,
-        "snippet": "User defends Rivian's decision to exclude Android Auto, calling it a 'haphazard system' that is not native to vehicles, and expresses enthusiasm for Rivian's integrated alternative.",
-        "category": "software",
-        "sentiment": "positive",
-        "themes": [
-          "Android Auto / CarPlay",
-          "software strategy"
-        ]
-      },
-      {
-        "title": "A favorite for sure! — Rivian Forest Edge R1 color",
-        "url": "https://www.threads.com/@rivianofficial/post/DY4_tu7kc1b/a-favorite-for-sure",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Rivian official posts about the Forest Edge R1 color as a community engagement piece — low-signal brand content.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "brand sentiment",
-          "R1 review"
-        ]
-      },
-      {
-        "title": "R1 Forest Edge It's back! Design Your — rivian.com",
-        "url": "https://www.threads.com/@chrishilbe/post/DY4yrIYDtHY",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Community post noting the return of the Forest Edge color option on Rivian's R1 configurator.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "R1 delivery"
-        ]
-      },
-      {
-        "title": "R1 Forest Edge It's back! — Rivian Forest Edge configurator",
-        "url": "https://www.threads.com/@chrishilbe/post/DY4yrIYDtHY/r-forest-edge-its-back-design-your",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Duplicate of above — same Forest Edge R1 color return to configurator, low-signal.",
-        "category": "community",
-        "sentiment": "positive",
-        "themes": [
-          "R1 delivery"
-        ]
-      },
-      {
-        "title": "Rivian R2 Arrives June 9 — Here's How Order Invitations Work",
-        "url": "https://www.threads.com/@automotivetestdrivers/post/DY4aSxCGhXV",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Third-party automotive account explaining R2 order invitation priority and June 9 timeline to followers — informative, neutral.",
-        "category": "vehicles",
-        "sentiment": "neutral",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "title": "Quite interesting that Rivian has an entire section of the R1 Shop for ...",
-        "url": "https://www.threads.com/@chrishilbe/post/DY49MQ8lbFp",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "User notes Rivian devotes an entire shop section to R1 accessories — low-signal observation on Rivian's accessory/merchandise strategy.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "The automaker sued RJ Scaringe's Avera Automotive in 2010 ...",
-        "url": "https://x.com/therealautoblog/status/2060028392720765022",
-        "source": "twitter",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Historical note that an automaker (contextually: presumably Amazon/Rivian-related) sued RJ Scaringe's Avera Automotive in 2010 — likely a historical footnote being recirculated. Low signal.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "title": "2 days left: Lock in ticket savings of up to $410 to Disrupt 2026 — TechCrunch",
-        "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
-        "source": "news",
-        "publishedAt": "Thu, 28 May 2026 14:00:00 GMT",
-        "score": 0,
-        "snippet": "TechCrunch Disrupt 2026 conference ad — not Rivian-related. Filter.",
-        "category": "business",
-        "sentiment": "neutral",
-        "themes": []
-      }
-    ]
-  },
-  {
     "id": "2026-05-28T22:06:43Z",
     "timestamp": "2026-05-28T22:06:43Z",
     "sentiment": {
@@ -8762,5 +8422,217 @@
     "summary": "Quiet cycle — no new items surfaced across all monitored sources (Reddit, HackerNews, RSS, Bluesky, expanded news). All sources returned zero new Rivian-relevant signals.",
     "fullReport": "No new signals detected in this cycle.",
     "items": []
+  },
+  {
+    "id": "2026-06-04T02:03:33Z",
+    "timestamp": "2026-06-04T02:03:33Z",
+    "sentiment": {
+      "positive": 18,
+      "neutral": 82,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Aurora update",
+      "R2 launch",
+      "Waymo move"
+    ],
+    "competitiveContext": "Waymo continues expanding its robotaxi fleet with a Geely-built vehicle, signaling sustained momentum in the autonomous ride-hail space. No direct Rivian threat, but the broader autonomy landscape continues to mature — an area where Rivian's own Driver+ program must keep pace. Canadian EV sentiment data suggests growing North American openness to imported Chinese EVs, a long-term competitive consideration.",
+    "summary": "Quiet cycle with low signal volume. R2 EPA efficiency equal to Tesla Model Y is a positive data point. Waymo expansion with Geely-sourced vehicles continues to set the pace in autonomy. Rivian software leadership engaging community directly — a healthy sign. No high-severity risks surfaced.",
+    "fullReport": "Quiet cycle with low signal volume. R2 EPA efficiency equal to Tesla Model Y is a positive data point. Waymo expansion with Geely-sourced vehicles continues to set the pace in autonomy. Rivian software leadership engaging community directly — a healthy sign. No high-severity risks surfaced.",
+    "items": [
+      {
+        "title": "Rivian software chief answers some very good questions : r/RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tusgck/rivian_software_chief_answers_some_very_good",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Rivian's software chief participated in a community Q&A on r/RivianR2, addressing questions on software roadmap, OTA cadence, and Driver+ features — a positive signal of leadership transparency.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "OTA update",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "沿66號公路，駛過一個世紀 - 紐約時報中文網",
+        "url": "https://cn.nytimes.com/culture/20250529/route-66-100-years-cars/zh-hant",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "NYT cultural piece on Route 66 centennial — not Rivian-relevant.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Kelly Cloonan — Reporter at The Wall Street Journal",
+        "url": "https://www.wsj.com/news/author/kelly-cloonan",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "WSJ reporter profile page — no Rivian-specific content.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Corporate Funding - Latest News and Updates - WSJ.com",
+        "url": "https://www.wsj.com/topics/subject/corporate-funding",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "WSJ corporate funding topic page — no Rivian-specific content.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Canadians warm to EVs, including those from China",
+        "url": "https://www.autonews.com/ev/anc-ev-consideration-buyers-china-momentum-0528",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "AutoNews reports Canadians show growing EV acceptance, including openness to Chinese-made EVs — long-term competitive context for North American OEMs.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "EV incentives"
+        ]
+      },
+      {
+        "title": "Canada light-vehicle sales by nameplate, May & YTD 2026",
+        "url": "https://www.autonews.com/data-center/sales-data/an-canada-sales-nameplate-may-2026",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "AutoNews Canada sales data by nameplate — requires further segmentation to extract Rivian-specific figures.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Used Rivian R1T for Sale in Mcdonough, GA - Car and Driver",
+        "url": "https://www.caranddriver.com/cars-for-sale/rivian/r1t/mcdonough-ga",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Car and Driver listing for a used R1T in Georgia — no editorial content.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T review"
+        ]
+      },
+      {
+        "title": "Waymo to Deploy Robotaxi Built With Zeekr to Expand Public Rides",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/waymo-to-deploy-robotaxi-built-with-zeekr-to-expand-public-rides",
+        "source": "bloomberg_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Waymo announced deployment of a purpose-built Zeekr robotaxi for expanded public rides — reinforcing Waymo's lead in autonomous commercial deployment.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Waymo move"
+        ]
+      },
+      {
+        "title": "SpaceX sets aside up to 5% of shares in IPO for employees ... - CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
+        "source": "cnbc_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "CNBC coverage of SpaceX IPO share allocation — not Rivian-relevant.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "CREF GROWTH ACCOUNT CLASS R2 | Markets Insider",
+        "url": "https://markets.businessinsider.com/funds/cref-growth-account-class-r2-us1944081751",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Markets Insider fund data — not Rivian-relevant.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@driveteslacanada.bsky.social: Rivian R2 Equals Tesla Model Y Efficiency in New EPA Ratings",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mng73g2uso2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-03T22:50:57.761Z",
+        "score": 0,
+        "snippet": "Bluesky post reports Rivian R2 achieved EPA efficiency matching Tesla Model Y — a meaningful competitive benchmark for a vehicle in launch ramp.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch",
+          "Tesla pricing"
+        ]
+      }
+    ]
   }
 ]
