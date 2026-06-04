@@ -1,223 +1,5 @@
 [
   {
-    "id": "2026-05-29T02:10:00Z",
-    "timestamp": "2026-05-29T02:10:00Z",
-    "sentiment": {
-      "positive": 45,
-      "neutral": 40,
-      "negative": 15
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 6,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 4,
-        "sentiment": "neutral"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 4,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "community": {
-        "found": 3,
-        "sentiment": "neutral"
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "Forest Edge interior",
-      "Hey Rivian",
-      "R2 launch",
-      "brand sentiment",
-      "infotainment bug",
-      "owner experience"
-    ],
-    "competitiveContext": "Quiet cycle on the competitive front — no Tesla/Ford/Scout/Waymo signals surfaced. Reddit feeds were blocked (HTTP 403) which suppressed broader EV chatter. The Bloomberg scoop by Kara Carlson on Tesla/Rivian/Lucid in Austin is the only adjacent competitive thread worth tracking.",
-    "summary": "Light cycle (10 items, no Reddit/news). R2 launch June 9 continues to dominate Twitter/Threads chatter alongside the Forest Edge limited-time interior return. Software discussion centers on CarPlay-skip rationale and persistent voice-UX skepticism around Hey Rivian.",
-    "fullReport": "Quiet cycle dominated by R2 launch anticipation and Forest Edge interior reveal. No autonomy or competitive signals. Software thread continues around CarPlay defense and Hey Rivian voice friction.",
-    "items": [
-      {
-        "id": 0,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Forest Edge green interior returns on R1T/R1S (Gen 2)",
-        "snippet": "Rivian's popular Forest Edge green interior returns as a limited-time Gen 2 Dual Motor Max Pack exclusive — a deliberate scarcity play to lift ASP on a constrained config.",
-        "url": "https://www.threads.com/@macheauto/post/DY43w3QFJzi/rivianofficials-excellent-green-forest-edge-interior-is-back-on-r-t-r-s-for-a",
-        "themes": [
-          "Forest Edge interior",
-          "R1 delivery"
-        ]
-      },
-      {
-        "id": 1,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Rivian R2 launch date confirmed (Italian press)",
-        "snippet": "Italian outlet confirms official Rivian R2 launch date with reservation invitations going out — international media coverage building ahead of June 9.",
-        "url": "https://www.threads.com/@tuttoandroid/post/DY4J9F6luZ3",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "id": 2,
-        "source": "twitter",
-        "category": "community",
-        "sentiment": "neutral",
-        "title": "Off-topic Threads post (non-Rivian)",
-        "snippet": "Non-substantive social post matched on keyword; no Rivian signal.",
-        "url": "https://www.threads.com/@justpot.tw/post/DY3u39wmSLk/%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%86%B1",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "id": 3,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Rivian R2 launch announced for June 9th",
-        "snippet": "Facebook RivianEV group surfacing the official June 9 R2 launch announcement — confirming the date is propagating through owner communities.",
-        "url": "https://www.facebook.com/groups/RivianEV/posts/2233968497360419",
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "id": 4,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Rivian Instagram: Forest Edge limited edition interior",
-        "snippet": "Official Rivian Instagram amplifying the Forest Edge limited edition R1 interior launch — marketing motion is live and coordinated across channels.",
-        "url": "https://www.instagram.com/p/DY4zRE7G8OA",
-        "themes": [
-          "Forest Edge interior",
-          "R1 delivery"
-        ]
-      },
-      {
-        "id": 5,
-        "source": "twitter",
-        "category": "software",
-        "sentiment": "neutral",
-        "title": "Rivian: AI will make CarPlay obsolete",
-        "snippet": "Rivian defending its no-CarPlay stance — argues AI-native vehicle UX will displace phone-mirroring protocols. Forward-looking bet but ongoing source of consumer friction.",
-        "url": "https://www.facebook.com/thedrive/posts/rivian-isnt-worried-about-offering-carplay-because-ai-is-going-to-make-dedicated/1343543320980244",
-        "themes": [
-          "infotainment bug",
-          "OTA update"
-        ]
-      },
-      {
-        "id": 6,
-        "source": "bluesky",
-        "category": "community",
-        "sentiment": "neutral",
-        "title": "Fortnite item shop tracker (incidental Rivian R1S mention)",
-        "snippet": "Fortnite shop tracker bot lists Rivian R1S as an unchanged in-game item — incidental brand placement in a gaming surface; signal value low but worth noting for cross-cultural brand reach.",
-        "url": "https://bsky.app/profile/did:plc:crdgb5xa2nbtsffzccs4yq5h/post/3mmxa5fhnup2h",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "id": 7,
-        "source": "bluesky",
-        "category": "software",
-        "sentiment": "negative",
-        "title": "Bluesky user: 'Hey Rivian' worse than turning a dial",
-        "snippet": "User critique of Hey Rivian voice control: not faster, not more precise, audible on calls. Persistent UX friction point — physical control nostalgia remains a real adoption barrier.",
-        "url": "https://bsky.app/profile/did:plc:4gctviv632qarv3a5ndtuibr/post/3mmx7kf7n522l",
-        "themes": [
-          "Hey Rivian",
-          "owner experience"
-        ]
-      },
-      {
-        "id": 8,
-        "source": "bluesky",
-        "category": "business",
-        "sentiment": "neutral",
-        "title": "Bloomberg scoop on Tesla/Rivian/Lucid (Austin-based reporter)",
-        "snippet": "Dana Hull highlighting a Bloomberg scoop by Kara Carlson covering Tesla/Rivian/Lucid in Austin — competitive coverage cluster building around the Texas EV beat.",
-        "url": "https://bsky.app/profile/did:plc:wicnfjwer547e6g6e4ro7aru/post/3mmx7bpyfas2w",
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "id": 9,
-        "source": "bluesky",
-        "category": "community",
-        "sentiment": "neutral",
-        "title": "Fortnite item shop tracker (earlier snapshot, Rivian R1S unchanged)",
-        "snippet": "Earlier snapshot of same Fortnite shop tracker still listing Rivian R1S as unchanged — confirms persistent gaming-surface brand placement.",
-        "url": "https://bsky.app/profile/did:plc:crdgb5xa2nbtsffzccs4yq5h/post/3mmx36bd76q2i",
-        "themes": [
-          "brand sentiment"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-29T14:02:21Z",
     "timestamp": "2026-05-29T14:02:21Z",
     "sentiment": {
@@ -8859,6 +8641,256 @@
         "publishedAt": "2026-06-04T05:52:46Z",
         "score": 0,
         "snippet": "The 2026 Rivian is pushing electric truck performance to a whole new level. With over 1000 horsepower, incredible acceleration, ..."
+      }
+    ]
+  },
+  {
+    "id": "2026-06-04T18:07:08Z",
+    "timestamp": "2026-06-04T18:07:08Z",
+    "sentiment": {
+      "positive": 25,
+      "neutral": 67,
+      "negative": 8
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 4,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "business": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "Aurora update",
+      "BYD Europe",
+      "CarPlay",
+      "charging infra",
+      "Chevron/GMC EV",
+      "EV incentives",
+      "FSD update",
+      "R1S review",
+      "R2 launch",
+      "recall alert",
+      "regulatory news",
+      "Rivian Adventure Network"
+    ],
+    "competitiveContext": "BYD's Denza brand is entering Germany targeting Porsche, signaling intensifying premium EV competition in Europe. Stellantis and European OEMs face regulatory and cost pressure as Chinese EV makers gain ground. GM's Silverado EV review highlights the US full-size truck segment heating up alongside Rivian's R1T/R1S. Aurora continues making progress toward commercial autonomous trucking which could shift fleet buyer expectations.",
+    "summary": "Rivian's Adventure Network hit a milestone with 1,000+ fast chargers across 148 sites at 98% reliability, a quietly strong infrastructure story. RJ Scaringe's claim that the R2 will achieve Level-4 autonomy by 2030 generated buzz but also skepticism given Rivian's track record. Owner dissatisfaction around CarPlay denial continues as a software/brand risk.",
+    "fullReport": "Rivian Adventure Network surpasses 1,000 fast chargers in the U.S. — a concrete infrastructure win at 98% reliability. CEO RJ Scaringe doubles down on R2 Level-4 autonomy by 2030, generating both excitement and skepticism. BYD expands into Germany with Denza, targeting Porsche; European affordable EV plans face viability questions amid Chinese competition. GM Silverado EV review highlights growing U.S. full-size truck competition. CarPlay absence continues to drive owner defections — a brand and software risk that won't fade.",
+    "items": [
+      {
+        "title": "BYD opens first German Denza store in posh Hamburg neighborhood, takes aim at Porsche",
+        "url": "https://www.autonews.com/byd/ane-denza-debut-germany-0604",
+        "source": "automotive_news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "BYD's premium Denza brand opens its first German showroom in Hamburg, positioning directly against Porsche in a signal of growing Chinese EV penetration in Europe.",
+        "themes": [
+          "BYD Europe",
+          "competitive"
+        ],
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "title": "Europe's affordable EV plan — aimed at challenging Chinese — faces viability questions",
+        "url": "https://www.autonews.com/ev/ane-stellantis-china-evs-cheaper-co2-0603",
+        "source": "automotive_news",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "snippet": "European OEMs face mounting pressure as affordable EV plans struggle against Chinese competition and tightening CO2 regulations, raising questions about the viability of mass-market EV strategies.",
+        "themes": [
+          "EV incentives",
+          "regulatory news"
+        ],
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "title": "2026 Chevrolet Silverado 1500 Review",
+        "url": "https://www.motortrend.com/cars/chevrolet/silverado-1500/2026",
+        "source": "motor_trend",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "MotorTrend reviews the 2026 Silverado 1500, highlighting GM's evolving full-size truck portfolio as EV competition in the American truck segment intensifies.",
+        "themes": [
+          "Chevron/GMC EV"
+        ],
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "title": "エヌビディアCEO、新半導体の未来語る－パソコンが道具から相棒に",
+        "url": "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG2MLGT96OSH00",
+        "source": "bloomberg_top",
+        "category": "business",
+        "sentiment": "neutral",
+        "snippet": "Nvidia CEO discusses the future of next-generation semiconductors in a Japanese interview, framing AI as shifting PCs from tools to collaborators.",
+        "themes": [],
+        "publishedAt": null,
+        "score": 0
+      },
+      {
+        "title": "9to5Mac Daily: May 29, 2026 – Apple Wallet IDs, Rivian and CarPlay",
+        "url": "https://bsky.app/profile/did:plc:dwecjm5n7fyljcjk3vi7x5oa/post/3mni7e5hkzj2o",
+        "source": "bluesky",
+        "category": "software",
+        "sentiment": "neutral",
+        "snippet": "Bluesky discussion citing 9to5Mac coverage of Apple Wallet IDs and Rivian's CarPlay situation — ongoing software ecosystem gap for Rivian owners.",
+        "themes": [
+          "CarPlay",
+          "infotainment bug"
+        ],
+        "publishedAt": "2026-06-04T18:01:09.660Z",
+        "score": 0
+      },
+      {
+        "title": "Rivian CEO Claims the R2 Will Provide Level-4 Autonomous Driving Capabilities by 2030",
+        "url": "https://bsky.app/profile/did:plc:xj7qe3bjntkquqbqujlhoxhw/post/3mni6avpqgs27",
+        "source": "bluesky",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "snippet": "Rivian CEO RJ Scaringe claims the R2 will achieve Level-4 autonomous driving by 2030, generating both excitement and skepticism given Rivian's historical autonomy timelines.",
+        "themes": [
+          "FSD update",
+          "R2 launch"
+        ],
+        "publishedAt": "2026-06-04T17:41:28.161Z",
+        "score": 0
+      },
+      {
+        "title": "Rivian Adventure Network Surpasses 1,000 Fast Chargers in the U.S., But Canada Still Waiting",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mni6aowhhs2f",
+        "source": "bluesky",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Rivian's Adventure Network now exceeds 1,000 fast chargers across 148 sites in the U.S., a milestone for Rivian's charging infrastructure story.",
+        "themes": [
+          "charging infra",
+          "Rivian Adventure Network"
+        ],
+        "publishedAt": "2026-06-04T17:41:20.561Z",
+        "score": 0
+      },
+      {
+        "title": "Rivian has been oddly quiet about the Rivian Adventure Network recently",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mni44hbjs227",
+        "source": "bluesky",
+        "category": "community",
+        "sentiment": "positive",
+        "snippet": "Despite limited communications, Rivian continues expanding the Adventure Network quietly — an owner-positive trend for range confidence.",
+        "themes": [
+          "charging infra",
+          "Rivian Adventure Network"
+        ],
+        "publishedAt": "2026-06-04T17:03:10.966Z",
+        "score": 0
+      },
+      {
+        "title": "1,000 chargers. 148 sites. 98% reliability and an A rating.",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mni2eg5hok2l",
+        "source": "bluesky",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "Rivian Adventure Network hits 1,000 chargers at 148 sites with 98% reliability and an A rating, per Rivian Roamer data — a concrete infrastructure quality story.",
+        "themes": [
+          "charging infra",
+          "Rivian Adventure Network"
+        ],
+        "publishedAt": "2026-06-04T16:32:01.863Z",
+        "score": 15
+      },
+      {
+        "title": "Why I'm Ditching Rivian Over It's Decision to Not Support CarPlay!",
+        "url": "https://youtube.com/watch?v=9uTabOkLr4M",
+        "source": "youtube",
+        "category": "software",
+        "sentiment": "negative",
+        "snippet": "A YouTuber details leaving Rivian over the company's refusal to support CarPlay, with Rivian's software chief claiming customers don't need it — a brand risk and owner experience concern.",
+        "themes": [
+          "CarPlay",
+          "recall alert",
+          "owner experience"
+        ],
+        "publishedAt": "2026-06-04T17:43:28Z",
+        "score": 0
+      },
+      {
+        "title": "Driving on 36 in a Rivian",
+        "url": "https://youtube.com/watch?v=MN21OtKmSx4",
+        "source": "youtube",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "snippet": "YouTube content exploring Rivian's real-world range performance.",
+        "themes": [],
+        "publishedAt": "2026-06-04T17:36:45Z",
+        "score": 0
+      },
+      {
+        "title": "My Rivian R1S 7,000 Mile Review - The Good, Bad and UGLY",
+        "url": "https://youtube.com/watch?v=_bQO0n5hYdQ",
+        "source": "youtube",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "snippet": "A 7,000-mile Rivian R1S review covering ownership experience — valuable signal on long-term owner satisfaction and product reliability.",
+        "themes": [
+          "R1S review",
+          "owner experience"
+        ],
+        "publishedAt": "2026-06-04T17:00:21Z",
+        "score": 0
       }
     ]
   }
