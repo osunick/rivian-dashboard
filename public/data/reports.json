@@ -1,440 +1,5 @@
 [
   {
-    "id": "2026-05-28T22:06:43Z",
-    "timestamp": "2026-05-28T22:06:43Z",
-    "sentiment": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 100
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 1,
-        "sentiment": "negative"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 0,
-        "sentiment": null
-      },
-      "business": {
-        "found": 0,
-        "sentiment": null
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "negative"
-      },
-      "community": {
-        "found": 0,
-        "sentiment": null
-      },
-      "competitive": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
-    "themes": [
-      "VW partnership",
-      "brand sentiment"
-    ],
-    "competitiveContext": "No new competitor moves in this micro-cycle. Continued Bluesky discussion (Brad Deleong follow-up) reinforces an emerging skeptical narrative around Rivian/VW's AI-forward, walled-garden software strategy.",
-    "summary": "Quiet cycle — only 1 new signal. Brad Deleong follow-up Bluesky post linking his substack arguing AI-forward car companies like Rivian/VW will 'get their clocks cleaned.' Same author as the 10-like skeptic thread earlier today; narrative is being amplified by the author himself.",
-    "fullReport": "1 new signal post-dedup. A Brad Deleong follow-up Bluesky post (continuation of his earlier 10-like thread) linking his substack piece arguing AI-forward car companies like Rivian/VW will underperform. Brand sentiment narrative pressure continues. No movement on Reddit (still 403'd), HackerNews, news, or RivianForums in this cycle.",
-    "items": [
-      {
-        "title": "Brad Deleong (Bluesky follow-up): 'I Think AI-Forward Car Companies Like Rivian Are Going to Get Their Clocks Cleaned'",
-        "url": "https://bsky.app/profile/did:plc:ggxmdwtojxh2poo2kmjsyr4p/post/3mmwt3rdyas27",
-        "source": "bluesky",
-        "publishedAt": "2026-05-28T20:06:53.177Z",
-        "score": 3,
-        "snippet": "Follow-up post (2/END) by Brad Deleong linking his substack piece arguing AI-forward car companies like Rivian/VW will underperform vs. CarPlay/Android Auto incumbents. Continuation of the same author's earlier 10-like skeptic thread.",
-        "category": "software",
-        "sentiment": "negative",
-        "themes": [
-          "VW partnership",
-          "brand sentiment"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-05-29T02:00:00Z",
-    "timestamp": "2026-05-29T02:00:00Z",
-    "sentiment": {
-      "positive": 57,
-      "neutral": 21,
-      "negative": 22
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "twitter": {
-        "found": 13,
-        "sentiment": "mixed"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 10,
-        "sentiment": "positive"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 0,
-        "sentiment": null
-      },
-      "vehicles": {
-        "found": 7,
-        "sentiment": "mixed"
-      },
-      "business": {
-        "found": 3,
-        "sentiment": "positive"
-      },
-      "software": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "community": {
-        "found": 4,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 1,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "CarPlay",
-      "EDV update",
-      "Forest Edge interior",
-      "NHTSA probe",
-      "OTA update",
-      "R2 launch",
-      "R1 delivery",
-      "recall alert",
-      "regulatory news",
-      "VW partnership",
-      "brand sentiment",
-      "charging infra",
-      "fleet/EDV",
-      "owner experience",
-      "voice/Hey Rivian"
-    ],
-    "competitiveContext": "No major competitor moves surfaced today. Regulatory sluggishness on EV charging infrastructure (govtech) affects all OEMs but is an ambient risk rather than an acute threat. The VW partnership expansion talks signal Rivian's software stack has strategic value beyond its own vehicles — a competitive moat building quietly.",
-    "summary": "Cycle dominated by R2 launch anticipation (June 9 confirmed) and Forest Edge interior return as a limited-time Gen 2 offering. NHTSA opened a formal probe into ~115k R1S vehicles for a suspension bolt defect causing lane swerving — the most acute risk signal this cycle. Community sentiment is positive overall, anchored by owner advocacy and a notable brand-loyalty story. Software discussions centered on Rivian's rationale for skipping CarPlay in favor of AI-native interfaces.",
-    "fullReport": "SITREP: R2 launches June 9 — invitations going out. Forest Edge green interior back for Gen 2 Dual Motor Max Pack only, limited run. NHTSA formally probing 115k R1S for suspension bolt defect that caused lane swerving. VW partnership may expand beyond current JV scope. Federal/state charging infrastructure rollout remains sluggish — ambient headwind for all EVs. Rivian defending CarPlay-free stance as AI makes in-vehicle apps obsolete. EDVs getting a 2026.07 OTA update. Positive owner story where a cross-country Rivian trip converted someone to EV.",
-    "items": [
-      {
-        "id": 4,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "negative",
-        "title": "US auto safety regulator opens probe into nearly 115000 Rivian",
-        "snippet": "NHTSA has opened a formal investigation into approximately 115,000 Rivian vehicles following reports that a broken suspension bolt caused R1S SUVs to swerve across lanes — a serious safety concern requiring hardware review.",
-        "url": "https://www.threads.com/@chrishilbe/post/DY4csylFuvF",
-        "publishedAt": null,
-        "score": 0,
-        "themes": [
-          "recall alert",
-          "NHTSA probe",
-          "regulatory news"
-        ]
-      },
-      {
-        "id": 8,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "negative",
-        "title": "Feds Step In After A Broken Bolt Sent Two Rivian R1S SUVs Swerving Across Lanes | Carscoops",
-        "snippet": "A broken front suspension control arm bolt has been linked to two incidents where R1S vehicles swerved unexpectedly — prompting a federal safety investigation into the Gen 1 R1S fleet.",
-        "url": "https://www.carscoops.com/2026/05/rivian-suspension-investigation",
-        "publishedAt": null,
-        "score": 0,
-        "themes": [
-          "recall alert",
-          "NHTSA probe",
-          "regulatory news"
-        ]
-      },
-      {
-        "id": 5,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Rivian R2 Launches on June 9th - @notateslaapp",
-        "snippet": "Rivian R2 official launch date confirmed as June 9th, with invitation emails beginning to go out to reservation holders — the most significant product milestone since R1T launch.",
-        "url": "https://www.threads.com/@notateslaapp/post/DY4jb_KjkmC/rivian-r-launches-on-june-th",
-        "publishedAt": null,
-        "score": 0,
-        "themes": [
-          "R2 launch"
-        ]
-      },
-      {
-        "id": 12,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Rivian in Talks With Volkswagen Group to Widen Tech Partnership",
-        "snippet": "Rivian and Volkswagen Group are in active discussions to expand their technology partnership beyond the current JV — signaling that Rivian's software and autonomy stack has value to a major global OEM seeking to accelerate its EV software capabilities.",
-        "url": "https://eletric-vehicles.com/rivian/rivian-in-talks-with-volkswagen-group-to-widen-tech-partnership-jv-co-ceo-says",
-        "publishedAt": null,
-        "score": 0,
-        "themes": [
-          "VW partnership",
-          "R2 launch"
-        ]
-      },
-      {
-        "id": 3,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Finally! Let's Go! The famous Forest Edge green Rivian interior is finally back",
-        "snippet": "Forest Edge green interior — one of the most popular Gen 1 colorways — returns as a limited-time option exclusively on Gen 2 Dual Motor Max Pack R1T/R1S. Previously discontinued due to low demand; now revived as a strategic spec to drive higher ASPs on a constrained configuration.",
-        "url": "https://www.threads.com/@rivianupdates/post/DY4149mjl47/finally-lets-go-the-famous-forest-edge-green-rivian-interior-is-finally-back",
-        "publishedAt": null,
-        "score": 0,
-        "themes": [
-          "R1 delivery",
-          "Forest Edge interior",
-          "owner experience"
-        ]
-      },
-      {
-        "id": 11,
-        "source": "twitter",
-        "category": "vehicles",
-        "sentiment": "positive",
-        "title": "Rivian R2 towing a Bowlus Rivet trailer",
-        "snippet": "R2 photographed towing a Bowlus Rivet travel trailer — demonstrating credible towing capability and reinforcing the adventure/overland positioning that differentiates Rivian from commodity crossovers.",
-        "url": "https://www.facebook.com/groups/874936780768370/posts/1483630333232342",
-        "publishedAt": null,
-        "score": 0,
-        "themes": [
-          "R2 launch",
-          "owner experience"
-        ]
-      },
-      {
-        "id": 14,
-        "source": "twitter",
-        "category": "software",
-        "sentiment": "neutral",
-        "title": "Rivian Explains Why CarPlay Debate Will Become Completely Obsolete",
-        "snippet": "Rivian continues to defend its decision not to offer CarPlay/Android Auto, arguing that AI-powered native interfaces will make smartphone-mirroring protocols irrelevant — a forward-looking bet on software-defined vehicle experience.",
-        "url": "https://www.facebook.com/MacRumors/posts/rivian-explains-why-carplay-debate-will-become-completely-obsolete-story-in-comm/1420273323468980",
-        "publishedAt": null,
-        "score": 0,
-        "themes": [
-          "CarPlay",
-          "infotainment bug",
-          "OTA update"
-        ]
-      },
-      {
-        "id": 15,
-        "source": "bluesky",
-        "category": "community",
-        "sentiment": "positive",
-        "title": "@imaginaryperson222.bsky.social: Your videos and those maniacs who tried a coast to coast cannonball run in a modified Rivian are what convinced me that my next car will be electric",
-        "snippet": "A Bluesky user credits Rivian content — specifically coast-to-coast cannonball run videos — as the decisive factor in their EV purchase intent, despite living somewhere without home charging capability. Illustrates the power of experiential content for Rivian brand advocacy.",
-        "url": "https://bsky.app/profile/did:plc:h2eq7r2azu5tbxlg3b24fqb7/post/3mmxfsg2ack2b",
-        "publishedAt": "2026-05-29T01:41:14.173Z",
-        "score": 11,
-        "themes": [
-          "brand sentiment",
-          "owner experience"
-        ]
-      },
-      {
-        "id": 19,
-        "source": "bluesky",
-        "category": "community",
-        "sentiment": "neutral",
-        "title": "@scanmyphotos.bsky.social: Thinking about buying a Rivian? Read Rob Verger's Inc. Mag piece on the R2 rollout",
-        "snippet": "A Bluesky user recommends an Inc. Magazine piece by Rob Verger on the R2 strategy as essential reading for prospective buyers — citing it as clear, non-hyped journalism that explains why the R2 moment matters for EV buyers.",
-        "url": "https://bsky.app/profile/did:plc:r3hjj5ere4dlnfvwtyci3zsj/post/3mmxbxsfwkc2i",
-        "publishedAt": "2026-05-29T00:32:44.073Z",
-        "score": 0,
-        "themes": [
-          "R2 launch",
-          "brand sentiment"
-        ]
-      },
-      {
-        "id": 20,
-        "source": "bluesky",
-        "category": "software",
-        "sentiment": "negative",
-        "title": "@harbingerofchaos.bsky.social: I don't want to talk to my car",
-        "snippet": "A Bluesky user describes voice-first interaction as a dealbreaker that eliminates Rivian from consideration — noting they prefer physical controls over voice commands regardless of the use case. Illustrates persistent UX preference tension for the Hey Rivian assistant.",
-        "url": "https://bsky.app/profile/did:plc:3pcqnevy6ozjc7wz7nakog7n/post/3mmxbj5mvds2z",
-        "publishedAt": "2026-05-29T00:24:29.875Z",
-        "score": 0,
-        "themes": [
-          "voice/Hey Rivian",
-          "owner experience"
-        ]
-      },
-      {
-        "id": 18,
-        "source": "bluesky",
-        "category": "business",
-        "sentiment": "neutral",
-        "title": "@hilbe.bsky.social: EDVs getting some 2026.07 love",
-        "snippet": "Rivian's Electric Delivery Vehicles (EDVs) are receiving a 2026.07 OTA update — continuing the fleet relationship with Amazon that remains a key commercial revenue stream and brand presence.",
-        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mmxc44x2w625",
-        "publishedAt": "2026-05-29T00:35:07.071Z",
-        "score": 0,
-        "themes": [
-          "EDV update",
-          "fleet/EDV",
-          "OTA update"
-        ]
-      },
-      {
-        "id": 16,
-        "source": "bluesky",
-        "category": "community",
-        "sentiment": "neutral",
-        "title": "@demos.bsky.social: I'm a year and 14k miles into ownership and tread wear on the ATs looks 'normal'",
-        "snippet": "A year-one Rivian owner reports normal tire wear on all-terrain tires and highlights the free rotation program through Discount Tire — a positive ownership data point on hardware durability and service program.",
-        "url": "https://bsky.app/profile/did:plc:6wmms3zcklwypzk5m5amj2id/post/3mmxdsxcnp22g",
-        "publishedAt": "2026-05-29T01:05:46.078Z",
-        "score": 1,
-        "themes": [
-          "owner experience",
-          "R1 delivery"
-        ]
-      },
-      {
-        "id": 17,
-        "source": "bluesky",
-        "category": "business",
-        "sentiment": "positive",
-        "title": "@auto-blog.bsky.social: The automaker sued RJ Scaringe's Avera Automotive in 2010",
-        "snippet": "Historical note: Hyundai sued an early venture of RJ Scaringe's over the name Avera (too similar to Azera), forcing the rename to Rivian — a notable origin story detail showing Scaringe's prior OEM relationship and the challenges of building a new brand against incumbent pressure.",
-        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mmxdj2nixy2v",
-        "publishedAt": "2026-05-29T01:00:13.877Z",
-        "score": 0,
-        "themes": [
-          "brand sentiment"
-        ]
-      },
-      {
-        "id": 0,
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "title": "Federal, State Sluggishness Throttles EV Charging Stations - govtech.com",
-        "snippet": "Federal and state regulatory bottlenecks are slowing the deployment of EV charging infrastructure — an ambient headwind for all EVs that disproportionately impacts brands like Rivian whose customer base skews toward long-distance use cases.",
-        "url": "https://www.govtech.com/transportation/federal-state-sluggishness-throttles-ev-charging-stations",
-        "publishedAt": "Thu, 28 May 2026 21:46:18 GMT",
-        "score": 0,
-        "themes": [
-          "charging infra",
-          "regulatory news"
-        ]
-      },
-      {
-        "id": 1,
-        "source": "news",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "title": "The Philippines Can Be A Mover In The EV Space, But It Isn't - CleanTechnica",
-        "snippet": "The Philippines has structural potential but insufficient policy commitment to become a meaningful EV market — not directly relevant to Rivian but indicative of global EV adoption pace disparities.",
-        "url": "https://cleantechnica.com/2026/05/28/the-philippines-can-be-a-mover-in-the-ev-space-but-it-isnt/",
-        "publishedAt": "Fri, 29 May 2026 00:26:29 GMT",
-        "score": 0,
-        "themes": [
-          "regulatory news",
-          "competitive"
-        ]
-      }
-    ]
-  },
-  {
     "id": "2026-05-29T02:10:00Z",
     "timestamp": "2026-05-29T02:10:00Z",
     "sentiment": {
@@ -8632,6 +8197,668 @@
           "R2 launch",
           "Tesla pricing"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-04T16-23-53-535Z",
+    "timestamp": "2026-06-04T16:23:53.535Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 35,
+      "negative": 15
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": null
+      },
+      "reddit_rivianr2": {
+        "found": 3,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": null
+      },
+      "automotive_news": {
+        "found": 2,
+        "sentiment": null
+      },
+      "car_and_driver": {
+        "found": 2,
+        "sentiment": null
+      },
+      "reuters_top": {
+        "found": 1,
+        "sentiment": null
+      },
+      "bloomberg_top": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business_insider": {
+        "found": 1,
+        "sentiment": null
+      },
+      "electrek_main": {
+        "found": 1,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": null
+      }
+    },
+    "categories": {},
+    "themes": [
+      "R2 launch",
+      "Rivian offers",
+      "EV fleet",
+      "Competitive intel"
+    ],
+    "competitiveContext": "Amazon fleet milestone, VW partnership implications, R2 launch timeline.",
+    "summary": "Rivian activity driven by June offers, Amazon EDV fleet milestone, and R2 launch anticipation.",
+    "fullReport": "[pending LLM analysis]",
+    "items": [
+      {
+        "title": "Feature request/idea: R/L proximity have different pitches? - Reddit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tv8l1z/feature_requestidea_rl_proximity_have_different",
+        "source": "reddit_rivian",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Red Canyon Please : r/RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tt3k7f/red_canyon_please",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/best",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "R2 Spotted in North Austin : r/RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tvpjxp/r2_spotted_in_north_austin",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Unix, Everything Is a File",
+        "url": "https://vivianvoss.net/blog/unix-everything-is-a-file",
+        "source": "hackernews",
+        "publishedAt": "2026-06-04T15:47:57Z",
+        "score": 3,
+        "snippet": ""
+      },
+      {
+        "title": "Honda News",
+        "url": "https://www.autonews.com/honda",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Volvo XC60 PHEV electric range to more than double, surpassing Mercedes GLC - Automotive News",
+        "url": "https://www.autonews.com/manufacturing/automakers/an-volvo-doubles-ex60-phev-electric-only-range-0603",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Used Rivian R1T for Sale in Stockbridge, GA - Car and Driver",
+        "url": "https://www.caranddriver.com/cars-for-sale/rivian/r1t/stockbridge-ga",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Used Rivian R1S for Sale in Belvidere, IL - Car and Driver",
+        "url": "https://www.caranddriver.com/cars-for-sale/rivian/r1s/belvidere-il",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Exclusive: SpaceX targets $1.75 trillion valuation in all-primary IPO next week, sources say",
+        "url": "https://www.reuters.com/legal/transactional/spacex-targets-175-trillion-valuation-including-greenshoe-option-record-ipo-2026-06-02",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "China's Robotaxi Dilemma: How to Lead in AI Without Fueling ...",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-04/china-s-robotaxi-dilemma-how-to-lead-in-ai-without-fueling-unemployment",
+        "source": "bloomberg_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Google DeepMind CEO says we don't have much time to prepare for the 'new human era' - Business Insider",
+        "url": "https://www.businessinsider.com/google-deepmind-ceo-demis-hassabis-agi-new-human-era-2026-6",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Kia's electric van is now available as a 7-seater for under ... - Electrek",
+        "url": "https://electrek.co/2026/06/03/kias-electric-van-now-available-7-seater-for-under-50000",
+        "source": "electrek_main",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "@thewattcar.bsky.social (Bluesky): Does electric propulsion mean a vehicle is in some way less enjoyable to drive? ",
+        "url": "https://bsky.app/profile/did:plc:pecdc7bfgkkgavceds5zfli6/post/3mnhywhg3ec2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T16:06:09.662Z",
+        "score": 0,
+        "snippet": "Does electric propulsion mean a vehicle is in some way less enjoyable to drive? A recent video somewhat implies that, and we can’t help but discuss on this week’s podcast. Plus, Lotus, Rolls-Royce, Ri"
+      },
+      {
+        "title": "@luigivercotti.bsky.social (Bluesky): Rivian is slated to start selling in the UK in 2028. They certainly market an ou",
+        "url": "https://bsky.app/profile/did:plc:2r54ygfomcu3py2mgqx7e4hy/post/3mnhy2yf6ec2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T15:50:46.764Z",
+        "score": 2,
+        "snippet": "Rivian is slated to start selling in the UK in 2028. They certainly market an outdoor lifestyle, but I doubt most people are taking them off road."
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Can’t wait to see how the Rivian R2 does for the same money 😂",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mnhxtdaj2s2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T15:46:29.561Z",
+        "score": 0,
+        "snippet": "Can’t wait to see how the Rivian R2 does for the same money 😂"
+      },
+      {
+        "title": "@wraithe.bsky.social (Bluesky): Back when I was thinking we’d replace our MDX (7 seat) with an electric, the EV9",
+        "url": "https://bsky.app/profile/did:plc:fbqdq37i5vftrcgowyyjlc64/post/3mnhumwlxss26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T14:49:13.562Z",
+        "score": 2,
+        "snippet": "Back when I was thinking we’d replace our MDX (7 seat) with an electric, the EV9 was the front runner. Rivian supposedly is going to start selling in Europe this year, but I don’t know if that include"
+      },
+      {
+        "title": "@fintwitter.bsky.social (Bluesky): ⚡️AMAZON FLEET TOPS 50,000 ELECTRIC DELIVERY VANS — HALFWAY TO 2030 TARGET Up fr",
+        "url": "https://bsky.app/profile/did:plc:43fdk46qa5gsokzygzildsaq/post/3mnhq7vwdky23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T13:30:21.760Z",
+        "score": 1,
+        "snippet": "⚡️AMAZON FLEET TOPS 50,000 ELECTRIC DELIVERY VANS — HALFWAY TO 2030 TARGET Up from 35,000 last October. The fleet delivered 2.4B packages last year. Most are Rivian EDVs; Amazon's standing order is 10"
+      },
+      {
+        "title": "@pjmccann3.bsky.social (Bluesky): So glad that we are an EV only family (2018 Tesla Model 3 & 2026 Rivian R1T) wit",
+        "url": "https://bsky.app/profile/did:plc:dnywjxyevgm6e5khwl63ju43/post/3mnhn5bbyss27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T12:35:12.160Z",
+        "score": 5,
+        "snippet": "So glad that we are an EV only family (2018 Tesla Model 3 & 2026 Rivian R1T) with a level 2 charger and 15kW battery in the garage, plus a 14kW solar array on the roof. \n\nNext project is to replace my"
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): The best — and most rugged — off-road trucks of 2026: From a Toyota Tacoma TRD P",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mnhcrgzbik2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T09:29:37.664Z",
+        "score": 0,
+        "snippet": "The best — and most rugged — off-road trucks of 2026: From a Toyota Tacoma TRD Pro with seat-mounted shocks to a Rivian R1T that fords 43 inches of water on electric power"
+      },
+      {
+        "title": "@eu-de.bsky.social (Bluesky): Volkswagen’s Rivian Stake Puts Focus On R2 Launch And Valuation Gap\n\nhttps://www",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mnh3bqbcc22q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T07:15:34.960Z",
+        "score": 0,
+        "snippet": "Volkswagen’s Rivian Stake Puts Focus On R2 Launch And Valuation Gap\n\nhttps://www.europesays.com/germany/30164/\n\nNever miss an important update on your stock portfolio and cut through the noise. Over 7"
+      },
+      {
+        "title": "@gigowat.bsky.social (Bluesky): 9to5Mac より\n\n9to5Mac Daily: May 29, 2026 – Apple Wallet IDs, Rivian and CarPlay\n9",
+        "url": "https://bsky.app/profile/did:plc:dwecjm5n7fyljcjk3vi7x5oa/post/3mngzku5l6s2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T06:44:52.566Z",
+        "score": 0,
+        "snippet": "9to5Mac より\n\n9to5Mac Daily: May 29, 2026 – Apple Wallet IDs, Rivian and CarPlay\n9to5Mac Daily: 2026年5月29日 – Apple Wallet IDs, Rivian and CarPlay\n"
+      },
+      {
+        "title": "@dfedicatest.bsky.social (Bluesky): How to Buy Rivian Stock (RIVN)",
+        "url": "https://bsky.app/profile/did:plc:uauvgtaseetghf5czwruktdj/post/3mngu5mjr572t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T05:08:00.060Z",
+        "score": 0,
+        "snippet": "How to Buy Rivian Stock (RIVN)"
+      },
+      {
+        "title": "I see why Rivian has bad reviews🫩 #amazon",
+        "url": "https://youtube.com/watch?v=840ZGzNWedo",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T16:19:55Z",
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "#audi #etron #etrongt is a foot longer than #rivian #rivianr2 #audielectric",
+        "url": "https://youtube.com/watch?v=0ISayOhQ-eg",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T16:08:50Z",
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Tesla is Officially Cooked! 2026 Rivian R2 is Here 🤯",
+        "url": "https://youtube.com/watch?v=IAOpAy81OAo",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T16:00:35Z",
+        "score": 0,
+        "snippet": "Tesla Model Y ka sabse bada dushman aa gaya hai! The brand new 2026 Rivian R2 is officially here with 656 HP, a massive ..."
+      },
+      {
+        "title": "The Moab Adventure That Changed My Life",
+        "url": "https://youtube.com/watch?v=GUmn5WmlReE",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T12:30:13Z",
+        "score": 0,
+        "snippet": "Almost three years later, this adventure still stands out as one of the most memorable experiences I've ever had. The Chicken ..."
+      },
+      {
+        "title": "🚨 ALERT: Rivian Could Explode After Earnings… But There’s a Problem!! 😱 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=m6eY5sJ4nUs",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T11:30:16Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ..."
+      },
+      {
+        "title": "2027 Rivian R2 FIRST LOOK - Stunning Design, Huge Range, and Game-Changing Features!",
+        "url": "https://youtube.com/watch?v=SLQ8q4_Qkww",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T11:00:38Z",
+        "score": 0,
+        "snippet": "In this video, we take a comprehensive look at the 2027 Rivian R2, the latest electric SUV featuring a futuristic design, advanced ..."
+      },
+      {
+        "title": "Rivian: KI-Agenten steuern dein Auto – Die Zukunft ist da! #shorts",
+        "url": "https://youtube.com/watch?v=jzZamQvfW4I",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T10:00:32Z",
+        "score": 0,
+        "snippet": "Automarken wie Rivian integrieren KI-Agenten, um die Navigation und Fahrzeugfunktionen intuitiver zu gestalten. Erleben Sie die ..."
+      },
+      {
+        "title": "Who Configured This Solar EV Charger!? It Makes No Sense!",
+        "url": "https://youtube.com/watch?v=Bvcf8r9PkRU",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T10:00:18Z",
+        "score": 0,
+        "snippet": "We drove up to the top of Fontana Dam in North Carolina and found a Beam Energy solar EV charging canopy! It looks cool, it ..."
+      },
+      {
+        "title": "❗️RIVIAN R2 vs MODEL Y ⚡️ save $2,500 📌 link in bio",
+        "url": "https://youtube.com/watch?v=SHMLU3WurCQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T08:30:18Z",
+        "score": 0,
+        "snippet": "RIVIAN R2 vs MODEL Y ⚡️ save $2500 link in bio ⚡️ TESLA REFERRAL CODE LINK | Receive $1000 OFF Your Next ..."
+      },
+      {
+        "title": "2026 Rivian Just Changed Everything! ⚡🔥",
+        "url": "https://youtube.com/watch?v=fsT-TIa7sUM",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T05:52:46Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian is pushing electric truck performance to a whole new level. With over 1000 horsepower, incredible acceleration, ..."
+      }
+    ]
+  },
+  {
+    "id": "report-1780590295650",
+    "timestamp": "2026-06-04T16:24:55.650Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 35,
+      "negative": 15
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": null
+      },
+      "reddit_rivianr2": {
+        "found": 3,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": null
+      },
+      "automotive_news": {
+        "found": 2,
+        "sentiment": null
+      },
+      "car_and_driver": {
+        "found": 2,
+        "sentiment": null
+      },
+      "reuters_top": {
+        "found": 1,
+        "sentiment": null
+      },
+      "bloomberg_top": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business_insider": {
+        "found": 1,
+        "sentiment": null
+      },
+      "electrek_main": {
+        "found": 1,
+        "sentiment": null
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": null
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": null
+      }
+    },
+    "categories": {},
+    "themes": [
+      "R2 launch",
+      "Rivian offers",
+      "Amazon EDV",
+      "Competitive intel"
+    ],
+    "competitiveContext": "Amazon EDV fleet milestone; VW partnership valuation gap; R2 launch timing.",
+    "summary": "Rivian activity driven by June financing offers, Amazon EDV fleet milestone, R2 sightings.",
+    "fullReport": "[pending LLM analysis]",
+    "items": [
+      {
+        "title": "Feature request/idea: R/L proximity have different pitches? - Reddit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tv8l1z/feature_requestidea_rl_proximity_have_different",
+        "source": "reddit_rivian",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Red Canyon Please : r/RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tt3k7f/red_canyon_please",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/best",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "R2 Spotted in North Austin : r/RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1tvpjxp/r2_spotted_in_north_austin",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Unix, Everything Is a File",
+        "url": "https://vivianvoss.net/blog/unix-everything-is-a-file",
+        "source": "hackernews",
+        "publishedAt": "2026-06-04T15:47:57Z",
+        "score": 3,
+        "snippet": ""
+      },
+      {
+        "title": "Honda News",
+        "url": "https://www.autonews.com/honda",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Volvo XC60 PHEV electric range to more than double, surpassing Mercedes GLC - Automotive News",
+        "url": "https://www.autonews.com/manufacturing/automakers/an-volvo-doubles-ex60-phev-electric-only-range-0603",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Used Rivian R1T for Sale in Stockbridge, GA - Car and Driver",
+        "url": "https://www.caranddriver.com/cars-for-sale/rivian/r1t/stockbridge-ga",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Used Rivian R1S for Sale in Belvidere, IL - Car and Driver",
+        "url": "https://www.caranddriver.com/cars-for-sale/rivian/r1s/belvidere-il",
+        "source": "car_and_driver",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Exclusive: SpaceX targets $1.75 trillion valuation in all-primary IPO next week, sources say",
+        "url": "https://www.reuters.com/legal/transactional/spacex-targets-175-trillion-valuation-including-greenshoe-option-record-ipo-2026-06-02",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "China's Robotaxi Dilemma: How to Lead in AI Without Fueling ...",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-04/china-s-robotaxi-dilemma-how-to-lead-in-ai-without-fueling-unemployment",
+        "source": "bloomberg_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Google DeepMind CEO says we don't have much time to prepare for the 'new human era' - Business Insider",
+        "url": "https://www.businessinsider.com/google-deepmind-ceo-demis-hassabis-agi-new-human-era-2026-6",
+        "source": "business_insider",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Kia's electric van is now available as a 7-seater for under ... - Electrek",
+        "url": "https://electrek.co/2026/06/03/kias-electric-van-now-available-7-seater-for-under-50000",
+        "source": "electrek_main",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "@thewattcar.bsky.social (Bluesky): Does electric propulsion mean a vehicle is in some way less enjoyable to drive? ",
+        "url": "https://bsky.app/profile/did:plc:pecdc7bfgkkgavceds5zfli6/post/3mnhywhg3ec2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T16:06:09.662Z",
+        "score": 0,
+        "snippet": "Does electric propulsion mean a vehicle is in some way less enjoyable to drive? A recent video somewhat implies that, and we can’t help but discuss on this week’s podcast. Plus, Lotus, Rolls-Royce, Ri"
+      },
+      {
+        "title": "@luigivercotti.bsky.social (Bluesky): Rivian is slated to start selling in the UK in 2028. They certainly market an ou",
+        "url": "https://bsky.app/profile/did:plc:2r54ygfomcu3py2mgqx7e4hy/post/3mnhy2yf6ec2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T15:50:46.764Z",
+        "score": 2,
+        "snippet": "Rivian is slated to start selling in the UK in 2028. They certainly market an outdoor lifestyle, but I doubt most people are taking them off road."
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Can’t wait to see how the Rivian R2 does for the same money 😂",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mnhxtdaj2s2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T15:46:29.561Z",
+        "score": 0,
+        "snippet": "Can’t wait to see how the Rivian R2 does for the same money 😂"
+      },
+      {
+        "title": "@wraithe.bsky.social (Bluesky): Back when I was thinking we’d replace our MDX (7 seat) with an electric, the EV9",
+        "url": "https://bsky.app/profile/did:plc:fbqdq37i5vftrcgowyyjlc64/post/3mnhumwlxss26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T14:49:13.562Z",
+        "score": 2,
+        "snippet": "Back when I was thinking we’d replace our MDX (7 seat) with an electric, the EV9 was the front runner. Rivian supposedly is going to start selling in Europe this year, but I don’t know if that include"
+      },
+      {
+        "title": "@fintwitter.bsky.social (Bluesky): ⚡️AMAZON FLEET TOPS 50,000 ELECTRIC DELIVERY VANS — HALFWAY TO 2030 TARGET Up fr",
+        "url": "https://bsky.app/profile/did:plc:43fdk46qa5gsokzygzildsaq/post/3mnhq7vwdky23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T13:30:21.760Z",
+        "score": 1,
+        "snippet": "⚡️AMAZON FLEET TOPS 50,000 ELECTRIC DELIVERY VANS — HALFWAY TO 2030 TARGET Up from 35,000 last October. The fleet delivered 2.4B packages last year. Most are Rivian EDVs; Amazon's standing order is 10"
+      },
+      {
+        "title": "@pjmccann3.bsky.social (Bluesky): So glad that we are an EV only family (2018 Tesla Model 3 & 2026 Rivian R1T) wit",
+        "url": "https://bsky.app/profile/did:plc:dnywjxyevgm6e5khwl63ju43/post/3mnhn5bbyss27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T12:35:12.160Z",
+        "score": 5,
+        "snippet": "So glad that we are an EV only family (2018 Tesla Model 3 & 2026 Rivian R1T) with a level 2 charger and 15kW battery in the garage, plus a 14kW solar array on the roof. \n\nNext project is to replace my"
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): The best — and most rugged — off-road trucks of 2026: From a Toyota Tacoma TRD P",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mnhcrgzbik2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T09:29:37.664Z",
+        "score": 0,
+        "snippet": "The best — and most rugged — off-road trucks of 2026: From a Toyota Tacoma TRD Pro with seat-mounted shocks to a Rivian R1T that fords 43 inches of water on electric power"
+      },
+      {
+        "title": "@eu-de.bsky.social (Bluesky): Volkswagen’s Rivian Stake Puts Focus On R2 Launch And Valuation Gap\n\nhttps://www",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mnh3bqbcc22q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T07:15:34.960Z",
+        "score": 0,
+        "snippet": "Volkswagen’s Rivian Stake Puts Focus On R2 Launch And Valuation Gap\n\nhttps://www.europesays.com/germany/30164/\n\nNever miss an important update on your stock portfolio and cut through the noise. Over 7"
+      },
+      {
+        "title": "@gigowat.bsky.social (Bluesky): 9to5Mac より\n\n9to5Mac Daily: May 29, 2026 – Apple Wallet IDs, Rivian and CarPlay\n9",
+        "url": "https://bsky.app/profile/did:plc:dwecjm5n7fyljcjk3vi7x5oa/post/3mngzku5l6s2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T06:44:52.566Z",
+        "score": 0,
+        "snippet": "9to5Mac より\n\n9to5Mac Daily: May 29, 2026 – Apple Wallet IDs, Rivian and CarPlay\n9to5Mac Daily: 2026年5月29日 – Apple Wallet IDs, Rivian and CarPlay\n"
+      },
+      {
+        "title": "@dfedicatest.bsky.social (Bluesky): How to Buy Rivian Stock (RIVN)",
+        "url": "https://bsky.app/profile/did:plc:uauvgtaseetghf5czwruktdj/post/3mngu5mjr572t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-04T05:08:00.060Z",
+        "score": 0,
+        "snippet": "How to Buy Rivian Stock (RIVN)"
+      },
+      {
+        "title": "I see why Rivian has bad reviews🫩 #amazon",
+        "url": "https://youtube.com/watch?v=840ZGzNWedo",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T16:19:55Z",
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "#audi #etron #etrongt is a foot longer than #rivian #rivianr2 #audielectric",
+        "url": "https://youtube.com/watch?v=0ISayOhQ-eg",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T16:08:50Z",
+        "score": 0,
+        "snippet": ""
+      },
+      {
+        "title": "Tesla is Officially Cooked! 2026 Rivian R2 is Here 🤯",
+        "url": "https://youtube.com/watch?v=IAOpAy81OAo",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T16:00:35Z",
+        "score": 0,
+        "snippet": "Tesla Model Y ka sabse bada dushman aa gaya hai! The brand new 2026 Rivian R2 is officially here with 656 HP, a massive ..."
+      },
+      {
+        "title": "The Moab Adventure That Changed My Life",
+        "url": "https://youtube.com/watch?v=GUmn5WmlReE",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T12:30:13Z",
+        "score": 0,
+        "snippet": "Almost three years later, this adventure still stands out as one of the most memorable experiences I've ever had. The Chicken ..."
+      },
+      {
+        "title": "🚨 ALERT: Rivian Could Explode After Earnings… But There’s a Problem!! 😱 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=m6eY5sJ4nUs",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T11:30:16Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ..."
+      },
+      {
+        "title": "2027 Rivian R2 FIRST LOOK - Stunning Design, Huge Range, and Game-Changing Features!",
+        "url": "https://youtube.com/watch?v=SLQ8q4_Qkww",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T11:00:38Z",
+        "score": 0,
+        "snippet": "In this video, we take a comprehensive look at the 2027 Rivian R2, the latest electric SUV featuring a futuristic design, advanced ..."
+      },
+      {
+        "title": "Rivian: KI-Agenten steuern dein Auto – Die Zukunft ist da! #shorts",
+        "url": "https://youtube.com/watch?v=jzZamQvfW4I",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T10:00:32Z",
+        "score": 0,
+        "snippet": "Automarken wie Rivian integrieren KI-Agenten, um die Navigation und Fahrzeugfunktionen intuitiver zu gestalten. Erleben Sie die ..."
+      },
+      {
+        "title": "Who Configured This Solar EV Charger!? It Makes No Sense!",
+        "url": "https://youtube.com/watch?v=Bvcf8r9PkRU",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T10:00:18Z",
+        "score": 0,
+        "snippet": "We drove up to the top of Fontana Dam in North Carolina and found a Beam Energy solar EV charging canopy! It looks cool, it ..."
+      },
+      {
+        "title": "❗️RIVIAN R2 vs MODEL Y ⚡️ save $2,500 📌 link in bio",
+        "url": "https://youtube.com/watch?v=SHMLU3WurCQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T08:30:18Z",
+        "score": 0,
+        "snippet": "RIVIAN R2 vs MODEL Y ⚡️ save $2500 link in bio ⚡️ TESLA REFERRAL CODE LINK | Receive $1000 OFF Your Next ..."
+      },
+      {
+        "title": "2026 Rivian Just Changed Everything! ⚡🔥",
+        "url": "https://youtube.com/watch?v=fsT-TIa7sUM",
+        "source": "youtube",
+        "publishedAt": "2026-06-04T05:52:46Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian is pushing electric truck performance to a whole new level. With over 1000 horsepower, incredible acceleration, ..."
       }
     ]
   }
