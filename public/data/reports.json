@@ -11698,5 +11698,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T18:18:28.740948Z",
+    "timestamp": "2026-06-05T18:18:28.740948Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 6,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 26,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "Rivian Automotive Stock 7-Day Winning Spree: Stock Climbs 26% - Trefis",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian Automotive Stock 7-Day Winning Spree: Stock Climbs 26% - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVlvODVPTVRuMlZzX3BrRERnWE1pejdaS2xZaHBqeVVSQThsTHFCN0hPbmpJQkE5ME1tVzNrNFNwTlptelRRODEwN2VKalZNMlZ6aVVZZzlWN3RxY0FYWEtEUE5mM21GMlpsYWNEREoxa3R6OUd1ZG1Vdi1fbmY2Q21Na0xFVUhsN1lHX3NkY2QtRVhNN00yYkZHQTZpeDFFZnNRS2V2dmYzY2xYMGxGbUUxaENpSUdwNHhIWG5ZMDZNU3ZhX1hPRVRR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 30 May 2026 05:44:52 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Stock 7-Day Winning Spree: Stock Climbs 26% - Trefis",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Releases Fourth Quarter and Full Year 2025 Financial Results - Rivian",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUE0N0dlRERCVHUyc29KZzBCXzRwZFFIanhWdGZJaW9Ndi1rMVY5MXdTTnFjcjVzV2dmeG5GRXRLajRJcGJab2tyLXZ5MWtKczhuNkhLZS1sNFF6V0JLZzgxclE5MjdWLTBNT0pycDZSRXBvVDl1X2U1NnpBRTRSaG1vQU9DOTlRcmlqNXdYSlo3N0xVUktjU3I1RV9fUW05?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Releases Fourth Quarter and Full Year 2025 Financial Results - Rivian",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Rallies 8% as Tesla, Nio Stall: R2 Launch and Software Growth in Focus - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObUZfa29qbnRlekRFYlVfWFJwT2hBQUR0OVNVTWhiTXhSWl9zMng4VHNCTElBNUQyem9lalpaakwxWm5rXzFPS3dBbjNiQzZRZG9mTHdEZ0NfRElmc3BWcTljNUhKcTA5Z0pjbXNWcWJiYnhIc25ma2VUSWhpMC1rUnd6Mjk1MG5TN3dOSlNqTVp0TzMzR3hnR1NvektHR19ybHFzak1vWGlyZlpXTzZ2VU5mTk5yOFNROFE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 29 May 2026 17:00:57 GMT",
+        "score": 0,
+        "snippet": "Rivian Rallies 8% as Tesla, Nio Stall: R2 Launch and Software Growth in Focus - 24/7 Wall St.",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Valuation Check As R2 SUV Production Advances After Illinois Tornado - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0N4b0JMRGlMb093Z2N3V0htSm5wMXB4OHJFcFQ2dXJMdDVUeWJfNnVOeDI5Y3d0V3V1OUt4WWhUVGxGd21QbEIxT3g4djFaZFZ3QkVBNHB2UHk4dkRoNWRSWDVBbFBYZlRmQmhhMUQ0UThna0VRaHJxWlh0WnBsQnRMb2NjLWtScWJNT0Vtb3ZnS25SZXhrU1VlNHpDRFpiQ0Q5d0Jn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Valuation Check As R2 SUV Production Advances After Illinois Tornado - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObTBZMmlYdlJiajItSnExQllLMHAxcDFScThTdDMtY0ZNeXZXQ011eTlSWndGNnRJMnVJU1JsNTVLMG1YTFI4eUo1cVBMLWd5Ry1mMjlkaFBNb3ZYdVg3ZXAtZjJBVS1iZHVmZFhla1pOeE1QT3lQR2dUMUZCM1VnYzNxV0tfa1MyVS1IcTRlWGFEMndWcFdaSTkyQ2hxdEs3N2ZLY29XTF9hcHRyMTdPUVZhVE1NeUV3eS1MaXBWa2dLbWJTeUhhU0lyZldpVURyTXZR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 28 May 2026 13:48:54 GMT",
+        "score": 0,
+        "snippet": "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVklGTGN6aXRzNmxfcHI0YVVuMkYxWnRPUU84cWY4eVlkWGVOaDJFSjI4Z2pFcE5aV2ROdnVldVZ2MEZucWQtZi16d01yQ1ZqS3ZGSmdGemZaMjF5Sks2Y3pqRkF2XzdwOW9CWEVwVTBLUk9IM0ExbDhHQjNnU1A5OHhZcw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 15 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now? - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian announces R2 compact electric SUV aimed at volume sales - CBT News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbkVsd1ZNXzZLVFp3TWFhRUQtSWFvdnBxVDhkOEVqdEQ5UjR5RVBfa0J4bU9XTzBzTF9pX2lhYzVkVnBSSjBrM3dvaF9tX3h1UTBFcQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian announces R2 compact electric SUV aimed at volume sales - CBT News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Down 31% In 2026: R2 Launch Catalyst Nears With This Latest News - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRmE1UDhIZ1Q5YUxhYkdhVm9OZEk0eDdsT2xieTFMdF81NGdya3RFdTVjRkFCbmVPUVJKY2tpblJNQjN5Wk43bWVBb0s3QW5pSnFUMnhTQUROLS1yazJ1NVhHLXZMVVFpY3hWSnhFOUZ5dFpfX0tLaTZ6bUdfWXBqbFp0NElTOXhER3pRR2NmNWZraVdNLVJSNWVHOGg5VnVFVDdPQko1eGNFZElDQTRqMTNWZFNIYXducF9lVHhMS0RJcWp3anVRUV9pTlhWWDhoTF96Tmx0Zw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Down 31% In 2026: R2 Launch Catalyst Nears With This Latest News - Benzinga",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Starts At $57,990, But Cheaper Versions Are Still Coming - Carscoops",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qMmpLa1A4ZGtRYW16UjdIZXZTaVYtaGVFUGpMY0YtNDdIWHdUZ2oxdGZKem5UR1RFcUpBdDlwLWc3RVZsaUVXYUZYbW9RdEM2QUJyd2k3cGxTSk9LZl85bDNkd1BWTW1R?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Starts At $57,990, But Cheaper Versions Are Still Coming - Carscoops",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian hints at new R2 variants, including a pick-up - Automotive World",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjVYNVpQQTJDbHNaczc3MFRWUVRFdjZKOHNsdjlCYzIzQVlHMzBIQVFLc0QwZDRMUmk1ck9pNkFJUm9RZWVvdDF3RmxkUy1zV1NIMVVSbUZkbGNNOW9rNXlKWmt5dTgzNklmdWtKTUVXY2FhYjZDY3NZdVlvSHMtbVB4UVZMQ0Z0c2FtU0NpV2dMcnBMZzFhT2EzUQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian hints at new R2 variants, including a pick-up - Automotive World",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The $45k Off-Roader That Could Give The 4Runner A Run For Its Money - CarBuzz",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOT3hGYjFPTVNkaE5KOFBsdTNxZG1EU0I4MVJyVDczenYtZmdzdUVNRnZyOXhVUFNqN3pWU0JnQUx2Z2IwbzR5SzNRd2RoMzk5LW1TRDM1VUNmdUpuMThVQTl3VjY?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "The $45k Off-Roader That Could Give The 4Runner A Run For Its Money - CarBuzz",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Finally Revealed the R2\u2014and It Might Be the Perfect EV - Outside Magazine",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2dvX2hNNzFtVGhIUWtvNDJRT3JKSHJLQnVaY1ZWaFRfOU5KYTE2QUY2emlvbEdBNUVMY3JneVJhYy10MkwwUHRFS0FhejRDT2psZUtLMzFsRGJuUGRvRWFoOG93YzF5RmY5R2dIa3dnY1dDUWM4LU1FSHZxMTZyZVMyNm1KMFlkNUUzU0MtYnE5VjJNaDBxV3Rhcklaa2pR?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Finally Revealed the R2\u2014and It Might Be the Perfect EV - Outside Magazine",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Narrows Loss Ahead of Plan to Boost EV Output in Georgia - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDlQSEdBQzNOd1gtNWpNdXRMWE9lajJySkduZk9Rd0lNVEFvUTR0eGpHNjBmbXR2cTY4YXcwckdnYlEyM1Ywb0dyY1RqRElHSkZzZ1JUM1E5V2lBOUpkMEU1YjYxZHpzMzVERl9NRkswelNQMG1tRk5mT0pETnljTkZZbFVvRlNINDc5anNuZlN6NEgtTnd1bVd6Rkp3WVFDZHRzQzQtbnNmZTlUVmotNlF1UDc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Narrows Loss Ahead of Plan to Boost EV Output in Georgia - Bloomberg.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 SUV Lineup Trims and Pricing Revealed - The EV Report",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fT3BUV3JIRXRGYnJEQTJlUU1vOUdweERkVGdpU2xNX05zX0NfYUppRmtfcWZNNFl2RmE0cHB3ZlNqUjd3SnhNLTRSX2E0X2Z0eUN0Nzk0WWhHU2R5alVLclFubkRqMkZBdDJmYkUtem92ZFltcWdaRzlzdw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 SUV Lineup Trims and Pricing Revealed - The EV Report",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Rivian R2 Configurator Is Live, And One Customer Got A Glimpse In California, Seeing Even More Than Company Let On - Torque News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEFBcjNlT2tnOGNOT1luOHNTUVNRRzZxa0xuSlhfeHdqYXRyeV9KZlBhdUt4R28tLWg4WUkyeWpUclhRRG54dkwxOVFwREVKR3NSTTR4cDh2enZ1UzF4ZHp4WVlPV1lFRGRuRklPVlFEejJITUlmRVNDRXlRU3ZYd2pSd25wTHpGRFpKdVdkdnFQaE8zNHE3Z1JIdVBZdzR4QnRaNURYclNiQV80Y3cyLVhXbmlnRE9IdXlwU21zUGxmdw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "The Rivian R2 Configurator Is Live, And One Customer Got A Glimpse In California, Seeing Even More Than Company Let On - Torque News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Rivian R2 leaked range and efficiency specs reveal a surprising SUV - ArenaEV - ArenaEV",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1htTC1MNERIOVd3UkRJRDZIWFVvbkZGNHJISDBtLUJudmJFZDdpeld4emhldUlNUUloR3VBa0FrYnNITGNISUo4OUExVHF3SjhxMWJxMjdRS1VtakRtTDRlMHpQTjIwNkpjMkpjVXJvcWZHYkQyYXJlYnFnUWJtMnljSUhINmg2c1R0WkNUck14dzBLRTBrR2gwMDV4OXlDbnJQR0hNTFVQU1JMX3fSAaoBQVVfeXFMTUhmejZmYWZfcDZaZl81elhEbmJZQ0w0dGY3YmhacFg3SEhVc2tSWmNSTnBsUGZ0eDhhMFJ5cW9rUUJUM2FYaW05WjdlTC1VM1ZJZkhWM0pPejEtZGpGRkY3R1k0RFpnYUFrQ2xSdjJhX2NNYllnbWVzQU5SUkF2UVNJZlZGVXBwYkV6aFc1R2xqa09SWmlrWk9HMktNbTJ1U1BURUg1RnQ1T1E?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 07 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "The Rivian R2 leaked range and efficiency specs reveal a surprising SUV - ArenaEV - ArenaEV",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s More-Affordable Model to Debut With $57,990 Price Tag - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3dSZFJqNi1zY1ktVHhtVFhMVjBzYnl3TTJQX0VvOGh4SDIwU28yT0xSb3A5WTZNZWdRNV9tNUlZbl8tbWR0WXViQU90Q3lQQ25sU2pZRWFUXzQtV1AwMlZpbkcwSWF3bHRiX2xudE5ZUjY4a0Q2d3VKZ1FPU0JNLU1pODFVb1daRTNHVVFGbmp0NXBXMml4NnpmSVMwVGNEbE1FUzI4UEFBVXVwcHVUclJR?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s More-Affordable Model to Debut With $57,990 Price Tag - Bloomberg.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO hints at new R2 EV variants, including pickup - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KRHMza2g2cklpWU9meFowZUU1SkdpQXgwbzdSMjhrMnFMdDNkYmsyUUdnaFRRUUJZU0lGdmZkbFdpQ0hpQThOaVZjRTlxQ0xhOVF0dEtNdHdlczdrY3JHRFVnMjk3UkVTLXh5UU5MZ3QwRWU3S3hJ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO hints at new R2 EV variants, including pickup - qz.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 electric SUV lineup promises $45K base price, whopping hp - Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWxpN3A2clM3dmp3bTBrODdwUExUajRlZW1KOWhKWnlodlMySXJJUnVMUTFXNXNJaWtvbXMwV2VHMng2N1FONUU1c2dHdDVkbXVEbDR6ODNTNTNaLVlweEtDRkJLZWdpeHRjajRGRmdTTU1EcUFuXzhHMmFsbm9NRm5nZVdhd0oxUGJBYndpMmc4S1hDY0hqdDJuczI?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 electric SUV lineup promises $45K base price, whopping hp - Yahoo Autos",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "With Rivian R2 In The Mix, Rivian Slims Down Its R1 Vehicle Lineup - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWFGV1ZxaHNzOHA3LUNOU2JvYUVfdDkwOHRPRjB2OU5YRXdhNFJ4MktvX05zejJBdk4tVG9SMHQ5NFlOVmQyUzlpMmliNXVWaEdNQWVSV3NXdlk0NFZrRXNTWF81WnNQVklkQUtobUJIS2Z5OXBmOGptZW1PM1M4SW04MHl4WWNYdEJoTm1FaWFWTmF4b2I1WURDbjdRWHYtNDZuckRqRDdqYldQS0NCb0E1ZG82RG9FUUE?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "With Rivian R2 In The Mix, Rivian Slims Down Its R1 Vehicle Lineup - Forbes",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How to See the Rivian R2 Before It\u2019s Available for Test Drives - Cars.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEpjaC03REJjZGhFelVTY3BiZHRRR3EtSEREcGtUUUxlOENMbzdoaTQwX2ZXUElvOHRMN0RjX3BWT29pNWhpNHAtTzRFOU14RXhrQWZSaU1NdnRfWnVpVWkwX0g2Q0J6UmRwMXNybVJ4WmU1ZHNJZGFVOHlJQk8zQ1lWcTZMR0hJelZ4QVFtQW1Bak96ZlByX3luU2RmbU8x?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 14 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "How to See the Rivian R2 Before It\u2019s Available for Test Drives - Cars.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian unveils the new R2 electric SUV as it looks to scale up (RIVN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX1QwWHMyZWd4V3lZNzZNZldSVVJsaWl4NkZWalRDSjZPaUdKYTA2YlhtV3R6dEtMTUMzOHpzR0Vod05EMDMzVTg4aGFWU0c5c3lQclN3TkJsV1ZfdGhWbUhlTXBqVEo3V2l0d1NWUmVTWmRobDNTWlpmVkprX09lQzRXRURmVlFYVEJoeGZtQ0g1bkFpWmh4NHJnSW41N3VrOXc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian unveils the new R2 electric SUV as it looks to scale up (RIVN:NASDAQ) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2026 Rivian R2 Buyer\u2019s Guide: Price, Release Date, and What You Get - The Weekly Driver",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5US3c3YnRsQXRhRWhUdHh5anRLUy1DNDF0VERDc3R1SGZ5WXlybkNuSTJyR0pBeVVJVW5IVm5uZ05RMEpvQmR5Q1JwVHBIRlYzN1Z2UmwwSTF6eE83RkdBRC0wbGZnbWNwVjNXcF9GTFc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "2026 Rivian R2 Buyer\u2019s Guide: Price, Release Date, and What You Get - The Weekly Driver",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian is a buy ahead of R2 electric vehicle launch, says TD Cowen - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTF9CVEdjWGhMTG9xd05ab1JpV1ZlTGIyN3dPRm5KaFQ1NVFrMU5xUDYxOXM3eGRRZDJ2YlowckFZUVBSd05xUExEUFZxd2JkRC1wT3FFU3lFS3J1MGdZQ3hPdHZ5UWFDaUNETXVLS3h5RlotZ3pzY3RudWhGdHlEWmdwTjZyVTVVSWVaYjFMRWpoTzQ1UVQtWXpSOFN3SUtrMGxDZA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian is a buy ahead of R2 electric vehicle launch, says TD Cowen - CNBC",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 price fears grow as the promised $45,000 starting price disappears from the EV SUV\u2019s website ahead of launch - Autonocion.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45MTJCZzNoY001MXhlNF9xQUJXaVp1RVFDRzNqM1ZFNHc2Y2c0MzlZM3Bfc0dadEJVcXhmTG1XM0VJM0VRdVU1YW92WWdXOWhSNGswUElnNldiVkg4cWRTNVl5WENFSlk?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sat, 07 Mar 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 price fears grow as the promised $45,000 starting price disappears from the EV SUV\u2019s website ahead of launch - Autonocion.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "3 Reasons Why the Rivian R2 May Not Be the Company's Savior - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhd1NkTXQ5UjZidURvUDJLM3ptbHZWZ3NmejkzUVFqeW00NmtUVlBNTHY1WEpJM21lRmI3QjJpUFJMWDVWVGViZi1HdGo4M1hkM1V6Vk1JOW5GN3lHZ0JmVTRPWE9VejNaeWY0VnNlRTZLWVg5Yjhr?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 14 May 2026 18:03:27 GMT",
+        "score": 0,
+        "snippet": "3 Reasons Why the Rivian R2 May Not Be the Company's Savior - AOL.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's New Autonomous Driving Tech Is Boring. Here's Why That's a Good Thing - Edmunds",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmRuX0lZaUJ2alRKZmJFLUV6OFgwVzYtbXRwczEwSTF4bG1XTjR3NE5UYlVYOFJMZGNxNHJDbTFYdG1DUGZiRkV1N3hQRlUxbUl1VEpyY3lWREJ3N0t1OXBvdGlZRFh6ODd6Ny1BVmxiT2JTZDNpcUdrQWxDMWxieVdHSF9KU0Ja?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 17 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's New Autonomous Driving Tech Is Boring. Here's Why That's a Good Thing - Edmunds",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Custom Silicon, Next-Gen Autonomy Platform, Deep AI Integration - Newsroom - Rivian - Rivian",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTgwbXM4cDhaZlpIV05BOFA2SjZxaEU2a1c0ZV9fSGt6Slp5T2JhWmRJRE1EOFhnc1o4YmpfOXRnOUNQNUFIQ3pGWm04QzNoNlR6blFadkZHYV9pbDZlSWtjUkNKUzd3QjJqNmwzTFZWcTF1cG84clNXOWxKUlZ3anVPaFl6ck5fOVgwOU5FMnFQYWdpUEhicUlGTFZubTRseHFObzlyN0dtc1FaenR6S1hB?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Custom Silicon, Next-Gen Autonomy Platform, Deep AI Integration - Newsroom - Rivian - Rivian",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's New Self-Driving Tech for R1 and R2 Beats Tesla on Cost\u2014Big Time - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHhmamRlcEIybTIwZjM0SGJQOUpneDQ0MXRvY0lTemxuVGJCNENSRmVuYkh5Z0kxQ29lSDhIMGZIemtZU0RseU55TE90UHV3NEZtU3VZWlBUblczRVJhRXJKNTZleDJDNFhQZHhtZENhbXlPOWo2bHpOU0s1RTV3MTd3NXdCeGMy?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's New Self-Driving Tech for R1 and R2 Beats Tesla on Cost\u2014Big Time - MotorTrend",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Tesla and other EV makers push driver-assistance subscriptions \u2014 even as consumers push back - Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXdhSHM4bFNBcXVNRFpOVkdSWUVjdjdESkZsVmkzcjlVcUFoMGFHVFFUZzQ4TDVkOC05clZwNENBNEVhdHdLWkpWRm84MTdVX0RCcXo3UDVkek9YRGs2YVN2QWxQYUlDa0lvTGpfNXNhVzFKZGQ5SjVRZkpEWnJqcDlmYlA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Why Tesla and other EV makers push driver-assistance subscriptions \u2014 even as consumers push back - Automotive News",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Launches 'Universal Hands-Free' Driving\u2014And An AI Assistant - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43TWFNZ3hQQkdvQXlYWFBoVHFQV0h3bzBCR3lJOFJqQ1NOSGlHTlVaemQta3VjbUVBeVFobWVBVWRKaXdobnd5bHEyMG5iWmd2aG9kU2JNbVZYeV96dXhyWnNyQnZkTmo2UlE0VQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Launches 'Universal Hands-Free' Driving\u2014And An AI Assistant - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian announces $2,500 Autonomy+ self-driving upgrade, reveals new AI chip to keep pace with rivals - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ04xLUhYT1U4Q2UwSDRvT1BNTWdVbDNpV3MyQnctVk5TcmM2VTlyNmgzQkIyOFRQempMdXpTVkp3NkhFVHAweDdPVFQ0UHpfbVROWlNWQm9CMXVzS2E3Y2xPN25fUWZIOVR2SzNXUm1qdllPMVozaUE3UnFNSGxMQU11dzZmNDRlU3pWRlZTenNFT0ktbzNlSEJDSjE4cUQtOFBvYk44RGZqOUtaVndHY3htRVRGRDhtRi1qVTd1VGZJSDVSY0hQODZ1UXFyU05MSjNYVUhEa1A2UQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian announces $2,500 Autonomy+ self-driving upgrade, reveals new AI chip to keep pace with rivals - Yahoo Finance",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s Hands-Free Driving Is About To Get 2,492% Better - The Drive",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnFiNTYyVzFZZUZmNGRLN0htY2FHLUZheTdlb2p2SDhqNVR2VlVLcUlmcW9saWdjcjg2TWM4ZjdTcERqcGpuUlJ4QUVoNTRFTVVSU1NaRVpZb0tKWHNRajduNWMwZlVWdjFaNllid1dPbzVrMEtkci0yYUhwYnpNWEJ3ajEwbmNFVDRpSw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Hands-Free Driving Is About To Get 2,492% Better - The Drive",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian unveils AI-powered driverless tech with big upgrades - WardsAuto",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaU1xOXRRSDBiZzBHbHJFR3RHNTRHVEstOUdCVm9NeXpNb1NKNDdxbEZ6cmJZU2RSZUFLWUJhMW9jMkVDUEZWMTZsWEtMemhlQ2tJcEp5SWR4SWJxdzBYN2tWX2JSMjZRWFFSRDM0bFhIbXJNWG1XUUduT2R4MEhVdzhDZHdGMzhzNXRSamN2RUZfOEZOaHdvSlJSRDRyNWRlVUxoSA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian unveils AI-powered driverless tech with big upgrades - WardsAuto",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How Rivian\u2019s New Vehicle AI Competes With Tesla - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcXd3bEhOWE5BMlF0WEVENHI1RXh2SE52SGowNHZLTnhRWkY4anJjZnFyb1c0YzFPaGZDVHB5YVQ3N0xZZkJINnA1RURqcnV1S0J6VDRyVWZpeVZWQTVPMkNxNVhyb0o5SHpydmllSURFQ3I1Q1dmalNWNGdlOVoyZWUxTFdqY0lDYjNTbFVqOWdvVWRubzRCMmxSSE1FSGxPVFBUX0VYUzJpcTJ4U1FjZWpVWjNSa3dlV3AyMmhPeXVOdw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 28 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "How Rivian\u2019s New Vehicle AI Competes With Tesla - Forbes",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian unveils custom self-driving chip and Autonomy+ package, shares drop 8% - CBT News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanY5SEg2djVfcy1ib3dTX09ETXJQczdaU0VyNjcyN0lBUGNWSFdEay1OY05wcGFzSVNVZHZEV2JaVHpnNTFYT29YQ29pS09SbF9kUkZSdVlFT25PZjBTZExXZ19aUmhmUk5XS0RLOXQwLWptOU1jUk05QkVGalNtN1p0ckR2Wlo5cXAtN29vZ25WSzl2TjNQeHVwMC1qZ09L?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian unveils custom self-driving chip and Autonomy+ package, shares drop 8% - CBT News",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Is Stepping up to Challenge Tesla's Key Technology: FSD - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmZSb0wwT1h2dXkyMTNoSnI4TUNlanJsUWFUTU9YZFVyVDFCQXhleUJhNFkxbFcxMTdhdEFta2RvR2dLRkh5M0FCUzBDakpPQ0ZyaXdaQWdVbC1hVjJNUzZLdm1SYjAtTlFsYS12TjFfTkxZSVpNOThJVlQtcWZMQllaOVFITnNTS0Z6SmRMTXltQkdqTC1LTnl2cDFiUQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Is Stepping up to Challenge Tesla's Key Technology: FSD - Business Insider",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Opens New Level 4 Self-Driving Role Tied to Next-Generation Platform - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHYxNHE5OGpZY01mb1BLQl9TczNhSF9IZW91OG5VNmZjNm1HNWswZWtqc0xNZFpBS0lOM2FfY2l1ckhNa0hBM3UweEFoUjBybWdVYzNkakxkUkhCQWhUdUZ0b0JWdVhmYm14bWlmM2JrMF9TSEp2VlZHdVpfeGlUUnB3cmM3YUpXSS14MGhEVTFqZV96YlpyeDlXVS1FRmFlQXY4Rm8tVy1oUlNOTllYc0p3?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 17 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Opens New Level 4 Self-Driving Role Tied to Next-Generation Platform - eletric-vehicles.com",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian to Launch Hands-Free Semi-Autonomous Driving Subscription, AI Assistant - Cars.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXNOYXVLZ0ZjN09ESF92eXpINVBQM3FxZmZ3LW9tMG5ZZkJEZGJWaEdOV0NITVo1c1hDYXRXREVLOXdTNjFNSlhxYlU4ZTYtOUZpRUJwaFFrQ2NjemdVNlBFQnV0VzE5SEhhb2ZQQkhFX0lVMlB6Q1N3YmxabGhOZTQwdjl5R2hBT0VLQllacTVINDU1NlkyMkNONlhEdFk0OXZMYW51RXpROGFGUnRSOV90OGJxdw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian to Launch Hands-Free Semi-Autonomous Driving Subscription, AI Assistant - Cars.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO says the EV maker's new large driving model could land them a spot in robotaxi race - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXpPWEJobzFJd3BWUFVraDNmOWJZRU1OVG8wQjBKdHVHZWV2bHJMck0tU29fbTRIaXNFTHBtNWdPU0c1T1VvVHpmdnBTbW1ITE1xZWJIT3p2TGxZenp1R040VWo2a3lBUlkyNmo1TTZubF8ydzNmRnkxbngyanR6eDFLNm95b3dHZzF2NlgtVzRWWEU?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO says the EV maker's new large driving model could land them a spot in robotaxi race - Fortune",
+        "category": "software",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
