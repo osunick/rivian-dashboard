@@ -10360,5 +10360,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T18:10:37.740878Z",
+    "timestamp": "2026-06-05T18:10:37.740878Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 28,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEVWY0hhZEJtSG1ROGI0emhaaWhiSmV3T3B3TnJ1OW9MVWlxOWVZYTdsenFsMjBIZV9PZ3ZaTHlJWjA5TmJTdE9zcURGWm1hTUdWTm1uU1lzZVRFR3lrVHlXRTNmRTI0czUxVmNVVD",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Better EV Stock: Rivian (RIVN) vs. Lucid (LCID) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEVWY0hhZEJtSG1ROGI0emhaaWhiSmV3T3B3TnJ1OW9MVWlxOWVZYTdsenFsMjBIZV9PZ3ZaTHlJWjA5TmJTdE9zcURGWm1hTUdWTm1uU1lzZVRFR3lrVHlXRTNmRTI0czUxVmNVVDVrczVYV3ZFQWgxdHhxUkNuM2E5aEhFb3dCUGNHdWxpbUxEQ0FBRlNR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEVWY0hhZEJtSG1ROGI0emhaaWhiSmV3T3B3TnJ1OW9MVWlxOWVZYTdsenFsMjBIZV9PZ3ZaTHlJWjA5TmJTdE9zcURGWm1hTUdWTm1uU1lzZVRFR3lrVHlXRTNmRTI0czUxVmNVVD",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Flashes Death Cross As Tesla Model Y Rival Nears Launch - Rivian Automotive (NASDAQ:RIVN) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1JQS0xiR25hc0U3dVRIQnJrcGVfREp6bG5sOVpnVDQ3T0NDeWo3emZ1NS1CU2JPVDFrWjhtQTVMWnUxUi1udmplRmtaaUQ1RUJtcXRaeWVxTWRWZHFJZXBzY3V1N1dwZ2MwVWstRHA5YktzVmxrRk1NWVFHeDdOV3RMS25uVWV3RkRSQnhRaXBfSHpfTllQM3pfSk8wcksxUDdlYnNVZkkzMC1RWmFNejV4ZWxZdTE2RVl6V1pBcWprRDNsT21QZHNWQ2dNQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1JQS0xiR25hc0U3dVRIQnJrcGVfREp6bG5sOVpnVDQ3T0NDeWo3emZ1NS1CU2JPVDFrWjhtQTVMWnUxUi1udmplRmtaaUQ1RUJtcXRaeWVxTWRWZHFJZXBzY3V1N1dwZ2MwVWstRH",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Uber and Rivian Partner to Deploy up to 50,000 Fully Autonomous Robotaxis - Rivian",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0syblVwRUhrTHdEaDVLejM3Q1VBZ21ZNzdlOVoxeUFYRVgtc0ZOdHhaUnhNZl9lN0doUFR0b3lZTDZ2ZkI4SkpiTFdLSXFaRXp4TkRsQWpwUlRuaW14MFIxVjRuQkF4aS1iWEEyWEZnNVZoQmtoTEFSSGtRTFpZc0NHSUVJLWh4WmhjdUZMTm1MWFhVOTJzUzRsbG42c3BBR1owNy1LcFlfLTMy?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0syblVwRUhrTHdEaDVLejM3Q1VBZ21ZNzdlOVoxeUFYRVgtc0ZOdHhaUnhNZl9lN0doUFR0b3lZTDZ2ZkI4SkpiTFdLSXFaRXp4TkRsQWpwUlRuaW14MFIxVjRuQkF4aS1iWEEyWE",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Clock May Be Ticking on Rivian Stock Under $15. Is Now the Time to Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFd6QTJiVGRpQm9YemJxNDltcWJuY0xld2lTaGRWY2xVdEJYdU4zSTdva05YeHpZTnlhbkxCNUJhZXotRmYxZGx1Qm95N3J4MzV6WjRfUk9VWFpJTHd0ME9QOElBT05rWWNPcy1QaXloS0RSY2RxRTNJY1NEZktPOHZCdnFIc3dHY3M0Y0RJbXI?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFd6QTJiVGRpQm9YemJxNDltcWJuY0xld2lTaGRWY2xVdEJYdU4zSTdva05YeHpZTnlhbkxCNUJhZXotRmYxZGx1Qm95N3J4MzV6WjRfUk9VWFpJTHd0ME9QOElBT05rWWNPcy1QaX",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) Partners with Redwood on Battery Storage Project - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUtxS3lkM0xCaHVOSXZ3ZWFFVzZOdnVaVHRtdzN3VE1ud3J5dHhsVkNZNTZKbzVpLWp1UXZNTi1pSXBMakFJa0dycHRscVoyX2I1M0xjMWNpdV9IRmV2SlNnUWMxbk9JZmh4a2VZZFg5SVFkUDdFMWVvVHhYekVQekRtSmNyMjcya3JZTlhaY1VJcTRXclNzWmdQdnRQa0N6LUdF?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUtxS3lkM0xCaHVOSXZ3ZWFFVzZOdnVaVHRtdzN3VE1ud3J5dHhsVkNZNTZKbzVpLWp1UXZNTi1pSXBMakFJa0dycHRscVoyX2I1M0xjMWNpdV9IRmV2SlNnUWMxbk9JZmh4a2VZZF",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Is Up 6.3% After Reaffirming 2026 Deliveries And Securing VW Software Deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXpMWDVVUTFZSHhBSktxZk85NktmYjF3ajJTLWZYeXF3cjEwV2ZLUmdCNGlta1MwOWlNejFlWFVQckFUbDN0Y0wtb0FaS084RlIxUFdJRXhtSk50dXVKakVXMld1Q0VWdVFqTEhuTmJpa1hJYnJYcFVDS1daRzVlMVAtMTM4T3VyRk0zT21Hb3UxSUh3YUE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 06 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXpMWDVVUTFZSHhBSktxZk85NktmYjF3ajJTLWZYeXF3cjEwV2ZLUmdCNGlta1MwOWlNejFlWFVQckFUbDN0Y0wtb0FaS084RlIxUFdJRXhtSk50dXVKakVXMld1Q0VWdVFqTEhuTm",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ: RIVN) Holds at $14 as Volkswagen JV Provides Crucial Capital Lifeline - foreignpolicyjournal.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLTdGRHlUbmRPdnB6cVM3WGtXWEVjNTl6MlBldVhnQzJoM0k2b2tDT09vU0R0X1FyX0FFRVhPeXFQd3ZTb09KTjVGdVVIWkhacGczb3FTX2gwUHJIWTdjeDMyWVkyYlkyd1JsZlp2UWxhUXFzdWlaRFVWSnk5eThaZFNPT3IzRU9RU3VDcW8zMDRaSzdic19tdVpCallUZDhRNEdnX3FxVzRlZDd3NVZNT0daVGZ3Y1NYajJxY0JVdWlHUUF5UjJ0MVFkWGxTbV9LQUNNckk4MGI?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 24 May 2026 18:43:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLTdGRHlUbmRPdnB6cVM3WGtXWEVjNTl6MlBldVhnQzJoM0k2b2tDT09vU0R0X1FyX0FFRVhPeXFQd3ZTb09KTjVGdVVIWkhacGczb3FTX2gwUHJIWTdjeDMyWVkyYlkyd1JsZlp2UW",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive, Inc. (NASDAQ:RIVN) First-Quarter Results: Here's What Analysts Are Forecasting For This Year - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3U2ZVktZnpkRVItV1g3SG12SzhJWGJwZVVGVm1qU3lMN0ZsT2xwdGVrQjY2TklOSXhNQlpIR19MZWFjU3YzUkVTVkl4OUxVbDVXcnp3dlJlVFBSOWRFOUhYUmM4cFJjd01rVU1PcEF4bWtEeFdZYjUtNzdIdTlyMmZfTDZtTEtDbjl1YmtITDNaUWdYZFBldE9sV056dzA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3U2ZVktZnpkRVItV1g3SG12SzhJWGJwZVVGVm1qU3lMN0ZsT2xwdGVrQjY2TklOSXhNQlpIR19MZWFjU3YzUkVTVkl4OUxVbDVXcnp3dlJlVFBSOWRFOUhYUmM4cFJjd01rVU1PcE",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is Rivian\u2019s R2 The Pivot That Could Reprice The Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUZZSFY2bU41Qk9aVGQ4ejZKMm1RWjFRM01xMDlaNTNYTE13OXNjXzVyQnUtaUNtc3ZzV2MwSWw2X2REenFWY3l6NjR5NzEwN0s2bHJXR2c0N2hWOWdZVFhRZUlHV1hGYjBRZUFuV0NLNWhnYUJZMzVjSzlQUkR4aTNlY3psRGpiVUw5OGgzTW5fOTNENEhPaUxpcDdBMnJDaENNVE9wd2t4VEZud3c5Q3YtQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUZZSFY2bU41Qk9aVGQ4ejZKMm1RWjFRM01xMDlaNTNYTE13OXNjXzVyQnUtaUNtc3ZzV2MwSWw2X2REenFWY3l6NjR5NzEwN0s2bHJXR2c0N2hWOWdZVFhRZUlHV1hGYjBRZUFuV0",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Top 5 Analyst Questions From Rivian\u2019s Q1 Earnings Call - StockStory",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblBmYWgzVldpSy1fWjVQNkJPRU40MUdjREg2TWZZRE5DM2l1UFZTdml6bVFtX01JWmxwcUNjVEdtLW5aUWNNNlFOOWxOWTFKYUFWX21lZmduMnhMWHhZM3JWZHVmMzB0UWczMUNUNXViWjR3STR0dEgtLURDSWJqM3NLMDZrSHlzQktpajJodFdlLUxHVExWekRBV1lHSmw0ZjRJOVlxVFpwbHctUFduNUUycXJreTdhcW1JWjd0Vlo?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblBmYWgzVldpSy1fWjVQNkJPRU40MUdjREg2TWZZRE5DM2l1UFZTdml6bVFtX01JWmxwcUNjVEdtLW5aUWNNNlFOOWxOWTFKYUFWX21lZmduMnhMWHhZM3JWZHVmMzB0UWczMUNUNX",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) to start R2 Deliveries with $58,000 Launch Edition this Spring - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamE1QnN4STQtRDZXZGFwX3F4T1FvaGFhcVBQV1E4VzZDQ3czWTZFbm1FbVFXY3ZHU0tQdlZCQ3p6Q3c1bE93bXozNFdmQnFPRU9uQ0lFTXhYQVFoNHh3VTEwOTBLUjZGc25yT0w0b01jM29kRVpUamFEUzNrTkt1Z3FVMTNueGZ6eldKNWJMTWt2SlBHNU8zX0JsMk8?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOamE1QnN4STQtRDZXZGFwX3F4T1FvaGFhcVBQV1E4VzZDQ3czWTZFbm1FbVFXY3ZHU0tQdlZCQ3p6Q3c1bE93bXozNFdmQnFPRU9uQ0lFTXhYQVFoNHh3VTEwOTBLUjZGc25yT0w0b0",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVhOU28xSXR0NzZJemYzblBlMm9vQVl1VzZGX0pzRV9WMG80c04zTHdVRmNuakN5N3k0dlRvaGx3TkxuN1dyeWItRU9lZEVOU2E1cTRFV2xEUHpzNGpvb1dSck1MRkVZbm40Mm1jODVrM0ZkaE1OTjN5bmNhYlJmMnZCNnJaeVVlRU5qRFVvaHVwR0NyT2k1a0V1RERyV2c?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVhOU28xSXR0NzZJemYzblBlMm9vQVl1VzZGX0pzRV9WMG80c04zTHdVRmNuakN5N3k0dlRvaGx3TkxuN1dyeWItRU9lZEVOU2E1cTRFV2xEUHpzNGpvb1dSck1MRkVZbm40Mm1jOD",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (NASDAQ:RIVN) Reports Sales Below Analyst Estimates In Q1 CY2026 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTNKbGtxZGk3NGVPTDc0RERmaXdKYndzZVpPejV3NEVZWEhQNkNkUVFwcHlQV1gxbmM5bW13TGFwcEp1eGRVaHpkb2xJUnFySURybEhsa3FXY2xxVVYxejdhNm9SM1l3VEwzRGZFRFBhVWVjTU5ycllVNXlWV2tsUXVYd0xqcmtMbzF4RGw5Rnd0RVlsR2ppRDlfWDhTZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbTNKbGtxZGk3NGVPTDc0RERmaXdKYndzZVpPejV3NEVZWEhQNkNkUVFwcHlQV1gxbmM5bW13TGFwcEp1eGRVaHpkb2xJUnFySURybEhsa3FXY2xxVVYxejdhNm9SM1l3VEwzRGZFRF",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock\u2019s Path To 10x Growth - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm1GWmVOQTk0T0xzTVpWMHlLeEpnSVZEZUJmYXI3T1BTS2lsZkpBdVlqVW9HRjR6M3dWQU0wUncwVHozc3FYcTlPNlZjWFF1REZGeUNZN0l5NXVIdmdOVU5TWUdkd1ZucDlaMllibXZFeG1YOUFISzNTcTcyVl82Y3BrOTFwZldvX2RYTWZSSWdqN1Vmb0E?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm1GWmVOQTk0T0xzTVpWMHlLeEpnSVZEZUJmYXI3T1BTS2lsZkpBdVlqVW9HRjR6M3dWQU0wUncwVHozc3FYcTlPNlZjWFF1REZGeUNZN0l5NXVIdmdOVU5TWUdkd1ZucDlaMllibX",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CFO to join June investor conference fireside chats - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3dKOXdMZDM2dTRScng0X09xR19zSlczWUNtOENsWTRDZ05icHlaTFZ3X19uTjFQcjdxMTZzSFJsZ1p3aHlQNE5PSDhkSWZURFJRbWRzcHRsVTNoMU5TNVBKX1EwbVc0QUV6NVMzdTZQMHU1ZFQtUlYteTQyN3lrRjFoanVrYzlTTFp3V1d0b2RfVzV6d1FOQkxHTklCQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOV3dKOXdMZDM2dTRScng0X09xR19zSlczWUNtOENsWTRDZ05icHlaTFZ3X19uTjFQcjdxMTZzSFJsZ1p3aHlQNE5PSDhkSWZURFJRbWRzcHRsVTNoMU5TNVBKX1EwbVc0QUV6NVMzdT",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN): Buy, Sell, or Hold Post Q4 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXI1cVkzMXRPbkpfN21PNi1oZ1pWVmJROFU4a3VMQk1FUlBGMUtnQjRVRkFja0ZFclZWV1lNSlkyOEhSVDVULXBCam02ZVJyM0xEQVZyc2cxbW9jYkNFRXN5Y1BwZ2NjVTFTaVQtX0l4TmtGSmZkb1d6VWowc2swWnJRMmFsN3RBT3VOZHZ6VThfT3FK?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXI1cVkzMXRPbkpfN21PNi1oZ1pWVmJROFU4a3VMQk1FUlBGMUtnQjRVRkFja0ZFclZWV1lNSlkyOEhSVDVULXBCam02ZVJyM0xEQVZyc2cxbW9jYkNFRXN5Y1BwZ2NjVTFTaVQtX0",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Valuation After Sell Downgrade And R2 Margin Concerns - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG1YajdiQXU0Nm9ZUDZWbUdzclNXNW52MmdWY2tWSnlEUGEyUkxqUVpaQmpsQVh1REFCdlBNMVJxRnhlemNBb0VLZTRoR2pwcnI3dXJNV2pscndPUkN6Mk5wdDRjVFEwYUNuVFF1VzNhRTMzYWtLc3hPYV92ZlBHOTdfSzBVOGp6dTZhSWdKTWd2Rm9pdS1HWHRhQWYweVp2QTlpcnlMeXNXeWltaDJ1aTVRN0MwX25RRGM4RC03OXRlLUh3VWJ6YlpzWEVlekFLTFA4RGNn0gHbAUFVX3lxTFBZSGM4RXltWF94YUtVdk10OVhEYUJtbml5d1lDQmdvUndJNlNuX3FaWUJVU19jRWpzNnBueUtyeFNCQjJmRnNCUHZyZnEyOU5JeWN5WHN6cGtnV1YtODRFWUJ1REs3VS1YTGFoMjhMWVh4VmtOZEFDZkU5NXByRWVKS0k0YVFjT2Vsb0RFSV8tMVEwTjZVUFFlaFJUWFZZclRkd09ZcmU0RWdBTEpoaWhkX0pQb29zamExeFY5ZTJfT0c3a0lORnRxa3Etelg1TEJ0VzkwWlZPUTVQRQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 25 May 2026 20:24:51 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG1YajdiQXU0Nm9ZUDZWbUdzclNXNW52MmdWY2tWSnlEUGEyUkxqUVpaQmpsQVh1REFCdlBNMVJxRnhlemNBb0VLZTRoR2pwcnI3dXJNV2pscndPUkN6Mk5wdDRjVFEwYUNuVFF1Vz",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) CEO RSU vesting triggers 44,034-share tax withholding event - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVpUZ18yUk05NmxfTVdyZ1FFVW5kZ3RSeE5PR1BuMDZNSnR4akF5Qkp4ME5JTFBZZlNTc0tqdC1tUzFmajJVOG5pY1JjSHJSUHA1SWo2bVA4THdwdGRVckJZVDFYU3V0YngxZDFHYjJVeExFdUtabE44Z3U3Z1BlcTBVdHVPQWtKMjJBdkRjQlFxZklNTmlXbnRJRmRRbmw0NHZVLVI3VlJBT0Jid18xeTU0dVpCdVN3NVE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVpUZ18yUk05NmxfTVdyZ1FFVW5kZ3RSeE5PR1BuMDZNSnR4akF5Qkp4ME5JTFBZZlNTc0tqdC1tUzFmajJVOG5pY1JjSHJSUHA1SWo2bVA4THdwdGRVckJZVDFYU3V0YngxZDFHYj",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A $20 Billion Opportunity Hiding Inside Rivian Stock - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjRMcUN4U20tUFhUM2hSS0hJeGkzbmJoZWpCbGZGTVdHZ2xiTTQwY3Y3d1ZLNC15bUwxYk1RQTNLR2NpNTZLZUZaeHhQcXZXajdScjFwNmpsUjR4U1pjNFpja25tNjRZN1RGOXdVM3BCZ3FlNTczMHg1bVpGSzdUUGh5b1Fucnh2ZHFuczlqSW9WRUVpdnpTRDV3aGRUSjViSUVDN0xTVllUbDg4bl94M3lR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 08 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjRMcUN4U20tUFhUM2hSS0hJeGkzbmJoZWpCbGZGTVdHZ2xiTTQwY3Y3d1ZLNC15bUwxYk1RQTNLR2NpNTZLZUZaeHhQcXZXajdScjFwNmpsUjR4U1pjNFpja25tNjRZN1RGOXdVM3",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) director adds 18,000 shares after RSU vesting - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFFvT3pPX2ZrR21qUzBZdDhibTRsRFFfRFc0TFFNNkpzX3FIZ0hZZS0yM05KQm95WGpDaTBMRGY1SDYxTVFzYVVmUHZKTzNiLThiQzQyUUpjWDVjdjhXaXk4ZUhuQXRzODFKZTFHZEZjSzc4OFNKVGRvbG9Xakh3UnppMHBldC1OSU5QUVpWVkhZU2hxcTZKMHVvNllfSUdDZ1drRjg1V0NDN0Z1YnZfV0diRXZQYXFJOVE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFFvT3pPX2ZrR21qUzBZdDhibTRsRFFfRFc0TFFNNkpzX3FIZ0hZZS0yM05KQm95WGpDaTBMRGY1SDYxTVFzYVVmUHZKTzNiLThiQzQyUUpjWDVjdjhXaXk4ZUhuQXRzODFKZTFHZE",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Cantor Fitzgerald and Morgan Stanley Maintain Ratings on Rivian (RIVN) After New Deals - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaV83RmVWbmhGaDBPZ2xSUkRqNFZ5eGNMT2E0bVlyc1Jvd2RUZ0dOQWgtMk9pZkhtTkhYRHFXdnVEQmlVd0o5Z3FUZDh5YVNNTENHUktFbHYzZ2lmQUdGckJWNk5mZHN4OHRtWFFSUVJOMUVFTUlnVy1kQzRyTkNXTXpkNUFpT05fOTRMRHVRT2VoZnpwcTBNUkVyc2Y4aE16b1MwSGRjcEFwQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaV83RmVWbmhGaDBPZ2xSUkRqNFZ5eGNMT2E0bVlyc1Jvd2RUZ0dOQWgtMk9pZkhtTkhYRHFXdnVEQmlVd0o5Z3FUZDh5YVNNTENHUktFbHYzZ2lmQUdGckJWNk5mZHN4OHRtWFFSUV",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "NHTSA Opens Investigation Into Rivian R1 Vehicles Over Suspension Failure Reports - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1BkS1IxdzFFbGdHT2RWRFEwdFF1dl9hM0lUcXF1TkJmOXBjX252SU9VZW5MaTcwTm9yQnBFN0RyWVZocWdtR21BY3FpeXJmNWNRWDhlOUhKSENIOG5SeGZ3NjZRTXhqTjlVSk90M1BDOTV0MjV5SGVzaUYwbUlqZjJWd0NyN1U3WjA4UUZmZjE0T1paMXFyazRtM2NXNzh2SFhlZWFSak5DZXZqOHZNYldsM0w?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 28 May 2026 13:45:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1BkS1IxdzFFbGdHT2RWRFEwdFF1dl9hM0lUcXF1TkJmOXBjX252SU9VZW5MaTcwTm9yQnBFN0RyWVZocWdtR21BY3FpeXJmNWNRWDhlOUhKSENIOG5SeGZ3NjZRTXhqTjlVSk90M1",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Climbs As Volkswagen Deal And R2 Launch Near - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUNUelhNRnV5TWZUcW5lcll0VURseFV6WERFemhBelpwQUJHeHNucVRDbUduUmJqOE5vT0FTaHBIS3M0dDJ0NzFPNnQ3VXhwQmFiM21wYWNsR0FDYnpWZG5ZdmxOOTI2SlN4bkNCNkJNeWduZGFvXzFrYXpQWkpZYnFReU1KQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 01 Jun 2026 21:04:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUNUelhNRnV5TWZUcW5lcll0VURseFV6WERFemhBelpwQUJHeHNucVRDbUduUmJqOE5vT0FTaHBIS3M0dDJ0NzFPNnQ3VXhwQmFiM21wYWNsR0FDYnpWZG5ZdmxOOTI2SlN4bkNCNk",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) CAO acquires 1,682 ESPP shares, holds 1,073,858 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWlxS3otcHl5eXpNS3pLQ2FXbC1XS3oyanFRVE5UNDZ3WFU0NXpLUmJlVmZZSUNiN3d3QUFzMVlhZmU0dkVNZm44QWVqUElua1NrVVZRX3FkaHRHUHFqbHQ3Y0ZaQmZfT29RNFNkY2QwYllveVhIMDVvb2hQMWVKVGN6VVlfd01JY09hUWxNN2VXdmllWWpfeFRCdHNtM19hYkNUN09WaDU5X0FpaVlVZTFld0hlVThDQ3c?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWlxS3otcHl5eXpNS3pLQ2FXbC1XS3oyanFRVE5UNDZ3WFU0NXpLUmJlVmZZSUNiN3d3QUFzMVlhZmU0dkVNZm44QWVqUElua1NrVVZRX3FkaHRHUHFqbHQ3Y0ZaQmZfT29RNFNkY2",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading 7.2% Higher - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2Z2bU1aaE5VclJoYWJ5eXhxcTNUMksydkxQeXY3YnJnbjJZc0J5QzByYzd2cXV1MkF0Z3IyQm9XMkJ4ejNuYjVkdGlXREczNXNNUFRwWklITE42Q0U2enRJTnhqbUVpaVBCcTVQZG5SZ0dpek5uRFJCUTFWaVRBVWlFRDZOTk1BeVVVcXVKRC1rVjFLNlJKYm9WMHlHZDJFX1BNWWdIOEw5TW1jRzlXUw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 29 May 2026 22:07:56 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2Z2bU1aaE5VclJoYWJ5eXhxcTNUMksydkxQeXY3YnJnbjJZc0J5QzByYzd2cXV1MkF0Z3IyQm9XMkJ4ejNuYjVkdGlXREczNXNNUFRwWklITE42Q0U2enRJTnhqbUVpaVBCcTVQZG",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) Chief Accounting Officer adds 2,756 ESPP shares - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSW85TXhleDRqYVgyZ08zQjRGdVI4YzBBZzA5NzQycHdoSEtiVi15R29ZdVpVSjhPakdvc1BKcnY5NnNNMTd2TnhuN1p0cktiSFdHZHJob3c1R1RjNUhSTUFSWmlKa3MtQVRZVEpIU045T2pfTWRmWEc5TWxBOXF3N1lYTDMzZVA2UXZYQUNReU93Y2ZxWnYzVVRjbWZ1Y3NCVlhVYWJTdVZTZnNVQ0VONTVJRFJ5WVFILXc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSW85TXhleDRqYVgyZ08zQjRGdVI4YzBBZzA5NzQycHdoSEtiVi15R29ZdVpVSjhPakdvc1BKcnY5NnNNMTd2TnhuN1p0cktiSFdHZHJob3c1R1RjNUhSTUFSWmlKa3MtQVRZVEpIU0",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Climbs As Volkswagen Bet And R2 Launch Near - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVVkZE1waDkyTHJicEJhblh0dGtKTm51RG1MWEpBODJvVzZ0OThTU05fN3VTUFpNV3ZxeS1FVmZxUXR2eF9xRmVwdW1oYTVld2tid0Y4NWFoNVoyRVVGbmV3YWp2bFZqdWYyOGcwYURPSjg2andRdlY1NWRzWlNrdUluOA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 01 Jun 2026 18:34:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVVkZE1waDkyTHJicEJhblh0dGtKTm51RG1MWEpBODJvVzZ0OThTU05fN3VTUFpNV3ZxeS1FVmZxUXR2eF9xRmVwdW1oYTVld2tid0Y4NWFoNVoyRVVGbmV3YWp2bFZqdWYyOGcwYU",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian is setting June 9 as the first delivery date for its R2 electric SUV - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xT1Zob0hCT2JMbk12NWJJLVBnN3NYMU1lblFyNDFaT0w3czg2akh3VlBGTjl1V0RWS3VjVGp1Tkl6eHBzb2NFSk5lXy15azEySzRpSmhlV2I5YnlzWTQ5dmZkOENQOERmRTJ2OUNHSWczLUJ4UjdR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 28 May 2026 17:22:10 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4xT1Zob0hCT2JMbk12NWJJLVBnN3NYMU1lblFyNDFaT0w3czg2akh3VlBGTjl1V0RWS3VjVGp1Tkl6eHBzb2NFSk5lXy15azEySzRpSmhlV2I5YnlzWTQ5dmZkOENQOERmRTJ2OUNHSW",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (NASDAQ: RIVN) CFO trades 7,600 shares, still holds 895,030 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFJkbnNFQVRwSjFFSXVZTy1oNDV2OGxUcDJNM2FpX21GRmZHeUZPNHJDNFFnY25XRHlCNHV2UmNtajlxRTdORU5RaUNjd2k5QlRoVXk3TEw1YklEd29uWDA2eHJ3NjgwZ3dpOThIQjRrMXFKN3FvRnhadGVuNEh2SHgwWGJPN2xSTVViZ01JRklGMEQ0NUw2cTVsU3phbzlhQ3lpZXUxWmhxTlMtVU9LTGZYXzJJNEVtM3c?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFJkbnNFQVRwSjFFSXVZTy1oNDV2OGxUcDJNM2FpX21GRmZHeUZPNHJDNFFnY25XRHlCNHV2UmNtajlxRTdORU5RaUNjd2k5QlRoVXk3TEw1YklEd29uWDA2eHJ3NjgwZ3dpOThIQj",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Rivian (RIVN) Stock Is Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeG5lNkV1VGVocmMwNlpKaEg0bDRmM3ZXekwyZ0pZRHdOQUFlLURSaHBwa0tkTTVJXzJUMG5pVWdfdVFJdmpkVHdxTUpLOTVpdjZfQk1yeE81cTU3alBXUDB0Z1RoNW0zSk5Pd1dRcHc4eDFxYVdRWk1zTGZaZHJsUXFhRlhIUFdPX2ZTMzlCRWpaMWxNRDMtT3RB?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPeG5lNkV1VGVocmMwNlpKaEg0bDRmM3ZXekwyZ0pZRHdOQUFlLURSaHBwa0tkTTVJXzJUMG5pVWdfdVFJdmpkVHdxTUpLOTVpdjZfQk1yeE81cTU3alBXUDB0Z1RoNW0zSk5Pd1dRcH",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tesla vs. Rivian: Which Is the Better Growth Stock to Buy Now? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjZsRTlTVzRCTmVxM21XMEo3M25ZWEJvX1BYc3FwNXdtdzZKanNoSGpTUklud3JkUkNndDF3ejFXanNoSE5zMnlfRHhLRlJfanN2cmxjZFZQenFWM2ZXU0hBaHQtRVpxVEJpaU9tWUcyZTZrbjF5WXpJWlRIT1A0d0tGVk5aTzZWMzBiTmhIOVdkSFRtY0I5QQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 10 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjZsRTlTVzRCTmVxM21XMEo3M25ZWEJvX1BYc3FwNXdtdzZKanNoSGpTUklud3JkUkNndDF3ejFXanNoSE5zMnlfRHhLRlJfanN2cmxjZFZQenFWM2ZXU0hBaHQtRVpxVEJpaU9tWU",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Jim Cramer on Rivian: \u201cIt Looks Like They\u2019re Going to Make It\u201d - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWERqdks3QWh2dW5RRFZNQjZJVGhZSURBYTZURDlnM1BKaS1TNHR0WVJwSzlNNGs0UVBubHdmeEVwWURUSUdGSDYxUDRLXzk0Q21OU0JoaDlvQmV2TUVKdldPaXJ0NWx1dUFZWm9CWDNuSWl5aFlkZVdybjdkNm9fb3BKdzRaWC1aQlBGZWJEZjM2NVo1U1d6T3JB?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWERqdks3QWh2dW5RRFZNQjZJVGhZSURBYTZURDlnM1BKaS1TNHR0WVJwSzlNNGs0UVBubHdmeEVwWURUSUdGSDYxUDRLXzk0Q21OU0JoaDlvQmV2TUVKdldPaXJ0NWx1dUFZWm9CWD",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO Robert Scaringe sells $522,270 of RIVN stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUhyVVJ1OFZnemdWbUVCU244RzQzRE11Q0NrMW14T2hqY204ZWpUam9ZTjIxMUtuVkp5SURhem9uRVpPakVGQmFQRXBjMTZlUE1wOExSTFJtM1o2SnVyQS1KRGJud1ZPQ2g0YXo4OEhULUV0elpqX2ZjR1pNQmZad1NGYkZoTjZoV3VobzItWmx5SWg4dDE5ZWkzY09LUWx1RzVUa09Ka1lQdzlSalV2WTZWTHF6M01XcXc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 29 May 2026 20:55:32 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUhyVVJ1OFZnemdWbUVCU244RzQzRE11Q0NrMW14T2hqY204ZWpUam9ZTjIxMUtuVkp5SURhem9uRVpPakVGQmFQRXBjMTZlUE1wOExSTFJtM1o2SnVyQS1KRGJud1ZPQ2g0YXo4OE",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "[144] Rivian Automotive, Inc. / DE SEC Filing - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1NVTmNQYXliclhCelY1THZYdnJTVFFFcGVqNmlwR0pVQTRONVhmWllpZVBiWVVQNGVDTVlrcFRLdXN2ZjNXTVE2N20tTjlMZUQwZHRwS05Vbk1XVHlNamNvazdfSEdVS0NQM2Z5YzJYSG8wcExkVVdma2J1NUZNbEdNbDZ5Z1pEeTROWXhieGZpb3hSUm5feWl5bDM1TVZnSmxZ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 28 May 2026 20:06:14 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1NVTmNQYXliclhCelY1THZYdnJTVFFFcGVqNmlwR0pVQTRONVhmWllpZVBiWVVQNGVDTVlrcFRLdXN2ZjNXTVE2N20tTjlMZUQwZHRwS05Vbk1XVHlNamNvazdfSEdVS0NQM2Z5Yz",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive, Inc. (RIVN) is a trending stock: Facts to know before betting on it - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRm1KNHY2by1tNHlOSFBiYzBtc2F5bnVVOTFKOVdVUTh3WWdmTGFDUmxZSUtEalhGZ3E4TEVPc1B1R19UdGY2clJJTGw2d3lIczFYS1BGVXhXVlB6ZGtvSUxack5nME9JNnpFazVjSkdWcERBTEtzaFNSY0tNMm92M1EtYlpLbTFma3ZHSl9feHdhMHUyWXFrem9tZ0s0NVozNUlVRjgwQVdWaVN1LTRYUkRSQVJWT2w4ejNaM294N1Z0bFBrM3h0RHV1X3FTbGI4?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 29 May 2026 13:00:06 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRm1KNHY2by1tNHlOSFBiYzBtc2F5bnVVOTFKOVdVUTh3WWdmTGFDUmxZSUtEalhGZ3E4TEVPc1B1R19UdGY2clJJTGw2d3lIczFYS1BGVXhXVlB6ZGtvSUxack5nME9JNnpFazVjSk",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Rivian (RIVN) Stock Is Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzBvc3FXZmwydkFZZ1ZWVkJtU1NjampYV3dCRW9uOGRzT2VJUWxRSHBYRzdrYWYwMVkxT2RlYkhUWDZHYURCRG5ZaUtrWEJGZWthTFBmZl96NzNFZFpnamVNN19OeHBJa3RXQ3dmblZvaHRtYnE2UUhtTHllZkp0NQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzBvc3FXZmwydkFZZ1ZWVkJtU1NjampYV3dCRW9uOGRzT2VJUWxRSHBYRzdrYWYwMVkxT2RlYkhUWDZHYURCRG5ZaUtrWEJGZWthTFBmZl96NzNFZFpnamVNN19OeHBJa3RXQ3dmbl",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) CAO has 42,082 shares withheld to cover RSU tax bill - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDVFMGVibXR3em9xTHp2T2tnd2VmUER4YTUyOHZiRjZFdTVFV1c5WmRPRnN0ZDJUWXpBQ21PSmJqLXVNQXJnWEl6WWNtYTNlV0ZCNFhLOUh3clNBbWl1UVE3OHJjVl9BN2p0YWlPbHl1UXNRcXpIZlJyaUJ6bVRtM0VTdUx3V1RBLW5CTWk2NGtuSl9WY2ItV1ROcVJ2QWFlVllRRFVacGR2RTVGU2ROQUhvRUpuZWd0V1E?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDVFMGVibXR3em9xTHp2T2tnd2VmUER4YTUyOHZiRjZFdTVFV1c5WmRPRnN0ZDJUWXpBQ21PSmJqLXVNQXJnWEl6WWNtYTNlV0ZCNFhLOUh3clNBbWl1UVE3OHJjVl9BN2p0YWlPbH",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RIVN Stock Slides As Rivian Cuts Capacity And Adds Funding Flex - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10d0RHc2NrNU5ZS0xTMWlaWDhtWEZvMkxSVnVnYU5TUHVzV3h2S1BPM184aWJXendXRnJRS2VrYmR4aVhBem8zZDF2WVVXN3o2dTFrZWlDWXNNQW9uc3ZoRkYtcnVwTU9LaDFVZzVnelZSNUl5eGRabDVlRzFyajg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE10d0RHc2NrNU5ZS0xTMWlaWDhtWEZvMkxSVnVnYU5TUHVzV3h2S1BPM184aWJXendXRnJRS2VrYmR4aVhBem8zZDF2WVVXN3o2dTFrZWlDWXNNQW9uc3ZoRkYtcnVwTU9LaDFVZzVnel",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stock Market Today, May 29: Rivian Automotive Jumps on R2 SUV Launch Confirmation - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTZzWmVrTU83QzhRMEhLNVZWcFlTYlpIRzJwTzVacFZXRDIzZjNPMWxHZk81UnR6cTRjNVYtRWQ1cnZDZHNFb1Y3MzZBV2FWS0pXYjYxbzNPVUpwSTRlUFhnWUI0aFJOb1Nidi13YWFYa2pRS25QTHh5SnZYdVdxSlMtMW4zNzk1RG5Bc3AwUVNXRGt3QXNHblRwTE5fVkVfMmI3aUF2QzRtNGFBR2kzSUx3S0NkR3BDZTA5QUF3MVRhcmxDTm9rSkVTanBzSjNKUDBGN3NFOA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 29 May 2026 22:33:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTZzWmVrTU83QzhRMEhLNVZWcFlTYlpIRzJwTzVacFZXRDIzZjNPMWxHZk81UnR6cTRjNVYtRWQ1cnZDZHNFb1Y3MzZBV2FWS0pXYjYxbzNPVUpwSTRlUFhnWUI0aFJOb1Nidi13YW",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive Stock (RIVN) Opinions on Q1 Earnings Report - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmEtYkw4UUEzMGNXNWJhTHBCQ3BTOFB4LTl4TFV1d1gxeVJXYjVmUGlUb0g5YlRQNmJFNWxfdEdqbV9Nb3Q3LUUzcUlTcHBGQzl1dVFmR1ZZakdzUHR0eXVpMzJ4bkVyLUtJTC1IcFBSa0R5RVVOLXQ5b1NHMW5UQUJLWXgtWEEySUluMEZPVmxjXy0wSEZfLU1uckFnbGM?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmEtYkw4UUEzMGNXNWJhTHBCQ3BTOFB4LTl4TFV1d1gxeVJXYjVmUGlUb0g5YlRQNmJFNWxfdEdqbV9Nb3Q3LUUzcUlTcHBGQzl1dVFmR1ZZakdzUHR0eXVpMzJ4bkVyLUtJTC1IcF",
+        "category": "business",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
