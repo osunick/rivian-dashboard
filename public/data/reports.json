@@ -13036,5 +13036,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T22:01:26.345095Z",
+    "timestamp": "2026-06-05T22:01:26.345095Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 9,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 4,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian tailgate pad - Found a way to get shipped to California easily",
+        "url": "https://www.reddit.com/r/Rivian/comments/1txxrs3/rivian_tailgate_pad_found_a_way_to_get_shipped_to/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-05T21:16:54.945Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I don\u2019t understand how my Rivian isn\u2019t APPRECIATING in value\u2026 I\u2019m serious.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1txx1v2/i_dont_understand_how_my_rivian_isnt_appreciating/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-05T20:49:25.361Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Gen1 High way assist not working",
+        "url": "https://www.reddit.com/r/Rivian/comments/1txwaud/gen1_high_way_assist_not_working/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-05T20:20:55.589Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Irvine RAN is operational",
+        "url": "https://www.reddit.com/r/Rivian/comments/1txvu1t/irvine_ran_is_operational/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-05T20:03:36.650Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RIVN Stock Snaps Record Streak: Rivian Reverses R1 Discounts Days Before High-Stakes R2 Launch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ212c0xhcjNVQ1JXMGp0UmFaczItYUVianloUzBNbDIyWHVHN2VySmROU2FvbDMzbWJ5NFdmV3VmcGFtcjRHUklKdUk4a09aRzFieGloNWhnQ2VJZzVzSmI4TEpVV3ptT1Q4MDJYRXVscktLZnBYREJFN2RlMUQwVmZKQjNuYU0xY01GamdNYXZ3YjNzdEFFQWU3RQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 05 Jun 2026 04:23:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Snaps Record Streak: Rivian Reverses R1 Discounts Days Before High-Stakes R2 Launch - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) CFO Claire McDonough sells 8,022 shares at $18 in planned trade - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWFZb0FSaWszUmtzdUxVZllmaDhoWTRZUzl0THA0SmhZdXhBSU02Wl84ZjIzSnlWMGZDYlZENXQ5UmxveU93UHR4TTFXVUtpRkRuV2dUSkVTVkZHVHRYejdOYUpISG9tU0FGd2NuVHFTN3JpY0taZ3BnN0dZUnJJYlBjX2N5RFgxVW8xWnBxMzVaclJ1SGZzdld5QzlETUl0SlpRS1daeFNRWGktcW5HZUViNmRMMU9HOUE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 05 Jun 2026 20:02:43 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) CFO Claire McDonough sells 8,022 shares at $18 in planned trade - Stock Titan",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RIVN Stock Defies Tornado Setback With R2 Production Kickstart - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEFfekpibEF6MmZwZTQwNm9CcGU0czZqbFkxNjdaZGxhTUFpSmVhNXpSN1NqYzl3dDFBYWFLWFNVZzZpRGx1QTEtSFhCR0NDRWhlbzZ5MmdSRk5WaVM3X3ppeFdJdkdoRVE0MzNiWTFDblZyamJzSVNoSnphTW45cVVzcWtxeV9GTzRCQjdTQWZhSDZCUEdNak9oeE1VNWdfMTR1WmhPRHBUUllTUEhqSFBGVXpGZllLbjFOdkg4SXQxUHdXSW0w?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 05 Jun 2026 15:23:54 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Defies Tornado Setback With R2 Production Kickstart - Stocktwits",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Weighing Rivian (RIVN) After Recent Volatility And Long Term EV Ambitions - Sahm",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWngwMTRFRGl4Q0JnZ3NHY3NPT1lmWVp0Q19sVktFekxIQk4zYUtBeGw2dkJaZmhnWmIyOGZGUmpDQmhNcmN6c05VbUgzNUwxUUhIY2RuQlprdzVZTHFLVHYxQ1lwSW9aUDRoWUl1YTQ0cGpxcFl4R2ZJTWVhV29JZEV6dXpDTTl4QlM0SGZkVDBKN1dIbFlGOHBPUmdzbFF5djA5eW5GU3ZldllXblFNSXotTWw3aHdpZE5HQWE2SXg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 29 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Weighing Rivian (RIVN) After Recent Volatility And Long Term EV Ambitions - Sahm",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Plans Shift After $2 Billion Loan Cut Raises Questions for New EV - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHI3RjJJOUo4U20yR0pkXzF4Qk14c0c3YU1Od2tlWVh1X0tRa01tUVRTUWFFVy1FYmtUc1EtV2JaV1N6dk8zMWVhSUl5bGRzYkxfUGszSlV6ck5iNjlKd3dxbkEtVndxTmpfcUlibmF3M0h5NE1oSmRzNk9iaVB4T1VCRXcyRy1QWDFHbHY5TG55bWxGWWtMN1BySWw2TWptQnhWT0VjOA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Plans Shift After $2 Billion Loan Cut Raises Questions for New EV - Autoblog",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian debuts custom self-driving chip, $2,500 driver-assistance package - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFdzb29mSXlGaG9GcjJLcHh4NWROSngtVTE2dU15QXozenVmTExZcG1lUDVYWVk0RXB5MUdiVXNCWGpyS1RXeWR5UWN3alU1UzlZUUxJRVBNaW12LTRrb1l1Vk15ZHhwN256c1hfdFQ1Sk5ZM2Q2V3REMHROOERYS3NPT093MXVtN0hMUm1DNlhXaEdRVjY5dnREOHhEM1pXS2tTWDhvNnNweHpqYzkxYjVhZGp3WW1LZU1uSkgwb0V5RGI1bnpOTlNvb1pVQ2pH?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian debuts custom self-driving chip, $2,500 driver-assistance package - Reuters",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian unveils ambitious plan to take on autonomous driving - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3RWWGpzMVFPUk9zUWd2LWxWWDZMcWNYSE5oSkdiLXVEbHJxQ1k4cEVVdzRfRlJ0UXl3M3lObWI4UU9pQ3BFSDZnbWJSZGFfWEp6TlhLY1NlVVdPNWdxbWczZVIzV05NX0U2aUhmSVlLUENZclhKR3FoR3JCTlctclJfbzRwR1BNYkVYZjJJTQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian unveils ambitious plan to take on autonomous driving - The Washington Post",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ0FfVXFyZHd6dXIxbk1IUWFpa1ZNbGFWNm5JUWRGbEVRaGs1bkNyM1RrNzlOanRkMVZCX3QyUnY2NXNYOVphLVg0YjBINDNzWEFMREdEc1VhWHA4ZDBhMFpiLVJBY1JtNGJCUWZUbmZxb1JSSzJwVDRvdXlrRkZTS1ctRW00SlVmalRBQzE1OVNkQm8yV2FCeVN1ZGtyWlhZNnJIQVpncGpMZVNGdmVIVThn?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis - TechCrunch",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Reveals New AI Assistant, Lidar, and Autonomous Driving Coming in 2026 - Gizmodo",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlQwZHE3ajdSOThaampXQ29xOS1FQUxYdUhGaG4wOUtZaUY5RnFPSHR0b0pOYjZfQ29QV0tkbklUbmwxOVRSMFVMaDlTQTNSVjc2SjY1XzhLakVzRXIwaHU4ZmlHbDRPcnR4dk9Vdmp6RDZ1SEZDdlBIZmtLb2I0RWRZMUoxdGE5YlRuczdZVXRsS1pZbldQeTAzTU45eG82MzY3RkQ0Tk54Zw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Reveals New AI Assistant, Lidar, and Autonomous Driving Coming in 2026 - Gizmodo",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's autonomy chief says lidar is 'very affordable' and a 'no-brainer' decision - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFN5TDNQcXd0a2kySzNvcjdrcmtoajBlOEdfNno0SzRrbnQ4UUc5dmFUUC1zcUpBT1dLZVFBSEYtcGxEMXNmZ1gtUFRZV291LWdndGRob04xUlVpbHFNM2Q0Qkk3bjRxQkVVMHZJMWVOT3FkZTZZd2NGVmwtMS1Ub3N2UFRzUQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's autonomy chief says lidar is 'very affordable' and a 'no-brainer' decision - Yahoo Finance",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian debuts custom self-driving chip, $2,500 driver-assistance package - PressReader",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjd1NTNpbmNCTmsxN3E2UzVZNWd6U1hjWDZIdUpRVzctZXFaZzNVeko5VkNGMkhYUGdheVBqNjJERWVSNnF3ajVQSXBoTmFuZjczM09tZWE1ZFFlNDktOG9DUGJGb0ZISE0tM2J0Y1doZE9mRFlPUTFTcU1Zb19VSkhwZ3NPSTJOYmxzVVctRQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian debuts custom self-driving chip, $2,500 driver-assistance package - PressReader",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian rolls out hands-free driving via software update - WardsAuto",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlFBMUphVk1UOEhZWDF2bS1kNzhnbklXZWRrblZFZF81ZDVWLVhXLW9VNXVKWmR2RGFjSmJyNl9ybGVFZTlLcVBMbXlKODJXaElhcGp5YzFaMlJXSzJsYmVFdkRJUzdGOWEzUTZXMlg5UnhhV3E0RGg1T2M4SlFwT2tWalpqZ2NQeU1uM3JXQjBZd1hLbTBsNXhvS3pTNjRZRlFZYlVFenVocFMwRHhJejBkUS1Odw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian rolls out hands-free driving via software update - WardsAuto",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Understanding Level 3 Autonomous Driving Systems, from Currently Available to Upcoming - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSlNacWdJUDhlODhPbm1uMDJudHZMWnlObzZveFp0SlZ5SERDS3hmUWNHMHhYTDF1TUk1a2lNNXNYQzNvaVhRYVlTX1Q5VFRncklYUXA5cmYxcEhOQUJRUFptS0VUUVN1a1BrM0pwTUhvbHhIbXR2cXlqb0JVZXdPNllZa2xRWktUdU96aEVDSTNIVlVBM2t1SGw2TUxGTzU3TjByWFVCRUhZdXlTbjFVemxrMVh0UkxfcUs1VnJrNWZTUzlGN3hiSmp4cw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sun, 13 Jul 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Understanding Level 3 Autonomous Driving Systems, from Currently Available to Upcoming - autoevolution",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Every EV Offering Hands-Free Driving In 2025 - Top Speed",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LSmlHam9KclNrUHZZWHNYYkVoOTdIN09TblNOMmFRT3djeVhfYmRScEFnSWlFZ1NvaXVOWWVlVlA5b0dxLWM1ZHIzUndaSDVsbF9JNVl2a0hQODlyUmQ4NkpUZmVRaG9V?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sun, 03 Aug 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Every EV Offering Hands-Free Driving In 2025 - Top Speed",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "My Rivian R1T's Autonomous Driving Needs to Be Better, After Two Years of Ownership, I\u2019m Still Waiting for Meaningful Improvements - Torque News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnlHRFVIRW9Sc3JUNDljSFUybzQtTWlkWHlLdDBDR3F5YlhieVBrTlB3dVhMaGRtMUw5LTR5R2hnNmpSeDN4WnpNeXlLVEloOU43THhIaGVDMEJrS0RSMHBZRE5SQXd2SndiUnBfTUJkZ3FkSnA2VTZzd1R0XzY4QzRwS3Q1N05DOGdsOFpTbWlfZWd4aXp4RW42cEFSYTNqRFBCTXJoQjFaN3lEbzZkd2s0YUZrdkhhTWc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "My Rivian R1T's Autonomous Driving Needs to Be Better, After Two Years of Ownership, I\u2019m Still Waiting for Meaningful Improvements - Torque News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Plans Hands-Free Driving System Launch in 2025, \u2018Eyes-Off\u2019 in 2026 - Carrier Management",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qdGdmTHJJWnk3dDZfbU5idnNDX0VtYXhEaDRORGRGY2p6QjFPSHhKd19ZN09QZExXSnotbWZNRkxDR2lnR21mZml1alRJQ1A3dXZwU05Qc0x0TmpWdi1jNjZfTkQxS25YSS1FOQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 24 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Plans Hands-Free Driving System Launch in 2025, \u2018Eyes-Off\u2019 in 2026 - Carrier Management",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Is Rivian Highway Assist? - JD Power",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjY3Mzanpfelg4RTBCeTVvcUM5MHNacHo5TlU1Yy1SN21WWXVMQ05pRjhVNm1mN3g3QW14RjRWNjhXQTZZM3ZReW5CQzNEeUNucEZSOE1aQ2pUeXF5ZjhWODFRYUNSeTlNaktfOEJvaVdibEprbFNjQU1OUHMzX1k?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 06 Jun 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "What Is Rivian Highway Assist? - JD Power",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian launches hands-off driving assist in latest software update - Teslarati",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tSDIySkhYWFhXcUx1X1c1cDhsZWZzbjl1b1R1ME5VZFR5eUxUQ3d0UmY0TmdkXzBtLUlESmxPLUU3V1BCUm95U3VHMXFqNUlfeHNTTUdkbC1sRTg3cFdDR0wya0JJaHA4OEE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 11 Mar 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian launches hands-off driving assist in latest software update - Teslarati",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian to launch hands-free driving system in 2025, 'eyes-off' in 2026, CEO says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzE2SVJjOWoyTnJhSEhrVFlub2NpU0xSdTYybVNYX3ZuMXV2NmZvSXV5TndfTFZrcE9LdTNFT3Nrc1Bua0xJeG9PeVpfUFpPMUdzSU5zajNqaHl2TzI1SnAtb1o2cUlwb2N3eUJYVnNSbnFWUDNZczh2TTZVdGxSMThmc2dQSFJrOFltZ05XZ1A4OXpab1ZHTGZLcUxsQzVZWWVaSF9VWlVlVzhXaDF5VGN5RHg2YmNqVFhB?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 23 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian to launch hands-free driving system in 2025, 'eyes-off' in 2026, CEO says - Reuters",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian will launch hands-off highway driver assist \u2018in a few weeks\u2019 - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGkxN2lWM3NPYXBWYXRHMkxlRXFMS0Y2R0VyTTBjSG5sSmhtR0l0OWRHeklKempaQnRKaU1mRjh3TjlkODdNTWhhbG5ubC1nVjNUSXd6aUpSUGZIelYyclU1SkdZQUtaa1ZValM2TzEzMkxYcVo5d1IySjRwb2hNamk4SkdLLVB6dHNEdmZnNU50NjlLMXVEMFhqM1ZmOW81S3c?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 20 Feb 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian will launch hands-off highway driver assist \u2018in a few weeks\u2019 - TechCrunch",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO Says 'Eyes-Off' Autonomous Features Are Coming In 2026 - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUjM4VldoTzF1cjlMXzRYRUd0cS1YSGFrQjBDM1FlMHNtYi1rNmN1T0dMX3pqUXJZU3VwSGpqTU56NzhmM3M2QWF6c1JRSDN6b3owQjk4aUJNUDBlOUhXUkZ5UUxwOUYtLVdHWA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 23 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO Says 'Eyes-Off' Autonomous Features Are Coming In 2026 - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO Announces Level 3 \u2018Eyes-Off\u2019 Autonomous Driving Plans - The Weekly Driver",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0l6aFlEYWFHQ0hYVG9aeHphSVhxRzZTWkgtem8yWFVCYzNpcE1RdUVnQVd6UkJocTZOMWF5ellVb1l3RS1BWnQtRjBsRkg5Yi1MdjFPS0xFVmkxY2QxbFlKaHhRZk51S0V4aDJOblQyUGlLNnhOaHBXQnp5czl1ZUV2cEJzN1BsdVgwdUdoQ1MtYW16MWxxQUdraDFjQlVU?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 24 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO Announces Level 3 \u2018Eyes-Off\u2019 Autonomous Driving Plans - The Weekly Driver",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) plans to roll out hands-free driving this year, eyes-free system in 2026 - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDU4bEgyUlNyOUU3S2hqUHNDMHdxY0hUdUM4eENrZmVMa0tmVFBOeGZPbzVhblVIU1RyUzhwU3UzSFZRWHVtcE1rNDZ4Y1ZuNTRqUXhXRWxsZC1pTUhxaDFqa2ZZM0xXSEZXcFdUanV3LTlfamUtZkNORDh6TUI5bVI3QmY0M0FVM3VQSzVZRkRpX3U1Y2ExeA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 23 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) plans to roll out hands-free driving this year, eyes-free system in 2026 - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Extends Free Trial of Assisted Driving Software Until \u2018Late 2025\u2019 - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWdqZkpDOTFIMk1CTnFEVmJUdnBac2lBb05ZSGNDMmR5Und0OVJQRkt4UWx6LWEzWG5BQ1hJTlkwV3RKMmFRb2RNSW80TjRKcjZGRE1sQlhqaFQ3Mm1pbDBzcEROSlpZS2JvMVhxdXlhR3FXcXl1dUw2SDhDOEUxRHZXakNwRHFENkVEOXUtMl9kSGFCdkM2Nmt0cGo4QU51cHNJbTRrelZoLU0?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 15 May 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Extends Free Trial of Assisted Driving Software Until \u2018Late 2025\u2019 - eletric-vehicles.com",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Teases Driver Comfort Assist As New Autonomy Platform+ Feature - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXBxU3ZxTVU5YjdOUnFpUWoxeWoyM1JZYnkwNHdyRzNZc3N6ZmxPMmhKZ2NFY3lHSUxWWDBFajdmUENqdW1IQ3N0RmhHZXpNVThyOGtRZUdfdE44YlphS29pbVRDVE03cU5sb3VkblF3amt0VXFhZzBReGN0Z050T3pNMzJPM3VmS3BMMlBGbmZxa3o1eGU0S21KNENlcVBHc295bml3N3JlUnFDMlBfOU9BVk1Cdw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 23 Sep 2024 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Teases Driver Comfort Assist As New Autonomy Platform+ Feature - autoevolution",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Wants to Focus on Driver Assists Before Full Autonomy, Says CEO - The Drive",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0o1N2hwOHJaY1RiQm1aVXY0OUFmZXhZTGFneVd4b2lTLUg4OW12Q055bFVsamw2YWgwcEZJTVhtN3A1clBZdURDZUxianFkb2ItcXdIX2dzUzltZUtoRzRPTHVrT0FJZ29zUkcyTDlQLW1TbHczT1hVUmxkcGZ3NWExZ0xpVkF4UktXdkJNZ3hyZTVqeGc2aW9RUm5aY3Z3?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 24 Oct 2022 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Wants to Focus on Driver Assists Before Full Autonomy, Says CEO - The Drive",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian vs. Tesla: Comparing Autopilot Systems - Top Speed",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wV1otNFlWRGludEFzOVV5MmNRNWx2VnBaM3VFdXdtR0o3eHBMeURkT2E5NkxfZmkxamxWUE1PajY2cExyWTdIZ0thcTQwM0VaSUNRanNCZGEtV0JjSDRLRGZiUlpYdy1Bdk9J?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 29 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian vs. Tesla: Comparing Autopilot Systems - Top Speed",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Is the Rivian Autonomy Platform? - JD Power",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSXdveV92Qm5OTGV3WW0yYWV1TlI2ZVpjU1hQVlZOSUNwWC1wRll0Y19RMXQza0JvYWdJTThpRDBNcFJYRWQxUVo1elZJNlB3MUh6YXpTRE5MaUdIbTltQzh6bkFNX1BDdGs0V09jV0RvVDUxU3JCZVgtek05UFRRai1PMjJiMjRt?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 16 Sep 2024 07:00:00 GMT",
+        "score": 0,
+        "snippet": "What Is the Rivian Autonomy Platform? - JD Power",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Unveils Enhanced Highway Assist - The EV Report",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sdXdZZm0wM2c0MFZpU01nam9kcXlyVENkdlpiWGIzczA0UlNNNVd6SlMxcE5paXVSby1JSFBiWWVpc1pjZFhMWHB3TWxiQ0xsb1ROMk5NTGRZVEpaOWFxYlpMb0VSU2t3MF9kaERVZw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 12 Mar 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Unveils Enhanced Highway Assist - The EV Report",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Will Be Challenging Tesla\u2019s Autopilot Sooner Than Expected - CarBuzz",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWk2a1Bici1vWTh5Rnh6VjJBdVVBNll3WGI4YUV4NFNSUEdLZmN2UVl0YjBDMUpHc0hBNGw5bkgya0ZzdjdDYzZEWVZUalUtX1VZVGc2MjRsS1VLQ2xVSEgwbVNRdUI3aDJndXFmaGx0dXpMNFBoRFlsVTZUYUtEdGJJRkVrZw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 25 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Will Be Challenging Tesla\u2019s Autopilot Sooner Than Expected - CarBuzz",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian launches hands-free driving and a new \u2018Rally Mode,\u2019 but that\u2019s not all - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmw3aGhBQ0hsREJTS2p3aXF3dVh1dEw3VmRGMG83QlN4bTJoOUJBQmNoYzNEeGZkUlJjOXJtLXVwd1pJVGo5ZTlmT09qS1BsUEN6enBoMnUyTzU4anBJcVhhODk5cEpXeGJKQlJIWHZJTU5XSzFXbVZPVmZMUl94QldRcU1oa3BJSm5yMjlaWVp6Wmo5dzVuQg?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 11 Mar 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian launches hands-free driving and a new \u2018Rally Mode,\u2019 but that\u2019s not all - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Is Betting Big on Autonomous Driving With Its Upgraded Autonomy Platform - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWl2NzhFRFRsR2o1UHBTNURMeGJkTHhtWUtJQ3lnWEhyNUU3M0FTeXBfLTI5bFh3dVRTMy0tcktXVDJiU2tURlBBOFlIY2RtLUVxMnpTNjJic3M0WFA5eC1wMEU2SzQ3OW1WM0NINERnR2doWk9WU3BMWjVzX2ZtamY2QUJVaTBaMGJYQ293MU5IQlRuaEsyc2pISDhGWlFiUEtaWV9hSlN4ajBtRU5TLXFuRHJXZkVqVkMtV3FCaTlkSUJD?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 07 Jun 2024 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Is Betting Big on Autonomous Driving With Its Upgraded Autonomy Platform - autoevolution",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Meet the new R1S and R1T - Rivian Stories",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TEl5ZmRWV0RCWDcyV2Y0cVc4czRMZ1Q4MHAzRHFZLTRjVl9KWDVwYmxWUWpaWldjMnpsaUZnc0hKV1ptTHdzMGFUSkxmbGx3ZVBoTg?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 06 Jun 2024 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Meet the new R1S and R1T - Rivian Stories",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Is Copying Tesla With a Hands-Free Driving System, Readies Eyes-Off System for 2026 - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblpMcjhpX0dkQl9PSGJBOXExREZHV1U0cEM4RV9xbkpIZ0Y4TnhpQlBqald1cng3cUZiZk9QT0ZlX0Z1YlM4OEE0cmR3a3Y1X0FmQXVCTk93NjBDcHR6anNFeS02QnRMMUtnbHQxb0hkOEdUOHZDYjdxaWFfMjNSUTE0Vm85aDMwWTJFMHMyMk5qSVJsLWozRERMMW0yODNTTDk5REx4UHF0bk9YLUlCS0NXTHlvTklSNTRadHpMQ0M4R2VJZ0V2WE12eXRyd1Iy?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 24 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Is Copying Tesla With a Hands-Free Driving System, Readies Eyes-Off System for 2026 - autoevolution",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian will add hands-free driver assist to vehicles this year, \u2018eyes-off\u2019 next year - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2JQVjQtR3B2dkE5cFQxb2dWX1pNdEU2M1EyOU9ocTRjUWtyMWxIZVFyLUtYOFRra3g5UDhxb3VsU3djSFVtbXh2aktMeFNEUGZJTzVLZHk4emFzZ1hUZkY3a1pxbkVXd2ZfRE94bFFPNUlpMVZjVTFWVUxnbXlGT3lvRUFFMGpZOE5vQ19MQUpFMExteXhDcnR3?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 24 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian will add hands-free driver assist to vehicles this year, \u2018eyes-off\u2019 next year - The Verge",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO Announces Level 3 \u2018Eyes-Off\u2019 Autonomous Driving Plans Story - The Weekly Driver",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZHZXJLQlFXaVViRlpacHhpWXpzRHlSSXpvZldEVzJyQlRJOFFsYzU1M281dDBUQkVvRk9GRm85cDJfbjQ0N21BTXE5SWFHRjkzNmZvNXgwb3dVenVycS1kZDFYNXJ1LWpLYno2UmlSSjBsblNuWDN3YWxIeWhGaTlPZ2ZhSnBHZEg1YWU4R2p5V2tVVkhPaWxscEN2OVI1RklsdzA5aTR1Uy1XNFE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 18 Mar 2025 09:27:43 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO Announces Level 3 \u2018Eyes-Off\u2019 Autonomous Driving Plans Story - The Weekly Driver",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
