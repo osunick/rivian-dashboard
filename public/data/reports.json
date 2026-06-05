@@ -13482,5 +13482,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T22:08:37.237535Z",
+    "timestamp": "2026-06-05T22:08:37.237535Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 20,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "A $5.8 Billion Reason To Rethink Rivian Stock - Trefis",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "A $5.8 Billion Reason To Rethink Rivian Stock - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkRySnRkLWtwSTdlUWtad2J1YWh4U1ZCaW1sb19WOExFRnJRNTkyRzFBemYxNVllM3M4a0JyajVrRHN2SzNDTGRuX2lsd1BoeEdsQlo5MEhZTi1sa0ZVb3Y3Nk5OZld6YnB3Q1gxWTF0eHVlWllab0ZyYmdmdFFOTDMwLThxUmVuaHQwVTdYdHdINUxDSEgyQkdINENoOFp0a0RibTROVnc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "A $5.8 Billion Reason To Rethink Rivian Stock - Trefis",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Hits Nearly 6-Month High Ahead Of AI Day \u2014 Analysts Say EV Maker Prioritizing Practical Autonomy, Not Robotaxis - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQSVgxRjZNQ1IxQ0puQlRoSUh5WHo0SW1KbllncXFBa3hOR2xfR3JLYkREVDlhYWpQVTlveUs0b19FVjBCdXBVSFY3VzROZFAwOGdYRUo0bVNKbEp5bW4xc3o1Z0l0eS1vY1lwYThfREVMc1ptdmVGRlZGQzBHR2paYVVtcUwyRUJ5b2VXbk5ZRlpFWHI2TWttSEo3MlVSeTNhRHZIUWpiMXNHejk2a29FUDhrNjh6aDlNZU11RmV0S0hOTk9BUGpQMTZTQVl3NzFoSlM3SFRIaWEycWhOMTBRYnFLVkRGeXNxX1U0UmNqQ1ZyQkE4UjA3T21IQTBEYUNtcmtBd1l4emNNWWtwdTZtLUxiU1hqanFVWnlGMjRtMmdETW5meXZFTjZoUlFaN09GX2xwSFdraDBXLTZuelhYUkx6YWoyZkp0SU1xTnJPUEZzeTQtTmNXTTVtdGZlTllyR0JUZ2VtTjhFdHNFcmtVcDNScjhDOVdQT2NVTUI5ZDNKeGNpdDZmaVNHUDdPdURoNFktMnNZSVZnUW8wNERjeDBHeXYzYUdITGhUalNwMXhyVUpHcFN5RHRBanAxay1WRkU5VW05ZnRNc2dkdjR3d0FBZVFTOFNxcXJaaw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sun, 26 Apr 2026 23:05:38 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Hits Nearly 6-Month High Ahead Of AI Day \u2014 Analysts Say EV Maker Prioritizing Practical Autonomy, Not Robotaxis - MSN",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Lucid to launch hands-free highway driving after delays, joining BMW, Mercedes and Rivian - Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUl9vNG5jM2JOTkFvNUJaZjlwTDVEWDk1Mlo3VFI3TGpXSVdWOF9QTlNhM1lmaDA1TG1FUTJmYVowZUNMcWR4UURMd2YtMmVDZDB3aXZ1eGVYRGdfdDJyVU11ZDZPcmtvSnhfX3J3TUpITGk5RFRxdUl1WlpnYVJpbHhBZXdjLTF2cGU0OHRB?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 17 Jul 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Lucid to launch hands-free highway driving after delays, joining BMW, Mercedes and Rivian - Automotive News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How China made lidar a mass-market sensor \u2014 and why some U.S. automakers are embracing it - Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkltXzZKZHhVVG1JV1pMTlRKVGxTSk5uWUhzTTRRRlR4bWpkRy1WeUJkNEJaM1dhY19YaklJV2s0OFlpbVBBZ2NyckVyazB5M0o2R0RBblZCdWRiVzhGbFFRYlc4SXdzTnBXTUpWajZLS2JFODlQUzJSZDBmWmlwYjdSeTV2MGhyR1o2Vw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "How China made lidar a mass-market sensor \u2014 and why some U.S. automakers are embracing it - Automotive News",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian adds self-calibrating cameras through OTA software update for Gen 2 vehicles - driveteslacanada.ca",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEZ6cENMeG5qLU5sVEgtSHdWWGhUZVdHaHVta0VXNl9jd3NpZDBSSmxPSzRWTjVkbjlkQkhTSFpOQWhXWTc4T2pTMEdraXlyRG81V2twelh1NEZ3ODNEZk1jUTRSS0d5YnhZWjVfampUTlNERklOanoxdnpCVHNTMUI5MjBkTHc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 04 Nov 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian adds self-calibrating cameras through OTA software update for Gen 2 vehicles - driveteslacanada.ca",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian plans to open U.K. tech office - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXE2VmN3YWs4UTVkdDBYak1MNjBxdWF5a1BQU1pLcVE2ODVsaUJ4QjBUcDZodG5FWGxuRUdibDNMVDVQcGxWc0I5WnZtUVNLREdkR3ZfelhUcHEzbTVXcmdCdzRpb2U5S2xNS0llUUdoRW1LWDRVOVlrdnBzZUFTVjhUQnRIQVd1UUdJTVI3dXNKVlU?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian plans to open U.K. tech office - Autoblog",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Does Rivian's AI-Driven RAP Provide It a Competitive Edge? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXkzcmt4djBjWmF3TEt0RjlwUkpNcGxvU0EzbUxTQXNaZklwY3hwRXVwQ2VjTjBKSnNsTVFqV2piZE5FLWkzZVVpUzVJamdvTXd3N0RjdkZwZENqbjRncFJXdE1LZEZnWVlhWlpvczBfZ1hOLVlSVThLVC1EeXp1Qy1BaVNSTWRNVG5qbjZVYlJEUENMSmNGZTh5YXRlY2tPUXFJcVB5eWRTaER0aVQ0?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 14 Jun 2025 17:39:28 GMT",
+        "score": 0,
+        "snippet": "Does Rivian's AI-Driven RAP Provide It a Competitive Edge? - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Debuts New Hands-Free Driving and Apple Wallet Keys - iPhone in Canada",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWndDMzRudTU0NUI5emxMMWVxblZ0LVk3NEI3ODliNm1tOGlWQk5UYWZKU3FxWENkRXE0eGthczFSUzJNeUtscmJBZE9RaHBhV2JjRlpwWWNoeXNGZmtlbkhVQm9rX0hOOTFRSEJoclFaSG5mdE43bmJIRW1Ya2lPclhmbXFYSzFOSEFZcjI1UkVlNDJGRzhvd3U5OElYODZGR3c?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Debuts New Hands-Free Driving and Apple Wallet Keys - iPhone in Canada",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tesla vs. Rivian: Which EV Maker's Stock Is the Better Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1JxTmFqRmRKNzV4blA0R3pWV1R5YkR2emtuaFBraFhNMjROU0dfWW9UeEwzQ2hoYzNrQ0I3YVNGaC1HckplRVJtQVVfcDZqdTdnN282dzNJRndYbnhvWlpoV2tTc0hvZlJMRkpTMWFBdDNxUmtuZndfbFRMM3pqYVZGd3VlZncySmJtdjVfV1VtZmRhazdaTw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Tesla vs. Rivian: Which EV Maker's Stock Is the Better Buy? - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tesla, Rivian, or Lucid: Which EV Stock Came Out Ahead in April? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWswMmxxYW1ieEZ4Z0xtRmNfbURkMjRKYUljUHNiem1JMGszcVZOMW5OM1p1UHIzZFlVb1o3ZE1fXzA1YTlzVzEyNzhYcTBBZXlEci1zMHR6S1l4cnEwQ2J4Ung5T0FSaEVHUjE4cmFPcG12MWN0SEdqbm9tTngwWkdEaS00OTZuZHVna1lxYk1jeDFBaDVIREFqZU5fekF6cjN1b0xjbw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 01 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Tesla, Rivian, or Lucid: Which EV Stock Came Out Ahead in April? - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Lucid (LCID) took \u2018quite a few\u2019 Rivian trade-ins in 2025, but most were still Tesla - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmhoLTZlZTFFOVFFR0pIWmhuZkltOXRrX0lVOVNXTC02NWRNQURJeFVfMDNnc1Q0enFSUXA4QWs0T1NoclphbS05THVXZTB6RUNGUTZNajNLUGxrRXFzZG51UG5xcXpaSUFxRlJtcXdwYmNwa003aEVwemhjb082WUEwLWMtUEd4R2RReGxVVkQ0UmEzV1FqaU9oUmtQZw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Lucid (LCID) took \u2018quite a few\u2019 Rivian trade-ins in 2025, but most were still Tesla - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Price Prediction 2030: Is RIVN Profitable Long-Term? - Bitget",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3b3h2SVNWand5S2tSSEhyM0dSVlVzTjZCWm4xVDEyczV0SUpQdjUtVG5XbDRiLVl6QmFVWmgzUmhyWEdHenZSSHJyV0FMZjJXTnotX3I4UHFfRVlkdnfSAWNBVV95cUxQbzZHZDF4LUhwZkIzUFJkLU0zdXVtcXF4Y0QwQ0M4dEVFUWx3a29lM21zbzZMNk1Ya3pRb05tbGJ0MEtiZGt6MDRIcUYyTHVmdkRSSW53V0tOUnN3NUZPeXY4eVE?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Price Prediction 2030: Is RIVN Profitable Long-Term? - Bitget",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is Rivian Stock a Good Buy? Expert Analysis for 2026 - Intellectia AI",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1haktyLWF1aU9xeVJBQXVybGdsSVRWRFZnYzNUaFFjc2V0OVJjd1VSOWhNLVFMdmRyWlJPNDVuN01KbTNMM0RSMFZwNUhrWkU2M09PUU9tNlhlY3RTU1ktNGVJY1h2S1U5MnZTS3o3NEhHeGdibjdtcw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Stock a Good Buy? Expert Analysis for 2026 - Intellectia AI",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Analysis: Q3 Earnings Exceed Expectations \u2013 Is Now the Time to Buy RIVN Stock? - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWE14TC1DazBRS2IyUTNISXpZOEpMeFd5blpSUE9JVXFuZ3hfSW1yekpsa244QmJZT3JYS180eVhEdEFWMkJ3bTlMWDNsSldkQzBLd05nWjRqeHZnNlZVdnFVUExYQmRIUE9nME9RUTNiZDVSZ0k5M3hrV2dKbENRTWE4RDJWbC1RQTlTd3RNYl9pendHOXlVa3NBM1poWHFfQnlVU0F4Q3Z2WFFKbnFyaVU4V1lPZGs?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Analysis: Q3 Earnings Exceed Expectations \u2013 Is Now the Time to Buy RIVN Stock? - TradingKey",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Soros fund goes for this legacy automaker \u2014 and sells off Tesla and Rivian stakes - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMW43bWliT21VU1VMRVQ3WG1pcTlodUJSWTNNeENyX0dHdW5JRm95d1JOWGxwVHYzYndTSThmdFk4bTZNZHVrR1Zzb2NMd1g0eG05TE1DZ0dqOUlaWGhFS1NNTHdnc1lSWEJaUThoZjZhelM2SGpIai0tMy1uSUkxZkk3RW5zNDhhZ3RXVUxLZGhuNEY1SEw1UG8zOGdaOVN4NTl4TzZTSk9mcnVhNzQ5NmdYQjRSTlRRNjgtS0RFdGg?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 14 Nov 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Soros fund goes for this legacy automaker \u2014 and sells off Tesla and Rivian stakes - MarketWatch",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "EV Stocks Yearly Recap: Rivian (RIVN) Stock, NASDAQ: TSLA, NIO Stock - Markets.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjE4OGdhMmRBSmFBbmZidE9UalYxOXFBMlpvNUNSMzF0Q0M1X25oRHQ5dnF3VVZ4RDZnOEQzdGZ0UDZEb3dvRjRRd3ZfeEI3Yl9DY1c3NHhFYjZYUzFQaHcydFMyT25RZkhwMjl2b19sT04tbkQtWUJXdjZVYm16X1FVN25sS3VWSEI5SVVuZWdIeTg1M0E0OFdHaw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Sun, 07 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "EV Stocks Yearly Recap: Rivian (RIVN) Stock, NASDAQ: TSLA, NIO Stock - Markets.com",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Could a Ballot Measure Open Direct EV Sales for Rivian in Washington? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWxuZkdrakUteTB4R010Z3VoYkZDb2JQc2VxUEhwMU92TDQ0ZE9OS2k5NjNiVy02WXlqcENqWm93dlp4UTN4REhhUnJidEViMkk1TTFCZWE4QVExaFVfa01fM01PcERDMU1laGdxbFRoQWZ2b2hLNUFQYWJxRW9YbUxMSEdUYllhb1NHclNZS3lKcHdTcE5xZUhVN3MyY1RjWXp3Y3g4ZmlRY1FQLUlrZ0JQaEFiNnpkQ3dleW8zWDhMUQ?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 29 Jan 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Could a Ballot Measure Open Direct EV Sales for Rivian in Washington? - TradingView",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Just Flipped the EV Script: Is RIVN the Next Tesla or the Next Meme Stock? - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY0lVN3JmcEJxa0hmdmhEN2hfaW45Y2xWVWJ2QVpHTkFGcGVCVUdsZk9EWjgzYjFfVTZDU1ZMTEhnY0RqR0RDWWN3MU9UZHJLbnQ2enEyLWhYVjZQQm9WVmhmakwzcEhmVDRvOVFURnk2SUJpSUJwX09fTFQ4Wk4xR1lEOU1EdGhxWVJpTjVEM1RyMFYzOTlwQ3hCUG9lZWFRY0pBODJDRVliNTZIZHM3eVZiYTB3TDZ4bnZTTFV3SUlWSmVNbzBYOEJ4NE4?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 28 Jan 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Just Flipped the EV Script: Is RIVN the Next Tesla or the Next Meme Stock? - AD HOC NEWS",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Will Rivian (RIVN) Stock Hit $50 by 2030? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGxtczlUOTRyeEFWWGpfQ2RfMVZNc3c5VnNuODZYM2FBVERwM2t5bC1MQ1NaTHRMcGQxTzdGRmZ0akt4YUl6Q1paUnN2NTFSZEd1STV0WFRnLS1fanp6MUpLMGNZX3hQUnZIbTRqZmg5UWIxVDZsd19pd2hodkUycHZYZGVLUy13?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 26 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Will Rivian (RIVN) Stock Hit $50 by 2030? - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Podcast: Tesla is now Elon\u2019s, Xpeng goes AI, Rivian earnings, and more - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGZVeTFWUk1EMEZra3V1bTNzOVJ3NzB6bVBfc1N4VDAxenNiS2FHejJ6bG9qd2dIWVRfQkNHRDU3cFVHZWhNblAwN1RDM0U3VHNZV0M3ek9fODBBX2xCUWstUVhJWEZaYWZBcFJ0WkR4aE5UcGVkUHJEQTdkM1RjWXQ1VlBNT3lTNURnQVBCQ1lGbEpWU21ldnpUQWY3dw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 07 Nov 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Podcast: Tesla is now Elon\u2019s, Xpeng goes AI, Rivian earnings, and more - Electrek",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Prediction: Rivian's New R2 Truck Will Be a \"Tesla-Like\" Turning Point for the Company - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWtBbFRYREo3Q1ZILWpZeTlSSVljeEhiZlU0NkNfb1A4ZjR0OGhXQThOZmx5V1AwMklsSjVRVlBiT3Bpa0xobWRNSWtRaDRTWkVaS1NZaEJmZnNsajhpUzZDVmRSVHVEcXBrcU1JT0o3WmlUUTl0RzNUWVpFRWlHekRSQmYtbU1iYy1wYThNQVltMmFLZkE?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 18 Jul 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Prediction: Rivian's New R2 Truck Will Be a \"Tesla-Like\" Turning Point for the Company - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RIVN Stock Price Prediction: What will Rivian be worth in 2030? - Markets.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVFwSWRKNEFhb0tTNzNmV2FHXzZmSnZFSVlsYWplQzNoTWptVUV0Nnc2V200dG9VT3RKbXA0WkpPQ2FNX3Q0dnhRdzR2WG9qRERqd1M1NWd6cndKMnhTaVY3V2RETURfRmxMRU1JSHUzaHFuU2pNcXNMYWxoOHlmQkJaM0h0TTBQd2Fhb3lsaC1XbGEwQmFESXl3?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Tue, 23 Sep 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Price Prediction: What will Rivian be worth in 2030? - Markets.com",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Better EV stock: Rivian or Tesla? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQldpcEViaWljcWU4ZVlsSDFzZ2dUalphTG1vRHpsZjcwVnBMa3pKZTUwdHVCa3FucW1vaUhaNlpTWGhYN3huZkYtd2dPbmZKVUNUdzRMRVdoTnJQLU1HQ0dMZkdwYnNXYmxaSGM5RDRlR2tEcjdOYXhxRVAzVWtKSmw3d0lqd2ZISmR2bjF1R3IxdnhNRDQzNmlwYWNneTVVS0l1QlE4OWM1Yk1BSjVzczM5bFJVYmItSktkaQ?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 06 Feb 2026 02:30:45 GMT",
+        "score": 0,
+        "snippet": "Better EV stock: Rivian or Tesla? - MSN",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I Think I Just Built a Slate Electric Truck for Under $20,000 -- and Tesla and Rivian Should Be Nervous - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeC1rVHFxSV9wZVhyLUZzZVdycXExN1F1eUNvNlNoV1VlYXd5djFxV3RoWEh4NGVDcldUdzFkRUJTNFYwMUF2akxreUtKZ3NZaVRrS3QzNFJ0TmRyN2lYak4xMUt6bDJMcVNEYzlDcWVlYzlGR1ZlSEF3WVM3M2lGTnhLMA?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 08 May 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "I Think I Just Built a Slate Electric Truck for Under $20,000 -- and Tesla and Rivian Should Be Nervous - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Better Electric Vehicle (EV) Stock: Lucid vs. Rivian - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDJCdjZmQ0NINndjTWk3UV9pdmRGZzNCMzJCVjRqWXh0TUtLWm8xZjhlczdsajBpVEw0Y3hRT3RzUmlxelhiYjgwTlRGaE5EdjliNUZHc1NaWTZVaEQ1RnNDWE00WThDS1p0S3k4dHFDRnFBQjBsUk9aOXF4bTFNY05DbVo?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Sun, 28 Sep 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Better Electric Vehicle (EV) Stock: Lucid vs. Rivian - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Jeff Bezos-Backed Slate Auto To Take On Elon Musk's Tesla, Rivian With Budget EV Pickup: Report - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iOXV5dGM2cXFsLVpkYUpFWXJOdWV3RGlDdGFzSU9neTY2akxGM0hoRmJ1WUc0TW1saEh0LXk3OXNid1FtY3cwLTJqbDEzUERmeEl3clhSaGZCNkMybUdCemU1Y3FjS1hyZXB5TTJRMzJSemdZV3A4cG04b3hadGc?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Mon, 14 Apr 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Jeff Bezos-Backed Slate Auto To Take On Elon Musk's Tesla, Rivian With Budget EV Pickup: Report - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2 High-Growth Electric Vehicle (EV) Stocks to Buy Now (Hint: Not Tesla) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXRQU2lUWW1KTFlDaEQ2eUFUaDgtTllnRXltTVV3ZF9zaktLTk9rYkFwMDRmenJOcVlueENobTg3YlEtQmJDRzBGNllBUkE3cm1jZkhfSTFEUHBZUUoxZTJkOUJGLWFEd3NFMzVDdC15emwwRjdDMXdCU3hsM0xaQVRn?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Mon, 14 Apr 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "2 High-Growth Electric Vehicle (EV) Stocks to Buy Now (Hint: Not Tesla) - Yahoo Finance",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian beats quarterly delivery estimates as EV demand stabilizes - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdV94Q2lPS01jMjVHeVo4cDR4NWlOSWZNbGxQRHJKUG0tR2lwUkRCNUo3M3Z0ekhwdF9XMkUtUXpRaUtKSFdvSXJfbWUxMTlYdHR1RFpnbFFVRjJNMjNpbjYwcWtnelFqeklHQ1hoQThad1NwcGphbHVFa1J3QjM5N1M5VEZoVFZXbHdodUQ2VWNqZGh5eUhwN19FSGU5Znp3d0dvWU9qYlB3NGFDSUIzOTZCbUpCVnpjbldKVHlCOHlXR0dMSF9F?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian beats quarterly delivery estimates as EV demand stabilizes - Reuters",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tesla vs. Rivian: Which Growth Stock Is a Better Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSDlxa0Naay1WNE55VC1oQUlNVVBoU2JvS21KTGRHN3dvdkNlUU52eENvNmVHZll5SnpvZTBsR0JqVlFxd3pqOWZYeXVnWlcyNndYOG1vUTVUeTNpdG1XQmt0MDhUaFhNZ3UxRW9WR0dodnZjSG9aX3NZcDZYbXVqVVVTSURMRE5mVXpLVDJDMlRObDJ2Z3JDTw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Tesla vs. Rivian: Which Growth Stock Is a Better Buy? - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Week in EV Stocks: Rivian Gains 19.8% While Tesla Lags Behind | RIVN, TSLA - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFhGckE3Qm5XYjlTVm1Ob0lROUhWWkN3U2VFLVFQUzJHRzlNcDQ2ZlgtZHctZTIxM0hHaHhPck1mc2ZfQ3E3dTBQbEpqWVhUZURkODBOdVB6YnZSNUNoYm5DVHdwTGZnR1VHaEdJajVXSUJkSVR4RVBPLUZhOW4zTTFXM01NRkc2c190bjVieU0telZJSTU5bTZCNW9EZE1rR1pZQ0JXTHlmTGZZc3N5bkIyUndpTERl?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Sun, 15 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "The Week in EV Stocks: Rivian Gains 19.8% While Tesla Lags Behind | RIVN, TSLA - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian stock soars after it beats sales expectations and waved away a supply snag - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3FlUUdnaVZPaFl3QUJmREsyZnZpTDQ1Y3RHTnhMVWVUY0JjUTJhdHJBNGRuOWtBdXBRVmJHWFJycVlLcGlIS1hjOXVNY2prS3c3cGVtblhKWFpTdDJDZUFRbnA3aVY0djliSjZMMVZ0WnlhZktRdUhpV1NERV9xYlRJM3N0eG8?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 03 Jan 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian stock soars after it beats sales expectations and waved away a supply snag - qz.com",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's 15th year is starting just as poorly as Tesla's did - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXJPWWdDZm1XSzdkZS1nY0tiRnVZM2tXaGQwTno5Ym15M2lhY294eFlwSGhmT1dSaXFRQUN6dS1DQkE0OWpqVnB4b21PWFd1aEhlQVFwRlY1cS1VSFVIcERfUzlTMUpwbWlkWUpyVDFhRlpqUHVtOTRpNW9HX1c4WnRoVlVSTHdT?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 03 Jan 2024 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's 15th year is starting just as poorly as Tesla's did - qz.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Meet the best non-Tesla EV stocks of 2025 - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMC1laTlSenI0ZEd1SHJnb2txQWlUWGNfZl9sRW1kVmFNVWJ4dXBmQzZqc1dxQUIxRlAtMU5hTm44TTF4bnJKRHVJR0hKNE1jLUk2Y0FnVjM5dW9nbmhwSlhRSlhaOUNqeXBsZENDdFdUazF3bkRxN0M5eFh5SE5OM2dkN1FGZjIxZlNqOA?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 31 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Meet the best non-Tesla EV stocks of 2025 - MarketWatch",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Warning: 1 Reason Experts Think Sales Will Plummet for Rivian, Tesla, and Lucid Group in 2026 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVMwTV9hNDBVdlhjTW1lUmJscXlJTmhXR0hUekl5LUZHdTJURnF0VG55ZUwzeHBQd3lvdDZPM1RQUFBwRk1iUnRmeEUtZng0WjN4MGhIYjdDMXYzdy1Genkycl9YZ2N0dUczNW1ZQnIxc2hnS2F6NTVnZmRGRU9tS3ZPS2ppeURCMjk4RzRJVzIxeHdEZ0tfaA?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Sat, 18 Oct 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Warning: 1 Reason Experts Think Sales Will Plummet for Rivian, Tesla, and Lucid Group in 2026 - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Could Buying Rivian Stock Today Set You Up for Life? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVPTG9rQUoyYkxMalhBNnlyakw2Qi1EejBzdXdLN1BHelRYZFQxcEJDc0FiVUJzMnE4NEhNMElzcUlORWpaZElFTDNpZ0RiUkIxcTJ2dkJOOTQ1TUFHdUtlQi14YU9zV2VaX2cyeEdJd2lQVkZ4bEx0SmY2Qmo2YnVxRTM1RjhXcDVrbkFQRS1QNlk?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 17 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Could Buying Rivian Stock Today Set You Up for Life? - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is Rivian the Smartest Investment You Can Make Today? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHRJd21Tc1dkLWxRbEFxLWxFZlZNckJoY2hMMHdna3BELXJDSzhOcnQzeGhJU1d0NnFMYUFILUtoSlhrZFNmeEhIcWJsdHgwbnYyVFI4SHl5eGZEZzB4T1gza2xIei11dkd6eWVtbnpQTVZtQzVsWUhwelA0a1lkOVZTdUxVUDF0UnlxTVNidDNITzZhdFpjZQ?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Sun, 29 Jun 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Is Rivian the Smartest Investment You Can Make Today? - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Better Electric Car Stock to Buy for 2026 and Beyond: Tesla vs. Rivian - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUmRqSkdDYS1pMDl0YVZhS2ktNVg3dHVnWmFMNXJrOUE5TEl1SVBQRTAxNGtUV1F1enlyeGgyUzdUdFM3Z01ndmhpd3hoSGxwTjcxRkNHX28tdjNCODgwdU5POGNfd0dEREsxRXFxYnJGYWF5NnZwdERZdUVOdTAzdXhuekMzY1BGY3dCdkdEU0JDVERQaldETA?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 17 Oct 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Better Electric Car Stock to Buy for 2026 and Beyond: Tesla vs. Rivian - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's new electric vehicle is slated for 2026. How it could rival Tesla's best-selling SUV - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnQ5NUROenZlUXBOeVI2TVdHTDVmem93SmJZRThhdnZwNzE2TF90d3IxMExOVVYwczNWbjlKY3NFMHRMcFdkY3FvU1FseFRvYUNCMkpwbU9aWWd6MTBub0ZtMlpVSjlzX1FFeWxnNTR1R3ZpR2FnQXE3eENpLVhrNWtFMDBwYWxJMVFFdm9ubHFPcWZUejR3dkRJWQ?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 15 May 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's new electric vehicle is slated for 2026. How it could rival Tesla's best-selling SUV - USA Today",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Electric Showdown: Rivian Beat Tesla With Patent on Cybertruck\u2019s \u2018Range Extender\u2019 - InvestorPlace",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzFCODBkbTZfYm1ZbTdCM2pUZnlsN2lBNWlWbnd0VEVKVmpRM2J2b0IxQjlHemJ5a0JBYVhlemlwRUE1anJyTkNSaFFaTGZZdGlocVNjNkZRM0UtN09PZmZ0Yk5XRDBkX2dpbWw3N0xZaUthcUU4MkN0S051RUQ2WFhxdmxrTmRuZHhzOFFTMlctRmdXcUlpS21xbjdTeHhLZ2pNQWx0Ml9WUlh3ekN5Z2hB?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Mon, 04 Dec 2023 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Electric Showdown: Rivian Beat Tesla With Patent on Cybertruck\u2019s \u2018Range Extender\u2019 - InvestorPlace",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTURwWk1ERWN2UHdxZm5jRW9OR1daQ0FyQmc3X0s5a3BtdEE2UVNKQXRLWE42aXVlV21MRUlRN3pLTEVBSmlWWFktaUw2QXJoSnM1a1FnLXMteUxHaW1rNFdSQ0pHYUNFeVMwVmJ3X25ST3lJdnN4STk4ZXduZHdWaEZMSTRaN0JWanBzNVpHN2hlMXYxS1V3VWlLR3YyUjFzOV9iaDRGR1pEZXZ3aXVlLWg3T0RMTnBteTRhRkl3?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
