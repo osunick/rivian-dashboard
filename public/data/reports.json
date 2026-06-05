@@ -9336,5 +9336,71 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T14:20:06.436381Z",
+    "timestamp": "2026-06-05T14:20:06.436381Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 being 400v is the right choice. This video shows how 800v could ...",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1txce0b/r2_being_400v_is_the_right_choice_this_video",
+        "source": "reddit_rivianr2",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Cat saved from electric vehicle in southeast Atlanta",
+        "url": "https://youtube.com/watch?v=EZtElXutP-8",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T03:41:47Z",
+        "score": 0,
+        "snippet": "A man in southeast Atlanta found a cat stuck in the tire of his Rivian pick up truck. SUBSCRIBE and turn on notifications so you ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
