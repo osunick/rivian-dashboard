@@ -12144,5 +12144,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T18:25:07.475537Z",
+    "timestamp": "2026-06-05T18:25:07.475537Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 17,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 10,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "Rivian rolls out software update 2025.46, including Universal Hands-Free driving and digital key for Apple and Android users - Electrek",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian rolls out software update 2025.46, including Universal Hands-Free driving and digital key for Apple and Android users - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdHFWQ0RxdlNYWnBNMS1wZkUwTHhQVjdhX054OHB6ZEVneDhFVlk2NFEwTS1EakVQRm5qWk4yR00xTUFKaVB3bjZwQW1fMHhhUy1XdURKYWZvNjZ0NmVaMS1sVWJlbjhSVVdaNDBzUTg5T0NiZ3dfU1IydHJ6RVJvYjJjU3lVNnRKamRmU2JBQzBsT0s3d2EwMzc0Zk9RdDQzcm5acm9NSHk4X3pQelV5UzFCX2hDUGV0d1pZWGpTVGJRckVRdXREc1YtOHYtSW9tVms4dnRQeVpDSHlEaFBPcEFlMkM0ZGk3bjRR?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian rolls out software update 2025.46, including Universal Hands-Free driving and digital key for Apple and Android users - Electrek",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Should You Pay Rivian\u2019s $49.99 Autonomy+ Fee? Here\u2019s What You Get - Men's Journal",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1pPMlRQR2x6b1Bpa2ZaREoxVWVnUEZUX3p4dUlQV29CR3JRSUxmN2djUHY5aFlBYXdkaTZCUE9lUHZDdnhfUGlISk5aRmF1Wkh2S0Z1VHFURlpjbzQzY1Y1NGFGcFhWSmVKaXc2MDVDMnkzMWdNU2NxR3NSWnZjVFB3cjducTFSeW5HRF83Zmc0R04xb1RqZw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Should You Pay Rivian\u2019s $49.99 Autonomy+ Fee? Here\u2019s What You Get - Men's Journal",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian debuts custom self-driving chip, $2,500 driver-assistance package - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnFFU0hYUC1pWk9vWTh0NXhWdlExMEhBUFBxNURXZzc5d24zd0JfYWtNZHJpdGVfYUtwUGlOSEhUQk4wU3diV1M2dzJ5cmdiMjF6SW0xXzNyV2R2cHNyOXFwUUpHWEh6TnRSdkV3cGt3NGJWSWdqNW9MRUFiQTJvSzlyMHlfQQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian debuts custom self-driving chip, $2,500 driver-assistance package - Yahoo Finance",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Latest Rivians Just Got 'Universal Hands-Free' And A Bunch Of Other Updates - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5d0hpS2tsTnRrWnNVak9FVVlnOUZlLVlFSXJRZTVUQm9vUkZBY3VUSlN4dEtkNUVFLWV6TXBVMllyWEJKdEc5aW52VkJWUmFaN3FkejQ1NXhvUDJQLVFmbDBWS2JRckJZN1AzaTgtMUJLOWZDSTU1cnM5T3ZCUQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "The Latest Rivians Just Got 'Universal Hands-Free' And A Bunch Of Other Updates - InsideEVs",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Extends Autonomy+ Free Trial for Third Time - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWRXcURHTE9CUGlsWW44TkZrN0VBOEt4T25aLU9LLUl4Ukx1bEZpa1hGWUtqVUJpamdoRmtWbkg1Vnd6MndFN1I1MUFIZHUxcjFjY0pHanc1MGhoaFZfdEFkdGxVVERndnhjYjNGRFpVVE9ocFQ3Y0xRUUZ1aDFiY1RvUWJTTUx2NVJqNzBpOA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Extends Autonomy+ Free Trial for Third Time - eletric-vehicles.com",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Here's How Much Rivian's Tesla FSD-Fighting Feature Will Cost And What You Get - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtcW95eHRwVExlR3hKOVUyeHRuVVBaal82Nk9DSlp0TnYxdFVyTGcxMENpVk5kZzN3QlI4X0FobXRtc05EaFQ3eWpTMDlkM05kUHhQQjlnR3ZIN3NNRTZCZjhUZHMySkRfWXVqQ2tBeThyd3h6eFE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Here's How Much Rivian's Tesla FSD-Fighting Feature Will Cost And What You Get - InsideEVs",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's New Level 2 Hands-Free System Works On Any Road With Lines, Not Just Highways - Jalopnik",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVFFMk1KemVoRTlQMUVlZHVwc1NZVjkwRGxrMF9JUVdxNEZsVFVhR1NnZmNvaWtVMjIwR1FEb01sb2RhOHYybl81QjVMVTQ3ZG4tbTMwajY1Ymp5RWlTMHZsdms3bHJPcEpNd295UTFFWVJoTHlqa2p4R0RFVmdkLVM4WXp2R1lUbXJn?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's New Level 2 Hands-Free System Works On Any Road With Lines, Not Just Highways - Jalopnik",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian announces new AI tech, chip and robotaxi ambitions - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wcUVmMGhWNllEZV8ybEdnSWVEN1NTYkNnVDZFOFVFcEltN2x5RkVLTkhTRjhlbzJTczVZTzZYOUtYNV9BVXl1akxzbVB4ZFZkcURILTQ3VUFZX20zbk5helRuT0tYS2N0dEtF0gFwQVVfeXFMTl9SR1YwNU5aSFF6bExXWDdEdGpjdVpwcVhnRTdQaXc0WG1TM3JYdjJzSTdQX2NhcEoyVXBLWTVlVWFSX05zRF91aE9sWlNVMmFIMG81T242bzhvbVp2X0NXQXJLaENSRE1XQU5mUGh4RQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian announces new AI tech, chip and robotaxi ambitions - CNBC",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian steps up hands-free driving push with expanded AI strategy - Car Dealership Guy News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTlFRZndaR3ppajVZN2I1TUFJUWtsQ0dlVXNmMlA3aVhCNXpmVkpNNlpxRG5CRGR2N3JEck1vTEo4cW1LYVJSRTlMVlBCZkRGY1VKeWZtRG5WR3ZJZE5NTXpVUkJldFBJYkI2RV82TjJGRTYzUGNTVFBYQ2RzUVlyZ0lLeFUzRDJ4OFBFdkpDYnU5MlFVLTl0cG5iYlhISDZJTlhINkVCdGh0YzNjQ1E?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian steps up hands-free driving push with expanded AI strategy - Car Dealership Guy News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian rolls out new \u2018Universal Hands-Free\u2019 driving feature - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPREkycG9oMmJzNUFNT2h1SkJBNWdBaXNZR2w0LTd6SXFNWWlQaFFicUROenFRSFNhbjljS0JteE4yZGZOM3pZMmhxUlNFb0ZvVDFGMWxjbjJWcmQtYmNhcXhaODE4empoQmxVSk9CUm1KM0JkMnpZTnl5aU5KRWxpQWEyQ0pmQi05YmZaejFvSHpiRHdESl9j?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian rolls out new \u2018Universal Hands-Free\u2019 driving feature - TechCrunch",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s Free Highway Assist Uses the Same AI Model as Its $2,500 System, So What Are You Paying For? - Torque News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMUo2U3Z5eVVQZG9vdFFXOWhPR3g4Mk5jOXNNcC11UU1rVFlWNUVGbFNEYko0eWNjdzA2SkRZRWlqSWVGcFhpZlo0VnVyNEtpREJySEpRX0pfMmR0SXBkUFVvZGtrUV9hRUY3RVFuQUZWcUJjbDFVQjNSOXFTTmVVVDNGR0t3RUJBU25iQzZDUklHdEVLZVphVVllNWlkeFpUYnBWSk5FWFhCekwzZ203UEJmNlVaWHY2Vmc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Free Highway Assist Uses the Same AI Model as Its $2,500 System, So What Are You Paying For? - Torque News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I asked 2 Rivian execs why an adventure-brand EV needs AI and self-driving. To them, they're logical next steps. - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOElFdW52RlNuYjBGbnJ4ZEFRaFA3a0NWT2hqRVNCRzZBSTFiRFNYNVRYcFp6dVFybTk5RTdybHM4b05oUW5UMWxKTzAzYTdJNVZMSGlCNkw0dFJ5Uy1nWkNfYlRWQUI3anoxdWM2cGJQeFcwWU5hTEFURmtqXzFtTzlDMVQ5SFZhQ29WbA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "I asked 2 Rivian execs why an adventure-brand EV needs AI and self-driving. To them, they're logical next steps. - Business Insider",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's AI, autonomy impress Wall Street, but EV and capital concerns remain - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzdE05cm9QWkdhOGJOYm5FVmprMWd6ZHJWdVJmRjVEN1FnakFoU0FwWUtISGdjUzFqVk1iUjZxWi05VEZkYmtFZzBjMGhQRDBvV29qX2FuWWExaERLREVTSUVBd2TSAWpBVV95cUxNV282b2FzcERZb2s3Q0RrUTQzNWlOVzNJZkdXSmF6RGNPMk5XbE1mVWpRMzZ4UW93Ti1TWnl3OU9vanQyd0UwZTc3SHZYNmV5SWJJcDJjTVhoVlBMdllDeU80RGdYQ2lJY1RR?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's AI, autonomy impress Wall Street, but EV and capital concerns remain - CNBC",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian sacrifices 2027 profit goal to push deeper into autonomy - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3NDMVEtWjUtTzVqVDV4V2VhWlYzLUlTblhPOUxUdmxaaV9RT1kwUkdHQTJyOXI2WWRJZG1CTjFyNlMwR3RPQ0hsUDFLUnRFMFljVXYyc2xFRVMwNE5ndkdJenNvT2t6aEJ2MDF2M3RrOHFJVkNsZHhXb2tBSlB4aldsOXdrSWoxR0VST3RlOFlQYmZwdmlHZUp3WEFObkk?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian sacrifices 2027 profit goal to push deeper into autonomy - TechCrunch",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian To Start Charging Money for Autonomy+ Capabilities After Trial Period Ends in April - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaW1TYnNaakdBRDlJWXBLVUZ3d2RmX1k1SVN5cFUxYlhxV3h5RlB2QURkTzMycFZFSjNmcUlGSzlHOE1BRGVjM1dkRDRLXzFLbWRFanU4dmRGOWNBUlpvbWhCRnI2b1BDa0ZPME5HZlQ4TFRoTW54SHJ4Z0NQMEpUT0MyN3pGU09MYkd3LW04YjRwTVljYkwzSmtHZ2FPRzVWSkJzZEVTT1BTY3YyT2RGVVFxMlgyYnBITnROVkJyeGdEYXJFR0dXZVNPNDhjNGY0RWc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 04 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian To Start Charging Money for Autonomy+ Capabilities After Trial Period Ends in April - autoevolution",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I Got A Sneak Peek At Rivian's Answer To Tesla Full Self-Driving - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LeFJsOGUwZi1yeUF0VUhHSHYwdFFwQTJBOG1nQmxsV0U1NmxEQUJqX2FYRE5hSDM2TlVaMHIxX3R6OVFsandhNmdaUGN1aDdFck5EckdEZGZDNi1QZVNTWC1WcGhJN210YVREbHZQQ3ZuNWVQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 31 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "I Got A Sneak Peek At Rivian's Answer To Tesla Full Self-Driving - InsideEVs",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "We got a tour of Rivian's lab where the 'profound' pivot to AI-defined vehicles began. Take a look. - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjFxb2RGSkkxcVRuVlFHaGZUbmVkUWlrSl9abU8zSTVCYjZSR3lNWXhDYXBDcTVSeHZEMTNPYUhhaEV5N3lWQ2dXOGRLeHB6d1pMN05rQmFrTmlGbjZVc0FuUjVJcHc1WklwR1BwRXpEVlY5NEpwT1diMlV1VC1Tb0UyNnVCZ2trZFBMZWtpTy1iell3eUlobTEyWkZTX3loTlVIVFhoRjY?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "We got a tour of Rivian's lab where the 'profound' pivot to AI-defined vehicles began. Take a look. - Business Insider",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Hands-Free Driving Cheaper Than FSD - CarsDirect",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmNreWtUWVR4M2VCMmo3QVBwLWRGcTZaMUREWENtdGVjY3NfcTJnOVpGSXFncU55V3AtRUsyTHhsMXV6TmR2UjM1TjRSb1pUTGw4SHFFc0ZEcWg2cWhaRXZSS241Rk9tN0pWa0hwbGJkeDBNQVZRVklKX1FoTVBHalctaHp0ZFhHNXQwQkl3?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Hands-Free Driving Cheaper Than FSD - CarsDirect",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Some Rivian R1S and R1T Drivers Can Soon Drive Hands-Free on 3.5 Million Miles of Roads - Car and Driver",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSV8yWGc0S0FOYUVUS0VMZkpQU0NDakprN2NINDBfd2lwQzhNTWZRQTRDZlJDN1owZy04dnlYS3Q5cnJTeGF1eXBtRnRFZzZEekxweTd1WkVILS1TT0JaN3h5d09Mcno3SXJWLWp6NHFvUEEtanh4dnJYdThhcTE0ZVVjZHAtZEc0ZUtQTC1YbVFUQQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Some Rivian R1S and R1T Drivers Can Soon Drive Hands-Free on 3.5 Million Miles of Roads - Car and Driver",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's autonomy chief says lidar is 'very affordable' and a 'no-brainer' decision - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkJDM0luN1dxbm9TYmxrRjZJSmcwMnhTUE9aWk9IMTQ0MDdXS1VmZVAzdHZsTVRFcjB5TzBMMGxNcEJyOWpJeFp6d3ZDeFkxT25DRm9LcWJjVHl6bHpnbmw2RmdlR1FoWjAwcjJLSUROWGdrNFBYMmhIMlZ2d0NOMmhfZnNTaVZWZVI0dk9FVG4zWG5TSHc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's autonomy chief says lidar is 'very affordable' and a 'no-brainer' decision - Business Insider",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian AI & Autonomy Day: In-house silicon chip, next-gen AI platform, LiDAR for Level 4 self-driving [Video] - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS29nZEtpYnYxNVBjSmtTWEdWU0o2RGVYOC1SNmJFbkF6T1dZU1ExaHRfSGQwVlNFNkl0ZndmUndrSUhieU5jYmE2c0RwX0tSTHltQmlmUmJwZ19jQ3gtQWpyLTlGSWR4X3d1UFBvMlNwNUNFRGh3V1AxTVhUbnE4U3l6OGRRNEY4dGFEYWJTODgtczBhN25sUmQ3bnR6YTFzQ2M4ejdn?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian AI & Autonomy Day: In-house silicon chip, next-gen AI platform, LiDAR for Level 4 self-driving [Video] - Electrek",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian develops in-house AI chip, adds lidar to R2 as it eyes robotaxi market - Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GcUtzOF9jX2x1TnJoSjdsV1VUUTA5dERJY2FHRlpXMWpjR2ZHVnMxVmZlbjlUc0lvVUkyeEJxc0F2cG81aU9RTmY3bUwzNjhUU3JLLVU2MUpONEFJV1dodGJFUTJqZjlEeV8yeDA5eGg?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian develops in-house AI chip, adds lidar to R2 as it eyes robotaxi market - Automotive News",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Is Going After Tesla in Autonomous Driving, Capitalizing on Second-Mover Advantage - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMUp6SkdBQUlWajdaeXhQRVhPaFhxdHRlNDJ5V0Y0RGp4Q2lZcW93bmdHSkF0TmZhTi1talRYdmdUTV9ORnVBd2s5anVPR01odFRrcWx4YXZ4eWFGLTVDcUEtMWpWLUtJWU9tdVZGMHpBa29LYTNTYW5XTGhfNXZFOHg1emF2LUZkeWNHd1Z4alBPWXJuWEJaLTFEWHhSak9MOVRsTzJYaFBXcjBNb3lJWXVtbDVoZEZldnFIX2JXQjB6QzhSRXp2ZXQ4YnJZTmVP?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Is Going After Tesla in Autonomous Driving, Capitalizing on Second-Mover Advantage - autoevolution",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2026 Rivian R2 and Tesla FSD v14 Deep Dive! - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1lmOUc2Q1lBb1N3ZW5PMGQyS3Utb19QR3ZBM213QWtRUTBuQWw1LUZrd0NLR1EyS1BRSUhBRlFoRzFfVi1VSUVPakxBbjc5c0QycHJGdUFIeUFBXzgxM1YxNmp5M05jaU9KRGIxdmVycm1VV2U0Mk9hNUFmd3VxaGljZWs1UHQ4TlE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 14 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "2026 Rivian R2 and Tesla FSD v14 Deep Dive! - MotorTrend",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian To Announce an AI Voice Assistant, Takes Up the Self-Driving Gauntlet From Tesla - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnJDTERSYUswbXhnRGZPVHAyeS1TYmQySGhVZFhtMkRqbnd1eUdUUG5wdjl0cXk3ckZtbXNkT01lekRsRnpnVGxCTzJEck9JV19SaWYwV1hIUllyUkFJRjdXc2RkTi1ONlJZZUh0Y1AxNy1LQnh2YTlMNVZIN3dfN2xSWDRCWTJGSm9FYmluODg5aXVWNEVVTW9uUm1neS1fY0pfMi1qQ0hjVWt3U2tsSjNGcUZBMW9qSnJmWldudW1qcS1fdi1SRlVwNmVlUQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian To Announce an AI Voice Assistant, Takes Up the Self-Driving Gauntlet From Tesla - autoevolution",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Assistant Is Set To Launch Soon With the 2026.15 Software Update, Internal Testing Pending - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHRWZUI5MWRBNUtMUURSRVF2Qks0cFlXYlRQV1AtQVBlcEJyYjlxeUZKWFRNZXAyU0lZY0RvNG1MeC1lVXV0VmtxZktyaEhHSTk4TUxtbkFEcHVSMGxUblhVR1QycC1WTzhGb2RUbkUwdVFlZmRqOHJGWXVpRnlmZmllT3lPSXppenU3ZmxVd2U2bzdfWlEtdEVWNHdWRFNSQWgySHc3RmRxWEZOWUhzWHA4SGIyNDJMRVdadGpYSXV5MTl0Q0dtSVFuNUVqckVIVnp6OUx1M3VyQQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Assistant Is Set To Launch Soon With the 2026.15 Software Update, Internal Testing Pending - autoevolution",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Commuter-Friendly Cars of 2025, Ranked by Advanced Highway Driving Assistance Tech - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE1fTVJRbF9ubUtrX01EU21VSU9EMG1XTndCYmRyZ3hLQzRmenVYVmRiUXFMbmtxWWNFUTU4eXd2eHhJc01tNXJob2xlc09DWi1uTGsxNVY5SlpIOWk0b3c3dVpabGdTOXUzMUJ3SHFmX3pJdjN0eG5VUFB3QjBvWjBQVkZ6MWpsUEdpYXFmWkhONWFqd09hN2pxTW9yVzVTelA3WUZJMjFIRjRNUXgyejVOT29TVEE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Commuter-Friendly Cars of 2025, Ranked by Advanced Highway Driving Assistance Tech - Autoblog",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Rolls Out One of the Most Consequential Software Updates in Its History - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2FES2NPcGI0bHpBZ001ZW9CNDQ4QVQ4QTRJbjJPajktaGhLcFIwem1zYnhSdHg1aGtXdEhIMzdrelBaUGdzemhCejlYQUF0LUJLaXlVTVpPRW5KY1FtaEYtSE1tQ01lSS0ydC01SWQ0dm1ZQTZram54dUozZHRZWXNaYUZlTVRHLUllTkV4R09sS0l2MW1VVFRnVlU2Mk1BeHlzNWdSVW1UZXU1MjhNeXNDNWhrZHdYX253MzZ2N0E0M3M?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Rolls Out One of the Most Consequential Software Updates in Its History - autoevolution",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe says autonomy could reshape market share \u2018before the end of the decade\u2019 - Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0dOM0pyOEZ4bEFZLXF4bDRfY3FBMWc5a0padll3T2FrdVhSV1oxalVaVXlGdkNISHgtN1FHUGdBX21uQnJSMVJEVmV3Nnl1UTdMblNraHNvMHhHaUxfWlhpRjc3bU9XRDFYM3F1dXNiQ2JjQU42WG53cDZaQkhTc3J6MmI?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 04 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO RJ Scaringe says autonomy could reshape market share \u2018before the end of the decade\u2019 - Automotive News",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian turns to AI, autonomy to woo investors as EV sales stall - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcXhwR21rYXpnZjRWYmFBTEltSUNudnZtbm5KZGRYeVhOYVRtVUYtUzBqY1ZkU1pYam9wWWZkRDVpaThRWTMwNXNoQXhNUzBsbEpORE1jU1FPdVpPVmtqUFpQMjBxWVhXb2VMYmN2TjLSAXZBVV95cUxNOVN1SW83U01kYWtyMGthT2pTUHZkSkNvNnRia09PZVdCMjdHekxGSW05bFpnclRCQU5iSkx3WXpoT19RbnYxQ25tOEJUN2lKWVJzSk1JNU1JMnlua1RsUmkzQTlyMW5SQnU0aDdSN29fQnh5R1V3?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian turns to AI, autonomy to woo investors as EV sales stall - CNBC",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tesla's FSD vs. Rivian's UHF Update: Is Tesla Being Cornered? - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM09wSHQ3UU9vLUl5Q3RhclJkbGdQVEFyb3RyYkhtb0EwanBUSnBZRDU4RVpoY280bGJzeUxqQ09UZk1SRmZiY0VZZG5Mem5IaUU4Uzl1U3BSemNUQVlseWVRMEpQaXR0WjdBN0dlSDJIYl9VelJwSFljMWxiZWxZbnloQjRuTF9KeUs1NTNhd3pCVEtjMTRPRFpaUERXTXJva1JwUWZCMU8xWThKMkdDZFRrRW1NZ3BLSWRhMlVqbUw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 27 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Tesla's FSD vs. Rivian's UHF Update: Is Tesla Being Cornered? - Autoblog",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Should You Pay Rivian\u2019s $49.99 Autonomy+ Fee? Here\u2019s What You Get - Yahoo Tech",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcExJazNYV2hvbkw1eGlMbVVaVS1UeFl2eVE0OEp2YnluZXlQN3FKNEVSUzRjdkRMZGZxRnE3ZHRINlZOX2tpMmg3anZ3bU5pWUxqWlFFS25SMW9ZcjVmTkN4aHpaX0NUWHZJbmQ1Q2twNDJsaW93LWNZQWZGaXA5RGZaMUJIdUhyTHU0dHRvakg?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Should You Pay Rivian\u2019s $49.99 Autonomy+ Fee? Here\u2019s What You Get - Yahoo Tech",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Software Update 2025.46 Expands Autonomous Capabilities - The EV Report",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmEzVGttZXN3cmVtczFRRUJFdElCM0ZfVXlLSlZTSzByc2pTdk5haVZua3Q1YnlVNVZfTG9FVGt5Um1SUXNmQ3E2UDdJNGNhNVc1aV96ek80VHJWYWdWU05FSEVzY2gxUGVhVktLUnpacEU4MUdNT3NwOFhHS29uWXB3RnZNaFNGUmFQRVN0Zw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Software Update 2025.46 Expands Autonomous Capabilities - The EV Report",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Not Lucid, Not Rivian: Toyota Could Be the Next Automaker to Bring Fully Autonomous Driving to the Next Level Before Tesla - Autonocion.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KaGt6OVRhSURweGNIdDROS1ZjSzZ1d2QtNFRuTnZxeFpJTDViRXBVWDVrS0YxeHladGc1eTdOUG9yb2lfYzB3LTctX0VwX1pmMEtKRDMycHF5NnFwdWZ6MzN4TXZZY1N3MmZRVFJhSWRGZFB1NWc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Not Lucid, Not Rivian: Toyota Could Be the Next Automaker to Bring Fully Autonomous Driving to the Next Level Before Tesla - Autonocion.com",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Owners Now Get More Hands-Free Driving, Cheaper Charging - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ca2FZa004XzI3WVVsRzB6Q3dsZHJMOVU2NXRNWnpRTkhMb0xuZ0lsYlpFcmZ5X293TWZvOXBJV2Rtb3dFYlViSlhMSW8xb0FGVUEySFJqU1o1QU1tU0ZKTlFJZF9VSnZEQVpzM0VYcm9UajZ6Z1o3cElPcFczZw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 25 Sep 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Owners Now Get More Hands-Free Driving, Cheaper Charging - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Autonomy and AI day: Live updates from the EV maker's inaugural event - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWp2cDZXSDZiVm9MdzF5YlUzaTJNdzEwVlNKbkUxbDktTXVReGRBdTNXb29EdXBSaFA2UUl3MEZBZ0Itdi03SExDTFU2NkpkcUktMHRNeFpyS1lPbURudG9rU1FFM2dCRS1nYWhydGRINkNQWDR0R2ZlUklCelhFQlNBcTl6MzBkaC1JV0x2V2NqYS0xeWVSQmhBaGVQTzkyUVp6YVR4S3VpV251NG1BLWVNb25UMVh2U0RaTDJFbk5Ccm4wQjlvcjlzRF8zUQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Autonomy and AI day: Live updates from the EV maker's inaugural event - Engadget",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Adds Lidar Sensor To Upcoming R2 EV For Autonomous Driving - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVW9NQXZIVlJpU0ZfYlMwRWl6Vkd1elZWN3RITEdRNzZrU0VibVVMTXRVdllIX2s5MGNycWZYaE9BaW1mcGQ0Yldtd3pEeFJURFFaSjNRZmVnX1k4X2JVeHNsWGRfUVhHOFpRYVdNN0lyTVhlbFJicDhQVkxldEtYc09fZUI4MXNtRVNVQ0dCZWw2ckRrRUhMWFhybDdrMDFaelVqQ1FjbmlpOUhyN1FWZU82ZF9qcVJJbXc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Adds Lidar Sensor To Upcoming R2 EV For Autonomous Driving - Forbes",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "This Upgrade Could Make The Rivian R2 Fully Autonomous\u2014Eventually - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KTVVTcVlvU0tpV1VrT1VyN3lxcEU0VmVjOXFyQ0o0UzBOM1FBX19xMlNsdEZNSnJ4RHQ5WlBYRS1IOE8zbEJWdHF5dFRfZHFfQm1NbTE3U1B6VGllWnFadVoyYXRCaS1NTXQza2FGT0I?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "This Upgrade Could Make The Rivian R2 Fully Autonomous\u2014Eventually - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Helper That Handles Diagnostics - Edmunds",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EaTN6eTZ3bzl0cy1xYU9KUFM4REloSWxoR2VSeVlGTkRCVWdpeEgxenN5d2JPSFBhUUE1VkYxYVJfOUdnTlZRS1RLQTJvUk1DbVBXLUpZN1ZrcU16b2VTcGQwV0gtZWxreFU5eXY5aw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Goes All-In on Autonomy: In-House Chips, Lidar and an AI Helper That Handles Diagnostics - Edmunds",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Says Hands-Off Point-To-Point Driving Coming Late 2026 - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nR25sNDBFejlJV1p4a1h0al9jTW9OS01JLUxhYllyX0dHbzlUWHVUcmhHdnVGSUpDaUFXZnVRc3BDNjJzeE95UlREVjZrcDlkMWg4N2djMjFuMXI4QWd6MnQ5SVBWaG83ZDlfSURRTWJEQWs?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 22 Aug 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Says Hands-Off Point-To-Point Driving Coming Late 2026 - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
