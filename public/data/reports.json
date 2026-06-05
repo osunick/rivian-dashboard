@@ -9050,5 +9050,291 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T14:00:42.045812Z",
+    "timestamp": "2026-06-05T14:00:42.045812Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 24,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 7,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Markets Index - The Wall Street Journal - WSJ.com",
+        "url": "https://www.wsj.com/market-data/quotes/company-list/markets/funds/a-z/A/18",
+        "source": "wsj",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Sales Data - Automotive News",
+        "url": "https://www.autonews.com/data-center/sales-data",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Subaru News",
+        "url": "https://www.autonews.com/subaru",
+        "source": "automotive_news",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2026 Chevrolet Silverado 1500 Review: Expert Insights, Pricing, and Trims",
+        "url": "https://www.motortrend.com/cars/chevrolet/silverado-1500/2026",
+        "source": "motor_trend",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\u30b9\u30da\u30fc\u30b9X\u3001IPO\u3067750\u5104\u30c9\u30eb\u8abf\u9054\u8a08\u753b 1\u682a135\u30c9\u30eb\uff1d\u95a2\u4fc2\u7b4b",
+        "url": "https://jp.reuters.com/markets/japan/YTA7X7VR4VPNHPJISGYXUT3IRE-2026-06-03",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "SpaceX wins Texas tax breaks for chip project, ahead of record IPO",
+        "url": "https://www.reuters.com/business/media-telecom/spacex-wins-texas-county-approval-reinvestment-zone-tied-terafab-chip-facility-2026-06-03",
+        "source": "reuters_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\u30a8\u30cc\u30d3\u30c7\u30a3\u30a2CEO\u3001\u65b0\u534a\u5c0e\u4f53\u306e\u672a\u6765\u8a9e\u308b\uff0d\u30d1\u30bd\u30b3\u30f3\u304c\u9053\u5177\u304b\u3089\u76f8\u68d2\u306b - Bloomberg",
+        "url": "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG2MLGT96OSH00",
+        "source": "bloomberg_top",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@naatbatt.bsky.social (Bluesky): All 6 major OEMs: GM, Ford, Tesla, Honda, Toyota, Rivian\n\nBattery recycling stra",
+        "url": "https://bsky.app/profile/did:plc:beup2ii7w4lfn46ymhehr3i7/post/3mnk77din7i2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T13:03:49.066Z",
+        "score": 0,
+        "snippet": "All 6 major OEMs: GM, Ford, Tesla, Honda, Toyota, Rivian\n\nBattery recycling strategies (July 8, 9:40 AM)\n\nwww.naatbatt.org/events/2026-...\n\n#NAATBatt",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@insomniachedgefund.bsky.social (Bluesky): \ud83e\uddf5 4/5 \ud83d\udcad The Take\nRivian has established itself as one of the strongest independe",
+        "url": "https://bsky.app/profile/did:plc:34kooeu2jk2t35lz6yd2aqyw/post/3mnk5ifdi3h2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T12:33:04.159Z",
+        "score": 0,
+        "snippet": "\ud83e\uddf5 4/5 \ud83d\udcad The Take\nRivian has established itself as one of the strongest independent EV brands outside of Tesla, with premium vehicles that consistently receive strong reviews for design, performance, a",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@insomniachedgefund.bsky.social (Bluesky): \ud83e\uddf5 2/5 \ud83e\udde9 The Setup\nRivian Automotive designs and manufactures electric vehicles, ",
+        "url": "https://bsky.app/profile/did:plc:34kooeu2jk2t35lz6yd2aqyw/post/3mnk5ie2df423",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T12:33:02.763Z",
+        "score": 0,
+        "snippet": "\ud83e\uddf5 2/5 \ud83e\udde9 The Setup\nRivian Automotive designs and manufactures electric vehicles, including the R1T pickup truck, R1S SUV, and commercial delivery vans. The company also develops software, vehicle archi",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@insomniachedgefund.bsky.social (Bluesky): \ud83e\uddf5 1/5 \ud83d\ude99 Rivian Automotive ($RIVN) \u2014 INSIDER BUY Alert\nDirector Aidan N. Gomez bo",
+        "url": "https://bsky.app/profile/did:plc:34kooeu2jk2t35lz6yd2aqyw/post/3mnk5icvcvu2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T12:33:02.161Z",
+        "score": 0,
+        "snippet": "\ud83e\uddf5 1/5 \ud83d\ude99 Rivian Automotive ($RIVN) \u2014 INSIDER BUY Alert\nDirector Aidan N. Gomez bought 18,000 shares at $13.97 (~$251K).",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): ICYMI: The best \u2014 and most rugged \u2014 off-road trucks of 2026: From a Toyota Tacom",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mnjtc7ftlf2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T09:30:39.164Z",
+        "score": 0,
+        "snippet": "ICYMI: The best \u2014 and most rugged \u2014 off-road trucks of 2026: From a Toyota Tacoma TRD Pro with seat-mounted shocks to a Rivian R1T that fords 43 inches of water on electric power",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@autogeek.bsky.social (Bluesky): \u0423 Rivian \u0437\u0440\u043e\u0431\u0438\u043b\u0438 \u0440\u0456\u0437\u043a\u0443 \u0437\u0430\u044f\u0432\u0443 \u043f\u0440\u043e \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u0454 Apple CarPlay \u0442\u0430 Android Auto - autoge",
+        "url": "https://bsky.app/profile/did:plc:nu3fzyzlubjhhvck6znioopl/post/3mnjmivrfsc24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T07:29:11.070Z",
+        "score": 0,
+        "snippet": "\u0423 Rivian \u0437\u0440\u043e\u0431\u0438\u043b\u0438 \u0440\u0456\u0437\u043a\u0443 \u0437\u0430\u044f\u0432\u0443 \u043f\u0440\u043e \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u0454 Apple CarPlay \u0442\u0430 Android Auto - autogeek.com.ua/u-rivian-zro...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@coryw.bsky.social (Bluesky): this spot would be primo if they actually plan on executing on it because it's b",
+        "url": "https://bsky.app/profile/did:plc:hcqh55paf7rtvlli3ymbgk5h/post/3mnjc6u2fm22v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T04:24:37.264Z",
+        "score": 1,
+        "snippet": "this spot would be primo if they actually plan on executing on it because it's basically exactly as close as you can get to both 17 and 40\n\nI don't thiiink this was NEVI (flagstaff's EA and Rivian mee",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@raxmanartist.bsky.social (Bluesky): Rivian looks so cool!! That smile is very adorable!",
+        "url": "https://bsky.app/profile/did:plc:6qdr5o2agzl5iscikqgd5itl/post/3mnjc5v6ywc25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-05T04:24:04.460Z",
+        "score": 1,
+        "snippet": "Rivian looks so cool!! That smile is very adorable!",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2027 Jeep Wrangler Scrambler Hybrid vs Rivian R2 |Hybrid vs Electric SUV Showdown #autoreview #auto",
+        "url": "https://youtube.com/watch?v=_TgdEXpJx7c",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T13:00:33Z",
+        "score": 0,
+        "snippet": "The off-road world is about to witness an epic clash between two adventure-ready machines: the all-new 2027 Jeep Wrangler ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "EV Stocks mein paisa lagana hai? Ruk jao! Pehle yeh dekho. \ud83d\uded1(12/30)",
+        "url": "https://youtube.com/watch?v=vPhSbxu43-Q",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T12:24:55Z",
+        "score": 0,
+        "snippet": "EV Stocks mein paisa lagana hai? Ruk jao! Pehle yeh dekho. (12/30) Tesla, Rivian, ya Lucid\u2014EV market mein paisa lagana ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Might Be the Upgrade",
+        "url": "https://youtube.com/watch?v=9Za6o895HFU",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T12:00:33Z",
+        "score": 0,
+        "snippet": "Show Notes via Email http://eepurl.com/dI2lkn Support the show Get an ad-free version of the show, plus exclusive bonus ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\ud83d\udea8 ALERT: Rivian Could Explode After Earnings\u2026 But There\u2019s a Problem!! \ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=b6Cw6WGlbdE",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T11:47:03Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\u2757\ufe0f$SPECIAL EDITION RIVIAN \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=e9I5G49sZ6s",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T08:30:24Z",
+        "score": 0,
+        "snippet": "SPECIAL EDITION RIVIAN \u26a1\ufe0f save $2500 link in bio \u26a1\ufe0f TESLA REFERRAL CODE LINK | Receive $1000 OFF Your Next ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\ub9ac\ube44\uc548 R1T: \uc564\uc11c\ub2c8 \ub370\uc774\ube44\uc2a4\uc758 \ud50c\ub809\uc2a4",
+        "url": "https://youtube.com/watch?v=jM117OGSlF0",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T07:39:35Z",
+        "score": 0,
+        "snippet": "\ub9ac\ube44\uc548 R1T\ub294 NBA \uc2a4\ud0c0\ub3c4 \uc120\ud0dd\ud55c \uc5b5\ub300 \ud558\uc774\uc5d4\ub4dc \uc804\uae30 \ud53d\uc5c5\ud2b8\ub7ed\uc785\ub2c8\ub2e4. \uc804\uae30 \ud53d\uc5c5\ud2b8\ub7ed \uac00\uaca9\uc740 \uc5b5\ub300\uc9c0\ub9cc \uae30\ud568\uae09 \uc131\ub2a5\uacfc \ub7ed\uc154\ub9ac\ub97c ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian is charging",
+        "url": "https://youtube.com/watch?v=zHgcj3bOruk",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T06:05:51Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Comparing Rivian&#39;s Autonomy+ to Ford&#39;s BlueCruise",
+        "url": "https://youtube.com/watch?v=NamT5Fg7FPI",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T04:45:39Z",
+        "score": 0,
+        "snippet": "I compare Rivian's Autonomy+ to Ford's BlueCruise, based on my real\u2011world experience as a daily BlueCruise user in my ...",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Can you find where this paintless dent repair was? #pdr #dentrepair #paintlessdentrepair #rivian",
+        "url": "https://youtube.com/watch?v=EwwNFayPWy0",
+        "source": "youtube",
+        "publishedAt": "2026-06-05T03:05:29Z",
+        "score": 0,
+        "snippet": "Making a Rivian dent impossible to find without repainting. No filler. No sanding. No repainting. Can you find where the dent was?",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
