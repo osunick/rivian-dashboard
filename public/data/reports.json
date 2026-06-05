@@ -12590,5 +12590,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-05T19:17:26.654613Z",
+    "timestamp": "2026-06-05T19:17:26.654613Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 9,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 23,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 4,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R1 series feature you surprisingly didn't like/use as much as you thought?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1txuipq/r1_series_feature_you_surprisingly_didnt_likeuse/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-05T19:15:02.578Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RIVN Stock Slips As NHTSA Safety Probe Clouds Rally - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLUtuX21PUXpaRkp6eUZ1SEVZTXF1Qnd2c3BVc19aNW04RmprVXlhWUZQb2hXcFdtUWJnQXpHOHNvY0FJcUhaQnlyTmxrWk5WMllvOW55SlZ5MFJhVFdBLXJmZTkzS2FjN3VfbkpkZWhnRkM4N1pPQVBUeGlOZ1k?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 05 Jun 2026 18:04:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Slips As NHTSA Safety Probe Clouds Rally - StocksToTrade",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "3 Reasons Why the Rivian R2 May Not Be the Company\u2019s Savior - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeld1NHdxZTRXS29mZEZRUU1nbGlKbzB5elo5Sm96S0sxZzNKMnNtRXBYTXNxRUIzb2NuSzhnMzZ6eUhPdDFTSkl1a2RxMXhoZUpmZDlHUEw3ZmNmc3hMVFBDMTE5NzhHeEw2cVI2eXpTRWtTaFZ1MmhiM3JEM29nS24tU0pWNVJwZzJULUo2SktLZGJtOUJR?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "3 Reasons Why the Rivian R2 May Not Be the Company\u2019s Savior - Autoblog",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO Hints the R2 Could Spawn a Pickup and Performance Model - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVpMdUxTbDI0WGc2TDBkaU1fNHJGTWNMcnN1d2d1UVk0b1RCbEI2N096MDdpa2o4UWNvUkNrVE13Q0RYZ2RzRjkyejB0eVdPNTBNLXZUNi1LUEpMeS1LRFlJby1RN1dHWVkxY1BiYl9jXzVaT0lPUFByQ1ZLVDNzMHZmYzF1X1pPZ3NrcjREN1ZZbVBiS0FMMHFxSEw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO Hints the R2 Could Spawn a Pickup and Performance Model - Autoblog",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 vs. Tesla Model Y: Which electric SUV offers more for the money? - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE1ocElpYWRRTWI2UEdDR0hLUVBNZDBMY2FhWlMzbWYtVzhqbnhxS3RrMElVdTBKa2xSZ2lSNjU0TW43RTZrSUwxY1E5UG5fazZrQ3g3X1VQdU0yNTVJLUNqbEpOekU5dnhFck01bjQwVl9SeE50WW5ncWtlSGFPQS1SUFhDLWJWLVEtYnJfU0pDMWFtc3djMXRsbmxQQ1gxQzkyUzY0NmMyeXVldTZz?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 vs. Tesla Model Y: Which electric SUV offers more for the money? - USA Today",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Lucid Enters Autonomy Subscription Race With $69-$199 Monthly Tiers Starting 2027 - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQak1ISmEzLVVWdWk4T04zejkzQ2l0VVJ6a1YtTWpKcVBsZnAwOWg2a2RjUm5NT1dDck5UVlJ3NzNEcGExUS1JRWlIajlndXk5VXNMaTUzdG45bWlEYzV2VXhLczdKLVZyQU40X3V4Z3JaME92ZHJhT0t2dEh2WUdUNnFGanVLSUlUR1Q3aC1CT1JxWS1DYktCc2ZhMHVGc0xPZ3FzWElKbFNkUnZsUllnUmIwNjYxQQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Lucid Enters Autonomy Subscription Race With $69-$199 Monthly Tiers Starting 2027 - eletric-vehicles.com",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s AI pivot is about more than chasing Tesla - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0dqMkR0RTQ1VFRZZUNwb2JJRWNhakt6dXhWa3dTd1QtamxUanNOOEtDY2l5bGZZSGdWOTJOVjNhcEN4bEtHNjZGSGZEWF92RDhRZzdIeV9BU1N3QTYwZkVmb1BLMGNPejNsQXplLXRhNWNLTjN3MlcwZFc1bHJ1Zms2M2xXblc0amRVcnBkb25rV3hsM1lkektpcnRRSDFi?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 20 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s AI pivot is about more than chasing Tesla - The Verge",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Software Update Enhances Charging, Autonomy - The EV Report",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yNDNUS1ZRZUVFTXBvVnFadjlLbzRZYnJSSmZsZ0VKT2FVbHU3OWJGYXBKUlNueW0tYlpnRndDdTlqMl9UQkRCaGt1ejFuelRZQTR4TXU1UUE2ZFFrb3lLMUdOV2VxQzJjSGpiaVI4WnBkc1Zta3hZZm9kSEdudw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Software Update Enhances Charging, Autonomy - The EV Report",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Unveils Custom AI Chip, Reduces Dependence on Nvidia - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObG9wWmI2dWljQngxTm9tclplSm93clJoUmNnMFQ5enVNbk5ia0gwWTRnb2VRY3ltdGVRZG1GaXYyS2lXUjFYRHpNLUlScW5ScnZqUlhnemVyWXlTdkZ5eURfXzZyYWFYLXV0aHdoaTFWdkpjV3ZMVnMxd2lEcVBDc0dLRDFsd0ViOW8zS3VkR2NIc3ZUZkZXam42UTlWWFBnVG5HOWU2ZU1KTHF1aktYSDAwVQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Unveils Custom AI Chip, Reduces Dependence on Nvidia - PYMNTS.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "For $50 A Month, Rivian Will Make You A Passenger In Your Own EV - Carscoops",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODRCMHVBMGd3XzdsZGx4Q2tSNXFUQklYUUl6OXN0NVFVUUJ0YW85U1E3TV9HTTAwdzZYOGN4eS0yWngwY09MNHR6c3h2WV9iQW00QndMQmgtdG1FeTdyTmpYVHF2ZnhkS0luUGR6dmM5S04wMndLVFBEN0ZiWm96RlRDMkhYNm53d0RPOHZ3WG9hMkpHcl9kUjE2MDFOT0lQSTd1bENpb25qQQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "For $50 A Month, Rivian Will Make You A Passenger In Your Own EV - Carscoops",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Will Add Lidar in 2026, Says Tesla\u2019s Cameras Aren\u2019t Enough - The Drive",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFBrcHBjQTF5eHpCeEpXTEVvUWRNNnJpdERiTll6N1NnMG5tVXU1ZkFjN0dBU2Qzbmtmbk1MN0RBajN0WHJUVUhURGRCRjRjWGR6SlFDT1BQODhlWkVNcndLbkJ3bnlycG1hQU1GMzlhZzZkTzA2aU9IR0ZRc3B3OW9XUTNMejIyaVNEZ281Tl9fU251aS1r?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Will Add Lidar in 2026, Says Tesla\u2019s Cameras Aren\u2019t Enough - The Drive",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\u201cShadow Looked Like A Car\u201d R1S Slams Brakes At 70 MPH\u2026 \u201cDropped 20 MPH\u201d With Highway Assist, Owner Reports - Torque News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFNYSWtpV3BoTl8yMFFITGVYb3FmR2FLbWZ5eEJ4ZE1lNWVHUlNqZDQyUnNuTWtDcGE0NVhKZnQtMFZUbGtrQ0hlcFlqQnJoUG45N2Q5dGxWdmVOUHYtSjdQdFpoSzdlaEUyQnNkZkVnRF95Um80MkFDQlhqOXMyMnNhbHZFa0RBM2w2MWRCRUVnMUp0LTJiZVRqVHAxQTRtc0dzZjBySFI4WFpTT2JFazh3OTZ5TlRnOXc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 07 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "\u201cShadow Looked Like A Car\u201d R1S Slams Brakes At 70 MPH\u2026 \u201cDropped 20 MPH\u201d With Highway Assist, Owner Reports - Torque News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Reveals New AI Chip, Rooftop Lidar Coming to R2 EVs in 2026 - CNET",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFFmaldUVFRNdmJGLTJTbTd6WGpLYWhfakNNNVd6M29DSnJNTFNLLVhpWlJGYXdLNUxiWHo0ZUdtTWFlWmRpVEx2R3V3RTVXX1dZZVVRSmxGTTNtZG51WldXNEh0TWhCb2ZxT1RqTi0zV20zT1RjS1BfdVVSSC1taVJIRTI5d2xraHdqUQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Reveals New AI Chip, Rooftop Lidar Coming to R2 EVs in 2026 - CNET",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian EDV excluded from latest autonomy and AI upgrades - Clean Trucking",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzBCbVpGSEJUUEJUSThuMnhFUE1NUHlBTnlWY1JqZWhfNWY0LXhRWG1RUGtVczBjaDRTSjV5ME5Vb211MEVHRllDRE9rZnZlVlFGVGFOYUVJRTFrM0pzYmxGbzFFR3h6VE1HVllscVIzb3ZLZkNFc0tNanFXN2ZUYnl3dk8zWXkzNThtaE1uVzRsSjA4dC1kN2VQbV9xdmFYdFc2Ykd4OFpUZ0x6UDNhQnJac25zM2dxTG5GZw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian EDV excluded from latest autonomy and AI upgrades - Clean Trucking",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Watch Rivian's Autonomy And AI Day Livestream Here - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LR0RsN3hLSFpsalgyRlJSdkJsT0RPNUlJdDhYdmd0Yko1Sm1YdFJvRUdFUC1BdG5QWndmcnZOTG9tODNMS0pGb2RsOEUwLS0tN0xHY2JuWG5JQ1JOLW13Mlh5N2U5UEdKYW1mRHBOTGhCUHRIeGFORVF1RS1DZDg?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Watch Rivian's Autonomy And AI Day Livestream Here - InsideEVs",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian reveals hands-free tech and smart assistant - ArenaEV - ArenaEV",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2lwR193YnY4R08wOXpiUDZOaGJrX0trSzQxel9OOEFUd0dRcWxkYklrU2VZMWJaNUMxNXZ6M3VRUUxvYThHSlBIa0NiWkxxR2NSMGVFaVVjNnR1a21DSDA4RUc1VktSeHJDeFphUFZ0ZGRXTU5pV0Z4NFU1ZFN6bEpSb1p3UzFUTmRNcmxMdE3SAYwBQVVfeXFMT1RHajVWMG9XYWg4U0t0Z2JGbEkxNjlKMlFWSUwtbUkwMkhjazN4SmVHYVVnUEw0Zk5TNmRJLTJ0RHdab0J1T1h0Ujd3ZjZqTl9pMTNabmh6OEE1cW4zSzltR2ljcmh1Rk11d3Fhc3otTVNBanQ5Q2Z6ZmVwRlg4QlZvZm02Y3V4ZTQ0UGs?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 13 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian reveals hands-free tech and smart assistant - ArenaEV - ArenaEV",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian spells out its autonomous driving vision - Tech Brew",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaHkyVkZoLVBiTnhwZHRtczRqN2VZeVgyTEh3LUhqMFBYSFQzOEoxa0JZYll4eC10bjZHcHpaNG1PM2lOLVlBNWxoaFphY2txeDBHYWJ6N0RFNlpwY01lYzhDTU15NC1TNFdBS01MQTZzeVl1SmVDbERoUFQ0dXVmWmNB?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian spells out its autonomous driving vision - Tech Brew",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Launches a New Processor and Aims for Level 4 Autonomous Driving - Motor Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUxsMnlRZjZqeHZFanN2c2g2OTVOQzdtRHRnaXNES3Etcm5QODBPQVh5WGkycmlFd1hjUUhHVWdQRE5lcjZOSDFLZ1Z1T0tLZWFsTUtSOHRQR0ZBQU9vb3gyNUxLS3ZkVnV6OGRSdl9veU5iODZxSXVsOGhRYWJCaUFVTGJEZExySzV6TEVQU0JhTWNsaVYzdzEzVm9uY2xmdFhGM0NFWnhnVGF50gGyAUFVX3lxTE1GN29jUERxQXdvd2E0dHlmSUNKdXZDZ2pJNzZSU0tFUUVfLVYzR29OWnNxaHNicGxNd1J3bGM4UnZPUU40dG9DeG1DazB0MTY4SWpXVERqblMzVVNwTzduOG9LSWp5OVJicGMyclBBUlZKMjFubXAtS1VFNUV1aFhXSk5pN1V2cDRuRC10eV9FeVZQSFprVktDVi1YZW5GM3ZRTXNOLWE3OENzN1lkMURRRUE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Launches a New Processor and Aims for Level 4 Autonomous Driving - Motor Illustrated",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian recalls 24K US electric vehicles over driver assistance glitch that can increase crash risk - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSDRIQ1ZSMW4xZUtfYkhCa0lPUDFmbm5ucWNFLThCXzFRMXQ5a0M3cnczZHRsZllEdWlLOEg3cGR6S0hIUnQwNmlDX1BYekl3U2hDOWdUNW5Ca0xESm1KUEdpVTE0dXNWZDZSSnVvemFldHpGSlNnUDVVaHBBM3JuRlFQU3JTT1VRRmZfVjVZOXllSlNiVldBdml3eUszZUM3MTdDRHBfRHdsS2lxczZ2NHM5d1JUWWhjd043eUZKNjNfYkgySnRTSFhoU2pJRjRzeGk2RQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Sep 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian recalls 24K US electric vehicles over driver assistance glitch that can increase crash risk - New York Post",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Expands Hands-Free Driving Coverage by 24x in New Software Update - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEtVbmkxWlA0SHVzZnl5VXhlR21vdHNaUFZYT0FGTHhLejBiVE90b2xxeFNWb2VzZURMYnludjd2UG1SbXpkVXpWTnFEOGd6S3pOUGgtWGRwTkRKbTdJWVdjeThRVGt1VzFLTmhmMjhHZmZXaXlsRmROaEFsaFFEd2FnZEJQQ0NjNXB1ZFVDcGVSQ1NwS2wzeTNtRkhJR1NVc3owS3U4OVNNTHAzRFE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Expands Hands-Free Driving Coverage by 24x in New Software Update - eletric-vehicles.com",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Patent Outlines Fail-Safe Braking Architecture for Autonomous Fleet - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEpKcGtDaUI0WVFwZVQwRDM5YUhOMEN1cklvRVpQTURvZ3FCLTl6S0lDUXlVZmVrcFVUOGtMYW5oSFZoMEJEM3JGYnlFZWxWZWU4RXEtMlQydW5weXN5dGc1TGYxS0Qxd2pOWXRFT1pxTlhBWlJKaWdNVlhwZHBxTmFfUzA0bGxINHM1bW1UMlFwNXZuLVg5RlA2UWo5WnRMLU5aSUUza2R0Sy1Wb1B5Ug?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 09 Apr 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Patent Outlines Fail-Safe Braking Architecture for Autonomous Fleet - eletric-vehicles.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe charts a new course for autonomous vehicles - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcG01MW41N3c1QUdhaTBpU0J0WE10NEdEWDk4VUNGOEZKcTg5U2JYWkZvejZtNTNyNmFJNzh2TnNIOUh4QUJVRE55TTYxQXV6cldydXJpY3BabWVkelhNZUhnbUYyQk9jdEZISm9uWFF6ZWdHMDdCU0FEalJZSk9rT2xTN0p5cnJjaDhaN056WQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO RJ Scaringe charts a new course for autonomous vehicles - Fast Company",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ford's Following Rivian's Footsteps With New AI Assistant for Drivers - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHFEaUM5LXZXSVZmZDFRN1RoeUp1TjhNbDRIU2M1QXpqclBhMlM0OXhPS0pfMmZTMkN5S0VCNXZYZUxoeUctQTNlajFPbFJCd1EySHFiX2Y5cnNUcDlYMS1GdlhaMl9vd1k2QkljSUFFbUVOeUsweFJ3aVNWd3VrLU14SlA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Ford's Following Rivian's Footsteps With New AI Assistant for Drivers - Business Insider",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian is designing its own powerful AI chips for autonomous driving - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xLXZaN2ZrMkRKb18zWk14djZEOUNFUHd2Q05xT0V6MlQzTnJxaVJPMFZGQW1nYjhUSXp5X0MtVmRQMTVQWkNwbkprYlMwZ0dFek1QQ3JsQXZZTlJmMmlBLXBobmxxR2NfV05HVUFHaEdQeF9ZYTJZ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian is designing its own powerful AI chips for autonomous driving - The Verge",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Suffers Biggest Stock Drop in Nearly a Year After Autonomy Event - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazltaDJYVjBqTGhqempkbFJzQUVOeXpQMkxQRndOeWlheDhJZU9XcU1LaGRMbllEcGZLOXNmMm5RczBtbUhoMmZjNW9MUEZWQ25GcXdJNTV3eFlOZ0FLNklXcEUtQksyV3RGcU9jb211dzc1emVZSVphX01ZVU4zbEdlOE94Y1llTktwVzRwemw0ZFR1Ul83dzdqeGlNSGtCZ0hUSHJ6NUtUVk9t?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Suffers Biggest Stock Drop in Nearly a Year After Autonomy Event - eletric-vehicles.com",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Game On: Rivian Unveils Its Own Inference Chip To Power Its Autonomous Driving Ambitions - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDlvbmlHMlRCTXJZc0xBZWtVd2Q5ZW1YNTZfMXBVcEFOVmI1OUgya1lUTVZoOWxHVEZaR2JTYXhFaHA4ZHppcHBzUVo0MWlYZFZ0YjIzd25kcGd1bU5rcFpxeUhWLXVBdkhhUy1kM1M1c1JEZU1tRTFwcHNlS3ZsaE9MUG96UU9vX05Nd0ktTEM3cnRNVTBNaER4SkVEUHZaUmtlQ2lmSTNjaFhPTEU3RWNyWDR1cUZxV0xXQXNaRGllSVdEZExiY01XNWYxNWs?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Game On: Rivian Unveils Its Own Inference Chip To Power Its Autonomous Driving Ambitions - autoevolution",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian goes all in on 'universal hands-free' driving at its first Autonomy and AI day - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaUs3eXFveHJJZzNVOXRGZ20zb1hlZTlvTTlOUmdwRThzMVFWQTJSNzNLTE5aZzJ6UHlvejg0RkloZV9FRWxhQmpUMWNJamxQMUdmdC1jRGdkcnpFTGFHZkh4T2hLamxaNGhDWHFneWJNZWdHZ1ZFRmpvc29MWTdCTkEwZGx2TG4ySmMzQkVWTjZNWG43QkhhNTR1OGl1STd5b0oxM2wwZGFCeHlQd3JLaFpvV0NMRXdqMGNuRzFNR2laMmx6R204RzVJRjliYWJXN0VqUmNGQmZRUQ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian goes all in on 'universal hands-free' driving at its first Autonomy and AI day - Engadget",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "This Video Shows Exactly Why Lidar Is Necessary For Self-Driving Cars - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90V0p2Z3c5R1Z2MjJ4YXpGd3hyb2lpOFNWb2lxY1M4TmM2UHN4anN3TGxSVXNIeUdDSEQydy00SlJtd09YZG1vXzJwbE9vMzFoYWZQdEl6a0ZYcHZHVHdudFRkZVdCdkRIUmFDVzFObGJBSmhB?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "This Video Shows Exactly Why Lidar Is Necessary For Self-Driving Cars - InsideEVs",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s AI assistant is coming to its EVs in early 2026 - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVdHOXBybnM5bnAyOXNBZzMybEVKcWVTOWtZZDBFQzh4NGpscW94ZVFKODIzb3BQYlB0Y3hpZzRrZ085T19HZlZXaDhPcTRHWDU3MHo5cmtPRG9hdTUwU2ViZnVZOXBXeFd2NVBFd0RIQldZN3R0MjNKcjNDYmpOVUZVTmZobTdjQjNJbXJYTkt5Ql9m?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s AI assistant is coming to its EVs in early 2026 - TechCrunch",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "TechCrunch Mobility: Rivian\u2019s survival plan involves more than cars - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTVtcHRYQTRDb3gwSkgwNTB6Z3A2SnJ0RDlQYWlGZEg3Uzh2UF80QjA1NjdFQnZIdG1RdzFIRDlBeEtQckd4bUFaZzBoeHUtb3FIZ2xmMk1zbVZlQ0J0enlhenJ1cm4yMFVTeG9pN1Z6bVdjYW5vQjZrSmh6bTRTU3p1Y0JMM1E?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sun, 14 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "TechCrunch Mobility: Rivian\u2019s survival plan involves more than cars - TechCrunch",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian tumbles after unveiling AI chip for self-driving goals - Crain's Chicago Business",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaTl2elJleElNVkFtMldzMWpjSEdUQVgydklVUDlJdEpMeGhHQWZINkFuTHdVcXJDdkg4dmdVcWlLdDdWZVFQNEwtMTNvU0htRkhndFJuYTA0ZFVHbjVlZm83T2tQbEEtMklRZ2RoRkU3Z3FlM2VWT1V5Tzh2N3JFUllNTHVzMmNZUzEtZ0FBSWlTaGVhV3lGUHpn?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian tumbles after unveiling AI chip for self-driving goals - Crain's Chicago Business",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Debuts Next-Gen EVs With Lidar, Chips, Autonomy+ - Mexico Business News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0V4bHFndTJYWGhoS3dUdW9LYUFWVjFjWEpMNXZ4M1RqOWE5ckw1THU2SHdmdHZyd21yNzVyWjhMeGVySEtvcFd2YndMbTBjQmpocVQxZk1uZEgya294d1RSdUdId2ZYd2I1dm91LTR5Vk1aQllaeGNtb2lrS2tXYjdFTmJXRUtwSzgtakpNMlc4dmZoUFE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 17 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Debuts Next-Gen EVs With Lidar, Chips, Autonomy+ - Mexico Business News",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Sets the Bar High for What an AI Assistant Should Do, and Tesla Better Take Notes - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVdXSHNjRUhrbnFUdW92czlSSkRoTl9wckltYXZpamNkemRzS2RxNlFtU0YwUDZMWDhaN3BTS0h4VlVTZ1hTWFNlSlRSNDg1aWhRaWVoa2hGZnhUVXJlbU9wVElpNkp2Q3lCM21fVGZkZi1jZlhWQTZhMnBORlJkdnh5d2lqRGQzRFFjT3N2bmtPejVydzg4WXlSYXo5TGpDVWZzMXVaUTVKVm1GTnpJd21yZFlRZ1drdDJrUG5xQnBXRkNfN0pFNlBNYWlmelE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Sets the Bar High for What an AI Assistant Should Do, and Tesla Better Take Notes - autoevolution",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How is Rivian Investing in AI and Autonomous Driving? - EV Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWVkTFk4ejZzQXhRWmpKREhiVm1JOENPMzJybGtqc1RXY1VlWWVEMDUyMDR1Zl9wRmVyOFNtSTMwZ25EOU1CemUzYUF3SDJOTFRsV3F2WjVqazluN3JYVXJCZF9QNnBJSE9BbXQ5WnJVcXlFa1hkbTVWZmtyYWhMaEpjNHhtb0E?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "How is Rivian Investing in AI and Autonomous Driving? - EV Magazine",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian to Unveil In-House AI Assistant at Autonomy & AI Day on December 11: Report - driveteslacanada.ca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19wblBnVF85RTlZTkZ2RGZtUVJ6SzBUNm82WTFSOFRsMkhjR0diNkJkeGJHSElpVThWaEhpU2RsN01Sc3hkSjA0YThUWWtUU2E0Z0hrcVMyeUtBeHBuVXIzVjFGV3NzUkRKTUpoXzRlWW41RTBBNjBOZTZtNkxYUkJCSDBzQVNVVFBDeHBIc3MydGRmTDNVRENIZlE5eFM0OUpWNGZLSEs3VE52RjVBeVVwMA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Wed, 10 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian to Unveil In-House AI Assistant at Autonomy & AI Day on December 11: Report - driveteslacanada.ca",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Mercedes Brings Tesla-Style Point-to-Point Self-Driving to the U.S. - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekJlWHlYUmxoS1RudjZTYXVMU2F0bFpSZHFCSmZXZElHTkgwZDRmaVFNSDJwOEdVUmpHSEpUdjRhY3V2RmtobDhLTnF1d3BqOVNMc250X1NRaFpVSC03Tk0yVmZVbWZqTmx5VDd6VXFXT0ZudWQ5MUlFSHRMS0NYYjZuSTdyQTlNMjBJ?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Mercedes Brings Tesla-Style Point-to-Point Self-Driving to the U.S. - Autoblog",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s New $2,500 Autonomy+ Package Undercuts Tesla FSD by Thousands - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LeHhxM0JFeVhycWxWb1BWM1VZZ0JOcExSVmNOVWFqeUktZW9mSjQzai1sdC1rb1NqckdnYm9VenpaejJodHd6b3NWam9td3BzUjdkbkxVYjhic2RWVGRuN0g2XzY3X2dSTEtlMkFJbmwxam8?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s New $2,500 Autonomy+ Package Undercuts Tesla FSD by Thousands - Autoblog",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Unveils AI Chip for Automated Driving, Ditches Nvidia - Transport Topics",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QREM2RU9IcEV1WEtFbUlZVE1TZGhjdmQyQkNWOXdTWjVETUQ3SXYtZWN1bnhXNzlaRlFmbGh5aEN3ZzgzQ0tCVUUtSlM0eDRVYVlYb3lhYmZZS2RCWkdXQ0F0d3hjVXc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Unveils AI Chip for Automated Driving, Ditches Nvidia - Transport Topics",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Unveils Tesla FSD Rival Coming in 2026 - TeslaNorth.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMmV6dTBMT1BiVGFkd05JNF9XYUgwUEFDY2EzNVA0d2NEblA2UUtDc0RBa0dZTmhmWVVqYUZDMzFFY3E5b1FqamgtM2pMTzZsZ0NGU2tjdGlZZjhxQkFHSGVualQzQlZ3S0U0cm9DQ3lwUU43UEJiSXVQTjZWNXNicmpMTlJJNWs?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Unveils Tesla FSD Rival Coming in 2026 - TeslaNorth.com",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian recalls more than 24,000 EVs over Highway Assist software defect - CBT News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXEyRjRpNnZ6MmV6aUU5UGdxTGpFWmEyRWZuX2F6SV8yY3hnemxWWkY0Z19WbDBrRHVzelNxa1VLNEExcFVfS2tfRkJLRHVsNGI2YzJmbWNCaFhIU1A5ckxoMEFUNWtsaUxZYWZXTkZEVnkwYmp1dlRLMFNjcVMxRGR0cU9KbUJnaWp2a0MtWXpfcFVzWUxZQ0xwdw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 12 Sep 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian recalls more than 24,000 EVs over Highway Assist software defect - CBT News",
+        "category": "software",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
