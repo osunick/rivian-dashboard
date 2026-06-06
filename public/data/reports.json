@@ -13928,5 +13928,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-06T02:04:35.365400Z",
+    "timestamp": "2026-06-06T02:04:35.365400Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 13,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian insurance?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ty3k0b/rivian_insurance/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-06T01:25:02.066Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R1T vs R1S - Which is back seat has easier access for dogs / in general?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ty2zn0/r1t_vs_r1s_which_is_back_seat_has_easier_access/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-06T00:58:26.564Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "tailgate bike pad options?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ty2sk6/tailgate_bike_pad_options/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-06T00:49:14.573Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Delivery is two weeks out and scheduled. I have a few questions. Maybe you guys can help?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ty1wy3/delivery_is_two_weeks_out_and_scheduled_i_have_a/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-06T00:08:58.728Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Service Centers Repurpose RAN 1.0 - Fishers, IN",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ty0kak/service_centers_repurpose_ran_10_fishers_in/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-05T23:10:39.546Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I forgot what hoody I was wearing",
+        "url": "https://www.reddit.com/r/Rivian/comments/1txzr5j/i_forgot_what_hoody_i_was_wearing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-05T22:37:05.102Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "If You Buy Rivian Right Now, Could It Make You a Millionaire? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzQ5RWZMUW82d2RLWnJJRFZocGduOVhhQzBaUnlZTWwzRWF6NEVoTnNYd1N2N0hyMFdLVDhMbl9MSTN6YzI2ZU1Fb0M5UUlubjhLSWx0SzN2Y0JnT1JfdTdvd1BSNE00Qk1qTVAwaGV4aV80UXRjMlZJS3Buemh6eWQ1VGVlMGlkRnFybVQ4dGhFb2tCTk5Ceg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 06 Jun 2026 00:42:56 GMT",
+        "score": 0,
+        "snippet": "If You Buy Rivian Right Now, Could It Make You a Millionaire? - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Launch And New Partnerships Reshape Growth And Funding Outlook - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVW9sWk5Ha0FSNnliRmVoLTFhVXNtOEtmaDRERTZfRjFadDJaQjk3WmhRdkhjaUVMMVl4SHZpbk4zWEVaRHRXWnNVcENGZzhYaHRpcnVQQV93YVp4RlZsbEkwUnp2WDhnMy05M0RWNG9FUzBwTlJYX1gxck9zSlpiR1RWUXdmUGNjOGlCWFZ4Z2l5RElhVW9Fb2FBVmZNNFJLckhkN2tVWUhSekdfUTFFcDlxVlV5QUl4Z1FMUUdaV0t2M0dKU1hPaXA5V0NPYnpKYXVMVDJB0gHbAUFVX3lxTE1PUGxkdk1XdEM1UlY4aTBGdnUyR1hOZUMwU3hNN0h5OEYyR3F4YjBYVWtFT1RCX052SGJSczN4bEN2UEtGQ0RfcUpDeW1LWG52aUVFNkgzTkZSbGNDeEtPMW90M2JHLXd1NmlNZnA2Mk9ha3hfblNvZlhHYzVGMTVMa3ZPaGpqMDhHZVFxOXlSQnpZbXBRYmYzZ1UxaHRSUm5TbEZNN3RlSnZTWUwyZ3FNZTNaUmlabHlhQUh0TUdBTXZ6ZTJRbzBEME1nRWp0R3FmSlp0d3JjdG9MZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 06 Jun 2026 00:40:54 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Launch And New Partnerships Reshape Growth And Funding Outlook - simplywall.st",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "AT&T lands Rivian win as Wall Street sees a growing threat - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGRWTmxmNjVxWXlFNUFQTndFbDY5a2lqLTlrSWJRM0FtdzZDblB6Umo4MndXUHcxZkJTU3l2VEFnck5ndkp2ZTR6ZzJiZlRMUVZ2R3BhdzRtNExxekdPbDFiYkY5WFVSVEVIVE5FODk0dWpoSG5CUlVTQ0t1LV91S1NNN3lPNjlOWWdESF9qb2E1STJxdHc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 05 Jun 2026 19:07:00 GMT",
+        "score": 0,
+        "snippet": "AT&T lands Rivian win as Wall Street sees a growing threat - thestreet.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Boosts Production Capacity and Funding - Intellectia AI",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2dScXZIZlpYRWRfRHpWQlJCYlpzejd1UDNoUDJSbVJ5VEtSbkwtTF9vbXhqRk9Fbk5iZENja2d1MDZNUS03Z2FtSjdvTndya0t2YnlzVFpUTndjN2drNk9rbVdid2FpTzBkSXFNUGtNWmJPcnQ3N0F5ZlBhVzFkTHEtZ1REUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 06 Jun 2026 01:14:51 GMT",
+        "score": 0,
+        "snippet": "Rivian Boosts Production Capacity and Funding - Intellectia AI",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Insider Sell: Claire Mcdonough Sells 8,022 Shares of Rivian Auto - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWRLTU1vc1NJUVd1WTdjU3Z4eUFiOUtoaUtpUXQwN0dvd3FpemhPV3RiV1NzdXZWVWxhR1BOWF9JQTdzQ2NycjFxVGxFWDVGei1nNE9mdDQ4T25FWkExOHZHd2J3WGExNEJhdGRsVVJ0ZWcyLWpYdzg3T1pfeTJkam41NE5fbzloZ2hRdnlOdGszOFBfem8zSXZHZTc1SmMtRnF0YUVqcXVjeEJCUnZKYkJaRm0xQ2s?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 05 Jun 2026 22:25:31 GMT",
+        "score": 0,
+        "snippet": "Insider Sell: Claire Mcdonough Sells 8,022 Shares of Rivian Auto - GuruFocus",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive Options Spot-On: On June 3rd, 246.88K Contracts Were Traded, With 2.45 Million Open Interest - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3ZQbnlMbS1hOW03dFZhQXU2a21aZ1VZTkVickxBbTVfTWpsUXdiMnNDa0g5ZlZLSHNvTF85Z2R2alU3czlOVmVKTUJXekdnYUhnVDJ3eURDbWZCVmNpWmx2WXdtOGVxM2pMbEhSU3BHamlfemlXTzFzYzhFR1AwOWtjS2pvdFlGVlRMNzhxWWxDNDVBQlAwMkZRRQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 03 Jun 2026 20:35:48 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Options Spot-On: On June 3rd, 246.88K Contracts Were Traded, With 2.45 Million Open Interest - Moomoo",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is It Time To Reassess Rivian (RIVN) After Its Volatile Year Of Price Swings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVBCTl9vZjMzeUF4RGROUFdiNXpfRGRUd0lsaW9CY1dEOTZSbmt5bUwzdU1oVC1fOE9jeW5ka3N0Z25mZWs2Y21uUkpLZmlsNU9uUndIVldzN2pxQklMY1plcGVYNFRqTXE5T3VhLVZOV21rVkJZYU05eEh5RzZ6TUp6cUd2cVE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Is It Time To Reassess Rivian (RIVN) After Its Volatile Year Of Price Swings? - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RJ Scaringe Made Rivian Cool. Now He Has to Make It Really Profitable - inc.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG1NM3hpeXpKWDZzOGVuTXFhaDZWQWVaV3A3SFp2MThsU0E1Tk9iQ1lpRWNkNTJXb05xamJlUURPNzBIbEdRZkwtclJPelc3SFJ6cTZwdGJEeUZocHVwMExaV2JQRFVYRS1Gak9LZDM2RHJJNGhQUjExZWJ4OGg4aWs0elFCSVZVSVpOQW9MbVFQbUlhQUs3cmJ1UDR1X0ZrdEYyTUlMUmQ2UTEt?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "RJ Scaringe Made Rivian Cool. Now He Has to Make It Really Profitable - inc.com",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s New All-Electric SUV Is a Lightning-Quick Off-Roader - Robb Report",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZllhbVQ0cDZYWEJDY3lSRWVJcGhLZUxEMFctMkptVy1LTWZINDhvYXNTU1B4dWZYYUpsNU1uSFBRTmRQTWZZM01wZjI3SW0yQkItaGMybi1uYXZUemRMS1drakQ0N3Jxb0M1dkZBWTJBdTFYUE5BQ1gyVkdXUkg3blRiejlYSDVC?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s New All-Electric SUV Is a Lightning-Quick Off-Roader - Robb Report",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 leak reveals pricing starting at $57,990 ahead of official debut - driveteslacanada.ca",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk5CRHdJTmcxbnd5U1VDYi1FNWdyLWhhc2QtMy1XMkNEaWpvazZydk5QaWIxaWlnQk5kXzRJdUItSk4xVDBYTm9hc1dPWHRYQW10SnhuRUhQYno5ZHZzSTZSMFlTeW04ZXRpZWxmT1QwODhkcUk2djFYSndQTUd1eTU1eUoyQlRydW9DQ01zZzNwclIzQm02VV9SeHlmZHkxTTg0R041Q2hXUQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 leak reveals pricing starting at $57,990 ahead of official debut - driveteslacanada.ca",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Just Unlocked Level 2+ Driver Assistance And \"Rally Mode\" - Top Speed",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wU0F3bjZxN1I2QVREQmFxazJFQXpYWHJ5OHZnckVwVlVPS1k0dm5zS0hFc3k2UllOLU5MaFhJTEotdWYwWmRIZ05RZWlOQm9yb2luSnktZnFYa01rUlVNdXNHNThrSzN0bGVxZ2NZcFc4alVlSEZ3Qg?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 13 Mar 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Just Unlocked Level 2+ Driver Assistance And \"Rally Mode\" - Top Speed",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's Level 3 Driving Assist System May Wear a $10,000 Price Tag - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmprNE1fV3lTUTdfWEx0a3pFUU1iN05LdlphaWgzS1haaGVZWm5FVTZDWkJ4YUpLRXJiOXg2S0VpT2QzYThEdHltTUZGR1V1Nmdlc2tTXzYwb3hObXg4VFFoTUVOb1lzTWhCbnJ4N2VieE9ybFQ3RktHaVR6Wjk4MG1pMEZrcWlIRDdIUw?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 07 Oct 2021 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's Level 3 Driving Assist System May Wear a $10,000 Price Tag - MotorTrend",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Autonomy Platform+ Won\u2019t Be Free Much Longer - RivianTrackr",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQi1xaTJSSktoSVVEWVBVeTk0WTV1d19xS3ZUWDhUYjVBcElnb0luRlR2TFl6a1daNDViNW9DX3VBQWxEQS1sN2w2TC1Zd1Z5bFBJM1lFWmhaTG1HUFBJOVh5N3Z3WXFKczBFakF6MTItSTFkOG9aSHJfZ1pYZkZxX1JLMFBBRkE?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Fri, 28 Mar 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Autonomy Platform+ Won\u2019t Be Free Much Longer - RivianTrackr",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2 Luxury EV Stocks Headed to $0, And 1 That Could Make You a Multimillionaire - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcklGcy03WU1JUGYwT2ZfWWlCT0ltcWJQZHFFVlNfMUthVUVlM3ZxYmdSVTBkZ2M0MmdsNXVsT3pHMUFDMnI2cmxfYzhfY09ValUxejNFLXNLVV9YTXg1M3U1TVpaSUtRLWFwOFNyVUdqd003Mm9JakhzSHEtZEdLWlZ0WGZRMEtBSjNXYXBoejZIRGxxXzZRbA?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 31 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "2 Luxury EV Stocks Headed to $0, And 1 That Could Make You a Multimillionaire - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is Rivian Stock a Buy in 2026?\u200b - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRm5RLXRPbC1fbV8teWZzMjZxZ2VJRE5OVzNpWmcyb0FJWW1sUktLNER0cjU4OGNMM2RlRkZrSFNiQWJoRGhJT2pwaDlpWFY3aHNKLV9yTGw1Vi1nQzBlUXZ4QUVrTnV6ZlJjeDFyRFBVaVZsaDdlWjNtZ2tVc09xcGQxc0NtbGpFRExHejF2bHdXQnFFdTg5QnJhdWNCWFJuOVlMbVE0dmtRb1YyaExCdg?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 18 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Stock a Buy in 2026?\u200b - The Globe and Mail",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Amazon-backed EV start-up Rivian plans to price shares up to $62, putting valuation near $55 billion - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHlnZWVMRXNLQkY3TWg2MmZHQVlCcEwtc1N1T21UQlRYM3ZvSUQwNlQ2VnRDdGVqMFphWFlGWUpKd08wVWZ0OFRKZnJwRDZ6S0pFdTVfUzJrZTlXeGhTbWFjdi1XemdHd3JKMWZJb1J0UTZrRHZMc0JZbm1zRjhsOS1rOEVzSFl3TkdQckY5ak42aTTSAZgBQVVfeXFMTTBadUluQW4xempqR3IybFYzWEFBamkxeE9fZUZBdTBEM0d2eWRRb2VWTU5jS1piTnNpblN3Yk91RUVoQU1MN1NSM3hVeGFwaEFIeEdFeU5LcmdUSnpRX2Vkczc1X1RqTVJBc1M3RnQxTTZOSkpNVk1IVkoycUlWZHBqUlNmak9pTUVkVlYtQkNzelZ1bzRVOTY?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Mon, 01 Nov 2021 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Amazon-backed EV start-up Rivian plans to price shares up to $62, putting valuation near $55 billion - CNBC",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Can the R2 Really Save Rivian Automotive? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTnZoXzRoN0N0WFdicXI4NzA2VmlyR0pzUzJ4S1hwU1R2Q2pMN21jYVQybmxISnBIN3hIdUFPNjNBa1VNcV9OUDI3ajMtWnNWVFRxNmRJc2hWVEFoMjhxVlZBSzJ3TmZta1JJX3hmNHRhdWRzcV95SkFITXcyWk0weVdSZ1FUMGl0LU9STw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Can the R2 Really Save Rivian Automotive? - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) CEO says R2 will be its Tesla Model 3 moment as more affordable EVs are needed - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pb1ZlM1RWeDBFQ181RmNrYWtOVUVKdzM5VS03N1d6WDlzT09qNzJCbmRwblZEYm5aNjE1a3Nic3JGZ1N4N2xvei0yQldxdVhQOXlGVUQ5bUpTM18wbVFnMEpCLTFVTlJTVXpWREVMWQ?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 28 Dec 2023 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) CEO says R2 will be its Tesla Model 3 moment as more affordable EVs are needed - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Is Slipping. Competition Is Heating Up. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkJEd18zQmVzM1NyRmxxVm94c242UUJ2dlhXUXA5MVY1X2hNUEdBTWtnem9md2Z1aERfdjJLUDBST0tZemdWMFBaSXk4eG5WaFNNUEVaN1k2elJqYWRWYl9MY3BVLXhDZHZFNHI3N1d3cDA2Tzgtc1VMZktVYXhqSA?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Mon, 17 Jul 2023 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Is Slipping. Competition Is Heating Up. - Barron's",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tesla and Other EV Stocks Drop on Reports Trump Team Plans To Kill Tax Credit - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVo4VFMxcU5Qa29OakN3NkE2NTR0UFJTeThKdC1kUXRFdWhpbzRVakxwQkY3UUxWNTdTYmoxYzNFZzhTeWFyQTExT0VMZXBpeEx4bVJreXlvNjRtd0VmZktuNkkxa1hEMmpFcDJXREVlZHAyb0Y5VkQzYzJRYURwN29qUGpBdGhOaDQyZEtuSDlfbUdVU190WDVQVUphOVlDdmRYeUx1OXM2RUk1ZHVFZHpkM1A?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 14 Nov 2024 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Tesla and Other EV Stocks Drop on Reports Trump Team Plans To Kill Tax Credit - Investopedia",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Stock Plunge: Time to Buy the Dip? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUURrN0xNR1dqWVpZWXF5dXJvVnpuTTRqZ0dQNWtmQkExZUY2X3pSRXpTcFRqRExaY25iakg5RUlsNTloWGxZZEpYLWNvV0F0NzNTWjhFbVRyVDZMdlhicTZ5Y1VoS1dBV2pFeXpMMml5WF8wN3Y0Q2pydF9vSVZtdmMzOVFzRWowZk00?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 04 Dec 2024 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Plunge: Time to Buy the Dip? - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian vs. Lucid: Which EV Stock is Winning in 2025? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcDUzN3cteG5WMHRBRGdtUzdHSEtHRHJYTmgtekpCdEJzMGhnN2RibEs5RS1vRTZrZ3RFUko1WVgwb2k2SnBheUhLU1BIZmI1M3R0d2J6TktOZFMtNV83Vk1qRmdxYi10Zmh6T1M4T2pHMWVfMDBucUl0YVlqNnNNTUlvRjh4bG9NekZ0dkhmQ1ZuRlJsRkNZ?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Sun, 05 Oct 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian vs. Lucid: Which EV Stock is Winning in 2025? - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Next Tesla? Rivian Stock Predictions: Should Investors Buy RIVN Stock in 2026? - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVlTZ2NDcjdIczlXdEFJUldBbERtc0VwbklNdV8wMko3U05CYXBEZmZoUWM3SXRROEY3c0pxdU5GTXRsNHptUnBpdlpTcHYzQ2RveWZvMzNrZHJicTMzSWJyUWFKMG8zVXhfejRqRjI4RzYyWVJrNGlZMHhPWWFmdlBSbDE5VExuLXZwQWU2WHczMVBzZlZUeGtVWU04YzJpaDJNZFhpeHRybi12QjNsWklIVEVwOHhfWDc4UWl3?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "score": 0,
+        "snippet": "The Next Tesla? Rivian Stock Predictions: Should Investors Buy RIVN Stock in 2026? - TradingKey",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Surprising AI news sends Rivian stock surging - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0lScHhBOTJZd2ZST3VoNjdyWEFUWkMzS0N4UTdYZzA0aVlJYTBMV1ExQXRYeG9Uc0wwaTZUei0xZFJZd1c2NGc0azNiZmpQTWhfYUN6eWdhYlhpOFpOWUU3X2RUYVItSzBVMmFmYklXNjdlek9JVkFIaFNZdW1VMF9KUDA2eER6Znc?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Tue, 22 Apr 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Surprising AI news sends Rivian stock surging - thestreet.com",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive IPO will test whether EV stocks can keep living up to the hype - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHNmQ2dTJQWWV2VzlBdV9mNjVneGlTNy14c3hDTzhnNTItc1psZ0o3THhPcUdFSHdyVk9NNjZmSjFpUmdqVVcxZUMwdkdWUzkzVjByVEIwcEVrZVc4dl8tbFNySUZTaW5oTThBY3RibW1JZw?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 10 Nov 2021 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive IPO will test whether EV stocks can keep living up to the hype - Fast Company",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tesla vs. Rivian: Which EV Maker's Stock Is the Better Buy? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYklCeWhOV2tMMTdVOVQwS3djaEhCVGZsa29tQUJwZGxOeVd0VVFqTUFTWG1CV1RTMnQ1QWVwQ0VlUU9xMU5EbGRKZmFrcFdBQmM3LVJMWGdSMHJ1aF9QaEY3NTRwS1BNZ2V3b2RQRkVUMDg5dlJodVNKNFRNRXBBY0ViSzlJaTgtR3dpZDBidi1ySmNTRDRnNVRPVDhWM3JmSTZjcW9OZUdKaWI4OXI5VGVYZ0hxWUFEZTlJLWtwUC1Kc2ttUHVjYmFyQ2ZxTHM?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Tesla vs. Rivian: Which EV Maker's Stock Is the Better Buy? - The Globe and Mail",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) is outpacing other EV startups in registrations - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSm8tenpseXZJRElaSVplZjhLQTlEbHBPZ1IzdDdrMWx4RWFTaEZWaGYxSHV6TS1xcTh3cXQ5Z0FCeWZqUUZHZDNWR3lUR28xeHJIaTlTeXUtZkJ5QzhLaEV5UVlOMHY3X0JTcHdFYml2RnpCdE1XQzRnMzlubFdmbmRyaXliQQ?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 15 Sep 2023 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) is outpacing other EV startups in registrations - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Trump's Presidency Could Mean for Tesla and Other Electric Vehicle Makers - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVFJjT0ZTaGZiNl9xRExoM3BET0pXY1E0VEpkeHU3X0tNRW5WWjdOcklNN1VYM2piY05WMDY1UmVVR1ZKTjhKRG1ZaWZ2dGNJalRqc3RJSzQzNDMzMk9YcjVvQzF0RUd4UzVCYUhjc19EUDJjYVpCTkdaS0JxTTVpcWdhcHczN3dfaWcxS2tKWXQzSWFPeWlwb3MxY19DamFSZVRhdg?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 13 Nov 2024 08:00:00 GMT",
+        "score": 0,
+        "snippet": "What Trump's Presidency Could Mean for Tesla and Other Electric Vehicle Makers - Investopedia",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian drops 18% in its first down day as a public company following massive post-IPO surge - markets.businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWNKT1UybXRiMWdndjA4ZjRYSGlKTm54Q0pVZTlrMDNRMmRXbDNKejhYMW5VcGNDQS1ReEQ0bmhGVVVGYy1JUjg1QmxzMkFJem1MemJESkhVMHAzVVh1d2l6dGdOSjhzUnc1SHUxUUdlSUxSUEFfdWd3UlV4R0RzbFBWMkhhbHloOGI3RGJTV2RMVWJfejVDbzZsajNMeHdHRGtyRHNaeTd3N1p5a1dQaHhR?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Wed, 17 Nov 2021 08:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian drops 18% in its first down day as a public company following massive post-IPO surge - markets.businessinsider.com",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RIVN Stock: Is Rivian a Better EV Play than Tesla? - CMC Markets",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZllsaGlCWFhQV3dFSjlQRXNDWlN6UDdpWURVbWN1Z1JPM3N1Z2IxUlByNUUtMW04SUtIeTNxdHBlQVZISGw3VmluMnZYdWgxNU1Bd09LMklDVm5aN01iQWlucjZmNnN3eVdqUnZMeERLUGQ1WTQyaVc3RjlmaHVFQk4tdHJ0SFlEUEF6R0t3SjNJN3RmeGV6QnNJNA?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Tue, 16 Jul 2024 07:00:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock: Is Rivian a Better EV Play than Tesla? - CMC Markets",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Best Electric Vehicle Stocks to Buy Now - Intellectia AI",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMXNZMUZfLTcxdWRjZXY1VkRhWDJtckw0Q2c5YUNkNjdrQThkZ29qcUpKeUZuVU1QQ0hTamVLQkhncVF2RWY5N0NyVkMtTGFmY0lEZGsxQldaT3J1Zzhlcg?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Tue, 03 Jun 2025 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Best Electric Vehicle Stocks to Buy Now - Intellectia AI",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) releases Q2 earnings, confirms $1.7 billion loss in race to make money on its electric pickups - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORms3SW9LNlg5cmY2eFBBa0hjVk4tVExxeS1DbF9QQjBFRVVORVNIWGRaXzlfajgwRDZvOUpxVTAyazFsUF9BcDRnR3hHak1DVEhSc0xBMk1nV2UwcTh6elpwWl9ZZ3NyaDVZbjNCandpWXE3cUNKRlptQ3Vza3YyT1JzMEpXZmdo?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 12 Aug 2022 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) releases Q2 earnings, confirms $1.7 billion loss in race to make money on its electric pickups - Electrek",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian vs. Tesla: Which AI-Powered Electric Vehicle Maker Is the Better Investment? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS3NKbTExN3dyVVJWQzF1ZkYyNkZhV2RkRGptc1JuejJPcUZqWWxveFJMYmpCTU1EeVhfYV9yQ3Ywc1VuUHk0Y3BVa1hnN3ZzSDVTV0YyWHF2em9xWTk0dTZEWk9MN1pRRE1MbGNsZTNqVFlYR0Vlb2lSWTJNZ0NJZUZLTFNiSVpvZElOSDlWdEx0SFhTOUxR?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Fri, 05 May 2023 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian vs. Tesla: Which AI-Powered Electric Vehicle Maker Is the Better Investment? - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "EV startup Rivian faces a 'mountain-like climb' to success. Here's how it got a foothold - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRUxZdURqTW1uT3RBa29rcFdESEFSeUtmbnMxaWFpZ1FCZ0wzSktMS3NtVzNzbmRJMUVoZ0hGdFJvYk54MkczSWx5VWduZlc4TEJfVHhydDRPblJ2QW9UM0tpeGE?oc=5",
+        "source": "google_news_competitive",
+        "publishedAt": "Tue, 12 Mar 2024 07:00:00 GMT",
+        "score": 0,
+        "snippet": "EV startup Rivian faces a 'mountain-like climb' to success. Here's how it got a foothold - qz.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
