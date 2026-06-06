@@ -14640,5 +14640,71 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-06T02:58:37.573107Z",
+    "timestamp": "2026-06-06T02:58:37.573107Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "Xpeng spends $500M/year on AI training to beat Tesla FSD - Electrek",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Xpeng spends $500M/year on AI training to beat Tesla FSD - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcm5XQjJyVXI0aGxGa1NJcDY1N1Jya1hheUxvaWRQRlY3YTBxb3JuRTQ2MV9SX3h1Q09kR0JUWFV0ZDJOWTJUc1dXZHN0NF93SXUxNHRxXzlVcU5zaFlPc0RpQmZ1TmhUV3lhWk9YM3dtT3VwaEtTLTYyVndORzU0U2w4cnpRVEMwdlE?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Fri, 05 Jun 2026 13:58:00 GMT",
+        "score": 0,
+        "snippet": "Xpeng spends $500M/year on AI training to beat Tesla FSD - Electrek",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "XPEV Stock Falls On $500M AI Bet For Self-Driving Tech \u2014 Exec Says Xpeng Is Following Google\u2019s Pixel Playbook - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON0ZmXzRLYVhMaGRIREg0cHZZNVlhRmVtWWpzOC10RmtrRlExT2pHT1BYa0cyTkk1dFBMYVFFZ3MxbF9sSnU2QmVaaEJYNlo5TTdPMEI4ZlhKN3NmdTlUT1VqYWpiR0pkMVhvb2tLYmt5bzI5ZmNGV2V4ZWNrdXlyTWpqS3h4bERsY0ZLeU1taDBqSmt3S3FiYk56NFBxYWFoNl9PSHJ4UlV3ZWxMU2dYN3QyVWFYNzlScjVydHAzVFR4TjJZVFBBWUZwUlJGRExZbWw2VnZFWFR6dGY3d2ZmTWhXOTNqUllCZ1ZsUXBzbUY0ZEZMcFJkZXRNcw?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Fri, 05 Jun 2026 19:55:03 GMT",
+        "score": 0,
+        "snippet": "XPEV Stock Falls On $500M AI Bet For Self-Driving Tech \u2014 Exec Says Xpeng Is Following Google\u2019s Pixel Playbook - TradingView",
+        "category": "competitive",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
