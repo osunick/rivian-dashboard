@@ -1,217 +1,5 @@
 [
   {
-    "id": "2026-06-04T02:03:33Z",
-    "timestamp": "2026-06-04T02:03:33Z",
-    "sentiment": {
-      "positive": 18,
-      "neutral": 82,
-      "negative": 0
-    },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 5,
-        "sentiment": "neutral"
-      },
-      "bluesky": {
-        "found": 2,
-        "sentiment": "positive"
-      }
-    },
-    "categories": {
-      "autonomy": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "vehicles": {
-        "found": 2,
-        "sentiment": "positive"
-      },
-      "business": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "software": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "community": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "competitive": {
-        "found": 3,
-        "sentiment": "neutral"
-      }
-    },
-    "themes": [
-      "Aurora update",
-      "R2 launch",
-      "Waymo move"
-    ],
-    "competitiveContext": "Waymo continues expanding its robotaxi fleet with a Geely-built vehicle, signaling sustained momentum in the autonomous ride-hail space. No direct Rivian threat, but the broader autonomy landscape continues to mature — an area where Rivian's own Driver+ program must keep pace. Canadian EV sentiment data suggests growing North American openness to imported Chinese EVs, a long-term competitive consideration.",
-    "summary": "Quiet cycle with low signal volume. R2 EPA efficiency equal to Tesla Model Y is a positive data point. Waymo expansion with Geely-sourced vehicles continues to set the pace in autonomy. Rivian software leadership engaging community directly — a healthy sign. No high-severity risks surfaced.",
-    "fullReport": "Quiet cycle with low signal volume. R2 EPA efficiency equal to Tesla Model Y is a positive data point. Waymo expansion with Geely-sourced vehicles continues to set the pace in autonomy. Rivian software leadership engaging community directly — a healthy sign. No high-severity risks surfaced.",
-    "items": [
-      {
-        "title": "Rivian software chief answers some very good questions : r/RivianR2",
-        "url": "https://www.reddit.com/r/RivianR2/comments/1tusgck/rivian_software_chief_answers_some_very_good",
-        "source": "reddit_rivianr2",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Rivian's software chief participated in a community Q&A on r/RivianR2, addressing questions on software roadmap, OTA cadence, and Driver+ features — a positive signal of leadership transparency.",
-        "sentiment": "neutral",
-        "themes": [
-          "OTA update",
-          "Driver+"
-        ],
-        "category": "vehicles"
-      },
-      {
-        "title": "沿66號公路，駛過一個世紀 - 紐約時報中文網",
-        "url": "https://cn.nytimes.com/culture/20250529/route-66-100-years-cars/zh-hant",
-        "source": "nytimes",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "NYT cultural piece on Route 66 centennial — not Rivian-relevant.",
-        "sentiment": "neutral",
-        "themes": [],
-        "category": "vehicles"
-      },
-      {
-        "title": "Kelly Cloonan — Reporter at The Wall Street Journal",
-        "url": "https://www.wsj.com/news/author/kelly-cloonan",
-        "source": "wsj",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "WSJ reporter profile page — no Rivian-specific content.",
-        "sentiment": "neutral",
-        "themes": [],
-        "category": "vehicles"
-      },
-      {
-        "title": "Corporate Funding - Latest News and Updates - WSJ.com",
-        "url": "https://www.wsj.com/topics/subject/corporate-funding",
-        "source": "wsj",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "WSJ corporate funding topic page — no Rivian-specific content.",
-        "sentiment": "neutral",
-        "themes": [],
-        "category": "vehicles"
-      },
-      {
-        "title": "Canadians warm to EVs, including those from China",
-        "url": "https://www.autonews.com/ev/anc-ev-consideration-buyers-china-momentum-0528",
-        "source": "automotive_news",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "AutoNews reports Canadians show growing EV acceptance, including openness to Chinese-made EVs — long-term competitive context for North American OEMs.",
-        "sentiment": "neutral",
-        "themes": [
-          "EV incentives"
-        ],
-        "category": "other"
-      },
-      {
-        "title": "Canada light-vehicle sales by nameplate, May & YTD 2026",
-        "url": "https://www.autonews.com/data-center/sales-data/an-canada-sales-nameplate-may-2026",
-        "source": "automotive_news",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "AutoNews Canada sales data by nameplate — requires further segmentation to extract Rivian-specific figures.",
-        "sentiment": "neutral",
-        "themes": [],
-        "category": "vehicles"
-      },
-      {
-        "title": "Used Rivian R1T for Sale in Mcdonough, GA - Car and Driver",
-        "url": "https://www.caranddriver.com/cars-for-sale/rivian/r1t/mcdonough-ga",
-        "source": "car_and_driver",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Car and Driver listing for a used R1T in Georgia — no editorial content.",
-        "sentiment": "neutral",
-        "themes": [
-          "R1T review"
-        ],
-        "category": "vehicles"
-      },
-      {
-        "title": "Waymo to Deploy Robotaxi Built With Zeekr to Expand Public Rides",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-28/waymo-to-deploy-robotaxi-built-with-zeekr-to-expand-public-rides",
-        "source": "bloomberg_top",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Waymo announced deployment of a purpose-built Zeekr robotaxi for expanded public rides — reinforcing Waymo's lead in autonomous commercial deployment.",
-        "sentiment": "neutral",
-        "themes": [
-          "Waymo move"
-        ],
-        "category": "competitive"
-      },
-      {
-        "title": "SpaceX sets aside up to 5% of shares in IPO for employees ... - CNBC",
-        "url": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
-        "source": "cnbc_top",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "CNBC coverage of SpaceX IPO share allocation — not Rivian-relevant.",
-        "sentiment": "neutral",
-        "themes": [],
-        "category": "vehicles"
-      },
-      {
-        "title": "CREF GROWTH ACCOUNT CLASS R2 | Markets Insider",
-        "url": "https://markets.businessinsider.com/funds/cref-growth-account-class-r2-us1944081751",
-        "source": "business_insider",
-        "publishedAt": null,
-        "score": 0,
-        "snippet": "Markets Insider fund data — not Rivian-relevant.",
-        "sentiment": "neutral",
-        "themes": [],
-        "category": "vehicles"
-      },
-      {
-        "title": "@driveteslacanada.bsky.social: Rivian R2 Equals Tesla Model Y Efficiency in New EPA Ratings",
-        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mng73g2uso2b",
-        "source": "bluesky",
-        "publishedAt": "2026-06-03T22:50:57.761Z",
-        "score": 0,
-        "snippet": "Bluesky post reports Rivian R2 achieved EPA efficiency matching Tesla Model Y — a meaningful competitive benchmark for a vehicle in launch ramp.",
-        "sentiment": "positive",
-        "themes": [
-          "R2 launch",
-          "Tesla pricing"
-        ],
-        "category": "vehicles"
-      }
-    ]
-  },
-  {
     "id": "2026-06-03T22:08:36Z",
     "timestamp": "2026-06-03T22:08:36Z",
     "sentiment": {
@@ -15155,6 +14943,379 @@
         "sentiment": "positive",
         "themes": [
           "R1T review",
+          "owner experience"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-07T18:05:00+00:00",
+    "timestamp": "2026-06-07T18:05:00+00:00",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 38,
+      "negative": 52
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_ev": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "reddit_sdc": {
+        "found": 0,
+        "sentiment": null
+      },
+      "reddit_stocks": {
+        "found": 0,
+        "sentiment": null
+      },
+      "hackernews": {
+        "found": 0,
+        "sentiment": null
+      },
+      "news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "business": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "software": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "community": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": "neutral"
+      }
+    },
+    "themes": [
+      "FSD update",
+      "RIVN stock",
+      "R1 delivery",
+      "R1T review",
+      "R1S review",
+      "R2 launch",
+      "charging infra",
+      "Driver+",
+      "infotainment bug",
+      "owner experience",
+      "brand sentiment"
+    ],
+    "competitiveContext": "Mercedes-Benz is positioning the 2027 GLB EV as a direct competitor to the R1S, creating pressure on Rivian's premium SUV positioning. YouTube content shows strong interest in the R2 launch (Mark Rober collab, 'New King of Compact Electric SUVs' framing), suggesting Rivian's marketing is landing — but two RIVN stock valuation articles signal Wall Street remains skeptical on profitability path.",
+    "summary": "Sunday quiet cycle with light volume (21 items). Reddit activity dominated by owner complaints — wiper auto-activation bug, being locked out of the vehicle, and a multi-issue 1-year R1S review covering delivery delays, battery drain, and charging failures. Software quality issues remain the dominant negative theme. R2 launch energy is positive on YouTube but hasn't translated to Reddit buzz today. Two stock-focused pieces keep investor concern alive.",
+    "fullReport": "Sunday June 7, 2026 — Rivian Intel Brief\n21 signals across 8 sources. Dominant theme: software quality complaints from the owner base, particularly around infotainment and vehicle access. No competitive breaking news. R2 launch content is circulating well on YouTube but hasn't generated Reddit discussion today.\n\nSoftware: 4 items, all negative. Issues include wiper auto-activation on startup (recurring), another unspecified software bug, and being locked out of the R1T. The 1-year R1S review on r/electricvehicles is the most detailed negative signal — delivery delays, battery drain, charging failures, and Driver+ concerns all in one post.\n\nVehicles: 6 items spanning Gen1 R1T stuck in 'Carolina squat', Easy Hitch Mode appreciation, a crash mention, Mercedes vs R1S comparison video, and two R2 launch videos. Mixed sentiment overall.\n\nBusiness: 3 items, all stock-focused. Two analyst pieces asking 'Is RIVN a good stock to buy now?' — neutral framing but the question itself signals ongoing skepticism.\n\nCommunity: 6 items. Brand sentiment posts on Bluesky range from 'Rivian spotted' excitement to critical commentary about Tesla-to-Rivian switching. No major brand crises but negative undercurrent persists.\n\nCompetitive: 2 items. Mercedes-Benz GLB EV vs R1S comparison and the ongoing R2 launch marketing push (Mark Rober collab) are the primary competitive signals.",
+    "items": [
+      {
+        "title": "Wipers activate on startup every time",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tzi35h/wipers_activate_on_startup_every_time/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-07T17:20:51.232Z",
+        "score": 0,
+        "snippet": "Owner reports wiper auto-activation on every startup — a recurring software behavior issue that points to a likely calibration or firmware bug.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "Easy Hitch Mode - I connect and disconnect a lot of trailers with my truck",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tzhijx/easy_hitch_mode_i_connect_and_disconnect_a_lot_of/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-07T16:59:20.499Z",
+        "score": 0,
+        "snippet": "Owner praises Easy Hitch Mode as genuinely useful for frequent trailer handling — a positive signal for a Gen1 feature holding up well.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T review",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "R1T Gen1 stuck in Carolina squat",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tzg4pj/r1t_gen1_stuck_in_carolina_squat/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-07T16:06:08.009Z",
+        "score": 0,
+        "snippet": "Gen1 R1T owner reports vehicle stuck in 'Carolina squat' — likely a suspension or alignment issue specific to the Gen1 platform.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T review",
+          "recall alert"
+        ]
+      },
+      {
+        "title": "Another Software bug in Rivian software.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tzekp2/another_software_bug_in_rivian_software/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-07T15:05:55.701Z",
+        "score": 0,
+        "snippet": "Owner reports another unspecified software bug — adds to the pattern of recurring software quality issues surfacing in the community.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "OTA update"
+        ]
+      },
+      {
+        "title": "Locked out of R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tze5fz/locked_out_of_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-07T14:49:23.812Z",
+        "score": 0,
+        "snippet": "Owner locked out of their R1T — a vehicle access failure that is both a UX friction point and a potential safety concern.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "infotainment bug",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "R1S El Cap Granite Crash in FTW on Montgomery Street?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tze3ve/r1s_el_cap_granite_crash_in_ftw_on_montgomery/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-07T14:47:40.019Z",
+        "score": 0,
+        "snippet": "Community post asking about an R1S crash incident — no details yet but adds to accident/incident visibility in the community forum.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Should I switch from fully purchased R1T to leased T2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1tzdeyr/should_i_switch_from_fully_purchased_r1t_to/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-07T14:19:58.754Z",
+        "score": 0,
+        "snippet": "Owner considering switching from a purchased R1T to a leased Tesla Model 2 — signals competitive pressure from Tesla pricing and lease economics.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Tesla pricing",
+          "R1T review"
+        ]
+      },
+      {
+        "title": "One year with 2025 R1S: delivery delays, battery drain, charging failures, and Driver+ concerns",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1typ8en/one_year_with_2025_r1s_delivery_delays_battery/",
+        "source": "reddit_ev",
+        "publishedAt": "2026-06-06T18:41:06.590Z",
+        "score": 0,
+        "snippet": "Detailed 1-year ownership review citing delivery delays, battery drain, charging failures, and Driver+ concerns — a comprehensive negative signal about 2025 R1S quality and features.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "R1 delivery",
+          "R1S review",
+          "charging infra",
+          "Driver+"
+        ]
+      },
+      {
+        "title": "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0NRLXpBZjNnTm9keW9tMzNFaXllT1dMazlyUmVwTUR2dUtzVGY5UUxUQjRKcUNNMWtySUZvV1ZGMDNIeTNOeHBPQ1hlSUhwdUkzU1owZWg3RzE4NGRZTnhjYklEeHFGeGJ2Q2h4OWVzNm5NOWJwNzVzN0dJd1JnR3A0dllfVVFYZWFYUFhXTHpEMWYySXVLMkZwOXU?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 07 Jun 2026 14:58:08 GMT",
+        "score": 0,
+        "snippet": "Analyst article asking whether RIVN is a good stock to buy now — neutral framing but signals ongoing investor skepticism about Rivian's path to profitability.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalRXSWRfaWZMVmZJcTVCT25EVXhlWDVtRHpsSllscFdaTmZ0Q0VSOTJhZ19UajFYZXo4a09URUVWVWVlamVaYWtzcWJnQ0lPOFBCNURDdUJTU0ZqLWtONDNWQUdES2FicUVueEd6bmhHM2dnRk8wbkMwT1FsbVFTVW9hR1pYdi12ZUlTYzEzZlZ6YVgzbFZEdlg0SmZ2MmEtLXgtMFdHMWfSAagBQVVfeXFMTmpUV0lkX2lmTFZmSXE1Qk9uRFV4ZVg1bUR6bEpZbHBXWk5mdENFUjkyYWdfVGoxWGV6OGtPVEVFVlVlZWplWmFrc3FiZ0NJTzhQQjVEQ3VCU1NGai1rTjQzVkFHREthYnFFbnhHem5oRzNnZ0ZPMG5DME9RbG1RU1VvYUdaWHYtdmVJU2MxM2ZWemFYM2xWRHZYNEpmdjJhLS14LTBXRzFn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 07 Jun 2026 15:07:45 GMT",
+        "score": 0,
+        "snippet": "Second analyst piece asking 'Is RIVN a good stock to buy now?' — reinforces the narrative of Wall Street uncertainty around Rivian's financial trajectory.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now?",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mnpplaigvu2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-07T17:40:06.166Z",
+        "score": 0,
+        "snippet": "Bluesky cross-post of the RIVN stock valuation article — the question being shared in the EV community signals ongoing investor doubt.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN stock"
+        ]
+      },
+      {
+        "title": "@nickchillphoto.com (Bluesky): Most likely: bought a Tesla at one point. Has since become ashamed of the brand/CEO.",
+        "url": "https://bsky.app/profile/did:plc:v7gngzva22rilmcp6fiypowf/post/3mnppkze36s2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-07T17:39:58.663Z",
+        "score": 0,
+        "snippet": "Social commentary on brand perception —Tesla owner shame narrative circulating on Bluesky, context for broader EV brand sentiment dynamics.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@evsanon.bsky.social (Bluesky): Rivian 🐑 Spotted!",
+        "url": "https://bsky.app/profile/did:plc:hxy2hrvlrgubt56onw33z3it/post/3mnpp7ivwz22n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-07T17:33:34.667Z",
+        "score": 1,
+        "snippet": "Simple 'Rivian spotted' post — positive brand excitement signal, the sheep emoji suggests a lighthearted owner-culture moment.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment",
+          "owner experience"
+        ]
+      },
+      {
+        "title": "@algoresmilkymams.bsky.social (Bluesky): just sell your car, even if a loss, & buy a rivian or polestar or bolt chevy or leaf nissan.",
+        "url": "https://bsky.app/profile/did:plc:opks2mmeb4bof2kuiph5azdl/post/3mnplbjjzz22g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-07T16:23:05.167Z",
+        "score": 1,
+        "snippet": "Social comment encouraging EV switching to Rivian among alternatives — positive brand signal but minor reach.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Save Big Money @Menards",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mnpfl2dwxr2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-07T14:41:03.274Z",
+        "score": 0,
+        "snippet": "Rivian owner posts about using R1T for home improvement hauling — brand utility and owner loyalty signal, cross-promoted with Menards.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "owner experience",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Rivian R2 Denver Block Party! #rivian",
+        "url": "https://youtube.com/watch?v=q0LBvIyIo3w",
+        "source": "youtube",
+        "publishedAt": "2026-06-07T17:00:38Z",
+        "score": 0,
+        "snippet": "R2 launch event content from Denver — community-driven R2 launch energy, positive but not a major editorial signal.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "2027 Mercedes-Benz GLB EV vs Rivian R1S - Which Family Electric SUV Wins?",
+        "url": "https://youtube.com/watch?v=lGsX6lm8iPQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-07T16:30:27Z",
+        "score": 0,
+        "snippet": "Head-to-head comparison of Mercedes GLB EV vs R1S — signals competitive pressure on Rivian's flagship SUV from a well-established luxury brand.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S review",
+          "brand sentiment"
+        ]
+      },
+      {
+        "title": "Rivian R2 2026 – The New King of Compact Electric SUVs",
+        "url": "https://youtube.com/watch?v=VTIm1Ya2jI4",
+        "source": "youtube",
+        "publishedAt": "2026-06-07T15:00:06Z",
+        "score": 0,
+        "snippet": "Video calling R2 the 'New King of Compact Electric SUVs' — strong positive framing of the R2 launch, bullish on market positioning.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "R2 Block Party with Mark Rober | Rivian",
+        "url": "https://youtube.com/watch?v=7L5br6p1Fkk",
+        "source": "youtube",
+        "publishedAt": "2026-06-07T15:00:29Z",
+        "score": 0,
+        "snippet": "Mark Rober R2 launch collab — high-visibility influencer content supporting the R2 launch, signals strong marketing investment.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2: America's Most Exciting New Electric SUV",
+        "url": "https://youtube.com/watch?v=QCMma_xH9Rc",
+        "source": "youtube",
+        "publishedAt": "2026-06-07T14:19:08Z",
+        "score": 0,
+        "snippet": "Another R2-focused video with bullish title — consistent positive YouTube energy around the R2 launch, no editorial skepticism visible.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 launch"
+        ]
+      },
+      {
+        "title": "Bought an EV 4 Years ago | Here's What Nobody Tells You!",
+        "url": "https://youtube.com/watch?v=ZP1v7rvA_y8",
+        "source": "youtube",
+        "publishedAt": "2026-06-07T13:05:57Z",
+        "score": 0,
+        "snippet": "General EV ownership retrospective that may include Rivian references — general EV content, marginal Rivian relevance.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
           "owner experience"
         ]
       }
