@@ -15456,5 +15456,61 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-07T22:04:26.260668Z",
+    "timestamp": "2026-06-07T22:04:26.260668Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "The Sunday Drive is back. R2 at Rivian Spaces, Adventure Network past 1,000 chargers, and NHTSA reopens the toe link issue.\n\nriviantrackr.com/news/the-sun...",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "@riviantrackr.com (Bluesky): The Sunday Drive is back. R2 at Rivian Spaces, Adventure Network past 1,000 char",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mnq66uq6ls24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-07T22:01:39.467Z",
+        "score": 0,
+        "snippet": "The Sunday Drive is back. R2 at Rivian Spaces, Adventure Network past 1,000 chargers, and NHTSA reopens the toe link issue.\n\nriviantrackr.com/news/the-sun...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
