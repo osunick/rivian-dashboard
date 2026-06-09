@@ -16337,5 +16337,271 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-09T02:01:17.608161Z",
+    "timestamp": "2026-06-09T02:01:17.608161Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 22,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 spotted in oakland",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u0pvkp/r2_spotted_in_oakland/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T00:33:10.050Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "any leaks on R2 leasing?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u0nngu/any_leaks_on_r2_leasing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-08T22:57:38.751Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stealth wrap White R!T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u0nnfb/stealth_wrap_white_rt/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-08T22:57:35.513Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Doesn\u2019t Care How Much You Like Interior Buttons, Voice Control Is Better (CarScoops article)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u0n0nn/rivian_doesnt_care_how_much_you_like_interior/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-08T22:31:16.167Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How much markup are we going to see in the next month for the first batch of buyers who try to flip their R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u0myjl/how_much_markup_are_we_going_to_see_in_the_next/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-08T22:28:55.054Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Lucid Rolling Out Hands-Free Driving Assist for Gravity",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1u0q35z/lucid_rolling_out_handsfree_driving_assist_for/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-06-09T00:42:48.837Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trex, Bel Fuse, and Rivian Stocks Trade Up, What You Need To Know - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa3BuNVU5elQtV2tWelRjZGZNdk03cWltSDIwa0Z6cE9mc2hhMW5rZU5rbDBTZkdpY2dacktZUHFsRl9xX1dJQ1QzLTNfSHpISzZ3Njk2ZnZaLU9YUDFlQmpwWTBWc1BNU295VHl0LWFMdTRIYnM5eVVoOF92U0xaZERRVTExVXl0bmFDZzk4cno0TEFRaF9tQjQzRHZuZzJvMzBBa2l4RUdxcjYzeGZUaTRoZ29xblVPeWNSdkoxWVhLR1M2ZVBiMWZKVWZzYXNxa0NfYXhwMERMbG5WVDRQTg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 08 Jun 2026 16:21:37 GMT",
+        "score": 0,
+        "snippet": "Trex, Bel Fuse, and Rivian Stocks Trade Up, What You Need To Know - The Globe and Mail",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Waymo bought Apple\u2019s self-driving car proving ground for $220M - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGg2SU4zUnFrNEFxclZhT3hwMURvQ1RFOXVFRzZJQjE5M1ZxOHZaOXE3dzRrUkVfRFNpZFdkM0Rud3gzUUNhV0M5WlpHSUhkYktyTy0yNFVTTFRaQUNEdDdrQ2tab0Z5SXJOcThpMkhxb01fYnFJMUZpamJmRGc4d3JZSTRjRGlnMFFIQXoxSnQ4WXA5NlRVM00xRQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 08 Jun 2026 20:50:55 GMT",
+        "score": 0,
+        "snippet": "Waymo bought Apple\u2019s self-driving car proving ground for $220M - TechCrunch",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Waymo Snaps Up Apple\u2019s Abandoned Robotaxi Test Track For $220M - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWZLZGJHbThOWHE4c1NmWTV6aWtmSXlENWNaTlQwbDE1RHg2UU9tazlndmZlWWxncnJycXluc3A2QlIzUXRyYTBicUNSMTFtNE5RcEIzc2lMWkMwbmxzR0IxRHAtOWdISWRod3BjSC1qVVFtQUZ3UkxaRFJ5WUh4QTI2YVF4emhaWkhzNG1iTUI4cnctaFJjN043U1FackJXaHMwX001T2E?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 09 Jun 2026 00:25:00 GMT",
+        "score": 0,
+        "snippet": "Waymo Snaps Up Apple\u2019s Abandoned Robotaxi Test Track For $220M - Yahoo Finance",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian R2 Warranty Coverage Explained and How It Compares to R1\n\nriviantrackr.co",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mnt2woxahc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T01:41:23.663Z",
+        "score": 4,
+        "snippet": "Rivian R2 Warranty Coverage Explained and How It Compares to R1\n\nriviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@beyondlink.bsky.social (Bluesky): Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now?",
+        "url": "https://bsky.app/profile/did:plc:joxpffdd3w44tpol34fkx3rk/post/3mnszufdgkf2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T01:22:10.563Z",
+        "score": 0,
+        "snippet": "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now?",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): \ud83d\udea8R2 Warranty\ud83d\udea8\n\nRivian just published the warranty details for R2.",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mnsvtxzizh2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T00:10:20.962Z",
+        "score": 4,
+        "snippet": "\ud83d\udea8R2 Warranty\ud83d\udea8\n\nRivian just published the warranty details for R2.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): After Rivian allegedly refused to cover a failed 12V battery under warranty beca",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mnsvcjupdm2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T00:00:36.061Z",
+        "score": 1,
+        "snippet": "After Rivian allegedly refused to cover a failed 12V battery under warranty because the truck sat unplugged too long, the owner detailed countless other issues.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@techneti.bsky.social (Bluesky): It would be funny if Mario Kart started having parody car brands, then we could ",
+        "url": "https://bsky.app/profile/did:plc:dmgoxtiel6o67kmvd2ujx76r/post/3mnspvukjbc2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-08T22:24:03.064Z",
+        "score": 12,
+        "snippet": "It would be funny if Mario Kart started having parody car brands, then we could get Rivian -> Vivian",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "TOGURO - O Segredo do Toguro: Gastar R$ 650 Mil nesse Carro \u00e9 Loucura?",
+        "url": "https://youtube.com/watch?v=HRPD4Bf6o08",
+        "source": "youtube",
+        "publishedAt": "2026-06-09T01:30:36Z",
+        "score": 0,
+        "snippet": "Voc\u00ea pagaria 650 mil reais nesse Rivian? Tecnologia de ponta ou preju\u00edzo na revenda? #rivian #carroluxo #investimento ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2&#39;s Surprising Efficiency #rivian #r2 #efficiency",
+        "url": "https://youtube.com/watch?v=qSVUlWoRrWk",
+        "source": "youtube",
+        "publishedAt": "2026-06-09T00:25:12Z",
+        "score": 0,
+        "snippet": "Official EPA figures for the Rivian R2 are announced, and it fares well against what will undoubtedly be it's biggest marketplace ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R1T vs Audi RS Q8: A High-Speed Stability and Cornering Comparison",
+        "url": "https://youtube.com/watch?v=G4vod3ASwqk",
+        "source": "youtube",
+        "publishedAt": "2026-06-09T00:15:00Z",
+        "score": 0,
+        "snippet": "Rivian R1T vs Audi RS Q8: A High-Speed Stability and Cornering Comparison We pit the Rivian R1T's low-slung battery weight ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Apresento a Rivian Caminhonete El\u00e9trica!#toguro #shorts #carros",
+        "url": "https://youtube.com/watch?v=PbXo2EKp7Dw",
+        "source": "youtube",
+        "publishedAt": "2026-06-08T23:45:03Z",
+        "score": 0,
+        "snippet": "Apresento a Rivian Caminhonete El\u00e9trica! #toguro #mansaomaromba #mans\u00e3omaronba #shorts.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian&#39;s Chip Strategy &amp; Future of Autonomous Driving #shorts",
+        "url": "https://youtube.com/watch?v=5ZyF2nEDJJY",
+        "source": "youtube",
+        "publishedAt": "2026-06-08T23:01:26Z",
+        "score": 0,
+        "snippet": "Why is Rivian building its own chips? We dive into the tech powering their EVs and explore the future of autonomous driving with ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "CAMINHONETE EL\u00c9TRICA RIVIAN A MAIS DIFERENTE QUE J\u00c1 VI ",
+        "url": "https://youtube.com/watch?v=sxqMC3s_OFk",
+        "source": "youtube",
+        "publishedAt": "2026-06-08T23:00:05Z",
+        "score": 0,
+        "snippet": "USE O CUPOM TOGURO: https://www.gsuplementos.com.br/ #TOGURO #MANSAOMAROMBA.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Dead Battery? Don&#39;t Tow It. \u26a1\ufe0f (EEE Rescue)",
+        "url": "https://youtube.com/watch?v=a9lvS8cHCG0",
+        "source": "youtube",
+        "publishedAt": "2026-06-08T22:40:33Z",
+        "score": 0,
+        "snippet": "Your Rivian R1T battery hit 0% during a storm and you're stranded? Don't risk flatbed tow truck damage. EEE Rescue delivers ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "ELEKTROMOBIL K\u00c1MO ! FORZA HORIZON 6 CZ/SK | ELIMIN\u00c1TOR | V\u00ddHRA RIVIAN R1T#forzahorizon6 #forza #race",
+        "url": "https://youtube.com/watch?v=D2mf_lhLsdY",
+        "source": "youtube",
+        "publishedAt": "2026-06-08T19:08:01Z",
+        "score": 0,
+        "snippet": "FORZA HORIZON 6 jako nikde jinde !! ZACHRA\u0147TE M1TV, za ka\u017ed\u00fd P\u0158EDPLATITELSK\u00dd program YOUTUBE za 89,90 - K\u010d ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
