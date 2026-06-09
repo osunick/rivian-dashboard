@@ -16772,5 +16772,451 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-09T18:01:26.688962Z",
+    "timestamp": "2026-06-09T18:01:26.688962Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 40,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 35,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian\u2019s $45,000 Model Y Killer Is Finally Here [Snazzy Labs]",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u1bwqt/rivians_45000_model_y_killer_is_finally_here/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T17:33:32.409Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Looking for insights - Rivian Quarter panel replacement",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u1af28/looking_for_insights_rivian_quarter_panel/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T16:42:13.071Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2\u2019s on their way to Milpitas",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u1a14h/r2s_on_their_way_to_milpitas/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T16:28:34.250Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Just drove the R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u19yps/just_drove_the_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T16:09:16.656Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2 is here!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u19xkw/r2_is_here/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T13:36:19.127Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2 Orders List Tracker + Stats \ud83d\udcca -- Add Your Order",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u19r0b/r2_orders_list_tracker_stats_add_your_order/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T16:18:34.822Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Geico non-Rivian windshield replacement?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u195g1/geico_nonrivian_windshield_replacement/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-09T15:58:03.840Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's R2 impresses reviewers as deliveries begin (RIVN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHlUUlpROVNIdlpUdWZEWUtvVUlYVW1DN1Q3czJXcTE5WGphd2pjRXF6a0FrdFJ6bVFrakN0Sms4ckE2MUx1S0NBbGs4NklvUTBmQmxmRGxpNFFNZUhFVVJFSkVKVlNyOGN0dnp0c0pBVzJMejBjU2NUNnZzMGIzQU1DeG5LQnplVng3NFVGU21iZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 09 Jun 2026 16:06:52 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 impresses reviewers as deliveries begin (RIVN:NASDAQ) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) Stock Sinks Even as R2 Deliveries Begin - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHUzd1BqZXVqbHlpWGEyeHZ0QkpIdW83eXh3bXU5a0Jvd1ZURURoa1hwQVpUV0lyZUhSemhjZm9sU2FPenBCT0hJeS1nWnNnMTdLaGE2WWRtel8xVVBFTW9feVNkaklCdUpocEpXMXpKZXU0OGh2RmZGdjc0RUNHYUxnZWp5OWxO?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 09 Jun 2026 16:30:02 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Stock Sinks Even as R2 Deliveries Begin - TipRanks",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Launches the R2 to Chase Tesla - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmxwcTBfQ0Vuc0VveTUtTmdsTE5RdlNrSWstZnYtUGpiY05TVkFBV1ZaenpGWk96eFFVZkV1anlBZnJfSWNEQmdpaEN1N2JWR1N3Y2pQLWd3U3JJV0J2aHlkQktUTldRUnUtX0RiTVc1N0c5d3g0YjFxUGp1QUYtQ3JXRE1uZS1HNHVrX3ZFZFJvQ0xYcjEzSFBRY3RDZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 09 Jun 2026 17:01:38 GMT",
+        "score": 0,
+        "snippet": "Rivian Launches the R2 to Chase Tesla - TradingView",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Begins R2 SUV Deliveries, Bringing CEO RJ Scaringe's 'Make-Or-Break' Bet To Market - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2NOX2YzQkxzV2dSTFpuZVFtRy15QmhoTzlpSTk2THdpcmZFMGtBajM5QWJ1TTZNaFJNaDkwWHNSdVk2NnNENzk1MVlocTZQSlVaSE0ySTM5bmdKcng4N1FVdXlfUk95UklaMkFWYm1VeWdtTFp4RGFjYThhcFJJVkRLNnZsMG1saml1U3M5WDdfWjhuYUFRb05kLWRVQWZOS1pHbDdRN3B6YjAycmxEaXhBZG5DbUtqRW5yUzZpeUQ5Nk1qUGZZ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 09 Jun 2026 15:41:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Begins R2 SUV Deliveries, Bringing CEO RJ Scaringe's 'Make-Or-Break' Bet To Market - Stocktwits",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian (RIVN) Stock Slides as R2 Electric SUV Hits Public Roads - Blockonomi",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnU3TVlQVHhuWHBUYldfcXFXRS12YjUzVmF1Tnh4SzgwYjY2Mk1vY185Zl9pVXZ2MTZlOEU1dkRkYmhDU2V6ZzRGNzF5OXFtZWpkcnNvZndpQjByN2dNY0p6LXlBekx6ZXlFYkc3Qy1KVEt3VTMtUUlOVnRRQUpjNW1kQnh2emNqOXp5Vm13?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 09 Jun 2026 15:09:48 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Stock Slides as R2 Electric SUV Hits Public Roads - Blockonomi",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "We Drove the 2027 Rivian R2\u2014and Kept Saying the Same Three Words - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RQllWclFSb1VhMC1LVy1lSzMxUnNMLVNjYnF1bkphZmJCUWc1c1c3S2RIeFc0THR2QVVxY2JVZHdZYm1XODFCamZFcjNXWFVKak1Xb3RjbWt2YXM3YXhJR0pKSElxNWgzU3V2emJ6cDh3UWplZkVEQ0VEYVAwdw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:14:19 GMT",
+        "score": 0,
+        "snippet": "We Drove the 2027 Rivian R2\u2014and Kept Saying the Same Three Words - MotorTrend",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Begins Customer Deliveries of the All-New R2 Electric SUV - Electric Cars Report",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDd4b05KdFo5NzlWcWI1c3BuTHdpaFl0UjJsS2ptd0w0S1Nmdy13TkFmNjVWZUtnYlZ0WG5ENEpoNEloZkFVTngzdEVuSXM1M2p5c1F5LTcwZ0JsT3ZFT21wRk0tcnhoVG1ZMnYyWmZxQ3NrMkU4akMybFlaTWJoVWR1blljZVg3WXV1Si0tN2NvdFd6MnEyOS1oN1JyTXBkZkhmM3k4bw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 16:28:16 GMT",
+        "score": 0,
+        "snippet": "Rivian Begins Customer Deliveries of the All-New R2 Electric SUV - Electric Cars Report",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Model 3 Era at Rivian Begins. Its Lower-Price EV Is Here. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFQ4VXpSU0VWSzdiLWtIS0VrN0U4MjJrcDdXaGhydGZjNktXdFhZS2lBTll1UHh4ak1wMXcza2s1UGIyZlllNnpPUGRqQllSWWJabVdlRl9UVDhrOXJBaHBGRFB6TTJfeXBIampiV2g5Q3ZoSTlCN3ZOUFNrNXFDZG9QZ2k?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 14:56:00 GMT",
+        "score": 0,
+        "snippet": "The Model 3 Era at Rivian Begins. Its Lower-Price EV Is Here. - Barron's",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Begins First Public Customer Deliveries of R2 Electric SUV - Design and Development Today",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTFTckNSWVlIc0tGUTB2RWtIQXkwR2pCVzJPV1hpSmtwMl9KYjJGbkV1ZVNmY1NPakpReEg0VHdCX2NuWlVJc2tYWEZYdGJjYWZPcnlJcU1OVW9ZRTZFVW1Bd3dLYVlyWDNiNklicHRlVFIwU0p3a1Y4WXJNQVlWZm02NVBEeHZFQUI3eUNrYjZhdE80MWJhZzVkXzRrQ2lvVDNnNXh3d2xaZGxNc05JOVE2eUFUbkQ0NWRSdmN0UlBwYXdySHctVnd2WVdQc1h6QlF0cnBLcw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 16:01:53 GMT",
+        "score": 0,
+        "snippet": "Rivian Begins First Public Customer Deliveries of R2 Electric SUV - Design and Development Today",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Officially Starts Delivering Its R2 Vehicles to Customers Today\u2014Here's What to Expect - inc.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUlwUzFQdnF0RE1oVVZuMmVtTlhpUFM3bFpUVmd6NmhWdGFDV0lrbnhIa2RxRVc3U0g2d3JERGJrZ3pDLWJybVduWWUwZlp1clhrV0tEb0NIUG40NUtKaVRYYUtyTmp6aUNvTnhBVVJCUEtDMFBlQ0dTdWwwd2dFY2N6RmhFTGlPR2N4ZEdHTDNjUjNleWNCZzRLYUtPY1dmUmk4TWIteG9la2pzcGFZM25URjgwQ3hGMWVlZ3k0WjNpZUxtMzVTWkROQQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 17:59:03 GMT",
+        "score": 0,
+        "snippet": "Rivian Officially Starts Delivering Its R2 Vehicles to Customers Today\u2014Here's What to Expect - inc.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian starts deliveries of its all-important R2 SUV - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDRseWZBTWRfSjluSVhvLWVVaC1IUWlWQXZ2WG9xNVdZVjZoS1gwWjU4N2RPeE9mMG9WcW1tUUhYSUlEXzBPRVdZY2tZMEUtSUZYOUdpeXF2cS1yMTA5Y2o2VFhyWVIzNDN5U1MyWENTSDcyVThzSDlNZ0twaGpGbkRlcGJaY1hhQWY1cW53aFo?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 16:46:08 GMT",
+        "score": 0,
+        "snippet": "Rivian starts deliveries of its all-important R2 SUV - TechCrunch",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "See Exterior Pics of Rivian's New, Smaller, and More Affordable R2 SUV - Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTnNuSU5RSV9tQXk0aU1HOUE3RWc2VnpaVVpIYjVick5DU0tNclI5V0xQeHdESzFIYllsa04tSkNqU1VFVEJtVHl5bnpLTU83RjJOZk5tRkZMRllxWGtCdDhFMl9sQXFhdU9mb242cUxoR2c3OVJTZ3Y5OWRaeTUtTHhqQ2UzNVc0cEpaUFBVandySEY0RER4WmhaT3JqaUhTcExyZU9xRG1Cdw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:00:00 GMT",
+        "score": 0,
+        "snippet": "See Exterior Pics of Rivian's New, Smaller, and More Affordable R2 SUV - Yahoo Autos",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 First Drive: The Rivian for the Masses - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LanNkYXVORnByRHdnaUt2d3l4ampnNXBDZmNTS25LSVBzOEc1SWFzXzliemd1RnU0T21aRzBfRzgtR3lLNjNQU1BXQXA1SlhPcFZmNEx6RzJlOEZOYjZN?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 First Drive: The Rivian for the Masses - WIRED",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game - Ars Technica",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUZFbVZ1UGNTWHBFa3Y3ampXa1F5TjM1U21hbmNqaFB6N0ExQ3djN1VBZUQ0a2ZJQ3dBZ3IyYzN5MURIT0UyTE1sYnBnVWgxV3ZmYm8wUTR0d3BVd0hwSFJTMHVGX3pOQnhIQXV3NzVyX3pWZzZfYW5yQmVsWDdLX1BfV2Y1M0p3a1MxZnQwNEdxeTBYWFBPc0h0M2tYUQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:00:46 GMT",
+        "score": 0,
+        "snippet": "First Drive: The 2027 Rivian R2 entirely changes the EV game - Ars Technica",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Gallery: 2027 Rivian R2 Launch Edition - The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEgtSjJvcFdWei1oSFFkMDBKQU1OWG5IZHpGRnhLcXpGVnREY3BpQTBFaG5mMVdhSFRwT19ZVW5ZUnJzNVEzUXBfdTctYklVZkZRM1ZZai1rdWxEOUQ0SVV2blctRWtlVzRycVJ4dDJFc2hrWXRIeTYzTjUyZkdYRDQxMHFPZF84NEh6bEZYYlE1R1p6OUE0YU9CV2IxZGFsS204ZW9Belh1ZFB1QTJGNmlsQVh1N2Rq?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 16:00:00 GMT",
+        "score": 0,
+        "snippet": "Gallery: 2027 Rivian R2 Launch Edition - The Detroit News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Never heard of Rivian? With its new SUV, the EV brand wants to change that - Marketing Brew",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rVndjeGtCZG9YQ2RFVzNnZ0NTX2thRGZkRTJlcW1sTjFRVTJBV0k4Zy01QUdXSTRMLWlxOENtZnRUcHc1ak1lc3VGQ3o3UG5wVWlkazZSdl9DcjdDNDFhMTQ4QnBZMTlkdWRTYUJzNWFkOXFq?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 17:52:50 GMT",
+        "score": 0,
+        "snippet": "Never heard of Rivian? With its new SUV, the EV brand wants to change that - Marketing Brew",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "10 Features That Make the All-New 2027 Rivian R2 Feel Different - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGtNTS1CS3l2ZUtlRFNBd0NPZDFUZlFKT1pOMkI2aThVY3hDU01ETjU3Zm1HSXdkbk9OOHpMZXFXTERvQ3NJdUFFM0c5d0lkS3FvOTR2eVgzaHZwZnEzZG9UZU5HU2F6anY4OURuNFRLeURLTHpVZmptV3dRa185Nzdn?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:07:33 GMT",
+        "score": 0,
+        "snippet": "10 Features That Make the All-New 2027 Rivian R2 Feel Different - MotorTrend",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Eyes Toyota, Subaru Customers With New R2 SUV - Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWVUT0Uzai11akp6cWVvdjgxWEdpTThTdTJsZEFzOFJLYjlweV9GNjlkRkFjQWlSdVRzOWNmVF9OZzZlZm1qU080RUpjQlBmTXp5VGtWd1hYMGZNTTlfWk1JUkh1VVo3M2RFVU96NUNWZXhMNk4wNGw5SUo2RmZINGNVUjhjOGpNV3A1OFF3?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:01:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Eyes Toyota, Subaru Customers With New R2 SUV - Newsweek",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I Drove The Rivian R2, The Model Y's First Real Threat - Motor1.com",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9adW9tbVpaWHI4M1dWelVsUUlTRWdBR0JGbDV4Y1lQU19FTThDWmVwQzBSOFNZaTc1T3pUZHdrRHppQVU3d2hTY0RVVGJVSEU1elFXWFpCdW5hdFJibnBwYWFTN1pFVjd0UzZsVVphRUhZZ2FESENkNFRMZjM?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:09:00 GMT",
+        "score": 0,
+        "snippet": "I Drove The Rivian R2, The Model Y's First Real Threat - Motor1.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "5 Things about the 2027 Rivian R2 Launch Edition - The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYURWd2tKTkdZd1pZUVVOQ2p3SXBzQmpmaUt6LWVXNFZWb1BIaFB3YnFPY2ZLUU9YU0tuS0Y5MDIycnlRSkJYYUpoSUhnNFVUSFFwTkZ3cXVZZlByUXJicXc4elIzNEVLMjJGQzJZeHV5LTdkQXpkaGtpRk9WSFhmTEpDNG50Ti1jVFBHVEU3TWNLa1FvQTV4Z3hiZ0FCT2pNWm9uX2I2X1drYUtIWXpOS1QzTFlLWDRLcVh2UmhGMA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 16:13:07 GMT",
+        "score": 0,
+        "snippet": "5 Things about the 2027 Rivian R2 Launch Edition - The Detroit News",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Orders Open Today: $59,485 Launch Trim Arrives Without Federal EV Tax Credit - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXRTTVVuYnZUeFg3ZUx2cHFFVTEzMFVZSlFhdnI5bm5CdUg1VGFtR1RaR2JfLUdqSmpabmtMOXhrS2V3WEEzaXZwdUZmX1FRdWhjSnhKYWtUYUJEaHAwak1uZEJZeWZqeWJZdXI2RDd3Z0diLXF1YV9aMnhWdEd2RFB3a3JKTkdmdmd6Y3ZhQ0ZQWEstRmRXRUw4WjM2T2V1Xzg1azFRemg3MjRNeTlqenZBU0hFWERick1Ka255SUpEa3pyOXR0VzlaUUktai1kQm1GZw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 15:35:32 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Orders Open Today: $59,485 Launch Trim Arrives Without Federal EV Tax Credit - Tech Times",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The 2027 Rivian R2 is finally here, and it was worth the wait - driving.ca",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHUFdRYlliMm1VdXA3U1J2THhaRjg3MWtWblhvc2s3T2IteUxIdVVsVllHaTVyelZwbkY4ZURrMGNxY3ZxQ0hqbmJkWUpnUHowMl80SnJBZnY3QmVzMU9BcWEyLU5BZ0hS?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 13:10:37 GMT",
+        "score": 0,
+        "snippet": "The 2027 Rivian R2 is finally here, and it was worth the wait - driving.ca",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Begins Deliveries of R2 SUV, Its Most Important Model - Zamin.uz",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclpvWUVMWXBGTjNHSTZfVnNBRVh1b05XN0NxMXA5RDFkTXdQVG5xb2p3eDBXOHIwMmJmNGdEVnhmV0dSdE1VeWN6M0ZDTlVERTZWNnljOWJzOTU5cWpveFJad2l4NVRqdlRZNldPSEpWX3cxazVDMTNCZm94Mlk5cFZDSE9fLWY1RnRnSVphOC1OQVY2QjVJdi1qTHVob2JVc29vNw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 09 Jun 2026 16:53:27 GMT",
+        "score": 0,
+        "snippet": "Rivian Begins Deliveries of R2 SUV, Its Most Important Model - Zamin.uz",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@dsgolson.bsky.social (Bluesky): My Rivian R2 review went live today and I really loved that car but I\u2019m here in ",
+        "url": "https://bsky.app/profile/did:plc:3bykmc7dmdfi65bf2auv3nv2/post/3mnurixbric2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T17:58:08.564Z",
+        "score": 4,
+        "snippet": "My Rivian R2 review went live today and I really loved that car but I\u2019m here in Spain to drive something MUCH more exciting",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Rivian R2 is not a financially attractive decision.\n\nNo money down lease \n\nwww.r",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mnuqu5os422v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T17:46:18.963Z",
+        "score": 2,
+        "snippet": "Rivian R2 is not a financially attractive decision.\n\nNo money down lease \n\nwww.rivianforums.com/forum/thread...",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): I\u2019m not making excuses for Rivian, but RivianOS 2.0 (which launches with R2) is ",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mnuqhbmtvs2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T17:39:05.472Z",
+        "score": 6,
+        "snippet": "I\u2019m not making excuses for Rivian, but RivianOS 2.0 (which launches with R2) is a complete rewrite of the whole OS. These features ARE coming and will most likely be there by the time you get your own",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@theamazingkodi.bsky.social (Bluesky): \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\n\nI\u2019ll second that on Rivian!!\n\nI\u2019ve had my R1T for a year now and it\u2019s st",
+        "url": "https://bsky.app/profile/did:plc:sniii6i6e5k5bebwjqhq2fp2/post/3mnuqfmtwyc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T17:38:13.771Z",
+        "score": 1,
+        "snippet": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\n\nI\u2019ll second that on Rivian!!\n\nI\u2019ve had my R1T for a year now and it\u2019s still the best vehicle I\u2019ve ever owned. Far better build-quality than Tesla, and more fun to drive than any Audi or BMW I\u2019",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@saiharux.bsky.social (Bluesky): 4/6\n\nRivian appears to have listened closely to what has held broader adoption b",
+        "url": "https://bsky.app/profile/did:plc:mfti6xhsrhgtohtcmx6pnu4n/post/3mnupkvapbr2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T17:23:12.669Z",
+        "score": 2,
+        "snippet": "4/6\n\nRivian appears to have listened closely to what has held broader adoption back\u2014cost, range anxiety, and the sense that compelling options remain out of reach for most households.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@saiharux.bsky.social (Bluesky): 1/6\n\nThe automotive landscape feels different with the arrival of Rivian's R2 on",
+        "url": "https://bsky.app/profile/did:plc:mfti6xhsrhgtohtcmx6pnu4n/post/3mnupko6rof2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T17:23:05.867Z",
+        "score": 1,
+        "snippet": "1/6\n\nThe automotive landscape feels different with the arrival of Rivian's R2 on the horizon",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@ronews.bsky.social (Bluesky): Rivian starts deliveries of its all-important R2 SUV",
+        "url": "https://bsky.app/profile/did:plc:likpbauhjzq6dtxuo7fy3zlk/post/3mnuodqhjct2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T17:01:19.067Z",
+        "score": 2,
+        "snippet": "Rivian starts deliveries of its all-important R2 SUV",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@lucas-unfiltered.bsky.social (Bluesky): Just got my hands on the new Rivian R2 and I'm blown away by its power and preci",
+        "url": "https://bsky.app/profile/did:plc:pqr3gwm42rlg3cqp5fpcdbzv/post/3mnuob7t2y72r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T16:59:55.162Z",
+        "score": 1,
+        "snippet": "Just got my hands on the new Rivian R2 and I'm blown away by its power and precision",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@k3live.bsky.social (Bluesky): What happens when the machine becomes smarter than the driver? Find out with the",
+        "url": "https://bsky.app/profile/did:plc:26oedycwqhvbh63s75qkruwg/post/3mnuoayvre72h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T16:59:47.870Z",
+        "score": 0,
+        "snippet": "What happens when the machine becomes smarter than the driver? Find out with the Rivian R2",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@eurotrends24.bsky.social (Bluesky): The Rivian R2 is not just a vehicle, it's an experience",
+        "url": "https://bsky.app/profile/did:plc:f4tnjw6zwmcxc5q4niztkvnf/post/3mnuoavapw72s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-09T16:59:44.059Z",
+        "score": 0,
+        "snippet": "The Rivian R2 is not just a vehicle, it's an experience",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
