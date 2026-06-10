@@ -19017,5 +19017,331 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-10T22:01:26.792614Z",
+    "timestamp": "2026-06-10T22:01:26.792614Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 28,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Cleaning tips for these trim spots?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u2frp2/cleaning_tips_for_these_trim_spots/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-10T21:38:12.125Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R3X Is a Couple Years Away, RJ Scaringe Says",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u2esci/rivian_r3x_is_a_couple_years_away_rj_scaringe_says/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-10T21:01:02.571Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Anyone using iOS 27 dev beta 1",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u2ejv3/anyone_using_ios_27_dev_beta_1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-10T20:52:04.204Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Will R1S ever achieve feature parity with the R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u2ecw5/will_r1s_ever_achieve_feature_parity_with_the_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-10T20:44:31.452Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "[unofficial] Rivian + Charge on Excess Solar (Home Assistant)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u2dytv/unofficial_rivian_charge_on_excess_solar_home/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-10T20:30:07.836Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Test Drive FAIL",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u2dyrl/test_drive_fail/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-10T18:22:33.215Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Re-release of same update",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u2d9m9/rerelease_of_same_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-10T20:04:29.724Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "U.S. military begins strikes on \u2018multiple targets\u2019 in Iran at Trump\u2019s direction",
+        "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Automotive Options Spot-On: On June 10th, 109.37K Contracts Were Traded, With 2.47 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzlsUENxeVkzc2xOUVJKUFo1eFJhemVYWXg2RzVtdlVEX3otTzNoNEptSWlwXzM0MlJMOHh3dWFYc2R2TlZ1T2d1VkJGZG1IUFhtRlcyNUMxNzJYdzR1TmFLRFFaTVpLUHgzXzlkY0VSaDZXSTNaYXNDcWViQ1N2UVlRNGxFazJiWVpZeDkta3FfY1NxN2VIZnVxUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 10 Jun 2026 20:36:12 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Options Spot-On: On June 10th, 109.37K Contracts Were Traded, With 2.47 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Rivian R2 Is A Huge Hit; What Does It Mean ForThe Company? - Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHlHeHlCQTdMS0lNUGNJLWRDTkhoWWgxTVVNR0UyeHNGY2ZObTB2SmRlUWVxTmhreVRxcDh1S0FMNVFHd01EZXVtbnUyR3dEQldyM2N5Z056bmNWMnlVT0VGYVJ6X0RSS2dRVDcyQU1pWXlxVm5aVUlyLTVldHZuZUlRbmNlNnBQWDFWSzZsRi1tdnh6WmRWcWhmUGI?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 10 Jun 2026 20:56:10 GMT",
+        "score": 0,
+        "snippet": "The Rivian R2 Is A Huge Hit; What Does It Mean ForThe Company? - Yahoo Autos",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQQWtaNkVBWGl5VnZEZXo4YnJOdU1jNWNOdXhwNmstRHc1NWhqNllTcVR3LXdUdTlxeTJncXdTUTd1TjRHSC00S1Ewek9uVk1qbkUxSzRscWNiaFVMbUhOLVRoemN0NEZZeWZuM1dVNHJaX3VzckRnMlNmV0wtQW9jazdxUVZ0QmREQ0NOWV9IaEQ1bFJ4WHVPc01GamFVVTE4Y0dySTh4NW12RFJ6QjdnWkVITWFZQWE2MkNmT2swdktWVEMwcEFpemIwTFlXT0dZQ1dpQ1NVZlAyNDE3SUZLSl9pbXdtRjdORlRBQklOaERQQmR2bVRMUkdwc0xQbUdMajlmMFhUY1RhY1VpV1hFSnkwX2RoNjJtV0EzUHNRRTRJSDIwMnFSOTFtQTdQU2RmVnRScW5XMmJJSkRQaWVYa0haMi1pelNiaGlNREdWYVBSb2YzazZtNVYzU3hPV09Mbld0REpMbFQzTU8zclBST3IzcEZRMW9mNjNnUDVqdw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 10 Jun 2026 16:56:43 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "See exterior pics of Rivian's new, smaller, and more affordable R2 SUV - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNT2xSOG02dnk3SmxocjFadm9iVDExOEc3cTBrNnpWMDB3SC1PWkJNc3RvbnRxUHJ6N0ZfMkF6S00xUWRrUjQ4OXdiV21LQUYzY1dkWktoblZ1d01ZdXpmOWJzcWtJY3AzSTA5UVpGSnZWMUJzOHVaZjg3bDZfZVU2U1JudW9NWkYtQkxfZE1qX0dDTHYwZzJNRHRJTDhDZUhBN2FVbVhYZEhoZXZoT2c4U2VuajBpamVDRzR2dERtalE1ajI5SFA0aF9STl9aN3RERkJuUnkwNm1QeWk5WEpUYU1kajlGX2JVZmxrTWhER1ZSdnVGYWRsQ3o2Vnd2NTFoUUlRdE1DYlI0N0FidmY3c3ducFZObjNFeUtXZEtKWXZ0d2l6MV9tbnVkeDBnTXYwY2QxaTFWQ3pkMmZGRnJuSkpuZjNsZXQ2bmhweUNyLWVPbDltMFFQX2d6NmxxRGh3ZU52Skp0dw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 10 Jun 2026 11:31:23 GMT",
+        "score": 0,
+        "snippet": "See exterior pics of Rivian's new, smaller, and more affordable R2 SUV - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "See exterior pics of Rivian's new, smaller, and more affordable R2 SUV - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOdnFkTTNxaHNaTnlBcExndGNnUHFaSzk1TzZpbEpfNnZtZHI5RUtMTUtTaEJPeG9pRHFGdzNFTzNINjFnU0Mta1I5TGM5cVhpVTBlcUp3QmVQUi1SLUxoNUVhQXJnTzVHd0g4S1A1NDNja0xEUHJjWWdPUVp2bE5HQmwyRXBFSk9PSGVDVWJPNFgtU2ZrSm04Tkx1eG5RWXoxQWE5S1l5UjM2MHVHanVVR2FpNlVkbkNHSnN5QWNNejd1MGNWVEhSUDRISzFBeXJaeXFRNmdydDdWRmNJME5faVF0bVBKSGRRcHdBS3psLWlWM3hUY2RSYWtmMmdwNE1zYzhiS0tZckphb1lkOWh2dXAtZURUV1RZcEJ3d0dnZ0lBcEl6YUpQNXNVcUtteVdqNGdlOC1jdVpvS1BSSnhWMjZ0WEhzSGZWOVcxMmFqMGdacThXREpYTnBoMEUxYkxJcmR4eWRSXzgteFJNeER4Q1FTNC1OWE1RUUVKQWVNNmxZMXJndEFkQlM1OTk2SXc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 10 Jun 2026 15:39:43 GMT",
+        "score": 0,
+        "snippet": "See exterior pics of Rivian's new, smaller, and more affordable R2 SUV - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@stfuelon.bsky.social (Bluesky): Competitor note: the Rivian R2 ships at $60K with the exact footprint of a Honda",
+        "url": "https://bsky.app/profile/did:plc:cqiuu6mdd5jpu2ufpqwto5sv/post/3mnxowvj2s52g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T21:50:01.167Z",
+        "score": 0,
+        "snippet": "Competitor note: the Rivian R2 ships at $60K with the exact footprint of a Honda CR-V. That is a precise shot at Model Y, and a smart one. They studied the human commute and built for it perfectly. I ",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@quagga.mastodon.ie.ap.brid.gy (Bluesky): so bay area to see a rivian done up in caltrans livery lol. i hope telo and slat",
+        "url": "https://bsky.app/profile/did:plc:wqijb2qeifcyfmo2f7d3kiko/post/3mnxm7esq4c62",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T21:10:37.963Z",
+        "score": 0,
+        "snippet": "so bay area to see a rivian done up in caltrans livery lol. i hope telo and slate make it cuz the gov services would do much better with smaller more practical trucks i feel",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian's R3X is a couple years out. RJ Scaringe basically confirmed it to The Dr",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mnxm2v2aic2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T20:58:37.179Z",
+        "score": 11,
+        "snippet": "Rivian's R3X is a couple years out. RJ Scaringe basically confirmed it to The Drive in Park City. Says they already know the timeline, just not sharing it yet.\n\nriviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mnxkiy7ges2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T20:30:39.067Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): It's so hilarious this week, these outlets being spoon-fed what to report to flu",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mnxkav4fus2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T20:26:08.268Z",
+        "score": 1,
+        "snippet": "It's so hilarious this week, these outlets being spoon-fed what to report to fluff Rivian and Ford \ud83e\udd74",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mnxk4zbgh22g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T20:23:57.565Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@amcarsandracing.bsky.social (Bluesky): Rivian came up with an original new way to keep the tailgate window clean on its",
+        "url": "https://bsky.app/profile/did:plc:qo54p2z5jwpfi333ff2z7den/post/3mnxg5juqqy2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T19:12:40.468Z",
+        "score": 0,
+        "snippet": "Rivian came up with an original new way to keep the tailgate window clean on its new entry-level R2 compact SUV.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@jrhanlon.bsky.social (Bluesky): Tesla is an American company, Rivian is American, Lucid is American, Ford sells ",
+        "url": "https://bsky.app/profile/did:plc:onbnzxvzqyxve4674gvonyiv/post/3mnxffavlls2w",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T18:59:05.665Z",
+        "score": 1,
+        "snippet": "Tesla is an American company, Rivian is American, Lucid is American, Ford sells EVS, GM sells 13 different EVs\u2026\n\nThe \u201caffordable\u201d EV\u2019s that you want that they sell in China are shit boxes that you wou",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@vulcantech.bsky.social (Bluesky): Some quick camera shots I got yesterday viewing the new Rivian R2!\n\n\ud83d\udcf8 Canon EOS ",
+        "url": "https://bsky.app/profile/did:plc:w3jwv5tcjdwlf6ecz2w4vlxg/post/3mnxfafe6gq2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T18:56:22.862Z",
+        "score": 4,
+        "snippet": "Some quick camera shots I got yesterday viewing the new Rivian R2!\n\n\ud83d\udcf8 Canon EOS Rebel T6\n\u270d\ufe0f Adobe Lightroom",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@nicktakewalk.bsky.social (Bluesky): Ha, my wife's tier list would be super boring. We just got back going cross-cout",
+        "url": "https://bsky.app/profile/did:plc:v5exujlobllcj65er3si5dti/post/3mnxezlu7is2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-10T18:52:34.272Z",
+        "score": 0,
+        "snippet": "Ha, my wife's tier list would be super boring. We just got back going cross-coutry to the east cost and I had asked her what she thought of the differnet charging networks we used (PFJ, EA, MB, Ionna,",
+        "category": "community",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 demo drive #rivian #rivianr2",
+        "url": "https://youtube.com/watch?v=7bbSz6C1QU0",
+        "source": "youtube",
+        "publishedAt": "2026-06-10T21:50:02Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I Scored The First Rivian R2 Demo Drive! R1S Owner&#39;s Thoughts",
+        "url": "https://youtube.com/watch?v=83eAmwSZ8dQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-10T21:30:28Z",
+        "score": 0,
+        "snippet": "1 ticket, 3 chances to win! Go to https://bit.ly/BITSEVRAFFLE today to buy your $200 ticket and support our friends at CCAN Action ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "GameStop &amp; Rivian Frenzy: New Traders&#39; Big Wins, Bigger Losses! #StockMarket #Trading",
+        "url": "https://youtube.com/watch?v=-OsOICOht4g",
+        "source": "youtube",
+        "publishedAt": "2026-06-10T20:32:24Z",
+        "score": 0,
+        "snippet": "The GameStop and Rivian surges attracted legions of new traders. But extreme volatility led to a high failure rate. Many chasing ...",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\u00bfEl nuevo auto el\u00e9ctrico que hay que comprar? Rivian R2",
+        "url": "https://youtube.com/watch?v=ox3OJcoFQIA",
+        "source": "youtube",
+        "publishedAt": "2026-06-10T20:00:33Z",
+        "score": 0,
+        "snippet": "Quieres saber si la Rivian R2 es el auto el\u00e9ctrico que le puede competir al Tesla Model Y? En este video te contamos TODO: ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2027 Rivian R2 | MotorWeek First Drive",
+        "url": "https://youtube.com/watch?v=x_twRLskp9Y",
+        "source": "youtube",
+        "publishedAt": "2026-06-10T17:00:05Z",
+        "score": 0,
+        "snippet": "Rivian is finally ready to introduce it's 3rd consumer model, the R2. And this all-electric 5 seater is ready to bring the brand into the ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
