@@ -432,6 +432,60 @@ def fetch_bluesky():
 # YouTube Data API v3 (no OAuth required)
 # ---------------------------------------------------------------------------
 
+# Transcript-based AI summarization. Uses the locally OAuth-authenticated
+# `claude` CLI (Haiku) — no API key to manage. Each call costs a fraction of a
+# cent. Both are best-effort: any failure falls back to the video description.
+CLAUDE_BIN = os.environ.get('CLAUDE_BIN', '/opt/homebrew/bin/claude')
+YT_SUMMARY_MODEL = 'claude-haiku-4-5'
+YT_SUMMARY_CAP = 6          # max videos to summarize per run (bounds runtime/cost)
+YT_TRANSCRIPT_MAXCHARS = 8000
+YT_TRANSCRIPT_DELAY = 2.0   # seconds between transcript fetches (avoid YouTube IP throttling)
+
+def fetch_transcript(video_id):
+    """Return plain-text transcript, or None. Raises RuntimeError on IpBlocked so
+    the caller can short-circuit the rest of the run."""
+    try:
+        from youtube_transcript_api import YouTubeTranscriptApi
+        try:
+            fetched = YouTubeTranscriptApi().fetch(video_id)
+            segs = fetched.to_raw_data() if hasattr(fetched, 'to_raw_data') else list(fetched)
+        except AttributeError:
+            segs = YouTubeTranscriptApi.get_transcript(video_id)
+        text = ' '.join(s['text'] for s in segs).strip()
+        return text or None
+    except Exception as e:
+        msg = str(e)
+        if 'IpBlocked' in type(e).__name__ or 'blocking requests from your IP' in msg:
+            raise RuntimeError(f'YouTube IP block: {msg[:200]}')
+        print(f"[fetch_gamefilm] YouTube transcript unavailable for {video_id}: {type(e).__name__}", file=sys.stderr)
+        return None
+
+def summarize_youtube_video(video_id, title):
+    """Fetch transcript and return a ~200-char intel summary, or None to keep the description.
+    Propagates IpBlocked as RuntimeError so the caller can stop the loop."""
+    transcript = fetch_transcript(video_id)
+    if not transcript or len(transcript) < 200:
+        return None
+    prompt = (
+        "You are a competitive-intelligence analyst for Rivian's product team. "
+        "Summarize this YouTube video transcript in ONE dense sentence of at most 200 characters, "
+        "capturing the most decision-relevant intel: product specs, launch timing, autonomy/software "
+        "status, pricing, or competitive comparisons. Output only the sentence — no preamble, no markdown.\n\n"
+        f"TITLE: {title}\n\nTRANSCRIPT:\n{transcript[:YT_TRANSCRIPT_MAXCHARS]}"
+    )
+    try:
+        r = subprocess.run(
+            [CLAUDE_BIN, '-p', '--model', YT_SUMMARY_MODEL, prompt],
+            capture_output=True, text=True, timeout=90,
+        )
+        out = (r.stdout or '').strip()
+        if r.returncode == 0 and out:
+            return out[:240]
+        print(f"[fetch_gamefilm] YouTube summarize rc={r.returncode} for {video_id}: {(r.stderr or '')[:200]}", file=sys.stderr)
+    except Exception as e:
+        print(f"[fetch_gamefilm] YouTube summarize failed for {video_id}: {e}", file=sys.stderr)
+    return None
+
 def fetch_youtube():
     items = []
     api_key = os.environ.get('YOUTUBE_API_KEY') or 'AIzaSyCx9gzTAUh28B-nuyj37wFPqAEekTDjg2Q'
@@ -478,6 +532,26 @@ def fetch_youtube():
             continue
         today_items.append(item)
     print(f"[fetch_gamefilm] YouTube: {len(items)} total, {len(today_items)} today", file=sys.stderr)
+
+    # Enrich today's videos with AI transcript summaries (best-effort, capped).
+    # Sleep between calls to avoid YouTube IP throttling; bail on a hard IP block.
+    summarized = 0
+    for idx, item in enumerate(today_items):
+        if summarized >= YT_SUMMARY_CAP:
+            break
+        if idx > 0:
+            time.sleep(YT_TRANSCRIPT_DELAY)
+        vid = item['url'].rsplit('v=', 1)[-1]
+        try:
+            summary = summarize_youtube_video(vid, item.get('title', ''))
+        except RuntimeError as e:
+            print(f"[fetch_gamefilm] YouTube: stopping summarization — {e}", file=sys.stderr)
+            break
+        if summary:
+            item['snippet'] = summary
+            item['summarized'] = True
+            summarized += 1
+    print(f"[fetch_gamefilm] YouTube: summarized {summarized}/{len(today_items)} videos", file=sys.stderr)
     return today_items
 
 # ---------------------------------------------------------------------------

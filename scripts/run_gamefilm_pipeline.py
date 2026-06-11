@@ -203,7 +203,7 @@ def main():
     # Fetch — use subprocess directly without capture_output to avoid pipe/redirect conflicts
     fetch_cmd = f"python3 /Users/osunick/.openclaw/workspace/rivian-dashboard/scripts/fetch_gamefilm.py > {RAW_JSON} 2>{FETCH_LOG}"
     try:
-        r = subprocess.run(fetch_cmd, shell=True, stdout=None, stderr=None, timeout=180)
+        r = subprocess.run(fetch_cmd, shell=True, stdout=None, stderr=None, timeout=360)
         fetch_ok = (r.returncode == 0)
     except Exception as e:
         fetch_ok = False

@@ -15,7 +15,7 @@ const config: Config = {
           border: '#E8E6E1',
           text: '#2B2927',
           muted: '#8A8782',
-          accent: '#DA7756', // Claude Peach/Orange
+          accent: '#DA7756',
           accentHover: '#C46447',
           surface: '#F5F4F0',
         },
@@ -24,9 +24,9 @@ const config: Config = {
         border: '#E8E6E1',
         primary: '#2B2927',
         muted: '#8A8782',
-        positive: '#40806A', // Muted green
+        positive: '#40806A',
         neutral: '#8A8782',
-        negative: '#C4554D', // Muted red
+        negative: '#C4554D',
         accent: '#DA7756',
       },
       fontFamily: {
