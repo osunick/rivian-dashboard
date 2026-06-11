@@ -19325,5 +19325,341 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-11T22:01:19.893289Z",
+    "timestamp": "2026-06-11T22:01:19.893289Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 29,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 Demo Laguna Beach",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3cma5/r2_demo_laguna_beach/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T21:50:15.593Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2 order invite",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3c7z1/r2_order_invite/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T21:34:56.535Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2 Demo Drive Report, Boston (Non-owner, Day 1 Hour 1 Reservation)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3b3em/r2_demo_drive_report_boston_nonowner_day_1_hour_1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T20:50:53.569Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Gear Tunnel Door Storage Bag",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3aibd/gear_tunnel_door_storage_bag/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T20:29:13.715Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Spent A Few Days in an R2 Just Before Memorial Day Weekend",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3ahhx/spent_a_few_days_in_an_r2_just_before_memorial/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T20:28:21.544Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Demo R2 Most Important Spec",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3ab0j/demo_r2_most_important_spec/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T20:21:35.029Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2 vs R1T speakers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3a9ln/r2_vs_r1t_speakers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T20:19:43.508Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A Rivian Fender Bender Cost $42,000. Its CEO Says That Should Never Happen",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u38e64/a_rivian_fender_bender_cost_42000_its_ceo_says/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-11T19:10:17.662Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "AT&T (T) Expands Partnership With Rivian (RIVN) to Provide 5G Connectivity for R2 Platform - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXR5RkMyeVNpaDRKZHpjOEphQnRBWnFwVWdtWGFFdk54TWFDNklsMzluTWtVamtoZlVNUjU1M3FGRS14aDA1cVdnUlpubkFjWUhMdjFiYXpmd0E1REEzV3ROSWVmTEUxeUg4YmlydkZ3UFhFUloyaW53RWtRSXFRS2tyMmdjSHl4Mm9qUTZaYnUyR0QxVjFYQ2I4Zw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 11 Jun 2026 19:55:38 GMT",
+        "score": 0,
+        "snippet": "AT&T (T) Expands Partnership With Rivian (RIVN) to Provide 5G Connectivity for R2 Platform - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why the Rivian R2 Could Be America\u2019s Next Big EV SUV - WAVY.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTc2Q044d05ZS0lRa1N5MHdMb2VCNzNIZW00N0gwdjJyU0dzM2NYcTg2b1FDLTlUT3VXdlBxRXlsYnQ3SkpIa2xxakJEeVpYaXlEX0lZOGxGOXJZVzVZc01IWWlwMjBiajUyR2pPZ1BQVHh4YnJfMzBzbkFHU01pMG9nNHJuaUVCdlhRadIBkgFBVV95cUxQZWtYenFZaXo2NEk1d3BtOWd5Sl90Zk1lRlU4YTFZMFl6bURBWk5lVkdGajlWdl9aZnZCY0k1YkZMd0xIdzNUclBkOFN5Q1pEbU1ORDhGME9FZFNTNkFWY09SOFAxM1hJalBhQ3IzZE9Gcy1LdkI4ejEySWFRZlVaVjM0cG1KSnhaOXR5bkFCWWZLQQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 16:18:58 GMT",
+        "score": 0,
+        "snippet": "Why the Rivian R2 Could Be America\u2019s Next Big EV SUV - WAVY.com",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Rivian Believes The R2 Can Finally Challenge Tesla - KXAN Austin",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzk4UjNUT1RQYTNRZnZpMlpTTURtY0g3ZVFNeHlEV2xUdDVLNG5YYklBcnhQVzZ6U0tGcE1FMlAtZFFhRGVXY2FOMWVNVlZrVDJDZ3pLSUNKUDhnd0RmR3hGWFU0WEkxNndVcXVPcmpRbldiQ2ZGZUhSUS1zZDFiNU1qdGk1UHJNSGtyQ0s4VErSAZYBQVVfeXFMTWtGRTZOSHVoOGVSZHdkVTRtUUd4dkNtOVlMbGZ4aEV3MUx4eEdVWXNqUHJ0aWJRMTUtbjVYWmNiQ2ZUeWhqRU9VYTlkRHNnckFzd29tNEZ6b3lHZ1h4MTQxVE1SaUNYem1SLWFpTHBLcmhjWEZ1TTFrZmItcjdqX00wVzBrWXVUMGhHNk9hZEg0Q0FYd0dn?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 20:59:15 GMT",
+        "score": 0,
+        "snippet": "Why Rivian Believes The R2 Can Finally Challenge Tesla - KXAN Austin",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is It Time to Buy Rivian Stock as R2 Deliveries Begin? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlg4UDBnOVAtRmhtOFpYejBENlhLV25pM2hQNklWUU82eUVnc0k1MXQ3M0NwQldzcktPS1pOSDF6Nk1MdlRPVkVsdG1sdzJQSHhxYTY4UFVfMGRPejFhNjNLOE1TRW15Vmg3MTdoc0hVSC11dDhIYkdhYThseVlDT2Z5eEhoei1aWEZvVDVlQVZhMXRMU0NRUW9IeUZUYy1Ub0w2N3RQZlpZakpRYVRZWm9WMGpBQWpER0x5V05lVkYwVXJCUVdtWUVVTS1Wd0lIZnpkWA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 16:25:00 GMT",
+        "score": 0,
+        "snippet": "Is It Time to Buy Rivian Stock as R2 Deliveries Begin? - The Globe and Mail",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian begins R2 SUV deliveries with focus on expansion - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1J1NV83TGV5aWMxV1ZIV2xJNUdYdS0wSENGTzJQOVB3emRnR09rR19vXzAwblJwTDcySGxTWHdxS1N0alJFejA1YUFOelBrYU9yTXRDcERVUTZ6SmIwSWRMdzZzdm93N0dMbzVRbUN4V05Pb0ItbGs0YUxKNUoyeE1ERWdreFp4MzBzTk1wbzJwQmlRb1llRmZodzU3MnZhUTVGZUw3aV8?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 17:42:16 GMT",
+        "score": 0,
+        "snippet": "Rivian begins R2 SUV deliveries with focus on expansion - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Wall Street Analyst Claims Tesla Has Achieved \u201cLevel 4\u201d Self-Driving - CleanTechnica",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmFFM3llU3diejRvNmlNZVJmdl9lSDJIcWFOLXp5T1V1MDM2bFB3bDctNlVJeGY5LVM3eC1fSEJKcTlJS3BZZzVENEFudlp0MUxSNkZEeG4tMVNheGRnMXgwQy1ubEpuV2UxazlxQjdJb0JsMFlwRnpuNjNzbTJRdVQyb1BkMGc5cF9aLUhCcTdsa2pmeGpWWE50MWp6VUFHRWJyZFBERdIBrwFBVV95cUxOTElUeVc4ekNXUXRFbDNTQU94X0NhaGk5aVA3SUptUDRGZHVjaHUweDlpTFNsamExNnhkNWpKOF9lR3VNOVRmY19SWGZjRmJGT3BDMDQ5UkVnYnpOUXo4TVYyWmxZTDlJRHhJMlVrWXBRNWZWZ2lRME93V1NyN3N2Yy1SSklBUzQ2TTVyLUJLM19jcVYzMTZRVDVuS3F5X3dycUpocWFhOW5NbGItVTNN?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Thu, 11 Jun 2026 15:42:46 GMT",
+        "score": 0,
+        "snippet": "Wall Street Analyst Claims Tesla Has Achieved \u201cLevel 4\u201d Self-Driving - CleanTechnica",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@francejeunes.bsky.social (Bluesky): Amazon : une mise \u00e0 jour logicielle coupe la climatisation des livreurs en plein",
+        "url": "https://bsky.app/profile/did:plc:zk724dj6dhggrtdvyufv5dc5/post/3mo2626rszz2w",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T21:25:37.777Z",
+        "score": 0,
+        "snippet": "Amazon : une mise \u00e0 jour logicielle coupe la climatisation des livreurs en pleine canicule\n\n\u2753 Pourquoi Amazon coupe la clim des livreurs ?\n\u2753 Que dit la loi fran\u00e7aise sur la chaleur au travail ?\n\u2753 Les ",
+        "category": "community",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@cleantechnica.bsky.social (Bluesky): The Rivian R2 Is Here!\ncleantechnica.com/2026/06/10/t...",
+        "url": "https://bsky.app/profile/did:plc:7d36kzszvmgpsyjs6nwoeqmn/post/3mo25xrtpx22l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T21:24:18.469Z",
+        "score": 7,
+        "snippet": "The Rivian R2 Is Here!\ncleantechnica.com/2026/06/10/t...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian CEO RJ Scaringe laid out the brand's future plans for its newest model.",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mo24n74xd72m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T21:00:28.067Z",
+        "score": 2,
+        "snippet": "Rivian CEO RJ Scaringe laid out the brand's future plans for its newest model.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): A Rivian Fender Bender Cost $42,000. Its CEO Says That Should Never Happen\n\nhttp",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mo24n7vmre2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T21:00:29.166Z",
+        "score": 1,
+        "snippet": "A Rivian Fender Bender Cost $42,000. Its CEO Says That Should Never Happen\n\nhttps://www.evshift.com/471750/a-rivian-fender-bender-cost-42000-its-ceo-says-that-should-never-happen/\n\nA Rivian Fender Ben",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@skipthefomx.bsky.social (Bluesky): Cybertruck mfs after getting broadsided by a ripoff Rivian",
+        "url": "https://bsky.app/profile/did:plc:2p2annacolodcd3xc7bcowlx/post/3mo22jiseos2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T20:22:36.871Z",
+        "score": 0,
+        "snippet": "Cybertruck mfs after getting broadsided by a ripoff Rivian",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@newsramp.com (Bluesky): The battery race is moving faster than ever. Lithium-air technology is already e",
+        "url": "https://bsky.app/profile/did:plc:xlsujlrwr5xpfxgaf4pixhri/post/3mnzzf3eghi2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T20:02:14.074Z",
+        "score": 0,
+        "snippet": "The battery race is moving faster than ever. Lithium-air technology is already emerging before solid-state batteries have matured. EV makers like Rivian may soon have multiple battery chemistries to c",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@technolust.bsky.social (Bluesky): Really glad I didn\u2019t get a Rivian when I looked at them.",
+        "url": "https://bsky.app/profile/did:plc:nb6wgqywpdy23gspm7ggjeig/post/3mnzzabm4ak2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T19:59:33.064Z",
+        "score": 1,
+        "snippet": "Really glad I didn\u2019t get a Rivian when I looked at them.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@thenoteheleft.bsky.social (Bluesky): Good to know Rivian partners with Amazon.",
+        "url": "https://bsky.app/profile/did:plc:donnsvwop3blpd4es5rxdvc5/post/3mnzz7qhz6k2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T19:59:15.774Z",
+        "score": 0,
+        "snippet": "Good to know Rivian partners with Amazon.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@aluizcosta.bsky.social (Bluesky): Atualiza\u00e7\u00e3o de software da Amazon/Rivian desliga automaticamente o ar-condiciona",
+        "url": "https://bsky.app/profile/did:plc:mrxb7fjbc3uev6i5ikre2ttf/post/3mnzyiuvy3k2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T19:46:28.268Z",
+        "score": 4,
+        "snippet": "Atualiza\u00e7\u00e3o de software da Amazon/Rivian desliga automaticamente o ar-condicionado dos motoristas da Amazon ap\u00f3s 30 segundos",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@joelfeder.bsky.social (Bluesky): \"Rivian CEO RJ Scaringe exclusively told The Drive that no collision repair shou",
+        "url": "https://bsky.app/profile/did:plc:py4p5224qepuyorepr7bcwpx/post/3mnzwungrbc27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T19:17:16.971Z",
+        "score": 0,
+        "snippet": "\"Rivian CEO RJ Scaringe exclusively told The Drive that no collision repair should cost tens of thousands of dollars \u2014 and explained why it's happened.\"",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Daily Dent Update! 6/11/26 PDR on a Rivian Door Dent!\ud83d\udd28\ud83e\udea0\ud83d\udd28\ud83e\udea0 #pdr #dentrepair #rivian #pdrtools",
+        "url": "https://youtube.com/watch?v=5zG3VVc434E",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T21:55:18Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Hands on! Can You Sleep In The Back?",
+        "url": "https://youtube.com/watch?v=XmWiN6nauS4",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T19:42:54Z",
+        "score": 0,
+        "snippet": "As someone who has lived and traveled out of a Honda Element for years, I was really curious about the new Rivian R2. It has the ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2027 Rivian R2 Range &amp; Charging \u26a1 Better Than Expected? #Shorts",
+        "url": "https://youtube.com/watch?v=pULxVb9FqII",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T19:00:06Z",
+        "score": 0,
+        "snippet": "Discover the expected driving range and charging capabilities of the 2027 Rivian R2. Is Rivian creating the perfect electric SUV ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\u041f\u0435\u0440\u0435\u0434\u043d\u044f \u043b\u0456\u0432\u0430 \u043f\u0456\u0432\u0432\u0456\u0441\u044c Rivian \u2014 \u0432 \u043d\u0430\u044f\u0432\u043d\u043e\u0441\u0442\u0456! #\u0432\u0441\u0435\u0430\u0432\u0442\u043e #\u0430\u0432\u0442\u043e\u0437\u0441\u0448\u0430",
+        "url": "https://youtube.com/watch?v=F-bJTkhy1EM",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T18:23:03Z",
+        "score": 0,
+        "snippet": "\u041f\u0435\u0440\u0435\u0434\u043d\u044f \u043b\u0456\u0432\u0430 \u043f\u0456\u0432\u0432\u0456\u0441\u044c Rivian \u2014 \u0432 \u043d\u0430\u044f\u0432\u043d\u043e\u0441\u0442\u0456! \u0423 \u043f\u0440\u043e\u0434\u0430\u0436\u0443 \u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u044c\u043d\u0430 \u043f\u0435\u0440\u0435\u0434\u043d\u044f \u043b\u0456\u0432\u0430 \u043f\u0456\u0432\u0432\u0456\u0441\u044c \u0434\u043b\u044f Rivian. \u0414\u0435\u0442\u0430\u043b\u044c \u0437\u043d\u044f\u0442\u0430 \u0437 ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "$RIVN R2 Launch: Rivian Just Did What Tesla Struggles to Do",
+        "url": "https://youtube.com/watch?v=BzbergZdiak",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T17:50:41Z",
+        "score": 0,
+        "snippet": "In this clip from Buy Hold Rant, hosts Hamid Shojaee and Dustin Alper discuss the overwhelmingly positive reaction to Rivian's ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
