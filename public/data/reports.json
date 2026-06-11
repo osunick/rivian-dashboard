@@ -19219,5 +19219,111 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-11T18:32:21.984502Z",
+    "timestamp": "2026-06-11T18:32:21.984502Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Frunk R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u36t4r/frunk_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T18:13:52.339Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Unexpectedly pulled the trigger after a test drive",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u36lwd/unexpectedly_pulled_the_trigger_after_a_test_drive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T18:06:37.577Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "CNBC Sport: The plan for this year\u2019s World Cup to revolutionize Major League Soccer",
+        "url": "https://www.cnbc.com/2026/06/11/cnbc-sport-world-cup-major-league-soccer.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@call634-5789.bsky.social (Bluesky): We have 2 Chevy EVs for home and a Rivian for the business. I'm done buying sawe",
+        "url": "https://bsky.app/profile/did:plc:vysdl4bhvlnjr4nciocx6dri/post/3mnztgz7ras22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T18:15:58.168Z",
+        "score": 0,
+        "snippet": "We have 2 Chevy EVs for home and a Rivian for the business. I'm done buying sawed off catalytic converters and $5 a gallon gas.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@startuphub.bsky.social (Bluesky): Rivian boosts AI-powered decisions with Databricks. Gains include 70% less suppl",
+        "url": "https://bsky.app/profile/did:plc:tcbapawcxgmp2idtbyj4xd2g/post/3mnzsqsydz42f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T18:03:36.270Z",
+        "score": 0,
+        "snippet": "Rivian boosts AI-powered decisions with Databricks. Gains include 70% less supply chain monitoring time and sub-2-minute inventory analysis.\n\nhttps://www.startuphub.ai/ai-news/technology/2026/rivian-s",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian Heard You Complaining About Touchscreens So It Over-Engineered Scroll Whe",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mnzsrbpzbw2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T18:03:47.667Z",
+        "score": 0,
+        "snippet": "Rivian Heard You Complaining About Touchscreens So It Over-Engineered Scroll Wheels\n\nhttps://www.evshift.com/471694/rivian-heard-you-complaining-about-touchscreens-so-it-over-engineered-scroll-wheels/",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
