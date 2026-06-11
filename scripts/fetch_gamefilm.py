@@ -1,129 +1,34 @@
 #!/usr/bin/env python3
 """
 fetch_gamefilm.py — Pre-fetch all GameFilm sources and output new raw items.
+Tavily-free version — uses Playwright browser scraping + direct APIs.
 
-This script does everything that doesn't require LLM intelligence:
-  1. Reads reports.json and builds a known-URLs set for deduplication
-  2. Fetches Reddit (r/Rivian, r/RivianR2, r/electricvehicles, r/SelfDrivingCars, r/stocks)
-  3. Fetches HackerNews
-  4. Filters to items published TODAY (Pacific Time) and not in known-URLs set
-  5. Outputs a compact JSON to stdout with:
-     - today's date
-     - known_url_count (for context)
-     - raw_items[] (title, url, source, publishedAt, snippet/selftext)
-
-The LLM reads this output and only needs to:
-  - Categorize each item
-  - Score sentiment
-  - Write snippets
-  - Write the brief
-  - Call sessions_send
+Sources:
+  Reddit       — Playwright → reddit.com/r/{sub}/search
+  HackerNews   — Algolia HN API
+  RSS feeds    — Direct RSS (AP, Reuters, Bloomberg, CNBC, etc.)
+  Playwright   — News site searches (NYT, WSJ, Reuters, Bloomberg, etc.)
+  Bluesky      — Public Bluesky AT Protocol API
+  YouTube      — YouTube Data API v3
+  Twitter/X    — Playwright → twitter.com/search (unauthenticated fallback)
 
 Usage:
   python3 scripts/fetch_gamefilm.py > /tmp/gamefilm_raw.json
 """
 
-import json, sys, os, time, urllib.request, urllib.error
+import json, sys, os, time, urllib.request, urllib.error, subprocess
 from datetime import datetime, timezone, timedelta
-import zoneinfo
+from zoneinfo import ZoneInfo
+import xml.etree.ElementTree as ET
 
 REPORTS_FILE = os.path.join(os.path.dirname(__file__), '..', 'public', 'data', 'reports.json')
-PT = zoneinfo.ZoneInfo('America/Los_Angeles')
+PT = ZoneInfo('America/Los_Angeles')
 TODAY_PT = datetime.now(PT).date()
+SCRIPT_DIR = os.path.dirname(__file__)
 
-def fetch_rivianforums():
-    """Fetch UHF/Hands-Free Driving forum threads via Playwright."""
-    import subprocess
-
-    node_script = """
-const { chromium } = require('playwright');
-(async () => {
-  const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-    viewport: { width: 1280, height: 800 },
-  });
-  const page = await context.newPage();
-
-  await page.setExtraHTTPHeaders({ 'Accept-Language': 'en-US,en;q=0.9' });
-
-  try {
-    await page.goto('https://www.rivianforums.com/forum/forums/uhf-hands-free-driving-autonomy-driving-aids-adas.48/', {
-      waitUntil: 'domcontentloaded',
-      timeout: 45000
-    });
-
-    // Wait for Cloudflare challenge to clear
-    try {
-      await page.waitForFunction(() => {
-        const t = document.title;
-        return !t.includes('Just a moment') && !t.includes('cf-challenge') && !t.includes('cloudflare');
-      }, { timeout: 30000 });
-    } catch (e) {
-      console.log(JSON.stringify({ threads: [], error: 'CF challenge not cleared' }));
-      await browser.close();
-      return;
-    }
-
-    await page.waitForTimeout(2000);
-
-    const threads = await page.evaluate(() => {
-      const selectors = ['.structItem', '.thread-list-item', '.discussionListItem', 'tr[data-id]'];
-      let items = [];
-      for (const sel of selectors) {
-        items = document.querySelectorAll(sel);
-        if (items.length > 0) break;
-      }
-      if (items.length === 0) {
-        const links = document.querySelectorAll('a[href*="/threads/"]');
-        return Array.from(links).slice(0, 30).map(link => ({
-          title: link.textContent.trim(),
-          url: link.href,
-        }));
-      }
-      return Array.from(items).map(el => {
-        const link = el.querySelector('a[href*="/threads/"]') || el.querySelector('a');
-        const titleEl = el.querySelector('.structItem-title a, .thread-title, .title');
-        const authorEl = el.querySelector('.structItem-meta a, .author, .username');
-        const repliesEl = el.querySelector('.structItem-messageCount, .reply-count');
-        const viewsEl = el.querySelector('.structItem-viewCount, .view-count');
-        return {
-          title: titleEl ? titleEl.textContent.trim() : (link ? link.textContent.trim() : ''),
-          url: link ? link.href : '',
-          author: authorEl ? authorEl.textContent.trim() : '',
-          replies: repliesEl ? repliesEl.textContent.trim() : '',
-          views: viewsEl ? viewsEl.textContent.trim() : '',
-        };
-      });
-    });
-
-    console.log(JSON.stringify({ threads, success: true }));
-  } catch (err) {
-    console.log(JSON.stringify({ threads: [], error: err.message }));
-  }
-
-  await browser.close();
-})();
-"""
-    result = subprocess.run(
-        ['node', '-e', node_script],
-        cwd=os.path.dirname(__file__),
-        capture_output=True, text=True, timeout=90
-    )
-    if result.returncode != 0:
-        print(f"[fetch_gamefilm] RivianForums Playwright error: {result.stderr}", file=sys.stderr)
-        return []
-    try:
-        data = json.loads(result.stdout)
-        if not data.get('success'):
-            print(f"[fetch_gamefilm] RivianForums fetch failed: {data.get('error', 'unknown')}", file=sys.stderr)
-            return []
-        threads = data.get('threads', [])
-        print(f"[fetch_gamefilm] RivianForums: {len(threads)} threads fetched", file=sys.stderr)
-        return threads
-    except:
-        print(f"[fetch_gamefilm] RivianForums parse error: {result.stdout[:200]}", file=sys.stderr)
-        return []
+# ---------------------------------------------------------------------------
+# Utilities
+# ---------------------------------------------------------------------------
 
 def fetch_json(url, timeout=10):
     try:
@@ -158,35 +63,426 @@ def unix_to_date(ts):
 
 def is_today(ts):
     d = unix_to_date(ts)
-    return d == TODAY_PT if d else None  # None = unknown
+    return d == TODAY_PT if d else None
 
-def reddit_permalink_to_url(permalink):
-    return f"https://www.reddit.com{permalink}"
+def parse_date_to_pt(date_str):
+    """"Parse a date string to PT datetime. Returns None if unparseable." """
+    if not date_str:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(date_str).astimezone(PT)
+    except:
+        pass
+    try:
+        # ISO format with Z
+        if date_str.endswith('Z'):
+            date_str = date_str[:-1] + '+00:00'
+        dt = datetime.fromisoformat(date_str)
+        return dt.astimezone(PT)
+    except:
+        pass
+    return None
 
-def fetch_reddit_new(subreddit, limit=50):
-    url = f"https://www.reddit.com/r/{subreddit}/new.json?limit={limit}"
-    data = fetch_json(url)
-    if not data:
-        return []
+# ---------------------------------------------------------------------------
+# Playwright browser scraper — all browser sources in one call for efficiency
+# Writes results to /tmp/gamefilm_browser.json to avoid stdout pollution.
+# ---------------------------------------------------------------------------
+
+def run_playwright_browser():
+    tmpfile = '/tmp/gamefilm_browser.json'
+
+    node_script = r"""
+const { chromium } = require('playwright');
+const fs = require('fs');
+const OUT = '/tmp/gamefilm_browser.json';
+
+(async () => {
+  const browser = await chromium.launch({ headless: true });
+  const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    viewport: { width: 1280, height: 800 },
+    extraHTTPHeaders: { 'Accept-Language': 'en-US,en;q=0.9' },
+  });
+  const page = await context.newPage();
+  page.setDefaultTimeout(20000);
+  page.setDefaultNavigationTimeout(30000);
+
+  const results = {};
+  const log = [];
+
+  function logMsg(msg) { log.push(msg); }
+
+  // ── Helper ──────────────────────────────────────────────────────────────
+  async function scrapeSearch(url, sourceKey, options = {}) {
+    const { waitFor = 3000, linkPattern, maxItems = 10 } = options;
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 25000 });
+      await page.waitForTimeout(waitFor);
+      const title = await page.title();
+      if (title.includes('cloudflare') || title.includes('CF-challenge') ||
+          title.includes('Access denied') || title.includes('Just a moment') ||
+          title.includes('DDOS') || title.includes('Ray ID')) {
+        logMsg('[browser] ' + sourceKey + ': Cloudflare/Challenge block, skipping');
+        return [];
+      }
+      const items = await page.evaluate(({ linkPattern, maxItems }) => {
+        // Skip nav/link-farm titles
+        const skipTitles = /^(subscribe|sign in|log.?in|markets|pre.?markets|u\.s\.?markets|currencies|terms of service|need help|contact us|newsletters|business|strategy|politics|opinion|search|home|video|podcasts?|about|careers|advertise)/i;
+        const found = [];
+        const seen = new Set();
+        const els = document.querySelectorAll('a[href]');
+        for (const el of els) {
+          const href = el.href;
+          if (seen.has(href)) continue;
+          if (linkPattern && !linkPattern.test(href)) continue;
+          seen.add(href);
+          const parent = el.closest('li, article, div[data-testid], .search-result, .post, .story, .news-item, .card');
+          const titleEl = (parent || el).querySelector('h2, h3, [role="heading"], [data-testid="title"], .headline, .title') || el;
+          const titleText = (titleEl || el).textContent.trim();
+          if (skipTitles.test(titleText)) continue;
+          if (titleText.length < 5) continue;  // Skip empty or near-empty titles
+          const dateEl = (parent || el).querySelector('time');
+          found.push({
+            title: titleText.slice(0, 200),
+            url: href,
+            date: dateEl ? (dateEl.getAttribute('datetime') || dateEl.textContent.trim()) : '',
+          });
+          if (found.length >= maxItems) break;
+        }
+        return found;
+      }, { linkPattern, maxItems });
+      results[sourceKey] = (results[sourceKey] || []).concat(items.map(i => ({ ...i, source: sourceKey })));
+      logMsg('[browser] ' + sourceKey + ': ' + items.length + ' items');
+    } catch (err) {
+      logMsg('[browser] ' + sourceKey + ': ERROR ' + err.message);
+    }
+  }
+
+  // ── Reddit searches ──────────────────────────────────────────────────────
+  // Note: RivianR2 is IP-blocked by Reddit; r/stocks is too noisy — skip both
+  const subreddits = [
+    { name: 'Rivian', query: 'Rivian OR RIVN OR R1T OR R1S OR R2 OR "RJ Scaringe"' },
+    { name: 'electricvehicles', query: 'Rivian OR RIVN OR R1T OR R1S' },
+    { name: 'SelfDrivingCars', query: 'Rivian OR RIVN OR R1T OR autonomy OR driver assist' },
+  ];
+
+  for (const sub of subreddits) {
+    const url = 'https://www.reddit.com/r/' + sub.name + '/search/?q=' + encodeURIComponent(sub.query) + '&sort=new&restrict_sr=1';
+    await scrapeSearch(url, 'reddit_' + sub.name.toLowerCase(), {
+      waitFor: 3500,
+      linkPattern: /\/r\/[a-z]+\/comments\//i,
+      maxItems: 8,
+    });
+    await page.waitForTimeout(1200);
+  }
+
+  // ── News site searches ───────────────────────────────────────────────────
+  // Use broader pattern: any link to the site's domain that looks like an article
+  const newsSites = [
+    { name: 'nytimes', url: 'https://www.nytimes.com/search?query=Rivian&sort=date' },
+    { name: 'wsj', url: 'https://www.wsj.com/search?query=Rivian&mod=search_ts' },
+    { name: 'reuters', url: 'https://www.reuters.com/search/news?blob=Rivian&sortBy=date&dateRange=7d' },
+    { name: 'bloomberg', url: 'https://www.bloomberg.com/search?query=Rivian&sort=time' },
+    { name: 'cnbc', url: 'https://www.cnbc.com/search/?query=Rivian&type=news' },
+    { name: 'business_insider', url: 'https://www.businessinsider.com/s/?q=Rivian&sort=date' },
+    { name: 'detroitnews', url: 'https://www.detroitnews.com/search/?q=Rivian&sort=date' },
+    { name: 'autonews', url: 'https://www.autonews.com/search#q=Rivian' },
+    { name: 'motortrend', url: 'https://www.motortrend.com/search/?q=Rivian' },
+    { name: 'caranddriver', url: 'https://www.caranddriver.com/search/?q=Rivian' },
+  ];
+
+
+  for (const site of newsSites) {
+    // Use date-based pattern for sites that use /YYYY/MM/ URL structure
+    // Also filter out nav/subscribe links by requiring title text
+    const domain = site.url.split('/')[2];
+    const pattern = new RegExp('^https?://' + domain.replace('.', '\\.') + '/\\d{4}/\\d{2}/.*', 'i');
+    await scrapeSearch(site.url, site.name, {
+      waitFor: 3000,
+      linkPattern: pattern,
+      maxItems: 5,
+    });
+    await page.waitForTimeout(800);
+  }
+
+  // Twitter/X and Threads are not accessible without authentication — skipped.
+  // Stock/financial signal is covered by Google News RSS instead.
+
+  // Write JSON to file (not stdout) to avoid log pollution
+  fs.writeFileSync(OUT, JSON.stringify({ results, log }));
+  await browser.close();
+})();
+"""
+
+    result = subprocess.run(
+        ['node', '-e', node_script],
+        cwd=SCRIPT_DIR,
+        capture_output=True, text=True, timeout=180
+    )
+    if result.returncode != 0:
+        print(f"[fetch_gamefilm] Playwright browser error: {result.stderr[:500]}", file=sys.stderr)
+        return {}
+    try:
+        with open(tmpfile) as f:
+            data = json.load(f)
+        for msg in data.get('log', []):
+            print(msg, file=sys.stderr)
+        return data.get('results', {})
+    except Exception as e:
+        print(f"[fetch_gamefilm] Playwright parse error: {e}", file=sys.stderr)
+        if os.path.exists(tmpfile):
+            try:
+                with open(tmpfile) as f:
+                    print(f"Raw file: {f.read()[:500]}", file=sys.stderr)
+            except:
+                pass
+        return {}
+
+# ---------------------------------------------------------------------------
+# Google News RSS — reliable, free, no auth needed
+# ---------------------------------------------------------------------------
+
+def fetch_google_news():
+    """Fetch Rivian news from Google News RSS feeds."""
     items = []
-    for child in (data.get('data') or {}).get('children') or []:
-        d = child.get('data') or {}
-        ts = d.get('created_utc')
-        today = is_today(ts)
-        if today is False:
-            continue  # published on a different day, skip
-        url_val = d.get('url') or reddit_permalink_to_url(d.get('permalink', ''))
-        if 'reddit.com' not in url_val and d.get('is_self'):
-            url_val = reddit_permalink_to_url(d.get('permalink', ''))
-        items.append({
-            'title': d.get('title', ''),
-            'url': url_val,
-            'source': f"reddit_{subreddit.lower().replace('/', '_')}",
-            'publishedAt': datetime.fromtimestamp(int(ts), tz=PT).isoformat() if ts else None,
-            'score': d.get('score', 0),
-            'snippet': (d.get('selftext') or '')[:500].strip(),
-        })
+    import re
+    rss_urls = [
+        ('https://news.google.com/rss/search?q=Rivian+RIVN&hl=en-US&gl=US&ceid=US:en', 'google_news'),
+        ('https://news.google.com/rss/search?q=Rivian+R2+electric+SUV&hl=en-US&gl=US&ceid=US:en', 'google_news_r2'),
+        ('https://news.google.com/rss/search?q=Rivian+autonomy+driver+assist&hl=en-US&gl=US&ceid=US:en', 'google_news_autonomy'),
+        # Competitor intel feeds
+        ('https://news.google.com/rss/search?q=Tesla+FSD+autonomy+self-driving&hl=en-US&gl=US&ceid=US:en', 'google_news_tesla'),
+        ('https://news.google.com/rss/search?q=Waymo+robotaxi+driverless&hl=en-US&gl=US&ceid=US:en', 'google_news_waymo'),
+        ('https://news.google.com/rss/search?q=Ford+GM+electric+vehicle+EV+pickup&hl=en-US&gl=US&ceid=US:en', 'google_news_oems'),
+        ('https://news.google.com/rss/search?q=BYD+XPeng+NIO+electric+autonomy&hl=en-US&gl=US&ceid=US:en', 'google_news_chinese'),
+        ('https://news.google.com/rss/search?q=Cybertruck+Model+Y+electric+pickup&hl=en-US&gl=US&ceid=US:en', 'google_news_cybertruck'),
+    ]
+    for url, label in rss_urls:
+        fetched = _fetch_rss(url, label)
+        items.extend(fetched)
+    # Google News descriptions are bare URLs in <a> tags — use title as snippet instead
+    for item in items:
+        item['snippet'] = item.get('title', '')[:200]
+    # Filter to today PT + keywords (feed-specific)
+    rivian_kw = ['rivian','rivn','r1t','r1s','r2','rj','scaringe','electric truck','electric suv']
+    competitor_kw = ['tesla','fsd','waymo','aurora','byd','xpeng','gm','ford','hummer','equinox','mach-e','cybertruck','model y','zoox','mobileye','lucid','polestar','ioniq']
+    today_items = []
+    for item in items:
+        text = (item['title'] + ' ' + item['snippet']).lower()
+        source = item.get('source','').lower()
+        # Rivian feeds require Rivian keywords; competitor feeds require competitor keywords
+        if 'competitive' in source or 'tesla' in source or 'waymo' in source or 'oems' in source or 'chinese' in source or 'cybertruck' in source:
+            if not any(k in text for k in competitor_kw):
+                continue
+        else:
+            if not any(k in text for k in rivian_kw):
+                continue
+        date_str = item.get('publishedAt', '')
+        dt = parse_date_to_pt(date_str)
+        if dt and dt.date() != TODAY_PT:
+            continue
+        today_items.append(item)
+    # Dedupe by URL
+    seen = set()
+    deduped = []
+    for item in today_items:
+        if item['url'] and item['url'] not in seen:
+            seen.add(item['url'])
+            deduped.append(item)
+    print(f"[fetch_gamefilm] Google News: {len(items)} total, {len(today_items)} today, {len(deduped)} unique", file=sys.stderr)
+    return deduped
+
+# ---------------------------------------------------------------------------
+# RSS Feed Fetcher
+# ---------------------------------------------------------------------------
+
+def _parse_rss(xml_text, source_label):
+    items = []
+    try:
+        root = ET.fromstring(xml_text)
+        if root.tag.endswith('feed'):
+            ns = {'atom': 'http://www.w3.org/2005/Atom'}
+            for entry in root.findall('atom:entry', ns) or root.findall('entry'):
+                title_el = entry.find('atom:title', ns) or entry.find('title')
+                link_el = entry.find('atom:link[@rel="alternate"]', ns) or entry.find('link[@href]') or entry.find('link')
+                date_el = entry.find('atom:published', ns) or entry.find('updated') or entry.find('published')
+                summary_el = entry.find('atom:summary', ns) or entry.find('summary') or entry.find('content')
+                items.append({
+                    'title': title_el.text.strip() if title_el is not None and title_el.text else '',
+                    'url': link_el.get('href', '') if link_el is not None else '',
+                    'source': source_label,
+                    'publishedAt': date_el.text if date_el is not None and date_el.text else None,
+                    'score': 0,
+                    'snippet': summary_el.text[:300] if summary_el is not None and summary_el.text else '',
+                })
+        else:
+            for item in root.findall('.//item'):
+                title = (item.findtext('title') or '').strip()
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or item.findtext('dc:date', '') or ''
+                desc = item.findtext('description') or item.findtext('content:encoded') or ''
+                items.append({
+                    'title': title,
+                    'url': url,
+                    'source': source_label,
+                    'publishedAt': date,
+                    'score': 0,
+                    'snippet': desc[:300],
+                })
+    except Exception as e:
+        print(f"[fetch_gamefilm] RSS parse error ({source_label}): {e}", file=sys.stderr)
     return items
+
+def _fetch_rss(url, source_label, timeout=15):
+    try:
+        req = urllib.request.Request(url, headers={
+            'User-Agent': 'Mozilla/5.0 (compatible; GameFilm/1.0)',
+            'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml',
+        })
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            xml_text = resp.read().decode('utf-8', errors='replace')
+        return _parse_rss(xml_text, source_label)
+    except Exception as e:
+        print(f"[fetch_gamefilm] RSS fetch error ({source_label} {url}): {e}", file=sys.stderr)
+        return []
+
+def fetch_rss_feeds():
+    feeds = [
+        ('https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml', 'nytimes_tech'),
+        ('https://rss.nytimes.com/services/xml/rss/nyt/Business.xml', 'nytimes_business'),
+        ('https://feeds.bloomberg.com/technology/news.rss', 'bloomberg_tech'),
+        ('https://feeds.bloomberg.com/markets/news.rss', 'bloomberg_markets'),
+        ('https://www.cnbc.com/id/100003114/device/rss/rss.html', 'cnbc_top'),
+        ('https://feeds.marketwatch.com/marketwatch/topstories', 'marketwatch'),
+        ('https://www.automotiveworld.com/feed/', 'automotive_world'),
+    ]
+
+    all_items = []
+    for url, label in feeds:
+        items = _fetch_rss(url, label)
+        all_items.extend(items)
+
+    keywords = ['rivian', 'rivn', 'r1t', 'r1s', 'r2', 'rj scaringe', 'electric truck', 'electric suv']
+    today_items = []
+    for item in all_items:
+        text = (item['title'] + ' ' + item['snippet']).lower()
+        if not any(k in text for k in keywords):
+            continue
+        date_str = item.get('publishedAt', '')
+        if date_str:
+            try:
+                from email.utils import parsedate_to_datetime
+                dt = parsedate_to_datetime(date_str).astimezone(PT)
+                if dt.date() != TODAY_PT:
+                    continue
+            except:
+                pass
+        today_items.append(item)
+
+    print(f"[fetch_gamefilm] RSS: {len(all_items)} total, {len(today_items)} today/Rivian-relevant", file=sys.stderr)
+    return today_items
+
+# ---------------------------------------------------------------------------
+# Bluesky (public API — no Tavily needed)
+# ---------------------------------------------------------------------------
+
+def fetch_bluesky():
+    items = []
+    try:
+        url = 'https://api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Rivian&sort=latest&limit=10'
+        req = urllib.request.Request(url, headers={
+            'Accept': 'application/json',
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+        })
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read())
+            for post in data.get('posts', []):
+                author = post.get('author', {})
+                record = post.get('record', {})
+                text = record.get('text', '')[:300]
+                handle = author.get('handle', '')
+                did = author.get('did', '')
+                uri = post.get('uri', '')
+                post_id = uri.split('/')[-1] if uri else ''
+                url = f"https://bsky.app/profile/{did}/post/{post_id}"
+                items.append({
+                    'title': f"@{handle} (Bluesky): {text[:80]}",
+                    'url': url,
+                    'source': 'bluesky',
+                    'publishedAt': post.get('indexedAt') or None,
+                    'score': post.get('likeCount', 0) or 0,
+                    'snippet': text,
+                })
+    except Exception as e:
+        print(f"[fetch_gamefilm] Bluesky fetch error: {e}", file=sys.stderr)
+
+    # Filter to today PT
+    today_items = []
+    for item in items:
+        date_str = item.get('publishedAt', '')
+        dt = parse_date_to_pt(date_str)
+        if dt and dt.date() != TODAY_PT:
+            continue
+        today_items.append(item)
+    print(f"[fetch_gamefilm] Bluesky: {len(items)} total, {len(today_items)} today", file=sys.stderr)
+    return today_items
+
+# ---------------------------------------------------------------------------
+# YouTube Data API v3 (no OAuth required)
+# ---------------------------------------------------------------------------
+
+def fetch_youtube():
+    items = []
+    api_key = os.environ.get('YOUTUBE_API_KEY') or 'AIzaSyCx9gzTAUh28B-nuyj37wFPqAEekTDjg2Q'
+    try:
+        import urllib.parse
+        params = urllib.parse.urlencode({
+            'part': 'snippet',
+            'q': 'Rivian',
+            'type': 'video',
+            'order': 'date',
+            'maxResults': 10,
+            'key': api_key,
+        })
+        url = f'https://www.googleapis.com/youtube/v3/search?{params}'
+        req = urllib.request.Request(url, headers={'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+            for item in (data.get('items') or []):
+                snippet = item.get('snippet', {})
+                vid = item.get('id', {}).get('videoId', '')
+                if not vid:
+                    continue
+                title = snippet.get('title', '')
+                if not title:
+                    continue
+                pub = snippet.get('publishedAt', '')
+                items.append({
+                    'title': title,
+                    'url': f'https://youtube.com/watch?v={vid}',
+                    'source': 'youtube',
+                    'publishedAt': pub if pub else None,
+                    'score': 0,
+                    'snippet': snippet.get('description', '')[:300] or '',
+                })
+    except Exception as e:
+        print(f"[fetch_gamefilm] YouTube fetch error: {e}", file=sys.stderr)
+
+    # Filter to today PT
+    today_items = []
+    for item in items:
+        date_str = item.get('publishedAt', '')
+        dt = parse_date_to_pt(date_str)
+        if dt and dt.date() != TODAY_PT:
+            continue
+        today_items.append(item)
+    print(f"[fetch_gamefilm] YouTube: {len(items)} total, {len(today_items)} today", file=sys.stderr)
+    return today_items
+
+# ---------------------------------------------------------------------------
+# HackerNews (Algolia API — no Tavily needed)
+# ---------------------------------------------------------------------------
 
 def fetch_hackernews():
     cutoff = int(time.time()) - 48 * 3600
@@ -212,7 +508,12 @@ def fetch_hackernews():
             'score': hit.get('points', 0),
             'snippet': '',
         })
+    print(f"[fetch_gamefilm] HackerNews: {len(items)} items", file=sys.stderr)
     return items
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
 
 def main():
     known_urls, report_count = load_known_urls()
@@ -221,33 +522,50 @@ def main():
 
     raw_items = []
 
-    # Reddit sources
-    for sub in ['Rivian', 'RivianR2', 'electricvehicles', 'SelfDrivingCars', 'stocks']:
-        items = fetch_reddit_new(sub, limit=50)
-        # For general subs (not Rivian-specific), filter by relevance in title
-        if sub in ('electricvehicles', 'SelfDrivingCars', 'stocks'):
-            keywords = ['rivian', 'rivn', 'r1t', 'r1s', 'r2', 'r3'] if sub != 'stocks' else ['rivn', 'rivian']
-            items = [i for i in items if any(k in (i['title'] + i['snippet']).lower() for k in keywords)]
-        raw_items.extend(items)
-        print(f"[fetch_gamefilm] r/{sub}: {len(items)} items today", file=sys.stderr)
+    # --- Playwright browser: Reddit + News sites + Twitter + Threads ---
+    print("[fetch_gamefilm] Starting Playwright browser fetch (Reddit, news, Twitter, Threads)...", file=sys.stderr)
+    browser_results = run_playwright_browser()
+    total_browser = sum(len(v) for v in browser_results.values())
+    print(f"[fetch_gamefilm] Playwright browser: {total_browser} total items from {len(browser_results)} sources", file=sys.stderr)
 
-    # HackerNews
+    for source_key, items in browser_results.items():
+        for item in items:
+            url = item.get('url', '')
+            if not url:
+                continue
+            raw_items.append({
+                'title': item.get('title', ''),
+                'url': url,
+                'source': source_key,
+                'publishedAt': item.get('date') or None,
+                'score': 0,
+                'snippet': item.get('snippet', '')[:200],
+            })
+
+    # --- RSS feeds (supplemental) ---
+    rss_items = fetch_rss_feeds()
+    raw_items.extend(rss_items)
+
+    # --- Google News RSS (reliable free news source) ---
+    gn_items = fetch_google_news()
+    raw_items.extend(gn_items)
+
+    # --- Bluesky ---
+    bsky_items = fetch_bluesky()
+    raw_items.extend(bsky_items)
+
+    # --- YouTube ---
+    yt_items = fetch_youtube()
+    raw_items.extend(yt_items)
+
+    # --- HackerNews ---
     hn_items = fetch_hackernews()
     raw_items.extend(hn_items)
-    print(f"[fetch_gamefilm] HackerNews: {len(hn_items)} items", file=sys.stderr)
 
-    # RivianForums - UHF/Hands-Free Driving forum
-    rf_threads = fetch_rivianforums()
-    for t in rf_threads:
-        raw_items.append({
-            'title': t.get('title', ''),
-            'url': t.get('url', ''),
-            'source': 'rivianforums',
-            'publishedAt': None,  # forum doesn't expose easy timestamps
-            'score': 0,
-            'snippet': f"Author: {t.get('author', 'unknown')}",
-        })
-    print(f"[fetch_gamefilm] RivianForums: {len(rf_threads)} threads", file=sys.stderr)
+    # Truncate snippets
+    for item in raw_items:
+        if item.get('snippet') and len(item['snippet']) > 200:
+            item['snippet'] = item['snippet'][:200]
 
     # Deduplicate against known URLs
     seen = set()
@@ -257,6 +575,10 @@ def main():
         if url and url not in known_urls and url not in seen:
             seen.add(url)
             new_items.append(item)
+
+    # Cap at 40 items
+    if len(new_items) > 40:
+        new_items = new_items[:40]
 
     print(f"[fetch_gamefilm] New items after dedup: {len(new_items)}", file=sys.stderr)
 

@@ -1,14 +1,27 @@
 'use client';
 
+import { useState } from 'react';
 import { ThreatLevel } from '@/lib/types';
+import ThemeModal from './ThemeModal';
 
-interface ScoutingReportProps {
+interface Props {
   competitiveContext: string;
   summary: string;
   themes: string[];
   threatLevel: ThreatLevel;
   competitiveItemCount: number;
   timestamp: string;
+  themeItemsMap: Record<string, Item[]>;
+}
+
+interface Item {
+  title: string;
+  url: string;
+  source: string;
+  sentiment: string;
+  publishedAt?: string | null;
+  snippet?: string;
+  reportTimestamp: string;
 }
 
 const THREAT_DISPLAY: Record<ThreatLevel, {
@@ -34,7 +47,9 @@ export default function ScoutingReport({
   threatLevel,
   competitiveItemCount,
   timestamp,
-}: ScoutingReportProps) {
+  themeItemsMap,
+}: Props) {
+  const [activeTheme, setActiveTheme] = useState<string | null>(null);
   const threat = THREAT_DISPLAY[threatLevel];
   const date = new Date(timestamp).toLocaleDateString('en-US', {
     month: 'short', day: 'numeric', year: 'numeric',
@@ -97,10 +112,14 @@ export default function ScoutingReport({
           </div>
           <div className="space-y-2">
             {themes.slice(0, 3).map((theme, i) => (
-              <div key={i} className="flex items-start gap-2">
-                <span className="text-[#3B82F6] text-xs mt-0.5 shrink-0">◆</span>
-                <span className="text-[#9CA3AF] text-xs leading-relaxed">{theme}</span>
-              </div>
+              <button
+                key={i}
+                onClick={() => setActiveTheme(theme)}
+                className="flex items-start gap-2 w-full text-left hover:text-[#3B82F6] transition-colors group"
+              >
+                <span className="text-[#3B82F6] text-xs mt-0.5 shrink-0 group-hover:text-[#60A5FA]">◆</span>
+                <span className="text-[#9CA3AF] text-xs leading-relaxed group-hover:text-[#60A5FA]">{theme}</span>
+              </button>
             ))}
           </div>
 
@@ -119,6 +138,13 @@ export default function ScoutingReport({
           )}
         </div>
       </div>
+      {activeTheme && (
+        <ThemeModal
+          theme={activeTheme}
+          items={themeItemsMap[activeTheme] ?? []}
+          onClose={() => setActiveTheme(null)}
+        />
+      )}
     </div>
   );
 }

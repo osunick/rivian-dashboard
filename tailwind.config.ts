@@ -9,17 +9,29 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        bg: '#0A0A0A',
-        card: '#111111',
-        border: '#1F1F1F',
-        primary: '#F5F5F5',
-        muted: '#6B7280',
-        positive: '#22C55E',
-        neutral: '#6B7280',
-        negative: '#EF4444',
-        accent: '#3B82F6',
+        claude: {
+          bg: '#FDFCFB',
+          card: '#FFFFFF',
+          border: '#E8E6E1',
+          text: '#2B2927',
+          muted: '#8A8782',
+          accent: '#DA7756', // Claude Peach/Orange
+          accentHover: '#C46447',
+          surface: '#F5F4F0',
+        },
+        bg: '#FDFCFB',
+        card: '#FFFFFF',
+        border: '#E8E6E1',
+        primary: '#2B2927',
+        muted: '#8A8782',
+        positive: '#40806A', // Muted green
+        neutral: '#8A8782',
+        negative: '#C4554D', // Muted red
+        accent: '#DA7756',
       },
       fontFamily: {
+        sans: ['ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'sans-serif'],
+        serif: ['ui-serif', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
         mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'monospace'],
       },
     },

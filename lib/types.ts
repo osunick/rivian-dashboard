@@ -65,7 +65,7 @@ export interface Report {
   scanError?: string;
 }
 
-export type SourceKey = keyof Report['sources'];
+export type SourceKey = keyof Report['sources'] | string;
 
 export const SOURCE_LABELS: Record<SourceKey, string> = {
   reddit_rivian:    'r/Rivian',

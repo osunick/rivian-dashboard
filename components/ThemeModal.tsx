@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
 import { SOURCE_LABELS, SourceKey } from '@/lib/types';
+import MediaPreview from './MediaPreview';
 
 interface Item {
   title: string;
@@ -20,27 +21,29 @@ interface Props {
   onClose: () => void;
 }
 
-const SENTIMENT_COLOR: Record<string, string> = {
-  positive: '#22C55E',
-  neutral:  '#6B7280',
-  negative: '#EF4444',
+const SENTIMENT_STYLES: Record<string, string> = {
+  positive: 'bg-[#d9efe3] text-[#188f5a]',
+  neutral: 'bg-[#e7e0cf] text-[#655f55]',
+  negative: 'bg-[#f7ddd4] text-[#b94c33]',
+  risk: 'bg-[#f7ddd4] text-[#b94c33]',
 };
 
 function sortNewestFirst<T extends { reportTimestamp?: string }>(arr: T[]): T[] {
-  return [...arr].sort((a, b) =>
-    new Date(b.reportTimestamp ?? 0).getTime() - new Date(a.reportTimestamp ?? 0).getTime()
+  return [...arr].sort(
+    (a, b) => new Date(b.reportTimestamp ?? 0).getTime() - new Date(a.reportTimestamp ?? 0).getTime()
   );
 }
 
 export default function ThemeModal({ theme, items, onClose }: Props) {
-  const sorted = sortNewestFirst(items);
   const [mounted, setMounted] = useState(false);
+  const sorted = sortNewestFirst(items);
 
   useEffect(() => {
     setMounted(true);
-    const handler = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose(); };
+    const handler = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') onClose();
+    };
     window.addEventListener('keydown', handler);
-    // Prevent body scroll while modal is open
     document.body.style.overflow = 'hidden';
     return () => {
       window.removeEventListener('keydown', handler);
@@ -52,103 +55,91 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
 
   const modal = (
     <div
-      style={{
-        position: 'fixed',
-        inset: 0,
-        zIndex: 9999,
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        padding: '0 16px',
-        background: 'rgba(0,0,0,0.80)',
-      }}
+      className="fixed inset-0 z-[9999] flex items-center justify-center bg-[rgba(19,19,19,0.52)] px-4 py-6 sm:px-6"
       onClick={onClose}
     >
       <div
-        style={{
-          position: 'relative',
-          background: '#111111',
-          border: '1px solid #2F2F2F',
-          borderRadius: '12px',
-          width: '100%',
-          maxWidth: '672px',
-          maxHeight: '80vh',
-          display: 'flex',
-          flexDirection: 'column',
-          boxShadow: '0 25px 50px -12px rgba(0,0,0,0.9)',
-        }}
-        onClick={e => e.stopPropagation()}
+        className="relative flex max-h-[84vh] w-full max-w-3xl flex-col overflow-hidden border border-[#131313]/12 bg-[#fffdf8] shadow-[0_28px_90px_rgba(19,19,19,0.18)]"
+        onClick={event => event.stopPropagation()}
       >
-        {/* Header */}
-        <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', padding: '16px 20px', borderBottom: '1px solid #1F1F1F' }}>
-          <div style={{ flex: 1, paddingRight: '16px' }}>
-            <div style={{ color: '#6B7280', fontSize: '11px', fontFamily: 'monospace', textTransform: 'uppercase', letterSpacing: '0.1em', marginBottom: '4px' }}>Source</div>
-            <div style={{ color: '#F5F5F5', fontSize: '14px', fontWeight: 600, lineHeight: 1.4 }}>{theme}</div>
+        <div className="border-b border-[#131313]/10 px-5 py-5 sm:px-6">
+          <div className="flex items-start justify-between gap-4">
+            <div>
+              <div className="font-mono-num text-[10px] uppercase tracking-[0.3em] text-[#7b7468]">Theme Drilldown</div>
+              <h2 className="mt-2 text-2xl tracking-[-0.05em] text-[#131313]">{theme}</h2>
+              <p className="mt-2 text-sm leading-6 text-[#5d584d]">
+                A focused list of items tagged with this theme, sorted newest first across the report history.
+              </p>
+            </div>
+            <button
+              onClick={onClose}
+              className="border border-[#131313]/12 px-3 py-2 font-mono-num text-[10px] uppercase tracking-[0.24em] text-[#5d584d] transition-colors hover:border-[#131313] hover:text-[#131313]"
+            >
+              Close
+            </button>
           </div>
-          <button
-            onClick={onClose}
-            style={{ color: '#6B7280', fontSize: '18px', lineHeight: 1, background: 'none', border: 'none', cursor: 'pointer', marginTop: '2px' }}
-          >
-            ✕
-          </button>
         </div>
 
-        {/* Body */}
-        <div style={{ overflowY: 'auto', flex: 1, padding: '16px 20px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
+        <div className="flex-1 overflow-y-auto bg-[#fcf8ef] px-5 py-5 sm:px-6">
           {sorted.length === 0 ? (
-            <div style={{ color: '#6B7280', fontSize: '13px', fontFamily: 'monospace', textAlign: 'center', padding: '32px 0' }}>
-              No items found for this source.
+            <div className="py-10 text-center">
+              <div className="font-mono-num text-[10px] uppercase tracking-[0.3em] text-[#7b7468]">No items found</div>
+              <div className="mt-3 text-sm leading-7 text-[#5d584d]">This theme currently has no linked report items.</div>
             </div>
           ) : (
-            sorted.map((item, i) => (
-              <div key={i} style={{ border: '1px solid #1F1F1F', borderRadius: '8px', padding: '16px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
-                <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '8px' }}>
-                  <span style={{ color: '#6B7280', fontSize: '11px', fontFamily: 'monospace' }}>
-                    {SOURCE_LABELS[item.source as SourceKey] ?? item.source}
-                  </span>
-                  <span style={{
-                    fontSize: '11px',
-                    fontFamily: 'monospace',
-                    padding: '2px 6px',
-                    borderRadius: '4px',
-                    color: SENTIMENT_COLOR[item.sentiment] ?? '#6B7280',
-                    background: (SENTIMENT_COLOR[item.sentiment] ?? '#6B7280') + '22',
-                  }}>
-                    {item.sentiment}
-                  </span>
-                  {item.publishedAt && (
-                    <span style={{ color: '#4B5563', fontSize: '11px', fontFamily: 'monospace' }}>{item.publishedAt}</span>
+            <div className="space-y-3">
+              {sorted.map((item, index) => (
+                <div key={index} className="border border-[#131313]/10 bg-[#fffdf8] p-4">
+                  <div className="flex flex-wrap items-center gap-2">
+                    <span className="font-mono-num text-[10px] uppercase tracking-[0.22em] text-[#7b7468]">
+                      {SOURCE_LABELS[item.source as SourceKey] ?? item.source}
+                    </span>
+                    <span className={`rounded-full px-2 py-1 font-mono-num text-[10px] uppercase tracking-[0.2em] ${SENTIMENT_STYLES[item.sentiment] ?? SENTIMENT_STYLES.neutral}`}>
+                      {item.sentiment}
+                    </span>
+                    {item.publishedAt && (
+                      <span className="font-mono-num text-[10px] uppercase tracking-[0.22em] text-[#8b8478]">{item.publishedAt}</span>
+                    )}
+                    <span className="ml-auto font-mono-num text-[10px] uppercase tracking-[0.22em] text-[#8b8478]">
+                      {new Date(item.reportTimestamp).toLocaleDateString('en-US', {
+                        month: 'short',
+                        day: 'numeric',
+                        timeZone: 'America/Los_Angeles',
+                      })}
+                    </span>
+                  </div>
+
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="mt-3 block text-lg leading-7 tracking-[-0.03em] text-[#131313]"
+                  >
+                    {item.title}
+                  </a>
+
+                  {item.snippet && (
+                    <p className="mt-2 text-sm leading-6 text-[#5d584d]">{item.snippet}</p>
                   )}
+
+                  <MediaPreview url={item.url} title={item.title} />
+
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="mt-3 inline-block font-mono-num text-[10px] uppercase tracking-[0.24em] text-[#0f5bd7]"
+                  >
+                    Open Source Link
+                  </a>
                 </div>
-
-                <a
-                  href={item.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={{ color: '#F5F5F5', fontSize: '14px', fontWeight: 600, textDecoration: 'none', lineHeight: 1.4, display: 'block' }}
-                >
-                  {item.title}
-                </a>
-
-                {item.snippet && (
-                  <p style={{ color: '#9CA3AF', fontSize: '12px', lineHeight: 1.6, margin: 0 }}>{item.snippet}</p>
-                )}
-
-                <a
-                  href={item.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={{ color: '#3B82F6', fontSize: '11px', fontFamily: 'monospace', textDecoration: 'none', wordBreak: 'break-all' }}
-                >
-                  🔗 {item.url}
-                </a>
-              </div>
-            ))
+              ))}
+            </div>
           )}
         </div>
 
-        <div style={{ padding: '12px 20px', borderTop: '1px solid #1F1F1F', color: '#4B5563', fontSize: '11px', fontFamily: 'monospace' }}>
-          {sorted.length} item{sorted.length !== 1 ? 's' : ''}
+        <div className="border-t border-[#131313]/10 bg-[#fffdf8] px-5 py-3 font-mono-num text-[10px] uppercase tracking-[0.24em] text-[#7b7468] sm:px-6">
+          {sorted.length} item{sorted.length !== 1 ? 's' : ''} in this theme
         </div>
       </div>
     </div>

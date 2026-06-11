@@ -364,8 +364,8 @@ export function getSourceMatrixData(): SourceMatrixData {
     label: SOURCE_LABELS[key],
     allItems: allItemsMap[key],
     cells: reports5.map(r => ({
-      found: r.sources[key]?.found ?? 0,
-      sentiment: r.sources[key]?.sentiment ?? null,
+      found: r.sources[key as keyof Report['sources']]?.found ?? 0,
+      sentiment: r.sources[key as keyof Report['sources']]?.sentiment ?? null,
       items: (r.items ?? []).filter(i => i.source === key).map(i => ({ ...i, reportTimestamp: r.timestamp })),
     })),
   }));

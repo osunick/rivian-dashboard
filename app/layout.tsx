@@ -1,5 +1,17 @@
 import type { Metadata } from 'next';
+import { IBM_Plex_Mono, Space_Grotesk } from 'next/font/google';
 import './globals.css';
+
+const displayFont = Space_Grotesk({
+  subsets: ['latin'],
+  variable: '--font-display',
+});
+
+const monoFont = IBM_Plex_Mono({
+  subsets: ['latin'],
+  variable: '--font-mono',
+  weight: ['400', '500', '600'],
+});
 
 export const metadata: Metadata = {
   title: 'GameFilm',
@@ -9,7 +21,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className="dark">
-      <body className="min-h-screen bg-[#0A0A0A] text-[#F5F5F5]">
+      <body className={`${displayFont.variable} ${monoFont.variable} min-h-screen`}>
         {children}
       </body>
     </html>

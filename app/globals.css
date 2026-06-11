@@ -2,34 +2,58 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --surface: #FDFCFB;
+  --surface-elevated: #FFFFFF;
+  --ink: #2B2927;
+  --ink-soft: #8A8782;
+  --border: #E8E6E1;
+  --accent-peach: #DA7756;
+}
+
 * {
   box-sizing: border-box;
 }
 
 html, body {
-  background-color: #0A0A0A;
-  color: #F5F5F5;
-  font-family: system-ui, -apple-system, sans-serif;
+  background: var(--surface);
+  color: var(--ink);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   margin: 0;
   padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
 
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #111111;
+  background: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #1F1F1F;
-  border-radius: 3px;
+  background: #D4D1CC;
+  border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #374151;
+  background: #BDBAB5;
+}
+
+::selection {
+  background: rgba(218, 119, 86, 0.2);
 }
 
 .font-mono-num {
