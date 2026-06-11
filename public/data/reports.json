@@ -18967,5 +18967,121 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-11T17:15:14.521278Z",
+    "timestamp": "2026-06-11T17:15:14.521278Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 7,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 7,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 referral points",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u34zow/r2_referral_points/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T17:07:39.540Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2. Customers before content creators.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u34unx/r2_customers_before_content_creators/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T17:02:48.834Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why the Rivian R2 Could Be America\u2019s Next Big EV SUV - KTLA",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzlsZTNINEY2Z3k2MU5lYnFxRlN5RVFySlZodmdLY2s2a3RWZ05EZ1VHQ2NwZ0tNT29WX2tOU29wYVU4WU1zTlpnYjM1SmNQdlRhVVJUbWV2WlUwT2g3anpfeG9ydEtCLW9mYm1kTHItV3RVRHBucXhXaFFuTjdVYjNKWW5wYWxzN3QtMdIBjAFBVV95cUxPQzlsZTNINEY2Z3k2MU5lYnFxRlN5RVFySlZodmdLY2s2a3RWZ05EZ1VHQ2NwZ0tNT29WX2tOU29wYVU4WU1zTlpnYjM1SmNQdlRhVVJUbWV2WlUwT2g3anpfeG9ydEtCLW9mYm1kTHItV3RVRHBucXhXaFFuTjdVYjNKWW5wYWxzN3QtMQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 09:19:03 GMT",
+        "score": 0,
+        "snippet": "Why the Rivian R2 Could Be America\u2019s Next Big EV SUV - KTLA",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian begins R2 SUV deliveries with focus on expansion - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHU4bG8xVjFRMFlWek5STWRCTnQwSDQycnoxOVF4RHlMcURSUXktc3BGcGpqMEtiVHJHN3Q4TDhYWEpadVprYm5ZTjZ6bFBxZWVZUXM1TG91dVpxY3VUa1FxNHpDalBEbFJDR28tdFBUU09lb2oxMk4teFNqa0w0a0YtU292alNzeVo2NDdia1ExVTFGWFhqbUJKYXZNdERKTWdKUG1TV3E2MnpFUUVDc0ZHTUlKUXYtOGc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 16:03:18 GMT",
+        "score": 0,
+        "snippet": "Rivian begins R2 SUV deliveries with focus on expansion - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian begins R2 SUV deliveries with focus on expansion - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlFFcFJTX3dpRFljYTVQOEt2UHduajdOUzg3c2ZfQkNyS1ZxWTVuQ0FpRnJMaWdPU2wzdWNXVC1jQU9xWEJmeXozdHdyM0VqN0NVNFk0MGVRNnRUWDVuRmhYN0VGck1SS1F2YnpwZ041bEI1VUkwZzNfSy1FZDAyeHg2dmVsOHBUV1FJRjlMaU5CRkJHdVNmbU1nTS1VQS03Y0tiN0hmaThpd1liaXpNZDZMdmp3SDBo?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 15:51:48 GMT",
+        "score": 0,
+        "snippet": "Rivian begins R2 SUV deliveries with focus on expansion - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): BMW sold over 10,000 iX3 in April.\nRivian optimistically hopes to sell 25,000 R2",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mnzpjxfd522g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T17:06:00.668Z",
+        "score": 1,
+        "snippet": "BMW sold over 10,000 iX3 in April.\nRivian optimistically hopes to sell 25,000 R2 in 2026.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@billk1.bsky.social (Bluesky): Chris, have you heard about Rivian Assistant's inability to sync > ~1,000 contac",
+        "url": "https://bsky.app/profile/did:plc:qe6ngeeiwsnfwsko5s4ezfdq/post/3mnzovjakis2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T16:54:34.274Z",
+        "score": 1,
+        "snippet": "Chris, have you heard about Rivian Assistant's inability to sync > ~1,000 contacts? We have a 2026 R1S. My contacts won't sync so Assistant is mostly useless. No nav, messaging, or phone calls. Local ",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
