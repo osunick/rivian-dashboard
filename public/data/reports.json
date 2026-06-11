@@ -19083,5 +19083,141 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-11T18:01:31.487997Z",
+    "timestamp": "2026-06-11T18:01:31.487997Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 9,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Uber to Buy Rivian Vehicles for Use as Driverless Taxis",
+        "url": "https://www.nytimes.com/2026/03/19/business/uber-rivian-driverless-taxis.html?searchResultPosition=1",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Time-Traveling Along Route 66, in Cars of the Past, Present and Future",
+        "url": "https://www.nytimes.com/2026/05/23/us/route-66-100-years-cars.html?searchResultPosition=2",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Honda Scraps Plans for E.V.s While Start-Ups Forge Ahead",
+        "url": "https://www.nytimes.com/2026/03/13/business/honda-scraps-plans-for-evs-while-start-ups-forge-ahead.html?searchResultPosition=3",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Corrections: March 21, 2026",
+        "url": "https://www.nytimes.com/2026/03/21/pageoneplus/corrections-march-21-2026.html?searchResultPosition=4",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why the Rivian R2 Could Be America\u2019s Next Big EV SUV - NEWS10 ABC",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNBWXdpalNQWmQ3anNYdWxiODd1ejF4T0Z2Qi1ia25hNzlWdHRsU0h2V21QUzg1RWE2MGJmVDdDZE5wTGFrRXg5c0N0T3J0RkNSTVF6d29GVDU4aXdmVkk5WXI2SGZPM0pqcjFRZUphamJUU1ZKQ2Z3cDA5aHNOVG51ZGRPbmkxMk1fQVREc9IBlAFBVV95cUxPUzlRcVhSMHAwOHRHcEx0N0M1Y1p0djdyVUtCUWpxRVQ3LVlDUXJZZ1NhTmpxUHBJUFpaZmE5RW1PSFBrUXFMME9QYlMwVHBFRlZvZkdwS1BBVmlSdGhLb2h0MzdZWndRTmU1NDNNeTNOSXNLX3RIQ0lmTllvbE9ldFZFcnU4U29hLUlpTWoxWWF6X1hp?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 16:19:21 GMT",
+        "score": 0,
+        "snippet": "Why the Rivian R2 Could Be America\u2019s Next Big EV SUV - NEWS10 ABC",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPVmY4Y0VfU04xcWVtY1hHUVQxLXo0a1Vaa1V3aUduNjdWR1dEbFNFUmdpZV83T3cwM1hFeTJIRlp6WHVNWGljZWVDQnJwNlFlZzlvbF9Id3lZRkhBaXBRODN6NjEzSjRWTy1NREd4b2YyX2xtekNkczNpck5LZXhzbmt2Wkloa05jdGVjVmsxckd0Q0NXNkoxaGllRU9OOFhxN1BQNl90SFFLQl9uaTFKblhPRXExU2VNbTFTWVd1S25ZNmVoU3BxTWNDREpEdm9OcHRfSk9sTjRRY05sMnpVN2kxVjE1eHNWdXB5ZldVYzB2OTNfUEtRenlqYldrNkQ2NEI1TU83RG9nbDhnWHFDUmJsUlYwekYyelBzNmo1QVo4UDM2RnN4Y3FTekZjYk1HWW9DbTRfZGNLZjlBRnJF?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 16:03:01 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@thesunglasskid.bsky.social (Bluesky): Thank God I got my anti-Tesla Rivian purchase in!",
+        "url": "https://bsky.app/profile/did:plc:yyj3tuma2iadz2cmji3qib2w/post/3mnzsfv2a2s2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T17:57:25.769Z",
+        "score": 1,
+        "snippet": "Thank God I got my anti-Tesla Rivian purchase in!",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@dennieedwards.bsky.social (Bluesky): I know this is improbable for a number of reasons, but I think Lucid and Rivian ",
+        "url": "https://bsky.app/profile/did:plc:65duzrtekqbjtnhcuskmsixn/post/3mnzs3hybes2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T17:51:35.671Z",
+        "score": 1,
+        "snippet": "I know this is improbable for a number of reasons, but I think Lucid and Rivian would compliment each other well in a merger.",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@alexip718.com (Bluesky): Ah, look at @ajc.com , whose owner has a $350 million stake in Rivian, allowing ",
+        "url": "https://bsky.app/profile/did:plc:mencpxk4spd3xn3qotwkyyqf/post/3mnzrbvn53s2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T17:37:19.567Z",
+        "score": 14,
+        "snippet": "Ah, look at @ajc.com , whose owner has a $350 million stake in Rivian, allowing a Republican to spew propaganda about why Andre Dickens was right to work with a cabal of elites to overthrow the result",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
