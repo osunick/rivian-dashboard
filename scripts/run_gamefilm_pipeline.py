@@ -124,6 +124,47 @@ def guess_category(item):
 
     return 'other'  # Default: not competitive, not Rivian — discard from intel
 
+# Sentiment lexicons. Scored on title+snippet; net = pos_hits - neg_hits.
+POS_WORDS = [
+    'record', 'profit', 'profitable', 'beats', 'surge', 'surges', 'soar', 'soars',
+    'rally', 'growth', 'grows', 'milestone', 'award', 'awarded', 'wins', ' win ', ' won ',
+    'best', 'love', 'loving', 'impressive', 'praise', 'praised', 'strong', 'success', 'successful',
+    'breakthrough', 'partnership', 'expansion', 'expands', 'upgrade',
+    'upgraded', 'outperform', 'gains', 'delivers', 'delivered', 'pickup day', 'excited',
+    'great', 'amazing', 'recommend', 'fantastic', 'leading', 'boost',
+    'approval', 'approved', 'secures', 'secured', 'momentum', 'optimistic', 'bullish',
+]
+NEG_WORDS = [
+    'recall', 'recalls', 'recalled', 'lawsuit', 'sued', 'layoff', 'layoffs', 'cuts',
+    'cutting', ' loss', 'losses', 'plunge', 'plunges', 'falls', 'fell ', ' drop', 'crash',
+    'crashes', 'defect', ' bug', 'glitch', 'problem', 'problems', ' issue', 'issues',
+    'complaint', 'complaints', 'fails', 'failed', 'failure', 'delay', 'delayed', 'delays',
+    'concern', 'concerns', 'warning', 'warns', 'investigation', 'probe', 'death', 'killed',
+    'accident', 'disappointing', 'disappointed', 'worst', 'broken', 'stranded', 'downgrade',
+    'downgraded', 'missed', 'bankruptcy', 'struggle', 'struggles', 'struggling',
+    'decline', 'declines', 'slump', ' weak', 'halts', 'bearish', 'plummet',
+]
+
+def classify_sentiment(item):
+    """Sentiment toward Rivian's position.
+
+    For Rivian items, tone of the news directly maps to sentiment. For competitor
+    items, the sign is inverted — a competitor win is a threat (negative for
+    Rivian), a competitor setback is relief (positive). Neutral when no signal or
+    the signals tie. Mirrors the existing threat model where negative == threat.
+    """
+    text = (item.get('title', '') + ' ' + item.get('snippet', '')).lower()
+    pos = sum(1 for w in POS_WORDS if w in text)
+    neg = sum(1 for w in NEG_WORDS if w in text)
+    net = pos - neg
+    if item.get('category') == 'competitive':
+        net = -net  # competitor good news is bad news for Rivian
+    if net > 0:
+        return 'positive'
+    if net < 0:
+        return 'negative'
+    return 'neutral'
+
 def compose_brief(items, sentiment, ts):
     pos = sentiment.get('positive', 0)
     neg = sentiment.get('negative', 0)
@@ -228,8 +269,8 @@ def main():
         for item in items:
             # Always re-classify — category from fetch may be stale
             item['category'] = guess_category(item)
-            if 'sentiment' not in item:
-                item['sentiment'] = 'neutral'
+            # Re-classify sentiment every run (category-dependent, may have been stale neutral)
+            item['sentiment'] = classify_sentiment(item)
 
         s = {'positive':0,'neutral':0,'negative':0}
         for i in items: s[i.get('sentiment','neutral')] = s.get(i.get('sentiment','neutral'),0)+1
