@@ -399,3 +399,78 @@ export function getOverallThreatLevel(): ThreatLevel {
   if (levels.includes('medium')) return 'medium';
   return 'low';
 }
+
+// ─── Publish-date categorization & sentiment trend ──────────────────────────────
+
+const PT_TZ = 'America/Los_Angeles';
+
+/** YYYY-MM-DD key for a date, in Pacific time. */
+function ptDayKey(d: Date): string {
+  return d.toLocaleDateString('en-CA', { timeZone: PT_TZ });
+}
+
+/**
+ * The original publish date of an item. Prefers the article's own publishedAt
+ * (ISO, date-only, or RFC822/RSS strings all parse), falling back to the scan
+ * timestamp when publishedAt is missing or unparseable.
+ */
+export function getEffectiveDate(item: { publishedAt?: string | null }, fallbackTimestamp: string): Date {
+  const raw = item.publishedAt;
+  if (raw) {
+    const d = new Date(raw);
+    const t = d.getTime();
+    if (!Number.isNaN(t)) {
+      const year = d.getUTCFullYear();
+      if (year >= 2020 && year <= 2035) return d;
+    }
+  }
+  return new Date(fallbackTimestamp);
+}
+
+export interface PublishTrendPoint {
+  date: string;     // YYYY-MM-DD (PT)
+  label: string;    // "Jun 5"
+  positive: number;
+  neutral: number;
+  negative: number;
+  total: number;
+}
+
+/**
+ * Buckets every deduped item by its ORIGINAL publish date (PT day) and counts
+ * positive / neutral / negative sentiment per day. Returns the trailing `days`
+ * buckets that contain data, oldest→newest, for the trend chart.
+ */
+export function getSentimentByPublishDate(days = 21): PublishTrendPoint[] {
+  const seen = new Set<string>();
+  const buckets = new Map<string, { positive: number; neutral: number; negative: number }>();
+
+  for (const r of validReports) {
+    for (const item of r.items ?? []) {
+      const url = item.url;
+      if (!url || seen.has(url)) continue;
+      seen.add(url);
+      const d = getEffectiveDate(item, r.timestamp);
+      const key = ptDayKey(d);
+      const b = buckets.get(key) ?? { positive: 0, neutral: 0, negative: 0 };
+      const s = item.sentiment;
+      if (s === 'positive' || s === 'negative') b[s] += 1;
+      else b.neutral += 1;
+      buckets.set(key, b);
+    }
+  }
+
+  const orderedKeys = Array.from(buckets.keys()).sort(); // YYYY-MM-DD sorts chronologically
+  const recent = orderedKeys.slice(-days);
+
+  return recent.map(key => {
+    const b = buckets.get(key)!;
+    const [y, m, dd] = key.split('-').map(Number);
+    const label = new Date(Date.UTC(y, m - 1, dd)).toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      timeZone: 'UTC',
+    });
+    return { date: key, label, positive: b.positive, neutral: b.neutral, negative: b.negative, total: b.positive + b.neutral + b.negative };
+  });
+}

@@ -52,14 +52,14 @@ export default function SummarySentimentBars({ rows, itemsByTone }: Props) {
               className={`block w-full text-left ${clickable ? 'cursor-pointer' : 'cursor-default opacity-60'}`}
               title={clickable ? `Open ${row.label.toLowerCase()} signals` : `No ${row.label.toLowerCase()} signals in scope`}
             >
-              <div className="mb-1 flex items-center justify-between text-xs text-zinc-500">
+              <div className="mb-1 flex items-center justify-between font-mono-num text-[11px] uppercase tracking-[0.1em] text-zinc-400">
                 <span>{row.label}</span>
-                <span>{row.value}</span>
+                <span className="text-zinc-200">{row.value}</span>
               </div>
-              <div className="h-2 rounded-full bg-zinc-100">
+              <div className="h-2 rounded-full bg-white/[0.07]">
                 <div className={`h-2 rounded-full ${row.color}`} style={{ width: `${row.width}%` }} />
               </div>
-              <div className="mt-1 text-[11px] text-zinc-400">
+              <div className="mt-1 text-[10px] text-zinc-500">
                 {clickable ? 'Click to review matching signals' : 'No matching signals'}
               </div>
             </button>

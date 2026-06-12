@@ -3,12 +3,13 @@
 @tailwind utilities;
 
 :root {
-  --surface: #FDFCFB;
-  --surface-elevated: #FFFFFF;
-  --ink: #2B2927;
-  --ink-soft: #8A8782;
-  --border: #E8E6E1;
-  --accent-peach: #DA7756;
+  --surface: #08080A;
+  --surface-elevated: #131318;
+  --ink: #F4F4F7;
+  --ink-soft: #9A9AA6;
+  --border: #26262F;
+  --marvel-red: #E62429;
+  --marvel-gold: #F5C518;
 }
 
 * {
@@ -18,15 +19,26 @@
 html, body {
   background: var(--surface);
   color: var(--ink);
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-display), ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Cinematic backdrop: deep black with a red ember vignette + faint grain */
+body {
+  background-color: #08080A;
+  background-image:
+    radial-gradient(120% 90% at 50% -10%, rgba(230, 36, 41, 0.10) 0%, rgba(230, 36, 41, 0) 55%),
+    radial-gradient(80% 60% at 100% 0%, rgba(58, 134, 255, 0.05) 0%, rgba(58, 134, 255, 0) 50%),
+    linear-gradient(180deg, #0B0B0E 0%, #08080A 40%, #060608 100%);
+  background-attachment: fixed;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: var(--font-display), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: -0.01em;
 }
 
 a {
@@ -35,8 +47,8 @@ a {
 }
 
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 9px;
+  height: 9px;
 }
 
 ::-webkit-scrollbar-track {
@@ -44,19 +56,63 @@ a {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #D4D1CC;
+  background: #2C2C36;
   border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #BDBAB5;
+  background: var(--marvel-red);
 }
 
 ::selection {
-  background: rgba(218, 119, 86, 0.2);
+  background: rgba(230, 36, 41, 0.35);
+  color: #fff;
 }
 
 .font-mono-num {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-family: var(--font-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   font-variant-numeric: tabular-nums;
+}
+
+/* ── Marvel poster wordmark ─────────────────────────────────────────── */
+.font-poster {
+  font-family: var(--font-poster), Impact, sans-serif;
+}
+
+.poster-mark {
+  font-family: var(--font-poster), Impact, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  line-height: 0.9;
+}
+
+/* Red brand chip like the Marvel Studios block */
+.marvel-chip {
+  background: var(--marvel-red);
+  color: #fff;
+  font-family: var(--font-poster), Impact, sans-serif;
+  letter-spacing: 0.08em;
+}
+
+/* Hairline top accent for cards */
+.edge-top-red {
+  position: relative;
+}
+.edge-top-red::before {
+  content: '';
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--marvel-red), transparent);
+  opacity: 0.55;
+}
+
+/* Subtle film-grain overlay utility */
+.grain::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }

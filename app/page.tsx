@@ -5,6 +5,8 @@ import {
   getOverallThreatLevel,
   getRivianAutonomyIssues,
   getScopeReports,
+  getEffectiveDate,
+  getSentimentByPublishDate,
 } from '@/lib/data';
 import { CATEGORY_KEYS, CATEGORY_LABELS, COMPETITORS, SOURCE_KEYS, SOURCE_LABELS, SentimentLabel } from '@/lib/types';
 import SearchButton from '@/components/SearchButton';
@@ -12,14 +14,15 @@ import ChatButton from '@/components/ChatButton';
 import SummarySentimentBars from '@/components/SummarySentimentBars';
 import MediaPreview from '@/components/MediaPreview';
 import CompetitorsSection from '@/components/CompetitorsSection';
+import PublishSentimentTrend from '@/components/PublishSentimentTrend';
 
 export const dynamic = 'force-dynamic';
 
 const THREAT_STYLES = {
-  high: { label: 'Critical', tone: 'bg-red-50 text-red-800 border-red-200/50' },
-  elevated: { label: 'Elevated', tone: 'bg-orange-50 text-orange-800 border-orange-200/50' },
-  medium: { label: 'Monitoring', tone: 'bg-blue-50 text-blue-800 border-blue-200/50' },
-  low: { label: 'Clear', tone: 'bg-[#F2F5F3] text-[#40806A] border-[#DCE4E0]' },
+  high: { label: 'Critical', tone: 'bg-[#E62429]/15 text-[#FF5A5F] border-[#E62429]/40' },
+  elevated: { label: 'Elevated', tone: 'bg-[#F5C518]/12 text-[#F5C518] border-[#F5C518]/35' },
+  medium: { label: 'Monitoring', tone: 'bg-[#3A86FF]/12 text-[#6FA8FF] border-[#3A86FF]/35' },
+  low: { label: 'Clear', tone: 'bg-[#2DD4A7]/12 text-[#2DD4A7] border-[#2DD4A7]/30' },
 } as const;
 
 function formatTimestamp(value: string) {
@@ -44,15 +47,29 @@ function formatCompactDate(value: string) {
 
 function dedupeScopeItems(reports: ReturnType<typeof getScopeReports>['reports']) {
   const seen = new Set<string>();
-  const items: Array<(typeof reports)[number]['items'][number] & { reportTimestamp: string }> = [];
+  const items: Array<
+    (typeof reports)[number]['items'][number] & {
+      reportTimestamp: string;
+      publishDate: string;   // ISO of original publish date
+      publishMs: number;     // epoch for sorting
+    }
+  > = [];
   for (const report of reports) {
     for (const item of report.items ?? []) {
       const key = item.url || `${report.id}-${item.title}`;
       if (seen.has(key)) continue;
       seen.add(key);
-      items.push({ ...item, reportTimestamp: report.timestamp });
+      const d = getEffectiveDate(item, report.timestamp);
+      items.push({
+        ...item,
+        reportTimestamp: report.timestamp,
+        publishDate: d.toISOString(),
+        publishMs: d.getTime(),
+      });
     }
   }
+  // Order by ORIGINAL publish date, newest first
+  items.sort((a, b) => b.publishMs - a.publishMs);
   return items;
 }
 
@@ -246,19 +263,19 @@ function buildSummaryNotes({
 }
 
 function sentimentTone(sentiment: SentimentLabel) {
-  if (sentiment === 'positive') return 'bg-[#F2F5F3] text-[#40806A]';
-  if (sentiment === 'negative') return 'bg-[#FAF0E6] text-[#C4554D]';
-  return 'bg-[#F5F4F0] text-claude-text';
+  if (sentiment === 'positive') return 'bg-[#2DD4A7]/12 text-[#2DD4A7] border border-[#2DD4A7]/25';
+  if (sentiment === 'negative') return 'bg-[#F0453A]/12 text-[#FF6B61] border border-[#F0453A]/25';
+  return 'bg-white/[0.04] text-claude-muted border border-white/10';
 }
 
 function ScopeTab({ active, href, label }: { active: boolean; href: string; label: string }) {
   return (
     <a
       href={href}
-      className={`rounded-lg px-3 py-1.5 text-sm transition-all font-medium ${
-        active 
-          ? 'bg-claude-accent text-white shadow-sm' 
-          : 'bg-transparent text-claude-muted hover:text-claude-text hover:bg-[#F5F4F0]'
+      className={`rounded-md px-3 py-1.5 text-[13px] font-medium transition-all ${
+        active
+          ? 'bg-marvel-red text-white shadow-glow'
+          : 'bg-transparent text-claude-muted hover:text-claude-text hover:bg-white/5'
       }`}
     >
       {label}
@@ -278,12 +295,15 @@ function Card({
   className?: string;
 }) {
   return (
-    <section className={`rounded-2xl border border-claude-border bg-claude-card shadow-[0_2px_8px_rgba(0,0,0,0.02)] ${className}`}>
-      <div className="flex items-center justify-between gap-3 border-b border-claude-border/50 px-6 py-5">
-        <h2 className="font-serif text-lg text-claude-text">{title}</h2>
-        {meta ? <div className="font-mono-num text-[12px] text-claude-muted">{meta}</div> : null}
+    <section className={`relative overflow-hidden rounded-xl border border-claude-border bg-claude-card/80 shadow-cinematic backdrop-blur-sm ${className}`}>
+      <div className="flex items-center justify-between gap-3 border-b border-white/[0.06] px-5 py-3.5">
+        <h2 className="flex items-center gap-2.5 text-[15px] font-semibold tracking-tight text-claude-text">
+          <span className="h-3.5 w-[3px] rounded-full bg-marvel-red" />
+          {title}
+        </h2>
+        {meta ? <div className="font-mono-num text-[11px] uppercase tracking-[0.14em] text-claude-muted">{meta}</div> : null}
       </div>
-      <div className="px-6 py-5">{children}</div>
+      <div className="px-5 py-4">{children}</div>
     </section>
   );
 }
@@ -301,6 +321,10 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
   const scopeItems = dedupeScopeItems(scopedReports);
   const totalSignals = scopeItems.length;
   const lastUpdated = latest ? formatTimestamp(latest.timestamp) : null;
+  const publishTrend = getSentimentByPublishDate(21);
+  const datedShare = totalSignals > 0
+    ? Math.round((scopeItems.filter(i => i.publishedAt).length / totalSignals) * 100)
+    : 0;
 
   const sourceCounts = SOURCE_KEYS.map(source => ({
     key: source,
@@ -364,9 +388,9 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
     width: number;
     color: string;
   }> = [
-    { key: 'positive', label: 'Positive read', value: inferredToneTotals.positive, width: sentimentTotalCount ? (inferredToneTotals.positive / sentimentTotalCount) * 100 : 0, color: 'bg-[#40806A]' },
-    { key: 'neutral', label: 'Neutral read', value: inferredToneTotals.neutral, width: sentimentTotalCount ? (inferredToneTotals.neutral / sentimentTotalCount) * 100 : 0, color: 'bg-claude-border' },
-    { key: 'risk', label: 'Risk read', value: inferredToneTotals.risk, width: sentimentTotalCount ? (inferredToneTotals.risk / sentimentTotalCount) * 100 : 0, color: 'bg-[#C4554D]' },
+    { key: 'positive', label: 'Positive read', value: inferredToneTotals.positive, width: sentimentTotalCount ? (inferredToneTotals.positive / sentimentTotalCount) * 100 : 0, color: 'bg-[#2DD4A7]' },
+    { key: 'neutral', label: 'Neutral read', value: inferredToneTotals.neutral, width: sentimentTotalCount ? (inferredToneTotals.neutral / sentimentTotalCount) * 100 : 0, color: 'bg-[#8B8F99]' },
+    { key: 'risk', label: 'Risk read', value: inferredToneTotals.risk, width: sentimentTotalCount ? (inferredToneTotals.risk / sentimentTotalCount) * 100 : 0, color: 'bg-[#F0453A]' },
   ];
   const fieldNotes = buildSummaryNotes({
     scope,
@@ -404,27 +428,29 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
   }
 
   return (
-    <main className="min-h-screen bg-claude-bg px-4 py-8 sm:px-8 sm:py-10 selection:bg-claude-accent/20">
-      <div className="mx-auto max-w-7xl space-y-6">
-        <header className="rounded-2xl border border-claude-border bg-claude-card shadow-sm">
-          <div className="flex flex-col gap-6 border-b border-claude-border/50 px-8 py-8 lg:flex-row lg:items-start lg:justify-between">
+    <main className="min-h-screen px-3 py-5 sm:px-6 sm:py-7">
+      <div className="mx-auto max-w-7xl space-y-4">
+        <header className="edge-top-red grain relative overflow-hidden rounded-xl border border-claude-border bg-gradient-to-b from-[#16161C] to-[#0C0C10] shadow-cinematic">
+          <div className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-marvel-red/15 blur-3xl" />
+          <div className="relative flex flex-col gap-4 px-5 py-5 sm:px-7 sm:py-6 lg:flex-row lg:items-center lg:justify-between">
             <div className="min-w-0">
-              <div className="flex flex-wrap items-center gap-3">
-                <div className="text-[13px] font-medium tracking-wide text-claude-accent uppercase">GameFilm</div>
-                <div className={`rounded-full border px-2.5 py-0.5 text-[12px] font-medium ${threatStyle.tone}`}>
+              <div className="flex flex-wrap items-center gap-2.5">
+                <span className="marvel-chip rounded-[3px] px-2 py-1 text-[12px] leading-none">GAMEFILM</span>
+                <span className="font-mono-num text-[10px] uppercase tracking-[0.28em] text-claude-muted">Rivian Intelligence Unit</span>
+                <span className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide ${threatStyle.tone}`}>
                   {threatStyle.label}
-                </div>
+                </span>
               </div>
-              <h1 className="mt-3 font-serif text-4xl text-claude-text sm:text-5xl">
-                Rivian intelligence
+              <h1 className="poster-mark mt-3 text-5xl text-claude-text sm:text-6xl">
+                RIVIAN <span className="text-marvel-red">INTEL</span>
               </h1>
-              <div className="mt-3 text-base text-claude-muted">
-                Last updated {lastUpdated}
+              <div className="mt-2 font-mono-num text-[11px] uppercase tracking-[0.16em] text-claude-muted">
+                Last scan · {lastUpdated}
               </div>
             </div>
 
-            <div className="flex flex-wrap items-center gap-3">
-              <div className="flex items-center gap-1 rounded-xl bg-[#F5F4F0] p-1 border border-claude-border/50">
+            <div className="flex flex-wrap items-center gap-2.5">
+              <div className="flex items-center gap-1 rounded-lg border border-white/10 bg-black/40 p-1">
                 <ScopeTab active={scope === 'latest'} href="?scope=latest" label="Latest" />
                 <ScopeTab active={scope === '7d'} href="?scope=7d" label="7 days" />
                 <ScopeTab active={scope === 'all'} href="?scope=all" label="Archive" />
@@ -434,23 +460,37 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
             </div>
           </div>
 
-          <div className="grid gap-0 sm:grid-cols-2 xl:grid-cols-5 bg-[#FDFCFB] rounded-b-2xl">
+          <div className="relative grid grid-cols-2 gap-px border-t border-white/[0.06] bg-white/[0.05] sm:grid-cols-3 xl:grid-cols-6">
             {[
-              { label: 'Signals analyzed', value: totalSignals },
+              { label: 'Signals', value: totalSignals },
+              { label: 'Dated by publish', value: `${datedShare}%` },
               { label: 'Sources', value: sourceCounts.length },
-              { label: 'Competitive items', value: scopeItems.filter(item => item.category === 'competitive').length },
+              { label: 'Competitive', value: scopeItems.filter(item => item.category === 'competitive').length },
               { label: 'Failed scans', value: failedScans.length },
               { label: 'Issues tracked', value: autonomyIssues.length },
             ].map(stat => (
-              <div key={stat.label} className="border-t border-claude-border/50 px-8 py-6 xl:border-l xl:first:border-l-0">
-                <div className="text-[13px] font-medium text-claude-muted">{stat.label}</div>
-                <div className="mt-2 font-serif text-4xl text-claude-text">{stat.value}</div>
+              <div key={stat.label} className="bg-[#0C0C10] px-4 py-3.5">
+                <div className="font-mono-num text-[10px] uppercase tracking-[0.16em] text-claude-muted">{stat.label}</div>
+                <div className="mt-1 font-mono-num text-3xl font-semibold tabular-nums text-claude-text">{stat.value}</div>
               </div>
             ))}
           </div>
         </header>
 
-        <div className="grid gap-6 xl:grid-cols-[1.4fr_0.6fr]">
+        <Card
+          title="Sentiment trend by publish date"
+          meta={`${publishTrend.length} days · ${publishTrend.reduce((s, d) => s + d.total, 0)} dated signals`}
+        >
+          <PublishSentimentTrend data={publishTrend} />
+          <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-1.5 font-mono-num text-[10px] uppercase tracking-[0.16em] text-claude-muted">
+            <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-sm bg-[#2DD4A7]" /> Positive</span>
+            <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-sm bg-[#8B8F99]" /> Neutral</span>
+            <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-sm bg-[#F0453A]" /> Negative</span>
+            <span className="ml-auto normal-case tracking-normal text-claude-muted/70">Stacked by article publish day (PT), deduped by URL</span>
+          </div>
+        </Card>
+
+        <div className="grid gap-4 xl:grid-cols-[1.4fr_0.6fr]">
           <Card title="Analysis Summary" meta={`${sentimentTotalCount} items in scope`}>
             <div className="grid gap-8 lg:grid-cols-[1fr_0.8fr]">
               <div className="space-y-4">
@@ -469,9 +509,9 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
             {themeCounts.length > 0 ? (
               <div className="flex flex-wrap gap-2.5">
                 {themeCounts.map(theme => (
-                  <div key={theme.theme} className="rounded-xl border border-claude-border/60 bg-[#FDFCFB] px-3.5 py-2 hover:border-claude-border transition-colors">
-                    <div className="text-sm font-medium text-claude-text">{theme.theme}</div>
-                    <div className="mt-0.5 text-[13px] text-claude-muted">{theme.count} mentions</div>
+                  <div key={theme.theme} className="rounded-lg border border-white/[0.07] bg-white/[0.03] px-3 py-1.5 hover:border-marvel-red/40 transition-colors">
+                    <div className="text-[13px] font-medium text-claude-text">{theme.theme}</div>
+                    <div className="mt-0.5 font-mono-num text-[11px] text-claude-muted">{theme.count} mentions</div>
                   </div>
                 ))}
               </div>
@@ -483,7 +523,7 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
           </Card>
         </div>
 
-        <div className="grid gap-6 xl:grid-cols-[0.8fr_1.2fr]">
+        <div className="grid gap-4 xl:grid-cols-[0.8fr_1.2fr]">
           <Card title="Sources" meta={`${sourceCounts.length} active`}>
             <div className="space-y-4">
               {sourceCounts.map(source => (
@@ -503,67 +543,59 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
             </div>
           </Card>
 
-          <Card title="Recent signals" meta={`${topSignals.length} newest`}>
-            <div className="space-y-4">
+          <Card title="Recent signals" meta="by publish date">
+            <div className="space-y-2.5">
               {topSignals.map(item => (
                 <div
                   key={item.url}
-                  className="block rounded-xl border border-claude-border/60 bg-[#FDFCFB] p-5 transition-all hover:border-claude-border hover:shadow-sm"
+                  className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
                 >
-                  <div className="flex flex-wrap items-center gap-2.5 mb-3">
-                    <span className={`rounded-full px-2.5 py-0.5 text-[12px] font-medium ${sentimentTone(item.sentiment)}`}>{item.sentiment}</span>
-                    <span className="text-[13px] font-medium text-claude-muted">{SOURCE_LABELS[item.source] ?? item.source}</span>
-                    <span className="ml-auto text-[13px] text-claude-muted">{formatCompactDate(item.reportTimestamp)}</span>
+                  <div className="flex flex-wrap items-center gap-2 mb-2">
+                    <span className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${sentimentTone(item.sentiment)}`}>{item.sentiment}</span>
+                    <span className="font-mono-num text-[11px] uppercase tracking-[0.1em] text-claude-muted">{SOURCE_LABELS[item.source] ?? item.source}</span>
+                    <span className="ml-auto flex items-center gap-1.5 font-mono-num text-[11px] text-claude-muted">
+                      {!item.publishedAt && <span className="text-[9px] uppercase tracking-wide text-claude-muted/60">scan</span>}
+                      {formatCompactDate(item.publishDate)}
+                    </span>
                   </div>
-                  <a
-                    href={item.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="group block"
-                  >
-                    <h3 className="font-serif text-[18px] leading-snug text-claude-text group-hover:text-claude-accent transition-colors">
+                  <a href={item.url} target="_blank" rel="noreferrer" className="group block">
+                    <h3 className="text-[15px] font-semibold leading-snug text-claude-text group-hover:text-marvel-red transition-colors">
                       {item.title}
                     </h3>
                   </a>
-                  <p className="mt-2 text-[15px] leading-relaxed text-claude-text/80 line-clamp-2">{item.snippet}</p>
-                  <MediaPreview url={item.url} title={item.title} className="mt-4 border-claude-border/50 bg-white rounded-lg" />
+                  <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{item.snippet}</p>
+                  <MediaPreview url={item.url} title={item.title} className="mt-3 border-white/10 bg-black/30 rounded-lg" />
                 </div>
               ))}
             </div>
           </Card>
         </div>
 
-        <div className="grid gap-6 xl:grid-cols-[0.8fr_1.2fr]">
+        <div className="grid gap-4 xl:grid-cols-[0.8fr_1.2fr]">
           <Card title="Competitors" meta={`${activeCompetitors.length} tracked`}>
             <CompetitorsSection competitors={activeCompetitors} threatStyles={THREAT_STYLES} />
           </Card>
 
           <Card title="Autonomy & software risks" meta={`${autonomyIssues.length} recent`}>
-            <div className="space-y-4">
+            <div className="space-y-2.5">
               {autonomyIssues.map(issue => (
                 <div
                   key={issue.url}
-                  className="block rounded-xl border border-claude-border/60 bg-[#FDFCFB] p-5 transition-all hover:border-claude-border hover:shadow-sm"
+                  className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
                 >
-                  <div className="flex flex-wrap items-center gap-2.5 mb-3 text-[13px] text-claude-muted">
-                    <span className="font-medium">{SOURCE_LABELS[issue.source] ?? issue.source}</span>
-                    <span className="text-claude-border">•</span>
-                    <span className="font-medium text-claude-text/70">{issue.issueType}</span>
-                    <span className="text-claude-border">•</span>
-                    <span>{formatCompactDate(issue.reportTimestamp)}</span>
+                  <div className="flex flex-wrap items-center gap-2 mb-2 font-mono-num text-[11px] uppercase tracking-[0.08em] text-claude-muted">
+                    <span>{SOURCE_LABELS[issue.source] ?? issue.source}</span>
+                    <span className="text-marvel-red/60">•</span>
+                    <span className="text-[#FF6B61]">{issue.issueType}</span>
+                    <span className="ml-auto normal-case tracking-normal">{formatCompactDate(getEffectiveDate(issue, issue.reportTimestamp).toISOString())}</span>
                   </div>
-                  <a
-                    href={issue.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="group block"
-                  >
-                    <h3 className="font-serif text-[18px] leading-snug text-claude-text group-hover:text-claude-accent transition-colors">
+                  <a href={issue.url} target="_blank" rel="noreferrer" className="group block">
+                    <h3 className="text-[15px] font-semibold leading-snug text-claude-text group-hover:text-marvel-red transition-colors">
                       {issue.title}
                     </h3>
                   </a>
-                  <p className="mt-2 text-[15px] leading-relaxed text-claude-text/80 line-clamp-2">{issue.snippet}</p>
-                  <MediaPreview url={issue.url} title={issue.title} className="mt-4 border-claude-border/50 bg-white rounded-lg" />
+                  <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{issue.snippet}</p>
+                  <MediaPreview url={issue.url} title={issue.title} className="mt-3 border-white/10 bg-black/30 rounded-lg" />
                 </div>
               ))}
             </div>
