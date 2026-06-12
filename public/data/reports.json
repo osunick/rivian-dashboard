@@ -19661,5 +19661,381 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-12T02:01:17.619023Z",
+    "timestamp": "2026-06-12T02:01:17.619023Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 33,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 7,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Any news on the R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3i2rc/any_news_on_the_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T01:54:00.931Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2 turn signal change incoming",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3hwr6/r2_turn_signal_change_incoming/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T01:45:54.399Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dallas has an R2 on display finally",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3hjj5/dallas_has_an_r2_on_display_finally/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T01:28:02.566Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Sound in the R2 \u2026. Apparently, a hot take.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3eqtd/sound_in_the_r2_apparently_a_hot_take/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T23:20:15.772Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R2 demo drive from the perspective of a Model Y owner who wishes to not drive a Tesla anymore",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3e46u/r2_demo_drive_from_the_perspective_of_a_model_y/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T22:52:51.162Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian 2026.15.01 Update: Hey Rivian AI Assistant Gets Major Improvements",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3duyh/rivian_20261501_update_hey_rivian_ai_assistant/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T22:41:42.792Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Bug After Latest Update?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u3dtvb/bug_after_latest_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-11T22:40:25.389Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is It Time to Buy Rivian Stock as R2 Deliveries Begin? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHNCZTlobmlILUU0RzlsYkNjQUFzaXRJSXRNMHpOSml0Q1RTa3FTcnNTcENkRlVsZHJTSGJDMU4yVFptTnIxczVZYnFIeWtEZGF2M1Bod2h4dGFvNGw3WWwzWGZlcHpxTm14YzRVSl84NGdNTU90V2lBdDlibUtydm1QaE9OUG1hcm9jRlBwaXhiTTVhNVlSNQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 11 Jun 2026 17:05:00 GMT",
+        "score": 0,
+        "snippet": "Is It Time to Buy Rivian Stock as R2 Deliveries Begin? - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian\u2019s Big Day Out, Wall Street\u2019s Big Thumbs Down - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVEE4aU5vTUVFcnlJbWlOemtKYUJySTROTWxoZGVOZ0tOdnhsbG9qdkZ5bmRKakxwbUdhMjhNZHc1dkxNRm1heVZzem9KQjhXTFJZNUMxMGhWVkFwaUNvMmRpbUc0UkFEMTgxaXJVZHBWYkZOZzBXNHMwN3ZTSnhRaENaT2Z2SkJZNHFnMzN4eGU5c09vYnVvbWZPLTl4cllzeHM0VVozZHVaV3lVQkE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 11 Jun 2026 22:32:30 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Big Day Out, Wall Street\u2019s Big Thumbs Down - Trefis",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 launch draws analyst praise despite stock slump - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXQ0MnZFVG01bEVyUk05ZDBYUlBUMW9KYVJoamtIRzU3RUhlcU41Snp3d1hPall2cEExMTZ3T2dkS1B6a1BKU2dBU1NIQlc2SjhGTWI1UzlLczBkbmEyRHBvZEg5eDZIV3E5N1lIVHdORG9nR054cV9yc1MyakhYMzJFNkc1alR6aWVHNERnMEFjbkRDcEZiVEU5V1cybmVsbDNkaXl3OVdUdEtXSEw2QmxCQ1dXUjNJYkJuNnQxbUQybllwWjRQS2p2dUZwMTNvM3d3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 11 Jun 2026 21:28:11 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 launch draws analyst praise despite stock slump - MSN",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Rivian Believes The R2 Can Finally Challenge Tesla - NEWS10 ABC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2ZOcTA4UDBPTXpueFpXdzVLSjQzOGp6bVFSQUF3M1I1dHFuTHg5TU1LZTdodU82eVB4U0p0a3FlTFVGYV9PRnFsS0pnSXBzcmVmX3FSdmg1UERXV2hwaE8yVEZpcEdOTmdSR3RzbHV1eXJZS0V2UWJQNG0zVTdhTV9xYXRNQnlmclF5TTRBb1Jid3VXZXF3X9IBmAFBVV95cUxOa2ZOcTA4UDBPTXpueFpXdzVLSjQzOGp6bVFSQUF3M1I1dHFuTHg5TU1LZTdodU82eVB4U0p0a3FlTFVGYV9PRnFsS0pnSXBzcmVmX3FSdmg1UERXV2hwaE8yVEZpcEdOTmdSR3RzbHV1eXJZS0V2UWJQNG0zVTdhTV9xYXRNQnlmclF5TTRBb1Jid3VXZXF3Xw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 16:58:24 GMT",
+        "score": 0,
+        "snippet": "Why Rivian Believes The R2 Can Finally Challenge Tesla - NEWS10 ABC",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPWWM5T1Aya0Nmc0czMTFjX2lMZnBObW9GUmtTbGFqWVVMT3B3QlFISnBFYUxmQVB2NnBiRndySW5sbnpOUmh5SlZkOERldVg1bHUzMTE2eXRSZC0yUWJHVkliQmM0NUsyQjNnR1FPOXZwd2d3VXFFU3NmX3ZteXhNNXR1amJCVmxTVkhNQTk5b0xHSE51bnljNUQ2aFJHdUZfZDV2b2xwcFEzUkNwcG1UbDlXbkZadEVSYko2VVViWVRxTWVfMzJYRjdiV0RSalhNaUhfSmpXZTlPTWR3Z0RVTlp2ZVlkLU50Q2FQcGFUbmo0Z19CTU5RMmpmU1l5OExFeG9KNjJGOTYtcTA0dFpsWngyMHVCRkRJUXpUSl9MMk85c2tJQVdndVphMGhfV3g3V1Z5ZXQtTldoLVVxYTN0WjNPMHk1T3ZCcVZnVHRzbw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 22:03:44 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian begins public deliveries of R2 SUV flagship trim - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0ZwWEVIVG1ZalZWbng4THU5TkI3dnp2ZWNNT0dKSFVBaS05NUhFbUJRYjZlU29BZDBBazFTSm0wYXBKemZDSE1sRmUyQ0FyZWU1VDlhdm9mZ3h4Tkx3ZjN6eXdmOHlyY1l0TGV4bmdHZ0NvbDRrN0wtaFlueXdlbFdhX1RlZDktQlFtY0FMMG9WMzloWldmd29mWF9VelA4NmYyNmVkS2w?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 11 Jun 2026 14:42:49 GMT",
+        "score": 0,
+        "snippet": "Rivian begins public deliveries of R2 SUV flagship trim - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Riding in cars with robots: One woman's Waymo experience - Mashable",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iVV9hT2lkSVVrU21zWE56cnc1dEZaSW9DR2R1ZDBhWXpqSFZ6Z3FjcFNCb3FxcE9IbFoyZnJCaXpnSHNJb3owWjMtVnBNS2lscTVmMi1zMFplcDRNaXZXSjY2MlhMeWNDNVhSOG1RYw?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 11 Jun 2026 22:13:52 GMT",
+        "score": 0,
+        "snippet": "Riding in cars with robots: One woman's Waymo experience - Mashable",
+        "category": "competitive",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@utkan.com (Bluesky): So, at the moment, Rivian R2 can do as much as my 2018 Honda Civic can do, in th",
+        "url": "https://bsky.app/profile/did:plc:euqtxwmodikk4v22u3gkgrej/post/3mo2nbh5qvk2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T01:58:08.670Z",
+        "score": 0,
+        "snippet": "So, at the moment, Rivian R2 can do as much as my 2018 Honda Civic can do, in this regard.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Tesla + Rivian drivers: \u201cwhy do I need this?! I\u2019m totally fine waiting 30-40 min",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mo2kzgvs4k2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T01:17:50.762Z",
+        "score": 1,
+        "snippet": "Tesla + Rivian drivers: \u201cwhy do I need this?! I\u2019m totally fine waiting 30-40 minutes to charge my EV on roadtrips.\u201d",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@khon2news.bsky.social (Bluesky): Can the new Rivian R2 finally challenge Tesla's electric vehicle crown?\n\nMore he",
+        "url": "https://bsky.app/profile/did:plc:2cjklenwyqtowe7kvujr5xls/post/3mo2ivugj722l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T00:40:03.867Z",
+        "score": 1,
+        "snippet": "Can the new Rivian R2 finally challenge Tesla's electric vehicle crown?\n\nMore here: https://www.khon2.com/automotive/why-rivian-believes-the-r2-can-finally-challenge-tesla/\u00a0",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): \ud83d\udea8 Rivian Leasing Update:  Minnesota \ud83d\udea8\n\nRivian has added Minnesota to states it o",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mo2iugpdyl2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T00:39:15.570Z",
+        "score": 2,
+        "snippet": "\ud83d\udea8 Rivian Leasing Update:  Minnesota \ud83d\udea8\n\nRivian has added Minnesota to states it offers leases",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@borgdad.bsky.social (Bluesky): I am not a fan of this Tesla cosplay from Rivian. Don't hype what ain't shipping",
+        "url": "https://bsky.app/profile/did:plc:rybvey7es7bkltiskkyo67ze/post/3mo2crlp2hk2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T22:50:18.361Z",
+        "score": 0,
+        "snippet": "I am not a fan of this Tesla cosplay from Rivian. Don't hype what ain't shipping. And if Rivian isn't willing to offer total indemnity to drivers if their system fails and results in injury or loss of",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@kreinerdj2.bsky.social (Bluesky): The Rivian R2 Is Here! cleantechnica.com/2026/06/10/t...",
+        "url": "https://bsky.app/profile/did:plc:alhf6gmfnolxe3l6ws3lbofj/post/3mo2bzxic4c2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T22:37:08.066Z",
+        "score": 0,
+        "snippet": "The Rivian R2 Is Here! cleantechnica.com/2026/06/10/t...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@billk1.bsky.social (Bluesky): Android Auto and CarPlay are far superior in our Mach-E and Bolt versus Rivian A",
+        "url": "https://bsky.app/profile/did:plc:qe6ngeeiwsnfwsko5s4ezfdq/post/3mo2aybqwfs2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T22:18:14.460Z",
+        "score": 0,
+        "snippet": "Android Auto and CarPlay are far superior in our Mach-E and Bolt versus Rivian Assistant in our R1S. Rivian has really over promised and under-delivered. Very surprised they launched rivian assistant ",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@daveparisi.bsky.social (Bluesky): Rivian's Halo wheel is an attempt to move away from car touchscreens by giving u",
+        "url": "https://bsky.app/profile/did:plc:qpcxcskuucficyhldiuheqkq/post/3mo2aopcyek2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T22:12:54.172Z",
+        "score": 1,
+        "snippet": "Rivian's Halo wheel is an attempt to move away from car touchscreens by giving us back clicky wheels--but the clicks are all stimulated by a complex haptic control system.\nwww.thedrive.com/news/rivian",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@drmikeregan.bsky.social (Bluesky): www.mensjournal.com/gear/rivian-...",
+        "url": "https://bsky.app/profile/did:plc:4fbhw2tg662a6qt35f4iggg7/post/3mo2aedw5us2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-11T22:07:07.568Z",
+        "score": 0,
+        "snippet": "www.mensjournal.com/gear/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I Drove the Rivian R2. The Hype is Real.",
+        "url": "https://youtube.com/watch?v=MP6c3LpW9dA",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T00:45:41Z",
+        "score": 0,
+        "snippet": "The Rivian R2 might be the most important vehicle Rivian has ever made. After spending a day driving it through highways, ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Promises vs. Reality: Charging Network SHOCKER! #shorts",
+        "url": "https://youtube.com/watch?v=rlGBA4GDDYg",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T00:04:40Z",
+        "score": 0,
+        "snippet": "BREAKING: Rivian's CHARGING GOALS are falling FLAT! They've built a TINY fraction of their promised sites and stalls.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Current Cadence: The Tesla vs Rivian Narrative",
+        "url": "https://youtube.com/watch?v=Prz7VNZHsnQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T00:00:27Z",
+        "score": 0,
+        "snippet": "A short documentary-style look at how two electric vehicle pioneers shape modern advertising. It distills their strategies into a ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 vs Model Y &amp; R1S | We Didn\u2019t Expect This",
+        "url": "https://youtube.com/watch?v=rBhjK2g7r9Q",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T00:00:31Z",
+        "score": 0,
+        "snippet": "We finally got the chance to check out and demo drive the all-new Rivian R2! In this video, we take a quick walkaround of Rivian's ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Inside the 2027 Rivian R2 \ud83e\udd2f Futuristic Interior Revealed #Shorts",
+        "url": "https://youtube.com/watch?v=WzHAsaWPVQU",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T00:00:11Z",
+        "score": 0,
+        "snippet": "Take a quick look inside the tech-forward interior of the 2027 Rivian R2. Modern design, smart technology, and premium features ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Facebook, Coinbase &amp; Rivian Teach Us About the SpaceX IPO \ud83d\udcc9",
+        "url": "https://youtube.com/watch?v=8ox3snBLpTU",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T23:00:07Z",
+        "score": 0,
+        "snippet": "Facebook, Coinbase, Rivian \u2014 every blockbuster IPO came wrapped in hype, and each one taught investors a hard lesson.",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian Clarifies: No In-House LiDAR Development Planned #shorts",
+        "url": "https://youtube.com/watch?v=68x7MdhgY68",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T22:56:29Z",
+        "score": 0,
+        "snippet": "Misinformation swirling around Rivian's LiDAR development? Let's clarify. The company is NOT building LiDAR in-house.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian 2026.15.01 Update: Hey Rivian AI Assistant Sends a Text",
+        "url": "https://youtube.com/watch?v=ueZVaXnnKts",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T22:46:07Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian 2026.15.01 Update: Hey Rivian AI Assistant Gets Major Improvements",
+        "url": "https://youtube.com/watch?v=-R1761S7IfA",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T22:38:31Z",
+        "score": 0,
+        "snippet": "Get $500 of Free Gear Shop Credit + 3 Months of Free RAN Charging using my Rivian Referral Code: ...",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian&#39;s Full Autonomy Roadmap, Explained by VP James Philbin",
+        "url": "https://youtube.com/watch?v=uJdsv3NKf-w",
+        "source": "youtube",
+        "publishedAt": "2026-06-11T22:28:45Z",
+        "score": 0,
+        "snippet": "I sat down with James Philbin, Rivian's VP of Autonomy and AI, at the R2 media event to talk through where autonomy stands ...",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
