@@ -20525,5 +20525,385 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-12T22:04:24.580277Z",
+    "timestamp": "2026-06-12T22:04:24.580277Z",
+    "sentiment": {
+      "positive": 60,
+      "neutral": 21,
+      "negative": 18
+    },
+    "sources": {
+      "news": {
+        "found": 33,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 6,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian x Yakima Tent issues",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u48d5k/rivian_x_yakima_tent_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T21:34:37.777Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "From jeep to Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u47zxe/from_jeep_to_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T21:20:01.198Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "R2 Test Drive Thoughts as a First Time Rivian Driver",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u476wx/r2_test_drive_thoughts_as_a_first_time_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T20:48:39.980Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "RJ please split this panel in Gen 3",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u45wn5/rj_please_split_this_panel_in_gen_3/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T19:58:43.152Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Charge port door won't close; \"Obstacle Detected\" even though nothing is blocking it",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u45iku/charge_port_door_wont_close_obstacle_detected/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T19:43:36.883Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative"
+      },
+      {
+        "title": "What prevents flipping?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u44zm1/what_prevents_flipping/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-12T19:23:01.848Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Rivian R2 Is Now Shipping With A Rare Accessory The Competition Forgot Existed",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u4454w/the_rivian_r2_is_now_shipping_with_a_rare/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-12T18:51:23.783Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian Stock Jumps As R2 Deliveries Ignite EV Momentum - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMmpmUnUwRDFseFo0SXRMS2hoSjlfdm85UUF2anBubm1ubThIdEx4TVVkNUNMU3NRTndOdTVZNDFSRE5VYkZoWC13TjRFRDNING5KNjZmUzhUTmZSMFc4T0VkcVl5NmdFQUJWbzA0TkhDQlBXb25GTlRBckk2T28?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 20:02:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Jumps As R2 Deliveries Ignite EV Momentum - StocksToTrade",
+        "category": "business",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Why is Rivian stock rallying today? - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQllNTF83S2xJdTRMSXY4NjEtRzdfUFVOenN4X1c0YnA0Sm9HYmpvMi16dzBPVUFSZnpBV1lRUVh1WFo0em14OTRqUFNhdndrOVZrcDF0dVNwSkNhNWI2VjJIVGtpeDdkeU92NFpVV3lMalVxeTNwVVY5cXJyMm8yY09zLWV3QUtURC1Qb3ZCcWZaTWJ4OG1saTB1SFc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 18:45:52 GMT",
+        "score": 0,
+        "snippet": "Why is Rivian stock rallying today? - Investing.com",
+        "category": "business",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian Stock Slides Overnight: Investors Look Past R2 Buzz To Amazon\u2019s Growing Grip On Auto Revenue - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkItUVVHY1V3ZUVuU2tLUjl1VWhTMG15YWdxU0MzUE52c2RPUUVmTWlFQTM5c3NKUE9KbE1ub2dkc0x0eUgyQjNtSWthM0FMSmNCRWZ6eWtaX0VjNTh3c3J0S0M1aktZNXp6clJpWmp4bWhxZFV0U1Vobm40dTJnSjBraVg4M0tLWDkteTg2QU8tMjQ3MEJJbUlQZDRCUTFqWHlnVmRJSThjeHE0dHZ1Nw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 11:07:41 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Slides Overnight: Investors Look Past R2 Buzz To Amazon\u2019s Growing Grip On Auto Revenue - Stocktwits",
+        "category": "business",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Rivian Automotive Inc Stock (RIVN) Closed Up by 7.56% on Jun 12: What Signal Does It Send? - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVN2WlNGcVVzRVhfWklEVTVuYS13bUl3SlViQ21wbmxZdHJUUFNPaDFnY1lsSXN6NDhqZDZ0TEVyQWYwY3JuY0Q0UVBWSWZIS2FVUDJPVXZkOWczeWp0Wl9tdlVTY0g3ZFB4alZkTFV4eEhIcmp6TVRMSTlvYmctUEF2eWNualFWcHpv?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 20:14:21 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Inc Stock (RIVN) Closed Up by 7.56% on Jun 12: What Signal Does It Send? - TradingKey",
+        "category": "business",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Is Rivian Stock A Buy Now? Inside The R2 SUV Delivery Milestone And 2026 Guidance - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHIweUdqTjFrVUFxRUdja2M1QXJIaGNITGVtNXN2cVhpRGlnUW5iclFfb0xBMmhWLS1hMm9TMDRCN0VWVVdUMmYxYW5IQWUxMmllVE9xVU1JNXR3UURpSUFvVTBCS2JZZUgwZDkxQkdFV1FnOHdRSEVsMDg2NUlEV3U5S2dla01PRzRlUWNsWDd2NHg4bDlTbVgzaWt2ZUl1dzVKam94UkFFMlNHMmM0c1FaWnlxTUVpaFZ6Yjh4Z29Eai1qdkRlbmJINTdQZV9lLS1HbXJ2RHc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 19:29:23 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Stock A Buy Now? Inside The R2 SUV Delivery Milestone And 2026 Guidance - Benzinga",
+        "category": "business",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Comfort Systems, Quanta, and Rivian Shares Are Soaring, What You Need To Know - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTmhVOUlCR0JXZ2F3Vm9DQTFUazdlX2pqTHFzVU9NRjlBTGkzTmZhblNsZDd1ajdOamVwMkoyQ3dENEtvS2lHZ1VhZTZxd2syNUtJREJzeDJaWmJwaUtTNnZ4cjY0cjUtd1VVcGRPVnplZmo0WWFMdlZaNkpOZDBEWHBxVXhTclpHQkFNRlR6YkhGQW9vRlRwSXpONndsaTB6VFdtUjNIbjVlR09CR1NGRExIVTJZeDNqTmhhaGVHODQyUnJPSldfVVVTOWlTSWhBZTBUR2tOV0lDdnk5RW8weWxQZlJuMUl5ajVkLU1CYk8?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 20:10:53 GMT",
+        "score": 0,
+        "snippet": "Comfort Systems, Quanta, and Rivian Shares Are Soaring, What You Need To Know - The Globe and Mail",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian RIVN Stock Jumps As R2 Deliveries And 5G Deal Hit - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY1RMZURrVVg5MGlGdF9XU0lYTWV3OW9IQ2d3bmtEWTZMVVJIYk1jT0tjT01rQ2pOejVVckVXSHNENV9nWkNPRkEzLTVlSTd4MGRKT2xGR3lxYmhTN2hiUkptVk9vNUU0R3ZibnVaWk1CenR3T2YxSzRLZm9fLXIxS0dqOTdsZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 21:03:00 GMT",
+        "score": 0,
+        "snippet": "Rivian RIVN Stock Jumps As R2 Deliveries And 5G Deal Hit - timothysykes.com",
+        "category": "business",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian R2 Deliveries Start As Policy Tailwinds Lift RIVN - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWNYTGdVVGp1MWY3SjNrRXoyVXpDYW1Qa1NOVm9DX3VvNXlDY1dSWU9ocmZIWXVWY2RIbzlHTV8tTjJOdlFJQkhiWkRtZUtzUlBwRUNkdi1FMXRJT0IwR0hCZndhLXhtV3J3Vmw1cXBldnpkTkhuZ0ZKVUVUeDNSbmFaYw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 18:33:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Deliveries Start As Policy Tailwinds Lift RIVN - timothysykes.com",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian Automotive Options Spot-On: On June 12th, 177.75K Contracts Were Traded, With 2.51 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFZBTHJlMEhTcldYTC0yNnFkcUw4MDZHTklNVGMwTFZoOWlMOV9MRXdlOGVjZVh4ZUdMVUVzQmlnMkNoV0VpSE5TekkyeTJieFE3U1NUWl9WWnlKcTRDTVhjdzZobnZ6WGtpZTc5Q0dCNWEwa2ZlMHhvdlBwQ2g3UFJtelN6YmJhVVRlM3ZoQjNHcHF4a0tfTWFPUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 20:39:06 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Options Spot-On: On June 12th, 177.75K Contracts Were Traded, With 2.51 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Rivian Automotive (RIVN) dipped more than broader market today - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmF5UHZIZlNkQWtSeWxFbG5QeEp0Mkdjb2x3cDY2ZGVTSXNMUlhER3E4TjR6dVN3U2xPT1RwTmpSN2V0OXFjZGtnTmlDaTNTWFRqYjd1SXFGYVJtNlpqZzBsRVp3NWpnS01nLTRqMVB0U2o4OGU4MFJmNE4zTU9ndDFmU0dVLWdGWHU2a3BWZmwxeE05ZmRhdllITGRkaElSR3VkWkJwMUFLRm5XZnJ6RTVyemJucWlla0E?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 12 Jun 2026 16:25:10 GMT",
+        "score": 0,
+        "snippet": "Why Rivian Automotive (RIVN) dipped more than broader market today - MSN",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "See Every Photo We Took of the 2027 Rivian R2\u2019s Interior - Cars.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelJCS0xoRHNzd2JPZFhJZlNyWnF2RDRsd1V2UGpFSEFvRnB4MERnWkpyc181Nzc5aUhRdkZCcXNpOUg3NWlrc1RSRmxMZTJKVEQwRzNNMDdVLTZtR0pkR0xUUU90dGJ4ZFBsbFBCanBWMFdVMGZOSzlhdTZva0hoRFd5R21GUXd1TmFNdG9KZXhER3pkYjBENA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 12 Jun 2026 19:23:25 GMT",
+        "score": 0,
+        "snippet": "See Every Photo We Took of the 2027 Rivian R2\u2019s Interior - Cars.com",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@camasonian.bsky.social (Bluesky): Tesla owner here and that is EXACTLY right.\n\nMy wife's Model 3 is a great car. T",
+        "url": "https://bsky.app/profile/did:plc:ar4m3xiu43lhhimqi7vnor5z/post/3mo4ozsgmt22o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T21:34:57.473Z",
+        "score": 2,
+        "snippet": "Tesla owner here and that is EXACTLY right.\n\nMy wife's Model 3 is a great car. Tesla has fabulous engineers and tech.  But every single stupid thing about it has Elon's fingerprints on it.  \n\nSame for",
+        "category": "competitive",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mo4lzlsfc22x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T20:41:09.364Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@davechen.bsky.social (Bluesky): Wow the Rivian R2 sounds amazing",
+        "url": "https://bsky.app/profile/did:plc:2kbkozqo63fxdqm5yj3qlwvs/post/3mo4kf37qcc2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T20:11:50.168Z",
+        "score": 36,
+        "snippet": "Wow the Rivian R2 sounds amazing",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Yeah that all tracks. I'm not sure I'll ever take an R2 off-road but it certainl",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mo4kcajm5225",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T20:10:11.866Z",
+        "score": 0,
+        "snippet": "Yeah that all tracks. I'm not sure I'll ever take an R2 off-road but it certainly does drive well. But the cost advantage may be negligible because Rivian is not incentivizing leases at all so there's",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@elephantgirl75.bsky.social (Bluesky): My husband has me sold on the new Rivian coming out--it comes in purple!",
+        "url": "https://bsky.app/profile/did:plc:4cyrzazjww2dnvbcdmbyn65k/post/3mo4jvagrw22v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T20:02:55.863Z",
+        "score": 0,
+        "snippet": "My husband has me sold on the new Rivian coming out--it comes in purple!",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian Lands Second Caltrans Order, Lifting Fleet Deal to $97 Million\n\nhttps://w",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mo4jqckuvn2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T20:00:10.767Z",
+        "score": 0,
+        "snippet": "Rivian Lands Second Caltrans Order, Lifting Fleet Deal to $97 Million\n\nhttps://www.evshift.com/472426/rivian-lands-second-caltrans-order-lifting-fleet-deal-to-97-million/\n\nCalifornia\u2019s Department of T",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@insideevs.com (Bluesky): On today's Plugged-In Podcast, we talk Rivian R2 driving impressions with Jason ",
+        "url": "https://bsky.app/profile/did:plc:3ez2pmoyablhgfw6rkfmv65n/post/3mo4hrwvajc2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T19:25:19.265Z",
+        "score": 8,
+        "snippet": "On today's Plugged-In Podcast, we talk Rivian R2 driving impressions with Jason Fenske, of the YouTube channel Engineering Explained.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian! eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mo4ewedyh22e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T18:34:10.165Z",
+        "score": 0,
+        "snippet": "Rivian! eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@edzitron.com (Bluesky): Silicon Valley has stopped building the future, and in many ways stopped investi",
+        "url": "https://bsky.app/profile/did:plc:qc6xzgctorfsm35w6i3vdebx/post/3mo4cdir3wk2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T17:48:08.799Z",
+        "score": 28,
+        "snippet": "Silicon Valley has stopped building the future, and in many ways stopped investing in it either. Seed stage investment has been replaced with endless follow-on cash sunk into trend-chasing and a monoc",
+        "category": "community",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@giggio.net (Bluesky): Todo dia sai de casa um malandro e um ot\u00e1rio. Esse golpe da SpaceX vai pegar mui",
+        "url": "https://bsky.app/profile/did:plc:j4i2tyqx6r5nth36h3q5q77y/post/3mo4b5bndbk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-12T17:26:28.075Z",
+        "score": 24,
+        "snippet": "Todo dia sai de casa um malandro e um ot\u00e1rio. Esse golpe da SpaceX vai pegar muito ot\u00e1rio. E um malandro velho vai de novo dar o golpe. Cai quem quer.",
+        "category": "community",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "1st Time DRIVING Rivian R2!",
+        "url": "https://youtube.com/watch?v=xIdF0qbKxqI",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T18:53:01Z",
+        "score": 0,
+        "snippet": "R2 outcompetes Tesla on camera resolution, rear visibility, ride quality, and cooled-seat performance; brisk acceleration but drive-mode UI needs refinement.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "\ud83d\udd25 RIVIAN R2 2026 ENTH\u00dcLLT! Tesla Model Y in GEFAHR? Das hat NIEMAND erwartet!",
+        "url": "https://youtube.com/watch?v=F1GxgHSW0w4",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T18:33:51Z",
+        "score": 0,
+        "snippet": "RIVIAN R2 2026 ENTH\u00dcLLT! Tesla Model Y in GEFAHR? Das hat NIEMAND erwartet! Description Der brandneue Rivian R2 ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian R2 SECRET utility discovered! Our Tesla Model Y can\u2019t do this\u2026",
+        "url": "https://youtube.com/watch?v=ngCOwdZLgQA",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T18:20:10Z",
+        "score": 0,
+        "snippet": "Rivian R2 features unique padded, configurable cargo area that functions as camping bed with hard surface, outlets, and inverter compatibility\u2014a utility advantage Model Y lacks.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "I just discovered the secret @Rivian R2 Frunk Table!!!",
+        "url": "https://youtube.com/watch?v=kYAOeKtOTkE",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T18:21:43Z",
+        "score": 0,
+        "snippet": "Rivian R2's frunk cover doubles as a table, showcasing multi-functional design for compact vehicles.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian R2 vs Tesla She Chose a Tesla - Here&#39;s Why",
+        "url": "https://youtube.com/watch?v=2daGfkK__Ak",
+        "source": "youtube",
+        "publishedAt": "2026-06-12T17:38:05Z",
+        "score": 0,
+        "snippet": "Reviewer chose Tesla Model Y over R2 primarily because Rivian's Autonomy Plus (Universal Hands-Free) is limited to freeways, cannot handle curves or city driving, and falls far behind Tesla's FSD.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "negative"
+      }
+    ]
   }
 ]
