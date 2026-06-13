@@ -1,9 +1,11 @@
 'use client';
 
+import { useState } from 'react';
 import {
-  AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
+  AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine,
 } from 'recharts';
-import type { PublishTrendPoint } from '@/lib/data';
+import type { PublishTrendPoint, PublishTrendItem } from '@/lib/data';
+import { SOURCE_LABELS } from '@/lib/types';
 
 interface Props {
   data: PublishTrendPoint[];
@@ -36,11 +38,94 @@ const CustomTooltip = ({ active, payload, label }: any) => {
           </div>
         ))}
       </div>
+      <div className="mt-2 font-mono-num text-[10px] text-[#E62429]">click to drill down ↓</div>
     </div>
   );
 };
 
+function DrillDownPanel({ point, onClose }: { point: PublishTrendPoint; onClose: () => void }) {
+  const items = point.items ?? [];
+  return (
+    <div className="mt-4 overflow-hidden rounded-lg border border-marvel-line bg-[#0C0C10]">
+      <div className="flex items-center justify-between border-b border-marvel-line bg-[#111118] px-4 py-2">
+        <div className="flex items-center gap-3">
+          <span className="font-mono-num text-[10px] uppercase tracking-[0.22em] text-[#E62429]">Drill-down</span>
+          <span className="font-mono-num text-[11px] text-claude-text">{point.label}</span>
+          <span className="flex gap-2">
+            <span className="font-mono-num text-[11px]" style={{ color: COLORS.positive }}>▲{point.positive}</span>
+            <span className="font-mono-num text-[11px]" style={{ color: COLORS.neutral }}>—{point.neutral}</span>
+            <span className="font-mono-num text-[11px]" style={{ color: COLORS.negative }}>▼{point.negative}</span>
+          </span>
+        </div>
+        <button
+          onClick={onClose}
+          className="font-mono-num text-[11px] text-claude-muted transition-colors hover:text-claude-text"
+        >
+          ✕ close
+        </button>
+      </div>
+
+      {items.length === 0 ? (
+        <div className="px-4 py-6 text-center font-mono-num text-[11px] text-claude-muted">
+          No individual signals recorded for this day.
+        </div>
+      ) : (
+        <div className="max-h-80 divide-y divide-marvel-line overflow-y-auto">
+          {items.map((item: PublishTrendItem, i) => (
+            <div key={item.url + i} className="group px-4 py-3 transition-colors hover:bg-[#111118]">
+              <div className="flex items-start gap-3">
+                <div
+                  className="mt-1 w-1.5 flex-shrink-0 rounded-full"
+                  style={{ height: '36px', backgroundColor: COLORS[item.sentiment] }}
+                />
+                <div className="min-w-0 flex-1">
+                  <div className="mb-1 flex items-center gap-2">
+                    <span className="rounded bg-[#1A1A22] px-1.5 py-0.5 font-mono-num text-[10px] text-claude-muted">
+                      {(SOURCE_LABELS as Record<string, string>)[item.source] ?? item.source}
+                    </span>
+                    <span
+                      className="rounded px-1.5 py-0.5 font-mono-num text-[10px]"
+                      style={{
+                        color: COLORS[item.sentiment],
+                        backgroundColor: COLORS[item.sentiment] + '18',
+                        border: `1px solid ${COLORS[item.sentiment]}33`,
+                      }}
+                    >
+                      {item.sentiment}
+                    </span>
+                    {item.publishedAt && (
+                      <span className="font-mono-num text-[10px] text-claude-muted/70">· {item.publishedAt}</span>
+                    )}
+                  </div>
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block text-[13px] font-semibold leading-snug text-claude-text transition-colors hover:text-[#2DD4A7]"
+                    title={item.title}
+                  >
+                    {item.title} ↗
+                  </a>
+                  {item.snippet && (
+                    <p className="mt-0.5 text-[11px] leading-relaxed text-claude-muted">{item.snippet}</p>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      <div className="border-t border-marvel-line bg-[#111118] px-4 py-2 font-mono-num text-[10px] text-claude-muted">
+        {items.length} signal{items.length !== 1 ? 's' : ''} · click any title to verify the source
+      </div>
+    </div>
+  );
+}
+
 export default function PublishSentimentTrend({ data }: Props) {
+  const [selectedDate, setSelectedDate] = useState<string | null>(null);
+
   if (!data.length) {
     return (
       <div className="flex h-[220px] items-center justify-center font-mono-num text-[11px] uppercase tracking-[0.22em] text-claude-muted">
@@ -49,44 +134,66 @@ export default function PublishSentimentTrend({ data }: Props) {
     );
   }
 
+  const selectedPoint = selectedDate ? data.find(d => d.date === selectedDate) ?? null : null;
+
+  const handleClick = (chartState: any) => {
+    const point = chartState?.activePayload?.[0]?.payload as PublishTrendPoint | undefined;
+    if (!point) return;
+    setSelectedDate(prev => (prev === point.date ? null : point.date));
+  };
+
   return (
-    <ResponsiveContainer width="100%" height={232}>
-      <AreaChart data={data} margin={{ top: 8, right: 6, left: -22, bottom: 0 }}>
-        <defs>
-          <linearGradient id="trendPos" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stopColor={COLORS.positive} stopOpacity={0.55} />
-            <stop offset="100%" stopColor={COLORS.positive} stopOpacity={0.04} />
-          </linearGradient>
-          <linearGradient id="trendNeu" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stopColor={COLORS.neutral} stopOpacity={0.4} />
-            <stop offset="100%" stopColor={COLORS.neutral} stopOpacity={0.03} />
-          </linearGradient>
-          <linearGradient id="trendNeg" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stopColor={COLORS.negative} stopOpacity={0.6} />
-            <stop offset="100%" stopColor={COLORS.negative} stopOpacity={0.04} />
-          </linearGradient>
-        </defs>
-        <CartesianGrid strokeDasharray="2 4" stroke="#1F1F27" vertical={false} />
-        <XAxis
-          dataKey="label"
-          tick={{ fill: '#7A7A86', fontSize: 10, fontFamily: 'var(--font-mono)' }}
-          tickLine={false}
-          axisLine={{ stroke: '#26262F' }}
-          interval="preserveStartEnd"
-          minTickGap={16}
-        />
-        <YAxis
-          tick={{ fill: '#7A7A86', fontSize: 10, fontFamily: 'var(--font-mono)' }}
-          tickLine={false}
-          axisLine={false}
-          allowDecimals={false}
-          width={42}
-        />
-        <Tooltip content={<CustomTooltip />} cursor={{ stroke: '#E62429', strokeWidth: 1, strokeDasharray: '3 3' }} />
-        <Area type="monotone" dataKey="negative" stackId="1" stroke={COLORS.negative} strokeWidth={1.5} fill="url(#trendNeg)" />
-        <Area type="monotone" dataKey="neutral" stackId="1" stroke={COLORS.neutral} strokeWidth={1.5} fill="url(#trendNeu)" />
-        <Area type="monotone" dataKey="positive" stackId="1" stroke={COLORS.positive} strokeWidth={1.5} fill="url(#trendPos)" />
-      </AreaChart>
-    </ResponsiveContainer>
+    <div>
+      <ResponsiveContainer width="100%" height={232}>
+        <AreaChart
+          data={data}
+          margin={{ top: 8, right: 6, left: -22, bottom: 0 }}
+          onClick={handleClick}
+          style={{ cursor: 'pointer' }}
+        >
+          <defs>
+            <linearGradient id="trendPos" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stopColor={COLORS.positive} stopOpacity={0.55} />
+              <stop offset="100%" stopColor={COLORS.positive} stopOpacity={0.04} />
+            </linearGradient>
+            <linearGradient id="trendNeu" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stopColor={COLORS.neutral} stopOpacity={0.4} />
+              <stop offset="100%" stopColor={COLORS.neutral} stopOpacity={0.03} />
+            </linearGradient>
+            <linearGradient id="trendNeg" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stopColor={COLORS.negative} stopOpacity={0.6} />
+              <stop offset="100%" stopColor={COLORS.negative} stopOpacity={0.04} />
+            </linearGradient>
+          </defs>
+          <CartesianGrid strokeDasharray="2 4" stroke="#1F1F27" vertical={false} />
+          <XAxis
+            dataKey="label"
+            tick={{ fill: '#7A7A86', fontSize: 10, fontFamily: 'var(--font-mono)' }}
+            tickLine={false}
+            axisLine={{ stroke: '#26262F' }}
+            interval="preserveStartEnd"
+            minTickGap={16}
+          />
+          <YAxis
+            tick={{ fill: '#7A7A86', fontSize: 10, fontFamily: 'var(--font-mono)' }}
+            tickLine={false}
+            axisLine={false}
+            allowDecimals={false}
+            width={42}
+          />
+          <Tooltip content={<CustomTooltip />} cursor={{ stroke: '#E62429', strokeWidth: 1, strokeDasharray: '3 3' }} />
+          {selectedPoint && (
+            <ReferenceLine x={selectedPoint.label} stroke="#E62429" strokeWidth={2} strokeDasharray="4 2" />
+          )}
+          <Area type="monotone" dataKey="negative" stackId="1" stroke={COLORS.negative} strokeWidth={1.5} fill="url(#trendNeg)" />
+          <Area type="monotone" dataKey="neutral" stackId="1" stroke={COLORS.neutral} strokeWidth={1.5} fill="url(#trendNeu)" />
+          <Area type="monotone" dataKey="positive" stackId="1" stroke={COLORS.positive} strokeWidth={1.5} fill="url(#trendPos)" />
+        </AreaChart>
+      </ResponsiveContainer>
+
+      {selectedPoint && (
+        <DrillDownPanel point={selectedPoint} onClose={() => setSelectedDate(null)} />
+      )}
+    </div>
   );
 }

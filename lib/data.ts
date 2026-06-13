@@ -427,6 +427,15 @@ export function getEffectiveDate(item: { publishedAt?: string | null }, fallback
   return new Date(fallbackTimestamp);
 }
 
+export interface PublishTrendItem {
+  title: string;
+  url: string;
+  source: string;
+  sentiment: 'positive' | 'neutral' | 'negative';
+  snippet: string;
+  publishedAt?: string | null;
+}
+
 export interface PublishTrendPoint {
   date: string;     // YYYY-MM-DD (PT)
   label: string;    // "Jun 5"
@@ -434,6 +443,7 @@ export interface PublishTrendPoint {
   neutral: number;
   negative: number;
   total: number;
+  items: PublishTrendItem[];
 }
 
 /**
@@ -443,7 +453,7 @@ export interface PublishTrendPoint {
  */
 export function getSentimentByPublishDate(days = 21): PublishTrendPoint[] {
   const seen = new Set<string>();
-  const buckets = new Map<string, { positive: number; neutral: number; negative: number }>();
+  const buckets = new Map<string, { positive: number; neutral: number; negative: number; items: PublishTrendItem[] }>();
 
   for (const r of validReports) {
     for (const item of r.items ?? []) {
@@ -452,10 +462,19 @@ export function getSentimentByPublishDate(days = 21): PublishTrendPoint[] {
       seen.add(url);
       const d = getEffectiveDate(item, r.timestamp);
       const key = ptDayKey(d);
-      const b = buckets.get(key) ?? { positive: 0, neutral: 0, negative: 0 };
+      const b = buckets.get(key) ?? { positive: 0, neutral: 0, negative: 0, items: [] };
       const s = item.sentiment;
-      if (s === 'positive' || s === 'negative') b[s] += 1;
-      else b.neutral += 1;
+      const sentiment: PublishTrendItem['sentiment'] =
+        s === 'positive' || s === 'negative' ? s : 'neutral';
+      b[sentiment] += 1;
+      b.items.push({
+        title: item.title,
+        url: item.url,
+        source: item.source,
+        sentiment,
+        snippet: item.snippet,
+        publishedAt: item.publishedAt ?? null,
+      });
       buckets.set(key, b);
     }
   }
@@ -471,6 +490,10 @@ export function getSentimentByPublishDate(days = 21): PublishTrendPoint[] {
       day: 'numeric',
       timeZone: 'UTC',
     });
-    return { date: key, label, positive: b.positive, neutral: b.neutral, negative: b.negative, total: b.positive + b.neutral + b.negative };
+    const sortedItems = [...b.items].sort((x, y) => {
+      const order = { negative: 0, neutral: 1, positive: 2 };
+      return order[x.sentiment] - order[y.sentiment];
+    });
+    return { date: key, label, positive: b.positive, neutral: b.neutral, negative: b.negative, total: b.positive + b.neutral + b.negative, items: sortedItems };
   });
 }
