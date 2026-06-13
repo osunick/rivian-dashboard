@@ -21511,5 +21511,276 @@
         "sentiment": "neutral"
       }
     ]
+  },
+  {
+    "id": "2026-06-13T18:03:37.766064Z",
+    "timestamp": "2026-06-13T18:03:37.766064Z",
+    "sentiment": {
+      "positive": 36,
+      "neutral": 54,
+      "negative": 9
+    },
+    "sources": {
+      "news": {
+        "found": 22,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "In depth R2 Audio test with EQ settings - compared to Polestar Bowers and Wilkins",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4wziv/in_depth_r2_audio_test_with_eq_settings_compared/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T17:34:31.172Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Free all weather mats for 2026 R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4wmt1/free_all_weather_mats_for_2026_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T17:20:19.445Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "No reservation- how long would wait for launch edition?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4vpzc/no_reservation_how_long_would_wait_for_launch/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T16:44:02.504Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "First time using the air compressor--flawless, easy",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4vnhg/first_time_using_the_air_compressorflawless_easy/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T16:41:18.580Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Any Rivian technicians here to answer something. Just had vehicle in for repair.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4tm9s/any_rivian_technicians_here_to_answer_something/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T15:19:10.385Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Used 2023 R1S Quad Motor vs new R2 ?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4tcio/used_2023_r1s_quad_motor_vs_new_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T15:07:53.054Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@rankednews.bsky.social (Bluesky): Will Higher Oil Prices Drive Growth for Rivian Stock?: Rivian (NASDAQ: RIVN) is ",
+        "url": "https://bsky.app/profile/did:plc:42han5exrxyrgdsbwosrp7sy/post/3mo6tiyjvkg2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T18:00:22.169Z",
+        "score": 0,
+        "snippet": "Will Higher Oil Prices Drive Growth for Rivian Stock?: Rivian (NASDAQ: RIVN) is at a critical juncture as it pivots from a niche luxury brand to a volume producer with the launch of the R2 electric SU",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Do Higher Oil Prices Mean Rivian Stock Will Finally Mount a Rebound?\n\nhttps://ww",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mo6tiniwmw22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T18:00:10.468Z",
+        "score": 0,
+        "snippet": "Do Higher Oil Prices Mean Rivian Stock Will Finally Mount a Rebound?\n\nhttps://www.evshift.com/472954/do-higher-oil-prices-mean-rivian-stock-will-finally-mount-a-rebound/\n\nThe sales of used electric ve",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@guico.net (Bluesky): For whatever reason I thought for sure you\u2019d have driven a Rivian by now!",
+        "url": "https://bsky.app/profile/did:plc:5iu4txvtpisxo6kqhrl5p2hc/post/3mo6tifc7722a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T18:00:01.660Z",
+        "score": 0,
+        "snippet": "For whatever reason I thought for sure you\u2019d have driven a Rivian by now!",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@eric14howell.bsky.social (Bluesky): Yeah i rented a mach-e. It left a lot to be desired from a driving experience. B",
+        "url": "https://bsky.app/profile/did:plc:cqnaigv5yagxmcqngipw2fkt/post/3mo6pt5aeqs26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T16:54:27.762Z",
+        "score": 0,
+        "snippet": "Yeah i rented a mach-e. It left a lot to be desired from a driving experience. But I've owned a tesla for 6 years. Doing a demo drive of Rivian R2 in 2 horus!",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@comraderobot.bsky.social (Bluesky): okay even with a chonky 2021 model year trade in i would need some Very Good New",
+        "url": "https://bsky.app/profile/did:plc:jn2c6bcr5rcwlmfcfn5k37sm/post/3mo6neqpmac24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T16:10:38.672Z",
+        "score": 6,
+        "snippet": "okay even with a chonky 2021 model year trade in i would need some Very Good News to get a rivian monthly payment down to a comfortable length and size",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@marketwirenews.com (Bluesky): BREAKING NEWS: ( NASDAQ: $RIVN ) Do Higher Oil Prices Mean Rivian Stock Will Fin",
+        "url": "https://bsky.app/profile/did:plc:hxjzi7mnsedfpxcz7ebinndv/post/3mo6mttg3oy2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T16:01:09.362Z",
+        "score": 0,
+        "snippet": "BREAKING NEWS: ( NASDAQ: $RIVN ) Do Higher Oil Prices Mean Rivian Stock Will Finally Mount a Rebound?\n\n",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@kiloqubit.com (Bluesky): @rivianofficial.bsky.social can we get the ability to display range in battery p",
+        "url": "https://bsky.app/profile/did:plc:hohh3jdjluqeaynxglb7jobk/post/3mo6lukmguc26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T15:43:44.462Z",
+        "score": 0,
+        "snippet": "@rivianofficial.bsky.social can we get the ability to display range in battery percent instead of miles in the app planner?  I have it set to percent in the truck, but the app planner still shows mile",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@kevthebuilder.bsky.social (Bluesky): Looks like the Rivian R3X",
+        "url": "https://bsky.app/profile/did:plc:jnrczqnj5gq7s5fdqawzawuk/post/3mo6ky27tts23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T15:27:42.666Z",
+        "score": 0,
+        "snippet": "Looks like the Rivian R3X",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@on-tannhausergate.bsky.social (Bluesky): I\u2019ve had solar since 2017. I used to not have any electric bills at all then I g",
+        "url": "https://bsky.app/profile/did:plc:t6mvdyjtqfdocyca2qqgnmy6/post/3mo6j4yllhs2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T14:54:42.162Z",
+        "score": 3,
+        "snippet": "I\u2019ve had solar since 2017. I used to not have any electric bills at all then I got my Rivian so now I do but not anything like I would have.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Rivian is the ultimate Swiss Army knife",
+        "url": "https://youtube.com/watch?v=2UNI7-h0n04",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T16:57:42Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "How the Rivian R2 improved on the R1S",
+        "url": "https://youtube.com/watch?v=nSmZYKkbrjg",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T16:52:57Z",
+        "score": 0,
+        "snippet": "R2 replaces R1S's McLaren suspension with coil springs and eliminates motorized features (console, electronic charge port) to reduce maintenance costs, targeting cost-conscious buyers.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian Stereo Fix!!!",
+        "url": "https://youtube.com/watch?v=glPUZOnS9R0",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T16:42:40Z",
+        "score": 0,
+        "snippet": "Rivian R1T/R1S stereo presets are poor; owners bypass native audio software using Spotify's equalizer for acceptable sound, indicating infotainment system quality gap.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Would you take a Rivian R2 over a Tesla model y?",
+        "url": "https://youtube.com/watch?v=sOch9Fvl5pI",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T15:30:15Z",
+        "score": 0,
+        "snippet": "Rivian R2: $45k base/$60k loaded, 345-mi range, dual-motor 656 hp (3.6s 0-60), premium interior with extensive storage and rooftop tent versus Tesla Model Y.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I Wouldn&#39;t Wait for the LiDAR Rivian R2",
+        "url": "https://youtube.com/watch?v=P9rLD9BM0Y4",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T14:33:39Z",
+        "score": 0,
+        "snippet": "R2 Gen 2 launches without LiDAR; LiDAR variant planned but no immediate advantage since both share autonomy roadmap\u2014LiDAR fleet data improves all vehicles through shared AI model training.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian Owners SWEAR By This Unique Feature \ud83d\ude33",
+        "url": "https://youtube.com/watch?v=HlZ7LYVbHQM",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T14:23:34Z",
+        "score": 0,
+        "snippet": "Rivian's Gear Guard cable\u2014integrated cargo security that locks with the vehicle\u2014is the #1 customer inquiry, suggesting strong market differentiation vs. competitors.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian's CEO on Tesla's Cybertruck, Ferrari's Luce, and What Happens If the R2",
+        "url": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
+        "source": "hackernews",
+        "publishedAt": "2026-06-13T17:07:10Z",
+        "score": 2,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
