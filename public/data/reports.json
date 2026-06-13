@@ -21152,5 +21152,364 @@
         "sentiment": "positive"
       }
     ]
+  },
+  {
+    "id": "2026-06-13T14:03:07.577198Z",
+    "timestamp": "2026-06-13T14:03:07.577198Z",
+    "sentiment": {
+      "positive": 74,
+      "neutral": 16,
+      "negative": 9
+    },
+    "sources": {
+      "news": {
+        "found": 31,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 23,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Weird Software Issues",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4rh0g/weird_software_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T13:49:00.476Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Pictures of Storm Blue in gloss PPF?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4r9fe/pictures_of_storm_blue_in_gloss_ppf/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T13:39:40.154Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe on the R2, robotics & the future of EVs",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4ql7f/rivian_ceo_rj_scaringe_on_the_r2_robotics_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T13:09:50.062Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Digital key is an absolute disaster (iOS)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4qev3/digital_key_is_an_absolute_disaster_ios/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T13:01:55.331Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative"
+      },
+      {
+        "title": "[MEGATHREAD] Saturday Switchers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4qdri/megathread_saturday_switchers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T13:00:42.513Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "King of Prussia has R2 demo rides today!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4q5bt/king_of_prussia_has_r2_demo_rides_today/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T12:49:41.713Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Mirrors remains closed - clear camera error",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u4pcvy/mirrors_remains_closed_clear_camera_error/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T12:11:34.356Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
+        "url": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html",
+        "source": "cnbc_top",
+        "publishedAt": "Sat, 13 Jun 2026 12:00:01 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00bDZiX0ZyZElocFhTOU42cmlDc1FHVDJxdjZiMktQSkIwdWJnNkRRaTlLUzExbkZUWFVSSVB6LVhNSHdERGlvcDJLX3doNHloSGdtSXFfQnFydVhxRC1zNlh0YmxfOUhxMllV0gFwQVVfeXFMT2RrU2NaX1ROMWQ3UloyNnd1OVRfT3lSYUQwWkxuM2I2dUxrZ256dEVFTnlWek1lOHR6WEhOdjBtY0pXcklieElXdDA4a1ZlWWltYjJoTEtQTTBQdTNaVFJqSjRQNFhUQ2ZGS1MzN3gzdw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 13 Jun 2026 12:00:01 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company - CNBC",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian Automotive, Inc. $RIVN is Y Intercept Hong Kong Ltd's 7th Largest Position - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkE3Sy04Z0tQZnctYnc0XzBaMnhSdnRwaUYzd1pGd01yeTNjY1JsVnhMa25XZEVza0I2OW9pTWM2SmhMcjFoRGdieHluMVNYSDJ3bm52aVJVWEZpZ1lwLUdaNEV4Y2FoZlhtT3ZyMDFXWTJ5UEJGajJWRHpWem9ndC1IOUM5T1YwXzJOb1lZcG4zc0UzdHIxaTRNSERjOVM4UV80eGVoYjV6RGl0RVEzT1VYTld5Z1VlckFhR0F5Q0UzTERnaVFEX3VfVm55cnhMd3FraQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 13 Jun 2026 11:42:44 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive, Inc. $RIVN is Y Intercept Hong Kong Ltd's 7th Largest Position - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Circle Wealth Management LLC Takes Position in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0JONzA5enI4ZXlORWw1VW9NdmRaNkRwSWptV3JlZXJLQnl5alM0ajBRRkZOaVZ6c21zQVJtS2UyQTlHX2NVSGw1Q1BDc2d4Uy13SjVpbzUzeDlfUHhDZEFWQ3p5Qk41NlhaYm00SWpnVEVNWWRRQWliaWhTSnZpR0xSYjBwX3JqTk1FRVV2aFp5WTlQZTV2cjZUVkNRaHNxN25ESVdaTFFNdTFfbng1aTA4Y0VpbjJ3VllUckJlWXlIeDhHT2V6ZGMzbXcxYXc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 13 Jun 2026 08:13:34 GMT",
+        "score": 0,
+        "snippet": "Circle Wealth Management LLC Takes Position in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian starts R2 deliveries with its real test still ahead - Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0d4RGZYcm5JZnZtcVp3SW9zZkQ2UDhva2VPMHY1Z1dQeUE1N015SFNJV25KamFiX0FYaWM3MjZ4QWRhQ0IyYUw3TEswNjZtY3lQbVJhclpMT0lBVXQyQTlnWTg5d1ozNHJnU3cwZTVGVDhLeTF3Y1Y4SUNteks0ZU1FbVV5Z180RFdlX3NpTQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sat, 13 Jun 2026 10:31:31 GMT",
+        "score": 0,
+        "snippet": "Rivian starts R2 deliveries with its real test still ahead - Startup Fortune",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@elon.mu.sk (Bluesky): Rivian CEO RJ Scaringe started a robotics company late last year called Mind Rob",
+        "url": "https://bsky.app/profile/did:plc:zif6is44fylzyi5zhn3agvej/post/3mo6ctpwxyl2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T13:02:07.870Z",
+        "score": 1,
+        "snippet": "Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion. #elon #musk #elonmusk\nhttps://mu.sk/MW6m",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@eu-people.bsky.social (Bluesky): Rivian CEO takes different approach than Elon Musk for humanoid robots\n\nhttps://",
+        "url": "https://bsky.app/profile/did:plc:rwuqizds4m5nwuvmnhgbriol/post/3mo6c6lyahk2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T12:50:19.474Z",
+        "score": 0,
+        "snippet": "Rivian CEO takes different approach than Elon Musk for humanoid robots\n\nhttps://www.europesays.com/people/112309/\n\nHumanoid industrial robot are on display at the humanoid robot data training center i",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@news.invalid-handle.com (Bluesky): Rivian CEO RJ Scaringe launched robotics firm Mind Robotics. SpaceX plans a 75 b",
+        "url": "https://bsky.app/profile/did:plc:erqcnbfqfpaf3fuuszspmhnk/post/3mo67mhksnx2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T12:04:22.967Z",
+        "score": 1,
+        "snippet": "Rivian CEO RJ Scaringe launched robotics firm Mind Robotics. SpaceX plans a 75 billion dollar IPO. New York Knicks reach the NBA Finals. Anthropic suspended AI models for non-U.S. users. Ione Belarra ",
+        "category": "business",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@bradporcellato.bsky.social (Bluesky): \n\nRivian CEO taking different approach than Elon Musk for humanoid robotics comp",
+        "url": "https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mo67med2bu25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T12:04:19.572Z",
+        "score": 0,
+        "snippet": "\n\nRivian CEO taking different approach than Elon Musk for humanoid robotics company https://t.co/zHGH9pBIez\n\n  \u2014 Brad Porcellato (@BradPorcellato)\n  Jun 13, 2026\n\nJune 13, 2026 at 05:02AM\n\nvia Twitter",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@cnbc.com (Bluesky): Rivian CEO taking different approach than Elon Musk for humanoid robotics compan",
+        "url": "https://bsky.app/profile/did:plc:m7ks2xhfuku7errrtfjux2lg/post/3mo67kl2nh72g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T12:03:19.870Z",
+        "score": 3,
+        "snippet": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@jmahlman.bsky.social (Bluesky): It\u2019s finally happening! #rivian #rivianR2",
+        "url": "https://bsky.app/profile/did:plc:xvydzmmdoffwl3fapu2x73hw/post/3mo67jheegk2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T12:02:44.472Z",
+        "score": 1,
+        "snippet": "It\u2019s finally happening! #rivian #rivianR2",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@tiffanyclay.dev (Bluesky): I dreamt last night that Rivian made a G-Wagon EV for Mercedes and Elon Musk sho",
+        "url": "https://bsky.app/profile/did:plc:wxesy5dxtsjsdc6pra5fwnhc/post/3mo66c5k6l22q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T11:40:43.368Z",
+        "score": 1,
+        "snippet": "I dreamt last night that Rivian made a G-Wagon EV for Mercedes and Elon Musk showed up to an event here in Austin driving one of them",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@slashgear.bsky.social (Bluesky): As EVs have become more common, finding ways to reduce battery waste has become ",
+        "url": "https://bsky.app/profile/did:plc:ashibln7aawnyzaz4sbk75tw/post/3mo64z42sos2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T11:17:46.761Z",
+        "score": 0,
+        "snippet": "As EVs have become more common, finding ways to reduce battery waste has become increasingly important. Rivian is pursuing a resourceful idea.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@gigowat.bsky.social (Bluesky): SlashGear \u3088\u308a\n\nRivian Is Reusing Its Own Car Batteries In A Very Resourceful Way\n",
+        "url": "https://bsky.app/profile/did:plc:dwecjm5n7fyljcjk3vi7x5oa/post/3mo63qdbckj2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T10:54:57.965Z",
+        "score": 0,
+        "snippet": "SlashGear \u3088\u308a\n\nRivian Is Reusing Its Own Car Batteries In A Very Resourceful Way\nRivian\u306f\u3001\u975e\u5e38\u306b\u30ea\u30bd\u30fc\u30b9\u30d5\u30eb\u306a\u65b9\u6cd5\u3067\u81ea\u793e\u306e\u8eca\u306e\u30d0\u30c3\u30c6\u30ea\u30fc\u3092\u518d\u5229\u7528\u3057\u3066\u3044\u307e\u3059\n",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "2026 Rivian R1S | The Ultimate Electric SUV",
+        "url": "https://youtube.com/watch?v=MPgePDKLZ_I",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T13:30:32Z",
+        "score": 0,
+        "snippet": "2026 R1S marketed as premium luxury-adventure SUV (city/off-road) through design-forward strategy; no specs disclosed, positioning emphasizes experience.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "2027 Rivian R3X Just Shocked the Car Industry! \u26a1\ud83d\udd25",
+        "url": "https://youtube.com/watch?v=DME3_9omOC8",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T13:30:20Z",
+        "score": 0,
+        "snippet": "The 2027 Rivian R3X is here and it looks ready to take on every hot hatch and electric SUV on the road. With aggressive styling ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Launching the 2026 Rivian R2 | 0-60mph",
+        "url": "https://youtube.com/watch?v=TSpd2MPyxpk",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T13:30:10Z",
+        "score": 0,
+        "snippet": "Had a chance to test drive the all new Rivian R2 and it did not disappoint with its build quality or the performance.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian pariaz\u0103 pe robo\u021bi umanoizi: Solu\u021bia la criza de personal \u0219i automatizare? #Shorts",
+        "url": "https://youtube.com/watch?v=Udm0t_3Rrm8",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T12:35:03Z",
+        "score": 0,
+        "snippet": "Rivian \u00eenfiin\u021beaz\u0103 Mind Robotics pentru a integra robo\u021bi umanoizi \u00een uzine, abord\u00e2nd criza de personal \u0219i automatizarea.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian R2 livrat. R3X vine in 2028, inaintea lui R3 \u2013 o strategie clara. #Shorts",
+        "url": "https://youtube.com/watch?v=HLecw1bzi6M",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T12:05:46Z",
+        "score": 0,
+        "snippet": "Rivian a \u00eenceput livr\u0103rile modelului R2 \u00een America, consolid\u00e2ndu-\u0219i prezen\u021ba pe pia\u021ba EV. CEO-ul RJ Scaringe a confirmat ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "RIVIAN \u015e\u0130RK\u018fT\u0130N\u0130N G\u018fL\u018fC\u018fY\u0130 YEN\u0130 R2 MODEL\u0130ND\u018fN ASILIDIR",
+        "url": "https://youtube.com/watch?v=fA3vxxGMaSA",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T10:09:29Z",
+        "score": 0,
+        "snippet": "\u018fslind\u0259, Tesla-n\u0131n dominantl\u0131q etdiyi bazarda Rivian-\u0131n i\u015fi he\u00e7 d\u0259 asan deyil. Kim bilir, b\u0259lk\u0259 d\u0259 bu riskli gedi\u015f onlar\u0131 g\u0259l\u0259c\u0259yin \u0259n ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\u2757\ufe0fRIVIAN R2 DEMO DRIVES BEGIN \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=gL0Z6qh0VWs",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T10:00:17Z",
+        "score": 0,
+        "snippet": "Rivian R2 demo drive bookings open June 9th, prioritizing existing reservation holders but available to all at Rivian spaces nationwide.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Podcast: Rivian R2 1st drive, BYD  flash charging, Donut Lab\u2019s miracle battery is dead, and more",
+        "url": "https://youtube.com/watch?v=uJKSZ8q0jhA",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T09:36:46Z",
+        "score": 0,
+        "snippet": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week's episode ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "\u2757\ufe0fVIDEO: TOP 10 FEATURES OF RIVIAN R2 \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=z4fgy4a9GO0",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T08:00:28Z",
+        "score": 0,
+        "snippet": "R2 launch video emphasizes interior convenience (frunk, flexible seating, MagSafe, haptic controls) over performance/autonomy, signaling practical-first positioning for value-conscious family buyers.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Peugeot E-208 GTi, Rivian R2 Electric SUV, Tesla FSD, Backpulver  Tagesthema Elektromobilit\u00e4t Nr.668",
+        "url": "https://youtube.com/watch?v=rDvWYkNPpIY",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T08:00:39Z",
+        "score": 0,
+        "snippet": "Jede Woche meine Gedanken zu einem Thema im Bereich der Elektromobilit\u00e4t. 00:00 Einleitung 00:40 Agenda 01:02 Tesla FSD ...",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      }
+    ]
   }
 ]
