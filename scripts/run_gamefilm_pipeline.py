@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-GameFilm Pipeline - No LLM required.
-Fetches data, builds report, formats brief.
+GameFilm Pipeline.
+Fetches data, classifies sentiment (claude CLI, keyword fallback), builds report, formats brief.
 Delivery is handled separately by scripts/send_gamefilm_signal.py so it can send
 directly to Signal and WhatsApp without relying on agent-session visibility.
 """
@@ -12,6 +12,15 @@ REPORTS_JSON = "/Users/osunick/.openclaw/workspace/rivian-dashboard/public/data/
 FETCH_LOG = "/tmp/gamefilm_fetch.log"
 RAW_JSON = "/tmp/gamefilm_raw.json"
 BRIEF_FILE = "/tmp/gamefilm_brief.txt"
+
+# Locally OAuth-authenticated `claude` CLI (Haiku) for sentiment — no API key.
+CLAUDE_BIN = os.environ.get('CLAUDE_BIN', '/opt/homebrew/bin/claude')
+SENTIMENT_MODEL = 'claude-haiku-4-5'
+SENTIMENT_BATCH = 40        # items per LLM call (bounds prompt size + latency)
+# Opus authors the brief itself (synthesis, not template). Falls back to the
+# deterministic compose_brief() below on any failure.
+BRIEF_MODEL = 'claude-opus-4-8'
+BRIEF_MAX_ITEMS = 60        # cap items handed to the briefing model (bounds prompt)
 
 def run(cmd, timeout=60):
     try:
@@ -165,6 +174,126 @@ def classify_sentiment(item):
         return 'negative'
     return 'neutral'
 
+def _llm_sentiment_batch(batch):
+    """Classify one batch via the claude CLI. Returns {local_index: sentiment} for
+    indices the model returned validly, or {} on any failure (caller falls back)."""
+    lines = []
+    for idx, it in enumerate(batch):
+        cat = it.get('category', 'other')
+        text = (it.get('title', '') + ' — ' + (it.get('snippet') or '')).strip()
+        lines.append(f"{idx} [{cat}]: {text[:240]}")
+    prompt = (
+        "You are a competitive-intelligence analyst for Rivian's product team. "
+        "Classify each item's sentiment from RIVIAN's strategic perspective:\n"
+        '- "positive": good for Rivian (strong sales/deliveries, profit, wins, praise, '
+        "favorable reviews, OR a competitor stumbling).\n"
+        '- "negative": bad for Rivian (recalls, lawsuits, losses, defects, complaints, '
+        "missed targets, OR a competitor winning/advancing — a competitive threat).\n"
+        '- "neutral": purely factual, ambiguous, or not consequential either way.\n'
+        "The bracketed tag is the item's category; 'competitive' items are about rivals, "
+        "so judge them as threats/relief to Rivian.\n"
+        'Return ONLY a JSON array of {"i":<index>,"s":"positive|negative|neutral"} — no prose, no markdown.\n\n'
+        + "\n".join(lines)
+    )
+    try:
+        r = subprocess.run(
+            [CLAUDE_BIN, '-p', '--model', SENTIMENT_MODEL, prompt],
+            capture_output=True, text=True, timeout=120,
+        )
+        out = (r.stdout or '').strip()
+        if r.returncode != 0 or not out:
+            print(f"[sentiment] LLM rc={r.returncode}: {(r.stderr or '')[:200]}", file=sys.stderr)
+            return {}
+        start, end = out.find('['), out.rfind(']')
+        if start == -1 or end == -1:
+            return {}
+        parsed = json.loads(out[start:end + 1])
+        result = {}
+        for obj in parsed:
+            i = obj.get('i')
+            s = obj.get('s')
+            if isinstance(i, int) and 0 <= i < len(batch) and s in ('positive', 'negative', 'neutral'):
+                result[i] = s
+        return result
+    except Exception as e:
+        print(f"[sentiment] LLM failed: {e}", file=sys.stderr)
+        return {}
+
+def assign_sentiments(items):
+    """Set item['sentiment'] for every item using the LLM, batched. Any item the
+    LLM doesn't return falls back to the keyword classifier so nothing is missed."""
+    for start in range(0, len(items), SENTIMENT_BATCH):
+        batch = items[start:start + SENTIMENT_BATCH]
+        mapped = _llm_sentiment_batch(batch)
+        for idx, it in enumerate(batch):
+            it['sentiment'] = mapped.get(idx) or classify_sentiment(it)
+
+def compose_brief_llm(items, sentiment, ts):
+    """Have Opus author the brief from the scraped items (real synthesis, not a
+    template). Returns the brief string, or None on any failure so the caller can
+    fall back to the deterministic compose_brief()."""
+    neg = sentiment.get('negative', 0)
+    threat = sentiment_label(neg)
+    header = f"🎬 *GameFilm — Rivian Intel*\n_{format_date(ts)} — {format_time(ts)} — {len(items)} signals_"
+    footer = f"_Threat: {threat}_\n_Dashboard: https://watchgamefilm.vercel.app_"
+
+    by_cat = {}
+    for it in items[:BRIEF_MAX_ITEMS]:
+        by_cat.setdefault(it.get('category', 'other'), []).append(it)
+
+    data_lines = []
+    for cat, cat_items in by_cat.items():
+        data_lines.append(f"\n## {cat} ({len(cat_items)})")
+        for it in cat_items:
+            sent = it.get('sentiment', 'neutral')
+            snip = clean_snippet(it.get('snippet'))
+            title = (it.get('title') or '').strip()
+            url = it.get('url', '')
+            data_lines.append(f"- [{sent}] {title} — {snip} {('<' + url + '>') if url else ''}".strip())
+    data_block = "\n".join(data_lines) if data_lines else "(no items)"
+
+    prompt = (
+        "You are a competitive-intelligence analyst writing a tactical brief for "
+        "Rivian's product team. Synthesize the scraped signals below into a sharp, "
+        "skimmable brief — connect dots, surface what actually matters to a Rivian PM, "
+        "and call out implications, not just headlines. Be specific and concise.\n\n"
+        "OUTPUT RULES (this is sent over Signal/WhatsApp):\n"
+        "- Plain text only. Use *single asterisks* for bold (not **). No markdown tables, no headers with #.\n"
+        "- Keep the emoji section structure: 🎯 SITREP (2-4 bullets: top competitor move, Rivian's position, key risk), "
+        "then a ━━━━━━━━━━ divider, ⚔️ FIELD INTELLIGENCE (the most consequential competitor items, with implication for Rivian), "
+        "🚗 RIVIAN POSITION (group by 🤖 Autonomy / 🚗 Vehicles / 💰 Business / 📱 Software / 🌐 Community as relevant), "
+        "another divider, then 📌 PM WATCH LIST (3-6 forward-looking bullets — what to track next).\n"
+        "- Include the source URL in <angle brackets> on its own line under any item you cite, so the link stays clickable.\n"
+        "- Start your output with EXACTLY this header, then a blank line:\n" + header + "\n"
+        "- End your output with EXACTLY these two lines:\n" + footer + "\n"
+        "- Output ONLY the brief text. No preamble, no code fences, no commentary.\n\n"
+        f"SENTIMENT MIX: {sentiment}\n"
+        "SIGNALS:\n" + data_block
+    )
+
+    try:
+        r = subprocess.run(
+            [CLAUDE_BIN, '-p', '--model', BRIEF_MODEL, prompt],
+            capture_output=True, text=True, timeout=240,
+        )
+        out = (r.stdout or '').strip()
+        if r.returncode != 0 or not out:
+            print(f"[brief] LLM rc={r.returncode}: {(r.stderr or '')[:200]}", file=sys.stderr)
+            return None
+        # Strip accidental code fences
+        if out.startswith('```'):
+            out = out.split('\n', 1)[-1]
+            if out.rstrip().endswith('```'):
+                out = out.rstrip()[:-3].rstrip()
+        # Sanity: must look like the brief, not a refusal/explanation
+        if 'GameFilm' not in out or 'watchgamefilm.vercel.app' not in out:
+            print("[brief] LLM output failed sanity check; falling back", file=sys.stderr)
+            return None
+        return out.strip()
+    except Exception as e:
+        print(f"[brief] LLM failed: {e}", file=sys.stderr)
+        return None
+
 def compose_brief(items, sentiment, ts):
     pos = sentiment.get('positive', 0)
     neg = sentiment.get('negative', 0)
@@ -269,8 +398,8 @@ def main():
         for item in items:
             # Always re-classify — category from fetch may be stale
             item['category'] = guess_category(item)
-            # Re-classify sentiment every run (category-dependent, may have been stale neutral)
-            item['sentiment'] = classify_sentiment(item)
+        # Sentiment via LLM (Rivian-perspective), batched, keyword fallback per item
+        assign_sentiments(items)
 
         s = {'positive':0,'neutral':0,'negative':0}
         for i in items: s[i.get('sentiment','neutral')] = s.get(i.get('sentiment','neutral'),0)+1
@@ -325,8 +454,13 @@ def main():
             if reports: items = reports[-1].get('items',[])
         except: pass
 
-    # Compose brief
-    brief = compose_brief(items, sentiment, now_ts)
+    # Compose brief — Opus authors it; deterministic template is the fallback.
+    brief = compose_brief_llm(items, sentiment, now_ts)
+    if brief:
+        print("[4] Brief authored by Opus")
+    else:
+        brief = compose_brief(items, sentiment, now_ts)
+        print("[4] Brief composed by template fallback")
     with open(BRIEF_FILE, 'w') as f: f.write(brief)
     print(f"[4] Brief written to {BRIEF_FILE}")
     print(f"\n{brief}\n")
