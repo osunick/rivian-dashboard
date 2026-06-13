@@ -491,7 +491,7 @@ export function getSentimentByPublishDate(days = 21): PublishTrendPoint[] {
       timeZone: 'UTC',
     });
     const sortedItems = [...b.items].sort((x, y) => {
-      const order = { negative: 0, neutral: 1, positive: 2 };
+      const order = { positive: 0, neutral: 1, negative: 2 };
       return order[x.sentiment] - order[y.sentiment];
     });
     return { date: key, label, positive: b.positive, neutral: b.neutral, negative: b.negative, total: b.positive + b.neutral + b.negative, items: sortedItems };
