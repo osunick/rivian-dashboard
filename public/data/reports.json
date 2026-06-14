@@ -22050,5 +22050,215 @@
         "sentiment": "positive"
       }
     ]
+  },
+  {
+    "id": "2026-06-14T02:03:29.979483Z",
+    "timestamp": "2026-06-14T02:03:29.979483Z",
+    "sentiment": {
+      "positive": 62,
+      "neutral": 25,
+      "negative": 12
+    },
+    "sources": {
+      "news": {
+        "found": 16,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Absurd experience",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u56ucn/absurd_experience/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T00:40:44.877Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "R1T delivery this morning!!!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u55nhy/r1t_delivery_this_morning/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T23:43:26.075Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Tire Swap 21\u201d",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5570c/tire_swap_21/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T23:21:48.951Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Yet another R2 demo review",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u54mx1/yet_another_r2_demo_review/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T22:56:09.806Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Test drove the R2, coming from a BMW iX",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u53eah/test_drove_the_r2_coming_from_a_bmw_ix/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-13T21:58:36.555Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@dvdham.bsky.social (Bluesky): And you could start it with a crank if the battery was dead. Not going to be abl",
+        "url": "https://bsky.app/profile/did:plc:zrp4erej3hnpcglt5yarmvkm/post/3mo7moisvhc22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T01:30:47.872Z",
+        "score": 0,
+        "snippet": "And you could start it with a crank if the battery was dead. Not going to be able to do that with a Rivian.",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Lots of people say Rivian's autonomy timeline is impossible. RJ just put real da",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mo7knqoq4s2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T00:54:39.668Z",
+        "score": 9,
+        "snippet": "Lots of people say Rivian's autonomy timeline is impossible. RJ just put real dates on it at the Masters of Scale podcast, Point-to-Point this year and eyes off next year. I am still bullish, I've inc",
+        "category": "autonomy",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@rochbourassa.bsky.social (Bluesky): Or, how Wall Street did not want to take away from Elmo\u2019s big day on Friday.\n\nEl",
+        "url": "https://bsky.app/profile/did:plc:vatvftpuqdhos7rc4jkg3pbs/post/3mo7jh4nnv22k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T00:33:05.877Z",
+        "score": 0,
+        "snippet": "Or, how Wall Street did not want to take away from Elmo\u2019s big day on Friday.\n\nElmo has real competition and Wall Street may have buckled / pandered to Elmo\u2019s trillionaire vanity!\n\nRivian has a solid p",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian the beast!",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mo7eyrv6rs2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T23:13:29.076Z",
+        "score": 1,
+        "snippet": "Rivian the beast!",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Dammit. There goes $500 for this Rivian service.\n\nI\u2019m wondering if I should try ",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mo7cifqrnc2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T22:28:29.863Z",
+        "score": 0,
+        "snippet": "Dammit. There goes $500 for this Rivian service.\n\nI\u2019m wondering if I should try the new Sodium Ion 12V batteries from Ohmmu.",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): New Rivian service center coming to Redwood City here:\n\n860 Charter St",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mo7bdr3h3s2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-13T22:08:00.876Z",
+        "score": 1,
+        "snippet": "New Rivian service center coming to Redwood City here:\n\n860 Charter St",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian- the All American Adventure",
+        "url": "https://youtube.com/watch?v=Xdj3HUHb2ac",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T01:27:43Z",
+        "score": 0,
+        "snippet": "No decision-relevant product intel: transcript contains only cultural commentary/lyrics about American lifestyle, no vehicle specs, pricing, autonomy status, or competitive information.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The @Rivian  R2 should NOT be able to do this \ud83e\udd2f\ud83c\udfd4\ufe0f",
+        "url": "https://youtube.com/watch?v=fll_obkHpgw",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T00:00:17Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "The Rivian R2 Production Model Is Completely Different Than The Reveal",
+        "url": "https://youtube.com/watch?v=PlNdpen50Dk",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T23:45:01Z",
+        "score": 0,
+        "snippet": "R2 launches H1 2026 at $45k base from Normal, IL with LG cells enabling 300+ mi range; tri-motor torque vectoring unmatched at price; significant feature cuts from reveal including non-folding seats.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian&#39;s Custom Chip: The Future of Autonomy Revealed #shorts",
+        "url": "https://youtube.com/watch?v=ayQy8gaEQHI",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T22:59:28Z",
+        "score": 0,
+        "snippet": "Rivian announced December development of custom in-house autonomy chip, shifting from third-party vendors to vertically integrate core self-driving hardware for next-gen platform.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Jason Fenske from Engineering Explained on the Rivian R2",
+        "url": "https://youtube.com/watch?v=mmQ3S-RlRa8",
+        "source": "youtube",
+        "publishedAt": "2026-06-13T23:00:17Z",
+        "score": 0,
+        "snippet": "Engineering Explained praised R2 for fixing R1S issues in preferred smaller package, generating strong purchase intent at media drive.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      }
+    ]
   }
 ]
