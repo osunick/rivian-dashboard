@@ -23040,5 +23040,191 @@
         "sentiment": "negative"
       }
     ]
+  },
+  {
+    "id": "2026-06-14T22:01:22.465865Z",
+    "timestamp": "2026-06-14T22:01:22.465865Z",
+    "sentiment": {
+      "positive": 57,
+      "neutral": 21,
+      "negative": 21
+    },
+    "sources": {
+      "news": {
+        "found": 14,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Charging Issues at Home",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5wa7k/charging_issues_at_home/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T20:47:08.161Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Hex bolt head circular covers in R1T bed",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5vpsi/hex_bolt_head_circular_covers_in_r1t_bed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T20:24:35.532Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Large Ruffland Crate in R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5tzet/large_ruffland_crate_in_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T19:15:49.961Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Careful with the new update, lads.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5trav/careful_with_the_new_update_lads/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T19:07:37.882Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Issues after latest software update",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5t3pv/issues_after_latest_software_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T18:42:44.610Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Catalina Cove and Rivian Blue",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5spgy/catalina_cove_and_rivian_blue/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T18:27:25.033Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "U.S. and Iran agree on peace deal to end the war, Trump and Pakistan say",
+        "url": "https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Can you Camp In The Back Of A Rivian R2?",
+        "url": "https://youtube.com/watch?v=s6FzV2twOP4",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T20:20:15Z",
+        "score": 0,
+        "snippet": "As someone who has lived and traveled out of a Honda Element for years, I was really curious about the new Rivian R2. It has the ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "June 14, 2026",
+        "url": "https://youtube.com/watch?v=M6JkJzvCvN0",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T19:13:31Z",
+        "score": 0,
+        "snippet": "Rivian R2: The SUV That Makes Gas Cars Look Old? \u26a1 Is the Rivian R2 the ultimate game-changer? From rugged trails to city ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics compan",
+        "url": "https://youtube.com/watch?v=SaiaSAwakW0",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T18:43:28Z",
+        "score": 0,
+        "snippet": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company #technology #programming #gadgets.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Can Rivian Build The Electric SUV That Changes Everything?",
+        "url": "https://youtube.com/watch?v=06DKS8uMINU",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T18:33:39Z",
+        "score": 0,
+        "snippet": "\"The Rivian R2 Performance could become the electric SUV that brings adventure focused EVs to the mainstream #RivianR2 ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian CEO takes different approach than Elon Musk for humanoid robots",
+        "url": "https://youtube.com/watch?v=2_OU_RyE5MM",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T18:31:49Z",
+        "score": 0,
+        "snippet": "Rivian CEO takes different approach than Elon Musk for humanoid robots #technology #programming #gadgets.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "We got an up-close look at the all-new Rivian R2 alongside Rivian\u2019s COO, diving into the design,",
+        "url": "https://youtube.com/watch?v=lWoFho5U4lA",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T17:51:54Z",
+        "score": 0,
+        "snippet": "We got an up-close look at the all-new Rivian R2 alongside Rivian's COO, diving into the design, technology, practicality, and ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "R2 ASMR (Universal Hands Free driving on my early morning commute to work and REAR ROLL DOWN WINDOW)",
+        "url": "https://youtube.com/watch?v=FScE3frisGg",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T17:21:21Z",
+        "score": 0,
+        "snippet": "rivian #r2 #ASMR.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      }
+    ]
   }
 ]
