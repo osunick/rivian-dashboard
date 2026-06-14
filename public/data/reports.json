@@ -22812,5 +22812,233 @@
         "sentiment": "positive"
       }
     ]
+  },
+  {
+    "id": "2026-06-14T18:02:18.158245Z",
+    "timestamp": "2026-06-14T18:02:18.158245Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 33,
+      "negative": 16
+    },
+    "sources": {
+      "news": {
+        "found": 18,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 Test Drive Experience",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5r78o/r2_test_drive_experience/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T17:29:15.933Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Never driven an EV- what should I look for during test drive?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5r0d8/never_driven_an_ev_what_should_i_look_for_during/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T17:21:48.872Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Portland Oregon R2 Test Drive, Great Experience",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5pfgb/portland_oregon_r2_test_drive_great_experience/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T16:19:21.584Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Anyone have photos of what the sunroof looks like tinted?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5od3k/anyone_have_photos_of_what_the_sunroof_looks_like/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T15:38:22.431Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What I did different to protect my 2nd brand new gen2 R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u5mqjd/what_i_did_different_to_protect_my_2nd_brand_new/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T14:33:53.873Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "R2 is... Disappointing",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u5ntba/r2_is_disappointing/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-14T15:16:31.688Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@timstevens.bsky.social (Bluesky): I really wasn't sure what to expect from my first time behind the wheel of the R",
+        "url": "https://bsky.app/profile/did:plc:oxdvccamuk4fuslbve3x4mkh/post/3mobbysxl4c2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T17:25:08.964Z",
+        "score": 4,
+        "snippet": "I really wasn't sure what to expect from my first time behind the wheel of the Rivian R2. I was not, however, expecting it to be such an improvement over the R1S. \n\nShame about the lease pricing, thou",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@sunherald.com (Bluesky): Rivian (RIVN) is finally moving into the part of the electric vehicle market tha",
+        "url": "https://bsky.app/profile/did:plc:mtlvbl5midflxvo5ij4urorv/post/3mobbq2emg62j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T17:20:10.562Z",
+        "score": 0,
+        "snippet": "Rivian (RIVN) is finally moving into the part of the electric vehicle market that could determine its future.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@bnd.com (Bluesky): Rivian (RIVN) is finally moving into the part of the electric vehicle market tha",
+        "url": "https://bsky.app/profile/did:plc:3cbu2tr56nbpspt5yc7tmwkb/post/3mobbpzfe3z2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T17:20:09.665Z",
+        "score": 0,
+        "snippet": "Rivian (RIVN) is finally moving into the part of the electric vehicle market that could determine its future.",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@tomleykis.bsky.social (Bluesky): Rivian is next for me for sure. But because I was one of the first Tesla Model S",
+        "url": "https://bsky.app/profile/did:plc:lo2l622z5umoptsocxwi6yza/post/3mob65hzbbs2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T16:16:05.976Z",
+        "score": 2,
+        "snippet": "Rivian is next for me for sure. But because I was one of the first Tesla Model S buyers, I have FREE CHARGING FOR LIFE. That's really hard to give up!",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@druce.ai (Bluesky): Rivian CEO RJ Scaringe's robotics startup Mind Robotics has raised over $1 billi",
+        "url": "https://bsky.app/profile/did:plc:qomkdnxrqw3gkbytdxea5z65/post/3mob3w7hagj2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T15:36:15.361Z",
+        "score": 0,
+        "snippet": "Rivian CEO RJ Scaringe's robotics startup Mind Robotics has raised over $1 billion and plans its first product within a year.",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@stfuelon.bsky.social (Bluesky): Competitor note: RJ Scaringe spun Mind Robotics out of Rivian to build humanoids",
+        "url": "https://bsky.app/profile/did:plc:cqiuu6mdd5jpu2ufpqwto5sv/post/3mob3vsolze2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T15:36:00.972Z",
+        "score": 0,
+        "snippet": "Competitor note: RJ Scaringe spun Mind Robotics out of Rivian to build humanoids. No vertical integration means 33% less Earth regulatory friction but 7.75 months slower to Mars. Fine. But his stated ",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@harpaa01.mastodon.social.ap.brid.gy (Bluesky): @Z_Zed_Zed Walmart is building out a charging network of their own that looks re",
+        "url": "https://bsky.app/profile/did:plc:amoxtyvmcftfreyte7vrz73g/post/3moaznxwqj4z2",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T14:58:08.169Z",
+        "score": 1,
+        "snippet": "@Z_Zed_Zed Walmart is building out a charging network of their own that looks really promising.\n\nI drive a VW so EA is its preferred network but I tend to find their spots crowded, though charging spe",
+        "category": "competitive",
+        "sentiment": "negative"
+      },
+      {
+        "title": "KING DETHRONED?? -- NEW 2027 Rivian R2 vs. Tesla Model Y: Comparison",
+        "url": "https://youtube.com/watch?v=zl9tRhmRSwg",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T16:00:27Z",
+        "score": 0,
+        "snippet": "R2 challenges Model Y with rugged design, luxury interior, towing/ground clearance, 360\u00b0 camera; Model Y retains advantages in 3-row seating and rear entertainment screen.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "500-Mile Rivian R1T Towing Road Trip To Collect A Project Car!",
+        "url": "https://youtube.com/watch?v=P_TfZtKLPWg",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T16:00:33Z",
+        "score": 0,
+        "snippet": "R1T successfully tows long-distance with lane-centering via third-party comma2k (exceeding Cybertruck), but lacks adaptive cruise; thermal derating limits hot-weather performance.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Can Rivian pull off a &quot;Subaru&quot;?",
+        "url": "https://youtube.com/watch?v=DZvxuRrRn0E",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T15:00:07Z",
+        "score": 0,
+        "snippet": "Will The R2 Be The Hit Rivian Needs? w/ Jason Fenske of Engineering Explained ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R1S Blackout Customization Tour: See Every Detail! #shorts",
+        "url": "https://youtube.com/watch?v=mjnGtHoG1eE",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T14:46:39Z",
+        "score": 0,
+        "snippet": "Quick tour of this used Rivian R1S. See the all-blacked-out exterior details, from mirror caps to emblems. A stealthy EV ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=CWTTxJx2Pmk",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T11:44:52Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "negative"
+      }
+    ]
   }
 ]
