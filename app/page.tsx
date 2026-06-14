@@ -15,6 +15,7 @@ import SummarySentimentBars from '@/components/SummarySentimentBars';
 import MediaPreview from '@/components/MediaPreview';
 import CompetitorsSection from '@/components/CompetitorsSection';
 import PublishSentimentTrend from '@/components/PublishSentimentTrend';
+import DrillDown, { DrillDownItem } from '@/components/DrillDown';
 
 export const dynamic = 'force-dynamic';
 
@@ -413,6 +414,42 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
     items: competitorIntelMap[competitor.id]?.items ?? [],
   })).sort((a, b) => b.count - a.count);
 
+  const datedSignals = scopeItems.filter(item => item.publishedAt);
+  const competitiveSignals = scopeItems.filter(item => item.category === 'competitive');
+  const issueItems: DrillDownItem[] = autonomyIssues.map(issue => ({
+    title: issue.title,
+    url: issue.url,
+    source: issue.source,
+    sentiment: issue.sentiment ?? 'negative',
+    snippet: issue.snippet,
+    publishedAt: issue.publishedAt ?? null,
+    reportTimestamp: issue.reportTimestamp,
+  }));
+  const failedScanItems: DrillDownItem[] = failedScans.map(report => ({
+    title: `Scan failed · ${formatTimestamp(report.timestamp)}`,
+    source: 'system',
+    sentiment: 'negative',
+    snippet: report.scanError ?? 'Unknown scan error',
+    reportTimestamp: report.timestamp,
+  }));
+
+  const headerStats: Array<{
+    label: string;
+    value: React.ReactNode;
+    items: DrillDownItem[];
+    drillTitle: string;
+    drillLabel: string;
+    drillDescription: string;
+    footerSuffix?: string;
+  }> = [
+    { label: 'Signals', value: totalSignals, items: scopeItems, drillTitle: 'All signals', drillLabel: 'Signal Drilldown', drillDescription: 'Every deduped signal in the current scope, newest first.', footerSuffix: 'in scope' },
+    { label: 'Dated by publish', value: `${datedShare}%`, items: datedSignals, drillTitle: 'Signals with a publish date', drillLabel: 'Signal Drilldown', drillDescription: 'Signals carrying an original publish date, newest first.', footerSuffix: 'dated' },
+    { label: 'Sources', value: sourceCounts.length, items: scopeItems, drillTitle: 'Signals across all sources', drillLabel: 'Source Drilldown', drillDescription: `${sourceCounts.length} active sources contributing signals in scope.`, footerSuffix: 'in scope' },
+    { label: 'Competitive', value: competitiveSignals.length, items: competitiveSignals, drillTitle: 'Competitive signals', drillLabel: 'Competitive Drilldown', drillDescription: 'Signals tagged competitive intel in the current scope.', footerSuffix: 'competitive' },
+    { label: 'Failed scans', value: failedScans.length, items: failedScanItems, drillTitle: 'Failed scans', drillLabel: 'Scan Errors', drillDescription: 'Scan cycles that returned an error.', footerSuffix: 'failed' },
+    { label: 'Issues tracked', value: autonomyIssues.length, items: issueItems, drillTitle: 'Autonomy & software issues', drillLabel: 'Issue Drilldown', drillDescription: 'Recent autonomy and software risk signals.', footerSuffix: 'tracked' },
+  ];
+
   if (!latest) {
     return (
       <main className="min-h-screen bg-claude-bg px-4 py-12 sm:px-8">
@@ -461,19 +498,35 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
           </div>
 
           <div className="relative grid grid-cols-2 gap-px border-t border-white/[0.06] bg-white/[0.05] sm:grid-cols-3 xl:grid-cols-6">
-            {[
-              { label: 'Signals', value: totalSignals },
-              { label: 'Dated by publish', value: `${datedShare}%` },
-              { label: 'Sources', value: sourceCounts.length },
-              { label: 'Competitive', value: scopeItems.filter(item => item.category === 'competitive').length },
-              { label: 'Failed scans', value: failedScans.length },
-              { label: 'Issues tracked', value: autonomyIssues.length },
-            ].map(stat => (
-              <div key={stat.label} className="bg-[#0C0C10] px-4 py-3.5">
-                <div className="font-mono-num text-[10px] uppercase tracking-[0.16em] text-claude-muted">{stat.label}</div>
-                <div className="mt-1 font-mono-num text-3xl font-semibold tabular-nums text-claude-text">{stat.value}</div>
-              </div>
-            ))}
+            {headerStats.map(stat => {
+              const body = (
+                <>
+                  <div className="flex items-center justify-between font-mono-num text-[10px] uppercase tracking-[0.16em] text-claude-muted">
+                    <span>{stat.label}</span>
+                    {stat.items.length > 0 && <span className="text-claude-muted/40 group-hover:text-marvel-red transition-colors">↗</span>}
+                  </div>
+                  <div className="mt-1 font-mono-num text-3xl font-semibold tabular-nums text-claude-text">{stat.value}</div>
+                </>
+              );
+              if (stat.items.length === 0) {
+                return (
+                  <div key={stat.label} className="bg-[#0C0C10] px-4 py-3.5">{body}</div>
+                );
+              }
+              return (
+                <DrillDown
+                  key={stat.label}
+                  title={stat.drillTitle}
+                  items={stat.items}
+                  label={stat.drillLabel}
+                  description={stat.drillDescription}
+                  footerSuffix={stat.footerSuffix}
+                  className="group block w-full bg-[#0C0C10] px-4 py-3.5 text-left transition-colors hover:bg-[#13131A]"
+                >
+                  {body}
+                </DrillDown>
+              );
+            })}
           </div>
         </header>
 
@@ -509,10 +562,16 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
             {themeCounts.length > 0 ? (
               <div className="flex flex-wrap gap-2.5">
                 {themeCounts.map(theme => (
-                  <div key={theme.theme} className="rounded-lg border border-white/[0.07] bg-white/[0.03] px-3 py-1.5 hover:border-marvel-red/40 transition-colors">
+                  <DrillDown
+                    key={theme.theme}
+                    title={theme.theme}
+                    items={scopeItems.filter(item => (item.themes ?? []).includes(theme.theme))}
+                    footerSuffix="in this theme"
+                    className="rounded-lg border border-white/[0.07] bg-white/[0.03] px-3 py-1.5 text-left transition-colors hover:border-marvel-red/40"
+                  >
                     <div className="text-[13px] font-medium text-claude-text">{theme.theme}</div>
                     <div className="mt-0.5 font-mono-num text-[11px] text-claude-muted">{theme.count} mentions</div>
-                  </div>
+                  </DrillDown>
                 ))}
               </div>
             ) : (
@@ -527,18 +586,26 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
           <Card title="Sources" meta={`${sourceCounts.length} active`}>
             <div className="space-y-4">
               {sourceCounts.map(source => (
-                <div key={source.key}>
+                <DrillDown
+                  key={source.key}
+                  title={source.label}
+                  items={scopeItems.filter(item => item.source === source.key)}
+                  label="Source Drilldown"
+                  description={`Signals from ${source.label} in the current scope, newest first.`}
+                  footerSuffix={`from ${source.label}`}
+                  className="group block w-full text-left"
+                >
                   <div className="mb-2 flex items-center justify-between text-[14px] text-claude-text/90">
-                    <span>{source.label}</span>
+                    <span className="transition-colors group-hover:text-marvel-red">{source.label}</span>
                     <span className="font-mono-num text-[13px] text-claude-muted">{source.count}</span>
                   </div>
                   <div className="h-1.5 rounded-full bg-claude-border/40">
                     <div
-                      className="h-1.5 rounded-full bg-claude-accent"
+                      className="h-1.5 rounded-full bg-claude-accent transition-all group-hover:bg-marvel-red"
                       style={{ width: `${(source.count / Math.max(sourceCounts[0]?.count ?? 1, 1)) * 100}%` }}
                     />
                   </div>
-                </div>
+                </DrillDown>
               ))}
             </div>
           </Card>

@@ -7,7 +7,7 @@ import MediaPreview from './MediaPreview';
 
 interface Item {
   title: string;
-  url: string;
+  url?: string;
   source: string;
   sentiment: string;
   publishedAt?: string | null;
@@ -19,6 +19,9 @@ interface Props {
   theme: string;
   items: Item[];
   onClose: () => void;
+  label?: string;
+  description?: string;
+  footerSuffix?: string;
 }
 
 const SENTIMENT_STYLES: Record<string, string> = {
@@ -34,7 +37,14 @@ function sortNewestFirst<T extends { reportTimestamp?: string }>(arr: T[]): T[] 
   );
 }
 
-export default function ThemeModal({ theme, items, onClose }: Props) {
+export default function ThemeModal({
+  theme,
+  items,
+  onClose,
+  label = 'Theme Drilldown',
+  description = 'Items tagged with this theme, sorted newest first across the report history.',
+  footerSuffix = 'in this theme',
+}: Props) {
   const [mounted, setMounted] = useState(false);
   const sorted = sortNewestFirst(items);
 
@@ -65,10 +75,10 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
         <div className="border-b border-white/10 px-5 py-4 sm:px-6">
           <div className="flex items-start justify-between gap-4">
             <div>
-              <div className="font-mono-num text-[10px] uppercase tracking-[0.3em] text-marvel-red">Theme Drilldown</div>
+              <div className="font-mono-num text-[10px] uppercase tracking-[0.3em] text-marvel-red">{label}</div>
               <h2 className="mt-2 text-2xl font-semibold tracking-tight text-claude-text">{theme}</h2>
               <p className="mt-1.5 text-[13px] leading-6 text-claude-muted">
-                Items tagged with this theme, sorted newest first across the report history.
+                {description}
               </p>
             </div>
             <button
@@ -109,29 +119,38 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
                     </span>
                   </div>
 
-                  <a
-                    href={item.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="mt-2.5 block text-[16px] font-semibold leading-6 tracking-tight text-claude-text hover:text-marvel-red transition-colors"
-                  >
-                    {item.title}
-                  </a>
+                  {item.url ? (
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="mt-2.5 block text-[16px] font-semibold leading-6 tracking-tight text-claude-text hover:text-marvel-red transition-colors"
+                    >
+                      {item.title}
+                    </a>
+                  ) : (
+                    <div className="mt-2.5 text-[16px] font-semibold leading-6 tracking-tight text-claude-text">
+                      {item.title}
+                    </div>
+                  )}
 
                   {item.snippet && (
                     <p className="mt-1.5 text-[13px] leading-6 text-claude-muted">{item.snippet}</p>
                   )}
 
-                  <MediaPreview url={item.url} title={item.title} />
-
-                  <a
-                    href={item.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="mt-3 inline-block font-mono-num text-[10px] uppercase tracking-[0.24em] text-marvel-steel hover:text-white transition-colors"
-                  >
-                    Open Source Link →
-                  </a>
+                  {item.url && (
+                    <>
+                      <MediaPreview url={item.url} title={item.title} />
+                      <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="mt-3 inline-block font-mono-num text-[10px] uppercase tracking-[0.24em] text-marvel-steel hover:text-white transition-colors"
+                      >
+                        Open Source Link →
+                      </a>
+                    </>
+                  )}
                 </div>
               ))}
             </div>
@@ -139,7 +158,7 @@ export default function ThemeModal({ theme, items, onClose }: Props) {
         </div>
 
         <div className="border-t border-white/10 bg-[#0E0E13] px-5 py-2.5 font-mono-num text-[10px] uppercase tracking-[0.24em] text-claude-muted sm:px-6">
-          {sorted.length} item{sorted.length !== 1 ? 's' : ''} in this theme
+          {sorted.length} item{sorted.length !== 1 ? 's' : ''}{footerSuffix ? ` ${footerSuffix}` : ''}
         </div>
       </div>
     </div>
