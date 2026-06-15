@@ -6,6 +6,17 @@ function isDirectImageUrl(url: string) {
   return /\.(png|jpe?g|gif|webp|avif|svg)(\?.*)?$/i.test(url);
 }
 
+// Google News redirect links don't resolve to the publisher without JS, so their
+// og:image is always Google's generic placeholder logo. Suppress those previews.
+function isGenericNewsAggregator(resolvedUrl: string) {
+  try {
+    const host = new URL(resolvedUrl).hostname.toLowerCase();
+    return host === 'news.google.com' || host.endsWith('.news.google.com');
+  } catch {
+    return false;
+  }
+}
+
 function extractMetaContent(html: string, patterns: RegExp[]) {
   for (const pattern of patterns) {
     const match = html.match(pattern);
@@ -59,6 +70,12 @@ export async function GET(req: NextRequest) {
     });
 
     const resolvedUrl = response.url || parsedUrl.toString();
+
+    // Aggregator pages (e.g. Google News) only expose a generic logo — skip them.
+    if (isGenericNewsAggregator(resolvedUrl)) {
+      return NextResponse.json({ kind: 'none', resolvedUrl });
+    }
+
     const contentType = response.headers.get('content-type') ?? '';
 
     if (contentType.startsWith('image/')) {

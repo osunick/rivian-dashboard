@@ -10,7 +10,8 @@ Sources:
   Playwright   — News site searches (NYT, WSJ, Reuters, Bloomberg, etc.)
   Bluesky      — Public Bluesky AT Protocol API
   YouTube      — YouTube Data API v3
-  Twitter/X    — Playwright → twitter.com/search (unauthenticated fallback)
+  RivianForums — Playwright → UHF/autonomy forum (Cloudflare-gated)
+  Twitter/X    — Official X API v2 recent search (requires X_BEARER_TOKEN)
 
 Usage:
   python3 scripts/fetch_gamefilm.py > /tmp/gamefilm_raw.json
@@ -586,6 +587,101 @@ def fetch_hackernews():
     return items
 
 # ---------------------------------------------------------------------------
+# RivianForums (Playwright scrape of the UHF/autonomy forum, behind Cloudflare)
+# ---------------------------------------------------------------------------
+
+RIVIANFORUMS_MAX = 8  # cap new threads per run so a first run doesn't flood a report
+
+def fetch_rivianforums():
+    """Scrape the RivianForums UHF/autonomy forum via the standalone Playwright
+    script. Threads carry no reliable date, so dedup-by-URL upstream keeps only
+    genuinely new threads. Best-effort: returns [] on any failure."""
+    items = []
+    try:
+        script = os.path.join(SCRIPT_DIR, 'fetch_rivianforums.py')
+        r = subprocess.run(['python3', script], capture_output=True, text=True, timeout=150)
+        if r.returncode != 0 or not (r.stdout or '').strip():
+            print(f"[fetch_gamefilm] RivianForums: rc={r.returncode} {(r.stderr or '')[-200:]}", file=sys.stderr)
+            return []
+        data = json.loads(r.stdout)
+        for t in data.get('threads', []):
+            url = (t.get('url') or '').strip()
+            title = (t.get('title') or '').strip()
+            if not url or not title or '/threads/' not in url:
+                continue
+            items.append({
+                'title': title,
+                'url': url,
+                'source': 'rivianforums',
+                'publishedAt': None,
+                'score': 0,
+                'snippet': title[:200],
+            })
+            if len(items) >= RIVIANFORUMS_MAX:
+                break
+    except Exception as e:
+        print(f"[fetch_gamefilm] RivianForums error: {e}", file=sys.stderr)
+    print(f"[fetch_gamefilm] RivianForums: {len(items)} threads", file=sys.stderr)
+    return items
+
+# ---------------------------------------------------------------------------
+# X / Twitter (official API v2 recent search — requires X_BEARER_TOKEN)
+# Free unauthenticated scraping (Nitter etc.) is dead, so this is gated behind a
+# bearer token. With no token set it logs and returns [] — non-breaking.
+# ---------------------------------------------------------------------------
+
+def fetch_x():
+    token = os.environ.get('X_BEARER_TOKEN')
+    if not token:
+        print("[fetch_gamefilm] X/Twitter: X_BEARER_TOKEN not set — skipping (set it to enable X search)", file=sys.stderr)
+        return []
+    items = []
+    try:
+        import urllib.parse
+        query = '(Rivian OR RIVN OR R1T OR R1S OR R2 OR Scaringe) -is:retweet lang:en'
+        params = urllib.parse.urlencode({
+            'query': query,
+            'max_results': 25,
+            'tweet.fields': 'created_at,public_metrics,author_id',
+            'expansions': 'author_id',
+            'user.fields': 'username',
+        })
+        url = f'https://api.twitter.com/2/tweets/search/recent?{params}'
+        req = urllib.request.Request(url, headers={
+            'Authorization': f'Bearer {token}',
+            'User-Agent': 'GameFilm/1.0',
+        })
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+        users = {u['id']: u.get('username', '') for u in data.get('includes', {}).get('users', [])}
+        for tw in data.get('data', []):
+            tid = tw.get('id', '')
+            handle = users.get(tw.get('author_id', ''), 'i')
+            text = (tw.get('text') or '').replace('\n', ' ').strip()
+            pm = tw.get('public_metrics', {}) or {}
+            if not tid or not text:
+                continue
+            items.append({
+                'title': f"@{handle}: {text[:80]}",
+                'url': f"https://x.com/{handle}/status/{tid}",
+                'source': 'twitter',
+                'publishedAt': tw.get('created_at'),
+                'score': pm.get('like_count', 0) or 0,
+                'snippet': text[:200],
+            })
+    except Exception as e:
+        print(f"[fetch_gamefilm] X/Twitter error: {e}", file=sys.stderr)
+
+    today_items = []
+    for item in items:
+        dt = parse_date_to_pt(item.get('publishedAt', ''))
+        if dt and dt.date() != TODAY_PT:
+            continue
+        today_items.append(item)
+    print(f"[fetch_gamefilm] X/Twitter: {len(items)} total, {len(today_items)} today", file=sys.stderr)
+    return today_items
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -636,6 +732,14 @@ def main():
     hn_items = fetch_hackernews()
     raw_items.extend(hn_items)
 
+    # --- RivianForums (UHF/autonomy forum) ---
+    rf_items = fetch_rivianforums()
+    raw_items.extend(rf_items)
+
+    # --- X / Twitter (requires X_BEARER_TOKEN, else no-op) ---
+    x_items = fetch_x()
+    raw_items.extend(x_items)
+
     # Truncate snippets
     for item in raw_items:
         if item.get('snippet') and len(item['snippet']) > 200:
@@ -650,9 +754,9 @@ def main():
             seen.add(url)
             new_items.append(item)
 
-    # Cap at 40 items
-    if len(new_items) > 40:
-        new_items = new_items[:40]
+    # Cap total items (raised to accommodate RivianForums + X sources)
+    if len(new_items) > 50:
+        new_items = new_items[:50]
 
     print(f"[fetch_gamefilm] New items after dedup: {len(new_items)}", file=sys.stderr)
 
