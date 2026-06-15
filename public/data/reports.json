@@ -23583,7 +23583,33 @@
         "sentiment": null
       }
     },
-    "themes": [],
+    "themes": [
+      "Adventure Market",
+      "Autonomous Driving",
+      "Brand Experience",
+      "Charging Network",
+      "Community Events",
+      "Competitive Positioning",
+      "Competitive Threat",
+      "Connectivity",
+      "Delivery Features",
+      "Financial Health",
+      "Operating Costs",
+      "Performance",
+      "Pricing",
+      "R1S Parts",
+      "R1T Capability",
+      "R1T Entertainment",
+      "R1T Lifestyle",
+      "R1T Sales",
+      "R2 Launch",
+      "RIVN Stock",
+      "Retail Locations",
+      "Safety Recall",
+      "Software Features",
+      "Software UX",
+      "Subscription Services"
+    ],
     "summary": "",
     "fullReport": "",
     "items": [
@@ -23595,7 +23621,11 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Performance"
+        ]
       },
       {
         "title": "Cheap rims for r1s 22\" wheels?",
@@ -23605,7 +23635,10 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Parts"
+        ]
       },
       {
         "title": "Looking to buy R1T",
@@ -23615,7 +23648,10 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Sales"
+        ]
       },
       {
         "title": "Looking to buy R1T",
@@ -23625,7 +23661,10 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Sales"
+        ]
       },
       {
         "title": "Rivian Glass Recall",
@@ -23635,7 +23674,10 @@
         "score": 0,
         "snippet": "",
         "category": "software",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "Safety Recall"
+        ]
       },
       {
         "title": "Rivian Friends and Family Day\uff01\ud83d\ude01\ud83d\ude01",
@@ -23645,7 +23687,10 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "Community Events"
+        ]
       },
       {
         "title": "Does anyone else wish the energy app worked differently? Some genuine UX gripes",
@@ -23655,7 +23700,10 @@
         "score": 0,
         "snippet": "",
         "category": "other",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "Software UX"
+        ]
       },
       {
         "title": "Is there any reason to get Rivian adaptors over A2Z?",
@@ -23665,7 +23713,10 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "Charging Network"
+        ]
       },
       {
         "title": "Rivian Shares Advance As CEO Outlines Aggressive Autonomous-Driving Roadmap - Benzinga",
@@ -23675,7 +23726,11 @@
         "score": 0,
         "snippet": "Rivian Shares Advance As CEO Outlines Aggressive Autonomous-Driving Roadmap - Benzinga",
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving",
+          "RIVN Stock"
+        ]
       },
       {
         "title": "Rivian Automotive (RIVN) Reiterated at Neutral by Cantor Fitzgerald - StreetInsider",
@@ -23685,7 +23740,10 @@
         "score": 0,
         "snippet": "Rivian Automotive (RIVN) Reiterated at Neutral by Cantor Fitzgerald - StreetInsider",
         "category": "vehicles",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
       },
       {
         "title": "The Rivian R2\u2019s Radio Needs Cell Signal The Wilderness Doesn\u2019t Have - Carscoops",
@@ -23695,7 +23753,11 @@
         "score": 0,
         "snippet": "The Rivian R2\u2019s Radio Needs Cell Signal The Wilderness Doesn\u2019t Have - Carscoops",
         "category": "vehicles",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Connectivity"
+        ]
       },
       {
         "title": "@unawareox.bsky.social (Bluesky): Former Amazon delivery driver here. \nThis is already a feature. It\u2019s on the Rivi",
@@ -23705,7 +23767,10 @@
         "score": 1,
         "snippet": "Former Amazon delivery driver here. \nThis is already a feature. It\u2019s on the Rivian EV\u2019s specifically and it\u2019s intended to stretch out the battery life since the drain so fast in the summer. Of course,",
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "Delivery Features"
+        ]
       },
       {
         "title": "@davefoose.bsky.social (Bluesky): A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Le",
@@ -23715,7 +23780,11 @@
         "score": 0,
         "snippet": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Less Than Gas insideevs.com/news/798734/...",
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "R1T Capability",
+          "Operating Costs"
+        ]
       },
       {
         "title": "@driveteslacanada.bsky.social (Bluesky): Rivian delays eyes-off driving to 2027 while chasing Tesla FSD",
@@ -23725,7 +23794,11 @@
         "score": 1,
         "snippet": "Rivian delays eyes-off driving to 2027 while chasing Tesla FSD",
         "category": "autonomy",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "Autonomous Driving",
+          "Competitive Threat"
+        ]
       },
       {
         "title": "@hilbe.bsky.social (Bluesky): PSA:  For all future Rivian R1/R2 owners, you may wish to consider that a $14.99",
@@ -23735,7 +23808,10 @@
         "score": 1,
         "snippet": "PSA:  For all future Rivian R1/R2 owners, you may wish to consider that a $14.99/month or $149.99/year Connect+ subscription is required for many useful in-vehicle features.",
         "category": "vehicles",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "Subscription Services"
+        ]
       },
       {
         "title": "@hilbe.bsky.social (Bluesky): The Laguna Beach Rivian Space (South Coast Theater) is showing World Cup matches",
@@ -23745,7 +23821,11 @@
         "score": 0,
         "snippet": "The Laguna Beach Rivian Space (South Coast Theater) is showing World Cup matches.  R2 + World Cup = WIN WIN.",
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "Retail Locations",
+          "Brand Experience"
+        ]
       },
       {
         "title": "@deepthoughtar.bsky.social (Bluesky): Rivian Assistant shipped on R1. CarPlay is out by product direction, not custome",
@@ -23755,7 +23835,10 @@
         "score": 0,
         "snippet": "Rivian Assistant shipped on R1. CarPlay is out by product direction, not customer vote. R2 is first on the new zonal architecture. The $6B RV Tech bet is real \u2014 whether Rivian's software culture survi",
         "category": "software",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "Software Features"
+        ]
       },
       {
         "title": "@trendalertstox.bsky.social (Bluesky): RIVN | Rivian Automotive (NASDAQ):\n\ud83c\udfc6 Friday's Daily Top Movers UP - #4: RIVN sur",
@@ -23765,7 +23848,10 @@
         "score": 0,
         "snippet": "RIVN | Rivian Automotive (NASDAQ):\n\ud83c\udfc6 Friday's Daily Top Movers UP - #4: RIVN surged +7.85% close: 16.76 (prev. day: 15.54)",
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock"
+        ]
       },
       {
         "title": "Driving the Rivian R1T 2021 using ONLY my phone as a steering wheel | #forzahorizon6 #shorts",
@@ -23775,7 +23861,10 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Entertainment"
+        ]
       },
       {
         "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
@@ -23786,7 +23875,11 @@
         "snippet": "Rivian's $45k R2 EV (summer 2027) targets mass-market scale critical for 2030 profitability; company faces $4B annual burn with current 50-75k vs. 200k+ volume needed.",
         "summarized": true,
         "category": "business",
-        "sentiment": "negative"
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "Financial Health"
+        ]
       },
       {
         "title": "Rivian R1T 2021 | Forza Horizon 6 | Mountain Offroad Drive | Mobile Steering Gameplay",
@@ -23796,7 +23889,10 @@
         "score": 0,
         "snippet": "Taking an Electric Truck Where Most Cars Would Turn Back. Taking the Rivian R1T 2021 on an offroad adventure through the ...",
         "category": "vehicles",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Entertainment"
+        ]
       },
       {
         "title": "CarCast+Edmunds - Rivian R2, Lexus RX Plug-in Hybrid, Lexus ES EV, BMW M3 EV concept and more.",
@@ -23807,7 +23903,11 @@
         "snippet": "R2 launches $45\u201360K with Model Y size, targeting adventure-SUV market (4Runner/X3) with superior aerodynamics, efficiency, and technology versus pricier R1S.",
         "summarized": true,
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Competitive Positioning"
+        ]
       },
       {
         "title": "The Practical Rivian Overlanding Setup: Everything I Actually Use",
@@ -23817,7 +23917,11 @@
         "score": 0,
         "snippet": "Man talks about his camping setup. Roof Top Tent: Roofnest Condor Overland Fridge: Iceco GO20 https://a.co/d/0cmPmCek ...",
         "category": "vehicles",
-        "sentiment": "positive"
+        "sentiment": "positive",
+        "themes": [
+          "R1T Lifestyle",
+          "Adventure Market"
+        ]
       },
       {
         "title": "Rivian R2 walk around - Is it worth $58k?",
@@ -23827,7 +23931,11 @@
         "score": 0,
         "snippet": "",
         "category": "vehicles",
-        "sentiment": "neutral"
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Pricing"
+        ]
       }
     ]
   }

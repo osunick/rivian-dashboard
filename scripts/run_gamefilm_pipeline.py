@@ -174,9 +174,23 @@ def classify_sentiment(item):
         return 'negative'
     return 'neutral'
 
+def _clean_themes(raw):
+    """Normalize a model-returned themes value into a list of <=3 short tags."""
+    if not isinstance(raw, list):
+        return []
+    out = []
+    for t in raw:
+        if not isinstance(t, str):
+            continue
+        tag = ' '.join(t.strip().split())[:32]
+        if tag:
+            out.append(tag)
+    return out[:3]
+
 def _llm_sentiment_batch(batch):
-    """Classify one batch via the claude CLI. Returns {local_index: sentiment} for
-    indices the model returned validly, or {} on any failure (caller falls back)."""
+    """Classify one batch via the claude CLI. Returns {local_index: {"s": sentiment,
+    "t": [themes]}} for indices the model returned validly, or {} on any failure
+    (caller falls back)."""
     lines = []
     for idx, it in enumerate(batch):
         cat = it.get('category', 'other')
@@ -184,21 +198,26 @@ def _llm_sentiment_batch(batch):
         lines.append(f"{idx} [{cat}]: {text[:240]}")
     prompt = (
         "You are a competitive-intelligence analyst for Rivian's product team. "
-        "Classify each item's sentiment from RIVIAN's strategic perspective:\n"
+        "For each item, do two things from RIVIAN's strategic perspective:\n"
+        "1) Classify sentiment:\n"
         '- "positive": good for Rivian (strong sales/deliveries, profit, wins, praise, '
         "favorable reviews, OR a competitor stumbling).\n"
         '- "negative": bad for Rivian (recalls, lawsuits, losses, defects, complaints, '
         "missed targets, OR a competitor winning/advancing — a competitive threat).\n"
         '- "neutral": purely factual, ambiguous, or not consequential either way.\n'
+        "2) Tag 1-3 short themes (2-4 words each, Title Case) capturing the concrete "
+        'topic — e.g. "R2 Launch", "RIVN Stock", "Highway Assist", "Charging Network", '
+        '"Tesla FSD". Prefer reusing common themes across items so they aggregate.\n'
         "The bracketed tag is the item's category; 'competitive' items are about rivals, "
         "so judge them as threats/relief to Rivian.\n"
-        'Return ONLY a JSON array of {"i":<index>,"s":"positive|negative|neutral"} — no prose, no markdown.\n\n'
+        'Return ONLY a JSON array of {"i":<index>,"s":"positive|negative|neutral",'
+        '"t":["Theme One","Theme Two"]} — no prose, no markdown.\n\n'
         + "\n".join(lines)
     )
     try:
         r = subprocess.run(
             [CLAUDE_BIN, '-p', '--model', SENTIMENT_MODEL, prompt],
-            capture_output=True, text=True, timeout=120,
+            capture_output=True, text=True, timeout=180,
         )
         out = (r.stdout or '').strip()
         if r.returncode != 0 or not out:
@@ -213,20 +232,27 @@ def _llm_sentiment_batch(batch):
             i = obj.get('i')
             s = obj.get('s')
             if isinstance(i, int) and 0 <= i < len(batch) and s in ('positive', 'negative', 'neutral'):
-                result[i] = s
+                result[i] = {'s': s, 't': _clean_themes(obj.get('t'))}
         return result
     except Exception as e:
         print(f"[sentiment] LLM failed: {e}", file=sys.stderr)
         return {}
 
 def assign_sentiments(items):
-    """Set item['sentiment'] for every item using the LLM, batched. Any item the
-    LLM doesn't return falls back to the keyword classifier so nothing is missed."""
+    """Set item['sentiment'] and item['themes'] for every item using the LLM, batched.
+    Any item the LLM doesn't return falls back to the keyword classifier for sentiment
+    (themes default to []) so nothing is missed."""
     for start in range(0, len(items), SENTIMENT_BATCH):
         batch = items[start:start + SENTIMENT_BATCH]
         mapped = _llm_sentiment_batch(batch)
         for idx, it in enumerate(batch):
-            it['sentiment'] = mapped.get(idx) or classify_sentiment(it)
+            got = mapped.get(idx)
+            if got:
+                it['sentiment'] = got['s']
+                it['themes'] = got['t']
+            else:
+                it['sentiment'] = classify_sentiment(it)
+                it.setdefault('themes', [])
 
 def compose_brief_llm(items, sentiment, ts):
     """Have Opus author the brief from the scraped items (real synthesis, not a
