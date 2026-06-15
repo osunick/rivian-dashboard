@@ -24372,5 +24372,288 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-15T18:03:46.732474Z",
+    "timestamp": "2026-06-15T18:03:46.732474Z",
+    "sentiment": {
+      "positive": 37,
+      "neutral": 12,
+      "negative": 50
+    },
+    "sources": {
+      "news": {
+        "found": 16,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Accessories",
+      "Brand Desirability",
+      "Brand Marketing",
+      "Community Engagement",
+      "Competitive Risk",
+      "Competitive Threat",
+      "Georgia Expansion",
+      "Marketing Strategy",
+      "Order Conversion",
+      "R1S Gen2 Quality",
+      "R1S Off-Road",
+      "R1S Suspension",
+      "R2 Connectivity",
+      "R2 Delivery",
+      "R2 Launch",
+      "R2 Sales Forecast",
+      "R3X Launch",
+      "RIVN Stock",
+      "Roamer Service",
+      "Tesla Competition"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Help Me Understand: R1S G1 Suspension v G2 Suspension",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6nd06/help_me_understand_r1s_g1_suspension_v_g2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T17:33:19.512Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Suspension"
+        ]
+      },
+      {
+        "title": "Weak seat ventilation in R1S Gen2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6m0ki/weak_seat_ventilation_in_r1s_gen2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T16:46:09.502Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Gen2 Quality"
+        ]
+      },
+      {
+        "title": "Anyone have (educated) guesses on order conversion rate?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6lg8j/anyone_have_educated_guesses_on_order_conversion/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T16:25:44.931Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Order Conversion"
+        ]
+      },
+      {
+        "title": "R2 Launch, 5G Partnership, Georgia Expansion Might Change The Case For Investing In Rivian (RIVN) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmw5UDR0b01nem4tM1V2X2ZOemlOTEhiRnlxT1BvUFJEZ0ZzMU1NcVBCMXFCRDZPekpXTGhuOER0YmVOdzhPRlZZZWtfSTA1MU4zOE5ERlpfNGpoa3FTTkxDYVByWlQwQjJ1UDJPak9vcWlISXBXS0NpZWJaVFEzZHY0QUpqd1A0R01LUVdCU1Jzc0dCMmx3aFRBcnVNQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 15 Jun 2026 14:06:31 GMT",
+        "score": 0,
+        "snippet": "R2 Launch, 5G Partnership, Georgia Expansion Might Change The Case For Investing In Rivian (RIVN) - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "RIVN Stock",
+          "Georgia Expansion"
+        ]
+      },
+      {
+        "title": "Rivian's R2 Has Arrived. Is Now the Time to Buy the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHFhaEpCdTZDVzFSX3p3Uk1ienBQdzB6SnUxdnJPOHRDODh3VjRad1ZmQk90TTFxc2lWdXItWkZpZlQ5VmNmM29sZG9zWVhmWm40REpWVVVId0VRZEJENnAzeEZycmpZei1lYkpwLXktQUhZLWdfRnRZa3gyLWJMVFpqTVBqSlhSQmM3WFZ2eFVqM0xpOG5N?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 15 Jun 2026 16:20:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 Has Arrived. Is Now the Time to Buy the Stock? - Yahoo Finance",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): The first customer R2 has shown up on Rivian Roamer and the free year of Roamer ",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3modt3jnahg2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:36:08.269Z",
+        "score": 1,
+        "snippet": "The first customer R2 has shown up on Rivian Roamer and the free year of Roamer Plus has been handed out! Congrats on your delivery and we look forward to helping guide your adventures. \ud83e\udded",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Delivery",
+          "Roamer Service"
+        ]
+      },
+      {
+        "title": "@jefe.bsky.social (Bluesky): The Rivian R2\u2019s Radio Needs Cell Signal The Wilderness Doesn\u2019t Have www.carscoop",
+        "url": "https://bsky.app/profile/did:plc:j62xrjmgon4ekaf7jjwr4iow/post/3modsuhe7ck26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:32:14.169Z",
+        "score": 0,
+        "snippet": "The Rivian R2\u2019s Radio Needs Cell Signal The Wilderness Doesn\u2019t Have www.carscoops.com/2026/06/rivi...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Connectivity"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): The thing that stood out to me, outside of the odd Model Y prognostications, rea",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3modskxnn622v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:26:53.262Z",
+        "score": 1,
+        "snippet": "The thing that stood out to me, outside of the odd Model Y prognostications, really stuck out to me. Rivian warning folks about battery degradation if they DCFC often - not something I worry about on ",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Competitive Risk"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): And beyond that, EVs are advancing rapidly. Good odds we see Hyundai's next gen,",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3modshcltwk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:24:53.576Z",
+        "score": 2,
+        "snippet": "And beyond that, EVs are advancing rapidly. Good odds we see Hyundai's next gen, GAME CHANGING!!!!! (/s but everyone says that for crappier stuff from Rivian or Ford or GM) e-GMP.s platform this yr ex",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threat"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Which is why all the Model Y fluffing, just like the base trim fluffing with loa",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3modsfkfquk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:23:51.913Z",
+        "score": 2,
+        "snippet": "Which is why all the Model Y fluffing, just like the base trim fluffing with loaded demonstrators is telling.\n\nRivian needs to move volume on the R2 with the R1 lineup continuing it's rapid sales impl",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Marketing Strategy"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): That's the crux of the energy behind my post.\n\n\"The R2 is going to sell 300,000 ",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3modsfidmns2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:23:51.873Z",
+        "score": 0,
+        "snippet": "That's the crux of the energy behind my post.\n\n\"The R2 is going to sell 300,000 units and beat Tesla\"\n\nWell the Model Y delivered ~375k units U.S. and likely ~900k globally, Rivian *hopes* to sell ~25",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Sales Forecast",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@fermispairofsocks.bsky.social (Bluesky): That extra off road capability with the Rivian doesn't do much for me.",
+        "url": "https://bsky.app/profile/did:plc:s5ir4zp7te6odnf6c7keow3t/post/3mods3m7qnk24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:18:11.507Z",
+        "score": 1,
+        "snippet": "That extra off road capability with the Rivian doesn't do much for me.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Off-Road"
+        ]
+      },
+      {
+        "title": "@potatolicious.bsky.social (Bluesky): I see Rivian as being in a similar position as Tesla a few years back: aura and ",
+        "url": "https://bsky.app/profile/did:plc:a6j7zgrmn7cs3hxtv52n42vm/post/3modro2nstc22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:10:43.368Z",
+        "score": 1,
+        "snippet": "I see Rivian as being in a similar position as Tesla a few years back: aura and halo of desirability from flagship product, but increasingly a spec/feature laggard at a high price.\n\nI just don't know ",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Desirability"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Just gave my Rivian Accessory Guide a big upgrade!\n\n\u2192 Filter by vehicle (R1T / R",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3modrhllazk2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T17:07:08.067Z",
+        "score": 0,
+        "snippet": "Just gave my Rivian Accessory Guide a big upgrade!\n\n\u2192 Filter by vehicle (R1T / R1S / R2), category, and price \u2192 Sort by price or name\nPlus exclusive discounts for RivianTrackr readers. Check it out\n\nr",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Accessories",
+          "Community Engagement"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Echoing my criticism of the Rivian brand fluffing at the second vehicle preview ",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3modqeur7fc26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T16:47:41.721Z",
+        "score": 2,
+        "snippet": "Echoing my criticism of the Rivian brand fluffing at the second vehicle preview last week. The R2 in terms of size and range and charging has MUCH more in common with the entry fauxerland EVs than the",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Brand Marketing"
+        ]
+      },
+      {
+        "title": "The Rivian R3X Looks Like the Future! \u26a1\ud83d\udd25",
+        "url": "https://youtube.com/watch?v=Cua6fU_ziZc",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T17:09:14Z",
+        "score": 0,
+        "snippet": "Rivian R3X is a compact, performance-focused EV with rally-inspired aggressive design, minimalist cabin with large display and smart tech\u2014positioned as years ahead of current competition.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R3X Launch"
+        ]
+      }
+    ]
   }
 ]
