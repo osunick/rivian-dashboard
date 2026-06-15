@@ -24655,5 +24655,336 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-15T22:03:34.439395Z",
+    "timestamp": "2026-06-15T22:03:34.439395Z",
+    "sentiment": {
+      "positive": 35,
+      "neutral": 30,
+      "negative": 35
+    },
+    "sources": {
+      "news": {
+        "found": 20,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomous Driving",
+      "Charging Network",
+      "Community",
+      "Competitive Threat",
+      "EV Market",
+      "Market Competition",
+      "Product Accessories",
+      "Product Quality",
+      "Product Strategy",
+      "Product Updates",
+      "R1T Quality",
+      "R2 Launch",
+      "R2 Pricing",
+      "RIVN Stock",
+      "Retail Expansion",
+      "Strategic Acquisition",
+      "\u0160koda Peaq"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "\"Yes, I also drove an R2 today\" thoughts.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6rbe1/yes_i_also_drove_an_r2_today_thoughts/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T19:51:04.553Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Faulty Wall Charger",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6qm8x/faulty_wall_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T19:26:33.328Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Charging Network",
+          "Product Quality"
+        ]
+      },
+      {
+        "title": "2026.15.30 26\u2019 R1T Full Loss Audio Issues",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6ooz7/20261530_26_r1t_full_loss_audio_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T18:20:19.824Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T Quality"
+        ]
+      },
+      {
+        "title": "\u0160koda Peaq clocks 1.5 million km, passes extreme testing",
+        "url": "https://www.automotiveworld.com/news/skoda-peaq-clocks-1-5-million-km-passes-extreme-testing/",
+        "source": "automotive_world",
+        "publishedAt": "Mon, 15 Jun 2026 18:16:47 +0000",
+        "score": 0,
+        "snippet": "<p>\u0160koda's Peaq electric SUV will make its world premiere on 23 June after test vehicles logged 1.5 million kilometres in conditions from -40\u00b0C to desert heat.</p>\n<p>The post <a href=\"https://www.aut",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threat",
+          "\u0160koda Peaq"
+        ]
+      },
+      {
+        "title": "Cboe data shows mixed options sentiment in Rivian with shares down 0.51% - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlJ3YmtLaFlBa0E2dFZuWXYzQVZOSFBtLWdKT3VjdHVwWm93WjN2b2hPMTFXalpvaTlDR3FIMEJTdjI3aFNDaVdnZ3pobFJrNnEwdnB3RUtXRDEtZXJTVjd6b002Rko5QWZOWUhNS2huSmhCQWFnaEdzclhFYm1RNVhsYnZJbWNMV2k5Q1hOaTNzTU90LTNwM3MySjhBd2gtQ1hhNHI3eUx2dTV1SzJFUlQxSEViLU9vTTRnTjNn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 15 Jun 2026 18:27:57 GMT",
+        "score": 0,
+        "snippet": "Cboe data shows mixed options sentiment in Rivian with shares down 0.51% - TipRanks",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2: A stable step in the right direction - Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrbVNtMDdiOFpxS1JaZk9OWGNEbFV2VUI2WThNT3pGV3lUSVBCRDJ5TTFYRUhjbU5VaURmVkd1SThVYThTWGpJV0JjZjhMdUFSUTFVSGFaRjU2cl9rTjFiN1RVN09vckgtUVpBUkFEZFlBS1FTQndSUg?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 15 Jun 2026 18:31:00 GMT",
+        "score": 0,
+        "snippet": "2027 Rivian R2: A stable step in the right direction - Automotive News",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Strategy"
+        ]
+      },
+      {
+        "title": "Rivian R2 Offers a Spare Tire, But It Will Cost You $775 - Torque News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2NyMXQ1ZmtyVjZZNUN4YkRyUTF3dElnMlN6MWhIbG8teGM2T1I5ZTNTZ3pBajdTRHpIRm1lb0poYk9sUnNEZGJpLXQzNkNaNldSN0ZVeGU5eU5TUWJEZGpGNUVPczQ4NjRFVG5BNFBoMmNVRmc0d2JNblhOWXlmajVHeWE3ZjQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 15 Jun 2026 21:05:15 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Offers a Spare Tire, But It Will Cost You $775 - Torque News",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "New Crop of Electric SUVs Ready for Suburban American Moms - Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0hMZzh2WS00MG44UlhSOGZwVXo0aTFuemlUbl9saEJLcHhENFl5Q0tqRWZMVm42NjNSMm5BdVZ2bUVEbjBETEItRWNwbDZKdml0S3VYc05pZjNIQmxfVmtvenk0ckhjbjUzY1YybFBxQURDSEhaM0FMRW40WnlOdGNoSkJ1OVZsQUVyMl84bmRIT3MweDNJ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 15 Jun 2026 09:50:00 GMT",
+        "score": 0,
+        "snippet": "New Crop of Electric SUVs Ready for Suburban American Moms - Newsweek",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "EV Market",
+          "Market Competition"
+        ]
+      },
+      {
+        "title": "@businessinsider.com (Bluesky): Rivian will release supervised self-driving later this year, with hands-free, ey",
+        "url": "https://bsky.app/profile/did:plc:azsiq6a5plbpa7ekw7pdrnum/post/3moe7hzjuyo2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T21:17:53.064Z",
+        "score": 0,
+        "snippet": "Rivian will release supervised self-driving later this year, with hands-free, eyes-off driving expected to come in 2027, CEO RJ Scaringe said. https://bit.ly/4eaPmCX",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving"
+        ]
+      },
+      {
+        "title": "@realimgroot.bsky.social (Bluesky): I was hoping to support Rivian with my $$ - but the R2 needs more like $$$$.\n\nBu",
+        "url": "https://bsky.app/profile/did:plc:fgwuipl2ygjoy2ptdli7fwgs/post/3moe36t2a5c2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T20:01:09.564Z",
+        "score": 0,
+        "snippet": "I was hoping to support Rivian with my $$ - but the R2 needs more like $$$$.\n\nBummer.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "@danhon.com (Bluesky): Apparently like 3 years ago?! I just got a Rivian tos notice when I opened it th",
+        "url": "https://bsky.app/profile/did:plc:okcllivvkleedwsmroggepzd/post/3moe2d22d5325",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T19:45:36.873Z",
+        "score": 2,
+        "snippet": "Apparently like 3 years ago?! I just got a Rivian tos notice when I opened it that I didn't get two days ago.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Product Updates"
+        ]
+      },
+      {
+        "title": "@danhon.com (Bluesky): Wait when did Rivian buy ABRP?",
+        "url": "https://bsky.app/profile/did:plc:okcllivvkleedwsmroggepzd/post/3modzxab7l325",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T19:39:00.660Z",
+        "score": 4,
+        "snippet": "Wait when did Rivian buy ABRP?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Strategic Acquisition"
+        ]
+      },
+      {
+        "title": "@7lusus4.bsky.social (Bluesky): From the line of the epic movie \u201cReal Genius\u201d:\n\nProfessor Hathaway: What are you",
+        "url": "https://bsky.app/profile/did:plc:h5l5b2hj6ra3bs5lr6hthnws/post/3modyhtlv622t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T19:12:30.561Z",
+        "score": 1,
+        "snippet": "From the line of the epic movie \u201cReal Genius\u201d:\n\nProfessor Hathaway: What are you looking at? You're laborers; you should be laboring. That's what you get for not having an education.\n\nFuck Amazon and ",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian's new Rocklin location puts charging, retail, service, and a demo R2 all ",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3modwxxavzk22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T18:45:46.660Z",
+        "score": 6,
+        "snippet": "Rivian's new Rocklin location puts charging, retail, service, and a demo R2 all in one spot for the first time. Friend of the site Mark went to the grand opening and shared his take on what it means f",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Retail Expansion",
+          "Charging Network"
+        ]
+      },
+      {
+        "title": "@mscip.com (Bluesky): Do Higher Oil Prices Mean Rivian Stock Will Finally Mount a Rebound? \u2014 Yahoo Fin",
+        "url": "https://bsky.app/profile/did:plc:ynw4rbzdzcjcwca6n5chyeyw/post/3modw5ishrc22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T18:30:55.671Z",
+        "score": 0,
+        "snippet": "Do Higher Oil Prices Mean Rivian Stock Will Finally Mount a Rebound? \u2014 Yahoo Finance\n\nhttps://finance.yahoo.com/markets/stocks/articles/higher-oil-prices-mean-rivian-153500928.html",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@dmeance.bsky.social (Bluesky): Rivian va lancer son propre FSD \u00e0 la fin de l\u2019ann\u00e9e et promet de rattraper Tesla",
+        "url": "https://bsky.app/profile/did:plc:ghanf34op55r5rmslegjrm4u/post/3modvvpdxxs2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T18:26:37.769Z",
+        "score": 1,
+        "snippet": "Rivian va lancer son propre FSD \u00e0 la fin de l\u2019ann\u00e9e et promet de rattraper Tesla www.numerama.com/vroom/227587... via @numerama.com",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving"
+        ]
+      },
+      {
+        "title": "@guycole.bsky.social (Bluesky): Successful today.  Look at the Rivian prices right after IPO for a counter examp",
+        "url": "https://bsky.app/profile/did:plc:oengogsfb6yvapuqyxhiipcl/post/3modv5llxj225",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T18:13:05.368Z",
+        "score": 12,
+        "snippet": "Successful today.  Look at the Rivian prices right after IPO for a counter example.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian R2 Standard First Look and Full Walkthrough",
+        "url": "https://youtube.com/watch?v=iwXv6vdjMl8",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T20:47:21Z",
+        "score": 0,
+        "snippet": "Rivian R2 Standard at $44,999 uses design trade-offs (fixed window, no wood trim) to hit price target; lidar-ready but lacks autonomous driving tech initially.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Can You Afford the New Rivian R2? (Full Analysis)",
+        "url": "https://youtube.com/watch?v=b4K3OdYCo60",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T20:43:38Z",
+        "score": 0,
+        "snippet": "Rivian R2 launches at $57,990 (330mi, 656hp) but offers weak financing (10% inferred lease APR vs 5.28% for R1S), making the pricier R1S better value due to R2's low-volume production.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "Now available for the #Rivian. #flated #airtopper #electricvehicle #truck #roadtrip #adventure",
+        "url": "https://youtube.com/watch?v=HxxdxNV4kV8",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T18:14:36Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Product Accessories"
+        ]
+      }
+    ]
   }
 ]
