@@ -24986,5 +24986,96 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-15T22:14:59.421275Z",
+    "timestamp": "2026-06-15T22:14:59.421275Z",
+    "sentiment": {
+      "positive": 66,
+      "neutral": 33,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Macroeconomic",
+      "Preconditioning",
+      "Siri Integration"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Built out a Rivian plugin so I could pre condition my truck with Siri. Summers been hot so far",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6uwxr/built_out_an_unofficial_homebridgerivian_plugin/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T22:00:53.751Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Siri Integration",
+          "Preconditioning"
+        ]
+      },
+      {
+        "title": "Built out a Rivian plugin so I could pre condition my truck with Siri. Summers been hot so far",
+        "url": "https://www.reddit.com/r/homebridge/comments/1u6uu8m/built_out_a_rivian_plugin_so_i_could_pre/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T22:00:53.751Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Siri Integration",
+          "Preconditioning"
+        ]
+      },
+      {
+        "title": "Stock futures are little changed after Dow posts new record close on potential U.S.-Iran peace deal",
+        "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Macroeconomic"
+        ]
+      }
+    ]
   }
 ]
