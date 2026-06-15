@@ -23226,5 +23226,321 @@
         "sentiment": "positive"
       }
     ]
+  },
+  {
+    "id": "2026-06-15T02:01:17.347455Z",
+    "timestamp": "2026-06-15T02:01:17.347455Z",
+    "sentiment": {
+      "positive": 25,
+      "neutral": 55,
+      "negative": 18
+    },
+    "sources": {
+      "news": {
+        "found": 27,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Finally got the 12V error",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u63747/finally_got_the_12v_error/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T01:54:04.959Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Test Drive Review Coming From a 2026 Model Y Owner",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u62x0i/rivian_r2_test_drive_review_coming_from_a_2026/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T01:39:59.031Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Happy flag day",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u627k3/happy_flag_day/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T01:06:33.399Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Help. A2z charger stuck in charge port.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u61twm/help_a2z_charger_stuck_in_charge_port/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T00:48:20.009Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative"
+      },
+      {
+        "title": "How does Rivian's autonomy (free or plus) compare to BMW's DAPP?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u60kta/how_does_rivians_autonomy_free_or_plus_compare_to/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T23:49:52.678Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What is the best option to get range wheels for an upcoming delivery since Rivian does not offer swaps?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u60gr8/what_is_the_best_option_to_get_range_wheels_for/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T23:44:40.367Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "R2 lightbar charge indication?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u608w2/r2_lightbar_charge_indication/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-14T23:34:35.625Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "U.S. stock futures jump on Iran deal to end the war; Japan\u2019s Nikkei surges 5%",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "RIVN Stock Slides Overnight: Rivian's 'Affordable' R2 Draws Backlash \u2013 Buyers Question Value Against Tesla Model Y - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWUydE9VT1hsLXhYcDV4djFyZ01OVGhqaUM1NFVLeTJUVFllTzdoZ2pTMEx4SUhnQi1JVlR0S21wOTVQaF8tX2ZiSm9pa0ZCTF90ZlJxR1c0MWZYcmFhajdLbUExVzY0aGJyV0dSNmtkWXpGbHdHX0FhSGJfdENZdDU4Zi1OdkFUVERhR2xKamZ6NldsQnFzYlN6Zk1RaUtYc211STI1bjlyM3g4UnlXTER6bnFncVpFamFCN3JaRkpLUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 14 Jun 2026 12:23:34 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Slides Overnight: Rivian's 'Affordable' R2 Draws Backlash \u2013 Buyers Question Value Against Tesla Model Y - Stocktwits",
+        "category": "business",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@linh.social (Bluesky): I'll have to swing by the Rivian Adventure Network chargers down at Bridgeport V",
+        "url": "https://bsky.app/profile/did:plc:zz27ueqtx4v7pm5gjavvg4hx/post/3mobysnz4h42c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T00:13:14.058Z",
+        "score": 1,
+        "snippet": "I'll have to swing by the Rivian Adventure Network chargers down at Bridgeport Village to see if those chargers are situated any better for vehicles that don't charging ports anywhere near the spot Ri",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@linh.social (Bluesky): There was a pull-through spot open for those with a trailer, but I didn't want t",
+        "url": "https://bsky.app/profile/did:plc:zz27ueqtx4v7pm5gjavvg4hx/post/3mobysnz4h32c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T00:13:14.036Z",
+        "score": 0,
+        "snippet": "There was a pull-through spot open for those with a trailer, but I didn't want to take up that spot in case someone else needed it.\n\nI don't know if the chargers with the NACS connector would have rea",
+        "category": "community",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@linh.social (Bluesky): ..., I had a strong gut feeling that the cable would not reach the NACS charging",
+        "url": "https://bsky.app/profile/did:plc:zz27ueqtx4v7pm5gjavvg4hx/post/3mobysnz3ht2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T00:13:14.011Z",
+        "score": 0,
+        "snippet": "..., I had a strong gut feeling that the cable would not reach the NACS charging port on the front passenger side of my Trailseeker. I even pulled up to within 2 inches of the post, no dice.\n\n3/5\n\n#EV",
+        "category": "community",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@linh.social (Bluesky): Between how the chargers are positioned (towards the driver side when pulling no",
+        "url": "https://bsky.app/profile/did:plc:zz27ueqtx4v7pm5gjavvg4hx/post/3mobysnz3hs2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T00:13:13.991Z",
+        "score": 0,
+        "snippet": "Between how the chargers are positioned (towards the driver side when pulling nose in), how the cables came out of the charger (fixed to the top left corner), and that they put a post with \"Vehicle Ch",
+        "category": "vehicles",
+        "sentiment": "negative"
+      },
+      {
+        "title": "@linh.social (Bluesky): So, I decided to swing by the Rivian Adventure Network at Clackamas Town Center ",
+        "url": "https://bsky.app/profile/did:plc:zz27ueqtx4v7pm5gjavvg4hx/post/3mobysnyun22c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T00:13:13.970Z",
+        "score": 2,
+        "snippet": "So, I decided to swing by the Rivian Adventure Network at Clackamas Town Center yesterday. When I got there, the charger at the very front was open (a Toyota Busy Forks just pulled out) and pulled int",
+        "category": "software",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mobw47folk2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T23:24:53.065Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Nice! We've had zero issues with EA/EVgo/ROVE etc (no experience with Tesla or R",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mobtsmckhs2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T22:43:43.866Z",
+        "score": 2,
+        "snippet": "Nice! We've had zero issues with EA/EVgo/ROVE etc (no experience with Tesla or Rivian yet). Made the trip from San Diego to Portland a breeze never needing to worry about charger availability or wheth",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@ts2tech.bsky.social (Bluesky): Rivian shares surged 7.85% to $16.76 after the R2 SUV launch, with public delive",
+        "url": "https://bsky.app/profile/did:plc:ljts44szt47c7wyklp2wghsx/post/3mobr3s2jld2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T21:55:10.670Z",
+        "score": 1,
+        "snippet": "Rivian shares surged 7.85% to $16.76 after the R2 SUV launch, with public deliveries underway and production ramp now the key test for RIVN stock; analysts see limited-to-moderate upside as execution ",
+        "category": "business",
+        "sentiment": "positive"
+      },
+      {
+        "title": "@automatka.trade (Bluesky): Mid month, and Rivian Automotive $RIVN visited the inner line of its monthly MA ",
+        "url": "https://bsky.app/profile/did:plc:djo74ravtncsifeywm3qmiow/post/3moboxjokwk23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T21:17:06.384Z",
+        "score": 0,
+        "snippet": "Mid month, and Rivian Automotive $RIVN visited the inner line of its monthly MA resistance band (candle is live) and the outer line of its weekly MA support cluster.\n--\n\ud83d\udcc9BEST Respected MA S&R Lines\ud83d\udcc8",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): Tesla FSD isn't sold as eyes-off, just hands-off with driver attention monitorin",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3moblcdbmuk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-14T20:11:25.562Z",
+        "score": 1,
+        "snippet": "Tesla FSD isn't sold as eyes-off, just hands-off with driver attention monitoring. Rivian point-to-point (not eyes-free), the rough equivalent of Tesla FSD, is supposedly coming before the end of 2026",
+        "category": "autonomy",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R2 Pricing Is Out | Walmart DC Network | Selling A Fisker on Cars &amp; Bids- EV80Quette Recharge",
+        "url": "https://youtube.com/watch?v=WSq0RUvoW_Y",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T02:00:34Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCTPJmDZPJt17iq4lsTuH61g/join Here's the Range, ...",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rivian R3 Revealed\u2026 The Small EV That Looks INSANE! \u26a1\ud83d\ude97\ud83d\udd25",
+        "url": "https://youtube.com/watch?v=sEk4_ccPZZ0",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T01:35:30Z",
+        "score": 0,
+        "snippet": "Rivian R3 Revealed\u2026 The Small EV That Looks INSANE!",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian CEO Gives BIG Update to Autonomy+ (FSD Competitor)",
+        "url": "https://youtube.com/watch?v=x6_IKaZSM5Y",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T01:00:17Z",
+        "score": 0,
+        "snippet": "Sell Your Tesla or Any Vehicle \u2013 Get Top Offers via PLUG Highest Offer for Tesla/EV - https://bit.ly/3KoN9rC \u2713 Tesla Referral ...",
+        "category": "software",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian R2 in Salt Lake City on Sunday June 14, 2026",
+        "url": "https://youtube.com/watch?v=9R0riYg2jS4",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T00:04:49Z",
+        "score": 0,
+        "snippet": "Nice to see R2 rollout happening on or ahead of schedule. Hope their Autonomy hardware and software evolution happens as ...",
+        "category": "software",
+        "sentiment": "positive"
+      },
+      {
+        "title": " Starting My Trading Journey Again | BBAI, JOBY, Rivian &amp; Long-Term Calls",
+        "url": "https://youtube.com/watch?v=BYiAw5ECxEk",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T00:04:24Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "This @Rivian thing might be Contagious  #funny #jokes",
+        "url": "https://youtube.com/watch?v=S18uJcnmt-4",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T00:00:07Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Rivian",
+        "url": "https://youtube.com/watch?v=Q0iDPLCqTCE",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T23:00:18Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "2027 Rivian R2 | Detailed Review and First Look ",
+        "url": "https://youtube.com/watch?v=wXeFsXYEQLM",
+        "source": "youtube",
+        "publishedAt": "2026-06-14T20:35:06Z",
+        "score": 0,
+        "snippet": "We discuss the new 2027 Rivian R2 in the first drive event. We talk with the engineers and explain the technology and how they ...",
+        "category": "vehicles",
+        "sentiment": "positive"
+      }
+    ]
   }
 ]
