@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
-import { IBM_Plex_Mono, Space_Grotesk, Anton } from 'next/font/google';
+import { IBM_Plex_Mono, Inter, Anton } from 'next/font/google';
 import './globals.css';
 
-const displayFont = Space_Grotesk({
+const displayFont = Inter({
   subsets: ['latin'],
   variable: '--font-display',
 });
