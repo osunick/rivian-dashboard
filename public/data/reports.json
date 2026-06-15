@@ -23938,5 +23938,439 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-15T16:27:06.633940Z",
+    "timestamp": "2026-06-15T16:27:06.633940Z",
+    "sentiment": {
+      "positive": 48,
+      "neutral": 37,
+      "negative": 14
+    },
+    "sources": {
+      "news": {
+        "found": 27,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "5G Partnership",
+      "AI Assistant",
+      "Autonomous Driving",
+      "Brand Marketing",
+      "Competitive Win",
+      "Competitor Issues",
+      "Cost Advantage",
+      "Factory Expansion",
+      "Highway Assist",
+      "Leadership",
+      "Market Adoption",
+      "Market Expansion",
+      "Missing Features",
+      "Off-Road Capability",
+      "Order Status",
+      "R1 Satisfaction",
+      "R1S Ownership",
+      "R1T Features",
+      "R1T Performance",
+      "R2 Features",
+      "R2 Launch",
+      "R2 Pricing",
+      "RIVN Stock",
+      "Software Roadmap",
+      "Subscription Pricing",
+      "Technical Issues",
+      "Tesla Comparison",
+      "Third-Party Software"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Based on current orders",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6lbe3/based_on_current_orders/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T16:20:58.001Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Order Status"
+        ]
+      },
+      {
+        "title": "No CarPlay? Okay, how about a weather app?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6je37/no_carplay_okay_how_about_a_weather_app/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T15:12:25.824Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Missing Features"
+        ]
+      },
+      {
+        "title": "My 2 year experience with R1S (~24,000 miles)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6j59l/my_2_year_experience_with_r1s_24000_miles/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T15:03:34.856Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Ownership"
+        ]
+      },
+      {
+        "title": "Questions from a Tesla owner.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6iu6f/questions_from_a_tesla_owner/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T14:52:09.768Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Tesla Comparison"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe on the R2, robotics & the future of EVs",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u6ko3r/rivian_ceo_rj_scaringe_on_the_r2_robotics_the/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-15T15:58:48.450Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Leadership"
+        ]
+      },
+      {
+        "title": "EVs have a lot of 4WD Off-Road potential",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u6io6l/evs_have_a_lot_of_4wd_offroad_potential/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-15T14:45:57.506Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Off-Road Capability"
+        ]
+      },
+      {
+        "title": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Less Than Gas",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u6iiqe/a_rivian_r1t_towed_a_big_trailer_1500_miles/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-15T14:40:22.852Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance",
+          "Cost Advantage"
+        ]
+      },
+      {
+        "title": "Stocks making the biggest moves midday: SpaceX, Roku, Tripadvisor, Ferrari & more",
+        "url": "https://www.cnbc.com/2026/06/15/stocks-making-the-biggest-moves-midday-spcx-roku-trip-race-more.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "R2 Launch, 5G Partnership, Georgia Expansion Might Change The Case For Investing In Rivian (RIVN) - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemNEQmNiU0ZNQ0FHU1hacFJkdzlSczN6ZDRJMC1nNWEzekxaUk1wV0trODE4RzZYalBOd2R0aHFKZlctaGdocHFBZ0FEc2o1UnpYZENIR096TmY2SjBuRWhjVjhwSXBPZmxNamZ4bXB5QTNSNjRwMUF0Z0VLWWRnX3ppbU4wM1pt?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 15 Jun 2026 14:06:31 GMT",
+        "score": 0,
+        "snippet": "R2 Launch, 5G Partnership, Georgia Expansion Might Change The Case For Investing In Rivian (RIVN) - Yahoo Finance Singapore",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "5G Partnership",
+          "Factory Expansion"
+        ]
+      },
+      {
+        "title": "@amyrwood.bsky.social (Bluesky): Small sample size but every new car in my neighborhood for the last two months i",
+        "url": "https://bsky.app/profile/did:plc:limlgilwl3naboahxz4zhia6/post/3modmy5zjvk2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T15:46:53.064Z",
+        "score": 0,
+        "snippet": "Small sample size but every new car in my neighborhood for the last two months is an electric (Hyundai, Kia, Ford Mustang, Rivian)",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Adoption",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@patrickgeorge.bsky.social (Bluesky): Were you eyeing a Rivian R2? Did that initial lease price put you off, or will y",
+        "url": "https://bsky.app/profile/did:plc:wg5zd5hs7waoaaozcdnbqw6v/post/3modlao42wk24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T15:16:10.876Z",
+        "score": 9,
+        "snippet": "Were you eyeing a Rivian R2? Did that initial lease price put you off, or will you still pull the trigger anyway? We're looking to talk to you! Drop me a note in the replies or email me at patrick.geo",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): \ud83c\uddfa\ud83c\uddf8 Rivian Leasing States \ud83c\uddfa\ud83c\uddf8\n\nRivian has officially updated the lease states list",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3modl3bhlsl2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T15:12:50.277Z",
+        "score": 0,
+        "snippet": "\ud83c\uddfa\ud83c\uddf8 Rivian Leasing States \ud83c\uddfa\ud83c\uddf8\n\nRivian has officially updated the lease states list to now include Minnesota.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Market Expansion"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): From @rivianroamer.com data, over 98% of R1 owners (that use Rivian Roamer - but",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3modkvemguk25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T15:09:31.965Z",
+        "score": 0,
+        "snippet": "From @rivianroamer.com data, over 98% of R1 owners (that use Rivian Roamer - but still generally indicative of the fleet - though I believe this also includes those on trials) have Connect+. These fea",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1 Satisfaction"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Such an interesting set of features that aren't available at launch, but I do ac",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3modkleby7s25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T15:03:55.870Z",
+        "score": 0,
+        "snippet": "Such an interesting set of features that aren't available at launch, but I do actually trust Rivian based on their history that software updates will come soon for these.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software Roadmap"
+        ]
+      },
+      {
+        "title": "@eldonedwards.bsky.social (Bluesky): RJ Scaringe on the 40 million decisions behind each Rivian\nwww.linkedin.com/puls",
+        "url": "https://bsky.app/profile/did:plc:qlwq4sr5hufm5xxd3irdirbh/post/3modhmrlz322c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T14:11:03.365Z",
+        "score": 0,
+        "snippet": "RJ Scaringe on the 40 million decisions behind each Rivian\nwww.linkedin.com/pulse/rj-sca...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Leadership"
+        ]
+      },
+      {
+        "title": "Rivian BRISE le monopole de Tesla sur la conduite autonome",
+        "url": "https://youtube.com/watch?v=154yXgVlKTk",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T16:00:22Z",
+        "score": 0,
+        "snippet": "Rivian annonce son propre syst\u00e8me de conduite autonome 'Point-\u00e0-Point' pour fin 2026. Analyse du basculement technologique ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving",
+          "Competitive Win"
+        ]
+      },
+      {
+        "title": "Driving the Rivian R1T 2021 using ONLY my phone as a steering wheel | #forzahorizon6 #shorts",
+        "url": "https://youtube.com/watch?v=H6R2DcEYe0g",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T16:00:21Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Features"
+        ]
+      },
+      {
+        "title": "Alfred fra Rivian Official music video",
+        "url": "https://youtube.com/watch?v=d55uUE3G1xU",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T14:18:15Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Marketing"
+        ]
+      },
+      {
+        "title": "Rivian R2 Driven! Will Mrs. ROMR approve? Buy Now -or- Wait for Lidar? ",
+        "url": "https://youtube.com/watch?v=LWgbiK2YckA",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T11:00:02Z",
+        "score": 0,
+        "snippet": "R2 debuts haptic steering wheel controls, natural-language AI assistant (~80% complete), and compact design to target mainstream buyers; positioned between larger R1S and simpler Chevy Blazer EV.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Features",
+          "AI Assistant"
+        ]
+      },
+      {
+        "title": "Comma Extreme Dev Kit NOW AVAILABLE",
+        "url": "https://www.rivianforums.com/forum/threads/comma-extreme-dev-kit-now-available.59106/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Comma Extreme Dev Kit NOW AVAILABLE",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Third-Party Software"
+        ]
+      },
+      {
+        "title": "Comma AI on Gen2. Any real world experience?",
+        "url": "https://www.rivianforums.com/forum/threads/comma-ai-on-gen2-any-real-world-experience.60137/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Comma AI on Gen2. Any real world experience?",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Third-Party Software"
+        ]
+      },
+      {
+        "title": "How does Gen1 decide what roads and when highway assist is available?",
+        "url": "https://www.rivianforums.com/forum/threads/how-does-gen1-decide-what-roads-and-when-highway-assist-is-available.60090/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "How does Gen1 decide what roads and when highway assist is available?",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Highway Assist"
+        ]
+      },
+      {
+        "title": "Angle-based steering now working on Comma for Gen 1 Rivians!",
+        "url": "https://www.rivianforums.com/forum/threads/angle-based-steering-now-working-on-comma-for-gen-1-rivians.57914/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Angle-based steering now working on Comma for Gen 1 Rivians!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Highway Assist"
+        ]
+      },
+      {
+        "title": "Universal hands free UHF faults",
+        "url": "https://www.rivianforums.com/forum/threads/universal-hands-free-uhf-faults.59190/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Universal hands free UHF faults",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Technical Issues"
+        ]
+      },
+      {
+        "title": "Keeping your R1 for 4y2m. Will you save $$$ with A+ Subscriptions Only?",
+        "url": "https://www.rivianforums.com/forum/threads/keeping-your-r1-for-4y2m-will-you-save-with-a-subscriptions-only.57832/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Keeping your R1 for 4y2m. Will you save $$$ with A+ Subscriptions Only?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Subscription Pricing"
+        ]
+      },
+      {
+        "title": "Installed Comma 4 Ai and now R1T stuck in Park!",
+        "url": "https://www.rivianforums.com/forum/threads/installed-comma-4-ai-and-now-r1t-stuck-in-park.59326/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Installed Comma 4 Ai and now R1T stuck in Park!",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Technical Issues"
+        ]
+      },
+      {
+        "title": "Adaptive Cruise Control unavailable until serviced",
+        "url": "https://www.rivianforums.com/forum/threads/adaptive-cruise-control-unavailable-until-serviced.51156/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Adaptive Cruise Control unavailable until serviced",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitor Issues"
+        ]
+      }
+    ]
   }
 ]
