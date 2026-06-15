@@ -535,12 +535,6 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
           meta={`${publishTrend.length} days · ${publishTrend.reduce((s, d) => s + d.total, 0)} dated signals`}
         >
           <PublishSentimentTrend data={publishTrend} />
-          <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-1.5 font-mono-num text-[10px] uppercase tracking-[0.16em] text-claude-muted">
-            <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-sm bg-[#2DD4A7]" /> Positive</span>
-            <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-sm bg-[#8B8F99]" /> Neutral</span>
-            <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-sm bg-[#F0453A]" /> Negative</span>
-            <span className="ml-auto normal-case tracking-normal text-claude-muted/70">Stacked by article publish day (PT), deduped by URL</span>
-          </div>
         </Card>
 
         <div className="grid gap-4 xl:grid-cols-[1.4fr_0.6fr]">

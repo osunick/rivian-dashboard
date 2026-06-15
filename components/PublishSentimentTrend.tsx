@@ -17,6 +17,15 @@ const COLORS = {
   negative: '#F0453A',
 };
 
+type SentimentFilter = 'all' | 'positive' | 'neutral' | 'negative';
+
+const FILTERS: { key: SentimentFilter; label: string; color: string }[] = [
+  { key: 'all', label: 'All', color: '#E6E6EA' },
+  { key: 'positive', label: 'Positive', color: COLORS.positive },
+  { key: 'neutral', label: 'Neutral', color: COLORS.neutral },
+  { key: 'negative', label: 'Negative', color: COLORS.negative },
+];
+
 const CustomTooltip = ({ active, payload, label }: any) => {
   if (!active || !payload?.length) return null;
   const map: Record<string, number> = {};
@@ -43,8 +52,8 @@ const CustomTooltip = ({ active, payload, label }: any) => {
   );
 };
 
-function DrillDownPanel({ point, onClose }: { point: PublishTrendPoint; onClose: () => void }) {
-  const items = point.items ?? [];
+function DrillDownPanel({ point, filter, onClose }: { point: PublishTrendPoint; filter: SentimentFilter; onClose: () => void }) {
+  const items = (point.items ?? []).filter(it => filter === 'all' || it.sentiment === filter);
   return (
     <div className="mt-4 overflow-hidden rounded-lg border border-marvel-line bg-[#0C0C10]">
       <div className="flex items-center justify-between border-b border-marvel-line bg-[#111118] px-4 py-2">
@@ -125,6 +134,7 @@ function DrillDownPanel({ point, onClose }: { point: PublishTrendPoint; onClose:
 
 export default function PublishSentimentTrend({ data }: Props) {
   const [selectedDate, setSelectedDate] = useState<string | null>(null);
+  const [filter, setFilter] = useState<SentimentFilter>('all');
 
   if (!data.length) {
     return (
@@ -135,6 +145,7 @@ export default function PublishSentimentTrend({ data }: Props) {
   }
 
   const selectedPoint = selectedDate ? data.find(d => d.date === selectedDate) ?? null : null;
+  const show = (k: 'positive' | 'neutral' | 'negative') => filter === 'all' || filter === k;
 
   const handleClick = (chartState: any) => {
     const point = chartState?.activePayload?.[0]?.payload as PublishTrendPoint | undefined;
@@ -144,6 +155,30 @@ export default function PublishSentimentTrend({ data }: Props) {
 
   return (
     <div>
+      <div className="mb-3 flex flex-wrap items-center gap-1.5">
+        {FILTERS.map(f => {
+          const active = filter === f.key;
+          return (
+            <button
+              key={f.key}
+              type="button"
+              onClick={() => setFilter(f.key)}
+              className="flex items-center gap-1.5 rounded-md border px-2.5 py-1 font-mono-num text-[10px] uppercase tracking-[0.16em] transition-colors"
+              style={{
+                borderColor: active ? f.color : '#26262F',
+                backgroundColor: active ? f.color + '1F' : 'transparent',
+                color: active ? f.color : '#7A7A86',
+              }}
+            >
+              {f.key !== 'all' && <span className="h-2 w-2 rounded-sm" style={{ background: f.color }} />}
+              {f.label}
+            </button>
+          );
+        })}
+        <span className="ml-auto font-mono-num text-[10px] text-claude-muted/70">
+          Stacked by article publish day (PT), deduped by URL
+        </span>
+      </div>
       <ResponsiveContainer width="100%" height={232}>
         <AreaChart
           data={data}
@@ -185,14 +220,14 @@ export default function PublishSentimentTrend({ data }: Props) {
           {selectedPoint && (
             <ReferenceLine x={selectedPoint.label} stroke="#E62429" strokeWidth={2} strokeDasharray="4 2" />
           )}
-          <Area type="monotone" dataKey="negative" stackId="1" stroke={COLORS.negative} strokeWidth={1.5} fill="url(#trendNeg)" />
-          <Area type="monotone" dataKey="neutral" stackId="1" stroke={COLORS.neutral} strokeWidth={1.5} fill="url(#trendNeu)" />
-          <Area type="monotone" dataKey="positive" stackId="1" stroke={COLORS.positive} strokeWidth={1.5} fill="url(#trendPos)" />
+          {show('negative') && <Area type="monotone" dataKey="negative" stackId="1" stroke={COLORS.negative} strokeWidth={1.5} fill="url(#trendNeg)" />}
+          {show('neutral') && <Area type="monotone" dataKey="neutral" stackId="1" stroke={COLORS.neutral} strokeWidth={1.5} fill="url(#trendNeu)" />}
+          {show('positive') && <Area type="monotone" dataKey="positive" stackId="1" stroke={COLORS.positive} strokeWidth={1.5} fill="url(#trendPos)" />}
         </AreaChart>
       </ResponsiveContainer>
 
       {selectedPoint && (
-        <DrillDownPanel point={selectedPoint} onClose={() => setSelectedDate(null)} />
+        <DrillDownPanel point={selectedPoint} filter={filter} onClose={() => setSelectedDate(null)} />
       )}
     </div>
   );
