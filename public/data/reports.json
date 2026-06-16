@@ -27082,5 +27082,103 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-16T22:14:26.255847Z",
+    "timestamp": "2026-06-16T22:14:26.255847Z",
+    "sentiment": {
+      "positive": 33,
+      "neutral": 33,
+      "negative": 33
+    },
+    "sources": {
+      "news": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Base Model",
+      "Fed Decision",
+      "Job Cuts",
+      "Market Conditions",
+      "Pricing Strategy",
+      "Production Scaling",
+      "R2 Launch"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Stock futures are little changed as Wall Street gears up for Federal Reserve rate decision",
+        "url": "https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Market Conditions",
+          "Fed Decision"
+        ]
+      },
+      {
+        "title": "Rivian cuts hundreds of jobs as it scales production of lower-priced R2 EV - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BazZVMEl1ekYwZlktYmt3T3M5NHR4T1BTTnViZnBfekw2SXhaaFVqMXhjdzREWG03T21vaTBncHZxRjJNN2lhMHVDeW5SaWVOQUE3STlDRWJzTEN6Mkd0YW54RkFDM3hkQldpekNBdU9zTU5DNFJWU3FPQ0hOQm8?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 16 Jun 2026 21:57:00 GMT",
+        "score": 0,
+        "snippet": "Rivian cuts hundreds of jobs as it scales production of lower-priced R2 EV - The Business Journals",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Job Cuts",
+          "Production Scaling"
+        ]
+      },
+      {
+        "title": "@kevinleecaster.bsky.social (Bluesky): Rivian will release a base model of the R2 a year after the higher-priced Perfor",
+        "url": "https://bsky.app/profile/did:plc:yjqekodgo25hjem4isderwak/post/3mogst5otad2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T22:09:27.062Z",
+        "score": 0,
+        "snippet": "Rivian will release a base model of the R2 a year after the higher-priced Performance Launch Edition. The expected price for this base model is around $46,485.\n\nI think that was the wrong angle to tak",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Base Model",
+          "Pricing Strategy"
+        ]
+      }
+    ]
   }
 ]
