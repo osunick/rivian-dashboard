@@ -25450,5 +25450,392 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-16T14:02:36.649481Z",
+    "timestamp": "2026-06-16T14:02:36.649481Z",
+    "sentiment": {
+      "positive": 56,
+      "neutral": 21,
+      "negative": 21
+    },
+    "sources": {
+      "news": {
+        "found": 23,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "AI Policy",
+      "Autonomous Driving",
+      "Battery Management",
+      "Brand Presence",
+      "Cannibalization Risk",
+      "Charging Network",
+      "Competitor Threat",
+      "Cost Savings",
+      "Depreciation Risk",
+      "Gear Shop",
+      "Home Charging",
+      "Lease Pricing",
+      "Market Interest",
+      "Market Position",
+      "Organizational Flexibility",
+      "Patent Awards",
+      "Positive Reviews",
+      "R1S Options",
+      "R1T Options",
+      "R2 Launch",
+      "Regulatory Barriers",
+      "Robotaxi",
+      "Sales Promotions",
+      "Sports Car",
+      "Strategic Partnerships",
+      "Utility Rewards"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "2026 R1T Tri-Max, Forest Green / Black Mountain / Brown Ash Wood",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7dpp7/2026_r1t_trimax_forest_green_black_mountain_brown/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T13:34:23.898Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Options"
+        ]
+      },
+      {
+        "title": "Rivian Gear Shop Reviews",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u72if3/rivian_gear_shop_reviews/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T03:42:05.900Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Gear Shop"
+        ]
+      },
+      {
+        "title": "R1S Dual Paint And Interior Questions",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u70ymw/r1s_dual_paint_and_interior_questions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T02:27:03.780Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Options"
+        ]
+      },
+      {
+        "title": "Rivian, ChargeScape to enroll EV batteries into managed-charging program - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR093TWZmem11RWZuODNlYVNmaTI2MUM5MFg0Z1hVX0ZVVFBrYVVnR05lLXQzRU5KYnJzd19UQTQ4eDNfTUczMW1wSkhYQkI0cEVzbDZ4Q1hTM2lyb2dQTXBOWnJSWWlieXctZV9OcTIyaWxJQlpIQUR3b1psLS1YRXRDbUhqN1JVSld3VHk0aVNtX0xIYm1yejRIMExZVzRISmFVUHcySTZYR0dWNFdRU051a0NYLXd0TFVzRG5R?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 12:46:31 GMT",
+        "score": 0,
+        "snippet": "Rivian, ChargeScape to enroll EV batteries into managed-charging program - TipRanks",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Battery Management",
+          "Strategic Partnerships"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Make-or-Break SUV Is Here. Fans Are Already Balking at the Lease Price. - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xN3JrYTRLczI5bTRoaGdwTmVzenI1NURJLXFNUUR5cHBsTExkQVNUYVRzZGtpeWlXMUFTdlNVMXNURk5DU0pIb0Q2SkM5QThXblRxQlNXNFNZaWtGUFhzQnZnTmppVDlqMEhCckljMjZaTy1qVHc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 16 Jun 2026 09:30:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Make-or-Break SUV Is Here. Fans Are Already Balking at the Lease Price. - WSJ",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Lease Pricing"
+        ]
+      },
+      {
+        "title": "Why Is the S&P 500 Watching Rivian\u2019s R2 SUV Expansion Push? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmZ0YVpYWkl3VEdEcVp3SjZGd0pDVmFGMW5JSkNER3JwUTRLWDJaSVI0UENObEVreG9MNnc3eG9LTEFpdlpZbGFPelVlVXZGMDBPUEZwZDRPXzdKcS1TNXRfV2hiRU9XbTRqZHVHYnhWVUxMX0ltZmFKalJscmxaSGtJWTJHU1hqVDV3SjI3OERYWndPcHJqWmxvdVFlLWQ3NFlYTQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 16 Jun 2026 09:05:00 GMT",
+        "score": 0,
+        "snippet": "Why Is the S&P 500 Watching Rivian\u2019s R2 SUV Expansion Push? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Market Interest"
+        ]
+      },
+      {
+        "title": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQMldRNTI0X21RY0lldVRzOHNvR3ZMQ25lSGJGV3AtcmVmVXpiQmlTTjQ4bVV2QnAtdGJmaVdzUV9JQXhmTE8xYmR5Ymlkb09lRi1pRzQ2VTFpUUozNHhvR3Y2MFdIYjQ0ZXRPMFYweUNUT2xBX2hmcUlrRUxjR05QUGtrd0tMQUhEc0tUZEpUOTFfLUVPN2M1VmZmbWUzMVlfZHQ3MmpPaEVOc19fUE13am1oQ2tzeGFlS1N3TlZNXzFKcUEzSWc3VTJZVjg3Y0hzY3I1a3pKWG14Q1AtR0YzRlVmeVZPNnlISUZmNHdTVHU4d2lNT094WW1adkpJZGdNc2toVDlQcUdWVzYycEFMM0F5V2hmYXRGZjdfYWt5WFA1N19yRUdmQ200TFZqTFUwdHk3czQyN3dVUXkwZk9idUJoNTBWMTE3YnpXMXB3N2g2OHZVbGdIc0szSjltbDRXMzN3am94dTVvSFlPVUZOblNnVTZtbnUxbFUzUTZSbw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 16 Jun 2026 07:39:50 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Positive Reviews"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Today, Rivian was awarded a patent for \"vehicle quarter-panel window assembly\". ",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mofxib46en2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T14:00:11.166Z",
+        "score": 0,
+        "snippet": "Today, Rivian was awarded a patent for \"vehicle quarter-panel window assembly\".  You may recognize this one - it's the R2 rear vented windows.  I do think Rivian adds this feature in R2 Gen 2 or Gen 3",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Patent Awards"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): ChargeScape Inks Partnership with Rivian to Unlock EV Battery Flexibility \n\nPR: ",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mofunqh7ot2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T13:09:33.074Z",
+        "score": 0,
+        "snippet": "ChargeScape Inks Partnership with Rivian to Unlock EV Battery Flexibility \n\nPR:  buff.ly/dlvo9b2",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Battery Management",
+          "Strategic Partnerships"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Nice! I loved managed charging programs like this. We've saved a ton on our Equi",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mofu5dswts2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T13:00:22.564Z",
+        "score": 0,
+        "snippet": "Nice! I loved managed charging programs like this. We've saved a ton on our Equinox EV with JCP&L's managed charging and never had an issue where the car wasn't charged adequately. Happy to see this c",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Charging Network",
+          "Competitor Threat"
+        ]
+      },
+      {
+        "title": "@spin4srv.bsky.social (Bluesky): Did not realize that the new Rivian, even if it is well priced and a decent car,",
+        "url": "https://bsky.app/profile/did:plc:zv3prrbj7embrfi22wcuz4tp/post/3mofu4ugaak2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T13:00:06.866Z",
+        "score": 0,
+        "snippet": "Did not realize that the new Rivian, even if it is well priced and a decent car, may fail because the high depreciation history of electric cars will make the leasing costs super high due to the low e",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Depreciation Risk"
+        ]
+      },
+      {
+        "title": "@urnotkelly.bsky.social (Bluesky): Who can afford a Rivian? And who the hell would drive a Tesla at this point?? Yo",
+        "url": "https://bsky.app/profile/did:plc:hmkvbgz2fzy6ik33z74hymsu/post/3mofu2a5ajs23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T12:58:38.376Z",
+        "score": 0,
+        "snippet": "Who can afford a Rivian? And who the hell would drive a Tesla at this point?? You\u2019re basically paying for the privilege of it being 11 times more likely to kill you.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Position"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Rivian just made it easier to save money on home EV charging",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3moftpllzmk24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T12:52:41.260Z",
+        "score": 8,
+        "snippet": "Rivian just made it easier to save money on home EV charging",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Home Charging",
+          "Cost Savings"
+        ]
+      },
+      {
+        "title": "@tinamcasey.bsky.social (Bluesky): Rivian is making it easier for EV drivers to earn utility discounts when they re",
+        "url": "https://bsky.app/profile/did:plc:nhfd7cdsxrrzqmxdbmv6uchv/post/3moftj62eak2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T12:49:06.183Z",
+        "score": 1,
+        "snippet": "Rivian is making it easier for EV drivers to earn utility discounts when they recharge.\n\ncleantechnica.com/2026/06/16/r...\n\n#evs #electriccars #electricvehicles #rivian #affordableevs #us #startups #a",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network",
+          "Utility Rewards"
+        ]
+      },
+      {
+        "title": "@druce.ai (Bluesky): Rivian CEO calls lack of U.S. education response to AI 'wildly naive' as AI-powe",
+        "url": "https://bsky.app/profile/did:plc:qomkdnxrqw3gkbytdxea5z65/post/3mofswm4bvs2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T12:38:44.865Z",
+        "score": 1,
+        "snippet": "Rivian CEO calls lack of U.S. education response to AI 'wildly naive' as AI-powered robots target jobs.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "AI Policy"
+        ]
+      },
+      {
+        "title": "@dailykanban.com (Bluesky): Tuesday Morning Auto News, Jun 16, 2026: Rivian wants to release something like ",
+        "url": "https://bsky.app/profile/did:plc:ubcricree3rmray5va2ngwql/post/3mofqssrhks2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T12:00:51.761Z",
+        "score": 0,
+        "snippet": "Tuesday Morning Auto News, Jun 16, 2026: Rivian wants to release something like FSD. BMW\u2019s M3 may ditch carbon fiber. Tata targets >18% market share. More. dailykanban.com/2026/06/16/t...",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving"
+        ]
+      },
+      {
+        "title": "@gratefulmom.bsky.social (Bluesky): In South Carolina, that lobby is so strong that it's illegal for Tesla or Rivian",
+        "url": "https://bsky.app/profile/did:plc:smjg72bz4swjqxp7i3jf6c6l/post/3mofqbabx6s2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T11:50:59.969Z",
+        "score": 2,
+        "snippet": "In South Carolina, that lobby is so strong that it's illegal for Tesla or Rivian to operate any sales or service centers because they are direct to consumer. You have to go to Savannah or Charlotte fo",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Regulatory Barriers"
+        ]
+      },
+      {
+        "title": "Rivian #CEO on getting comfortable with #chaos",
+        "url": "https://youtube.com/watch?v=MGvtr8AyTOA",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T14:00:29Z",
+        "score": 0,
+        "snippet": "CEO indicates Rivian prioritizes vision alignment over rigid execution plans, suggesting product roadmap/timeline flexibility as markets and technology evolve, with emphasis on organizational agility.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Organizational Flexibility"
+        ]
+      },
+      {
+        "title": "RIVIAN Sports car container \ud83d\udea7\ud83d\ude31  #viralreels #trendingreel #containerhouse #usa #AI",
+        "url": "https://youtube.com/watch?v=qLmpVehHvGU",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T13:09:32Z",
+        "score": 0,
+        "snippet": "RIVIAN Sports car container #viralreels #trendingreel #containerhouse #usa #AI Sports car container #viralreels ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Sports Car"
+        ]
+      },
+      {
+        "title": "Is the New 2027 R2 Going To Make or Break Rivian?",
+        "url": "https://youtube.com/watch?v=iHTEayusVws",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T11:00:11Z",
+        "score": 0,
+        "snippet": "R2: $45-55K, 300+ mi range, 650hp dual-motor, 230kW charging, coil suspension; off-road-capable Model Y alternative with haptic controls; key risk: cannibalization from used R1S at comparable price po",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Cannibalization Risk"
+        ]
+      },
+      {
+        "title": "\u7279\u65af\u62c9FSD\u88ab\u56f4\u653b\uff1fUber\u6276\u8d77Rivian\uff0c\u9a6c\u65af\u514b\u6700\u503c\u94b1\u7684\u6545\u4e8b\u8981\u53d8\u4e86\uff01#\u7279\u65af\u62c9 #FSD #Rivian #Uber #Robotaxi",
+        "url": "https://youtube.com/watch?v=eWnYfj7M86c",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T10:50:47Z",
+        "score": 0,
+        "snippet": "\u7279\u65af\u62c9\u6700\u503c\u94b1\u7684\u6545\u4e8b\uff0c\u7a81\u7136\u88abRivian\u548cUber\u76ef\u4e0a\u4e86\u3002 \u8fc7\u53bb\u5e02\u573a\u7ed9\u7279\u65af\u62c9\u9ad8\u4f30\u503c\uff0c\u5f88\u5927\u4e00\u90e8\u5206\u4e0d\u662f\u56e0\u4e3a\u5b83\u53ea\u662f\u4e00\u5bb6\u7535\u52a8\u8f66\u516c\u53f8\uff0c\u800c\u662f ...",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving",
+          "Robotaxi"
+        ]
+      },
+      {
+        "title": "\u2757\ufe0fRIVIAN R2 DEMO DRIVE UPDATE \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=EtN82BmNMX0",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T08:30:25Z",
+        "score": 0,
+        "snippet": "Rivian R2 demo drives debut June 9th at select locations nationwide with $2,500 savings; specific locations announced tomorrow.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Sales Promotions"
+        ]
+      },
+      {
+        "title": "Runden drehen im Rivian! Forza Horizon 6 [#043]",
+        "url": "https://youtube.com/watch?v=JPWKOlzHfQA",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T08:00:17Z",
+        "score": 0,
+        "snippet": "Hey ho Festival-Racer 4.0!, ;) Gef\u00e4llt dir das Projekt Dann sei doch auch einfach n\u00e4chstes mal dabei! Playlist der verwendeten ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Presence"
+        ]
+      }
+    ]
   }
 ]
