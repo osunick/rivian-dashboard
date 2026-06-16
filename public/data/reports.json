@@ -25837,5 +25837,99 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-16T14:13:06.904100Z",
+    "timestamp": "2026-06-16T14:13:06.904100Z",
+    "sentiment": {
+      "positive": 66,
+      "neutral": 33,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "2027 Lineup",
+      "Driver Assist",
+      "Off-Road Capability",
+      "R1S",
+      "SpaceX"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "SpaceX surges past Microsoft in market cap, becoming fourth-biggest U.S. company",
+        "url": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "SpaceX"
+        ]
+      },
+      {
+        "title": "@sarathm01.bsky.social (Bluesky): carbuzz.com/2027-rivian-...",
+        "url": "https://bsky.app/profile/did:plc:3ldxkoezyir3g4xsnshbkrox/post/3mofxqbgb2k2z",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T14:04:48.461Z",
+        "score": 0,
+        "snippet": "carbuzz.com/2027-rivian-...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "2027 Lineup"
+        ]
+      },
+      {
+        "title": "2025 Rivian R1S Adventure Henderson, Las Vegas, Flagstaff, Phoenix, St. George NV",
+        "url": "https://youtube.com/watch?v=Egn582bY5kY",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T14:06:38Z",
+        "score": 0,
+        "snippet": "2025 Rivian R1S emphasizes off-road capability, family-friendly seating, driver assist features, and infotainment as core competitive differentiators in used inventory market.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R1S",
+          "Off-Road Capability",
+          "Driver Assist"
+        ]
+      }
+    ]
   }
 ]
