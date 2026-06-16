@@ -25077,5 +25077,378 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-16T02:04:26.650256Z",
+    "timestamp": "2026-06-16T02:04:26.650256Z",
+    "sentiment": {
+      "positive": 34,
+      "neutral": 34,
+      "negative": 30
+    },
+    "sources": {
+      "news": {
+        "found": 23,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomous Capability",
+      "Competitor Issues",
+      "Dealer Experience",
+      "Dealer Sentiment",
+      "Delivery Milestones",
+      "Design Issues",
+      "Direct Sales",
+      "News Link",
+      "Parts Support",
+      "Profitability",
+      "R1S Ride Comfort",
+      "R1T Customization",
+      "R1T Manufacturing",
+      "R2 Availability",
+      "R2 Buzz",
+      "R2 Content",
+      "R2 Features",
+      "R2 Launch",
+      "R2 Market Position",
+      "R2 vs Model Y",
+      "R3 Delays",
+      "Social Media"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Brake Hold on R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6yc4q/brake_hold_on_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T00:26:57.763Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Features"
+        ]
+      },
+      {
+        "title": "After market wheels and tires on a R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6xhcc/after_market_wheels_and_tires_on_a_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T23:49:54.124Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Customization"
+        ]
+      },
+      {
+        "title": "R2 Camouflage seen in the wild",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6wvey/r2_camouflage_seen_in_the_wild/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T23:23:22.458Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Possible to get a R2 this year?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u6wpz9/possible_to_get_a_r2_this_year/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-15T23:17:04.549Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Availability"
+        ]
+      },
+      {
+        "title": "Brand support - repair parts",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u6yh0l/brand_support_repair_parts/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-16T00:33:41.096Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Parts Support"
+        ]
+      },
+      {
+        "title": "Waymo halts robotaxi service amid flash flood concerns in Austin - Austin American-Statesman",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSW9fNzAyS1E3SkdtcXFuRnpQSktWRXRsd09GVnY2TkVwZC1VemM4X3RycFM4Qzh5T0gzZE1pTi1rRHRIR2NtcEhuZFlkSkk5YXdXY2ZmbWRxSDZzWTdDTE92OGljZTJ5WXNqOV95UXVhdmM4MFFKZmt0SU4zRXlUOEpMNy1wYTNXVUc1c1RhYkUxS0RZdlJBVEh2SkxRUQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 15 Jun 2026 19:32:23 GMT",
+        "score": 0,
+        "snippet": "Waymo halts robotaxi service amid flash flood concerns in Austin - Austin American-Statesman",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitor Issues"
+        ]
+      },
+      {
+        "title": "@okaynova.bsky.social (Bluesky): And they are the reason people in many states cannot purchase a Rivian or Tesla ",
+        "url": "https://bsky.app/profile/did:plc:pntaam2f62mdrjqmiwgmwb4h/post/3moeotslolk2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T01:52:54.975Z",
+        "score": 3,
+        "snippet": "And they are the reason people in many states cannot purchase a Rivian or Tesla EV. They block a direct manufacturer to consumer sales model.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Direct Sales"
+        ]
+      },
+      {
+        "title": "@on-tannhausergate.bsky.social (Bluesky): Car dealers are a bunch of fucking revanchist Nepo babies\n\nWe should absolutely ",
+        "url": "https://bsky.app/profile/did:plc:t6mvdyjtqfdocyca2qqgnmy6/post/3moeohksbd225",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T01:46:05.870Z",
+        "score": 1,
+        "snippet": "Car dealers are a bunch of fucking revanchist Nepo babies\n\nWe should absolutely fucking nuke their business, when I bought my Rivian it was 1000 times better than any car by an experience I ever had b",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Dealer Sentiment"
+        ]
+      },
+      {
+        "title": "@toppnews.bsky.social (Bluesky): \n#Rivian   #Tesla   #Musk \ud83e\udd2f   #Uber\n\ud83c\udf10 www.newsmart.ch",
+        "url": "https://bsky.app/profile/did:plc:mhqnbglrgmwiuz3kgexbi7uf/post/3moennhluhv26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T01:31:31.739Z",
+        "score": 0,
+        "snippet": "\n#Rivian   #Tesla   #Musk \ud83e\udd2f   #Uber\n\ud83c\udf10 www.newsmart.ch",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Catalina Wine Mixer - @Rivian R2 edition",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3moemyzn73y2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T01:20:04.263Z",
+        "score": 1,
+        "snippet": "Catalina Wine Mixer - @Rivian R2 edition",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Buzz"
+        ]
+      },
+      {
+        "title": "@middleisms.bsky.social (Bluesky): Those headlights bug me SOOO much. I love the Rivian, but those headlights make ",
+        "url": "https://bsky.app/profile/did:plc:42xnvnjlpsjnkami4uwyl4hb/post/3moelesb2p227",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T00:50:49.469Z",
+        "score": 1,
+        "snippet": "Those headlights bug me SOOO much. I love the Rivian, but those headlights make it impossible to own.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Design Issues"
+        ]
+      },
+      {
+        "title": "@greatlakeri.bsky.social (Bluesky): I\u2019ve had so many terrible experiences at dealerships. Betten GM where I bought m",
+        "url": "https://bsky.app/profile/did:plc:irbdnrydxfnesrfecalx3fpc/post/3moejtypuzk2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T00:23:31.774Z",
+        "score": 0,
+        "snippet": "I\u2019ve had so many terrible experiences at dealerships. Betten GM where I bought my Malibu was good but they are a huge exception to the rule I think. \n\nI\u2019ve seen many Tesla and Rivian drivers praise th",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Dealer Experience"
+        ]
+      },
+      {
+        "title": "@cleantechnica.bsky.social (Bluesky): Rivian R3 & R3X Will Go On Sale \u2026 Eventually\ncleantechnica.com/2026/06/14/r...",
+        "url": "https://bsky.app/profile/did:plc:7d36kzszvmgpsyjs6nwoeqmn/post/3moeijdj2j22l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T23:59:42.163Z",
+        "score": 9,
+        "snippet": "Rivian R3 & R3X Will Go On Sale \u2026 Eventually\ncleantechnica.com/2026/06/14/r...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R3 Delays"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Those Steelies...\n\nMEVCO @Rivian R1T trucks weren't always painted Spanish green",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3moeg6v6xky2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T23:18:02.962Z",
+        "score": 1,
+        "snippet": "Those Steelies...\n\nMEVCO @Rivian R1T trucks weren't always painted Spanish green. Many are white/silver with reflective tape and company decals.  Picture taken at a western Australia mining site.\n\nBru",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Manufacturing"
+        ]
+      },
+      {
+        "title": "@kevinleecaster.bsky.social (Bluesky): I'm beginning to believe that Rivian is going to make it as a new car company bu",
+        "url": "https://bsky.app/profile/did:plc:yjqekodgo25hjem4isderwak/post/3moeevwhjts2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T22:55:07.973Z",
+        "score": 0,
+        "snippet": "I'm beginning to believe that Rivian is going to make it as a new car company but still operating with a net negative income sadly.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Profitability"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3moeedfftpk2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-15T22:44:52.968Z",
+        "score": 1,
+        "snippet": "eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "News Link"
+        ]
+      },
+      {
+        "title": "Rivian\u5bf9\u6807\u7279\u65af\u62c9FSD\uff1f\u81ea\u52a8\u9a7e\u9a76\u5927\u997c\u80cc\u540e\u7684\u6280\u672f\u80cc\u79bb",
+        "url": "https://youtube.com/watch?v=vePUWnbpzcc",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T01:27:29Z",
+        "score": 0,
+        "snippet": "Rivian CEO\u5ba3\u5e03\u4eca\u5e74\u5e95\u63a8\u51fa\u201c\u53d7\u76d1\u7763\u201d\u7684\u70b9\u5bf9\u70b9\u81ea\u52a8\u9a7e\u9a76\uff0c\u5e76\u89c4\u5212\u540e\u5e74\u4ea4\u4ed85\u4e07\u8f86\u65e0\u4eba\u51fa\u79df\u8f66\u3002\u4f46\u73b0\u6709\u7cfb\u7edf\u8fde\u590d\u6742\u8def\u53e3\u90fd\u641e\u4e0d\u5b9a\uff0c\u8fd9\u7a76\u7adf ...",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomous Capability"
+        ]
+      },
+      {
+        "title": "Ford Mustang GT350 - Comfy Cruiser?",
+        "url": "https://youtube.com/watch?v=IchTEZCgjtk",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T01:00:20Z",
+        "score": 0,
+        "snippet": "Shelby GT350 outperformed Rivian R1S in ride comfort on 5,000-mile road trip despite being lowered sports car vs. large SUV.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Ride Comfort"
+        ]
+      },
+      {
+        "title": "Rivian: The EV Bet You Can&#39;t Afford to Miss This Year! #shorts",
+        "url": "https://youtube.com/watch?v=o-C0Mx9thp8",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T23:02:23Z",
+        "score": 0,
+        "snippet": "Rivian began vehicle deliveries June 9-10 as committed, hitting milestones that suggest strong probability of meeting future delivery and product timeline targets.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Delivery Milestones"
+        ]
+      },
+      {
+        "title": "Rivian: The EV Bet You Can&#39;t Afford to Miss This Year! #shorts",
+        "url": "https://youtube.com/watch?v=BMyWmIQ0LVA",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T23:02:26Z",
+        "score": 0,
+        "snippet": "Rivian delivering vehicles on promised June 9-10 timeline; on-time milestone execution demonstrates execution capability and credibility for future product targets.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Delivery Milestones"
+        ]
+      },
+      {
+        "title": "Rivian R2 - Silent Demo Drive",
+        "url": "https://youtube.com/watch?v=952XWQNr40Q",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T21:57:20Z",
+        "score": 0,
+        "snippet": "My Demo Drive of the Rivian R2 on June 15th, 2026. No talking, listen to the sounds and noises of the R2 and the road for ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Content"
+        ]
+      },
+      {
+        "title": "CarCast+Edmunds - Rivian R2, Lexus RX Plug-in Hybrid, Lexus ES EV, BMW M3 EV concept and more.",
+        "url": "https://youtube.com/watch?v=7XM34FnBiyo",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T21:41:23Z",
+        "score": 0,
+        "snippet": "Rivian R2: $45-60k, Model Y-comparable size, targets adventure vehicles (4Runner, X3) and EVs, critical volume car for Rivian survival with positive reviews.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Market Position"
+        ]
+      },
+      {
+        "title": "Rivian R2 test drive - compared to Model Y",
+        "url": "https://youtube.com/watch?v=5NRaBqeKopY",
+        "source": "youtube",
+        "publishedAt": "2026-06-15T21:25:44Z",
+        "score": 0,
+        "snippet": "Rivian R2 beats Model Y on handling and cabin spaciousness with premium features (haptic wheels, dual glove boxes, 360-camera), but lacks AM/FM radio and features a flimsy charging port design.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 vs Model Y"
+        ]
+      }
+    ]
   }
 ]
