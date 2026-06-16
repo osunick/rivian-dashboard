@@ -25931,5 +25931,466 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-16T18:04:10.708494Z",
+    "timestamp": "2026-06-16T18:04:10.708494Z",
+    "sentiment": {
+      "positive": 26,
+      "neutral": 20,
+      "negative": 53
+    },
+    "sources": {
+      "news": {
+        "found": 30,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Accessories",
+      "Charging Network",
+      "Company Operations",
+      "Company Strategy",
+      "Customer Service",
+      "International Markets",
+      "Pricing",
+      "Profitability",
+      "R1S Models",
+      "R2 Launch",
+      "Service Costs",
+      "Vehicle Quality"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "I created a community powered site that pulls together R2 reservation data from the top 2 Rivian forums to easily see where their reservations are in comparison to other 2000+",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7k96r/i_created_a_community_powered_site_that_pulls/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T17:32:41.269Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "You can not ORDER Coastal Cloud...",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7jxhg/you_can_not_order_coastal_cloud/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T17:21:29.399Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Got 12V battery alert. Rivian wants to charge me $825 to change them.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7juxx/got_12v_battery_alert_rivian_wants_to_charge_me/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T17:19:01.096Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Service Costs",
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "R2 vs next gen R1S vs used R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7juqa/r2_vs_next_gen_r1s_vs_used_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T17:18:47.840Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "R1S Models"
+        ]
+      },
+      {
+        "title": "Here we go!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7jfqw/here_we_go/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T17:04:04.121Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Every R2 build post be like: \u201cI know this is unique, but\u2026\u201d",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7j5kb/every_r2_build_post_be_like_i_know_this_is_unique/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T16:54:32.052Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "PSA: Cost for the Rivian-arranged home EV charger install was exploitatively high",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7j13m/psa_cost_for_the_rivianarranged_home_ev_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T16:50:11.283Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Charging Network",
+          "Customer Service"
+        ]
+      },
+      {
+        "title": "Rivian laying off hundreds of workers amid R2 launch",
+        "url": "https://www.cnbc.com/2026/06/16/rivian-layoffs.html",
+        "source": "cnbc_top",
+        "publishedAt": "Tue, 16 Jun 2026 17:58:32 GMT",
+        "score": 0,
+        "snippet": "Rivian said Tuesday it was laying off hundreds of workers, or less than 2% of its workforce.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian lays off hundreds of workers as it looks to scale profitably (RIVN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalNmRnRDSGpWZ0hhNFhSZHNFc2xLRk41blpFY09LT1lVWEtBOTVWcV91c0NvT3lQV1JMai15WXU1RHM2My1qa2c4YzFIYUJwY1hLOTBmdnRGWVZVWnZKU3U0b1U2V1BwMVFHUkFFeFIwU2ctX0ZpT1NIZEpZQ19ReFo5YlpUQ1VPSzFOSnVEWHVoWTNjLVRlTmlha3lYdkRWMkdKYUVHMDc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 17:07:01 GMT",
+        "score": 0,
+        "snippet": "Rivian lays off hundreds of workers as it looks to scale profitably (RIVN:NASDAQ) - Seeking Alpha",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations"
+        ]
+      },
+      {
+        "title": "Rivian cuts less than 2% of workforce in cost reduction push - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHNHLXNmYmt6cndOTzBrMlFmNFpSeFRyWnN1TWhwN0lRb0xrZmFCeXREMnhtcy1VdFJGY3dESWRlSmtNRzNWcHhpSlRFZWFkVncwU2M4M1JmU0x1eGFDSDJDRDFXdU9yYWthbzJsUUdoTlNZQ0I5QTU4Tko5d1djekh6QnRBdl9uQXdlVk5PTEM0cXVfdTd4aDFqeTV1cU92OW5CcHctdFdWMktNOVlyS2NFQ09ueVdsQUItSzFR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 16:47:02 GMT",
+        "score": 0,
+        "snippet": "Rivian cuts less than 2% of workforce in cost reduction push - Investing.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) confirms staff cuts of under 2% of total - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ0h3VDFFa090YkFacklETjhoUkcwd1Yxa05LRDJaXzlHREs5RGJZQy1rb21JN0dtS0JodkZPYkpSNS1Gb05NWmZPNXZMMUxxQ0xoX2N2bVFEYnBrZE1nWWc1ZWJUUXl4aWZoR1RLaE45Wkd6Y1hDYUxlTkwyUmJhdmtlbG9URHl2Vlp0T3ZaZVRZYVBNYW9LLTBobmF6ZjdESEg0Q0hyaF9XTHBrenZOcUpyTEV4OGd2MWVlekVVNzkyN2JXQ3c?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 16:59:28 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) confirms staff cuts of under 2% of total - StreetInsider",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations"
+        ]
+      },
+      {
+        "title": "Rivian lays off hundreds of workers, WSJ reports - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcm5DbDRXSHZFQkROVWNtNFFfU1hvSm8tNS1fTzhjc3N4VWlLOS0yQjRGaHZYUWh2MVUxaUJHUEN6WEJoOG16Qm1vVWZjY1hrMUZZWjZlZlFGQ3hxTGpUSmNLRml4c3V1UVZZVlBLNjVCbjU4S3BHRUs1OGtYZktubzhwd2hwTDRjYmZUemVEeVpPVzZLOTFoZjRCWVpTS2tYbnVCeGdJYUwwMFdUb19aSlZXbmhvT2JO?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 16:39:35 GMT",
+        "score": 0,
+        "snippet": "Rivian lays off hundreds of workers, WSJ reports - TradingView",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Lays Off Hundreds of Service, Customer Employees - WSJ - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMlMzNVoybXhSa2xDeFBRTHhCUkxhWmcyRXVRUzJGdHh5RmhCUnptMjN6ZWw0YU5sQ05OUnVPaUdEeFN3VkNpNWFPRzE2U1JwSVh6d1JfOGVYdEcwcmI1Y040eE9FN051aEZURG1NX2dVU3NWeUREUjJDY1VIdTVIX05IRGR4TUtCLThldE9qZGtHQTdrMFZzVjU0U0pWSWRGRFlEZzFadWEydFRoRGpCSGpGZjhZZTEzR1ZGYUNKbW4wYXJSc2ZUUE05N0JpS05TMEtHMmV5dEk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 16:39:28 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Lays Off Hundreds of Service, Customer Employees - WSJ - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations",
+          "Customer Service"
+        ]
+      },
+      {
+        "title": "Rivian lays off hundreds of workers, WSJ reports By Reuters - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDEzMTVvUi1nNzFLR2FDMFB4eHUyWXRxUVFUbG5MalJFV0pDODNkaXgyMHBhN240TGwxUEJadzcxc2dYV3VPajlhMjJ1RHFoSTBDMC1STmFPRDN1Y1p3QmVaQ2hlMWZXV2tmNnozTExmdWNjVEQ5eTB6QzA0c3dIQ3lkMFl4U1hBLVU4b2JvVzRkY0dwa05PUUc4cUQ3WWFiam4wWTlyZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 17:03:45 GMT",
+        "score": 0,
+        "snippet": "Rivian lays off hundreds of workers, WSJ reports By Reuters - Investing.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations"
+        ]
+      },
+      {
+        "title": "@nowbreezing.ntw.app (Bluesky): \nBluesky's Top 10 Trending Words (past 10min):\n\ud83d\udca8x1* - iran \ud83d\udd13\n\ud83d\udca8x49 - cheetos\n\ud83d\udca8x1*",
+        "url": "https://bsky.app/profile/did:plc:mcb6n67plnrlx4lg35natk2b/post/3mogew4j5gf2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T18:00:34.063Z",
+        "score": 0,
+        "snippet": "\nBluesky's Top 10 Trending Words (past 10min):\n\ud83d\udca8x1* - iran \ud83d\udd13\n\ud83d\udca8x49 - cheetos\n\ud83d\udca8x1* - epstein \ud83d\udd13\n\ud83d\udca8x1* - ukraine \ud83d\udd13\n\ud83d\udca8x27 - shrek\n\ud83d\udca8x26 - peroxide\n\ud83d\udca8x1* - democracy \ud83d\udd13\n\ud83d\udca8x25 - algae\n\ud83d\udca8x21 - hydrogen\n\ud83d\udca8x20 - ungove",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Yes, and previously Rivian comp\u2019d for one of the batteries for legacy vehicles",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mogeqhkphs2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:57:24.165Z",
+        "score": 0,
+        "snippet": "Yes, and previously Rivian comp\u2019d for one of the batteries for legacy vehicles",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Service"
+        ]
+      },
+      {
+        "title": "@y-combinator.bsky.social (Bluesky): Rivian laying off hundreds of workers amid R2 launch",
+        "url": "https://bsky.app/profile/did:plc:7iyol77dw2viublnkatetrgf/post/3mogellzgz22m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:54:40.865Z",
+        "score": 0,
+        "snippet": "Rivian laying off hundreds of workers amid R2 launch",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@techcrunch.com (Bluesky): The company said the cuts were part of a restructuring meant to help scale to pr",
+        "url": "https://bsky.app/profile/did:plc:vtpyqvwce4x6gpa5dcizqecy/post/3mogeiqhedl2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:53:05.562Z",
+        "score": 4,
+        "snippet": "The company said the cuts were part of a restructuring meant to help scale to profitability. Rivian recently pushed back its profitability goal to invest in autonomy.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations",
+          "Profitability"
+        ]
+      },
+      {
+        "title": "@ronews.bsky.social (Bluesky): Rivian cuts hundreds of workers after R2 deliveries start",
+        "url": "https://bsky.app/profile/did:plc:likpbauhjzq6dtxuo7fy3zlk/post/3mogehlfao52f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:52:25.960Z",
+        "score": 0,
+        "snippet": "Rivian cuts hundreds of workers after R2 deliveries start",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@news.karthihegde.dev (Bluesky): Rivian cuts hundreds of workers after R2 deliveries start\ntechcrunch | Author: S",
+        "url": "https://bsky.app/profile/did:plc:pqspyhvkx5lc7kdvef7yld6f/post/3mogeglao7j2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:51:52.475Z",
+        "score": 0,
+        "snippet": "Rivian cuts hundreds of workers after R2 deliveries start\ntechcrunch | Author: Sean O'Kane",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@wsj.com (Bluesky): \u201cI couldn\u2019t justify it.\u201d Rivian customers are backing away from high leasing pri",
+        "url": "https://bsky.app/profile/did:plc:i3fhjvvkbmirhyu4aeihhrnv/post/3mogea6p65s2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:48:18.182Z",
+        "score": 2,
+        "snippet": "\u201cI couldn\u2019t justify it.\u201d Rivian customers are backing away from high leasing prices for the automaker\u2019s new R2 electric SUV. on.wsj.com/4vTM7Wx",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Pricing"
+        ]
+      },
+      {
+        "title": "@angelogiganti.bsky.social (Bluesky): Buy #Rivian. It is a superior product in every way.",
+        "url": "https://bsky.app/profile/did:plc:l7zidxxfckv6mepubdxo7ch2/post/3mogdq4fzac2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:39:18.663Z",
+        "score": 0,
+        "snippet": "Buy #Rivian. It is a superior product in every way.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "@suestokes.bsky.social (Bluesky): I think the Polestar/Rivian prices are the reverse in the UK.  Ours is through a",
+        "url": "https://bsky.app/profile/did:plc:esgq2g6s6dhacoqen3nrstw6/post/3mogdouyruc2w",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:38:38.960Z",
+        "score": 1,
+        "snippet": "I think the Polestar/Rivian prices are the reverse in the UK.  Ours is through a very generous company incentive with government support, we are very lucky.  Most Bev's are great cars \ud83d\ude01",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Pricing",
+          "International Markets"
+        ]
+      },
+      {
+        "title": "@bradporcellato.bsky.social (Bluesky): \n\nRivian laying off hundreds of workers amid R2 launch https://t.co/68Q2xLGYYP\n\n",
+        "url": "https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mogd6duxob2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T17:29:22.267Z",
+        "score": 0,
+        "snippet": "\n\nRivian laying off hundreds of workers amid R2 launch https://t.co/68Q2xLGYYP\n\n  \u2014 The Right News, Right Now. (@BradPorcellato)\n  Jun 16, 2026\n\nJune 16, 2026 at 10:27AM\n\nvia Twitter https://twitter.c",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Operations",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "New Rivian Window Guards &amp; Passenger Partition | Gamber-Johnson",
+        "url": "https://youtube.com/watch?v=tSdjxLs4Bic",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T15:55:53Z",
+        "score": 0,
+        "snippet": "Now Available for Rivian R1T and R1S Vehicles Gamber-Johnson Rivian Window Guards and Passenger Partition are built to ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Accessories"
+        ]
+      },
+      {
+        "title": "AAFOC Takeover of the Rivian Theater! #marketing #creative #WinAnAddy",
+        "url": "https://youtube.com/watch?v=Si4ZS5GA9lk",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T15:30:27Z",
+        "score": 0,
+        "snippet": "No product, pricing, timing, autonomy, or competitive intelligence present\u2014transcript is pure marketing/creative philosophy content with no actionable business intel.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "2027 Rivian R2 Launch Edition Review + Driving Impressions! The BEST Commuter EV?",
+        "url": "https://youtube.com/watch?v=m69LHESIiU8",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T15:00:05Z",
+        "score": 0,
+        "snippet": "2027 R2 Launch Edition: 659-hp dual-motor, 87.7-kWh compact SUV competing with RAV4/CRV; new Unreal Engine UI, 360-camera system, coil suspension (not air).",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Sad to say bye to @rivian R1S in Limestone w/22\u201d Range Wheels, but excited for R2! #cars #rivianr2",
+        "url": "https://youtube.com/watch?v=0VdykFK1SnA",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T14:42:08Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "R1S Models"
+        ]
+      },
+      {
+        "title": "Why Buyers Are Fighting Over This Rivian R1S \ud83e\udd2f",
+        "url": "https://youtube.com/watch?v=e94MwOcN5Ts",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T14:23:39Z",
+        "score": 0,
+        "snippet": "2026 Rivian R1S dual-max with max battery, dynamic glass roof, NACS Tesla-charger access sells within hours; extreme demand signals strong market advantage.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Models"
+        ]
+      },
+      {
+        "title": "Rivian founder RJ Scaringe opened up about the jaw-dropping reality of raising 12 BILLION dollars \ud83e\udd2f\ud83d\udcb8",
+        "url": "https://youtube.com/watch?v=YtSvB3SxOsk",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T13:54:55Z",
+        "score": 0,
+        "snippet": "R2 launches alongside Kia EV9; Rivian differentiates through vertical integration (electronics, software, motors) and direct-to-consumer sales while expecting losses during market scale-up.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Company Strategy"
+        ]
+      }
+    ]
   }
 ]
