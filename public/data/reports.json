@@ -27574,5 +27574,528 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-17T14:04:24.861284Z",
+    "timestamp": "2026-06-17T14:04:24.861284Z",
+    "sentiment": {
+      "positive": 54,
+      "neutral": 15,
+      "negative": 30
+    },
+    "sources": {
+      "news": {
+        "found": 33,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 25,
+        "sentiment": null
+      },
+      "business": {
+        "found": 5,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Brand Sentiment",
+      "Competitive Advantage",
+      "Competitor Comparison",
+      "Competitor Weakness",
+      "Deliveries",
+      "Financial Analysis",
+      "Hardware Defect",
+      "Lighting Tech",
+      "Market Positioning",
+      "Phone As Key",
+      "Product Interest",
+      "Product Quality",
+      "Profitability",
+      "R2 Launch",
+      "R3X",
+      "RIVN Stock",
+      "Service Network",
+      "Staff Cuts",
+      "Staff Restructuring",
+      "Technology Leadership",
+      "Towing Performance",
+      "User Experience",
+      "Vehicle Performance",
+      "Warranty"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Let\u2019s See Your Rivian\u2019s Elevation Record: Highest and Lowest You Recorded",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8apr0/lets_see_your_rivians_elevation_record_highest/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T13:48:39.310Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Performance"
+        ]
+      },
+      {
+        "title": "Anyone have the frunk button push in from normal use?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u89fx5/anyone_have_the_frunk_button_push_in_from_normal/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T12:56:27.957Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Hardware Defect"
+        ]
+      },
+      {
+        "title": "Tesla->Rivian regen questions",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u87sb0/teslarivian_regen_questions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T11:40:25.304Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Competitor Comparison"
+        ]
+      },
+      {
+        "title": "App functionality w/out phone as key",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u87o23/app_functionality_wout_phone_as_key/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T11:34:34.833Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Phone As Key"
+        ]
+      },
+      {
+        "title": "Was looking at R2 but not near a service center",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u876l9/was_looking_at_r2_but_not_near_a_service_center/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T11:09:54.048Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Service Network",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Is Rivian\u2019s \u201ccomprehensive inspection\u201d a state inspection?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u86ypq/is_rivians_comprehensive_inspection_a_state/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T10:58:30.980Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Warranty"
+        ]
+      },
+      {
+        "title": "Rivian laying off hundreds of workers amid R2 launch",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u843pr/rivian_laying_off_hundreds_of_workers_amid_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T08:12:52.964Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Staff Cuts",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian trims staff again as R2 and AV pressure mounts",
+        "url": "https://www.automotiveworld.com/topics/software-defined-vehicle/rivian-trims-staff-again-as-r2-and-av-pressure-mounts/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 17 Jun 2026 09:45:28 +0000",
+        "score": 0,
+        "snippet": "<p>Cutting service and marketing staff during the launch week of the all-important R2 suggests Rivian is stretched dangerously thin. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotivew",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Staff Cuts",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian layoffs: Electric SUV maker slashes hundreds of jobs in bid for profitability after R2 launch - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3Bpcm9CNG5rR3pSaWdqVzlDcDh1c2FqbzFOTVgyZXNwR2ZkOV9WM2pQSHlzUm5UUXFVUGI3dlVPWmY4V2VKY25CZ2VBOFZEakVPelVnTE1jMzhwLTB0QThLS0tBZ09iMFhEQ2J5bWxlc25VNmRlUVdiOE12anhvSGtKSjBCQ21MeHNBWW9KSUxNcVVreFhnYy0zVkhqNlBU?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 12:24:46 GMT",
+        "score": 0,
+        "snippet": "Rivian layoffs: Electric SUV maker slashes hundreds of jobs in bid for profitability after R2 launch - Fast Company",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Profitability",
+          "Staff Cuts"
+        ]
+      },
+      {
+        "title": "Crushed by massive losses, Rivian (RIVN.US) laid off staff shortly after delivering new vehicles. - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQlFxSWRhNTlKTjZ1WUVNLUdZa09uN0docDhXeEh1eUVIRGthbnBkSmNNWVJhVkpCNW9TcG43a3A3R1ZRc0xjQ3hlRlVJV296dnFtWU5iMmlVUkdwb2RmdWtDMUttaFZQWENHOWc3VHdJZGhyR0N5NlZMSm01RXFONEE5RFNLS01TeGU4WTlicDBVcURWTjUyRE1fY2RhWmV0QXZURnp0cw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 09:18:18 GMT",
+        "score": 0,
+        "snippet": "Crushed by massive losses, Rivian (RIVN.US) laid off staff shortly after delivering new vehicles. - Moomoo",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Profitability",
+          "Staff Cuts"
+        ]
+      },
+      {
+        "title": "Rivian Cuts Jobs as Shares Fall 5.2% - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzJ5SHhDNnJUWmtuc0E0a050Z3ZnSzhLeURTVzJ5WVNwU2VmYU5keEJ1NmloYU96WnlzQ3EwUFFsdmNkZzVFY3JJSzBuVzU2UUhUREtpOS1ZSFR4NWU5RzNTRHFQVm1vcW1td3lOX0ktRkZYWFFYcDJDZTM1LVZoQU5iTVB1TWJadmtSdG94S3M3cGkxLUZCeGJ5dw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 12:21:55 GMT",
+        "score": 0,
+        "snippet": "Rivian Cuts Jobs as Shares Fall 5.2% - TradingView",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "Staff Cuts"
+        ]
+      },
+      {
+        "title": "Crushed by massive losses, Rivian (RIVN.US) laid off staff shortly after delivering new vehicles. - \u5bcc\u9014\u725b\u725b",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1YtQ0xkbURPWC1YUTVCSUtoNzVEUTVjeUViODhCejhNbDhGeUFjMkNjazBaMzhNVl9wdzZySlI2OXFOS2h2cEFiTmM1WWtlanJVWjdkTDJYWlZrT29MVzh5a0ZIczJoaWx6RUtzbFViZlduZ01LT293SGlTNGZ4MmdTQ0ZQeEp0bVhLNXVSWng4bFZsc0FLa21naUFQT2MxX1lDeHln?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 07:18:53 GMT",
+        "score": 0,
+        "snippet": "Crushed by massive losses, Rivian (RIVN.US) laid off staff shortly after delivering new vehicles. - \u5bcc\u9014\u725b\u725b",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Profitability",
+          "Staff Cuts"
+        ]
+      },
+      {
+        "title": "Rivian cuts hundreds of jobs despite R2 launch - electrive.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbml6bWxldjBwWmNIQkxyTkwzNEJpLS1tS2t1Y05kWkgxM2k4MlQ4c3RvbUlOdGVhWWZzYlh3M21DWXQ1WWd1Z0Z0SWRicTZaVGotVkp5QjlnalVNYUJFcm5qZ0N3WmpUNHdCbk9LU25lUTNIaTlPcUZHRFFadnM3Y2ppYmFpTlpIOGplcw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 17 Jun 2026 09:31:28 GMT",
+        "score": 0,
+        "snippet": "Rivian cuts hundreds of jobs despite R2 launch - electrive.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Staff Cuts",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@handgrena.de (Bluesky): Gimme that Rivian R3X!",
+        "url": "https://bsky.app/profile/did:plc:3hk2os4l5amf62omefs5ty3l/post/3moigw5ifzc2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T13:41:39.871Z",
+        "score": 0,
+        "snippet": "Gimme that Rivian R3X!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R3X",
+          "Product Interest"
+        ]
+      },
+      {
+        "title": "@automotoofficiel.bsky.social (Bluesky): Rivian licencie encore malgr\u00e9 l'arriv\u00e9e de son SUV \u00e9lectrique R2\n\u27a1\ufe0f https://l.au",
+        "url": "https://bsky.app/profile/did:plc:5rbngrtm7t2xcieevpo36xl3/post/3moifeoxyyd2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T13:14:03.067Z",
+        "score": 0,
+        "snippet": "Rivian licencie encore malgr\u00e9 l'arriv\u00e9e de son SUV \u00e9lectrique R2\n\u27a1\ufe0f https://l.auto-moto.com/QtT",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Staff Cuts",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@west1.bsky.social (Bluesky): Cool.  I hear good things about EVs, especially in the fueling front.    Rivian ",
+        "url": "https://bsky.app/profile/did:plc:io6fcla7d6kno7kb3srylciu/post/3moifcfflzs25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T13:12:48.476Z",
+        "score": 1,
+        "snippet": "Cool.  I hear good things about EVs, especially in the fueling front.    Rivian seems popular in these parts too.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Sentiment"
+        ]
+      },
+      {
+        "title": "@pdolby.bsky.social (Bluesky): I looked at Lucid-very nice but it was being released too late and I needed a sm",
+        "url": "https://bsky.app/profile/did:plc:g6oj34adhtfml2phmbd27e6e/post/3moiexlycxc2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T13:06:43.275Z",
+        "score": 1,
+        "snippet": "I looked at Lucid-very nice but it was being released too late and I needed a small suv for the dogs. Now driving an Audi Q6 e-tron and absolutely love it \n\nEVs are so quiet and I can\u2019t understate how",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitor Weakness"
+        ]
+      },
+      {
+        "title": "@houninym.bsky.social (Bluesky): Interesting math in that article... How do they come to the conclusion Rivian lo",
+        "url": "https://bsky.app/profile/did:plc:uybwsg5nycbx6jmk6jvkbux7/post/3moidjtrgj22l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T12:41:06.272Z",
+        "score": 0,
+        "snippet": "Interesting math in that article... How do they come to the conclusion Rivian lost $6k per vehicle when last year's loss divided by vehicles sold comes to $87k loss per vehicle sold?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Financial Analysis"
+        ]
+      },
+      {
+        "title": "@techimo.bsky.social (Bluesky): Rivian laid off hundreds of employees, impacting less than 2% of its ~15,200 wor",
+        "url": "https://bsky.app/profile/did:plc:vq4ilt5a37mnj46lscqltftp/post/3moibks32ot2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T12:05:51.868Z",
+        "score": 1,
+        "snippet": "Rivian laid off hundreds of employees, impacting less than 2% of its ~15,200 workforce. A spokesperson cited restructuring efforts for profitable growth, affecting service & customer-facing roles. Thi",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Staff Restructuring"
+        ]
+      },
+      {
+        "title": "@stephmu00mls.bsky.social (Bluesky): As Moseman meandered through the blackness of Route 101 in the Rivian, passing r",
+        "url": "https://bsky.app/profile/did:plc:bvkbdihlhqhdu3bxnnm7ze6u/post/3moia2kcsuk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T11:38:49.862Z",
+        "score": 0,
+        "snippet": "As Moseman meandered through the blackness of Route 101 in the Rivian, passing roadside outposts such as King City & Soledad,\n\nhis  \ud83d\ude97  auto-dimmed its\ud83d\udca1s for 1 oncoming driver after the next. Mile afte",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "User Experience"
+        ]
+      },
+      {
+        "title": "@stephmu00mls.bsky.social (Bluesky): the Rivian could recognize other cars & turn down the lights while they were sti",
+        "url": "https://bsky.app/profile/did:plc:bvkbdihlhqhdu3bxnnm7ze6u/post/3moi7o6t3hs2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T11:31:55.374Z",
+        "score": 0,
+        "snippet": "the Rivian could recognize other cars & turn down the lights while they were still several seconds away, \n\n*rather than waiting until an oncoming driver was right next to him*\n\n(what I don't trust abo",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Lighting Tech"
+        ]
+      },
+      {
+        "title": "@stephmu00mls.bsky.social (Bluesky): At first unaware that Rivian had rolled out the feature, Moseman wondered whethe",
+        "url": "https://bsky.app/profile/did:plc:bvkbdihlhqhdu3bxnnm7ze6u/post/3moi7msd6222b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T11:31:08.678Z",
+        "score": 0,
+        "snippet": "At first unaware that Rivian had rolled out the feature, Moseman wondered whether the car might be defective. \n\nWhen he finally realized what the SUV was up to & began to track the tech\u2019s performance,",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Lighting Tech"
+        ]
+      },
+      {
+        "title": "@stephmu00mls.bsky.social (Bluesky): In '24, Rivian put \ud83d\udca1 tech into its trucks & SUVs - & became 1st automaker to act",
+        "url": "https://bsky.app/profile/did:plc:bvkbdihlhqhdu3bxnnm7ze6u/post/3moi7jbmf2c2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T11:29:10.673Z",
+        "score": 0,
+        "snippet": "In '24, Rivian put \ud83d\udca1 tech into its trucks & SUVs - & became 1st automaker to activate compliant adaptive beams in USA. \n\n(only after Rivian redesigned entire electronics & computing setup in its vehic",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Technology Leadership",
+          "Lighting Tech"
+        ]
+      },
+      {
+        "title": "RANGE TEST - Flated Air Topper on the Rivian R1T while towing a Casita Liberty camp trailer",
+        "url": "https://youtube.com/watch?v=aaHuMcasq_A",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T13:31:33Z",
+        "score": 0,
+        "snippet": "R1T achieves 1.6 mi/kWh when towing 3,000-lb Casita trailer; Flated Air Topper shows zero efficiency improvement, indicating aerodynamic accessories don't impact towing range.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Towing Performance"
+        ]
+      },
+      {
+        "title": "Rivian Phone As Key Not Working? The Ultimate Hard Reset Fix",
+        "url": "https://youtube.com/watch?v=JdeElY7SAYI",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T13:00:12Z",
+        "score": 0,
+        "snippet": "Rivian phone-as-key failures require a full hard reset via simultaneous steering wheel and hazard button presses for 15 seconds to reestablish Bluetooth connection and clear corrupted pairing data.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Phone As Key"
+        ]
+      },
+      {
+        "title": "Rivian Delivers! Autonomy Coming Soon? Stock Surges! #shorts",
+        "url": "https://youtube.com/watch?v=5-oYK_9iGyM",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T12:57:38Z",
+        "score": 0,
+        "snippet": "Rivian launches June deliveries to existing and new customers while targeting end-of-year supervised autonomy; consistent milestone execution drives stock performance.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy",
+          "Deliveries"
+        ]
+      },
+      {
+        "title": "Rivian Delivers! Autonomy Coming Soon? Stock Surges! #shorts",
+        "url": "https://youtube.com/watch?v=HJQD_xybFI4",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T12:59:33Z",
+        "score": 0,
+        "snippet": "Rivian started June 9-10 deliveries to reservation holders and new buyers; FSD-like supervised autonomy coming by EOY 2026; on-time milestone execution bolsters credibility.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy",
+          "Deliveries"
+        ]
+      },
+      {
+        "title": "Why Tesla Is TERRIFIED Of The Rivian R2 \ud83d\ude31 #rivian #ev #gouldsgamingandtech #shorts #youtubeshorts",
+        "url": "https://youtube.com/watch?v=vWuNaa38kx0",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T12:32:33Z",
+        "score": 0,
+        "snippet": "Why Tesla is terrified of the Rivian R2 Join this channel to get access to perks: ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Competitive Advantage"
+        ]
+      },
+      {
+        "title": "Unbeatable Power \ud83d\ude31\ud83d\ude31 Rivian R1S",
+        "url": "https://youtube.com/watch?v=sNTodxgbthE",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T12:00:18Z",
+        "score": 0,
+        "snippet": "Welcome to my YouTube channel, where I bring you fun sim racing games and unforgettable steering wheel experiences!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Performance"
+        ]
+      },
+      {
+        "title": "The Rivian R2 I Replacement to the Tesla",
+        "url": "https://youtube.com/watch?v=xfucbdVZgZc",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T11:30:30Z",
+        "score": 0,
+        "snippet": "Rivian R2: $45k mass-market launch, 656hp/3.6s 0-60, 345-mile range, Tesla charging network access via NACS, positioned to challenge Model Y.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Market Positioning"
+        ]
+      },
+      {
+        "title": "Joni Epting, BFGoodrich Tires Engineer, Developed the Rivian R2 Tires and Here&#39;s What We Learned",
+        "url": "https://youtube.com/watch?v=0NLXvdjPtlg",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T11:00:31Z",
+        "score": 0,
+        "snippet": "Rivian R2 equipped with BFGoodrich Trail-Terrain T/A Plus tires\u2014a performance-optimized refresh emphasizing wet/dry braking and handling, engineered by Joni Epting.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Quality"
+        ]
+      },
+      {
+        "title": "The Rivian IPO: The Moonshot That Cratered and Never Came Back EP 9",
+        "url": "https://youtube.com/watch?v=ZTfhSW7BcwI",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T10:00:33Z",
+        "score": 0,
+        "snippet": "Rivian nearly tripled within a week of its 2021 debut, briefly worth more than Ford or GM, then collapsed about 85% with no ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian R2 Driving And Finanical Breakdown",
+        "url": "https://youtube.com/watch?v=kz4T_793BiM",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T10:00:02Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCTPJmDZPJt17iq4lsTuH61g/join ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      }
+    ]
   }
 ]
