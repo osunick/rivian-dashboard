@@ -28097,5 +28097,520 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-17T18:04:04.589197Z",
+    "timestamp": "2026-06-17T18:04:04.589197Z",
+    "sentiment": {
+      "positive": 42,
+      "neutral": 36,
+      "negative": 21
+    },
+    "sources": {
+      "news": {
+        "found": 33,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 5,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Affordability Challenge",
+      "Autonomous Pricing",
+      "Autonomous Vehicles",
+      "Bidirectional Charging",
+      "CEO Criticism",
+      "Charging Infrastructure",
+      "Consumer Demand",
+      "Customer Service",
+      "Diagnostic Tools",
+      "Driver Prioritization",
+      "EV Fleet Adoption",
+      "FSD Competition",
+      "Insurance",
+      "Layoffs",
+      "OEM Licensing",
+      "R1S Customer Satisfaction",
+      "R2 Audio System",
+      "R2 Insurance",
+      "R2 Launch",
+      "R2 Launch Edition",
+      "R2 Order Conversion",
+      "R2 Order Invites",
+      "RIVN Stock",
+      "Repair Ecosystem",
+      "Self-Driving System",
+      "Tech Differentiation",
+      "Traffic Efficiency",
+      "Used Vehicle Market",
+      "Warranty Documentation"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Any Rivian drivers looking into this? Utility Dive: Managed, bidirectional EV charging advances with utility, automaker support",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8guvz/anyone_looking_into_this_utility_dive_managed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T17:34:08.615Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Infrastructure",
+          "Bidirectional Charging"
+        ]
+      },
+      {
+        "title": "Any Rivian drivers looking into this? Utility Dive: Managed, bidirectional EV charging advances with utility, automaker support",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u8guca/any_rivian_drivers_looking_into_this_utility_dive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T17:34:08.615Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Infrastructure",
+          "Bidirectional Charging"
+        ]
+      },
+      {
+        "title": "USAA insurance quote",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8gbup/usaa_insurance_quote_for_an_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T17:14:47.116Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Insurance"
+        ]
+      },
+      {
+        "title": "R2 with Launch Edition or Lidar?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8gatc/r2_with_launch_edition_or_lidar/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T17:14:25.238Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch Edition"
+        ]
+      },
+      {
+        "title": "R2 Insurance",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8edcn/r2_insurance/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T16:04:17.355Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Insurance"
+        ]
+      },
+      {
+        "title": "Prioritizing Drivers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8drop/prioritizing_drivers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T15:42:42.192Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Driver Prioritization"
+        ]
+      },
+      {
+        "title": "Efficiency in traffic is pretty insane",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8djdv/efficiency_in_traffic_is_pretty_insane/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T15:34:16.965Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Traffic Efficiency"
+        ]
+      },
+      {
+        "title": "Another R2 order invite data point",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8bg4b/another_r2_order_invite_data_point/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T14:16:31.954Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Order Invites"
+        ]
+      },
+      {
+        "title": "How long until AVs reach the \"plateau of productivity\"?",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1u8c91r/how_long_until_avs_reach_the_plateau_of/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-06-17T14:47:12.794Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomous Vehicles"
+        ]
+      },
+      {
+        "title": "Rivian Cuts Hundreds of Jobs to Slash Losses Immediately Following Successful R2 SUV Rollout - TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQemtpcHJQMU9zcFN0YVd6SEhEa0ltVFVGT3l3U05WQzAxM0tuRGFEd2NBckNuVFdsWWN2ZmtxMFpJVlNWYXdCeXRGZU5FVmwxLUdfVVdmWDY0VUVUdUZQbXdDUWUteS1wVnJheHZRb3hiQlltVWR0dDFFc3IzbTQ2YS04UDRZMFVLeFlfMVY5cjZVazc1dnlpeGJIalZzYktQazN2all6Nmk1Y25SN19TOHZZZzI3VDJTV1RJV242Q08?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 14:16:07 GMT",
+        "score": 0,
+        "snippet": "Rivian Cuts Hundreds of Jobs to Slash Losses Immediately Following Successful R2 SUV Rollout - TIKR.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe Should Be Fired, But Can\u2019t Be - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0t2b3RIeWlCOXZxdTNDQlVCT2VKZ19WeE04VHFEUE9iRjFJVm1GbFZSb0VFa2h1aVN3ZHlZQlZGbWVQTnI0NmJUVGUtZGs2UjlBVzRzdlM1OUpYeWhZcHBlejdXbU50cDdaMGdBWGo1WWVUTUVNdlZCM2daMXpwVWc3M2t2SGd6bXZnMU9fRldkMGthLXktdkx3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 15:03:03 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO RJ Scaringe Should Be Fired, But Can\u2019t Be - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "CEO Criticism"
+        ]
+      },
+      {
+        "title": "Stocks making big moves yesterday: Planet Labs, Rivian, FOX, Centrus Energy, and IMAX - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZ0hDY2NoRGZ0OW9ydDhlWndpQk11YUppclB0OGd6ZWlDM2hkTFVGdTUxZXd5elFxYXBHT2Z1SG9CMS1vMl9NRDRXY1ZaWGZGSERqQjJuLV9vNDBMOV9yaUFBSHNId09Mei1JSjdWTmVKWVBsbTgtSnkzc0NiNmRqeVpLa1J0UmVNQ2tQcnk2cTFLQWZUTXh3eno3dERrNG5DR1NhUV9hUGpxZnR5VzM1OGRJM2RZbkVfd1VDY2hGd2RPd05GQW92QTZoR0ZIV1p6V2d1c3c3UEVDQ2Zfem5kYko0WUtNSFdwS0YwNEw1VjFOZjJnQmJiRQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 13:00:00 GMT",
+        "score": 0,
+        "snippet": "Stocks making big moves yesterday: Planet Labs, Rivian, FOX, Centrus Energy, and IMAX - The Globe and Mail",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "RIVN Stock Jumps Overnight: CEO Teases Self-Driving System 'Very Similar To Tesla's FSD' This Year - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkZqV0xybl9Ud2R2cU1rNW5TdDFMeXpwLVdtT21FTExsekxJTHUydGJMVzF6eUlfNTljUldVVWZwRE9Ec1lYT0dmQmxQSFRmQ1lodFk5VlZtSXN0N3kybmt6WGtiQ01OQUVoWmUtLU1pbmctSGZWaGdtbGdvY2U1MGN6TnZKU19kT3ZvSXFzX1d1ZHhMZzR1cWgweGhJODZOOEdRVzBVUDNCZTRfdERKdkxTQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 15:23:53 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Jumps Overnight: CEO Teases Self-Driving System 'Very Similar To Tesla's FSD' This Year - Stocktwits",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Self-Driving System",
+          "FSD Competition"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe should be fired, but can't be - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTU1WjRRVEJLNURjcTkzWXFqNUpKS2Y2S0FsWXFLRUxtVEZhbS1QaU5aYkdLSmhLaXNveEhTOUxUdFFFdnBNbzFPQVFScWJ6cXFHQktBVkdtOFZvTkg2cEpRNkplQjVFTHcwSXNkdEdxUktsWjNrdXdQN2R6dG5fell6MXRHN1QtdjAzSXZwMEJrM01pbWEyTU1EX1hfSGVuY0dpMFhHR1E?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 15:32:29 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO RJ Scaringe should be fired, but can't be - MSN",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "CEO Criticism"
+        ]
+      },
+      {
+        "title": "Rivian CEO signals self-driving prices, like Tesla\u2019s, will fall - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSFVnN1E1LTBEWGYtUWJXMnZSTXRoQW1CNFpfRFAyRHNEcmJ1UnB6UHpEbVN0V2lsMjRydE5vNEdYSEc1VkItZ3g1UzFROTR0RGRpTGFQRzRyN0p5OHlRME44VlA2VWliN1lKZXdsLUVoUlRCUmpaOThtX29qSDJoelJPZw?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Wed, 17 Jun 2026 16:21:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO signals self-driving prices, like Tesla\u2019s, will fall - Electrek",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Pricing"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has updated the R1 New Vehicle Limited Warranty Guide.\n\nLink:  buff.ly/Zh",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3moivellrss2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T18:00:19.065Z",
+        "score": 0,
+        "snippet": "Rivian has updated the R1 New Vehicle Limited Warranty Guide.\n\nLink:  buff.ly/ZhbeGJV",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Warranty Documentation"
+        ]
+      },
+      {
+        "title": "@liberationtech.bsky.social (Bluesky): Rivian lays off hundreds of workers one week after launching R2 deliveries as it",
+        "url": "https://bsky.app/profile/did:plc:zzvyusavduhfc4whhd3f4yjn/post/3moive3d2wq2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T18:00:01.966Z",
+        "score": 0,
+        "snippet": "Rivian lays off hundreds of workers one week after launching R2 deliveries as it chases its first profit thenextweb.com/news/... via @thenextweb ",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "@trussell25.bsky.social (Bluesky): We have an R1S and it has been great after a year.   No issues, charges overnigh",
+        "url": "https://bsky.app/profile/did:plc:x34n2qxdaz7oaoevl5fgj4qu/post/3moitrcc4gc2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T17:31:37.574Z",
+        "score": 0,
+        "snippet": "We have an R1S and it has been great after a year.   No issues, charges overnight for few bucks and maintenance has been 1 tire rotation...that's it.   We leased the R1S and will most certainly get an",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "@polarnerd.bsky.social (Bluesky): I've always done that, too, but all of our cars are EVs now (Rivian, Ford, VW) s",
+        "url": "https://bsky.app/profile/did:plc:zjdtgnmb4zxgyg7yquglxpdv/post/3moir6xtvjk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T16:45:35.474Z",
+        "score": 2,
+        "snippet": "I've always done that, too, but all of our cars are EVs now (Rivian, Ford, VW) so I'm not sure I can keep it going. I'll find out. I think the biggest failures with these EVs will be electronics. Ther",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "EV Fleet Adoption"
+        ]
+      },
+      {
+        "title": "@trendalertstox.bsky.social (Bluesky): RIVN | Rivian (NASDAQ):\n\ud83d\udd3c RIVN is UP today by 5.24% (15.93 -> high 16.77)",
+        "url": "https://bsky.app/profile/did:plc:2etirfyqqgrsbe7nibl4eyx3/post/3moiqoqqg5q25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T16:36:31.267Z",
+        "score": 0,
+        "snippet": "RIVN | Rivian (NASDAQ):\n\ud83d\udd3c RIVN is UP today by 5.24% (15.93 -> high 16.77)",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@automotoofficiel.bsky.social (Bluesky): https://www.auto-moto.com/en-bref/rivian-suv-licenciements-76070?preview=1781705",
+        "url": "https://bsky.app/profile/did:plc:5rbngrtm7t2xcieevpo36xl3/post/3moiqd5bemc2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T16:30:01.265Z",
+        "score": 0,
+        "snippet": "https://www.auto-moto.com/en-bref/rivian-suv-licenciements-76070?preview=1781705887",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "@automotoofficiel.bsky.social (Bluesky): \ud83d\udd0c Rivian licencie des centaines de salari\u00e9s ! Une semaine seulement apr\u00e8s le d\u00e9b",
+        "url": "https://bsky.app/profile/did:plc:5rbngrtm7t2xcieevpo36xl3/post/3moiqczk64g26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T16:29:58.277Z",
+        "score": 0,
+        "snippet": "\ud83d\udd0c Rivian licencie des centaines de salari\u00e9s ! Une semaine seulement apr\u00e8s le d\u00e9but des livraisons du SUV R2, le constructeur frappe fort !",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Rivian CEO signals self-driving prices, like Tesla\u2019s, will fall",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3moiq3daadh2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T16:25:39.379Z",
+        "score": 6,
+        "snippet": "Rivian CEO signals self-driving prices, like Tesla\u2019s, will fall",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Pricing"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): R2 configure emails are picking up a week after launch and reservation holders a",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3moipbrvqvs2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T16:11:25.062Z",
+        "score": 11,
+        "snippet": "R2 configure emails are picking up a week after launch and reservation holders are flooding social media with their builds. If you are holding a reservation, keep an eye on your inbox. Invites are goi",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Order Conversion"
+        ]
+      },
+      {
+        "title": "@trussell25.bsky.social (Bluesky): Good point.   I used covid spike to sell a Tacoma I had owned for under a year..",
+        "url": "https://bsky.app/profile/did:plc:x34n2qxdaz7oaoevl5fgj4qu/post/3moioid3kv22d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T15:57:07.870Z",
+        "score": 1,
+        "snippet": "Good point.   I used covid spike to sell a Tacoma I had owned for under a year...12k profit was just too much to ignore.   Later used that $ for a Rivian R1S lease...I absolutely love the rivian and w",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Used Vehicle Market"
+        ]
+      },
+      {
+        "title": "Dror Poleg: The Rivian Bet #EVs #Investing #Wealthion",
+        "url": "https://youtube.com/watch?v=uBwisehLS8k",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T18:00:03Z",
+        "score": 0,
+        "snippet": "Rivian claims unique quality EV capability with vertical chip/camera integration; licenses to legacy OEMs; $20B valuation with public liquidity\u2014positioned as direct Tesla competitor.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Tech Differentiation",
+          "OEM Licensing"
+        ]
+      },
+      {
+        "title": "Rivian lays of hundreds of jobs in bid for profitability after R2 launch | Fast Company",
+        "url": "https://youtube.com/watch?v=Tq-axc-DX_M",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T17:57:14Z",
+        "score": 0,
+        "snippet": "R2 at $58K targets EV affordability gap, but Rivian's path to profitability remains unclear: $3.6B loss on $5.4B revenue alongside 300-person layoffs signal execution risks.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs",
+          "Affordability Challenge"
+        ]
+      },
+      {
+        "title": "RIVIAN R2#rivian #rivianr2 #rivianr1t #rivianstock",
+        "url": "https://youtube.com/watch?v=U4-iZgU2vBA",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T16:47:39Z",
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian completed in a Stealth PPF with some extra added stuff done by our staff!",
+        "url": "https://youtube.com/watch?v=1xBC_EliKkc",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T15:47:30Z",
+        "score": 0,
+        "snippet": "Always working to give our customers the outcome they want!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Service"
+        ]
+      },
+      {
+        "title": "The Audio System In The 2027 Rivian R2 Is GREATLY Improved!",
+        "url": "https://youtube.com/watch?v=TM5laqjyYHI",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T15:41:04Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Audio System"
+        ]
+      },
+      {
+        "title": "The official LOKI website is now live! Just type this into your browser: loki-diag.com.",
+        "url": "https://youtube.com/watch?v=o_Ymtvj24-o",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T14:56:24Z",
+        "score": 0,
+        "snippet": "The official LOKI website is now live! Just type this into your browser: loki-diag.com. Then check out the available device and their ...",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Diagnostic Tools"
+        ]
+      },
+      {
+        "title": "Tesla Repair, Rivian Repair, Tesla Diagnostics, Rivian Repair, LOKI PRO Diagnostic Scanner",
+        "url": "https://youtube.com/watch?v=7prkx7YfgWI",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T14:42:49Z",
+        "score": 0,
+        "snippet": "99 problems and only 1 solution\u2014that's right. When you're repairing a Tesla, is the first thing you do look for the problem?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Repair Ecosystem"
+        ]
+      },
+      {
+        "title": "The Most Anticipated EV Launch of 2026 \ud83e\udd29",
+        "url": "https://youtube.com/watch?v=DA2LY1O4BFk",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T14:23:28Z",
+        "score": 0,
+        "snippet": "Rivian R2 is 2026's most-anticipated EV: mass-market vehicle with North American charging standard; widespread LA reservation demand and emerging reviews signal strong consumer momentum.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Consumer Demand"
+        ]
+      }
+    ]
   }
 ]
