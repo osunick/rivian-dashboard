@@ -27180,5 +27180,399 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-17T02:04:17.578523Z",
+    "timestamp": "2026-06-17T02:04:17.578523Z",
+    "sentiment": {
+      "positive": 36,
+      "neutral": 28,
+      "negative": 36
+    },
+    "sources": {
+      "news": {
+        "found": 25,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "12V Battery",
+      "Apple Watch Integration",
+      "Autonomous Driving",
+      "Cargo Capability",
+      "Competitive Positioning",
+      "Customer Satisfaction",
+      "EV Market",
+      "Lease Pricing",
+      "New Vehicle Order",
+      "R2 Launch",
+      "RIVN Stock",
+      "Social Mention",
+      "Tesla Competition",
+      "Vehicle Design",
+      "Vehicle Quality",
+      "Workforce Reduction"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Never owned a Rivian, First min order placed. Located in Chicago",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7wgx4/never_owned_a_rivian_first_min_order_placed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T01:31:49.368Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "New Vehicle Order"
+        ]
+      },
+      {
+        "title": "Unlocking with Apple Watch vs iPhone",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7vyuz/unlocking_with_apple_watch_vs_iphone/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T01:08:21.763Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Apple Watch Integration"
+        ]
+      },
+      {
+        "title": "The clunk",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7vxpj/the_clunk/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T01:06:50.591Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "12V Battery Question",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7tsdj/12v_battery_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T23:31:05.288Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "12V Battery"
+        ]
+      },
+      {
+        "title": "This is sweet",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7t6sr/this_is_sweet/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T23:05:43.381Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "Mockingbird 3.0 Single-To-Double Stroller fit in R1T Frunk",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7sq15/mockingbird_30_singletodouble_stroller_fit_in_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T22:46:24.563Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Cargo Capability"
+        ]
+      },
+      {
+        "title": "How long did your 12V system last?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u7sml2/how_long_did_your_12v_system_last/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-16T22:42:21.884Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "12V Battery"
+        ]
+      },
+      {
+        "title": "Why Rivian (RIVN) Shares Are Falling Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMVBJdDNWRUhWVmJmNU5PR1lBeWZ3M3ZTLW1CcFNsWjhvbHdQVGR4X056Wm9fa0x0QU1tc2RsMElPOFdPNC1UOHhyeWZyMHp3c0tFbDg1M1BPWXp2WktMZnNFMzR5eDhyZkhqN2E2eWM5TzZraXlIWTVsNkk1Q1dyNlhxVkxLblFKa3J4dXo2QWJIR2ZzZ1ZMUkg0Zw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 00:01:00 GMT",
+        "score": 0,
+        "snippet": "Why Rivian (RIVN) Shares Are Falling Today - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Dips More Than Broader Market: What You Should Know - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmxqb3lhS2U0dWM1SS1jWExHRlREWWZoUkNIM0RJd1c4WGVKMi02NUxXNDg4UjItaDJkeW56SmJTZENfQ3c3SEZZbWZSR0hOSzFIMjZaRnozQi1xT3JaVVRiZUdScG4wOTh2WUJWQlRDTGpfYWRhS3FrbUhheWNUNWtFaFN0SlVa?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 21:50:03 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Dips More Than Broader Market: What You Should Know - Yahoo Finance Singapore",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian lays off hundreds of workers, WSJ reports - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMkVWTDFOWU44akY4V0x6V0g3Y1lmemo0N0VyV0QwU2d0RFdERG9wSnNabnRsclF4dGZsbWZiX0R5QTFWcmt0N2dlaDk1bDlENjQ0U0VRUzVaUmFBaHhKV0ZWUThienRmcVdtTHpRLUIxbGRUaDZKTzl6TVVvQUNmTGlrRlhVWUltUXdScGQ1RXNxNWRrX0hTMTAtQ3BfaVp6UHc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 16 Jun 2026 16:41:20 GMT",
+        "score": 0,
+        "snippet": "Rivian lays off hundreds of workers, WSJ reports - marketscreener.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reduction"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s R2 launch stirs excitement and lease price backlash - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ0d4QkdGM2JPWXVzOEE3Ni1zR0drV1BoU0liSGF0MHJzdGxtTUFWYTg4NG9XSDE4b1VFSmJIaEozeFRNRXJncnBWZWhxN1RBVU9aZkcwU0QyY1laclQwZGpTaTFjNzYyLUMwdmViQzlSZWxJNjNIMGxVWkxGVWxhSDc3SkIxbVBHQ1k2aFRCMnA0SlJGTXRPRjJyY2tlcU9tN2ZWanE4YTJ1djZBTTRGcEZfcURtdjcxMXBfc2RxS2tLSlA3SzJHSW45UzJHWEpOck8w?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 17 Jun 2026 01:52:53 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s R2 launch stirs excitement and lease price backlash - MSN",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Lease Pricing"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s CEO Just Laid Out a Bold Plan to Challenge Tesla FSD. Here\u2019s What\u2019s Coming - Tesla North",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHp1Z2ZNdkpVVHl6Z1BEb3JWQm81ZTRQZG1ERXZfTmh4Y1dvaDVfMUFlNU51WUJwQVp0WDg2Y0JKUjVXRDhHRFpkekdkVE1kYndTMnY0YW9DX01nWDJTaktZSGNXRzFtX2M5UVZyZ3UtNDVqRlJqQlFqZ0FEWV9rVzd3eEpfRXVKWEUyUQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 16 Jun 2026 17:32:16 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s CEO Just Laid Out a Bold Plan to Challenge Tesla FSD. Here\u2019s What\u2019s Coming - Tesla North",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moh7dew3t22o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T01:53:15.969Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moh7bevnzc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T01:52:08.971Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moh77jefbc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T01:51:06.376Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Mention"
+        ]
+      },
+      {
+        "title": "@lastnews96.bsky.social (Bluesky): Rivian cuts hundreds of workers after R2 deliveries\u00a0start\n\nRivian is laying off ",
+        "url": "https://bsky.app/profile/did:plc:tqs2q6sh6cunzu3zgrmdz6dd/post/3moh73adgrp2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T01:48:42.960Z",
+        "score": 0,
+        "snippet": "Rivian cuts hundreds of workers after R2 deliveries\u00a0start\n\nRivian is laying off hundreds of workers just one week after it began deliveries of its hotly-anticipated R2 SUV, the company has confirmed t",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reduction"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): The Lucid Gravity, Rivian R1S, and Tesla Model X are the electric SUVs buyers fi",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3moh6lwxawk25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T01:40:10.468Z",
+        "score": 0,
+        "snippet": "The Lucid Gravity, Rivian R1S, and Tesla Model X are the electric SUVs buyers fight about most. Reliability is the tiebreaker, and it splits them three ways.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Positioning"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): I decided to give these sodium ion 12V batteries a try. While not cheap ($475 af",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3moh4p4c24k2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T01:06:11.372Z",
+        "score": 2,
+        "snippet": "I decided to give these sodium ion 12V batteries a try. While not cheap ($475 after discount), they\u2019re significantly lighter, have a longer warranty not subject to deterioration from extreme weather t",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "12V Battery"
+        ]
+      },
+      {
+        "title": "@cleantechnica.bsky.social (Bluesky): EVs Will Come Roaring Back, Rivian Edition\n\ncleantechnica.com/2026/06/16/r...",
+        "url": "https://bsky.app/profile/did:plc:7d36kzszvmgpsyjs6nwoeqmn/post/3moh3q6vy2c2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T00:48:52.668Z",
+        "score": 5,
+        "snippet": "EVs Will Come Roaring Back, Rivian Edition\n\ncleantechnica.com/2026/06/16/r...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@breakingnews92.bsky.social (Bluesky): Rivian cuts hundreds of workers after R2 deliveries\u00a0start\n\nRivian is laying off ",
+        "url": "https://bsky.app/profile/did:plc:enahrw5gbfty7inbwgjmsz2t/post/3moh3h7xboj2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T00:43:50.462Z",
+        "score": 0,
+        "snippet": "Rivian cuts hundreds of workers after R2 deliveries\u00a0start\n\nRivian is laying off hundreds of workers just one week after it began deliveries of its hotly-anticipated R2 SUV, the company has confirmed t",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reduction"
+        ]
+      },
+      {
+        "title": "@atalba5.bsky.social (Bluesky): Just not at Rivian. EVs should have a higher quality than ICE cars; just not at ",
+        "url": "https://bsky.app/profile/did:plc:do5f4sv4fqecsh2bvrgiakns/post/3mogyhokb6s2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T23:50:25.364Z",
+        "score": 0,
+        "snippet": "Just not at Rivian. EVs should have a higher quality than ICE cars; just not at Rivian.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "@guero-gordo.bsky.social (Bluesky): The Lucid and Rivian owners I know are pretty happy",
+        "url": "https://bsky.app/profile/did:plc:7asvkt2dzpmpc2jlfprqjqe5/post/3mogxm3ws6c2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-16T23:34:58.761Z",
+        "score": 0,
+        "snippet": "The Lucid and Rivian owners I know are pretty happy",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "R2 is the Perfect Bike Hauler! #r2 #rivian #kuat",
+        "url": "https://youtube.com/watch?v=TwIbptjwuZ4",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T02:00:48Z",
+        "score": 0,
+        "snippet": "The Kuat NV bike rack works perfectly well with the full open rear cargo door! #r2 #rivian.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Cargo Capability"
+        ]
+      },
+      {
+        "title": "Tesla Model Y vs Rivian R2: Don&#39;t Make a Mistake!",
+        "url": "https://youtube.com/watch?v=qHIFv3Fi2Ng",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T00:19:49Z",
+        "score": 0,
+        "snippet": "R2 is a compelling Model Y alternative with matching features/range but loses on availability (base summer 2027), Full Self-Driving autonomy, and charging speed.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Autonomous Driving"
+        ]
+      },
+      {
+        "title": "How to refill coolant on Rivian R1T and R1S.",
+        "url": "https://youtube.com/watch?v=_1Jz_JWg_UM",
+        "source": "youtube",
+        "publishedAt": "2026-06-16T22:55:47Z",
+        "score": 0,
+        "snippet": "Rivian R1T/R1S feature user-accessible coolant-refill design with standard distilled water, indicating accessible maintenance comparable to competitors.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Design"
+        ]
+      }
+    ]
   }
 ]
