@@ -28612,5 +28612,496 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-17T22:05:48.793946Z",
+    "timestamp": "2026-06-17T22:05:48.793946Z",
+    "sentiment": {
+      "positive": 56,
+      "neutral": 13,
+      "negative": 30
+    },
+    "sources": {
+      "news": {
+        "found": 30,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "12V Battery",
+      "Acceleration Time",
+      "Brand Desire",
+      "Competitive Positioning",
+      "Competitor Preference",
+      "Cost Cutting",
+      "Cost Efficiency",
+      "Customer Feedback",
+      "Customer Service",
+      "Market Analysis",
+      "New Features",
+      "New Products",
+      "Order Invites",
+      "Order Timeline",
+      "Product Features",
+      "Product Review",
+      "Profitability Story",
+      "Quad Motor",
+      "Quality Issues",
+      "R1S Support",
+      "R2 Launch",
+      "RIVN Stock",
+      "Rivian Bike",
+      "Sales Performance",
+      "Self Driving",
+      "Social Sentiment",
+      "Software Architecture",
+      "User Community",
+      "Workforce Cuts"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "12V battery mass replacement questions",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8lnv9/12v_battery_mass_replacement_questions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T20:29:24.701Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "12V Battery",
+          "Quality Issues"
+        ]
+      },
+      {
+        "title": "We have a 2023 R1S. This was an unexpectedly cool proactive notification.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8kriw/we_have_a_2023_r1s_this_was_an_unexpectedly_cool/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T19:55:33.281Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Service",
+          "R1S Support"
+        ]
+      },
+      {
+        "title": "Drove the R2 this past week and thought I would take this video for those wondering what the interior sounds like.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8kkxc/drove_the_r2_this_past_week_and_thought_i_would/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T19:37:55.953Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Customer Feedback"
+        ]
+      },
+      {
+        "title": "On Order Timelines",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8ieuw/on_order_timelines/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T18:30:51.781Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Order Timeline"
+        ]
+      },
+      {
+        "title": "Rivian Is Cutting Jobs Right After Launching the R2. Is the Profitability Story Getting Stronger or Weaker? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0VYTXJic3lNaDlVMDNFaXdnSGpJZ096RHVXVEJCUVF0aVpuaUVXQjl3X3JoZTc2bVU0NFA3MWRuSkRLTE9rUFk0NjZOcndOMHlnRHpCTkRNTmR2bzdNbEpvRlJNczd5ZHh4WHVGMlVzdzQ5TkNXQTdRSDFNTmpkUWdfZVI3MVlXOWVaYkNsSDd5bXFiS3FvaQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 18:05:10 GMT",
+        "score": 0,
+        "snippet": "Rivian Is Cutting Jobs Right After Launching the R2. Is the Profitability Story Getting Stronger or Weaker? - The Motley Fool",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Cuts",
+          "Profitability Story"
+        ]
+      },
+      {
+        "title": "RIVN Stock Layoffs: What to Know About the Latest Rivian Job Cuts - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG01aXZjdXZSNUk5dnV1azBsVWlsaHdNVzFKYlQ1SnpnVmJ1VC1YcDN3eVhTUEhuXzRrdmlxeHMwaEt1SnJrUHJEeENoOFdZUVhTWjhjdEpZZlROb2RvZWgyQllpM1BSLTJtSU1Vd1lCNkxqck5nMnpZTE5PTzBqVkxBQTlxRUN2WmxQdVhIX2RBZjBfaEQ5blMyV3d2S0JuUGEzdGt3UW1zTGM3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 19:12:28 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Layoffs: What to Know About the Latest Rivian Job Cuts - Barchart.com",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Cuts",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Up 2.1% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHpoTHJzLTFCVGVWSE1SUU1PVkdYSW5qY1Y0NkYwdldZMjctM1hGblFucE1GWGNOdWZkRzhETXNBSWtaaU1hZWNYelJsT3BnWklabm4ybHFScy11U0lQWkZRUzVpQjdER2ZYX0dDUUJsQ2NweTRaVkFhTWlHcW9zSWV5azZ4ZURoOF9VUGFUZmRseWpfc2hDUkRSbGNJTFpVYVk4RWpmWkEzR2RCeHJzb0oyV1hqX1U?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 21:50:35 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Up 2.1% - Here's What Happened - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Options Spot-On: On June 17th, 173.75K Contracts Were Traded, With 2.47 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjNoQ2JtbzJvOER4NnY2c2VhenUwenhXaFZLUGlwd3cycGpxdkRwR1pOZlJGUzZGWTlZaVhtV3Q3M25XQVpnV21ja196MTREUHBWXzhhaWNZZlpfTzlINmlBRXN5UnhWcE5Ic1kzb3Fkc3c0dDZYRERQZzJTWWdpcG9kNFF0S0g2MWRxSEF4cTFLcUwyeTRXRTRkcw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 20:44:31 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Options Spot-On: On June 17th, 173.75K Contracts Were Traded, With 2.47 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "(RIVN) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeEQ5RUpXNWFTTU1GU0pPU1B0cnkyWHJPaktmRXRhRkZsWV9ZN3N1Q0dOWUV1MC1qbmxJc0FDelJudHUxSmRha3VOYTRyMUtZR19iNUg5T3p5cUNfb3NIclNDbDRQNmhzZFd5dm9TMzBlZ3RBSWhFOXZ5VzBPdUpDTm5odnFTbHdzMlJLR1NPblE5bEdMSHU3T0drcHpZUGtXbVFmc25QZTd6dnpKWGpUb19oQ0NpOHgyeWZYTmhJM0p3R3BiNy1lRQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 15:00:02 GMT",
+        "score": 0,
+        "snippet": "(RIVN) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Review, Specs, Pricing, and Warranty - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tR2loRHo4WmRTek9mVzZqbEZMMjI4OEIybkxWNGpyMkgyemdzbGlkdS1WbDIybVVOaDhDckxLVXF5cDZ3T1d4TUx3cmdpT1JZcjBuenJkaw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 17 Jun 2026 18:10:44 GMT",
+        "score": 0,
+        "snippet": "2027 Rivian R2 Review, Specs, Pricing, and Warranty - Autoblog",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Review"
+        ]
+      },
+      {
+        "title": "@wsnext.com (Bluesky): Rivian Cuts Jobs Just Days After Launching Its Most Critical EV Model\n\nhttps://w",
+        "url": "https://bsky.app/profile/did:plc:elcepvr65b7rymlyk4avyktc/post/3mojco7aoel2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T21:58:20.073Z",
+        "score": 0,
+        "snippet": "Rivian Cuts Jobs Just Days After Launching Its Most Critical EV Model\n\nhttps://wsnext.com/b86831a-electric-vehicles-cost-reduction/",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Cuts",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@johnvoelcker.bsky.social (Bluesky): \"Rivian KILED it!\" ?!?!?",
+        "url": "https://bsky.app/profile/did:plc:wtrz3qngarf7ifus4r7ij6il/post/3mojc2g3yfk2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T21:47:17.065Z",
+        "score": 0,
+        "snippet": "\"Rivian KILED it!\" ?!?!?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Social Sentiment"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): How does one get into that group of users Rivian?  Asking for a friend.",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3moj7gdmsso2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T21:00:15.259Z",
+        "score": 1,
+        "snippet": "How does one get into that group of users Rivian?  Asking for a friend.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "User Community"
+        ]
+      },
+      {
+        "title": "@timo.social.hetzel.net.ap.brid.gy (Bluesky): Wenn mir jemand \u00fcberraschend ein dickes Geldb\u00fcndel in die Hand dr\u00fcckt:\n\nIoniq 5 ",
+        "url": "https://bsky.app/profile/did:plc:vdcz7h6ig36ejktinroof2ni/post/3moj6ehcnpz42",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T20:41:27.568Z",
+        "score": 0,
+        "snippet": "Wenn mir jemand \u00fcberraschend ein dickes Geldb\u00fcndel in die Hand dr\u00fcckt:\n\nIoniq 5 N\nFiat Ducato/Citroen Jumper Camper\nKia EV9/PV5\nRivian EDV\nID7 Kombi\nBMW Neue Klasse Kombi",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitor Preference"
+        ]
+      },
+      {
+        "title": "@electricfelix.eurosky.social (Bluesky): BMW could\u2019ve been the euro based Rivian with years head start\n\nThey \nDecided\nNot",
+        "url": "https://bsky.app/profile/did:plc:xf53ujprnmfktaxb77fztor6/post/3moj5vxyebk2w",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T20:33:12.361Z",
+        "score": 12,
+        "snippet": "BMW could\u2019ve been the euro based Rivian with years head start\n\nThey \nDecided\nNot\nTo\n\n#alwaysbecharging",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Positioning"
+        ]
+      },
+      {
+        "title": "@greenfire.mstdn.social.ap.brid.gy (Bluesky): USA April EV sales,\n\nTesla 45,800\n\nChevy 5,890\n\nHyundai 4,936\n\nFord 4,033\n\nCadil",
+        "url": "https://bsky.app/profile/did:plc:5o6orsgwihjn6f3qvwdapera/post/3moj45ndxiyt2",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T20:04:26.571Z",
+        "score": 0,
+        "snippet": "USA April EV sales,\n\nTesla 45,800\n\nChevy 5,890\n\nHyundai 4,936\n\nFord 4,033\n\nCadillac 4,020\n\nRivian 3,537\n\nToyota 3,524\n\nThe other 28 U.S. EV suppliers sold 17,407 EVs in the USA in April 2026.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Sales Performance"
+        ]
+      },
+      {
+        "title": "@kevinleecaster.bsky.social (Bluesky): USA April EV sales,\n\nTesla 45,800\n\nChevy 5,890\n\nHyundai 4,936\n\nFord 4,033\n\nCadil",
+        "url": "https://bsky.app/profile/did:plc:yjqekodgo25hjem4isderwak/post/3moj45arzld2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T20:01:29.571Z",
+        "score": 2,
+        "snippet": "USA April EV sales,\n\nTesla 45,800\n\nChevy 5,890\n\nHyundai 4,936\n\nFord 4,033\n\nCadillac 4,020\n\nRivian 3,537\n\nToyota 3,524\n\nThe other 28 U.S. EV suppliers sold 17,407 EVs in the USA in April 2026.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Sales Performance"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): I don't need another Rivian\nI don't need another Rivian\nI don't need another Riv",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3moj42znzkv25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T20:00:14.361Z",
+        "score": 2,
+        "snippet": "I don't need another Rivian\nI don't need another Rivian\nI don't need another Rivian\nI don't need another Rivian\nI don't need another Rivian\n\nMarketplace:  buff.ly/7VL3FkE",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Desire"
+        ]
+      },
+      {
+        "title": "@eruptionglobal.bsky.social (Bluesky):  Rivian Demite Centenas Ap\u00f3s In\u00edcio das Entregas do R2: O Que Isso Sinaliza Para",
+        "url": "https://bsky.app/profile/did:plc:dmdpwpvwsyky6pwngethki2w/post/3moixjhoxj422",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T18:38:50.273Z",
+        "score": 0,
+        "snippet": " Rivian Demite Centenas Ap\u00f3s In\u00edcio das Entregas do R2: O Que Isso Sinaliza Para o Futuro da Montadora El\u00e9trica?\n\nConfira o conte\u00fado completo \ud83d\udc47   \n\nhttps://eruptionglobal.com/rivian-demite-centenas-ap",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Cuts",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@filigreegirl.bsky.social (Bluesky): www.mostlymetrics.com/p/how-rivian...",
+        "url": "https://bsky.app/profile/did:plc:uv44626p3yu36mkswzc7u35g/post/3moixcrbx3s2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T18:35:07.370Z",
+        "score": 0,
+        "snippet": "www.mostlymetrics.com/p/how-rivian...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Market Analysis"
+        ]
+      },
+      {
+        "title": "Rivian layoffs: payroll just beat the EV story",
+        "url": "https://youtube.com/watch?v=KwaVnpqyOxM",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T21:54:39Z",
+        "score": 0,
+        "snippet": "Rivian cut hundreds as demand cooled and losses mounted, prioritizing payroll reduction over product investment and shifting work to fewer staff through automation.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Cuts",
+          "Cost Cutting"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe Explains the R2&#39;s Self-Driving Strategy",
+        "url": "https://youtube.com/watch?v=_vCPxiBQPuU",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T21:25:46Z",
+        "score": 0,
+        "snippet": "R2 launches point-to-point autonomy (type destination, full self-drive) end-2026 for R2/R1 Gen2; Level 3 requires new hardware; interim 2.5 bridges timeline gap.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Self Driving",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe on the Paucity of Compelling EVs in the US",
+        "url": "https://youtube.com/watch?v=DQKvJB9kovo",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T21:22:45Z",
+        "score": 0,
+        "snippet": "Tesla Model 3/Y dominate EV market (60% share, since 2016/2019 launches); competitors' mediocre products failed; Rivian must compete on genuine quality: tech, dynamics, packaging, range, and price.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Positioning",
+          "Market Analysis"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe on the Advantages of the R2 Being a Software-Defined Vehicle @Rivian",
+        "url": "https://youtube.com/watch?v=57LNzli4m68",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T21:15:43Z",
+        "score": 0,
+        "snippet": "R2 uses consolidated ECU architecture with common OS, enabling faster feature integration and hardware reuse\u2014key differentiator against competitors' legacy multi-ECU systems.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software Architecture",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe&#39;s Favorite Features of the Rivian R2 @Rivian #rivianr2 #ev",
+        "url": "https://youtube.com/watch?v=pADadelhV_A",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T21:12:08Z",
+        "score": 0,
+        "snippet": "R2 matches Tesla Model Y efficiency while uniquely balancing on/off-road capability with everyday usability through aerodynamic design innovations.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Features"
+        ]
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe Discusses Cost-Cutting in the Rivian R2 @Rivian #rivianr2 #ev",
+        "url": "https://youtube.com/watch?v=6WpeMgZAvLE",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T21:09:54Z",
+        "score": 0,
+        "snippet": "R2 achieves rare full-drop rear glass without dip bar\u2014design few competitors attempt\u2014through systematic cost optimization from day one executed via rigorous cross-functional engineering collaboration.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Cost Efficiency"
+        ]
+      },
+      {
+        "title": "Rivian R2 Ordering Invites Go Out!",
+        "url": "https://youtube.com/watch?v=nh9y54z6Fbs",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T21:00:13Z",
+        "score": 0,
+        "snippet": "Sell Your Tesla or Any Vehicle \u2013 Get Top Offers via PLUG Highest Offer for Tesla/EV - https://bit.ly/3KoN9rC \u2713 Tesla Referral ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Order Invites"
+        ]
+      },
+      {
+        "title": "Rivian Just Changed Everything: R2 Returns, Quad Motor Leaks &amp; V2H Finally Confirmed!",
+        "url": "https://youtube.com/watch?v=H4lUg7VzjJw",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T20:45:03Z",
+        "score": 0,
+        "snippet": "Rivian just had one of its biggest weeks ever \u2014 and the future of the brand is moving faster than anyone expected. The Rivian R2 ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "New Features"
+        ]
+      },
+      {
+        "title": "0-60 MPH In Rivian Quad! #automobile #tech #car #fyp #drivelesscars #cars #rivian",
+        "url": "https://youtube.com/watch?v=zbJosGJZ1Is",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T19:44:21Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Quad Motor",
+          "Acceleration Time"
+        ]
+      },
+      {
+        "title": "The Future of Bikes? Trek, Segway, DJI &amp; Rivian&#39;s New Bike - Bike Stories you missed",
+        "url": "https://youtube.com/watch?v=5WgCxrVcVNI",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T19:13:37Z",
+        "score": 0,
+        "snippet": "Segway Muxi - Segway Myon: https://alnk.to/2uKPts6 Velocirax Raxzilla 2 bike ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Bike",
+          "New Products"
+        ]
+      }
+    ]
   }
 ]
