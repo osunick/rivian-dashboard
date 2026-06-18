@@ -29585,5 +29585,359 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-18T16:26:03.380673Z",
+    "timestamp": "2026-06-18T16:26:03.380673Z",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 85,
+      "negative": 10
+    },
+    "sources": {
+      "news": {
+        "found": 28,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian Pickup? Really",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u99grz/rivian_pickup_really/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T15:31:02.087Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "R2 Performance Trim 20-Inch Wheel Question",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u96zpt/r2_performance_trim_20inch_wheel_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T13:56:41.978Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Shaking even after road force",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u96a8v/shaking_even_after_road_force/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T13:27:47.673Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian service",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u955z4/rivian_service/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T12:40:39.586Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "2026 R1S - Weird software issues after last update",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u94xo6/2026_r1s_weird_software_issues_after_last_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T12:29:59.503Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": []
+      },
+      {
+        "title": "Was expecting a worse number due to my mileage.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8x8g8/was_expecting_a_worse_number_due_to_my_mileage/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T05:10:43.294Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Cool charging deal via AAA!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8wt8j/cool_charging_deal_via_aaa/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T04:47:48.604Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "More Rivian R2 Reservation Holders Are Invited To Configure Their Cars, but Not Everyone Is Equal - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZDhFNGp0ZGlySHZ5RGF0M1VzTk1tTWNPU3NtYVp6VFNjM2FDekpsSlE0c01oUzRwa04wc1dPSjFHNVQ0a2hYbE02aEhaMmRaWFY0YzhxOGo2VVNPS3o2djNVYWd1WWZ5MUc5aUV4RE8xQjczeWZGOXN3eU14b29IRlI1bkd1enlZYTNuanY1aFBJYjEzMnRhWkItbFlQeEVaUzNTTHlLd1ZsWEhteDlVcXY3dm1qQjNyVVZaSUZvZC1MMkptMzZ5WC1uNi1COGgybm43dE8zekdWanM?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 16:21:56 GMT",
+        "score": 0,
+        "snippet": "More Rivian R2 Reservation Holders Are Invited To Configure Their Cars, but Not Everyone Is Equal - autoevolution",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Waymo driverless 'robotaxis' could be on London\u2019s streets in weeks - everything you need to know - My London",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjRZcjdIM1otLUpIbEVzVjlLR3RrNFZlNUViMVFRSnZwck82Z01wM25WRHRGSmpHRGh6LUEzX1hNQmhfejREZXEyQ1VUeWdheU5XalFId2c0WUN5WlZEWFRaSUlmRjhUd3VXRlZrMTR1V05ISC1Jb0FUQ2M3Sy0xWk9qNFlYU3o5MzliMHoxN2l1SjdP?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 18 Jun 2026 12:30:11 GMT",
+        "score": 0,
+        "snippet": "Waymo driverless 'robotaxis' could be on London\u2019s streets in weeks - everything you need to know - My London",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@eu-people.bsky.social (Bluesky): Rivian CEO Rebuffs Idea of a Sale to Elon Musk, Says He\u2019d \u2018Prefer Not\u2019\n\nhttps://",
+        "url": "https://bsky.app/profile/did:plc:rwuqizds4m5nwuvmnhgbriol/post/3molaafqdlc26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T16:20:09.365Z",
+        "score": 0,
+        "snippet": "Rivian CEO Rebuffs Idea of a Sale to Elon Musk, Says He\u2019d \u2018Prefer Not\u2019\n\nhttps://www.europesays.com/people/119504/\n\nRivian\u2018s founder and CEO RJ Scaringe pushed back on the idea of selling the company i",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): The new consolidated activity view on Rivian Roamer. Allowing you to view, filte",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mol7domux62e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T16:04:05.668Z",
+        "score": 0,
+        "snippet": "The new consolidated activity view on Rivian Roamer. Allowing you to view, filter, sort and export all of your history. Now including a map view of your selected time range.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@mattagnello.com (Bluesky): Woke up from a dream where a friend was driving a Rivian that had two Metal Gear",
+        "url": "https://bsky.app/profile/did:plc:b4uinzugfbkzamkjhpvmdbjx/post/3mol47ihihk2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T15:08:05.985Z",
+        "score": 2,
+        "snippet": "Woke up from a dream where a friend was driving a Rivian that had two Metal Gear legs and did flips and I would totally own that car.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mokzwiq7ck25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T14:27:14.462Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian drops the axe! The EV darling just laid off hundreds of customer service ",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mokyi7jtuc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T14:01:21.565Z",
+        "score": 0,
+        "snippet": "Rivian drops the axe! The EV darling just laid off hundreds of customer service workers to stop a $3.6 billion financial bleed.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": []
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): www.torquenews.com/17998/rivian...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3moksafjank2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T12:09:39.761Z",
+        "score": 0,
+        "snippet": "www.torquenews.com/17998/rivian...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@spin4srv.bsky.social (Bluesky): Still looks like Rivian might fail because predicted residual values for EVs are",
+        "url": "https://bsky.app/profile/did:plc:zv3prrbj7embrfi22wcuz4tp/post/3moks3qk6qs2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T12:06:58.969Z",
+        "score": 1,
+        "snippet": "Still looks like Rivian might fail because predicted residual values for EVs are low enough to make lease prices unattractive.\n\nEven if they build and market at a good price they may not survive.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): The Rivian R2 Matches The Tesla Model Y On Efficiency, Despite Weighing More\n\nht",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mokkzckyxn2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T10:00:22.472Z",
+        "score": 0,
+        "snippet": "The Rivian R2 Matches The Tesla Model Y On Efficiency, Despite Weighing More\n\nhttps://www.evshift.com/475817/the-rivian-r2-matches-the-tesla-model-y-on-efficiency-despite-weighing-more/\n\nRivian\u2019s top-",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@jaapburger.eu (Bluesky): \"In the future, the new Rivian R2 will also be able to export power from its hig",
+        "url": "https://bsky.app/profile/did:plc:rjcjs4yvydskeq4mvxlmphv6/post/3mokb4tgu5s2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T07:03:23.366Z",
+        "score": 12,
+        "snippet": "\"In the future, the new Rivian R2 will also be able to export power from its high-voltage battery back to the grid, leading to further savings for owners. The feature [..] will be enabled through an o",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": []
+      },
+      {
+        "title": "Hidden menu in the #rivian R1T QUAD MOTOR for data geeks #automobile #truck",
+        "url": "https://youtube.com/watch?v=WriOO7bhWaQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T16:01:15Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian Cuts 100s Of Jobs \u2014 Here&#39;s Why",
+        "url": "https://youtube.com/watch?v=ERrmi3OTCiw",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T16:00:15Z",
+        "score": 0,
+        "snippet": "Rivian cut 800 jobs instantly. The electric vehicle manufacturer, Rivian, recently initiated significant workforce reductions, with ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": []
+      },
+      {
+        "title": "Tesla Saved Her Rivian \ud83d\ude33",
+        "url": "https://youtube.com/watch?v=0zXCex_OuLo",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T16:00:31Z",
+        "score": 0,
+        "snippet": "TT: @vivianyipofficial.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Showroom review of the Lucid Gravity #lucidcaroftheyear #lucid #electriccars #automobile #rivian ",
+        "url": "https://youtube.com/watch?v=qYz5LE7UhGw",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T15:40:31Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian R1T #carreview #southmotorcarworld #automotive #performancecars #vehiclereview",
+        "url": "https://youtube.com/watch?v=NNMET3Ct0UA",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T15:26:13Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Tesla vs Rivian | 1K | 1 Year",
+        "url": "https://youtube.com/watch?v=i9ZXgeiRoII",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T14:53:11Z",
+        "score": 0,
+        "snippet": "Historical performance comparison for Tesla relative to selected benchmark assets. This AgenticTrends visualization models the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian R2 is Here! #rivian R2",
+        "url": "https://youtube.com/watch?v=h071qz-4haQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T13:57:57Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian R2 SUV Launch Begins",
+        "url": "https://youtube.com/watch?v=Bb9DhkLWqJM",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T13:18:13Z",
+        "score": 0,
+        "snippet": "Rivian begins deliveries of the R2 SUV, aiming to reach mass-market scale with an affordable electric vehicle. #Rivian ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian R2 Interior Review: Shocking Space, Hidden Features, Camp Mode: Does It Compare To Model Y",
+        "url": "https://youtube.com/watch?v=UkATrCrEWBc",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T13:00:01Z",
+        "score": 0,
+        "snippet": "The Rivian R2 is now showing up in showrooms across the US. On Rivian website, you can actually book a test ride now, which is ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Unbeatable Power \ud83d\ude31\ud83d\ude31 Rivian R1S",
+        "url": "https://youtube.com/watch?v=Yo9Q-Syzi70",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T12:54:55Z",
+        "score": 0,
+        "snippet": "Welcome to my YouTube channel, where I bring you fun sim racing games and unforgettable steering wheel experiences!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      }
+    ]
   }
 ]
