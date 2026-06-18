@@ -29939,5 +29939,348 @@
         "themes": []
       }
     ]
+  },
+  {
+    "id": "2026-06-18T18:03:51.185105Z",
+    "timestamp": "2026-06-18T18:03:51.185105Z",
+    "sentiment": {
+      "positive": 55,
+      "neutral": 15,
+      "negative": 30
+    },
+    "sources": {
+      "news": {
+        "found": 20,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomous Driving",
+      "Autonomy Lag",
+      "Battery Competition",
+      "Customer Loyalty",
+      "Customer Satisfaction",
+      "Ebike Products",
+      "Lucid Motors",
+      "Market Positioning",
+      "Market Threat To Rivals",
+      "Media Coverage",
+      "Product Roadmap",
+      "R1S",
+      "R1S Features",
+      "R1T Design",
+      "R1T Features",
+      "R2 Competition",
+      "R2 Launch",
+      "R2 Target",
+      "Sales Pipeline",
+      "Secondary Market",
+      "Service Experience",
+      "Service Quality",
+      "Software Features",
+      "Software Improvements",
+      "Tesla Switcher",
+      "Tesla Weakness"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "One and done with Rivian!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9cx5w/one_and_done_with_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T17:39:21.098Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "Test Drive - NO SHOWED",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9coik/test_drive_no_showed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T17:30:27.939Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Sales Pipeline"
+        ]
+      },
+      {
+        "title": "PocketCasts Support on rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9cjdj/pocketcasts_support_on_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T17:25:21.571Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Software Features"
+        ]
+      },
+      {
+        "title": "R1T DJ setup!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9chtm/r1t_dj_setup/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T17:23:45.483Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Features"
+        ]
+      },
+      {
+        "title": "Share of R2 Orders by Original Reservation Timing",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9bnhz/share_of_r2_orders_by_original_reservation_timing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T16:52:10.066Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Used Rivians",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9b9ik/used_rivians/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T16:38:23.119Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Secondary Market"
+        ]
+      },
+      {
+        "title": "Lucid Cosmos SUV Revealed In Patent Images, Shows Rivian R2 Competitor - Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjFYZmxZbUlUMWhQRjh2NXdzcmZsYXZndDM4SDVGbDlBaUlHS3V4cWNCdmlyZ0NuLUxEcWJWd19zQ3Z1NDVVTzZ1ZzRmTVJrY3hwLVVfRkdEaDlFdVFGNTFaRjNyUlVtWEhFbWoxTEh5SG42eHRGTjZfc21NR0Y2Q3VMalRpdFZKVDNZUDlDYnJGelk1R3g1bmx5S1Vya0twenZBVVBFRGs?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 14:44:00 GMT",
+        "score": 0,
+        "snippet": "Lucid Cosmos SUV Revealed In Patent Images, Shows Rivian R2 Competitor - Yahoo Autos",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Competition",
+          "Lucid Motors"
+        ]
+      },
+      {
+        "title": "Rivian R2 and future model plans - MSN",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRU1yWGVjNE83RmJ3dG50SjNoNGRzM0l3TUU5NDZjdzR5MjJhRlB0NTZYVDJSLXJvZzJQTnp1ZXhnSGNPSUdCV3FjeVpWY3FRUzhzMjF1czRxWDZqb0x3VDNLLXJKc1ZEdWxtajRtSi02WDJWVEFIRFVSdFJNbTdBRFdLa3JtdnM?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 13:04:46 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 and future model plans - MSN",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Roadmap"
+        ]
+      },
+      {
+        "title": "Tesla teases new FSD features \u2014 but it\u2019s still not the self-driving promised - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGNNSk9WRXhzZFhxSTVKQms4ckRWaHp6bWN0M29JUTMwTmRzRW8zY0x0M2FLMWlHdVQ1U3pYUkxZRENQMXFlMFg1azl5bEhnSmN2UnpycmlTX2h5SGttWXZGdDVwdUhuN1lGdVgxY2hNVTJnUmVyakh0Z29IMjhaR282UHB0X1E?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Thu, 18 Jun 2026 16:08:00 GMT",
+        "score": 0,
+        "snippet": "Tesla teases new FSD features \u2014 but it\u2019s still not the self-driving promised - Electrek",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving",
+          "Tesla Weakness"
+        ]
+      },
+      {
+        "title": "@chi-bromptonite.bsky.social (Bluesky): new Rivian ebike in Andersonville today",
+        "url": "https://bsky.app/profile/did:plc:tu5ucbutmklvohoudbumibgi/post/3moletd2usc2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T17:42:25.066Z",
+        "score": 5,
+        "snippet": "new Rivian ebike in Andersonville today",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Ebike Products"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mold33rp322a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T17:10:58.765Z",
+        "score": 0,
+        "snippet": "eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Media Coverage"
+        ]
+      },
+      {
+        "title": "@thefinaldispatch.bsky.social (Bluesky): \u2600\ufe0f Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck\n\nhttps://cl",
+        "url": "https://bsky.app/profile/did:plc:7m5pap5siaikvtrqbcgfcfru/post/3molchrugls2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T17:00:05.173Z",
+        "score": 0,
+        "snippet": "\u2600\ufe0f Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck\n\nhttps://cleantechnica.com/2026/06/18/ford-affordable-lfp-ev-battery-hiring-jobs-prismatic/\n\u2014 Clean Technica",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Threat To Rivals",
+          "Battery Competition"
+        ]
+      },
+      {
+        "title": "@driverlessdigest.bsky.social (Bluesky): Easy fix but how many people aren\u2019t going to figure that out, or bring their veh",
+        "url": "https://bsky.app/profile/did:plc:3np7xlf5byz2rh37zm6hbic6/post/3molau5nujt2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T16:31:14.796Z",
+        "score": 0,
+        "snippet": "Easy fix but how many people aren\u2019t going to figure that out, or bring their vehicle in for service?\n\nUltimately, I really enjoy the R1S and love how big/new/nice it is, but boy do I miss Tesla\u2019s FSD!",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Service Quality"
+        ]
+      },
+      {
+        "title": "@driverlessdigest.bsky.social (Bluesky): Rivian actually made me schedule a service call and wanted me to bring in the SU",
+        "url": "https://bsky.app/profile/did:plc:3np7xlf5byz2rh37zm6hbic6/post/3molau5ntkl2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T16:31:14.775Z",
+        "score": 0,
+        "snippet": "Rivian actually made me schedule a service call and wanted me to bring in the SUV for repairs which I thought was ridiculous. Eventually, found a Reddit thread that explained how to solve the issue (y",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Service Experience"
+        ]
+      },
+      {
+        "title": "@driverlessdigest.bsky.social (Bluesky): I would use it all the time and I\u2019ve heard it\u2019s only gotten better with the new ",
+        "url": "https://bsky.app/profile/did:plc:3np7xlf5byz2rh37zm6hbic6/post/3molau5nqms2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T16:31:14.695Z",
+        "score": 0,
+        "snippet": "I would use it all the time and I\u2019ve heard it\u2019s only gotten better with the new hardware and software.\n\nLast week, I got in my Rivian to drive 2 hours for a family camping trip and when I tried to eng",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software Improvements"
+        ]
+      },
+      {
+        "title": "@driverlessdigest.bsky.social (Bluesky): After 8 years driving a Tesla Model 3 and Y, I switched over to a Rivian R1S las",
+        "url": "https://bsky.app/profile/did:plc:3np7xlf5byz2rh37zm6hbic6/post/3molattrboc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T16:31:14.673Z",
+        "score": 0,
+        "snippet": "After 8 years driving a Tesla Model 3 and Y, I switched over to a Rivian R1S last fall and love the car. It\u2019s twice the price as a Model Y but it\u2019s also twice as nice. The big thing I miss though from",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S",
+          "Customer Loyalty"
+        ]
+      },
+      {
+        "title": "RJ Scaringe on why more EV choice helps everyone #auto #cars #shorts",
+        "url": "https://youtube.com/watch?v=WBiTRf8B-Qc",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T17:00:15Z",
+        "score": 0,
+        "snippet": "Scaringe: Tesla's 55-60% US EV dominance indicates underserved $50k market; Rivian positioned to capture demand for alternative form factors and vehicle diversity.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Positioning",
+          "R2 Target"
+        ]
+      },
+      {
+        "title": "Rivian R1T | Silent Energy #Rivian #RivianR1T #ElectricTruck #EVTruck",
+        "url": "https://youtube.com/watch?v=f5VO077pF8I",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T17:00:07Z",
+        "score": 0,
+        "snippet": "The Rivian R1T standing on design, presence, and electric energy. A truck that feels rugged, refined, and ready before it even ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Design"
+        ]
+      },
+      {
+        "title": "Tesla Fan Boy Drives Rivian for First Time - My Honest Thoughts",
+        "url": "https://youtube.com/watch?v=aXMWQrhOVRY",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T16:00:08Z",
+        "score": 0,
+        "snippet": "R1S quad (1,025 hp) wins Tesla owner on interior/UI design but autonomy lags: hands-free limited to traffic-reading on surface streets; no light detection or turns without manual override.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lag",
+          "R1S Features"
+        ]
+      },
+      {
+        "title": "My Rivian R2 Review: Time To Sell My Tesla!",
+        "url": "https://youtube.com/watch?v=OtxDraqmRdQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T14:00:13Z",
+        "score": 0,
+        "snippet": "I finally drove the highly anticipated Rivian R2 SUV, and what I learned was shocking. But while everyone is talking about the ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Tesla Switcher"
+        ]
+      }
+    ]
   }
 ]
