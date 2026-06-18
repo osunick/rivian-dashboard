@@ -21,6 +21,17 @@ DEFAULT_TARGET = "+16507961015"
 OPENCLAW_BIN = "openclaw"
 SIGNAL_CLI_BIN = "signal-cli"
 
+CATEGORY_ORDER = ["autonomy", "demo_drives", "vehicles", "business", "software", "community"]
+
+CATEGORY_LABELS = {
+    "autonomy": "🤖 Autonomy",
+    "demo_drives": "🧪 Demo & Test Drives",
+    "vehicles": "🚗 Vehicles",
+    "business": "💰 Business",
+    "software": "📱 Software",
+    "community": "🌐 Community",
+}
+
 
 def to_pt_time(iso_str: str) -> str:
     try:
@@ -76,7 +87,7 @@ def build_brief(entry: dict) -> str:
     sitrep_risk = negative_items[0] if negative_items else (competitive_items[1] if len(competitive_items) > 1 else None)
 
     total_items = len(items)
-    n_cats = sum(1 for c in ["autonomy", "vehicles", "business", "software", "community"] if by_cat.get(c))
+    n_cats = sum(1 for c in CATEGORY_ORDER if by_cat.get(c))
     ts = entry.get("timestamp", "")
 
     lines: list[str] = []
@@ -87,8 +98,11 @@ def build_brief(entry: dict) -> str:
 
     if sitrep_competitive:
         lines.append(f"• *Competitor:* {sitrep_competitive.get('snippet', '—')}")
-    if sitrep_rivian:
-        lines.append(f"• *Rivian:* {sitrep_rivian.get('snippet', '—')}")
+    demo_items = by_cat.get("demo_drives", [])
+    if demo_items:
+        lines.append(f"• *Test drives:* {demo_items[0].get('snippet') or demo_items[0].get('title') or '—'}")
+    elif sitrep_rivian:
+        lines.append(f"• *Rivian:* {sitrep_rivian.get('snippet') or sitrep_rivian.get('title') or '—'}")
     if sitrep_risk:
         lines.append(f"• *Key risk:* {sitrep_risk.get('snippet', '—')}")
 
@@ -107,17 +121,12 @@ def build_brief(entry: dict) -> str:
     lines.append("")
     lines.append("*🚗 RIVIAN POSITION*")
     lines.append("")
-    for cat_key, cat_label in [
-        ("autonomy", "🤖 Autonomy"),
-        ("vehicles", "🚗 Vehicles"),
-        ("business", "💰 Business"),
-        ("software", "📱 Software"),
-        ("community", "🌐 Community"),
-    ]:
+    for cat_key in CATEGORY_ORDER:
+        cat_label = CATEGORY_LABELS[cat_key]
         cat_items = by_cat.get(cat_key, [])
         count = len(cat_items)
         if count > 0:
-            lines.append(f"*{cat_label} ({count})* • {cat_items[0].get('snippet', '—')}")
+            lines.append(f"*{cat_label} ({count})* • {cat_items[0].get('snippet') or cat_items[0].get('title') or '—'}")
             if cat_items[0].get("url"):
                 lines.append(f"  {cat_items[0]['url']}")
         else:

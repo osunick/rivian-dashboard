@@ -71,6 +71,25 @@ COMPETITOR_KW = {
 }
 ALL_COMPETITOR_KW = [kw for kws in COMPETITOR_KW.values() for kw in kws]
 
+CATEGORY_ORDER = ['autonomy', 'demo_drives', 'vehicles', 'business', 'software', 'community', 'competitive']
+
+CATEGORY_LABELS = {
+    'autonomy': '🤖 Autonomy',
+    'demo_drives': '🧪 Demo & Test Drives',
+    'vehicles': '🚗 Vehicles',
+    'business': '💰 Business',
+    'software': '📱 Software',
+    'community': '🌐 Community',
+}
+
+DEMO_DRIVE_TERMS = [
+    'demo drive', 'demo-drive', 'demo ride', 'demo review',
+    'test drive', 'test-drive', 'test ride', 'test drove',
+    'first drive', 'first-drive', 'drive review', 'driving impressions',
+    'initial thoughts', 'first impressions', 'behind the wheel',
+    'hands on', 'hands-on', 'walkaround', 'walk around',
+]
+
 # Sources that are too noisy/generic to be competitive intel on their own
 NOISY_SOURCES = {'wsj','nytimes','bloomberg','bloomberg_top','reuters','reuters_top','ap','abcnews','detroitnews','hackernews','automotive_news','motor_trend'}
 
@@ -81,6 +100,7 @@ def guess_category(item):
     source = item.get('source','').lower()
 
     is_rivian = any(k in title for k in ['rivian','r1','r2','r1t','r1s'])
+    is_demo_drive = is_rivian and any(k in title for k in DEMO_DRIVE_TERMS)
     is_autonomy = any(k in title for k in ['autonomy','fsd','self-driving','waymo','cruise','autopilot','bluecruise','super cruise'])
     is_vehicle = any(k in title for k in ['vehicle','truck','suv','delivery','launch','polestar','tesla ev','electric suv','electric truck'])
     is_business = any(k in title for k in ['stock','earnings','revenue','profit','layoff','financial','ipo','acquisition','merger'])
@@ -91,6 +111,7 @@ def guess_category(item):
     if is_rivian:
         if is_business: return 'business'
         if is_software: return 'software'
+        if is_demo_drive: return 'demo_drives'
         if is_autonomy: return 'autonomy'
         return 'vehicles'
 
@@ -287,7 +308,7 @@ def compose_brief_llm(items, sentiment, ts):
         "- Plain text only. Use *single asterisks* for bold (not **). No markdown tables, no headers with #.\n"
         "- Keep the emoji section structure: 🎯 SITREP (2-4 bullets: top competitor move, Rivian's position, key risk), "
         "then a ━━━━━━━━━━ divider, ⚔️ FIELD INTELLIGENCE (the most consequential competitor items, with implication for Rivian), "
-        "🚗 RIVIAN POSITION (group by 🤖 Autonomy / 🚗 Vehicles / 💰 Business / 📱 Software / 🌐 Community as relevant), "
+        "🚗 RIVIAN POSITION (group by 🤖 Autonomy / 🧪 Demo & Test Drives / 🚗 Vehicles / 💰 Business / 📱 Software / 🌐 Community as relevant), "
         "another divider, then 📌 PM WATCH LIST (3-6 forward-looking bullets — what to track next).\n"
         "- Include the source URL in <angle brackets> on its own line under any item you cite, so the link stays clickable.\n"
         "- Start your output with EXACTLY this header, then a blank line:\n" + header + "\n"
@@ -331,7 +352,7 @@ def compose_brief(items, sentiment, ts):
         by_cat.setdefault(cat, []).append(item)
 
     lines = []
-    n_cats = sum(1 for c in ['autonomy','vehicles','business','software','community'] if by_cat.get(c))
+    n_cats = sum(1 for c in CATEGORY_ORDER if c != 'competitive' and by_cat.get(c))
     lines.append(f"🎬 *GameFilm — Rivian Intel*")
     lines.append(f"_{format_date(ts)} — {format_time(ts)} — {len(items)} signals · {n_cats} categories_")
     lines.append("")
@@ -339,12 +360,15 @@ def compose_brief(items, sentiment, ts):
 
     competitive = by_cat.get('competitive', [])
     negative = [i for i in items if i.get('sentiment') == 'negative']
+    demo_drives = by_cat.get('demo_drives', [])
     vehicles = by_cat.get('vehicles', [])
     positive = [i for i in items if i.get('sentiment') == 'positive']
 
     if competitive:
         lines.append(f"• *Competitor:* {clean_snippet(competitive[0].get('snippet'))}")
-    if vehicles:
+    if demo_drives:
+        lines.append(f"• *Test drives:* {clean_snippet(demo_drives[0].get('snippet') or demo_drives[0].get('title'))}")
+    elif vehicles:
         lines.append(f"• *Rivian:* {clean_snippet(vehicles[0].get('snippet'))}")
     if negative:
         lines.append(f"• *Key risk:* {clean_snippet(negative[0].get('snippet'))}")
@@ -365,13 +389,12 @@ def compose_brief(items, sentiment, ts):
     lines.append("")
     lines.append("*🚗 RIVIAN POSITION*")
     lines.append("")
-    for cat_key, cat_label in [('autonomy','🤖 Autonomy'),('vehicles','🚗 Vehicles'),
-                               ('business','💰 Business'),('software','📱 Software'),
-                               ('community','🌐 Community')]:
+    for cat_key in [c for c in CATEGORY_ORDER if c != 'competitive']:
+        cat_label = CATEGORY_LABELS[cat_key]
         cat_items = by_cat.get(cat_key, [])
         cnt = len(cat_items)
         if cnt > 0:
-            snippet = clean_snippet(cat_items[0].get('snippet'))
+            snippet = clean_snippet(cat_items[0].get('snippet') or cat_items[0].get('title'))
             lines.append(f"*{cat_label} ({cnt})* • {snippet}")
             if cat_items[0].get('url'): lines.append(f"  {cat_items[0]['url']}")
         else:
@@ -437,7 +460,7 @@ def main():
             'sentiment': sentiment,
             'sources': {'news':{'found':len(items),'sentiment':None}},
             'categories': {c:{'found':sum(1 for i in items if i.get('category')==c),'sentiment':None}
-                           for c in ['autonomy','vehicles','business','software','community','competitive']},
+                           for c in CATEGORY_ORDER},
             'themes': sorted(set(t for i in items for t in i.get('themes',[]))),
             'summary': items[0].get('snippet','Rivian intel')[:200] if items else '',
             'fullReport': '', 'items': items

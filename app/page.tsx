@@ -119,6 +119,34 @@ function countAutonomyRelevantSignals(
   }).length;
 }
 
+const DEMO_DRIVE_TERMS = [
+  'demo drive',
+  'demo-drive',
+  'demo ride',
+  'demo review',
+  'test drive',
+  'test-drive',
+  'test ride',
+  'test drove',
+  'first drive',
+  'first-drive',
+  'drive review',
+  'driving impressions',
+  'initial thoughts',
+  'first impressions',
+  'behind the wheel',
+  'hands on',
+  'hands-on',
+  'walkaround',
+  'walk around',
+];
+
+function isDemoDriveFeedback(item: { category?: string; title: string; snippet?: string }) {
+  if (item.category === 'demo_drives') return true;
+  const text = `${item.title} ${item.snippet ?? ''}`.toLowerCase();
+  return DEMO_DRIVE_TERMS.some(term => text.includes(term));
+}
+
 type InferredSignalTone = 'positive' | 'neutral' | 'risk';
 type InferredToneItem = {
   title: string;
@@ -185,6 +213,7 @@ function buildSummaryNotes({
   sentimentTotals,
   inferredToneTotals,
   competitiveSignalCount,
+  demoDriveSignalCount,
 }: {
   scope: 'latest' | '7d' | 'all';
   latest: ReturnType<typeof getLatestReport>;
@@ -201,6 +230,7 @@ function buildSummaryNotes({
   sentimentTotals: { positive: number; neutral: number; negative: number };
   inferredToneTotals: Record<InferredSignalTone, number>;
   competitiveSignalCount: number;
+  demoDriveSignalCount: number;
 }) {
   const narrative = latest
     ? extractBullets([latest.summary, latest.competitiveContext].filter(Boolean).join('\n'), 6)
@@ -247,6 +277,16 @@ function buildSummaryNotes({
   } else {
     notes.push(
       'There are no direct autonomy-specific signals in this view. Treat that as a coverage gap rather than evidence that Driver+ or Highway Assist issues are absent.'
+    );
+  }
+
+  if (demoDriveSignalCount > 0) {
+    notes.push(
+      `${demoDriveSignalCount} demo or test-drive feedback signals are in scope, giving PMs a direct read on hands-on R2 perception rather than only launch/news chatter.`
+    );
+  } else {
+    notes.push(
+      'No demo or test-drive feedback is in scope yet, so hands-on R2 perception is still a collection priority for the next scan.'
     );
   }
 
@@ -403,6 +443,7 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
     sentimentTotals,
     inferredToneTotals,
     competitiveSignalCount: scopeItems.filter(item => item.category === 'competitive').length,
+    demoDriveSignalCount: scopeItems.filter(isDemoDriveFeedback).length,
   });
 
   const topSignals = scopeItems.slice(0, 10);
@@ -416,6 +457,7 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
 
   const datedSignals = scopeItems.filter(item => item.publishedAt);
   const competitiveSignals = scopeItems.filter(item => item.category === 'competitive');
+  const demoDriveSignals = scopeItems.filter(isDemoDriveFeedback);
   const issueItems: DrillDownItem[] = autonomyIssues.map(issue => ({
     title: issue.title,
     url: issue.url,
@@ -445,6 +487,7 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
     { label: 'Signals', value: totalSignals, items: scopeItems, drillTitle: 'All signals', drillLabel: 'Signal Drilldown', drillDescription: 'Every deduped signal in the current scope, newest first.', footerSuffix: 'in scope' },
     { label: 'Dated by publish', value: `${datedShare}%`, items: datedSignals, drillTitle: 'Signals with a publish date', drillLabel: 'Signal Drilldown', drillDescription: 'Signals carrying an original publish date, newest first.', footerSuffix: 'dated' },
     { label: 'Sources', value: sourceCounts.length, items: scopeItems, drillTitle: 'Signals across all sources', drillLabel: 'Source Drilldown', drillDescription: `${sourceCounts.length} active sources contributing signals in scope.`, footerSuffix: 'in scope' },
+    { label: 'Demo drives', value: demoDriveSignals.length, items: demoDriveSignals, drillTitle: 'Demo & test drive feedback', drillLabel: 'Feedback Drilldown', drillDescription: 'Hands-on R2 demo, test-drive, first-drive, and ride-along impressions in the current scope.', footerSuffix: 'feedback items' },
     { label: 'Competitive', value: competitiveSignals.length, items: competitiveSignals, drillTitle: 'Competitive signals', drillLabel: 'Competitive Drilldown', drillDescription: 'Signals tagged competitive intel in the current scope.', footerSuffix: 'competitive' },
     { label: 'Failed scans', value: failedScans.length, items: failedScanItems, drillTitle: 'Failed scans', drillLabel: 'Scan Errors', drillDescription: 'Scan cycles that returned an error.', footerSuffix: 'failed' },
     { label: 'Issues tracked', value: autonomyIssues.length, items: issueItems, drillTitle: 'Autonomy & software issues', drillLabel: 'Issue Drilldown', drillDescription: 'Recent autonomy and software risk signals.', footerSuffix: 'tracked' },
@@ -604,6 +647,38 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
             </div>
           </Card>
 
+          <Card title="Demo & test drive feedback" meta={`${demoDriveSignals.length} in scope`}>
+            {demoDriveSignals.length > 0 ? (
+              <div className="space-y-2.5">
+                {demoDriveSignals.slice(0, 8).map(item => (
+                  <div
+                    key={item.url}
+                    className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
+                  >
+                    <div className="mb-2 flex flex-wrap items-center gap-2">
+                      <span className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${sentimentTone(item.sentiment)}`}>{item.sentiment}</span>
+                      <span className="font-mono-num text-[11px] uppercase tracking-[0.1em] text-claude-muted">{SOURCE_LABELS[item.source] ?? item.source}</span>
+                      <span className="ml-auto font-mono-num text-[11px] text-claude-muted">{formatCompactDate(item.publishDate)}</span>
+                    </div>
+                    <a href={item.url} target="_blank" rel="noreferrer" className="group block">
+                      <h3 className="text-[15px] font-semibold leading-snug text-claude-text transition-colors group-hover:text-marvel-red">
+                        {item.title}
+                      </h3>
+                    </a>
+                    <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{item.snippet}</p>
+                    <MediaPreview url={item.url} title={item.title} className="mt-3 rounded-lg border-white/10 bg-black/30" />
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className="text-base leading-relaxed text-claude-muted">
+                No demo or test-drive feedback is in scope yet. The next scan will tag R2 hands-on drive impressions here.
+              </div>
+            )}
+          </Card>
+        </div>
+
+        <div className="grid gap-4 xl:grid-cols-[1fr]">
           <Card title="Recent signals" meta="by publish date">
             <div className="space-y-2.5">
               {topSignals.map(item => (

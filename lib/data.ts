@@ -96,6 +96,7 @@ export function getThemeItemsMap(): Record<string, (Report['items'][number] & { 
 export function getCategoryBreakdown(): { key: CategoryKey; label: string; found: number; sentiment: string | null }[] {
   const LABELS: Record<CategoryKey, string> = {
     autonomy:    '🤖 Autonomy',
+    demo_drives: '🧪 Demo & Test Drives',
     vehicles:    '🚗 Vehicles & Products',
     business:    '💰 Business & Finance',
     software:    '📱 Software & Tech',
@@ -103,10 +104,23 @@ export function getCategoryBreakdown(): { key: CategoryKey; label: string; found
     competitive: '⚔️ Competitive Intel',
   };
   // Count items by category across all reports, deduplicated by URL per category
-  const counts: Record<CategoryKey, number> = { autonomy: 0, vehicles: 0, business: 0, software: 0, community: 0, competitive: 0 };
+  const counts: Record<CategoryKey, number> = {
+    autonomy: 0,
+    demo_drives: 0,
+    vehicles: 0,
+    business: 0,
+    software: 0,
+    community: 0,
+    competitive: 0,
+  };
   const seen: Record<CategoryKey, Set<string>> = {
-    autonomy: new Set(), vehicles: new Set(), business: new Set(),
-    software: new Set(), community: new Set(), competitive: new Set(),
+    autonomy: new Set(),
+    demo_drives: new Set(),
+    vehicles: new Set(),
+    business: new Set(),
+    software: new Set(),
+    community: new Set(),
+    competitive: new Set(),
   };
   for (const r of validReports) {
     for (const item of r.items ?? []) {

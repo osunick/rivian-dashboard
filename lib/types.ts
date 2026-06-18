@@ -1,9 +1,17 @@
 export type SentimentLabel = 'positive' | 'neutral' | 'negative';
 
-export type CategoryKey = 'autonomy' | 'vehicles' | 'business' | 'software' | 'community' | 'competitive';
+export type CategoryKey =
+  | 'autonomy'
+  | 'demo_drives'
+  | 'vehicles'
+  | 'business'
+  | 'software'
+  | 'community'
+  | 'competitive';
 
 export const CATEGORY_LABELS: Record<CategoryKey, string> = {
   autonomy:    '🤖 Autonomy',
+  demo_drives: '🧪 Demo & Test Drives',
   vehicles:    '🚗 Vehicles & Products',
   business:    '💰 Business & Finance',
   software:    '📱 Software & Tech',
@@ -12,7 +20,7 @@ export const CATEGORY_LABELS: Record<CategoryKey, string> = {
 };
 
 export const CATEGORY_KEYS: CategoryKey[] = [
-  'autonomy', 'vehicles', 'business', 'software', 'community', 'competitive',
+  'autonomy', 'demo_drives', 'vehicles', 'business', 'software', 'community', 'competitive',
 ];
 
 export interface ReportItem {

@@ -161,18 +161,21 @@ const OUT = '/tmp/gamefilm_browser.json';
   }
 
   // ── Reddit searches ──────────────────────────────────────────────────────
-  // Note: RivianR2 is IP-blocked by Reddit; r/stocks is too noisy — skip both
+  // r/stocks is too noisy — skip it. RivianR2 can be flaky behind Reddit
+  // network controls, but it is important enough for R2 demo/test-drive reads
+  // that we still attempt a targeted search each run.
   const subreddits = [
     { name: 'Rivian', query: 'Rivian OR RIVN OR R1T OR R1S OR R2 OR "RJ Scaringe"' },
+    { name: 'RivianR2', sourceKey: 'reddit_rivian_r2', query: '"test drive" OR "demo drive" OR "demo" OR "first drive" OR "test ride" OR "R2 review"' },
     { name: 'electricvehicles', query: 'Rivian OR RIVN OR R1T OR R1S' },
     { name: 'SelfDrivingCars', query: 'Rivian OR RIVN OR R1T OR autonomy OR driver assist' },
   ];
 
   for (const sub of subreddits) {
     const url = 'https://www.reddit.com/r/' + sub.name + '/search/?q=' + encodeURIComponent(sub.query) + '&sort=new&restrict_sr=1';
-    await scrapeSearch(url, 'reddit_' + sub.name.toLowerCase(), {
+    await scrapeSearch(url, sub.sourceKey || ('reddit_' + sub.name.toLowerCase()), {
       waitFor: 3500,
-      linkPattern: /\/r\/[a-z]+\/comments\//i,
+      linkPattern: /\/r\/[a-z0-9_]+\/comments\//i,
       maxItems: 8,
     });
     await page.waitForTimeout(1200);
