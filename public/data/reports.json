@@ -30282,5 +30282,552 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-18T22:04:14.893372Z",
+    "timestamp": "2026-06-18T22:04:14.893372Z",
+    "sentiment": {
+      "positive": 42,
+      "neutral": 28,
+      "negative": 28
+    },
+    "sources": {
+      "news": {
+        "found": 35,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 3,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Accessories",
+      "Autonomous Vehicles",
+      "Brand Enthusiasm",
+      "Customer Satisfaction",
+      "Driver+ Lawsuit",
+      "Financing Terms",
+      "Fleet Services",
+      "Headquarters",
+      "Interior Options",
+      "Production Goals",
+      "R1 Community",
+      "R1 Promotions",
+      "R1S Reliability",
+      "R2 Community",
+      "R2 Comparison",
+      "R2 Competitors",
+      "R2 Demo Reviews",
+      "R2 Design",
+      "R2 Efficiency",
+      "R2 Innovation",
+      "R2 Launch",
+      "R2 Market Position",
+      "R2 Performance",
+      "R2 Pre-Orders",
+      "R2 Pricing",
+      "R2 Quality",
+      "RIVN Stock",
+      "Safety Systems",
+      "Test Drive Availability",
+      "Test Drive Booking",
+      "Vehicle Ownership"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Look at this beauty! Courtesy of Emerald City Rivian Club and Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9joiz/look_at_this_beauty_courtesy_of_emerald_city/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T21:55:16.207Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1 Community",
+          "Brand Enthusiasm"
+        ]
+      },
+      {
+        "title": "Rivian 1.99 APR is not real?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9jbm3/rivian_199_apr_is_not_real/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T21:40:44.009Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Financing Terms"
+        ]
+      },
+      {
+        "title": "Anyone have been able to order the coastal cloud interior",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9g6zy/anyone_have_been_able_to_order_the_coastal_cloud/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T19:40:09.983Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Interior Options"
+        ]
+      },
+      {
+        "title": "Emergency stop at 49 miles",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9fbnn/emergency_stop_at_49_miles/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T19:07:14.914Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Safety Systems"
+        ]
+      },
+      {
+        "title": "Yet another R2 demo drive review",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9cjyl/yet_another_r2_demo_drive_review/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T17:26:00.426Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo Reviews"
+        ]
+      },
+      {
+        "title": "Selling a Rivian later",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u92hdx/selling_a_rivian_later/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T10:22:25.836Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Ownership"
+        ]
+      },
+      {
+        "title": "anyone know what time they open the test drive reservations?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9016o/anyone_know_what_time_they_open_the_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T07:54:23.821Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Test Drive Booking"
+        ]
+      },
+      {
+        "title": "Los Angeles area test drive?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u8ssje/los_angeles_area_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T01:28:52.107Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Test Drive Availability"
+        ]
+      },
+      {
+        "title": "Invited to order today (Boston area)",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u8s5s8/invited_to_order_today_boston_area/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T00:59:31.065Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Pre-Orders"
+        ]
+      },
+      {
+        "title": "I want to love everything, but I just can't...",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u8owml/i_want_to_love_everything_but_i_just_cant/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-17T22:35:33.208Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "Surprises from the Test Drive, measured 0-60 3.85s",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u8n0k2/surprises_from_the_test_drive_measured_060_385s/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-17T21:20:39.357Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Performance"
+        ]
+      },
+      {
+        "title": "R2 Owners in LA looking to take part in something exciting!",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1u9ejnv/r2_owners_in_la_looking_to_take_part_in_something/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-18T18:38:32.661Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Community"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Up 1.6% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHZzTEgtcExuQXlNN0dYNWFydV9ReGRXOHZJYl9yUl9CREtlWE11WlFmRVN6aWc0Sy1lOWx0ZGM3WDR6WmFKS01XbGRmUjJBTWVrWUVYQ3ZodTVpUnZ6ZzVPdkpVZHRQWEoydVRvdmFiaEJqWUdhYXAyY3RMNEpFSHBhLVk5OGpEWFM4S1Z2U1FtSFJlQnduMGVoRUJGNHJ2NzhRZzFuU2lBZWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 18 Jun 2026 21:52:44 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Up 1.6% - What's Next? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian CEO on the R2: 'We're Planning to Sell Hundreds of Thousands of These' - Road & Track",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWlhb2JFSlZmU2FVNXZxVXNHWmlPNThVSV9OdU1PV1VXY2tiM21lazBRQmx1V2k1UXg3ZW5ZdHROaWNEMHU3MmhrMWZkcFJFUFhFV1RsUzNSeEhOdm5nVzJzOVlmX0NGV0xkcFF0YlRVQ1RnSV82cmJOeFlSTDBQRTZHdElJeHBubVI5Vm90UkRjZXExTFhKcEhTMllxbVNsUktiWFBPSTN5QQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 19:43:00 GMT",
+        "score": 0,
+        "snippet": "Rivian CEO on the R2: 'We're Planning to Sell Hundreds of Thousands of These' - Road & Track",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Production Goals"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Is Just As Efficient As A Tesla Model Y, Despite Weighing More - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZVR0Wkl1bnFJOEViSG9kMktaeHlFd21hUHZGMmxFSklab3ZaSVpxRHE1QVd5Ty1sSW5LTzNjS21fMUVGODhDUnpqbzFWZURwRU5OZmlsMGpOWnMyWFdyM2N6OXJLS0p3RUY1TkNqQjcxR3VDN3lSMGw4Vlo0Zw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 09:20:00 GMT",
+        "score": 0,
+        "snippet": "The Rivian R2 Is Just As Efficient As A Tesla Model Y, Despite Weighing More - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Efficiency"
+        ]
+      },
+      {
+        "title": "Lucid Cosmos SUV Revealed In Patent Images, Shows Rivian R2 Competitor - Autoguide.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMlBva0pQRm9CdGI0TGhzdE9zU2t3NlBrOFVYSC1KeVRCVzRLeFR6Z25HaGJUd210aHhCSlpISVF1eEFPaFR5c1h0cGtHYkhkRVl5REdWNVJoNjZpWkpWNFZubFczSEt6NTJFaTRqazI2N1FzWGRYWWJJbWxwc2hTcC1jeUVTdlFCNzh1ZW91ZlhLVGp1ODlDSE1EUUZEamZTREc3Wm1BSTNnbUo5a2c?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 13:31:00 GMT",
+        "score": 0,
+        "snippet": "Lucid Cosmos SUV Revealed In Patent Images, Shows Rivian R2 Competitor - Autoguide.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Competitors"
+        ]
+      },
+      {
+        "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUNTdG56Smx3VGI5ODJHOWFEUjJkek92MU9CRVlieTB2V2tlYkY4c014MnZBZVZNQ2xWaDVGY1BTUTdYdEZmd3pGMkdsY09sWDZadlowVEhCTHphckg1SkNXbk1TOE5sQW5DMjVhTWVNYnR5TndXSjd1MkRqNk1ObkdfbllBc1NDUVFXd2JyVVdkbkFlVGN4TmFvenBTYjl5ZlFpOVZjWkJHUXNDT0hmSzBpNmd6RW1lUXNUamtRemI?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 18 Jun 2026 11:59:11 GMT",
+        "score": 0,
+        "snippet": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones - TechCrunch",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Vehicles"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): Rivian\n607 Hansen Way, \nPalo Alto, CA 94304\n\nwww.sfgate.com/disneyland/a...",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3molsv6v26k2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T21:53:59.360Z",
+        "score": 0,
+        "snippet": "Rivian\n607 Hansen Way, \nPalo Alto, CA 94304\n\nwww.sfgate.com/disneyland/a...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Headquarters"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian is now facing a class action over Driver+, with plaintiffs claiming it pr",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3molsosy6bs2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T21:50:22.067Z",
+        "score": 1,
+        "snippet": "Rivian is now facing a class action over Driver+, with plaintiffs claiming it promised hands-free Level 3 driving on the Gen 1 R1T and R1S that will never arrive. Worth reading with R2 and Autonomy+ i",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+ Lawsuit"
+        ]
+      },
+      {
+        "title": "@indiaworldeye.bsky.social (Bluesky): Rivian Owners Sue Over Self-Driving Promises: CEO RJ Scaringe Under Fire\n\nhttps:",
+        "url": "https://bsky.app/profile/did:plc:sajzsll7pzj7pmrm6wugldxt/post/3molsmguy6w2e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T21:48:59.963Z",
+        "score": 0,
+        "snippet": "Rivian Owners Sue Over Self-Driving Promises: CEO RJ Scaringe Under Fire\n\nhttps://indiaworldeye.com/article/rivian-owners-sue-over-self-driving-promises-ceo-rj-scaringe-under-fire-mqjzbljy\n\n#IndiaWorl",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+ Lawsuit"
+        ]
+      },
+      {
+        "title": "@toppnews.bsky.social (Bluesky): \n#Amazon   #autonomous driving   #California   #Rivian   #Volkswagen\n\ud83c\udf10 www.newsm",
+        "url": "https://bsky.app/profile/did:plc:mhqnbglrgmwiuz3kgexbi7uf/post/3mols4iqdvj2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T21:40:05.873Z",
+        "score": 0,
+        "snippet": "\n#Amazon   #autonomous driving   #California   #Rivian   #Volkswagen\n\ud83c\udf10 www.newsmart.ch",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomous Vehicles"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian CEO Wants To Sell \u201cHundreds of Thousands\u201d of R2s\n\nhttps://www.evshift.com",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3molqyunivc2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T21:20:10.160Z",
+        "score": 0,
+        "snippet": "Rivian CEO Wants To Sell \u201cHundreds of Thousands\u201d of R2s\n\nhttps://www.evshift.com/476186/rivian-ceo-wants-to-sell-hundreds-of-thousands-of-r2s/\n\nThe Rivian R2 has maintained a relatively high level of ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Production Goals"
+        ]
+      },
+      {
+        "title": "@ainewsagent.bsky.social (Bluesky): Rivian designers achieve a premium feel for the R2 SUV by applying ingenuity and",
+        "url": "https://bsky.app/profile/did:plc:nr4yjlj4j3o57xeayrds4qkw/post/3molqoh3qwd2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T21:14:20.160Z",
+        "score": 0,
+        "snippet": "Rivian designers achieve a premium feel for the R2 SUV by applying ingenuity and humor to aggressive cost reduction.\n\n#RivianR2 #EVDesign #AutomotiveInnovation",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Design"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian rolled out another short term $500 offer on R1.\n\nReferral:  hilbereferral",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3molqhqxg2t2z",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T21:10:35.667Z",
+        "score": 0,
+        "snippet": "Rivian rolled out another short term $500 offer on R1.\n\nReferral:  hilbereferral.com / CHRIS1332989",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1 Promotions"
+        ]
+      },
+      {
+        "title": "@ftwrcloud-es.bsky.social (Bluesky): Rivian bajo fuego: problemas de autonom\u00eda en la demanda colectiva.\n\n#Tech #GeekN",
+        "url": "https://bsky.app/profile/did:plc:ijk37u4wvtjo2pwmtcrchpkt/post/3moloca62tc23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T20:31:43.266Z",
+        "score": 0,
+        "snippet": "Rivian bajo fuego: problemas de autonom\u00eda en la demanda colectiva.\n\n#Tech #GeekNews\nhttps://ftwr.cloud/es/news/96854e81-ef2c-428c-889c-00fab616329a",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+ Lawsuit"
+        ]
+      },
+      {
+        "title": "@ftwrcloud-pt.bsky.social (Bluesky): Rivian enfrenta um processo coletivo questionando sua tecnologia de dire\u00e7\u00e3o aut\u00f4",
+        "url": "https://bsky.app/profile/did:plc:kwsbp5maxamzb4pj4bvpaxky/post/3moloc3cqvt23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T20:31:38.074Z",
+        "score": 0,
+        "snippet": "Rivian enfrenta um processo coletivo questionando sua tecnologia de dire\u00e7\u00e3o aut\u00f4noma.\n\n#Tech #GeekNews\nhttps://ftwr.cloud/pt/news/96854e81-ef2c-428c-889c-00fab616329a",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+ Lawsuit"
+        ]
+      },
+      {
+        "title": "@ftwrcloud.bsky.social (Bluesky): Rivian battles a lawsuit over self-driving tech in its early EVs. \u2696\ufe0f\ud83d\ude97 #Rivian #A",
+        "url": "https://bsky.app/profile/did:plc:cehs2x43qqdmbngwhw7a5r5b/post/3molobtcko323",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T20:31:29.266Z",
+        "score": 0,
+        "snippet": "Rivian battles a lawsuit over self-driving tech in its early EVs. \u2696\ufe0f\ud83d\ude97 #Rivian #AutonomousVehicles\n\n#Tech #GeekNews\nhttps://ftwr.cloud/en/news/96854e81-ef2c-428c-889c-00fab616329a",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Driver+ Lawsuit"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 First Look \u2013 Price, Range, Specs &amp; Features",
+        "url": "https://youtube.com/watch?v=raXuPhWJWWA",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T22:00:28Z",
+        "score": 0,
+        "snippet": "R2 launches 2026-2027 at mid-$40k base (performance trims upper-$50k, cheaper models later) with 650+ HP, sub-4s 0-60, 275-345mi range, directly targeting Model Y/EV6 market.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "Rivian R2: The EV That Rewards Drivers!",
+        "url": "https://youtube.com/watch?v=r_9JJeaxteU",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T20:58:52Z",
+        "score": 0,
+        "snippet": "R2 surpasses Model Y on interior quality and build; semi-active suspension provides exceptional quietness and dynamic balance among best SUVs regardless of price; mature production.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Quality"
+        ]
+      },
+      {
+        "title": "Rivian Fleet Wraps \u2014 600+ Installs \u2014 Chicago Fleet Wraps",
+        "url": "https://youtube.com/watch?v=wi-ad0ipMvk",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T19:29:01Z",
+        "score": 0,
+        "snippet": "EV fleet specialists \u2014 600+ Rivian installs and counting. https://chicagofleetwraps.com | 312-597-1286.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Fleet Services"
+        ]
+      },
+      {
+        "title": "3W floor mats vs factory Rivian mats (huge difference) #rivian #carmats #comparison",
+        "url": "https://youtube.com/watch?v=0piFB6fwYRo",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T19:12:55Z",
+        "score": 0,
+        "snippet": "3W aftermarket floor mats for R1S deliver all-row coverage including third row with door-sill overlap, outperforming factory mats on fit/coverage.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Accessories"
+        ]
+      },
+      {
+        "title": "I Drove My Rivian R1S to Arizona&#39;s Strangest Place \u2014 Then It All Went Wrong",
+        "url": "https://youtube.com/watch?v=UdNUPyxJxBk",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T19:00:33Z",
+        "score": 0,
+        "snippet": "R1S achieves 230+ real-world highway miles, integrates Ayana charging ratings in navigation, and recently enabled universal hands-free mode on marked roads.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Reliability"
+        ]
+      },
+      {
+        "title": "American Innovation: Rivian R2 Leads the Charge!",
+        "url": "https://youtube.com/watch?v=fF-53KI31xc",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T18:28:21Z",
+        "score": 0,
+        "snippet": "Rivian positions R2 as proof American manufacturing leads through engineering excellence and design obsession, not government mandates or tax incentives.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Innovation"
+        ]
+      },
+      {
+        "title": "Rivian R2: The EV Challenging EVERY Car Segment?",
+        "url": "https://youtube.com/watch?v=sn8e6oGVdvQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T18:27:41Z",
+        "score": 0,
+        "snippet": "Rivian R2 targets five vehicle segments simultaneously\u2014RAV4, Outback, X3, Model Y, Wrangler\u2014competing against Toyota, Subaru, BMW, Tesla, and Jeep, manufactured in Normal, Illinois.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Market Position"
+        ]
+      },
+      {
+        "title": "We Tried the Rivian R2\u2026 and Now We\u2019re Confused",
+        "url": "https://youtube.com/watch?v=wtvzWUghgl4",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T18:00:15Z",
+        "score": 0,
+        "snippet": "Gjeebs and I drove the Rivian R2. We had ALOT of thoughts considering we own a Tesla Model Y. Should you get one? \u26a1\ufe0e Get ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Comparison"
+        ]
+      }
+    ]
   }
 ]
