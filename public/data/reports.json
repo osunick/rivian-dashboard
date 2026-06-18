@@ -29103,5 +29103,487 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-18T02:04:16.706903Z",
+    "timestamp": "2026-06-18T02:04:16.706903Z",
+    "sentiment": {
+      "positive": 31,
+      "neutral": 24,
+      "negative": 44
+    },
+    "sources": {
+      "news": {
+        "found": 29,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 6,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Accessories",
+      "Autonomous Taxis",
+      "Autonomy",
+      "Autonomy Plus",
+      "Brand Sentiment",
+      "Community Partnerships",
+      "Competitive Comparison",
+      "Cost Cutting",
+      "Customer Complaints",
+      "Customer Sentiment",
+      "Customer Service",
+      "Feature Paywall",
+      "Fuel Prices",
+      "Gen1 Software",
+      "Layoffs",
+      "Market News",
+      "Marketing Claims",
+      "Oil Market",
+      "Product Sentiment",
+      "Profitability",
+      "R1 Trade-In",
+      "R1S Ecosystem",
+      "R1S Features",
+      "R1T Pricing",
+      "R2 Design",
+      "R2 Launch",
+      "R2 Orders",
+      "R2 Pricing",
+      "R2 Production",
+      "R2 Sales",
+      "R2 Specs",
+      "R2 Test Drive",
+      "R2 Threat",
+      "RIVN Stock",
+      "Tech News",
+      "Warranty Issues",
+      "Waymo Threat"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "2022 R1T and pay to upgrade features",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8shuj/2022_r1t_and_pay_to_upgrade_features/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T01:14:48.870Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T Pricing",
+          "Feature Paywall"
+        ]
+      },
+      {
+        "title": "R1S bike rack (6 bikes)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8rznk/r1s_bike_rack_6_bikes/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T00:51:27.545Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Features"
+        ]
+      },
+      {
+        "title": "Gen1 Launch Edition software grievance",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8r6vj/gen1_launch_edition_software_grievance/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T00:14:58.816Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Gen1 Software",
+          "Customer Complaints"
+        ]
+      },
+      {
+        "title": "The R2 FM tuner debate keeps going in circles. Here's an honest look at the four arguments against it, including the ones that are actually fair.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8r659/the_r2_fm_tuner_debate_keeps_going_in_circles/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T00:14:00.391Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Design"
+        ]
+      },
+      {
+        "title": "R1 Trade in Quote towards R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8qasm/r1_trade_in_quote_towards_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T23:35:12.655Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1 Trade-In",
+          "R2 Sales"
+        ]
+      },
+      {
+        "title": "Just did my R2 test drive--my thoughts",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8q5ic/just_did_my_r2_test_drivemy_thoughts/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T23:28:34.039Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Test Drive",
+          "Customer Sentiment"
+        ]
+      },
+      {
+        "title": "Apple Watch - unlock button via wallet",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u8opgg/apple_watch_unlock_button_via_wallet/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-17T22:27:29.797Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Tech News"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: Warsh\u2019s Fed debut and Iran-U.S. deal in focus",
+        "url": "https://www.cnbc.com/2026/06/18/cnbc-daily-open-warshs-fed-debut-and-iran-us-deal-in-focus.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Market News"
+        ]
+      },
+      {
+        "title": "Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal",
+        "url": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Oil Market",
+          "Fuel Prices"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Stock Could Be 10.4% Undervalued After R2 Deliveries Begin - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNERrQ0RkS3c2M2NqbnF3ZDlKa0xtVWJEdnJEOU1pUG5jQ0tvQTRubXgxM2JmUHBXOE5EVzhvemJXS3VDMngxdTN5d0xDWkkxTjJVY3RiY09QTzBPS2ZCQzVrNFg1ZGp0R0piYUtaUTZaYVl1TUZ1dUluSXM1Vk1IdXBrM3FYODktN2htVVN3eE9JY2o1X0c5cTUwYmtHMVhsQno1aVoxRnhCWTdUTHV4cGphMVYwYXdBQUZWSGFsR0tiTXY4OHZueE1SQ05vVVdYSUdGZkhR0gHbAUFVX3lxTFByMFZ3LUdVa1l3VU9sZzBmbFNhWTBkVDVDSTNXM0xWQzRFTnJ6QUYyNWZpWGd6TUtMWUFmakd1QTNhenpOVjRDYl9KYTBlR0lhZ1lKUHB6U3lmUmVzYk5iSFoycjFUcTRqZmRjRUd0dWsxc2F2WWxzS1RxWHkyYUFjUVVGMEZrQUVDc2NXcjhBX2lDNXpGbk9ETlRha1dTVkp5SDVPc2o5Q3JnZVBVRExxVUgxcFFQdWFVdmowMWNrQk5WNEtBZkt3by1Gcmw2QXdfWERoTkVZb1RNSQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 22:52:30 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Stock Could Be 10.4% Undervalued After R2 Deliveries Begin - simplywall.st",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian cuts workforce in bid for profitability - grafa.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQk5rNzJVbzlxMjhBMlBSZ0pwbzdnTzFtQzJiSVp3bFo3TzlrMkhEV0pCWm5KR3BndXlLNUtyZE5uZ3RZVlZCcG5Xc3VPX3ZwVThhRjg3RFBONkhWMGxwelJ3Z1p5NVVvME5qaVl0RklGem85c1h4N2VFT19jakViYkVjY29Da0tRMGxkc2xDVGgwTXZSOVpIOVN5NA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 11:53:00 GMT",
+        "score": 0,
+        "snippet": "Rivian cuts workforce in bid for profitability - grafa.com",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs",
+          "Profitability"
+        ]
+      },
+      {
+        "title": "RIVN stock layoffs: What to know about the latest Rivian job cuts - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2V1cmdpSTkxVEhPUk8tQ2RhNF9TYXRONmRtZkZadkplcS05R0NQRVBOOTNTUVRrZTNwY2VwcDJFbU5vNm5JdTA5cDJUek5WNVRzLXNQcGtfcmlfY1RnSGt5dTJrR1VXUnlwd2RmblBoQlk3R3ZUaVgwTTdTR2xNd1RhRVFKRUp0ZXFtUTZQRFRTR01rYlNiNTEzVWpFTlNta1g0ZWN1dG1iRG5CMnlrNUw4MmhoY2M?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 17 Jun 2026 22:11:56 GMT",
+        "score": 0,
+        "snippet": "RIVN stock layoffs: What to know about the latest Rivian job cuts - MSN",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs",
+          "Cost Cutting"
+        ]
+      },
+      {
+        "title": "Rivian Layoffs Will Not Impact Production Workers, R2 Has Launched - Work Truck Online",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmtuREFvbE5KMzdrU0pjZlBhdGhGbXlJRWVuX3N3WGl5OThJYThiSnpLd1ZLemFUT0RxNjZpN05BLVQ4ZEN5OW9sdDB0Qm1kb0E3VFZia0lIVDlwel9fSnJyT2d1NDV5NldqUGY5OTVHYnFkOGlRajZLdUZZVkhXM0Zxdkl5WFgyY2xXZXVmNEVOVW85MlpXQzg4WTNCcVJaQ1QxSg?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 17 Jun 2026 21:33:11 GMT",
+        "score": 0,
+        "snippet": "Rivian Layoffs Will Not Impact Production Workers, R2 Has Launched - Work Truck Online",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Layoffs",
+          "R2 Production"
+        ]
+      },
+      {
+        "title": "Rivian cuts jobs by the hundreds; R2 launch adds to profit squeeze - TechStock\u00b2",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVk5ZYS1qaEtmUnNZX3NBX1piZGJCRE1nN3VaOU91NnVGb3RFdTlMOGp3VzBHcEl2bFNtTDBLWklpSThZZG9OaUxjdEUwQTVTYlBDWElKYWg1MmE1ZW1lZEZBVTdBR0FKb3Vlc3JIb0w3MVYwTzhlMHllM04zVlZDNWtCbkt3Mk16dy1JdHE3RQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 17 Jun 2026 22:56:46 GMT",
+        "score": 0,
+        "snippet": "Rivian cuts jobs by the hundreds; R2 launch adds to profit squeeze - TechStock\u00b2",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs",
+          "Profitability"
+        ]
+      },
+      {
+        "title": "Go Inc. Surges 21% in Japan\u2019s Largest 2026 IPO, Bets on Waymo Driverless Taxis in Tokyo - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmU2Q0tyeDJnQWhGYWYzVjZUWWNSb0huZjZFTjFRdjl4ZEk3SFBjbnBrZ0Y2MWhicG9ZMTlXSXRTS1pvWlhrbEUyQVM3dXRiVGZqc2FoMUkwZWQ2ZUR5RDZKc0lZYzBKcWxDXzFXbVNmYlYwY0Z2SXJpREZ0eEJzMnFnVzA1cXFKclJrNWhvSnpnRFZHYVFMOG9JeHp6Ul81NTMwLTAzTTRVcTFWbjB6Q3V2OW00cXFmUXlnSGJoUGtkY2dxZ3RwTg?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Wed, 17 Jun 2026 15:47:55 GMT",
+        "score": 0,
+        "snippet": "Go Inc. Surges 21% in Japan\u2019s Largest 2026 IPO, Bets on Waymo Driverless Taxis in Tokyo - Tech Times",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Waymo Threat",
+          "Autonomous Taxis"
+        ]
+      },
+      {
+        "title": "@islandpacket.com (Bluesky): Rivian has bad news for hundreds of its workers",
+        "url": "https://bsky.app/profile/did:plc:ozuqb3bvo2ilslc6vaehbwqd/post/3mojpmxpl3m2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T01:50:17.560Z",
+        "score": 0,
+        "snippet": "Rivian has bad news for hundreds of its workers",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "@mahoningmatters.bsky.social (Bluesky): Rivian has bad news for hundreds of its workers",
+        "url": "https://bsky.app/profile/did:plc:skveaa5hwo4qopudnz26mlqj/post/3mojpmsiz5q2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T01:50:12.768Z",
+        "score": 0,
+        "snippet": "Rivian has bad news for hundreds of its workers",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "@sunherald.com (Bluesky): Rivian said it's laying off hundreds of employees, or less than 2% of its workfo",
+        "url": "https://bsky.app/profile/did:plc:mtlvbl5midflxvo5ij4urorv/post/3mojkm3vb372v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T00:20:19.466Z",
+        "score": 0,
+        "snippet": "Rivian said it's laying off hundreds of employees, or less than 2% of its workforce, as part of rest...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Nice, my 12V batteries are arriving on Friday.\n\nYou have no idea how much of a b",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mojiifmn722k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T23:42:27.964Z",
+        "score": 0,
+        "snippet": "Nice, my 12V batteries are arriving on Friday.\n\nYou have no idea how much of a bad taste this experience has left me with regards to Rivian.\n\nI\u2019ll never recommend this brand again.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Service",
+          "Warranty Issues"
+        ]
+      },
+      {
+        "title": "@gwestr.me (Bluesky): That Rivian is uh, unimpressive",
+        "url": "https://bsky.app/profile/did:plc:kqumgd3s5tngpnupblenem5i/post/3mojh6ych7s27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T23:19:18.068Z",
+        "score": 0,
+        "snippet": "That Rivian is uh, unimpressive",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Product Sentiment"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): I did a lease payment comparison between a well equipped BMW iX3 ($70K msrp) and",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mojgr2bgu62q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T23:11:30.672Z",
+        "score": 1,
+        "snippet": "I did a lease payment comparison between a well equipped BMW iX3 ($70K msrp) and the Rivian R2 Perf/Launch edition ($60K msrp).\n\nFor $2500 down, 12K miles/yr, 3yr lease, the lease payments are about a",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Pricing",
+          "Competitive Comparison"
+        ]
+      },
+      {
+        "title": "@tom.medsky.social (Bluesky): A Downfall meme but it's Elon freaking out about the Rivian R2. \n\nwww.reddit.com",
+        "url": "https://bsky.app/profile/did:plc:c3roikkeki4hxu2gz7r5pljd/post/3mojgbiug622y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-17T23:02:51.467Z",
+        "score": 8,
+        "snippet": "A Downfall meme but it's Elon freaking out about the Rivian R2. \n\nwww.reddit.com/r/Rivian/com...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Threat"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1S SHOCKS the SUV World \u2013 You Won&#39;t Believe What&#39;s New!",
+        "url": "https://youtube.com/watch?v=wYP5a8hV270",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T01:16:41Z",
+        "score": 0,
+        "snippet": "2026 R1S offers dual/tri/quad motors, three-row seating, air suspension with terrain modes, fast 0-60, ADAS, competitive range; pricing, exact specs, and autonomy level not disclosed.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Features",
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "VOZ Camp Kitchen - The Ultimate Off-Grid Rivian Camp Kitchen Solution",
+        "url": "https://youtube.com/watch?v=CAVNmUx2lbk",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T01:04:05Z",
+        "score": 0,
+        "snippet": "VOZ Camp Kitchen brings portable cooking to your adventures. Built in USA with integrated water tank, electric tap, and ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Ecosystem",
+          "Accessories"
+        ]
+      },
+      {
+        "title": "Rivian a era dos carros el\u00e9tricos! \ud83d\ude80\ud83d\udca2\u26a0\ufe0f #mans\u00e3omaronba #automobile #toguro #shorts #sele\u00e7\u00e3o",
+        "url": "https://youtube.com/watch?v=jqNT-m_7mC4",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T00:45:18Z",
+        "score": 0,
+        "snippet": "funk #podpah #selecaobrasileira #viral #toguro #noticias #cortesdosmarombados #shadowoftombraiderpart1.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Sentiment"
+        ]
+      },
+      {
+        "title": "RIVN Holders Bought The Top Again? Rivian Stock Prediction",
+        "url": "https://youtube.com/watch?v=0TxcZS2CYQk",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T00:22:11Z",
+        "score": 0,
+        "snippet": "This video contains no decision-relevant intel\u2014it's purely technical stock analysis of Rivian's trading price around $16-17, with no product, autonomy, launch, or competitive information.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Companies Lie About Specs? The &quot;Imaginary Spec&quot; EXPOSED! #shorts",
+        "url": "https://youtube.com/watch?v=e_idKeI8ZgE",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T00:20:46Z",
+        "score": 0,
+        "snippet": "Rivian combines dual-motor's 420-mi range with tri-motor's 2.5-second 0-60 at $74k starting price; range also varies by wheel/tire (374mi vs 338mi), exemplifying 'imaginary specs' marketing now public",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Specs",
+          "Marketing Claims"
+        ]
+      },
+      {
+        "title": "I Ordered My First Ever EV: Rivian R2!",
+        "url": "https://youtube.com/watch?v=NU6pZPLDiiQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T23:16:50Z",
+        "score": 0,
+        "snippet": "R2 Performance Launch Edition confirmed with 4-8 week delivery; standard Autonomy Plus, AWD, tow package; Glacier white/black crater interior, 21-in wheels.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Orders",
+          "Autonomy Plus"
+        ]
+      },
+      {
+        "title": "Transportation Electrification Partnership (TEP) x Rivian",
+        "url": "https://youtube.com/watch?v=cV680GwZRDk",
+        "source": "youtube",
+        "publishedAt": "2026-06-17T23:09:10Z",
+        "score": 0,
+        "snippet": "Perk to being a part of our Transportation Electrification Partnership (TEP)? We take really cool fieldtrips to places like Rivian 's ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Community Partnerships"
+        ]
+      }
+    ]
   }
 ]
