@@ -31326,5 +31326,362 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-19T14:05:58.129691Z",
+    "timestamp": "2026-06-19T14:05:58.129691Z",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 27,
+      "negative": 31
+    },
+    "sources": {
+      "news": {
+        "found": 22,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy Lawsuit",
+      "Demo Drives",
+      "FM Radio",
+      "Government Fleet",
+      "Haptic Steering",
+      "Layoffs",
+      "R2 Competition",
+      "R2 Deliveries",
+      "R2 Demand",
+      "R2 Launch",
+      "R2 Performance",
+      "RIVN Stock",
+      "Used Market",
+      "Vehicle Defects"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "If this is your R1S at the airport in Phoenix, you have a flat tire \ud83d\ude15",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9s9lr/if_this_is_your_r1s_at_the_airport_in_phoenix_you/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T04:38:09.650Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Defects"
+        ]
+      },
+      {
+        "title": "Media Release Waiver for Demo Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ua0j1h/media_release_waiver_for_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T12:20:52.977Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Worth reserving sight unseen?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9v5m9/worth_reserving_sight_unseen/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T07:17:59.634Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demand"
+        ]
+      },
+      {
+        "title": "R2 demo drive slots",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9uq7h/r2_demo_drive_slots/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T06:53:18.892Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Haptic wheels will be a learning curve",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9rjgo/haptic_wheels_will_be_a_learning_curve/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T04:00:53.702Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Haptic Steering"
+        ]
+      },
+      {
+        "title": "Day 1 (afternoon) Reservation",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9r699/day_1_afternoon_reservation/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T03:42:08.973Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Appeared Upbeat During R2 Vehicle Launch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWkyTGJ4ZEtYSjNnY3JTcHJiSEpORGhTOWxxNm9qV0RFSjgzei1DdGNiOUZtb0gyS2JfZUw5Q1RGNG1YMFA3N3E0WHFjSE52NFJaOTB3UmY4dWNGQ3hKWjJlZGt0TGRuakkyX0x5QmZ2cXZ0NmRISlIxSE9ndUdfOHBzZEZOcGFmYlV3ajdteFZVZ2RtbnF6RDY3WHQ2R3BQZGhkdktn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 19 Jun 2026 12:18:53 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Appeared Upbeat During R2 Vehicle Launch - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Appeared Upbeat During R2 Vehicle Launch - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUG1GdlRLTzBkYzdpRE1CR2dtV29yRnN2QUtfOEhZMEoyRHBBc1JjSjMzYkpXd1hBbWM2RC03ZWY5eERudGVmeDRnbVg2ZFVHUGNSSWdoZTBWTURPMllxcy12OWdwZV9DZERKbUsyczB0aDcyRkdvb2thX292M3NaQVVpMnRjRk1ydVVxc0FnVHZRWkstRnZSdThEVFg1eFlGVTg2bTctU0tZdkR6YzAzdW5vY9IBswFBVV95cUxNUG1GdlRLTzBkYzdpRE1CR2dtV29yRnN2QUtfOEhZMEoyRHBBc1JjSjMzYkpXd1hBbWM2RC03ZWY5eERudGVmeDRnbVg2ZFVHUGNSSWdoZTBWTURPMllxcy12OWdwZV9DZERKbUsyczB0aDcyRkdvb2thX292M3NaQVVpMnRjRk1ydVVxc0FnVHZRWkstRnZSdThEVFg1eFlGVTg2bTctU0tZdkR6YzAzdW5vYw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 19 Jun 2026 12:26:44 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Appeared Upbeat During R2 Vehicle Launch - Insider Monkey",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian hit with lawsuit over self-driving promises for Gen 1 R1T and R1S",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mongnxexdd26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T13:20:26.270Z",
+        "score": 0,
+        "snippet": "Rivian hit with lawsuit over self-driving promises for Gen 1 R1T and R1S",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "@eruptionglobal.bsky.social (Bluesky):  Rivian \u00e9 processada por promessas falsas sobre dire\u00e7\u00e3o aut\u00f4noma: entenda o impa",
+        "url": "https://bsky.app/profile/did:plc:dmdpwpvwsyky6pwngethki2w/post/3moneuntave2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T12:48:23.573Z",
+        "score": 0,
+        "snippet": " Rivian \u00e9 processada por promessas falsas sobre dire\u00e7\u00e3o aut\u00f4noma: entenda o impacto para donos e investidores\n\nConfira o conte\u00fado completo \ud83d\udc47   \n\nhttps://eruptionglobal.com/rivian-e-processada-por-prom",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "@ukradiochanges.bsky.social (Bluesky): Some carmakers are ditching FM radios \u2014 and Rivian R2 fans aren't happy that the",
+        "url": "https://bsky.app/profile/did:plc:665arg5r5o4bdrfbwd4vlilt/post/3mondekhkls2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T12:21:31.964Z",
+        "score": 0,
+        "snippet": "Some carmakers are ditching FM radios \u2014 and Rivian R2 fans aren't happy that they'll need a cellphone signal to listen to tunes in the wilderness \nwww.techradar.com/vehicle-tech...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "FM Radio"
+        ]
+      },
+      {
+        "title": "@ercanceviz.bsky.social (Bluesky): Rivian\u2019a Otonom S\u00fcr\u00fc\u015f Teknolojisi \u0130\u00e7in Dava\u00a0A\u00e7\u0131ld\u0131\n\nRivian, erken d\u00f6nem ara\u00e7lar\u0131",
+        "url": "https://bsky.app/profile/did:plc:v7nvkhezqq33xrcgasafhbw4/post/3momy6fzbls2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T09:01:12.069Z",
+        "score": 0,
+        "snippet": "Rivian\u2019a Otonom S\u00fcr\u00fc\u015f Teknolojisi \u0130\u00e7in Dava\u00a0A\u00e7\u0131ld\u0131\n\nRivian, erken d\u00f6nem ara\u00e7lar\u0131ndaki otonom s\u00fcr\u00fc\u015f yeteneklerinin eksikli\u011fi nedeniyle a\u00e7\u0131lan toplu davayla kar\u015f\u0131 kar\u015f\u0131ya. Sekt\u00f6rdeki teknoloji ve pazarl",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "Rivian: The 10X Stock Potential You Can&#39;t Ignore! #shorts",
+        "url": "https://youtube.com/watch?v=KKDsj6-0TBk",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T13:56:34Z",
+        "score": 0,
+        "snippet": "Stock traders bullish on Rivian's 10x potential based on technical analysis; no product specs, timing, autonomy updates, pricing, or competitive intel discussed.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian R2S #carreview #southmotorcarworld #autoreview #performancecars",
+        "url": "https://youtube.com/watch?v=0Q9MRvR-_gg",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T13:30:25Z",
+        "score": 0,
+        "snippet": "2026 Rivian R2 competes with Model Y/Ioniq 5/EV6/Mach-E as affordable-premium EV-SUV, differentiated by rugged design, eco-materials, unique powered rear glass cargo feature, premium software.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Competition"
+        ]
+      },
+      {
+        "title": "Rivian R2 0-60 is FASTER Than a Ferrari! \ud83e\udd2f #rivian #ev #gouldsgamingandtech #shorts #youtubeshorts",
+        "url": "https://youtube.com/watch?v=BrQ0THVv8ks",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T12:10:58Z",
+        "score": 0,
+        "snippet": "Rivian R2 spicy mode achieves 0-60 faster than Ferrari; combines extreme acceleration with SUV practicality and traffic maneuverability.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Performance"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=J-3JrTdiWQs",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T12:07:55Z",
+        "score": 0,
+        "snippet": "Rivian's R2 mass-market vehicle (starting $45,000, arriving summer 2027) is critical to exploiting 200k+ annual production capacity currently used at 25-37%, essential for 2030 profitability timeline.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "How Rivian Could Challenge Tesla&#39;s EV Dominance",
+        "url": "https://youtube.com/watch?v=gR8b6MqIonM",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T12:00:07Z",
+        "score": 0,
+        "snippet": "Rivian's R2 challenges Tesla with lower price and higher autonomy; differentiates via adventure/off-road capability and software-defined vehicles.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Competition"
+        ]
+      },
+      {
+        "title": "The Electric Adventure SUV For the Masses! | 2027 Rivian R2 First Drive",
+        "url": "https://youtube.com/watch?v=NDoghtZkT-c",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T11:00:35Z",
+        "score": 0,
+        "snippet": "R2 priced $50k-$60k with 330-345mi range, positioned to challenge Model Y; Performance Launch Edition available now, Premium later 2026, Standard RWD in 2027.",
+        "summarized": true,
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1S Adventure Carrollton, Addison, Dallas, Richardson, Coppell TX",
+        "url": "https://youtube.com/watch?v=2cUT5FG1CeQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T09:14:49Z",
+        "score": 0,
+        "snippet": "Pre-Owned 2023 Rivian R1S Adventure available at i Drive 1 Motorcars located in 2707 Realty Road Suite 108, Carrollton, TX, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Used Market"
+        ]
+      },
+      {
+        "title": "Rivian negaid\u012btais g\u0101jiens: Atlai\u017e darbiniekus ned\u0113\u013cu p\u0113c jaun\u0101 R2 SUV izn\u0101k\u0161anas!",
+        "url": "https://youtube.com/watch?v=Df9xS7yc8ZA",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T09:00:30Z",
+        "score": 0,
+        "snippet": "Elektroauto ra\u017eot\u0101js \"Rivian\" ir sp\u0113ris \u013coti negaid\u012btu un biznesa pasaulei p\u0101rsteidzo\u0161u soli. Tikai ned\u0113\u013cu p\u0113c tam, k\u0101 uz\u0146\u0113mums ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "DC government electric vehicle Rivian EV pickup sustainability",
+        "url": "https://youtube.com/watch?v=a1KBamsEGrA",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T08:19:56Z",
+        "score": 0,
+        "snippet": "we should climb out of the 19th century and join the 21st century and go electric!!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Government Fleet"
+        ]
+      },
+      {
+        "title": "\u2757\ufe0fRIVIAN R2 DELIVERIES BEGIN \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=eyDbm_HrJVc",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T08:00:06Z",
+        "score": 0,
+        "snippet": "RIVIAN R2 DELIVERIES BEGIN \u26a1\ufe0f save $2500 link in bio \u26a1\ufe0f TESLA REFERRAL CODE LINK | Receive $1000 OFF Your ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Deliveries"
+        ]
+      }
+    ]
   }
 ]
