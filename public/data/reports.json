@@ -31979,5 +31979,455 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-19T22:04:15.849792Z",
+    "timestamp": "2026-06-19T22:04:15.849792Z",
+    "sentiment": {
+      "positive": 36,
+      "neutral": 28,
+      "negative": 36
+    },
+    "sources": {
+      "news": {
+        "found": 25,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 4,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy Lawsuit",
+      "Autonomy Plus",
+      "Autonomy Pricing",
+      "Battery Technology",
+      "Brand Expansion",
+      "Competitive Pressure",
+      "Customer Enthusiasm",
+      "Customer Expectations",
+      "Customer Experience",
+      "Customer Satisfaction",
+      "Customer Sentiment",
+      "Customer Success",
+      "Delivery Mismatch",
+      "Feature Strategy",
+      "Legal Risk",
+      "Market Analysis",
+      "Market Conditions",
+      "Market Demand",
+      "Market Disadvantage",
+      "Market Positioning",
+      "Marketing",
+      "Operations",
+      "Production Shift",
+      "R1T Depreciation",
+      "R1T/R1S Sunset",
+      "R2 Affordability",
+      "R2 Capabilities",
+      "R2 Changes",
+      "R2 Deliveries",
+      "R2 Demo",
+      "R2 Efficiency",
+      "R2 Launch",
+      "R2 Market Position",
+      "R2 Merchandise",
+      "R2 Pricing",
+      "R2 Quality",
+      "R2 Success Critical",
+      "R2 Test Drive",
+      "RIVN Stock",
+      "Recon",
+      "Software Issues",
+      "Strategic Risk",
+      "Tesla Parity",
+      "Towing",
+      "Trade-in Program",
+      "Vehicle Design",
+      "Vehicle Reliability",
+      "Vehicle Value"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 Poor Vent Design",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaepm0/r2_poor_vent_design/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T21:45:43.976Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Quality",
+          "Vehicle Design"
+        ]
+      },
+      {
+        "title": "Dual motor lrg battery for towing camper trailer?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uado6w/dual_motor_lrg_battery_for_towing_camper_trailer/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T21:02:45.563Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Capabilities",
+          "Towing"
+        ]
+      },
+      {
+        "title": "Rivian Power Wheels First Look?!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uadm7a/rivian_power_wheels_first_look/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T21:00:33.795Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Expansion",
+          "R2 Merchandise"
+        ]
+      },
+      {
+        "title": "Rivian trade-in offer - what happens next?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uacrqz/rivian_tradein_offer_what_happens_next/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T20:26:01.528Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Trade-in Program",
+          "Customer Experience"
+        ]
+      },
+      {
+        "title": "R1T depreciation",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uacctn/r1t_depreciation/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T20:09:49.607Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T Depreciation",
+          "Vehicle Value"
+        ]
+      },
+      {
+        "title": "Vehicle unresponsive to lock and unlock commands",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ua9x0p/vehicle_unresponsive_to_lock_and_unlock_commands/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T18:33:28.947Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Reliability",
+          "Software Issues"
+        ]
+      },
+      {
+        "title": "R2 demo in LA",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uaeayh/r2_demo_in_la/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T21:29:02.735Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Marketing"
+        ]
+      },
+      {
+        "title": "Where to see an R2 in Seattle?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ua9xhu/where_to_see_an_r2_in_seattle/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T18:34:01.609Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo",
+          "Market Demand"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Stock After 20% Rebound Is The Recent Rally Justified? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVF9xMjlzZlZIZXZHMnZiQl9QQXJVNUJ1U3Q1d3hVMWMwMzR0ZlV5bDNNMjRhX2J2Q0hSMVJ1T1RSYmIweXB1elNZTG5DNXdwZVROWVgwTFkxQXN1ZmV4MVFJNkR0TVR0ZWg5eTF4dDFUYWdIbWQ4b3BGeXdsSlE0RlZlWElsUWUxVjBVNGJYR2Ntdi0xaklaZnQ3eFdRRUVwalRlcVRSRldZSGZZTm1taHB2RHBSd3BiekVvS1BwVkhEOFg2azBydDYxeEdEYWhKcDNOcF930gHbAUFVX3lxTE1XY2VZdWZHSVJxd2d5NFFSeXRtYjFaNloxeTlXMGFlNGgtd0tiOWlselRpa0Z2ZGEtWDU0OW13TlNXUjAwX1RnWmVYYVZ6NllVbzBPUkFpaW5oWnBDWjlLY0VrRGhxc1BLcXJZd00xQmhEVHZrYzI2ZEE0dTV1Tk1ZMVBEVHA4a1VFcG1zbUMzTEVDZGctQmhBQ3FvNDE2dWRGeEl2akZnQmVWdm5URXJRemVQMXllYURUVzY0VWJTRldjUmg1bS11VmJnV08yZDRDd3BKSFdtRHFFbw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 19 Jun 2026 18:56:23 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Stock After 20% Rebound Is The Recent Rally Justified? - simplywall.st",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Market Analysis"
+        ]
+      },
+      {
+        "title": "$Rivian Automotive (RIVN.US)$ - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPN3VhcFpja1RzaHZDUk9Ea1J0WW9heUR3N0VzSllmYjBWbThKejlYa0EwTDJRZFVKWHhib21EcGJxQWhiREVQZEtaWE5WZG9YWjVkaTA0N0VzZTM5RTNYNi1ydVkzUjkwcEpuYVhrY3hObjFpMjBETTNNLTdzZWlnVjZHU0xHVUxHbUlZTVotOVV0ZVNPSTc1RG44ZXg4ZFI1M21iM1ppaElwX2h3S2tFaUxxclZqRHdtWGRNaThrRzdMaGRNdWxHZjI1bjlUaUJPb1prX3N2LUJXZFJVMks5cUhZNmlXemx1ZHBfR3lwWDk5SG10V0ZVS2tLdEtnZkQ3SEktRFVtc3Fqbm52dkdtaDZWM0ZiMlJCN01NVlJPUFFyWFg3RjJyNngwRlpSLVZkYUg5UA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 19 Jun 2026 15:43:02 GMT",
+        "score": 0,
+        "snippet": "$Rivian Automotive (RIVN.US)$ - Moomoo",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian R2 SUV deliveries have begun, just not for the version most buyers may want - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQcGhOTjRrQ2VWZ0l4QXRCd0tRdDd6TUFrS28wNHMtaG9MTWlOUFNoMTdMVWxOMlY4eVloTnBhSV83SXM1ZF9OOF8ydE5kSTBnbmNXYnhsZWQwZTVyRXQ2dFRnUlZiWUg4ZHcxUFc5eFJ3eDRpUmx5QWlFeThDTE0tdWtzYmdDcFhjaE12S01YZ1dGX3FBcjdRbDB0WVlEWmUzS3FadW1ON04ydk1qSmFRTmgwbTk0RXE5YUlFcVdZb0tVU201Z1Y2eC1HNzNnMzJfVWpTX2J3bXR5akt3RzZZcjFZdGUwMWFHeFVJUWFOT3ZmZ196TXRXRmxuRE5raHp2bEhIOE1KYlpCMWFuWk1rWlBkRUg0QWRhZDJYal9xU3Y2czE3NmJZZTlpcWdINmVmU2o3TVo0SGltb1NXWWFUZ0I2d2ptX1J6LTJIQ282Q3VrNVVvSnhCQWJwUnFMdlgzYTJ3NU9sWlV4b3oyZjFUSXVSYlBnNWJz?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 19 Jun 2026 11:41:28 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 SUV deliveries have begun, just not for the version most buyers may want - MSN",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Deliveries",
+          "Customer Expectations"
+        ]
+      },
+      {
+        "title": "@vulcantech.bsky.social (Bluesky): Got to test out the Rivian R2 yesterday! :3",
+        "url": "https://bsky.app/profile/did:plc:w3jwv5tcjdwlf6ecz2w4vlxg/post/3mooasfenxs2w",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T21:08:12.270Z",
+        "score": 0,
+        "snippet": "Got to test out the Rivian R2 yesterday! :3",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Test Drive",
+          "Customer Sentiment"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Got my sodium ion 12V batteries! They\u2019re quite light in weight for batteries. Lo",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mooa2esru22d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T20:54:51.770Z",
+        "score": 2,
+        "snippet": "Got my sodium ion 12V batteries! They\u2019re quite light in weight for batteries. Looking forward to installing these this weekend.\n\n#rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Battery Technology",
+          "Customer Enthusiasm"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): They don't have the R2 and Recon yet but these lengths are about right. I bet Ri",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3moo75sl56s2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T20:38:51.062Z",
+        "score": 0,
+        "snippet": "They don't have the R2 and Recon yet but these lengths are about right. I bet Rivian steals the 7 would be Recon customers that were out there.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Market Position",
+          "Recon"
+        ]
+      },
+      {
+        "title": "@travisketchum.bsky.social (Bluesky): Fresh @rivianofficial.bsky.social Recap loaded.\n\n- Used EV prices are going up\n-",
+        "url": "https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3moo5pbfsws2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T20:12:46.973Z",
+        "score": 0,
+        "snippet": "Fresh @rivianofficial.bsky.social Recap loaded.\n\n- Used EV prices are going up\n- My R2 order is in\n- R2 affordability breakdown (full analysis)\n- 21\" vs 20\" survey results\n- New Rivian Autonomy testin",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Affordability",
+          "Market Conditions"
+        ]
+      },
+      {
+        "title": "@singulism.bsky.social (Bluesky): Rivian Faces Class Action Lawsuit Over Misrepresentation of Self-Driving Capabil",
+        "url": "https://bsky.app/profile/did:plc:ncruryy3zuubon3wppqem2y2/post/3moo5omcrrd2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T20:12:23.776Z",
+        "score": 0,
+        "snippet": "Rivian Faces Class Action Lawsuit Over Misrepresentation of Self-Driving Capabilities in Early Models\n\n#Rivian #self-driving #classactionlawsuit\nhttps://singulism.com/en/2026-06-19-rivian-class-action",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit",
+          "Legal Risk"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): I think we're almost done with R1T/R1S Standard.  They are only offering LA Silv",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3moo4yoicmm2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T20:00:08.066Z",
+        "score": 0,
+        "snippet": "I think we're almost done with R1T/R1S Standard.  They are only offering LA Silver paint, Black Mountain interior, and 20 inch A/S tires on the configurator.  I think this will be the last LFP Rivian ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T/R1S Sunset",
+          "Production Shift"
+        ]
+      },
+      {
+        "title": "@driverlessdigest.bsky.social (Bluesky): \ud83c\udfed\ud83d\udcca RJ acknowledged that Rivian's future is heavily dependent on the R2's succees",
+        "url": "https://bsky.app/profile/did:plc:3np7xlf5byz2rh37zm6hbic6/post/3moo36mcxrt27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T19:27:41.493Z",
+        "score": 0,
+        "snippet": "\ud83c\udfed\ud83d\udcca RJ acknowledged that Rivian's future is heavily dependent on the R2's succeess. If it flops, Rivian would need to fundamentally rethink its business, engineering organization, and level of vertical",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Success Critical",
+          "Strategic Risk"
+        ]
+      },
+      {
+        "title": "@driverlessdigest.bsky.social (Bluesky): \ud83d\udcb0\ud83d\udce6 Interesting take on autonomy pricing: Rivian currently charges $2,500 for its",
+        "url": "https://bsky.app/profile/did:plc:3np7xlf5byz2rh37zm6hbic6/post/3moo36mcvtc27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T19:27:41.428Z",
+        "score": 0,
+        "snippet": "\ud83d\udcb0\ud83d\udce6 Interesting take on autonomy pricing: Rivian currently charges $2,500 for its autonomous driving package, but RJ thinks the industry may eventually treat autonomy like airbags, something that becom",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy Pricing",
+          "Feature Strategy"
+        ]
+      },
+      {
+        "title": "@bye-byemars.bsky.social (Bluesky): Without the backing of established companies it's going to be tough for a new co",
+        "url": "https://bsky.app/profile/did:plc:sg6pt3vdsqnz5la57gx2jrha/post/3moo275pdd22m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T19:10:06.766Z",
+        "score": 1,
+        "snippet": "Without the backing of established companies it's going to be tough for a new company. Rivian had Ford and Amazon, if I remember correctly. Tesla had a government loan. Did you see that the Fisker own",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Pressure",
+          "Market Disadvantage"
+        ]
+      },
+      {
+        "title": "@kevinleecaster.bsky.social (Bluesky): EPA data shows Rivian's R2 Performance matches Tesla Model Y Performance efficie",
+        "url": "https://bsky.app/profile/did:plc:yjqekodgo25hjem4isderwak/post/3monx3dusu227",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T18:14:15.060Z",
+        "score": 1,
+        "snippet": "EPA data shows Rivian's R2 Performance matches Tesla Model Y Performance efficiency despite being 500 pounds heavier and more off-road capable.\n\nRivian targets 300,000-unit annual capacity at their ne",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Efficiency",
+          "Tesla Parity"
+        ]
+      },
+      {
+        "title": "The Rivian R2 You Reserved Is NOT the One You\u2019ll Get \u2014 Major Changes Revealed",
+        "url": "https://youtube.com/watch?v=-sg4VoOhGGg",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T20:45:12Z",
+        "score": 0,
+        "snippet": "Rivian shifts R2 battery from LFP to premium NCA cells (LG); launches H1 2026 at $45K with RWD/AWD/tri-motor; uses diecast manufacturing to reduce welded parts by 70% for build quality.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Changes",
+          "Delivery Mismatch"
+        ]
+      },
+      {
+        "title": "#rivian Autonomy+ \ud83d\ude4c\ud83c\udffb \ud83c\udd93",
+        "url": "https://youtube.com/watch?v=HDarYvjICxA",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T20:00:13Z",
+        "score": 0,
+        "snippet": "Hands driving with Autonomy+ makes our road triP MUCH more relaxing! #rivian #rivianr1s #roadtrip.",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy Plus",
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "Another Rivian R2 Demo - an R1T perspective",
+        "url": "https://youtube.com/watch?v=Lig4ynymg6g",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T19:24:51Z",
+        "score": 0,
+        "snippet": "R2 replaces R1T Dual Standard with 2,000-lb reduction while preserving spacious interior; maintains premium build quality but lease pricing far exceeds Tesla Model Y ($459/mo), limiting mass-market vi",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Pricing",
+          "Market Positioning"
+        ]
+      },
+      {
+        "title": "What Rivian Taught Me About CS Headcount",
+        "url": "https://youtube.com/watch?v=8bnrKYPeNLQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T19:13:41Z",
+        "score": 0,
+        "snippet": "Marvelous6: Hulk - Financial Power \"What Rivian's CFO Taught Me About Customer Success Headcount\" What if I told you the ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Success",
+          "Operations"
+        ]
+      }
+    ]
   }
 ]
