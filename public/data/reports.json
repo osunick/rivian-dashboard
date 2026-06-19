@@ -30829,5 +30829,502 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-19T02:04:08.283833Z",
+    "timestamp": "2026-06-19T02:04:08.283833Z",
+    "sentiment": {
+      "positive": 21,
+      "neutral": 31,
+      "negative": 46
+    },
+    "sources": {
+      "news": {
+        "found": 32,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 5,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy Features",
+      "Autonomy Lawsuit",
+      "Customer Sentiment",
+      "Demo Access",
+      "General",
+      "Leadership",
+      "Market Context",
+      "Market Trends",
+      "News",
+      "R1S Competition",
+      "R2",
+      "R2 Deliveries",
+      "R2 Demo",
+      "R2 Design",
+      "R2 Features",
+      "R2 Launch",
+      "R2 Review",
+      "R3X Launch",
+      "RIVN Stock",
+      "Software Issues",
+      "System Issues",
+      "Uber Partnership"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 Steering wheel size",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9otob/r2_steering_wheel_size/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T01:46:57.589Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Design"
+        ]
+      },
+      {
+        "title": "Rivian owners file lawsuit alleging false promises on self-driving features | TechCrunch",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9ngxo/rivian_owners_file_lawsuit_alleging_false/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T00:41:42.177Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "R2 Ruffland Intermediate Dog Crate fit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9msqn/r2_ruffland_intermediate_dog_crate_fit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T00:10:16.934Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Design"
+        ]
+      },
+      {
+        "title": "Pre-order 3 mins after it went live. Got the build email 2 days ago. Vin and delivery date today. Close af to service centers. Basic white with all terrains.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9l4f9/preorder_3_mins_after_it_went_live_got_the_build/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T22:56:02.077Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Deliveries"
+        ]
+      },
+      {
+        "title": "Interesting EV market trends",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9kr5l/interesting_ev_market_trends/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T22:39:49.030Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Market Trends"
+        ]
+      },
+      {
+        "title": "Rivian Configurators Down?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1u9kecm/rivian_configurators_down/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-18T22:24:45.945Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "System Issues"
+        ]
+      },
+      {
+        "title": "R2 removed from my demo options in-app",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9maf1/r2_removed_from_my_demo_options_inapp/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T23:47:23.568Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Demo Access"
+        ]
+      },
+      {
+        "title": "Guess the R2 Demo Drive Location",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9lcfn/guess_the_r2_demo_drive_location/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T23:05:24.867Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo"
+        ]
+      },
+      {
+        "title": "2nd Demo Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1u9l16i/2nd_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-18T22:52:00.175Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: Trump-Vance tag team takes on Iran deal critics",
+        "url": "https://www.cnbc.com/2026/06/19/cnbc-daily-open-trump-vance-tag-team-takes-on-iran-deal-critics.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "News"
+        ]
+      },
+      {
+        "title": "RIVN Stock: Rivian Reportedly Hit With Class-Action Lawsuit Over False Gen 1 Vehicle Autonomy Claims - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQWJrZGV1X05nRjNpZHNnamwzdlF4akh1Tmpia1ZmaHc5aVVqeTRXVmxha3B2SEVzaDFWSG80R3ZhdnMtQ0dqVHRhRzFGQ2o4Y1R3cWF0Rkt3WXpSNkhsNU1TUjgwOTI5VzZIVFV3Qk9uRjFtVGZoS1l3OVpDYlE3M085eVZJNHo5NnZ0X3hCNXVpTUtYbERyYy10NW9xamRCZlROdkZNMTJ2UmFVeGowRjN4U0NoanNkVmlNbVdtTUs3Mm1vTS1mVjYxcWNYZzBlMGgzRzJNcFc1LVFlcExGTFYyejJRYjg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 18 Jun 2026 23:43:26 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock: Rivian Reportedly Hit With Class-Action Lawsuit Over False Gen 1 Vehicle Autonomy Claims - Stocktwits",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian Drops FM Radio from R2, Sparks Listener Backlash - news.radio-online.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEstYzZib3FSenFfS3FTSkZKcHlpTmJ4WGpRV19SVUQzb0Jad3lHdVQ4NVBuR2owdjdhZWJVOGtwSTNnVGs2Vi1DcmlRckI3N3o1enVNWUxRTUx0eWhBcW0wSHRlY0txbV9iVFpMM2V1TVNjcFB6cFl2RlBubUtDOXNPcUROYWdoR01PazhnMEE1RnQzWXFRbTdQYkFTTlZaWWc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 18:18:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Drops FM Radio from R2, Sparks Listener Backlash - news.radio-online.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Features"
+        ]
+      },
+      {
+        "title": "Rivian R2 SUV deliveries have begun, just not for the version most buyers may want - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWlJoeS05ZkZCMlc1MlpEbkN4OG01T3ZRRG5yYnlWZTRVdEFGcEw0cnUwSDI1NkR5U2tMSWFTQUJkTDZhNDVrTVBESU5UVW5jeEFtSXpUZ1VYczFob1NsNjkzUGpGUmVRVE52Mk16QTdLaU05RTI1TTRHNVBKSk5iZ0hLY2lpWjlzQV9PNW4tM3JybWZmMGtBM1JnX2xyV3FqZzRid2dGN0NLeUdqYlNhcERDUVc1MjBDME9BYmRPUFpLRU5DeFctLTk5QUd2aWxHcEE?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 18 Jun 2026 21:20:19 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 SUV deliveries have begun, just not for the version most buyers may want - MSN",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian owners file lawsuit alleging false promises on self-driving features - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3FFbG01VGxyaHpfZW1JSlh0TTdhaGdJUUtfS3ZPMmRBb0c2X0pKRmMyMmFJM0V2OVpGcm8wV29oTS1xX3NjRFJ5dmE2RU1jTTJEenZzMTZmNVFYek5PZEpvZzJuNUF2cEJBNjhpWjdNWGJ5YThTWkNuX0FhMldudk5hb3lwVk5NWEc0SG1TLUZMWkFrbWI4OVNiai1ETDFGWGdRZGUyLUlsTW54ZlJz?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 18 Jun 2026 19:31:45 GMT",
+        "score": 0,
+        "snippet": "Rivian owners file lawsuit alleging false promises on self-driving features - TechCrunch",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): The Lucid Gravity, Rivian R1S, and Tesla Model X are the electric SUVs buyers fi",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3momanuewur2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T02:00:20.063Z",
+        "score": 0,
+        "snippet": "The Lucid Gravity, Rivian R1S, and Tesla Model X are the electric SUVs buyers fight about most. Reliability is the tiebreaker, and it splits them three ways.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Competition"
+        ]
+      },
+      {
+        "title": "@lastnews96.bsky.social (Bluesky): Rivian owners file lawsuit alleging false promises on self-driving\u00a0features\n\nRiv",
+        "url": "https://bsky.app/profile/did:plc:tqs2q6sh6cunzu3zgrmdz6dd/post/3momaa4f63o2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T01:52:39.062Z",
+        "score": 0,
+        "snippet": "Rivian owners file lawsuit alleging false promises on self-driving\u00a0features\n\nRivian has been sued over allegations that the EV maker made false claims about the autonomous driving capabilities of its ",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian CEO Rebuffs Idea of a Sale to Elon Musk, Says He\u2019d \u2018Prefer Not\u2019\n\nhttps://",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mom6fvmqdm2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T01:20:06.076Z",
+        "score": 0,
+        "snippet": "Rivian CEO Rebuffs Idea of a Sale to Elon Musk, Says He\u2019d \u2018Prefer Not\u2019\n\nhttps://www.evshift.com/476288/rivian-ceo-rebuffs-idea-of-a-sale-to-elon-musk-says-hed-prefer-not/\n\nRivian\u2018s founder and CEO RJ ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Leadership"
+        ]
+      },
+      {
+        "title": "@flipboardbr.flipboard.com.ap.brid.gy (Bluesky): Depois da Tesla, Rivian \u00e9 processada por prometer dire\u00e7\u00e3o aut\u00f4noma que nunca che",
+        "url": "https://bsky.app/profile/did:plc:zwxl6dnun52q3ywiao2ad3if/post/3mom4cfcubxz2",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T00:42:25.265Z",
+        "score": 0,
+        "snippet": "Depois da Tesla, Rivian \u00e9 processada por prometer dire\u00e7\u00e3o aut\u00f4noma que nunca chegou\nhttps://olhardigital.com.br/2026/06/18/carros-e-tecnologia/depois-da-tesla-rivian-e-processada-por-prometer-direcao-",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "@breakingnews92.bsky.social (Bluesky): Rivian owners file lawsuit alleging false promises on self-driving\u00a0features\n\nRiv",
+        "url": "https://bsky.app/profile/did:plc:enahrw5gbfty7inbwgjmsz2t/post/3mom2srzbc32b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-19T00:15:43.662Z",
+        "score": 0,
+        "snippet": "Rivian owners file lawsuit alleging false promises on self-driving\u00a0features\n\nRivian has been sued over allegations that the EV maker made false claims about the autonomous driving capabilities of its ",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Both Tesla and Rivian owners now suing these companies for making unsubstantiate",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3molw7q464s2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T22:53:28.469Z",
+        "score": 1,
+        "snippet": "Both Tesla and Rivian owners now suing these companies for making unsubstantiated claims on self driving.\n\nUnfortunately, I believed in both. Stupid me!",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3molv2dcyec23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T22:32:33.671Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "General"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): I do remember self driving as being an advertised feature of the Gen 1 R1 vehicl",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3moluowsycs2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-18T22:26:11.368Z",
+        "score": 4,
+        "snippet": "I do remember self driving as being an advertised feature of the Gen 1 R1 vehicles.\n\nI\u2019m curious to see how this lawsuit evolves\n\n#rivian",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "I Ordered a Rivian R2!",
+        "url": "https://youtube.com/watch?v=Nd-SzPA31TI",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T01:39:12Z",
+        "score": 0,
+        "snippet": "R2 ordering now live with performance variant, launch package, and customization options including half-moon gray paint and black crater interior.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Halo Wheels on 2027 Rivian R2",
+        "url": "https://youtube.com/watch?v=udFU83u8fbo",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T01:37:54Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2 features minimalist touchscreen dash with 'halo wheel' physical controls for climate/volume/hands-free driving, adding tactile feedback to streamlined interior design.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Design"
+        ]
+      },
+      {
+        "title": "Rivian error! shift into park first. #adventuretruck",
+        "url": "https://youtube.com/watch?v=NqWcpeR42Ow",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T00:19:51Z",
+        "score": 0,
+        "snippet": "I am getting an error message evertimr I switch to the map. Shift into park first.. Happens when you are in park or driving. Hopefully ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Software Issues"
+        ]
+      },
+      {
+        "title": "Rivian R2 Fully Electric Truck! #cars",
+        "url": "https://youtube.com/watch?v=zOlxEZjSy00",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T00:05:44Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2"
+        ]
+      },
+      {
+        "title": "Juicing up for the long weekend! #r2 #rivian",
+        "url": "https://youtube.com/watch?v=_C_BPSUfxDE",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T23:50:01Z",
+        "score": 0,
+        "snippet": "Fully charged at home within 12 hours.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Sentiment"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s R3X: A Niche of a Niche? #rivian #r3 #r3x #hatchback",
+        "url": "https://youtube.com/watch?v=gcLTH2X9ZgA",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T23:42:40Z",
+        "score": 0,
+        "snippet": "R3X launch couple years out, contingent on R2 profitability; positioned as RAD specialty vehicle (~$65-70k), niche-of-niche positioning indicates low production priority.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R3X Launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 Review: Time To Sell My Tesla! #rivian #ev #gouldsgamingandtech #shorts #youtubeshorts",
+        "url": "https://youtube.com/watch?v=rsmjrHb6K2U",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T23:09:33Z",
+        "score": 0,
+        "snippet": "R2 performance editions now available; compact-yet-spacious design with quality black interior and color options drives Tesla owner interest; wireless charging pad operation finicky.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Review"
+        ]
+      },
+      {
+        "title": "\u7d04\u675f\u7834\u308a\u3067\u8a34\u8a1f #Shorts",
+        "url": "https://youtube.com/watch?v=LeLaGoa6fJc",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T23:02:53Z",
+        "score": 0,
+        "snippet": "\u3084\u3070\u3044\u30cb\u30e5\u30fc\u30b9\u6765\u305f\u3002\u3053\u308c\u306f\u30de\u30ba\u3044\u3002 \u306a\u3093\u3068EV\u30e1\u30fc\u30ab\u30fcRivian\u304c\u3002\u81ea\u52d5\u904b\u8ee2\u3067\u304d\u308b\u3068\u4f55\u5e74\u3082\u7d04\u675f\u3057\u3066\u305f\u3002\u3067\u3082\u7d50\u5c40\u3067\u304d\u305a\u3002",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuit"
+        ]
+      },
+      {
+        "title": "Rivian Autonomy+ Unveiled: Hands-Free Driving &amp; Uber Investment #shorts",
+        "url": "https://youtube.com/watch?v=suHMnU0WX-I",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T22:59:36Z",
+        "score": 0,
+        "snippet": "Rivian Autonomy+ tier priced at $49.99/month or $2,500 lifetime includes hands-free driving and lane-change; R1 Gen 2 upgraded to Nvidia Orin Z and 8MP cameras; Level 4 goal with Uber partnership.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy Features",
+          "Uber Partnership"
+        ]
+      },
+      {
+        "title": "SpaceX IPO: Biggest Rug Pull in MARKET HISTORY? \ud83d\ude80",
+        "url": "https://youtube.com/watch?v=78vDbB1Wd08",
+        "source": "youtube",
+        "publishedAt": "2026-06-18T22:53:18Z",
+        "score": 0,
+        "snippet": "This transcript contains no decision-relevant Rivian intel; it only cites Rivian as a cautionary example of a real product that crushed early investors, paralleling SpaceX IPO speculation.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Market Context"
+        ]
+      }
+    ]
   }
 ]
