@@ -32429,5 +32429,416 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-20T02:04:08.655319Z",
+    "timestamp": "2026-06-20T02:04:08.655319Z",
+    "sentiment": {
+      "positive": 28,
+      "neutral": 56,
+      "negative": 16
+    },
+    "sources": {
+      "news": {
+        "found": 25,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Brand Mention",
+      "Brand Sentiment",
+      "Chinese EVs",
+      "Competitor Weakness",
+      "Customer Engagement",
+      "Customer Lawsuit",
+      "General Automotive",
+      "Level 4",
+      "Market Position",
+      "Media Coverage",
+      "R1S Audio",
+      "R1S Demand",
+      "R1S Suspension",
+      "R1T Gaming",
+      "R1T Positioning",
+      "R2 Colors",
+      "R2 Competition",
+      "R2 Insurance",
+      "R2 Launch",
+      "R2 Mention",
+      "R2 Performance",
+      "Repair Services",
+      "Tesla Competition",
+      "Tesla Cybertruck"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Post PDR repair options",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uajsn5/post_pdr_repair_options/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T01:39:51.214Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Repair Services"
+        ]
+      },
+      {
+        "title": "My 4 year old has a product request",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uajjda/my_4_year_old_has_a_product_request/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T01:27:11.468Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Engagement"
+        ]
+      },
+      {
+        "title": "Does R1S need a softer suspension setting?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaj3ew/does_r1s_need_a_softer_suspension_setting/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T01:04:59.318Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Suspension"
+        ]
+      },
+      {
+        "title": "Improving 2026 R1S Tri-Motor music sound",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaixxk/improving_2026_r1s_trimotor_music_sound/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T00:57:37.213Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Audio"
+        ]
+      },
+      {
+        "title": "Insurance -R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaitbb/insurance_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T00:51:14.611Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Insurance"
+        ]
+      },
+      {
+        "title": "How Rivian Could Challenge Tesla's EV Dominance",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaflek/how_rivian_could_challenge_teslas_ev_dominance/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-19T22:23:40.120Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Position",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "The Electric Adventure SUV For the Masses! | 2027 Rivian R2 First Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uagwij/the_electric_adventure_suv_for_the_masses_2027/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-19T23:21:01.653Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Media Coverage"
+        ]
+      },
+      {
+        "title": "Honda Scraps Plans for E.V.s While Start-Ups Forge Ahead",
+        "url": "https://www.nytimes.com/2026/03/13/business/honda-scraps-plans-for-evs-while-start-ups-forge-ahead.html?searchResultPosition=2",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitor Weakness"
+        ]
+      },
+      {
+        "title": "Time-Traveling Along Route 66, in Cars of the Past, Present and Future",
+        "url": "https://www.nytimes.com/2026/05/23/us/route-66-100-years-cars.html?searchResultPosition=3",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "General Automotive"
+        ]
+      },
+      {
+        "title": "@bizwiziwish1980.bsky.social (Bluesky): the cyber truck wasnt a truck.  it was like a van.  a truck is like a rivian.  t",
+        "url": "https://bsky.app/profile/did:plc:azcn7fcer7dyldg4wfqtox7t/post/3mooq3uqkq22n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T01:41:56.067Z",
+        "score": 1,
+        "snippet": "the cyber truck wasnt a truck.  it was like a van.  a truck is like a rivian.  the hummer ev is georgeous.  just make the ev pickups look like the actual trucks.  but evs.  and will be fine.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Positioning",
+          "Tesla Cybertruck"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): They Spent $80k On A Rivian, Now They\u2019re Suing. Here\u2019s The Real Reason Why\n\nhttp",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3moopylxeof2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T01:40:06.671Z",
+        "score": 0,
+        "snippet": "They Spent $80k On A Rivian, Now They\u2019re Suing. Here\u2019s The Real Reason Why\n\nhttps://www.evshift.com/476939/they-spent-80k-on-a-rivian-now-theyre-suing-heres-the-real-reason-why/\n\nFor owners who paid $",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Lawsuit"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Perfect @Rivian parking DOES exist",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mooo5hokqg2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T01:07:03.563Z",
+        "score": 0,
+        "snippet": "Perfect @Rivian parking DOES exist",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Sentiment"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moomarfcak2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T00:33:05.865Z",
+        "score": 2,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mooma3zals2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T00:32:43.165Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moom7no47k2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T00:32:28.064Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mool6gl5rc2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T00:13:53.267Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mool5psq722q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T00:13:29.568Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mool5bwv322q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T00:13:14.862Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mention"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mool3jywqs2q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T00:12:16.165Z",
+        "score": 2,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mention"
+        ]
+      },
+      {
+        "title": "Forza Horizon 6: Driving the Rivian R1T 2021 | MOZA R5",
+        "url": "https://youtube.com/watch?v=6UrJYU_gJiM",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T02:00:06Z",
+        "score": 0,
+        "snippet": "Rivian R1T 2021 in Forza Horizon 6! In this video, I'm driving the legendary Rivian R1T 2021 in Forza Horizon 6 (FH6) on PC ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Gaming"
+        ]
+      },
+      {
+        "title": "Rivian R2 | Can it Beat CHINESE EVs?",
+        "url": "https://youtube.com/watch?v=d_NI1sGuVOc",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T01:05:46Z",
+        "score": 0,
+        "snippet": "R2 ($60k, AWD 3.6s 0-60) lacks soft-close doors/powered trunk vs. $25k Chinese EVs; semi-active suspension, spacious, but unrefined UX leaves reviewer concerned about global competitiveness.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Competition",
+          "Chinese EVs"
+        ]
+      },
+      {
+        "title": "Rivian R1S Collecting Dust in Garages #ev #rivian #automotive",
+        "url": "https://youtube.com/watch?v=tye2IGr4D90",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T00:11:44Z",
+        "score": 0,
+        "snippet": "R1S driven least of any US EV (8,400 miles), signaling weak demand despite $120k premium pricing and ultra-constrained production (few thousand units/quarter).",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Performance Launch Edition 0-60 in 3.6 Seconds!",
+        "url": "https://youtube.com/watch?v=ybWtYww6eQU",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T23:36:53Z",
+        "score": 0,
+        "snippet": "Rivian R2 Performance Launch Edition achieves 0-60 mph in 3.6 seconds; features sport mode suspension tuning and keycard vehicle start.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Performance"
+        ]
+      },
+      {
+        "title": "All Rivian R2 Colors In Real Life! \ud83d\ude31 #rivian #ev #gouldsgamingandtech #shorts #youtubeshorts",
+        "url": "https://youtube.com/watch?v=wvnZJPvdcdM",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T23:34:27Z",
+        "score": 0,
+        "snippet": "R2 provides eight color options including free Asker silver, $1,500 Half Moon gray, and the most-wanted Borealis; some face delivery delays.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Colors"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s Autonomy Platform: Eyes-Off to Brain-Off #shorts",
+        "url": "https://youtube.com/watch?v=2ge30PEHQpE",
+        "source": "youtube",
+        "publishedAt": "2026-06-19T23:03:29Z",
+        "score": 0,
+        "snippet": "Rivian building in-house Level 4 autonomy: R1 currently hands-free, targeting eyes-off then brain-off; announced December with Uber investment.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy",
+          "Level 4"
+        ]
+      }
+    ]
   }
 ]
