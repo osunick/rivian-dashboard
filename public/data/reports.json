@@ -33288,5 +33288,379 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-20T18:04:13.472022Z",
+    "timestamp": "2026-06-20T18:04:13.472022Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 27,
+      "negative": 22
+    },
+    "sources": {
+      "news": {
+        "found": 22,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomous Driving",
+      "Brand Sentiment",
+      "Customer Education",
+      "Customer Engagement",
+      "Customer Experience",
+      "Customer Relations",
+      "Driver Comfort",
+      "EV Adoption",
+      "Manufacturing",
+      "Product Pipeline",
+      "R1S Performance",
+      "R1T Performance",
+      "R2 Demo",
+      "R2 Features",
+      "R3 Launch",
+      "RIVN Stock",
+      "Reliability",
+      "Service Infrastructure",
+      "Service Tools",
+      "Shareholder Concerns",
+      "Staff Cuts",
+      "Vehicle Maintenance",
+      "Vehicle Quality",
+      "Warranty Policy"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Jordan Schiefer's R2 EQ Sound Settings",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub2h24/jordan_schiefers_r2_eq_sound_settings/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T17:35:28.934Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Features"
+        ]
+      },
+      {
+        "title": "Anybody know why the Rivian Amazon trucks are being driven with body parts missing?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub19gt/anybody_know_why_the_rivian_amazon_trucks_are/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T16:45:49.992Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Quality",
+          "Manufacturing"
+        ]
+      },
+      {
+        "title": "Goodyear Wrangler Wear",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub0iwb/goodyear_wrangler_wear/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T16:14:57.008Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Maintenance"
+        ]
+      },
+      {
+        "title": "Bumper Repair",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uazci2/bumper_repair/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T15:25:53.561Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Maintenance"
+        ]
+      },
+      {
+        "title": "Trip Report - A Winter Colorado Electric Adventure in R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaye60/trip_report_a_winter_colorado_electric_adventure/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T07:43:29.983Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Performance",
+          "Customer Experience"
+        ]
+      },
+      {
+        "title": "Got to demo drive the R2 today! Quick thoughts + raw pics",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ub2u3h/got_to_demo_drive_the_r2_today_quick_thoughts_raw/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-20T17:50:29.967Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo",
+          "Customer Experience"
+        ]
+      },
+      {
+        "title": "6' 4\" Driver Test Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ub1yih/6_4_driver_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-20T17:14:25.212Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Driver Comfort"
+        ]
+      },
+      {
+        "title": "EV Road Trip Around the US",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1ub1kji/ev_road_trip_around_the_us/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-20T16:58:36.482Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "EV Adoption"
+        ]
+      },
+      {
+        "title": "Rivian Is Cutting Staff Again. What That Means for RIVN Stock. - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTFFcmJTblJSQ0ZaVThvTnRtd2pscTJWcEdBSnlwbHNnU3ZzVFJlaUVpUmpwR1NRemV6eU01YmtidDJFYmJTclB2Nzh1eHp5RHZGY0tmdWNqNGtfTDlJNWtOYkFTQlVxTW5XVHM1VDdwWHZaS2ttVERha1pxZUFVY1N6a1hVbGotVGlULUxwa01Ddi1pNzM2Q0FQVk5tSWQxY2tFRU9sMA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 20 Jun 2026 14:00:02 GMT",
+        "score": 0,
+        "snippet": "Rivian Is Cutting Staff Again. What That Means for RIVN Stock. - Barchart.com",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Staff Cuts",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@nbim-vote.bsky.social (Bluesky): Rivian Automotive, Inc. Annual meeting (2026-06-22) - NBIM voted against managem",
+        "url": "https://bsky.app/profile/did:plc:uziz2gx27saspg4w6rmizmbe/post/3moqb65ayws2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T16:20:05.262Z",
+        "score": 0,
+        "snippet": "Rivian Automotive, Inc. Annual meeting (2026-06-22) - NBIM voted against management:\n\u2022 Against Management proposal: Advisory Vote to Ratify\u2026\nSee full meeting details.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Shareholder Concerns"
+        ]
+      },
+      {
+        "title": "@newsarea.bsky.social (Bluesky): Rivian To Challenge Tesla FSD Later This Year, CEO\u00a0Thinks\n\nI\u2019ve been writing a b",
+        "url": "https://bsky.app/profile/did:plc:kqj4vuyjvmtnptvvdt2xijtk/post/3moq7zmienm2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T15:59:40.674Z",
+        "score": 0,
+        "snippet": "Rivian To Challenge Tesla FSD Later This Year, CEO\u00a0Thinks\n\nI\u2019ve been writing a bit lately on why robotaxis are not going to be as disruptive as many people expect. (See here and here and here.) A big ",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Driving"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): To resolve critical service bottlenecks, Rivian is deploying hundreds of mobile ",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3moq3lfzh4y2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T14:40:08.663Z",
+        "score": 0,
+        "snippet": "To resolve critical service bottlenecks, Rivian is deploying hundreds of mobile repair vans to handle up to 80 percent of maintenance needs.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Service Infrastructure"
+        ]
+      },
+      {
+        "title": "@salukicolt.bsky.social (Bluesky): The Rivian R3 ev is scheduled for release in 2027. Reminds me of the Golf GTI.",
+        "url": "https://bsky.app/profile/did:plc:uzqhk3pt5h6ufcnvbemepx2m/post/3moq37f7ma22h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T14:33:26.270Z",
+        "score": 2,
+        "snippet": "The Rivian R3 ev is scheduled for release in 2027. Reminds me of the Golf GTI.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R3 Launch",
+          "Product Pipeline"
+        ]
+      },
+      {
+        "title": "Rivian Lemon Law \u2014 Software Failure, 12-Volt Battery Failure, Full Repurchase",
+        "url": "https://youtube.com/watch?v=2_tewlCKGrI",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T17:15:31Z",
+        "score": 0,
+        "snippet": "Lemon law buyback of $90K Rivian reveals software crashes, 12V battery failure, build quality defects, and service gaps\u2014critical reliability crisis impacting competitive position.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Quality",
+          "Reliability"
+        ]
+      },
+      {
+        "title": "Rivian Review",
+        "url": "https://youtube.com/watch?v=0hJQgr9jpXA",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T17:09:40Z",
+        "score": 0,
+        "snippet": "835-hp Rivian with adjustable suspension, sport/tow/snow/off-road modes, lane-keep assist; truck safety + sports-car handling; 10/10 rating for versatile, eco-friendly all-purpose family capability.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance",
+          "Customer Experience"
+        ]
+      },
+      {
+        "title": "!!! \u263a\ufe0f #animation #rivian #nothingimposibleinthisworld #lifeisbutadream",
+        "url": "https://youtube.com/watch?v=za2Cc5KPUqE",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T16:18:53Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Sentiment"
+        ]
+      },
+      {
+        "title": "wash my belly,#rivian #lifeisbutadream #animation #nothingimposibleinthisworld #diy",
+        "url": "https://youtube.com/watch?v=gaOdM9RELsM",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T16:09:21Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Engagement"
+        ]
+      },
+      {
+        "title": "The $120K Rivian R1T Quad Max is the quickest truck on the planet",
+        "url": "https://youtube.com/watch?v=5NHXMOEjQFM",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T15:45:00Z",
+        "score": 0,
+        "snippet": "$120K Rivian R1T Quad Max reaches 0-60 in 2.5s with 1,025 hp, claiming quickest-truck status despite Ram Rumblebee being faster; electric architecture enables unique undercarriage storage, charging ou",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance"
+        ]
+      },
+      {
+        "title": "ClearQuote Rivian inspections",
+        "url": "https://youtube.com/watch?v=0hbx6CasRSQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T14:56:53Z",
+        "score": 0,
+        "snippet": "ClearQuote app for inspecting Rivians.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Service Tools"
+        ]
+      },
+      {
+        "title": "This is how to drive a Rivian R1S #youtubeshorts #rivianr1s #rivian",
+        "url": "https://youtube.com/watch?v=h0wlgCP60-0",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T14:06:15Z",
+        "score": 0,
+        "snippet": "No competitive intelligence; generic tutorial on basic R1S controls (unlock, brake, shift, accelerate) with no specs, timing, autonomy, pricing, or competitor data.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Education"
+        ]
+      },
+      {
+        "title": "Rivian Won&#39;t Accept Third Party Warranty Payments \u2014 This Could Force Me to Sell My R1T",
+        "url": "https://youtube.com/watch?v=xtsk-sVgfpk",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T14:00:16Z",
+        "score": 0,
+        "snippet": "Used 2022 R1T with quad motors sells for ~$43K; Rivian won't accept third-party warranty payments, forcing out-of-pocket repairs and damaging its used-vehicle market positioning vs. competitors.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Warranty Policy",
+          "Customer Relations"
+        ]
+      },
+      {
+        "title": "#\u6295\u8cc7 #\u7f8e\u80a1 #\u80a1\u7968\u6295\u8d44 #\u80a1\u7968 Rivian\u4e0a\u5e02\u65f6\u7684\u66b4\u6da8\u66b4\u8dcc",
+        "url": "https://youtube.com/watch?v=MIqFQetkA74",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T13:04:22Z",
+        "score": 0,
+        "snippet": "Rivian\u4e0a\u5e02\u65f6\u7684\u66b4\u6da8\u66b4\u8dcc.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      }
+    ]
   }
 ]
