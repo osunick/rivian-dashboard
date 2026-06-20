@@ -32840,5 +32840,453 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-20T14:05:15.668031Z",
+    "timestamp": "2026-06-20T14:05:15.668031Z",
+    "sentiment": {
+      "positive": 21,
+      "neutral": 28,
+      "negative": 50
+    },
+    "sources": {
+      "news": {
+        "found": 28,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 3,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy Lawsuits",
+      "Cash Burn",
+      "Competitive Comparison",
+      "Customer Switching",
+      "Design Advantage",
+      "FSD Advantage",
+      "FSD Competition",
+      "Government Adoption",
+      "Interior Quality",
+      "Market Positioning",
+      "Paint Durability",
+      "Production Delays",
+      "Profitability",
+      "R1S Reviews",
+      "R2 Features",
+      "R2 Financing",
+      "R2 Launch",
+      "R2 vs Model Y",
+      "RIVN Stock",
+      "Robotics Venture",
+      "Software Bugs",
+      "Tire Services",
+      "Winter Performance",
+      "Workforce Reductions"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Did anyone shop for outside car loans for R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uawl44/did_anyone_shop_for_outside_car_loans_for_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T13:25:17.871Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Financing"
+        ]
+      },
+      {
+        "title": "Glacier White - how\u2019s it hold up 2-3 years out?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uawgan/glacier_white_hows_it_hold_up_23_years_out/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T13:19:08.739Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Paint Durability"
+        ]
+      },
+      {
+        "title": "[MEGATHREAD] Saturday Switchers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaw1yb/megathread_saturday_switchers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T13:00:44.106Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Switching"
+        ]
+      },
+      {
+        "title": "DiscountTire vs Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uav5zm/discounttire_vs_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T12:16:06.584Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Tire Services"
+        ]
+      },
+      {
+        "title": "Heart Attack due to bug",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uauusd/heart_attack_due_to_bug/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T12:00:26.928Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software Bugs"
+        ]
+      },
+      {
+        "title": "Trip Report - A Winter Colorado Electric Adventure in R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaqj92/trip_report_a_winter_colorado_electric_adventure/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T07:43:29.983Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Reviews",
+          "Winter Performance"
+        ]
+      },
+      {
+        "title": "R2 test cars spotted in Silicon Valley \ud83d\udc40",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uaoqk3/r2_test_cars_spotted_in_silicon_valley/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T05:58:13.586Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Volume scroll wheel is delayed?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uapjso/volume_scroll_wheel_is_delayed/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-20T06:45:25.859Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Production Delays"
+        ]
+      },
+      {
+        "title": "Loud Ventilated Seats?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uanda4/loud_ventilated_seats/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-20T04:44:04.924Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Interior Quality"
+        ]
+      },
+      {
+        "title": "@maddog5.bsky.social (Bluesky): This.  California Governor Gavin Newsom travels in an official state vehicle, a ",
+        "url": "https://bsky.app/profile/did:plc:o33cyhtci2htxtolmqzwqcd2/post/3mopzb6skik23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T13:58:38.772Z",
+        "score": 0,
+        "snippet": "This.  California Governor Gavin Newsom travels in an official state vehicle, a Rivian all-electric SUV (R1S). The California Highway Patrol's Dignitary Protection Section purchased the black electric",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Government Adoption"
+        ]
+      },
+      {
+        "title": "@blackbirdchi.bsky.social (Bluesky): Be more accurate. The Cybertruck is a disaster (and eyesore) in every way. The R",
+        "url": "https://bsky.app/profile/did:plc:izmxmntkdr7i64onziin2y56/post/3mopvcvssvs2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T12:48:00.970Z",
+        "score": 0,
+        "snippet": "Be more accurate. The Cybertruck is a disaster (and eyesore) in every way. The Rivian is not",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Design Advantage"
+        ]
+      },
+      {
+        "title": "@25newsnow.com (Bluesky): Rivian laying off hundreds, hinting assembly line workers in Normal not included",
+        "url": "https://bsky.app/profile/did:plc:cqymdpjky3b6ffia5or5bxs2/post/3moprl5pxfd2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T11:41:02.961Z",
+        "score": 1,
+        "snippet": "Rivian laying off hundreds, hinting assembly line workers in Normal not included\n\nDETAILS: https://www.25newsnow.com/2026/06/20/rivian-laying-off-hundreds-hinting-assembly-line-workers-normal-not-incl",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reductions"
+        ]
+      },
+      {
+        "title": "@mcleanconnected.bsky.social (Bluesky): Rivian laying off hundreds",
+        "url": "https://bsky.app/profile/did:plc:plel7skiqdeb33lks4zwidbt/post/3mopr6mr42q23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T11:34:01.861Z",
+        "score": 0,
+        "snippet": "Rivian laying off hundreds",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reductions"
+        ]
+      },
+      {
+        "title": "@peoriaconnected.bsky.social (Bluesky): Rivian laying off hundreds",
+        "url": "https://bsky.app/profile/did:plc:ka5ll5mmwnag2oxkqoir65qw/post/3mopr32layt2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T11:32:02.367Z",
+        "score": 0,
+        "snippet": "Rivian laying off hundreds",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reductions"
+        ]
+      },
+      {
+        "title": "@mcleanconnected.bsky.social (Bluesky): Rivian laying off hundreds, hinting assembly line workers in Normal not included",
+        "url": "https://bsky.app/profile/did:plc:plel7skiqdeb33lks4zwidbt/post/3mopqdsj55p2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T11:19:02.261Z",
+        "score": 0,
+        "snippet": "Rivian laying off hundreds, hinting assembly line workers in Normal not included",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reductions"
+        ]
+      },
+      {
+        "title": "@dbred.bsky.social (Bluesky): Rivian laying off hundreds, hinting assembly line workers in Normal not included",
+        "url": "https://bsky.app/profile/did:plc:adedgwbx5yjff7a7cu67hmvn/post/3moppdjzp2c2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T11:01:00.564Z",
+        "score": 1,
+        "snippet": "Rivian laying off hundreds, hinting assembly line workers in Normal not included www.25newsnow.com/2026/06/20/r...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Workforce Reductions"
+        ]
+      },
+      {
+        "title": "@bigearthdata.ai (Bluesky): How Rivian Could Challenge Tesla's EV Dominance\n->EV World | More on \"Rivian cha",
+        "url": "https://bsky.app/profile/did:plc:lc6hdhnjkgccd6ysi7e23pll/post/3mopcuflxju2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T07:17:46.667Z",
+        "score": 0,
+        "snippet": "How Rivian Could Challenge Tesla's EV Dominance\n->EV World | More on \"Rivian challenging Tesla EV dominance\" at BigEarthData.ai | #Technology #Tesla",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Positioning"
+        ]
+      },
+      {
+        "title": "@antara-poster.bsky.social (Bluesky): Rivian digugat terkait dugaan klaim menyesatkan fitur swakemudi - https://otomot",
+        "url": "https://bsky.app/profile/did:plc:mwlzey3sttvtzgjtfci54ub3/post/3mopce2wfjz26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T07:08:44.807Z",
+        "score": 0,
+        "snippet": "Rivian digugat terkait dugaan klaim menyesatkan fitur swakemudi - https://otomotif.antaranews.com/berita/5615897/rivian-digugat-terkait-dugaan-klaim-menyesatkan-fitur-swakemudi",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuits"
+        ]
+      },
+      {
+        "title": "R2 Spotlight: Haptic Halo Wheels #r2 #rivian",
+        "url": "https://youtube.com/watch?v=F233KWAmq7g",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T12:20:54Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Features"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=KXbRCPCzbNY",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T11:35:38Z",
+        "score": 0,
+        "snippet": "Rivian R2 at $45k (summer 2027) shifts to mass-market competition; profitability delayed to 2030 amid execution risk on manufacturing scale.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "How Rivian&#39;s Delivery Trajectory, Cash is Making Smart Investors Rich",
+        "url": "https://youtube.com/watch?v=rXjMjItMT8A",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T11:00:27Z",
+        "score": 0,
+        "snippet": "Rivian needs R2 launch (2026) to reach 150k annual units by 2026-27 for profitability; burning $1.5B/quarter with $6B cash, survival depends on VW ($5.8B) and Amazon (100k vans) partnerships.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Cash Burn",
+          "Profitability"
+        ]
+      },
+      {
+        "title": "Tesla Model X vs Rivian R1S \u2014 Future SUVs",
+        "url": "https://youtube.com/watch?v=kz9qgB7_51M",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T11:00:35Z",
+        "score": 0,
+        "snippet": "Model X Plaid (2.5s 0-60, Full Self-Driving) dominates on speed and urban technology; R1S (2021) differentiates via off-road capability and innovative gear-tunnel storage.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Comparison"
+        ]
+      },
+      {
+        "title": "STOP buying new EVs until you hear this leaked info",
+        "url": "https://youtube.com/watch?v=GUuA4EjUUEA",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T09:12:42Z",
+        "score": 0,
+        "snippet": "Rivian owners filing class action for unfulfilled hands-free driving promises; autonomy feature missing despite years of marketing hype, posing major legal and reputation risk to the company.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Lawsuits"
+        ]
+      },
+      {
+        "title": "Which EV Beast Wins? Cybertruck vs Hummer EV vs Rivian R1S! #TeslaCybertruck #Cybertruck #HummerEV",
+        "url": "https://youtube.com/watch?v=KXYpwbzDDH8",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T08:46:31Z",
+        "score": 0,
+        "snippet": "Discover the ultimate EV showdown between the Tesla Cybertruck, GMC Hummer EV, and Rivian R1S. We compare battery size, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Comparison"
+        ]
+      },
+      {
+        "title": "Tesla Cybertruck vs Rivian R1S vs Hummer EV \u2013 Which EV Dominates in 2026? #TeslaCybertruck #HummerEV",
+        "url": "https://youtube.com/watch?v=dFKGxuRvS2c",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T08:45:22Z",
+        "score": 0,
+        "snippet": "In this video, we compare the Tesla Cybertruck, GMC Hummer EV, and Rivian R1S. Check out their battery capacity, horsepower, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Comparison"
+        ]
+      },
+      {
+        "title": "Rivian CEO&#39;s Mind Robotics Raises $1B to Challenge Tesla Optimus",
+        "url": "https://youtube.com/watch?v=bizGgoEDcxo",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T08:45:14Z",
+        "score": 0,
+        "snippet": "Rivian CEO launches $1B+-funded Mind Robotics to develop manufacturing robots competing with Tesla Optimus, but tech must prove reliability and cost-effectiveness before generating revenue.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Robotics Venture"
+        ]
+      },
+      {
+        "title": "Waymo\u7ffb\u8eca\u5f8c Mobileye Rivian\u5168\u614c\uff01Tesla\u537b\u6210\u6700\u5927\u8d0f\u5bb6\uff1f@Tesla#Robotaxi\u5927\u6230 #TeslaHW #\u99ac\u65af\u514b #EV\u672a\u4f86",
+        "url": "https://youtube.com/watch?v=z-fN4G7oM7Y",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T08:41:36Z",
+        "score": 0,
+        "snippet": "\u7279\u65af\u62c9#\u99ac\u65af\u514b#Musk #ModelY #Model3 #\u7f8e\u91d1#Tesla #\u96fb\u52d5\u8eca#cybertruck #FSD #\u5927\u9b5a\u804a\u96fb\u52d5  \u5927\u9b5a\u804a\u96fb\u52d5X\u5e33\u865f\uff1a ...",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "FSD Competition"
+        ]
+      },
+      {
+        "title": "\u2757\ufe0fRIVIAN R2 v MODEL Y : SHE CHOSE TESLA - HERES WHY \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=4xK0H_JB_fU",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T08:00:05Z",
+        "score": 0,
+        "snippet": "Reviewer chose Model Y over Rivian R2 primarily due to Tesla's Full Self-Driving being essential; $2.5K cost savings noted.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "R2 vs Model Y",
+          "FSD Advantage"
+        ]
+      }
+    ]
   }
 ]
