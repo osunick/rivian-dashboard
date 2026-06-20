@@ -1,5 +1,6 @@
 import { Report, SourceKey, CategoryKey, CATEGORY_KEYS, SOURCE_KEYS, SOURCE_LABELS, CompetitorProfile, COMPETITORS, ThreatLevel } from './types';
 import reportsRaw from '../public/data/reports.json';
+import newsletterRaw from '../public/data/newsletter.json';
 
 // Cast and sort newest first
 // Force redeploy to fix auth redirect
@@ -510,4 +511,28 @@ export function getSentimentByPublishDate(days = 21): PublishTrendPoint[] {
     });
     return { date: key, label, positive: b.positive, neutral: b.neutral, negative: b.negative, total: b.positive + b.neutral + b.negative, items: sortedItems };
   });
+}
+
+// ─── Weekly newsletter ──────────────────────────────────────────────────────
+
+export interface NewsletterLink { label: string; url: string; }
+export interface NewsletterItem { headline: string; body: string; links: NewsletterLink[]; }
+export interface NewsletterSection { emoji: string; heading: string; items: NewsletterItem[]; }
+export interface Newsletter {
+  edition: number;
+  title: string;
+  subtitle: string;
+  weekStart: string;
+  weekEnd: string;
+  generatedAt: string;
+  signalCount: number;
+  sentiment: { positive: number; neutral: number; negative: number };
+  sections: NewsletterSection[];
+  watchList: string[];
+}
+
+export function getNewsletter(): Newsletter | null {
+  const n = newsletterRaw as unknown as Newsletter;
+  if (!n || !Array.isArray(n.sections) || n.sections.length === 0) return null;
+  return n;
 }

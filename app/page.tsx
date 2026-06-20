@@ -535,6 +535,12 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
                 <ScopeTab active={scope === '7d'} href="?scope=7d" label="7 days" />
                 <ScopeTab active={scope === 'all'} href="?scope=all" label="Archive" />
               </div>
+              <a
+                href="/newsletter"
+                className="rounded-md border border-marvel-red/40 bg-marvel-red/10 px-3 py-1.5 text-[13px] font-medium text-[#FF6B61] transition-colors hover:bg-marvel-red/20"
+              >
+                Weekly
+              </a>
               <SearchButton />
               <ChatButton />
             </div>
