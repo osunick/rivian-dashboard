@@ -33662,5 +33662,394 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-20T22:03:54.491214Z",
+    "timestamp": "2026-06-20T22:03:54.491214Z",
+    "sentiment": {
+      "positive": 37,
+      "neutral": 54,
+      "negative": 8
+    },
+    "sources": {
+      "news": {
+        "found": 24,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Audio Customization",
+      "Autonomy",
+      "Brand",
+      "Brand Visibility",
+      "Community",
+      "Compatibility",
+      "Customer Satisfaction",
+      "Lease",
+      "Market Buzz",
+      "Operations",
+      "Partnership",
+      "Product Reception",
+      "R1T",
+      "R2",
+      "R2 Launch",
+      "Service",
+      "Social Media",
+      "Specifications",
+      "Workforce"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Successfully installed the Ohmmu 12V Sodium ion batteries in my R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub8h74/successfully_installed_the_ohmmu_12v_sodium_ion/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T21:47:19.085Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T",
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "Can you just change the speakers and subwoofers?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub8cej/can_you_just_change_the_speakers_and_subwoofers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T21:41:14.822Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Audio Customization"
+        ]
+      },
+      {
+        "title": "R1 Wheels not compatible with R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub84o5/r1_wheels_not_compatible_with_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T21:31:46.926Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Compatibility"
+        ]
+      },
+      {
+        "title": "The hype is real. It's very real.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub6c5d/the_hype_is_real_its_very_real/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T20:14:31.300Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Market Buzz"
+        ]
+      },
+      {
+        "title": "Lease deal",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub5klz/lease_deal/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T19:42:33.645Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Lease"
+        ]
+      },
+      {
+        "title": "Need advice from owners (and former owners)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub5g7p/need_advice_from_owners_and_former_owners/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T19:37:29.426Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community"
+        ]
+      },
+      {
+        "title": "When did the battery sizes and motors change?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub40lq/when_did_the_battery_sizes_and_motors_change/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T18:38:37.175Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Specifications"
+        ]
+      },
+      {
+        "title": "Service question",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ub88zh/service_question/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-20T21:37:08.239Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Service"
+        ]
+      },
+      {
+        "title": "Autonomy features during R2 demo drives",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ub6hh6/autonomy_features_during_r2_demo_drives/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-20T20:20:51.007Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2",
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian lays off hundreds of workers days after launching R2 electric SUV - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYVlHdWxXMXlITEkySlJoWVhLNW9vMERXNkxJSktramNubjc4RnlVRDFscGJUeWpQYUROdVhCN3JJc09XOXFXVHBmQkNhVTFlbnVGWElmQkprSzlHTzdvdmdlLVBxVWZCenozOTdwQXh1RHFzRlY3c3FvMkFrWElyVFR0Z3B5Z0prTkxORW9IYzNKUHRDM1lFckhlNEpMekVWc1A0RnV3QkRjTHpIN0JiRUwtakQ4N2c5M3F5TldidlJzb2FYMldKWXZJaExyRlF0YlJka2E2U2V4cXhJZVpKR19rTXpyeEdrZnd1MXo3VWJyTHdxbTRNcExrY1pvNTV2by1BM2JlUDVsMUd6dElVWmlJbXZqMW5VOWl5ZmRhcGR4UGZsZ2dsRnpsUmhHYVZQcnpTZmI1REVkb1gzQUlUV0l5a1BsNGJRTE1xWF9rZjBSTThzNWtLQ0RfNA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sat, 20 Jun 2026 11:12:18 GMT",
+        "score": 0,
+        "snippet": "Rivian lays off hundreds of workers days after launching R2 electric SUV - MSN",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Workforce"
+        ]
+      },
+      {
+        "title": "@eu-de.bsky.social (Bluesky): Rivian and Volkswagen Group Announce Plans for Joint \u2013 Newsroom\n\nhttps://www.eur",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3moqtdkdzzm2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T21:45:14.662Z",
+        "score": 0,
+        "snippet": "Rivian and Volkswagen Group Announce Plans for Joint \u2013 Newsroom\n\nhttps://www.europesays.com/germany/40435/\n\nSkip To \u2026",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Partnership"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Successfully replaced my 12V batteries (there are two of them) in my Rivian R1T ",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3moqsjzy5lk2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T21:31:06.201Z",
+        "score": 3,
+        "snippet": "Successfully replaced my 12V batteries (there are two of them) in my Rivian R1T with the Ohmmu sodium ion ones.\n\nAlso installed a Bluetooth battery health monitor.\n\nSo far, everything works great!\n\nTh",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T",
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "@fakesharrows.bsky.social (Bluesky): transportation representation",
+        "url": "https://bsky.app/profile/did:plc:vyw266dzoelrdb3g2yeax6cm/post/3moqrcl6uvs2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T21:09:05.460Z",
+        "score": 4,
+        "snippet": "transportation representation",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community"
+        ]
+      },
+      {
+        "title": "@adamgalas.bsky.social (Bluesky): youtube.com/shorts/5NHXM...\n\nRivian is an all vegan interior company and they ma",
+        "url": "https://bsky.app/profile/did:plc:dju7rgetkyq4hzeuhyzeqp47/post/3moqq2snqqc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T20:46:40.566Z",
+        "score": 1,
+        "snippet": "youtube.com/shorts/5NHXM...\n\nRivian is an all vegan interior company and they make some truly badass vehicles. \n\nIt's just they're not expected to turn a profit until 2029 so it's a bit too speculativ",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Brand"
+        ]
+      },
+      {
+        "title": "@kat8655.eurosky.social (Bluesky): Maybe Wyzima is oddly woke and chud at the same time?\n\nLocal elves? Welcomed to ",
+        "url": "https://bsky.app/profile/did:plc:nzys65xa2jvttaedbezfqhz5/post/3moqpyqsbbs2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T20:45:31.965Z",
+        "score": 2,
+        "snippet": "Maybe Wyzima is oddly woke and chud at the same time?\n\nLocal elves? Welcomed to the community. Elves talking with Rivian accent? Instant wpierdol, local Aen Sidhe are joining in the ethnic violence.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Community"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #EVs #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqojagbys26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T20:18:56.362Z",
+        "score": 1,
+        "snippet": "#EVs #Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Awesome! #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqofk4elk26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T20:16:52.374Z",
+        "score": 0,
+        "snippet": "Awesome! #Rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqo5yhclc26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T20:12:38.874Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqkxkujkk26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T19:15:22.265Z",
+        "score": 1,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqk476w5k26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T19:00:03.868Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      },
+      {
+        "title": "JasonTheWeen Is Giving Away a Brand New Rivian Courtesy of Mark Rober",
+        "url": "https://youtube.com/watch?v=19KA4vYVYko",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T21:17:43Z",
+        "score": 0,
+        "snippet": "2026 Rivian gifted in Mark Rober YouTube giveaway; transcript contains no product specs, pricing, autonomy features, launch date, or competitive details.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Visibility"
+        ]
+      },
+      {
+        "title": "ClearQuote app -  Rivian inspections at CO Logistics",
+        "url": "https://youtube.com/watch?v=i2P2vh2GjGE",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T18:49:42Z",
+        "score": 0,
+        "snippet": "CO Logistics uses ClearQuote app for tracking and reducing fleet damage at DFL7 and DFL8 in FL.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Operations"
+        ]
+      },
+      {
+        "title": "ClearQuote app for Rivian inspections",
+        "url": "https://youtube.com/watch?v=jcWny7Cp4ao",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T18:45:26Z",
+        "score": 0,
+        "snippet": "ClearQuote for inspecting Rivians for Amazon DSPs.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Operations"
+        ]
+      },
+      {
+        "title": "Average Car Guy First Impressions Rivian R2",
+        "url": "https://youtube.com/watch?v=FjtO8PKmvSU",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T18:19:47Z",
+        "score": 0,
+        "snippet": "R2 competes against RAV4/4Runner at comparable pricing, delivers 656hp with Autonomy Plus adaptive cruise (not full self-drive), achieves ~330mi range, offers spacious interior for road trips.",
+        "summarized": true,
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2",
+          "Product Reception"
+        ]
+      }
+    ]
   }
 ]
