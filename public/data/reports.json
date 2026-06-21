@@ -35382,5 +35382,353 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-21T22:01:24.052439Z",
+    "timestamp": "2026-06-21T22:01:24.052439Z",
+    "sentiment": {
+      "positive": 42,
+      "neutral": 36,
+      "negative": 21
+    },
+    "sources": {
+      "news": {
+        "found": 19,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Accessories",
+      "Brand Mentions",
+      "Brand Perception",
+      "Charging Infrastructure",
+      "Competitive Position",
+      "Customer Acquisition",
+      "Customer Feedback",
+      "Customer Lifestyle",
+      "Customer Reviews",
+      "Customer Support",
+      "Design",
+      "EV Industry",
+      "Engineering Innovation",
+      "Financing Options",
+      "New Vehicle",
+      "OTA Updates",
+      "Powerbank Feature",
+      "Pre-Orders",
+      "Product Features",
+      "Product Lineup",
+      "Product Strategy",
+      "Profit Projections",
+      "R1S",
+      "R2 Launch",
+      "RIVN Stock",
+      "Sales Strategy",
+      "Software Features",
+      "Software Quality",
+      "Vehicle Defects",
+      "Vehicle Quirks",
+      "Voice Assistant"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "New Rivian Minivan Spotted",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uc0meu/new_rivian_minivan_spotted/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T20:39:42.159Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "New Vehicle",
+          "Product Lineup"
+        ]
+      },
+      {
+        "title": "Pre-order and hope for more financing offers?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uc0dwl/preorder_and_hope_for_more_financing_offers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T20:30:01.540Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Financing Options",
+          "Customer Acquisition"
+        ]
+      },
+      {
+        "title": "Has any other Rivian owner seen a degraded LTE experience in general the last few OTA updates? There\u2019s really good AT&T service in my area but I\u2019m constantly getting zero service in the R1.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubxjxi/has_any_other_rivian_owner_seen_a_degraded_lte/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T18:35:12.684Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "OTA Updates",
+          "Software Quality"
+        ]
+      },
+      {
+        "title": "Random alert noise when parked at home?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubxabz/random_alert_noise_when_parked_at_home/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T18:24:23.861Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Defects",
+          "Customer Support"
+        ]
+      },
+      {
+        "title": "Got the email to order one, a theory as to why..",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uc13wa/got_the_email_to_order_one_a_theory_as_to_why/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T21:00:08.087Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Sales Strategy",
+          "Pre-Orders"
+        ]
+      },
+      {
+        "title": "My R2 review",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubxzy0/my_r2_review/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T18:53:09.331Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Customer Feedback"
+        ]
+      },
+      {
+        "title": "Rivian is betting its future on the R2. Here's the clearest launch road map for the new electric SUV - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQlU3YTA5QTNzQ1c4NHZhSjZqOEtlQ1MwTy0wdTIzTkRfN0Y0X3BUMTlVMUhTSk41RnlDRGN1cF95UHgtMEwzdzNkYjRBNXZwenE5d0VBWmsycWlTSmEzZHpmLVhYNHRabXNMOF9FazZ5dTMtVFhTOEYwLUhETnBXVWI4OVBQVXBuajJnSkxxd1c5N1VsQVM1OUtsd0NrZW4xVWFWVTFRY2hzOHVOeE1sdnBXVEZtMWxadm1La3JSMXFIQ2xMV0Y1SDNUU241cTh4Z3V0Y3dHSVFuNGdIcFJEZWM1R3NCa01N?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sun, 21 Jun 2026 10:24:08 GMT",
+        "score": 0,
+        "snippet": "Rivian is betting its future on the R2. Here's the clearest launch road map for the new electric SUV - MSN",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Strategy"
+        ]
+      },
+      {
+        "title": "@eu-de.bsky.social (Bluesky): EV, Battery & Charging News: Verdek, Electrify America, QuantumScape, Honda, Vol",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3motcxoass22a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T21:30:14.765Z",
+        "score": 0,
+        "snippet": "EV, Battery & Charging News: Verdek, Electrify America, QuantumScape, Honda, Volkswagen, Tesla, IONNA, Google, NVIDIA, ROHM, DigiKey, Farnell, Rivian ChargeScape, BMW, Ford, Nissan & Stellantis\n\nhttps",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "EV Industry",
+          "Charging Infrastructure"
+        ]
+      },
+      {
+        "title": "@eu-nl.bsky.social (Bluesky): EV, Battery & Charging News: Verdek, Electrify America, QuantumScape, Honda, Vol",
+        "url": "https://bsky.app/profile/did:plc:tygmoztg7hvboeqteixmx6ky/post/3motbc5rml32y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T21:00:19.479Z",
+        "score": 0,
+        "snippet": "EV, Battery & Charging News: Verdek, Electrify America, QuantumScape, Honda, Volkswagen, Tesla, IONNA, Google, NVIDIA, ROHM, DigiKey, Farnell, Rivian ChargeScape, BMW, Ford, Nissan & Stellantis\n\nhttps",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "EV Industry",
+          "Charging Infrastructure"
+        ]
+      },
+      {
+        "title": "@theminsk.bsky.social (Bluesky): It's soooo ugly. It can't be aerodynamic either. Rivian makes them for Amazon th",
+        "url": "https://bsky.app/profile/did:plc:ud3ivj6exn5filatva7gjd2y/post/3moszcex2zs2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T18:37:20.569Z",
+        "score": 0,
+        "snippet": "It's soooo ugly. It can't be aerodynamic either. Rivian makes them for Amazon they look ok. Even Chevy now with the Hummer EV battery",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Design",
+          "Brand Perception"
+        ]
+      },
+      {
+        "title": "Things My Rivian Did That Make NO Sense",
+        "url": "https://youtube.com/watch?v=IqePF2s4up8",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T21:30:36Z",
+        "score": 0,
+        "snippet": "We absolutely love our Rivian R1S, but sometimes Trevor decides to keep things interesting! In this video we are sharing a ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Quirks",
+          "Software Quality"
+        ]
+      },
+      {
+        "title": "I took the powerbank #rivian to hike",
+        "url": "https://youtube.com/watch?v=lM4FgjJmi2E",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T21:08:17Z",
+        "score": 0,
+        "snippet": "Rivian in the bushes - went hiking near zion national park.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Powerbank Feature",
+          "Customer Lifestyle"
+        ]
+      },
+      {
+        "title": "Rivian Just Revealed the R2&#39;s Secret Suspension \u2014 And It Changes Everything",
+        "url": "https://youtube.com/watch?v=faXqabhFOtQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T20:45:10Z",
+        "score": 0,
+        "snippet": "Rivian just pulled back the curtain on the R2's hidden engineering secret \u2014 and it could be the breakthrough that transforms the ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Engineering Innovation"
+        ]
+      },
+      {
+        "title": "Rivian R2 Features: Everything We Wanted In An EV!",
+        "url": "https://youtube.com/watch?v=qjiNnr22-3A",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T20:08:07Z",
+        "score": 0,
+        "snippet": "Experience an in-depth, close-up look at the 2026 Rivian R2 features with absolutely no talking or distraction. This Rivian R2 walk ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Features"
+        ]
+      },
+      {
+        "title": "Porsche 911 vs Lucid Gravity vs Rivian R2 \u2014 Built From Nothing",
+        "url": "https://youtube.com/watch?v=QvW1ZeiajGg",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T19:49:49Z",
+        "score": 0,
+        "snippet": "CGI car animation, exploded view, Porsche 911, Lucid Gravity, Rivian R2, car transformation animation, hyper realistic CGI, car ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Competitive Position"
+        ]
+      },
+      {
+        "title": "Rivian voice assistant says what? \ud83c\udf46 so random \ud83e\udd23 #rivian",
+        "url": "https://youtube.com/watch?v=vX0I5nz79TI",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T19:45:12Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Voice Assistant",
+          "Software Features"
+        ]
+      },
+      {
+        "title": "For the Dad Who Babies His EV \ud83d\ude97 Happy Father&#39;s Day from Luma Auto #shorts   #evcare",
+        "url": "https://youtube.com/watch?v=8tqUlo-MvYY",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T19:22:07Z",
+        "score": 0,
+        "snippet": "Happy Father's Day from Luma Auto. For the dad who babies his Tesla or Rivian. Our All-Purpose Cleaner is EV-Safe, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mentions",
+          "Accessories"
+        ]
+      },
+      {
+        "title": "This just might be my new favorite car! #rivian @Rivian",
+        "url": "https://youtube.com/watch?v=mcdYNWBAe2Q",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T19:17:43Z",
+        "score": 0,
+        "snippet": "Test drove the @rivianofficial R1S to see if it could keep up with my summer road trip needs. Between the storage, smooth drive, ...",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R1S",
+          "Customer Reviews"
+        ]
+      },
+      {
+        "title": "Rivian R2 Delivers MASSIVE Profits \u2014 Buy Now Before It&#39;s Too Late! RIVN Stock Analysis",
+        "url": "https://youtube.com/watch?v=SMeideWqY2I",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T19:00:09Z",
+        "score": 0,
+        "snippet": "Check out VIP Algos here for Buy & Sell signals: https://hop.clickbank.net/?affiliate=itp129&vendor=fxlife VIP Algos helps traders ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Profit Projections"
+        ]
+      }
+    ]
   }
 ]
