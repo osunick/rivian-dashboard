@@ -34522,5 +34522,404 @@
         "themes": []
       }
     ]
+  },
+  {
+    "id": "2026-06-21T14:03:12.759598Z",
+    "timestamp": "2026-06-21T14:03:12.759598Z",
+    "sentiment": {
+      "positive": 30,
+      "neutral": 34,
+      "negative": 34
+    },
+    "sources": {
+      "news": {
+        "found": 23,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Audio Features",
+      "Autonomy",
+      "Autonomy Gap",
+      "Battery Issue",
+      "Brand Enthusiasm",
+      "Brand Exposure",
+      "Buying Experience",
+      "Camera Features",
+      "Charging Network",
+      "Company Valuation",
+      "Company Workforce",
+      "Competitive Win",
+      "Customer Community",
+      "Customer Satisfaction",
+      "Engineering",
+      "Financial",
+      "Future Models",
+      "Influencer Marketing",
+      "Media Coverage",
+      "Product Design",
+      "Profitability",
+      "R1S Updates",
+      "R2 Launch",
+      "Regulatory",
+      "Reliability",
+      "Safety Investigation",
+      "Storage Features",
+      "Strategic Partnerships",
+      "Tesla Competition",
+      "Test Drive",
+      "Transmission Issue"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Unable to put into gear, 3 times in 2 days.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubqrkd/unable_to_put_into_gear_3_times_in_2_days/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T13:58:35.674Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Transmission Issue",
+          "Reliability"
+        ]
+      },
+      {
+        "title": "Road and Motion Cam",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubqmwy/road_and_motion_cam/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T13:53:01.994Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Camera Features"
+        ]
+      },
+      {
+        "title": "Vehicle battery issue while on a long road trip.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubqmec/vehicle_battery_issue_while_on_a_long_road_trip/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T13:52:19.980Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Battery Issue",
+          "Reliability"
+        ]
+      },
+      {
+        "title": "Mark Rober stole streamer\u2019s giveaway car, and provides a Rivian in return.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubfykw/mark_rober_stole_streamers_giveaway_car_and/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T03:55:33.317Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Influencer Marketing",
+          "Brand Exposure"
+        ]
+      },
+      {
+        "title": "New Owner Advice",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubeucs/new_owner_advice/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T02:56:31.216Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Community"
+        ]
+      },
+      {
+        "title": "The 5 Stages of Buying a Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubeucd/the_5_stages_of_buying_a_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T02:56:30.179Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Buying Experience"
+        ]
+      },
+      {
+        "title": "Spotted a Miami blue rivian in NJ!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubeajw/spotted_a_miami_blue_rivian_in_nj/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T02:27:42.129Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Enthusiasm"
+        ]
+      },
+      {
+        "title": "Where is the subwoofer?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubgyh1/where_is_the_subwoofer/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T04:49:44.668Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Audio Features"
+        ]
+      },
+      {
+        "title": "2nd demo drive thoughts",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubg7t5/2nd_demo_drive_thoughts/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T04:08:59.394Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Test Drive"
+        ]
+      },
+      {
+        "title": "Horrible R2 experience. Do not recommend!!!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubfrbo/horrible_r2_experience_do_not_recommend/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T03:44:42.685Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Partners With ChargeScape To Bring Managed Charging To Its EVs - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORC1yZjA4TVBydlFUUng1TEx3WGdIMERfZkI3NzNzR1c1aTVfRjhobXV4ZmF5TmZEZ3g1WElta09lWTBMVmJEZmJibEozOUNmODRuMXVXX3lRdFJyX2hFTDM0NXU5VWRpT2pPTG52VWhjS1VVSG9mQ3dlTUM5aExVaktqbkw4Sl8tYVNNTE9DX2NOelJMalZvZWN3bw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 21 Jun 2026 09:10:18 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Partners With ChargeScape To Bring Managed Charging To Its EVs - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network",
+          "Strategic Partnerships"
+        ]
+      },
+      {
+        "title": "US Auto Safety Regulator Opens Probe into almost 115,000 Rivian Automotive, Inc. (RIVN) Vehicles - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT3Y5eHlDZDhhXzU2RzVkMHgwZ2dtWkF1QnNMSmk2V3Z0T3BMazVEY0RaSjZ5TFVJWmxOdXNDR3Z0cXY5clBKbWRVOEpXbllMRmdLZzFycWZiRXllRmxWX3M5ZWNCWW11MzF3LXRKMzNpNl94UGlhQ0t5eWJrNVNNVkpMX3pROHVqQnY5Y2ZBVHAwLVZDc3U4WkdRUmpnWWpmOGt6cFp6ajhPZG83U0FTR3kxRmJJUGF0WGUtcmJxY2FJcHBqbjlDazdWVmpFNzh60gHYAUFVX3lxTE5zRmV4Nmx5Rm1fX0I5c0dYTTZpemRZVlFqSFZlV0xFOEJKcjJsbjk3QnZvVkNtcDZnMEdJMXlUWXlobkc3RkpPMWJMeU15emdHdWNtem5ia0Jja00wV0FkVXlEdDgyeDY1ZHAwT3RRVjJfV0lTR0JwSHFjRmIyblI1dk02OXU0c3RmNVFqUEpoa3JTeVY2NWFWX2NBeHJQcGRlOGhKMEpUMFRxbEQ2cEpQWE1uWEk0Vm9jU0NFUHROVHFVbndjMzM5TDR3ZEE5MTdqM290dzI2NA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 21 Jun 2026 11:48:49 GMT",
+        "score": 0,
+        "snippet": "US Auto Safety Regulator Opens Probe into almost 115,000 Rivian Automotive, Inc. (RIVN) Vehicles - Insider Monkey",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Safety Investigation",
+          "Regulatory"
+        ]
+      },
+      {
+        "title": "The Volvo EX60 and Rivian R2 are here. What to know about these revolutionary EVs - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHhPZlpUaDhRUGZNbGZ5ZWlZTkVxM2NqVnRsdFZQZFlVM1dCeU9WZDFfdmlDVml2WWJ2bjhzVi1hOU92RDN4RUN5TDk1MTdYN01sNktEbWRUX2Yzel9rR2FUM0tDZTdrQThBSU84RTVRVktPUWdrc1VQTWl3RTU5bl9OU1JmekFpdHlvaGw2VdIBlAFBVV95cUxPWW1VeHVMM25nNk9kMVBBXzY5WTM5ZEg2T1VfVWpPNk13ZjFINWtWYlptQkl1UDVhRGVqZlBpV2lkeVpOLTBTYWdDOXBCS1psbDd0dmxlc19jNGJuWW15U3cySWVJaDhTbVZyY0FWa2tVQVRVYVVGOURTZjd0VmxsV1ZuY1ViNlh2WDBiWFBHOXZIaDA2?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sun, 21 Jun 2026 10:07:53 GMT",
+        "score": 0,
+        "snippet": "The Volvo EX60 and Rivian R2 are here. What to know about these revolutionary EVs - ABC News - Breaking News, Latest News and Videos",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Media Coverage"
+        ]
+      },
+      {
+        "title": "Tesla Semi spotted with autonomous validation equipment as the automaker prepares the truck for FSD - Tesla Oracle",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQblpzdnBPbVotVGRrZlgzWDlmUDAydjk1SzR1UDRBcXNOSm1TQ2FVVWhkRnc3alljbU9KQkt0SG5WTnZ6TEFncUgwc2lvUjlvYU1uVnRFcDlCOTM4QzVXbEtPQUx5MURtbFIwXy1fWWQ5WkRnS19Td0w5TWlCZVRsZWNrQjZYbUV5ajFnYmd3WEJJbWdWU2pRajNvbjRwdmdRLV9RZU1fYU1pZmJFM0hWSG5IMHN4NVR6Unp3OENwNGRxLTZtSUdTN3lVWWJqUXp0NkZuc3p3?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Sun, 21 Jun 2026 12:48:57 GMT",
+        "score": 0,
+        "snippet": "Tesla Semi spotted with autonomous validation equipment as the automaker prepares the truck for FSD - Tesla Oracle",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Tesla Competition",
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "\ud83d\udd25 2026 Rivian R1S SHOCKS the SUV Market \u2013 Tesla Should Be Worried!",
+        "url": "https://youtube.com/watch?v=8k8AqCAegNo",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T13:49:47Z",
+        "score": 0,
+        "snippet": "2026 R1S promises improved battery range and ADAS with OTA updates; no specific horsepower/range figures, pricing, launch date, or Tesla Model X/Y competitive comparison despite clickbait title.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Updates",
+          "Competitive Win"
+        ]
+      },
+      {
+        "title": "Does the Rivian R2 have enough storage for your family? #review #rivian",
+        "url": "https://youtube.com/watch?v=wVD0i1touSM",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T13:30:34Z",
+        "score": 0,
+        "snippet": "Rivian R2 provides dual glove boxes, center console USB-C storage, undertrunk compartment, rolldown rear liftgate, and fully foldable seats for comprehensive family cargo capacity.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Storage Features"
+        ]
+      },
+      {
+        "title": "Layoffs at Rivian!",
+        "url": "https://youtube.com/watch?v=WrcZR6RVyMM",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T12:00:14Z",
+        "score": 0,
+        "snippet": "R2 launch succeeding with positive reviews and minimal delivery issues; Rivian laying off 2% of workforce while targeting year-end profitability.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Company Workforce",
+          "Profitability"
+        ]
+      },
+      {
+        "title": "\u041d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0430 \u0434\u0435 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u044f Rivian \u0446\u0435 \u043d\u0435 \u0430\u0432\u0442\u043e \u0446\u0435 \u043a\u043e\u0441\u043c\u0456\u0447\u043d\u0430 \u0440\u0430\u043a\u0435\u0442\u0430 \u043d\u0430 400+ \u043a\u043c",
+        "url": "https://youtube.com/watch?v=IajpEY3tE8A",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T11:53:22Z",
+        "score": 0,
+        "snippet": "\u0420\u043e\u0437\u043a\u043b\u0430\u043b\u0438 Rivian \u043f\u043e \u0433\u0432\u0438\u043d\u0442\u0438\u043a\u0443 \u2014 \u0456 \u0446\u0435 \u0432\u0438\u0433\u043b\u044f\u0434\u0430\u0454 \u043a\u043e\u0441\u043c\u0456\u0447\u043d\u043e \u0425\u043e\u0447\u0435\u0448 \u0442\u0430\u043a\u0438\u0439 \u0441\u043e\u0431\u0456? \u0414\u0435\u0442\u0430\u043b\u0456 \u0442\u0443\u0442: Telegram: 0961006800 ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Product Design",
+          "Engineering"
+        ]
+      },
+      {
+        "title": "New Rivian R1S 835Hp Powerful SUV 7 Seaters EV",
+        "url": "https://youtube.com/watch?v=uZPd3dXJ1-0",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T11:00:19Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Updates"
+        ]
+      },
+      {
+        "title": "\u5f9e\u300c\u7279\u65af\u62c9\u6bba\u624b\u300dRivian\u770b\u61c2IPO\u72c2\u71b1\u80cc\u5f8c\u7684\u81f4\u547d\u4ee3\u50f9\uff01 #ipo #shorts #\u7f8e\u80a1",
+        "url": "https://youtube.com/watch?v=GXtf2KLJGuM",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T10:30:27Z",
+        "score": 0,
+        "snippet": "\u4eca\u5929\u7684 AI \u4e0a\u5e02\u72c2\u71b1\uff0c\u662f\u4e0d\u662f\u5f88\u50cf\u7576\u5e74\u7684\u96fb\u52d5\u8eca\u6ce1\u6cab\uff1f \u6642\u5149\u5012\u56de 2021 \u5e74\u5e95\uff0cRivian \u88ab\u8b7d\u70ba\u6700\u5177\u5a01\u8105\u6027\u7684\u300c\u7279\u65af\u62c9\u6bba\u624b\u300d\uff0c\u639b\u724c\u80cc\u666f ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Company Valuation",
+          "Financial"
+        ]
+      },
+      {
+        "title": "\u2757\ufe0fTESLA OWNER REVIEWS RIVIAN R2 - and it surprised me \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=OFnv35otz_M",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T10:00:26Z",
+        "score": 0,
+        "snippet": "Rivian R2: interior & motorized door well-received, but Autonomy Plus has critical gap\u2014zero city autonomy vs Tesla FSD's city+highway capability.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Autonomy Gap"
+        ]
+      },
+      {
+        "title": "2028 Rivian Grand Touring SUV #luxury #automobile #ytshorts #luxury #bestluxury #carreview",
+        "url": "https://youtube.com/watch?v=5vco0OYdcEc",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T09:08:21Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Future Models"
+        ]
+      },
+      {
+        "title": "New Rivian R1S 835Hp Powerful SUV 7 Seaters EV",
+        "url": "https://youtube.com/watch?v=Z8UlrgGFS9E",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T08:00:25Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Updates"
+        ]
+      }
+    ]
   }
 ]
