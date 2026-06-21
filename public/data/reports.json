@@ -34461,5 +34461,66 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-21T02:14:30.254126Z",
+    "timestamp": "2026-06-21T02:14:30.254126Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Wishful thinking? Probably",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubdwlw/wishful_thinking_probably/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T02:08:03.637Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      }
+    ]
   }
 ]
