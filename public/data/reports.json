@@ -34051,5 +34051,415 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-21T02:03:53.689026Z",
+    "timestamp": "2026-06-21T02:03:53.689026Z",
+    "sentiment": {
+      "positive": 34,
+      "neutral": 42,
+      "negative": 23
+    },
+    "sources": {
+      "news": {
+        "found": 26,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Brand Partnerships",
+      "Build Quality",
+      "Charging Network",
+      "General Inquiry",
+      "Owner Satisfaction",
+      "Product Endorsement",
+      "Purchase Sentiment",
+      "R1S Specs",
+      "R1T",
+      "R2 Demo Drives",
+      "R2 Launch",
+      "R3X Launch",
+      "R3X Performance",
+      "RIVN Stock",
+      "Service Network",
+      "Social Mentions"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Need Advice\u2026",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ubaq2s/need_advice/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T23:29:42.642Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "General Inquiry"
+        ]
+      },
+      {
+        "title": "Did an R2 Demo Drive and Thinking of Canceling my Reservation",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub9yme/did_an_r2_demo_drive_and_thinking_of_canceling_my/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T22:54:27.469Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Demo Drives"
+        ]
+      },
+      {
+        "title": "First R2 (Customer Delivery) in Stealth PPF Wrap - Launch Green Photos \ud83d\udcf8",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ub93kl/first_r2_customer_delivery_in_stealth_ppf_wrap/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-20T22:15:13.435Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Took the demo drive (current R1 owner)",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubd6yb/took_the_demo_drive_current_r1_owner/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T01:30:44.002Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo Drives"
+        ]
+      },
+      {
+        "title": "My demo $0.02",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubd6xn/my_demo_002/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T01:30:42.896Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo Drives"
+        ]
+      },
+      {
+        "title": "Confirmed: R2 Demo Drives for no deposit users restricted to one day prior",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ubcpog/confirmed_r2_demo_drives_for_no_deposit_users/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T01:05:54.329Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo Drives"
+        ]
+      },
+      {
+        "title": "Another demo drive take",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ub9ipl/another_demo_drive_take/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-20T22:34:05.861Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo Drives"
+        ]
+      },
+      {
+        "title": "@angelogiganti.bsky.social (Bluesky): #Rivian is the better product.",
+        "url": "https://bsky.app/profile/did:plc:l7zidxxfckv6mepubdxo7ch2/post/3mor7ivqdmc23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T01:22:59.261Z",
+        "score": 0,
+        "snippet": "#Rivian is the better product.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Product Endorsement"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian Owners Are Learning The Hard Way Why Trucks Have Split Bodywork\n\nhttps://",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mor7dqolah2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T01:20:06.079Z",
+        "score": 0,
+        "snippet": "Rivian Owners Are Learning The Hard Way Why Trucks Have Split Bodywork\n\nhttps://www.evshift.com/477495/rivian-owners-are-learning-the-hard-way-why-trucks-have-split-bodywork/\n\nImagine you owned a pick",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Build Quality"
+        ]
+      },
+      {
+        "title": "@mentalstate.bsky.social (Bluesky): Don\u2019t buy a Rivian either, Bezos.",
+        "url": "https://bsky.app/profile/did:plc:j3cynyhqc4fiyl6khk3to5b7/post/3mor76pknqs2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T01:17:17.164Z",
+        "score": 0,
+        "snippet": "Don\u2019t buy a Rivian either, Bezos.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Purchase Sentiment"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Leg 2 done and dusted! Made it to Freeport, Maine on a single charge to the Rivi",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mor3clpumk24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T00:08:05.861Z",
+        "score": 0,
+        "snippet": "Leg 2 done and dusted! Made it to Freeport, Maine on a single charge to the Rivian Adventure Network chargers at L.L. Bean for some \ud83e\udd9e and \ud83c\udfb6 at the summer concert series\n\nTomorrow we cross the border a",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network"
+        ]
+      },
+      {
+        "title": "@markalancarlson.bsky.social (Bluesky): \u2764\ufe0f my #Rivian",
+        "url": "https://bsky.app/profile/did:plc:mp6pfndezccxejrsmohwx5kl/post/3moqvo7w3jc24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T22:26:59.972Z",
+        "score": 2,
+        "snippet": "\u2764\ufe0f my #Rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Owner Satisfaction"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): Perhaps they need Rivian as a sponsor and not Honda.",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3moqvg6phn22a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T22:22:30.461Z",
+        "score": 5,
+        "snippet": "Perhaps they need Rivian as a sponsor and not Honda.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Partnerships"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqusiz35226",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T22:11:29.872Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Mentions"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqurq6nb226",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T22:11:03.769Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Mentions"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moquqyk77c26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T22:10:39.564Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Mentions"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3moqupohqc226",
+        "source": "bluesky",
+        "publishedAt": "2026-06-20T22:09:54.870Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Mentions"
+        ]
+      },
+      {
+        "title": "2025 Rivian Pickup",
+        "url": "https://youtube.com/watch?v=BVp8ENSbcPM",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T02:00:07Z",
+        "score": 0,
+        "snippet": "The transcript provided contains only song lyrics (\"Let Me Down Slowly\") and no information about the 2025 Rivian Pickup. Please provide the actual video transcript to summarize.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T"
+        ]
+      },
+      {
+        "title": "OpenAI\u3001Anthropic\u79cb\u5b63\u4e0a\u5e02\uff01\u8907\u88fdMeta\u5947\u8e5f\uff0c\u9084\u662f\u91cd\u6f14Rivian\u66b4\u8dcc\uff1f",
+        "url": "https://youtube.com/watch?v=vnolNdxcDwc",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T02:00:21Z",
+        "score": 0,
+        "snippet": "SpaceX IPO\uff0c\u662f\u4e0b\u4e00\u500bMeta\u9084\u662fRivian\uff1f 2026\u5e746\u6708\uff0c\u5168\u7403\u8cc7\u672c\u5e02\u5834\u8fce\u4f86\u53f2\u4e0a\u6700\u760b\u72c2\u7684\u4e00\u500b\u6708\u3002SpaceX\u6b63\u5f0f\u5728Nasdaq\u6572\u9418\uff0c\u9996\u65e5 ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian to the rescue \ud83d\ude33 #rivian #rivianr1t #ev #tesla",
+        "url": "https://youtube.com/watch?v=24PDG71NtNE",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T01:58:01Z",
+        "score": 0,
+        "snippet": "Rivian commits to 75-80% field mobile service coverage with roadside repair; CEO differentiates on ownership experience vs. competitors requiring dealership towing.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Service Network"
+        ]
+      },
+      {
+        "title": "Muay Thai Argentina: \u00a1Todos Crecemos Juntos! Rivian Apoya #shorts",
+        "url": "https://youtube.com/watch?v=xqIBftz293A",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T00:57:47Z",
+        "score": 0,
+        "snippet": "El Muay Thai crece en Argentina gracias al esfuerzo de promotores y entrenadores. Sin due\u00f1os, solo progreso compartido.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Partnerships"
+        ]
+      },
+      {
+        "title": "Rivian R1S 3-Month Update: Is Buying Used Actually Worth It?",
+        "url": "https://youtube.com/watch?v=L6L9Vv2-2nU",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T22:15:49Z",
+        "score": 0,
+        "snippet": "2023 R1S Quad Launch consumes as much electricity as Lexus GX 460 uses gas (3-day cycles), plagued by build defects, but aggressive software updates and service mitigate buyer risk.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Build Quality"
+        ]
+      },
+      {
+        "title": "Why Is This Rivian R3X So Addictive? \u26a1\ufe0f",
+        "url": "https://youtube.com/watch?v=CjINwlrvy0E",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T22:05:23Z",
+        "score": 0,
+        "snippet": "Rivian R3X: tri-motor electric hatch with rapidly-transforming modular interior, positioned as rally-inspired off-road adventure vehicle challenging traditional gas-powered SUVs.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R3X Launch"
+        ]
+      },
+      {
+        "title": "New Rivian R1S (2026) - 508km 4 Motors AWD | Exterior And Interior ",
+        "url": "https://youtube.com/watch?v=10jcqJVQdWM",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T22:00:11Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Specs"
+        ]
+      },
+      {
+        "title": "Gjeebs &amp; I Drove The Rivian R2\u2026 Ask Us Anything LIVE",
+        "url": "https://youtube.com/watch?v=tdPvh2zZKU0",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T21:53:12Z",
+        "score": 0,
+        "snippet": "R2 has excellent seat comfort with panoramic glass roof but audible cooling fan noise at level 3; early units show continuous minor defects (seals, cameras, fluid reservoirs) requiring frequent servic",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Build Quality"
+        ]
+      },
+      {
+        "title": "Rivian R3X \u2014 The $50K Electric Car That&#39;s FASTER Than a Porsche (Full Review 2027)",
+        "url": "https://youtube.com/watch?v=cwOSF9loN38",
+        "source": "youtube",
+        "publishedAt": "2026-06-20T19:00:39Z",
+        "score": 0,
+        "snippet": "This Rally-Inspired EV Does 0-60 in Under 3 Seconds \u2014 Rivian R3X Full Breakdown Rivian R3X 2027 \u2014 Everything You NEED ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R3X Performance"
+        ]
+      }
+    ]
   }
 ]
