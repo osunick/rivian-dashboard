@@ -147,6 +147,22 @@ function isDemoDriveFeedback(item: { category?: string; title: string; snippet?:
   return DEMO_DRIVE_TERMS.some(term => text.includes(term));
 }
 
+// Vehicle-dynamics analysis: classify signals into how-it-drives sub-topics.
+const DYNAMICS_TOPICS: { key: string; label: string; terms: string[] }[] = [
+  { key: 'ride', label: 'Ride & Handling', terms: ['ride quality', 'handling', 'cornering', 'body roll', 'ride comfort', 'smooth ride', 'harsh ride', 'composed', 'planted', 'floaty', 'bumpy', 'road feel', 'rides like', 'drives like'] },
+  { key: 'suspension', label: 'Suspension', terms: ['suspension', 'air suspension', 'adaptive damp', 'damper', 'ride height', 'spring rate', 'shock absorber', 'kneel', 'lift mode', 'sag'] },
+  { key: 'steering', label: 'Steering', terms: ['steering', 'turning radius', 'tank turn', 'steering feel', 'on-center', 'lock to lock', 'understeer', 'oversteer'] },
+  { key: 'braking', label: 'Braking & Regen', terms: ['braking', 'brake pedal', 'brakes', 'regen', 'regenerative', 'one-pedal', 'one pedal', 'stopping distance', 'blended brak'] },
+  { key: 'performance', label: 'Acceleration & Power', terms: ['acceleration', '0-60', '0 to 60', '0–60', 'quarter mile', 'launch control', 'quad motor', 'quad-motor', 'tri motor', 'tri-motor', 'dual motor', 'horsepower', 'torque', 'top speed', 'neck snapping', 'neck-snapping'] },
+  { key: 'towing', label: 'Towing & Payload', terms: ['towing', 'tow rating', 'trailer', 'payload', 'hauling', 'gooseneck', 'tongue weight', 'towed'] },
+  { key: 'offroad', label: 'Off-Road & Traction', terms: ['off-road', 'offroad', 'off road', 'rock crawl', 'overland', 'trail', 'terrain', 'ground clearance', 'water wading', 'wading', 'traction', 'articulation', 'approach angle', 'departure angle'] },
+  { key: 'efficiency', label: 'Range & Efficiency', terms: ['range', 'efficiency', 'mpge', 'mi/kwh', 'miles per kwh', 'wh/mi', 'consumption', 'real-world range', 'epa range', 'energy use'] },
+];
+
+function dynamicsText(item: { title: string; snippet?: string; themes?: string[] }) {
+  return `${item.title} ${item.snippet ?? ''} ${(item.themes ?? []).join(' ')}`.toLowerCase();
+}
+
 type InferredSignalTone = 'positive' | 'neutral' | 'risk';
 type InferredToneItem = {
   title: string;
@@ -458,6 +474,30 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
   const datedSignals = scopeItems.filter(item => item.publishedAt);
   const competitiveSignals = scopeItems.filter(item => item.category === 'competitive');
   const demoDriveSignals = scopeItems.filter(isDemoDriveFeedback);
+
+  const dynamicsTopics = DYNAMICS_TOPICS.map(topic => {
+    const matched = scopeItems.filter(item => {
+      const text = dynamicsText(item);
+      return topic.terms.some(term => text.includes(term));
+    });
+    const sent = { positive: 0, neutral: 0, negative: 0 };
+    for (const it of matched) sent[it.sentiment] = (sent[it.sentiment] ?? 0) + 1;
+    return { ...topic, count: matched.length, items: matched, ...sent };
+  })
+    .filter(topic => topic.count > 0)
+    .sort((a, b) => b.count - a.count);
+
+  const dynamicsTotal = new Set(dynamicsTopics.flatMap(t => t.items.map(i => i.url))).size;
+  const topDynamics = dynamicsTopics[0];
+  const mostNegDynamics = [...dynamicsTopics]
+    .filter(t => t.count >= 2)
+    .sort((a, b) => (b.negative / b.count) - (a.negative / a.count))[0];
+  const dynamicsTakeaway = topDynamics
+    ? `Owners and press are talking most about ${topDynamics.label.toLowerCase()} (${topDynamics.count} signal${topDynamics.count !== 1 ? 's' : ''}, ${Math.round((topDynamics.positive / topDynamics.count) * 100)}% positive).` +
+      (mostNegDynamics && mostNegDynamics.negative > 0 && mostNegDynamics.key !== topDynamics.key
+        ? ` ${mostNegDynamics.label} draws the most criticism (${Math.round((mostNegDynamics.negative / mostNegDynamics.count) * 100)}% negative).`
+        : '')
+    : '';
   const issueItems: DrillDownItem[] = autonomyIssues.map(issue => ({
     title: issue.title,
     url: issue.url,
@@ -683,6 +723,48 @@ export default function DashboardPage({ searchParams }: { searchParams: { scope?
             )}
           </Card>
         </div>
+
+        <Card title="Vehicle dynamics" meta={`${dynamicsTotal} signal${dynamicsTotal !== 1 ? 's' : ''} · ${dynamicsTopics.length} topics`}>
+          {dynamicsTopics.length > 0 ? (
+            <>
+              <div className="grid gap-x-8 gap-y-3.5 sm:grid-cols-2">
+                {dynamicsTopics.map(topic => (
+                  <DrillDown
+                    key={topic.key}
+                    title={topic.label}
+                    items={topic.items}
+                    label="Vehicle Dynamics"
+                    description={`Signals discussing ${topic.label.toLowerCase()} in the current scope, newest first.`}
+                    footerSuffix={`· ${topic.label}`}
+                    className="group block w-full text-left"
+                  >
+                    <div className="mb-1.5 flex items-center justify-between text-[14px] text-claude-text/90">
+                      <span className="transition-colors group-hover:text-marvel-red">{topic.label}</span>
+                      <span className="font-mono-num text-[13px] text-claude-muted">
+                        {topic.count}
+                        <span className="ml-1.5 text-[11px] text-claude-muted/60">{Math.round((topic.positive / topic.count) * 100)}%+</span>
+                      </span>
+                    </div>
+                    <div className="flex h-1.5 overflow-hidden rounded-full bg-claude-border/30">
+                      <div style={{ width: `${(topic.positive / topic.count) * 100}%`, background: '#2DD4A7' }} />
+                      <div style={{ width: `${(topic.neutral / topic.count) * 100}%`, background: '#8B8F99' }} />
+                      <div style={{ width: `${(topic.negative / topic.count) * 100}%`, background: '#F0453A' }} />
+                    </div>
+                  </DrillDown>
+                ))}
+              </div>
+              {dynamicsTakeaway && (
+                <p className="mt-5 border-t border-white/[0.06] pt-4 text-[14px] leading-relaxed text-claude-text/80">
+                  {dynamicsTakeaway}
+                </p>
+              )}
+            </>
+          ) : (
+            <div className="text-base leading-relaxed text-claude-muted">
+              No vehicle-dynamics signals (ride, handling, suspension, braking, power, towing, off-road, range) are in scope yet.
+            </div>
+          )}
+        </Card>
 
         <div className="grid gap-4 xl:grid-cols-[1fr]">
           <Card title="Recent signals" meta="by publish date">
