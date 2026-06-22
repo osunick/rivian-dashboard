@@ -35730,5 +35730,332 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-22T02:01:23.792149Z",
+    "timestamp": "2026-06-22T02:01:23.792149Z",
+    "sentiment": {
+      "positive": 50,
+      "neutral": 33,
+      "negative": 16
+    },
+    "sources": {
+      "news": {
+        "found": 18,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Austin Presence",
+      "Brand Advocacy",
+      "Brand Culture",
+      "Customer Experience",
+      "EV Market",
+      "Feature Request",
+      "General Discussion",
+      "Industry Position",
+      "Launch Rollout",
+      "Leadership Story",
+      "Market Sentiment",
+      "Market Share",
+      "Model Timing",
+      "Owner Community",
+      "R1S Purchase",
+      "R1T Battery",
+      "R1T Drivetrain",
+      "R1T Marketing",
+      "R2 Aftermarket",
+      "R2 Competition",
+      "R2 Demo",
+      "R2 Enthusiasm",
+      "R2 Ergonomics",
+      "R2 Range",
+      "R2 Retail",
+      "RIVN Stock",
+      "Regional Market",
+      "Reliability Issue",
+      "Road Trip"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian under the suns heat",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uc7eeo/rivian_under_the_suns_heat/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T01:45:53.718Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "General Discussion"
+        ]
+      },
+      {
+        "title": "I test drove the R2 today",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uc6y26/i_test_drove_the_r2_today/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T01:23:22.332Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo",
+          "Customer Experience"
+        ]
+      },
+      {
+        "title": "Buy an R1S now, wait for 2027, or wait for Gen 3?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uc6q99/buy_an_r1s_now_wait_for_2027_or_wait_for_gen_3/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T01:12:42.817Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Purchase",
+          "Model Timing"
+        ]
+      },
+      {
+        "title": "Rivian R2, or Hyundai Ionic ?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uc4gwe/rivian_r2_or_hyundai_ionic/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T23:27:06.759Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Competition",
+          "Market Share"
+        ]
+      },
+      {
+        "title": "R1T Gen 1 - Sudden Battery Capacity Drop",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uc3s5r/r1t_gen_1_sudden_battery_capacity_drop/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-21T22:55:52.262Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T Battery",
+          "Reliability Issue"
+        ]
+      },
+      {
+        "title": "R2 and short riders",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uc3jcq/r2_and_short_riders/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-21T22:44:30.890Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Ergonomics"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Day 3: 370 miles from Freeport, ME to Alma, NB via Saint John and the Fundy Bay ",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3motpxqjkck2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T01:23:15.265Z",
+        "score": 0,
+        "snippet": "Day 3: 370 miles from Freeport, ME to Alma, NB via Saint John and the Fundy Bay Parkway and National Park. 0 moose but countless memories in our @rivianofficial R1S for a fantastic Father\u2019s Day togeth",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Range",
+          "Road Trip"
+        ]
+      },
+      {
+        "title": "@vulcantech.bsky.social (Bluesky): I enjoyed it very much! It\u2019s a fun sized Rivian for a fun sized boy like me.",
+        "url": "https://bsky.app/profile/did:plc:w3jwv5tcjdwlf6ecz2w4vlxg/post/3motnairq7k2k",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T00:34:08.570Z",
+        "score": 1,
+        "snippet": "I enjoyed it very much! It\u2019s a fun sized Rivian for a fun sized boy like me.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Enthusiasm",
+          "Brand Advocacy"
+        ]
+      },
+      {
+        "title": "@rankednews.bsky.social (Bluesky): Two new electric SUVs from Volvo and Rivian could electrify sales: Volvo and Riv",
+        "url": "https://bsky.app/profile/did:plc:42han5exrxyrgdsbwosrp7sy/post/3motlkius3r2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T00:03:57.161Z",
+        "score": 0,
+        "snippet": "Two new electric SUVs from Volvo and Rivian could electrify sales: Volvo and Rivian are betting heavily on their new electric midsize SUVs to reshape the U.S. EV market. The 2027 Volvo EX60, debuting ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "EV Market",
+          "Industry Position"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Friends In Low Places\n\nMevie finds all sorts of @Rivian friends in parking lots.",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3motl4e3w7e27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T23:56:03.364Z",
+        "score": 1,
+        "snippet": "Friends In Low Places\n\nMevie finds all sorts of @Rivian friends in parking lots. There's no badging too. Our LA silver never got Rivians parked nearby.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Owner Community",
+          "Brand Culture"
+        ]
+      },
+      {
+        "title": "@eschewobfuscation.bsky.social (Bluesky): living in the greater Austin area I can see a dozen anytime I make a grocery run",
+        "url": "https://bsky.app/profile/did:plc:fj3wqslk7n77ofito4hoizbk/post/3motkpcybn22c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T23:48:44.863Z",
+        "score": 1,
+        "snippet": "living in the greater Austin area I can see a dozen anytime I make a grocery run. just let's me know who the assholes are. there are also three times as many of the cars, they are everywhere, I don't ",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Regional Market",
+          "Austin Presence"
+        ]
+      },
+      {
+        "title": "@jlohaylo.bsky.social (Bluesky): Just saw a rivian with a license plate \u201cElon M\u201d which seems a weird choice",
+        "url": "https://bsky.app/profile/did:plc:7jdil57y4j2vewdvn2jwshqg/post/3moti5f4drs2p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T23:02:55.463Z",
+        "score": 0,
+        "snippet": "Just saw a rivian with a license plate \u201cElon M\u201d which seems a weird choice",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Culture"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Facebook Marketplace Find:  Rivian R2 headlights!?!?!?\n\nLink:  www.facebook.com/",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mothaf3q5f2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T22:46:42.769Z",
+        "score": 1,
+        "snippet": "Facebook Marketplace Find:  Rivian R2 headlights!?!?!?\n\nLink:  www.facebook.com/marketplace/...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Aftermarket"
+        ]
+      },
+      {
+        "title": "@timonus.mastodon.social.ap.brid.gy (Bluesky): Walnut Creek Rivian location has the R2!",
+        "url": "https://bsky.app/profile/did:plc:55r2arpk7ragft6bxdfautfb/post/3motgvd4hdpu2",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T22:40:34.068Z",
+        "score": 0,
+        "snippet": "Walnut Creek Rivian location has the R2!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Retail",
+          "Launch Rollout"
+        ]
+      },
+      {
+        "title": "@marcus36933.bsky.social (Bluesky): Rivian electric truck drivetrain needs to be upgraded with regenerative accelera",
+        "url": "https://bsky.app/profile/did:plc:mup4wzj67w3j3rix2ojm4yl2/post/3motfll7zw22h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-21T22:17:13.870Z",
+        "score": 0,
+        "snippet": "Rivian electric truck drivetrain needs to be upgraded with regenerative acceleration technology, which recharges #EV batteries while driving, without slowing down the vehicle . \ne-vehicleinfo.com/unli",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T Drivetrain",
+          "Feature Request"
+        ]
+      },
+      {
+        "title": "2-Day Yosemite National Park Roadtrip | Rivian R1T Roadtrip",
+        "url": "https://youtube.com/watch?v=EFwi7tfcDaA",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T01:17:54Z",
+        "score": 0,
+        "snippet": "Interested in getting a R1T or R1S? Use my code to receive Rivian credits toward accessories in the gear shop and 3 months of ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Marketing",
+          "Road Trip"
+        ]
+      },
+      {
+        "title": "RJ Scaringe and the Quiet Road to Rivian",
+        "url": "https://youtube.com/watch?v=cX2KzjJDzW8",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T00:00:15Z",
+        "score": 0,
+        "snippet": "A concise narrative of RJ Scaringe's Rivian journey and the lessons it teaches ambitious founders. Real strategies and tangible ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Leadership Story"
+        ]
+      },
+      {
+        "title": "Rivian Surging! $16.52 (+1.60%) | Market Analysis #Shorts",
+        "url": "https://youtube.com/watch?v=EQSqxWf30Ew",
+        "source": "youtube",
+        "publishedAt": "2026-06-21T22:27:25Z",
+        "score": 0,
+        "snippet": "Rivian is up and it could go much higher. Here's why. Rivian just hit $16.52 after a sharp 1.60% up move today. This kind of ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Market Sentiment"
+        ]
+      }
+    ]
   }
 ]
