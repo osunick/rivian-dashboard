@@ -22,10 +22,14 @@ from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 
-REPORTS_FILE = os.path.join(os.path.dirname(__file__), '..', 'public', 'data', 'reports.json')
+SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
+REPORTS_FILE = os.path.join(SCRIPT_DIR, '..', 'public', 'data', 'reports.json')
 PT = ZoneInfo('America/Los_Angeles')
 TODAY_PT = datetime.now(PT).date()
-SCRIPT_DIR = os.path.dirname(__file__)
+DEFAULT_YOUTUBE_API_KEY_FILE = os.path.join(
+    os.path.dirname(os.path.dirname(SCRIPT_DIR)),
+    'youtube_api_key',
+)
 
 # ---------------------------------------------------------------------------
 # Utilities
@@ -445,6 +449,21 @@ YT_SUMMARY_CAP = 6          # max videos to summarize per run (bounds runtime/co
 YT_TRANSCRIPT_MAXCHARS = 8000
 YT_TRANSCRIPT_DELAY = 2.0   # seconds between transcript fetches (avoid YouTube IP throttling)
 
+def get_youtube_api_key():
+    api_key = os.environ.get('YOUTUBE_API_KEY')
+    if api_key:
+        return api_key.strip()
+
+    key_file = os.environ.get('YOUTUBE_API_KEY_FILE', DEFAULT_YOUTUBE_API_KEY_FILE)
+    try:
+        with open(os.path.expanduser(key_file)) as f:
+            return f.read().strip() or None
+    except FileNotFoundError:
+        return None
+    except Exception as e:
+        print(f"[fetch_gamefilm] YouTube: could not read YOUTUBE_API_KEY_FILE: {e}", file=sys.stderr)
+        return None
+
 def fetch_transcript(video_id):
     """Return plain-text transcript, or None. Raises RuntimeError on IpBlocked so
     the caller can short-circuit the rest of the run."""
@@ -492,9 +511,9 @@ def summarize_youtube_video(video_id, title):
 
 def fetch_youtube():
     items = []
-    api_key = os.environ.get('YOUTUBE_API_KEY')
+    api_key = get_youtube_api_key()
     if not api_key:
-        print("[fetch_gamefilm] YouTube: YOUTUBE_API_KEY not set — skipping", file=sys.stderr)
+        print("[fetch_gamefilm] YouTube: API key not configured — skipping", file=sys.stderr)
         return items
 
     try:
