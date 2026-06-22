@@ -1,4 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { reports } from '@/lib/data';
+import newsletterRaw from '@/public/data/newsletter.json';
 
 export const dynamic = 'force-dynamic';
 
@@ -42,6 +44,57 @@ function resolveUrl(candidate: string, base: string) {
   }
 }
 
+function isHttpUrl(url: URL) {
+  return url.protocol === 'http:' || url.protocol === 'https:';
+}
+
+function isBlockedHost(hostname: string) {
+  const host = hostname.toLowerCase();
+  if (
+    host === 'localhost' ||
+    host.endsWith('.localhost') ||
+    host === 'metadata.google.internal'
+  ) {
+    return true;
+  }
+
+  if (/^\d+\.\d+\.\d+\.\d+$/.test(host)) {
+    const [a, b] = host.split('.').map(Number);
+    return (
+      a === 0 ||
+      a === 10 ||
+      a === 127 ||
+      (a === 169 && b === 254) ||
+      (a === 172 && b >= 16 && b <= 31) ||
+      (a === 192 && b === 168)
+    );
+  }
+
+  return host === '::1' || host.startsWith('fc') || host.startsWith('fd') || host.startsWith('fe80');
+}
+
+function collectNewsletterUrls() {
+  const urls: string[] = [];
+  const newsletter = newsletterRaw as {
+    sections?: Array<{ items?: Array<{ links?: Array<{ url?: string }> }> }>;
+  };
+
+  for (const section of newsletter.sections ?? []) {
+    for (const item of section.items ?? []) {
+      for (const link of item.links ?? []) {
+        if (link.url) urls.push(link.url);
+      }
+    }
+  }
+
+  return urls;
+}
+
+const allowedPreviewUrls = new Set([
+  ...reports.flatMap(report => (report.items ?? []).map(item => item.url).filter(Boolean)),
+  ...collectNewsletterUrls(),
+]);
+
 export async function GET(req: NextRequest) {
   const rawUrl = req.nextUrl.searchParams.get('url')?.trim();
   if (!rawUrl) {
@@ -50,6 +103,9 @@ export async function GET(req: NextRequest) {
 
   try {
     const parsedUrl = new URL(rawUrl);
+    if (!isHttpUrl(parsedUrl) || isBlockedHost(parsedUrl.hostname) || !allowedPreviewUrls.has(parsedUrl.toString())) {
+      return NextResponse.json({ kind: 'none' }, { status: 403 });
+    }
 
     if (isDirectImageUrl(parsedUrl.toString())) {
       return NextResponse.json({
@@ -70,6 +126,10 @@ export async function GET(req: NextRequest) {
     });
 
     const resolvedUrl = response.url || parsedUrl.toString();
+    const resolved = new URL(resolvedUrl);
+    if (!isHttpUrl(resolved) || isBlockedHost(resolved.hostname)) {
+      return NextResponse.json({ kind: 'none' }, { status: 403 });
+    }
 
     // Aggregator pages (e.g. Google News) only expose a generic logo — skip them.
     if (isGenericNewsAggregator(resolvedUrl)) {

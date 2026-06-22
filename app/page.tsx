@@ -365,8 +365,9 @@ function Card({
   );
 }
 
-export default function DashboardPage({ searchParams }: { searchParams: { scope?: string } }) {
-  const scope = (searchParams.scope ?? 'latest') as 'latest' | '7d' | 'all';
+export default async function DashboardPage({ searchParams }: { searchParams: Promise<{ scope?: string }> }) {
+  const params = await searchParams;
+  const scope = (params.scope ?? 'latest') as 'latest' | '7d' | 'all';
   const latest = getLatestReport();
   const scopedReports = getScopeReports(scope).reports;
   const failedScans = allReports.filter(report => report.scanError);

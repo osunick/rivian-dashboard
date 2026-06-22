@@ -492,7 +492,11 @@ def summarize_youtube_video(video_id, title):
 
 def fetch_youtube():
     items = []
-    api_key = os.environ.get('YOUTUBE_API_KEY') or 'AIzaSyCx9gzTAUh28B-nuyj37wFPqAEekTDjg2Q'
+    api_key = os.environ.get('YOUTUBE_API_KEY')
+    if not api_key:
+        print("[fetch_gamefilm] YouTube: YOUTUBE_API_KEY not set — skipping", file=sys.stderr)
+        return items
+
     try:
         import urllib.parse
         params = urllib.parse.urlencode({
