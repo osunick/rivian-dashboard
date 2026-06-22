@@ -1,15 +1,15 @@
 {
-  "edition": 1,
+  "edition": 2,
   "title": "GameFilm Weekly — Rivian Intelligence",
-  "subtitle": "R2 deliveries and demo drives go nationwide while RJ Scaringe doubles down on robotics and a hard-dated autonomy roadmap—even as core software (digital key, audio) keeps frustrating owners.",
-  "weekStart": "2026-06-13",
-  "weekEnd": "2026-06-19",
-  "generatedAt": "2026-06-20T02:33:22.208584+00:00",
-  "signalCount": 745,
+  "subtitle": "R2's public debut dominated the week — strong first-drive reviews collided with sticker shock and 'adventure brand needs cell signal' criticism, while RJ Scaringe staked out a 2026 self-driving claim against Tesla.",
+  "weekStart": "2026-06-16",
+  "weekEnd": "2026-06-22",
+  "generatedAt": "2026-06-22T15:01:38.942147+00:00",
+  "signalCount": 762,
   "sentiment": {
-    "positive": 295,
-    "neutral": 234,
-    "negative": 216
+    "positive": 282,
+    "neutral": 249,
+    "negative": 231
   },
   "sections": [
     {
@@ -17,52 +17,76 @@
       "heading": "Top Storylines",
       "items": [
         {
-          "headline": "R2 deliveries begin and demo drives open the floodgates",
-          "body": "The first R2s are landing with buyers while demo drives spun up at Spaces nationwide (King of Prussia, Dallas, and more), and early hands-on reviews skew positive on build quality and performance. Cross-shoppers are explicitly comparing it against Model Y, BMW iX, and used R1s—signaling R2 is now the default consideration in the sub-$60k premium-EV bracket. For PMs, the conversion question shifts from 'will people want it' to 'how fast can supply and the funnel keep up,' and every demo is now a first impression that the software has to live up to.",
+          "headline": "R2 hits the street: first customer delivery, first independent drives",
+          "body": "The first customer R2 showed up in the wild this week and reviewers got hands-on, with hands-on impressions broadly positive — praising handling and cabin space versus Model Y, haptic wheel controls, dual gloveboxes, and an ~80%-complete natural-language assistant. For a PM, the signal is that the core product resonates; the risk is that the experience narrative is now being set by trade-offs reviewers keep flagging (fixed rear window, no wood trim, flimsy charge port) rather than by the drive itself. Expect these specific cut-corners to anchor early buyer expectations.",
           "links": [
             {
-              "label": "R2 deliveries start (Startup Fortune)",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0d4RGZYcm5JZnZtcVp3SW9zZkQ2UDhva2VPMHY1Z1dQeUE1N015SFNJV25KamFiX0FYaWM3MjZ4QWRhQ0IyYUw3TEswNjZtY3lQbVJhclpMT0lBVXQyQTlnWTg5d1ozNHJnU3cwZTVGVDhLeTF3Y1Y4SUNteks0ZU1FbVV5Z180RFdlX3NpTQ?oc=5"
+              "label": "First customer R2 (Bluesky)",
+              "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3modt3jnahg2c"
             },
             {
-              "label": "Test drove R2 from a BMW iX (r/Rivian)",
-              "url": "https://www.reddit.com/r/Rivian/comments/1u53eah/test_drove_the_r2_coming_from_a_bmw_ix/"
+              "label": "R2 vs Model Y test drive",
+              "url": "https://youtube.com/watch?v=5NRaBqeKopY"
             },
             {
-              "label": "R2 @ Dallas space (r/Rivian)",
-              "url": "https://www.reddit.com/r/Rivian/comments/1u51gyj/r2_dallas_space/"
+              "label": "Standard $44,999 walkthrough",
+              "url": "https://youtube.com/watch?v=iwXv6vdjMl8"
             }
           ]
         },
         {
-          "headline": "Scaringe's $1B+ robotics bet reframes Rivian as more than a truck maker",
-          "body": "RJ confirmed Mind Robotics, a humanoid-robotics company he quietly started late last year that's already raised over $1B, with framing pointedly contrasted against Musk's Optimus: customer-funded, contract-backed (Amazon by 2026) execution over prototype hype. This dominated the week's earned media and amplified the narrative that Rivian's moat is vertical engineering, not just vehicles. PMs should expect leadership attention, talent, and R&D narrative to increasingly span automotive + robotics—and watch for shared platform/AI investments that the vehicle roadmap can ride on.",
+          "headline": "Price and financing are the friction, not the product",
+          "body": "Multiple signals converged on affordability anxiety: the headline $44,999 Standard climbs fast to $57,990 for a usable trim, lease pricing put off prospective buyers ('needs more like $$$$'), and one analysis pegged R2's inferred lease APR at ~10% versus 5.28% on the R1S — making the pricier R1S arguably better value at low R2 volumes. The PM takeaway: the conversion story hinges on financing optics as much as MSRP. Watch for the gap between reservation enthusiasm and actual order conversion.",
           "links": [
             {
-              "label": "Scaringe's robotics approach (CNBC)",
-              "url": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
+              "label": "R2 lease price reaction",
+              "url": "https://bsky.app/profile/did:plc:fgwuipl2ygjoy2ptdli7fwgs/post/3moe36t2a5c2y"
             },
             {
-              "label": "Build slow, sell fast—no Musk hype (YouTube)",
-              "url": "https://youtube.com/watch?v=mIax5pZ6s9o"
+              "label": "Can you afford the R2?",
+              "url": "https://youtube.com/watch?v=b4K3OdYCo60"
+            },
+            {
+              "label": "Patrick George seeking R2 lease shoppers",
+              "url": "https://bsky.app/profile/did:plc:wg5zd5hs7waoaaozcdnbqw6v/post/3modlao42wk24"
             }
           ]
         },
         {
-          "headline": "Autonomy roadmap gets real dates—and in-house silicon",
-          "body": "At Masters of Scale, RJ put concrete timing on autonomy: point-to-point this year, eyes-off next year, paired with a custom in-house autonomy chip (announced in December) that moves core self-driving hardware away from third-party vendors. The LiDAR R2 variant is coming, but messaging stresses that fleet data trains a shared AI model improving all vehicles—so non-LiDAR buyers aren't left behind. This is the clearest competitive answer yet to Tesla's FSD/robotaxi push and sets expectations PMs will be measured against.",
+          "headline": "RJ stakes a 2026 self-driving claim — and the 'adventure brand needs a signal' contradiction",
+          "body": "Scaringe said supervised, hands-free point-to-point driving ships late 2026 with eyes-off coming in 2027, framed by press as Rivian 'breaking Tesla's autonomy monopoly.' But skeptics note current highway assist still struggles with complex intersections, and the same week surfaced a sharper brand contradiction: the R2's radio (and connected features) reportedly need cell signal the wilderness doesn't have. For an off-road-positioned product, connectivity-dependent UX is a strategic vulnerability worth getting ahead of.",
           "links": [
             {
-              "label": "RJ's autonomy timeline (Bluesky/RivianTrackr)",
-              "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mo7knqoq4s2q"
+              "label": "Scaringe on supervised self-driving (BI)",
+              "url": "https://bsky.app/profile/did:plc:azsiq6a5plbpa7ekw7pdrnum/post/3moe7hzjuyo2u"
             },
             {
-              "label": "Custom autonomy chip (YouTube)",
-              "url": "https://youtube.com/watch?v=ayQy8gaEQHI"
+              "label": "R2 radio needs cell signal",
+              "url": "https://bsky.app/profile/did:plc:j62xrjmgon4ekaf7jjwr4iow/post/3modsuhe7ck26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🤖",
+      "heading": "Autonomy & ADAS",
+      "items": [
+        {
+          "headline": "Owners are bridging the autonomy gap with Comma AI — at real risk",
+          "body": "While Rivian's native self-driving is still quarters away, Gen1 owners cheered angle-based steering now working on Comma, and a new Comma Extreme Dev Kit dropped — but one R1T owner reported the truck stuck in Park after installing Comma 4. This is a leading indicator: a vocal slice of owners is technically impatient enough to graft third-party ADAS onto the vehicle, creating both a support/liability surface and a clear feature-demand signal for the native roadmap.",
+          "links": [
+            {
+              "label": "Angle-based steering on Comma (Gen1)",
+              "url": "https://www.rivianforums.com/forum/threads/angle-based-steering-now-working-on-comma-for-gen-1-rivians.57914/"
             },
             {
-              "label": "Don't wait for the LiDAR R2 (YouTube)",
-              "url": "https://youtube.com/watch?v=P9rLD9BM0Y4"
+              "label": "Comma 4 — R1T stuck in Park",
+              "url": "https://www.rivianforums.com/forum/threads/installed-comma-4-ai-and-now-r1t-stuck-in-park.59326/"
+            },
+            {
+              "label": "Comma Extreme Dev Kit available",
+              "url": "https://www.rivianforums.com/forum/threads/comma-extreme-dev-kit-now-available.59106/"
             }
           ]
         }
@@ -73,34 +97,30 @@
       "heading": "Vehicles & Product",
       "items": [
         {
-          "headline": "R2's cost-down engineering is a deliberate value play",
-          "body": "Teardown-style reviews highlight that R2 swaps the R1's McLaren-derived suspension for coil springs and removes motorized touches (powered console, electronic charge port) to cut cost and maintenance—while keeping tri-motor torque vectoring that's hard to match at $45k. Some reveal-era features were cut (non-folding seats noted). The read for PMs: R2 is positioned as practical-first for value-conscious families, so messaging and feature prioritization should lean into durability and everyday utility over spec-sheet flash.",
+          "headline": "R2 trade-offs becoming the review narrative",
+          "body": "Beyond price, the recurring critiques are tangible: a $775 spare tire as an add-on, missing AM/FM radio, and connectivity-dependent features. These are individually small but collectively shape the 'premium feel vs. nickel-and-dimed' perception that will define R2 against a Model Y cross-shopper. Worth deciding which of these become OTA-fixable talking points versus permanent spec gaps.",
           "links": [
             {
-              "label": "How R2 improved on R1S (YouTube)",
-              "url": "https://youtube.com/watch?v=nSmZYKkbrjg"
+              "label": "R2 spare tire costs $775",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2NyMXQ1ZmtyVjZZNUN4YkRyUTF3dElnMlN6MWhIbG8teGM2T1I5ZTNTZ3pBajdTRHpIRm1lb0poYk9sUnNEZGJpLXQzNkNaNldSN0ZVeGU5eU5TUWJEZGpGNUVPczQ4NjRFVG5BNFBoMmNVRmc0d2JNblhOWXlmajVHeWE3ZjQ?oc=5"
             },
             {
-              "label": "Production model vs reveal (YouTube)",
-              "url": "https://youtube.com/watch?v=PlNdpen50Dk"
-            },
-            {
-              "label": "Top 10 R2 features (YouTube)",
-              "url": "https://youtube.com/watch?v=z4fgy4a9GO0"
+              "label": "Automotive News: stable step right direction",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrbVNtMDdiOFpxS1JaZk9OWGNEbFV2VUI2WThNT3pGV3lUSVBCRDJ5TTFYRUhjbU5VaURmVkd1SThVYThTWGpJV0JjZjhMdUFSUTFVSGFaRjU2cl9rTjFiN1RVN09vckgtUVpBUkFEZFlBS1FTQndSUg?oc=5"
             }
           ]
         },
         {
-          "headline": "Signature hardware features are winning word-of-mouth",
-          "body": "Owners keep evangelizing Rivian's physical differentiators—Gear Guard's integrated locking cable is reportedly the #1 customer inquiry, and clever touches like HVAC venting into the bed for camping draw outsized praise. These are cheap-to-celebrate moats competitors can't easily copy. PMs should ensure R2 carries forward (and markets) these identity features even amid cost-cutting.",
+          "headline": "R1 ownership credibility stays a quiet strength",
+          "body": "A detailed 2-year/24,000-mile R1S report and a 1,500-mile towing run (cheaper than gas despite range loss) reinforce the long-haul ownership case that R2 marketing can lean on. Counter-signal: scattered Gen2 quality gripes (weak seat ventilation, full audio loss on a 2026 R1T). The durable-ownership story is an asset; the build-quality long tail is the thing that erodes it.",
           "links": [
             {
-              "label": "Gear Guard cable feature (YouTube)",
-              "url": "https://youtube.com/watch?v=HlZ7LYVbHQM"
+              "label": "2-year R1S ownership report",
+              "url": "https://www.reddit.com/r/Rivian/comments/1u6j59l/my_2_year_experience_with_r1s_24000_miles/"
             },
             {
-              "label": "HVAC into the bed (YouTube)",
-              "url": "https://youtube.com/watch?v=gD2s0B5_aOA"
+              "label": "R1T towed 1,500 mi, beat gas cost",
+              "url": "https://www.reddit.com/r/electricvehicles/comments/1u6iiqe/a_rivian_r1t_towed_a_big_trailer_1500_miles/"
             }
           ]
         }
@@ -111,46 +131,20 @@
       "heading": "Software & Tech",
       "items": [
         {
-          "headline": "Digital key and audio complaints undercut the premium pitch",
-          "body": "Owners are publicly venting that the iOS digital key is 'an absolute disaster,' alongside camera/mirror errors and weak native audio that drives people to bypass Rivian's EQ with Spotify's. These are exactly the touchpoints a demo-drive customer hits first, so unresolved infotainment and access-control friction directly threatens R2 conversion. Worth flagging: an in-depth R2 audio test vs Polestar's B&W system shows owners are actively benchmarking sound quality against premium rivals.",
+          "headline": "'Features coming later' bet leans entirely on Rivian's OTA reputation",
+          "body": "Owners openly noted R2 ships with an interesting set of features not available at launch — and are giving Rivian the benefit of the doubt based on its update track record. That trust is real equity but also a clock: a skeptic framed Rivian as 'Tesla a few years back — aura plus a growing spec/feature laggard at a high price.' Delivering the post-launch software cadence is what keeps that critique from sticking.",
           "links": [
             {
-              "label": "Digital key disaster, iOS (r/Rivian)",
-              "url": "https://www.reddit.com/r/Rivian/comments/1u4qev3/digital_key_is_an_absolute_disaster_ios/"
+              "label": "Trust in post-launch updates",
+              "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3modkleby7s25"
             },
             {
-              "label": "Stereo fix workaround (YouTube)",
-              "url": "https://youtube.com/watch?v=glPUZOnS9R0"
+              "label": "'Spec laggard at high price' critique",
+              "url": "https://bsky.app/profile/did:plc:a6j7zgrmn7cs3hxtv52n42vm/post/3modro2nstc22"
             },
             {
-              "label": "R2 audio vs Polestar B&W (r/Rivian)",
-              "url": "https://www.reddit.com/r/Rivian/comments/1u4wziv/in_depth_r2_audio_test_with_eq_settings_compared/"
-            }
-          ]
-        },
-        {
-          "headline": "Small app gaps generate recurring owner asks",
-          "body": "Direct feature requests to @rivianofficial—like showing range as battery percent (not miles) in the app trip planner to match the in-vehicle setting—reflect easy, high-goodwill polish wins. Consistency between app and vehicle is low-cost and disproportionately visible to engaged owners.",
-          "links": [
-            {
-              "label": "App planner percent vs miles (Bluesky)",
-              "url": "https://bsky.app/profile/did:plc:hohh3jdjluqeaynxglb7jobk/post/3mo6lukmguc26"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "emoji": "⚔️",
-      "heading": "Competitive Watch",
-      "items": [
-        {
-          "headline": "Tesla escalates autonomy claims while shipping safety headlines",
-          "body": "Tesla is now officially describing Robotaxi as SAE Level 4 and got Supervised FSD (Level 2++) approved in Belgium—raising the regulatory and marketing bar Rivian's autonomy story is judged against. At the same time, an Autopilot-through-a-garage-door incident keeps the safety-perception door open. Rivian's measured, data-and-dates framing is a credible counter, but the gap in deployed L4 messaging is the thing to neutralize.",
-          "links": [
-            {
-              "label": "Tesla Robotaxi as SAE L4 (DriveTeslaCanada)",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODhzNWNsMUhtUFhkY0ZnZ2FKNW41TU1QZmY3SGJQdll0c1Nhak53RXZYNExGY2JERUJNSGJNV29fWG1MRGcwSE9ESWVrSEwwTmU1ZzNkU2tZdURvejFLMEQycl9JTjRjSEV1MDhFczRTd1pQMV92Nm5fQmctbExQNQ?oc=5"
+              "label": "Leasing now includes Minnesota",
+              "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3modl3bhlsl2n"
             }
           ]
         }
@@ -161,16 +155,16 @@
       "heading": "Business & Markets",
       "items": [
         {
-          "headline": "R2 launch becomes the RIVN turnaround thesis",
-          "body": "Coverage this week frames R2 as the pivot from niche-luxury to volume producer, with the stock's narrative explicitly riding on launch execution and 'is it time to buy' takes proliferating. Macro tailwind chatter (higher oil prices favoring EVs) adds to the bull case. The implication for product: launch quality and ramp metrics are now read directly as financial signals, so early delivery satisfaction and software stability carry market consequences.",
+          "headline": "R2 launch reframes the investment thesis — execution still the question",
+          "body": "Coverage tied R2 launch, a 5G partnership, and Georgia expansion into a renewed bull case, with on-time June 9–10 deliveries cited as proof of execution credibility. But options sentiment stayed mixed and a community voice captured the bear worry: Rivian may survive yet keep running net-negative. The PM-relevant thread: every product milestone is now being read as a financial-viability signal, so launch polish has outsized narrative weight.",
           "links": [
             {
-              "label": "R2 launch puts turnaround on the line (TechStock²)",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTA3N1RtUldEOXYxSEVqZlVOSFJPbnB5Um5UcjBmY0ZBMmFjMnE0STA2RzNVRU9kbXFMazAzZHJuT0tXeUx5QjF4MzNFeDJaMFo2QjNlUGhYZldtMjhGME1ZYTlfLWcwcmZBZzhkdzUxcldwRkpFS0ljekNqVHprakE1VzhjcDl5SG11dm9kbw?oc=5"
+              "label": "R2, 5G, Georgia — RIVN case",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemNEQmNiU0ZNQ0FHU1hacFJkdzlSczN6ZDRJMC1nNWEzekxaUk1wV0trODE4RzZYalBOd2R0aHFKZlctaGdocHFBZ0FEc2o1UnpYZENIR096TmY2SjBuRWhjVjhwSXBPZmxNamZ4bXB5QTNSNjRwMUF0Z0VLWWRnX3ppbU4wM1pt?oc=5"
             },
             {
-              "label": "Time to buy with R2 deliveries? (Bluesky)",
-              "url": "https://bsky.app/profile/did:plc:hxjzi7mnsedfpxcz7ebinndv/post/3mo75mathdl2j"
+              "label": "Is now the time to buy RIVN?",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHFhaEpCdTZDVzFSX3p3Uk1ienBQdzB6SnUxdnJPOHRDODh3VjRad1ZmQk90TTFxc2lWdXItWkZpZlQ5VmNmM29sZG9zWVhmWm40REpWVVVId0VRZEJENnAzeEZycmpZei1lYkpwLXktQUhZLWdfRnRZa3gyLWJMVFpqTVBqSlhSQmM3WFZ2eFVqM0xpOG5N?oc=5"
             }
           ]
         }
@@ -181,16 +175,26 @@
       "heading": "Community & Owners",
       "items": [
         {
-          "headline": "Service footprint and ownership costs stay top of mind",
-          "body": "Owners flagged a new service center coming to Redwood City and shared everyday wins (flawless first use of the onboard air compressor, free all-weather mats for 2026 R1S)—but also sticker shock on a $500 service bill and 12V battery woes. As R2 multiplies the fleet, service capacity and predictable ownership costs become a churn and CSAT lever PMs should track alongside the vehicle itself.",
+          "headline": "Owners are building the integrations Rivian hasn't shipped",
+          "body": "With no CarPlay and gaps in the native app, an owner built an unofficial Homebridge plugin to precondition the truck via Siri during the summer heat — echoing the recurring 'No CarPlay? at least give us a weather app' frustration. This DIY energy is a gift and a warning: passionate enough to extend the platform, frustrated enough that the absence of basic integrations is now a repeated talking point.",
           "links": [
             {
-              "label": "New Redwood City service center (Bluesky)",
-              "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mo7bdr3h3s2d"
+              "label": "Homebridge/Siri preconditioning plugin",
+              "url": "https://www.reddit.com/r/Rivian/comments/1u6uwxr/built_out_an_unofficial_homebridgerivian_plugin/"
             },
             {
-              "label": "Air compressor flawless (r/Rivian)",
-              "url": "https://www.reddit.com/r/Rivian/comments/1u4vnhg/first_time_using_the_air_compressorflawless_easy/"
+              "label": "No CarPlay, how about a weather app?",
+              "url": "https://www.reddit.com/r/Rivian/comments/1u6je37/no_carplay_okay_how_about_a_weather_app/"
+            }
+          ]
+        },
+        {
+          "headline": "Direct-sales model still a live owner grievance",
+          "body": "Anti-dealer sentiment ran hot, with owners praising Rivian's direct-buy experience as '1000x better' while noting franchise laws still block purchases in several states. It's a reminder that distribution friction — not just product — gates R2's mainstream-volume ambitions in specific geographies.",
+          "links": [
+            {
+              "label": "Dealer laws block Rivian/Tesla sales",
+              "url": "https://bsky.app/profile/did:plc:pntaam2f62mdrjqmiwgmwb4h/post/3moeotslolk2o"
             }
           ]
         }
@@ -198,12 +202,11 @@
     }
   ],
   "watchList": [
-    "R2 delivery-ramp pace and whether demo-drive demand converts to orders as launch-edition wait times stretch",
-    "First wave of R2 owner software feedback—especially digital key, cameras, and audio—as the fleet scales",
-    "Any concrete Mind Robotics milestones (Amazon deployment, funding, shared platform/AI with vehicles)",
-    "Autonomy proof points against RJ's stated timeline: point-to-point this year, plus custom-chip progress",
-    "Tesla's L4 Robotaxi rollout and FSD regulatory wins as the competitive autonomy benchmark",
-    "RIVN sentiment tied to launch execution and the higher-oil-prices EV-demand narrative",
-    "Service-center expansion and ownership-cost complaints as the fleet grows post-R2"
+    "R2 order-to-conversion rate as lease/financing sticker shock collides with reservation enthusiasm",
+    "Whether Rivian ships the late-2026 supervised point-to-point self-driving on schedule — and how it handles complex intersections",
+    "Comma AI adoption on Gen1/Gen2 and any safety incidents (e.g., vehicles stuck in Park) that create liability noise",
+    "Resolution of R2 connectivity-dependent features (radio, app) for an off-road-positioned brand",
+    "Post-launch OTA cadence delivering the 'coming later' R2 features before the 'spec laggard' narrative hardens",
+    "Gen2 build-quality reports (audio loss, seat ventilation) scaling — or not — as deliveries ramp"
   ]
 }
