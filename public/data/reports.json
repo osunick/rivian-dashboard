@@ -36451,5 +36451,500 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-22T18:02:36.667988Z",
+    "timestamp": "2026-06-22T18:02:36.667988Z",
+    "sentiment": {
+      "positive": 26,
+      "neutral": 26,
+      "negative": 46
+    },
+    "sources": {
+      "news": {
+        "found": 30,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 3,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 5,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "App Issues",
+      "Battery Drain",
+      "Battery Issues",
+      "Battery Technology",
+      "Battery Warning",
+      "Brake Issues",
+      "Commercial Vehicles",
+      "Competitive Loss",
+      "Competitive Positioning",
+      "Competitor Struggles",
+      "Customer Disputes",
+      "Design Criticism",
+      "EV9 Competition",
+      "Financial Performance",
+      "Layoffs",
+      "Litigation",
+      "Market Challenges",
+      "Market Demand",
+      "Market Outlook",
+      "Marketing Content",
+      "New Models",
+      "Product Feedback",
+      "R1S Defects",
+      "R1S Review",
+      "R1T Satisfaction",
+      "R2 Availability",
+      "R2 Decline",
+      "R2 Design Criticism",
+      "R2 Launch",
+      "R2 Marketing",
+      "R2 Restructuring",
+      "RIVN Stock",
+      "Retail Presence",
+      "Service Support",
+      "Software Update",
+      "Sports Coupe",
+      "Warranty Support"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Anybody know how to fix squeaky loud breaks? Pads have a ton of life left on them and rotors appear fine. Just started a few weeks ago and won\u2019t go away. R1S quad 2023",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucrhq0/anybody_know_how_to_fix_squeaky_loud_breaks_pads/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T17:44:24.886Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Defects",
+          "Brake Issues"
+        ]
+      },
+      {
+        "title": "Last update triggered 12V battery warning within 12 hours?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucrau2/last_update_triggered_12v_battery_warning_within/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T17:37:03.158Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software Update",
+          "Battery Warning"
+        ]
+      },
+      {
+        "title": "Rivian Outpost - Joshua Tree",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucqoyt/rivian_outpost_joshua_tree/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T17:15:13.793Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Retail Presence"
+        ]
+      },
+      {
+        "title": "Is there an R2 in the Roslyn Long Island Space?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucqjjx/is_there_an_r2_in_the_roslyn_long_island_space/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T17:09:34.839Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Availability"
+        ]
+      },
+      {
+        "title": "Xcelerate Xcare Warranty - How do they pay claims?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucq3az/xcelerate_xcare_warranty_how_do_they_pay_claims/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T16:53:06.200Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Warranty Support"
+        ]
+      },
+      {
+        "title": "Rivian App Battery Drain",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucpk42/rivian_app_battery_drain/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T16:33:53.226Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "App Issues",
+          "Battery Drain"
+        ]
+      },
+      {
+        "title": "Love my R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucn2k1/love_my_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T15:04:28.278Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Satisfaction"
+        ]
+      },
+      {
+        "title": "Rivian: The Right EV Stock To Bank On As R2 Launches (NASDAQ:RIVN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenZJSzFNdm04SzY2M3JEbGF2WlF3ZGNCWHNZWkRXRjVBMnQtek9QY3NOSnhaNTR5NTVCLTM2aW9yaUxJRW5iTURHXzUyZHVGZEF2OWQ0YzRZdG9TejEzeTNZWWE5X3Y0UlVjb0tES2lUakVvbzBUbEQyNTMtSjJUdjFMWUswaGRXaDVzZ0E1S2pJemVWSWFV?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 22 Jun 2026 17:32:09 GMT",
+        "score": 0,
+        "snippet": "Rivian: The Right EV Stock To Bank On As R2 Launches (NASDAQ:RIVN) - Seeking Alpha",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian Stock Is Sliding Monday: What's Driving The Action? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3RWOUhFYTZtYzhmalJKdmd4NzdqbklCMHhvYTAwOWN0dGJ2UHFKVUZiaTlhOXRiZXVBYzAyaFBiM3NFRVJoVWthV3puY0JpZVpCa2Fld3RadG83U3lrcHZLa1IzODJzYnlhNjFFYmpMdWl2NVA5dDliWjc4WHc2Tk9Ic0M0Q0duNGdpX1JZeW44T0RLa1ZvNXBGdGxMVlBpc1Q5YXlTaVJVd1VjOXNNakM0YlVZTFk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 22 Jun 2026 16:55:28 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Is Sliding Monday: What's Driving The Action? - Benzinga",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "RIVN: Shareholders approved all proposals as the company celebrated R2's launch and financial gains - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPM1NNb1VEM0k1dkpuaVRGMUQxLTVGZUVHMGczOFYwdlhyR1Y1cmhQLW54UlVJcThJWnV6cEM1Rk42ejhpYkZsTEMtZ0NnWlEyTVpxWmQ5Qlp0S1d3M3NtVDdwRjI0cDk0ZDNxUk1BVW5qS29IWXktS3dVZllxTmFLUGw1YU1IUTh1ZWZhVGJkZGlNc3N5bENqSlhpWmhoc0xUQnJnOElwZnZCLXRFc1hja3JTTmpIZTJKdDktajNmX0dBNHh6Zm9SOVJvZzhnTldOX29sZmFDaFJ2dVQ0WkZkYU14T0txOFdiU2wzb000OE50ZDZZcUZhTDhGblEyUEZqcjV4QktjMW1kUDdYSVFTLVNPTQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 22 Jun 2026 17:29:14 GMT",
+        "score": 0,
+        "snippet": "RIVN: Shareholders approved all proposals as the company celebrated R2's launch and financial gains - TradingView",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Financial Performance"
+        ]
+      },
+      {
+        "title": "Why Some Rivian Owners Are Taking a Page From Tesla and Suing the Company - inc.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlBNTWE0ajc3Vmlmck1Pdk9uSF80UmFDOGtFQy0tN2dSLWRuUV9NS1VsalRrdFFUSGhOOUMyMnRYMWprMGJ5TjhLVmQ3cWJ0UVdzQWZiWHkxWEdRUGdzU3Z5dV9SZzZCVE5YdFNLamZZQVBUcGZfNFcyN3IyOXN3ZmVTN3N2RTVmWi1ZSFZGZDFBNzk2NUtmams2TFpGLUVxZ3pNZG05NU1uU0lKQ0tJWjF2UW9pUWc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Mon, 22 Jun 2026 16:08:49 GMT",
+        "score": 0,
+        "snippet": "Why Some Rivian Owners Are Taking a Page From Tesla and Suing the Company - inc.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Litigation",
+          "Customer Disputes"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): We compared the ID.Buzz, EX90, R1S, EV9 and ended up with the EV9 because it did",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3movgpwwpuk2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T17:42:50.706Z",
+        "score": 0,
+        "snippet": "We compared the ID.Buzz, EX90, R1S, EV9 and ended up with the EV9 because it didn\u2019t make sense to pay more for less (features, room, etc) and take longer on road trips, Rivian and Tesla just hoofing a",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Loss",
+          "EV9 Competition"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Drove all weekend with these new sodium ion batteries. No issues! #rivian",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3movcn2fmcc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T16:29:38.467Z",
+        "score": 1,
+        "snippet": "Drove all weekend with these new sodium ion batteries. No issues! #rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Battery Technology"
+        ]
+      },
+      {
+        "title": "@iwalkthetalk.bsky.social (Bluesky): @ Rivian\n@ Toyota\n@ Mazda\n@ Nissan\n@ Hyundai\n@ Mitsubishi\n\nCreate an Electric Ur",
+        "url": "https://bsky.app/profile/did:plc:yfjru3og3skecb5ygz2huvrh/post/3movcjeziyc22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T16:27:35.764Z",
+        "score": 0,
+        "snippet": "@ Rivian\n@ Toyota\n@ Mazda\n@ Nissan\n@ Hyundai\n@ Mitsubishi\n\nCreate an Electric Urban-Sized Small Pickup the same size and layout as the 1995 Toyota Tacoma or the Mazda B2000.\n\nHomeowners living in a ci",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Product Feedback"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Frequent layoffs at lucid and Rivian, that\u2019s just not much demand for expensive ",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3movbx5sm3s2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T16:17:23.563Z",
+        "score": 0,
+        "snippet": "Frequent layoffs at lucid and Rivian, that\u2019s just not much demand for expensive premium anything, and not selling EVs, today, well below $40k is a klaxon of untenable EV makers.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs",
+          "Market Demand"
+        ]
+      },
+      {
+        "title": "@mvij.org (Bluesky): What I don\u2019t like about the boxy Rivian R2 hood",
+        "url": "https://bsky.app/profile/did:plc:qadlgs4xioohnhi2jg54mqds/post/3movbslqi5k2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T16:14:50.167Z",
+        "score": 0,
+        "snippet": "What I don\u2019t like about the boxy Rivian R2 hood",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Design Criticism"
+        ]
+      },
+      {
+        "title": "@markstretch.bsky.social (Bluesky): And, ironically, lost that thread of \"normal looking\" to Rivian when they attemp",
+        "url": "https://bsky.app/profile/did:plc:jo7u2owqjuhuhhto7afqbus3/post/3movbcv6onc24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T16:06:03.561Z",
+        "score": 1,
+        "snippet": "And, ironically, lost that thread of \"normal looking\" to Rivian when they attempted truckage.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Design Criticism"
+        ]
+      },
+      {
+        "title": "@trendalertstox.bsky.social (Bluesky): RIVN | Rivian (NASDAQ):\n\ud83d\udd3d RIVN is DOWN today by 5.93% (16.52 -> low 15.54)",
+        "url": "https://bsky.app/profile/did:plc:2etirfyqqgrsbe7nibl4eyx3/post/3mov6bvsbrj2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T15:11:49.367Z",
+        "score": 0,
+        "snippet": "RIVN | Rivian (NASDAQ):\n\ud83d\udd3d RIVN is DOWN today by 5.93% (16.52 -> low 15.54)",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@patrickgeorge.bsky.social (Bluesky): Meanwhile, Gravity sales aren't exactly lifting the startup's fortunes. Lucid's ",
+        "url": "https://bsky.app/profile/did:plc:wg5zd5hs7waoaaozcdnbqw6v/post/3mov5sj32ps2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T15:03:15.471Z",
+        "score": 6,
+        "snippet": "Meanwhile, Gravity sales aren't exactly lifting the startup's fortunes. Lucid's delivered about 2,800 of the SUVs through May, about half what the Kia EV9 has done and 3x less than the Rivian R1S.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Competitor Struggles"
+        ]
+      },
+      {
+        "title": "@horadam.bsky.social (Bluesky): Feels like 2026 is the year Rivian finally settles existential questions, but Lu",
+        "url": "https://bsky.app/profile/did:plc:rp4rgamibrblojq7f7pgmuxc/post/3mov3elvkvs22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T14:19:38.560Z",
+        "score": 15,
+        "snippet": "Feels like 2026 is the year Rivian finally settles existential questions, but Lucid probably has a pretty rough go of things  thru this decade and odds are it doesn't survive as an independent company",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Outlook"
+        ]
+      },
+      {
+        "title": "Rivian laying off hundreds",
+        "url": "https://youtube.com/watch?v=hYmfqTvwHGM",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T17:18:39Z",
+        "score": 0,
+        "snippet": "Rivian laying off hundreds For more Local News from WEEK: https://www.25newsnow.com/ For more YouTube Content: ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "Rivian laying off hundreds, hinting assembly line workers in Normal not included",
+        "url": "https://youtube.com/watch?v=Zcfb6tn7P2w",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T17:18:39Z",
+        "score": 0,
+        "snippet": "Rivian laying off ~300 (mostly sales/support staff) while protecting assembly line to launch R-2, restructuring to improve profitability.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Layoffs",
+          "R2 Restructuring"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Is Everything Tesla Should Be... Or Is It?",
+        "url": "https://youtube.com/watch?v=DMFBsyk-evc",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T16:37:21Z",
+        "score": 0,
+        "snippet": "2027 R2 starts at $44.9k\u2013$49.9k, targets Tesla Model Y segment with 345-mile range, 3.6s 0-60 performance trim, and Autonomy Plus hardware supporting future hands-free/LAR capabilities.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Competitive Positioning"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1s EV | Review",
+        "url": "https://youtube.com/watch?v=10QvnvfNTS4",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T16:13:07Z",
+        "score": 0,
+        "snippet": "The provided transcript contains only song lyrics and music cues with no product specifications, pricing, launch timing, autonomy features, or competitive information about the 2026 Rivian R1s EV.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Review"
+        ]
+      },
+      {
+        "title": "The Ultimate Mark Rober Rivian | R2",
+        "url": "https://youtube.com/watch?v=GJy6p-75jAk",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T16:07:57Z",
+        "score": 0,
+        "snippet": "Marketing video promoting Rivian R2 customization with no product specs, pricing, autonomy data, or competitive intelligence disclosed.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Marketing"
+        ]
+      },
+      {
+        "title": "NEUER 2027 Rivian Sports Coupe \u2013 Dieses Elektro-Coup\u00e9 wird Deutschland \u00fcberraschen!",
+        "url": "https://youtube.com/watch?v=-W6vy8jvGhY",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T16:00:03Z",
+        "score": 0,
+        "snippet": "NEUER 2027 Rivian Sports Coupe \u2013 Dieses Elektro-Coup\u00e9 wird Deutschland \u00fcberraschen! 2027 Rivian Sports Coupe, Rivian ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "New Models",
+          "Sports Coupe"
+        ]
+      },
+      {
+        "title": "NEXT LEVEL! 2027 Rivian R2 Why Is Rivian Experiencing a Decline? Market Challenges Unveiled",
+        "url": "https://youtube.com/watch?v=93VvGKYRqmA",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T16:00:39Z",
+        "score": 0,
+        "snippet": "NEXT LEVEL! 2027 Rivian R2 Why Is Rivian Experiencing a Decline? Market Challenges Unveiled The 2027 Rivian R2 is ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Market Challenges",
+          "R2 Decline"
+        ]
+      },
+      {
+        "title": "Rivian Amazon van #rivian #amazon #tow #deadbattery #hookhappy #lifeisbutadream",
+        "url": "https://youtube.com/watch?v=_CEGPT2BwEE",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T15:36:45Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Commercial Vehicles",
+          "Battery Issues"
+        ]
+      },
+      {
+        "title": "Rivian oque voc\u00ea precisa saber!  #rivian #mans\u00e3omaronba #automobile #toguro #shots",
+        "url": "https://youtube.com/watch?v=e-J1pD4Lkys",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T14:57:26Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Marketing Content"
+        ]
+      },
+      {
+        "title": "Rivian \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0456\u044f performance, \u0432\u043f\u0430\u044e\u0432\u0430\u043d\u043d\u044f SIM, \u0454\u0432\u0440\u043e \u043b\u0456\u0445\u0442\u0430\u0440\u0456, \u0437\u043d\u044f\u0442\u0442\u044f \u043a\u0440\u0430\u0448\u0456\u0432, \u0437\u0431\u0456\u043b\u044c\u0448\u0435\u043d\u043d\u044f \u0431\u0430\u0442\u0430\u0440\u0435\u0457",
+        "url": "https://youtube.com/watch?v=q_QnoAwPNts",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T14:31:02Z",
+        "score": 0,
+        "snippet": "Rivian repair online / rivianservice.com.ua \u26a1 Rivian Repair Online \u2713 \u041e\u0431\u043d\u0443\u043b\u044f\u0454\u043c\u043e \u043a\u0440\u0430\u0448-\u0434\u0430\u043d\u0456 \u0432 \u0443\u0441\u0456\u0445 \u0431\u043b\u043e\u043a\u0430\u0445 \u043f\u0456\u0441\u043b\u044f \u0414\u0422\u041f ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Service Support"
+        ]
+      }
+    ]
   }
 ]
