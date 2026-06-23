@@ -38417,5 +38417,296 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-23T18:01:35.062162Z",
+    "timestamp": "2026-06-23T18:01:35.062162Z",
+    "sentiment": {
+      "positive": 37,
+      "neutral": 31,
+      "negative": 31
+    },
+    "sources": {
+      "news": {
+        "found": 16,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Accessories",
+      "Charging Network",
+      "Competitive Advantage",
+      "Competitive Comparison",
+      "Competitive Positioning",
+      "Customer Response",
+      "Customer Satisfaction",
+      "EV Market",
+      "Financial Performance",
+      "Pricing",
+      "Product Quality",
+      "Product Strategy",
+      "R1T Review",
+      "R2 Launch",
+      "R2 Off-Road",
+      "R2 Performance",
+      "R2 Test Drive",
+      "R2 Testing",
+      "RIVN Stock",
+      "Software Updates",
+      "Waypoints"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Must Have Accessories",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udmbxb/must_have_accessories/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T16:41:44.458Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Accessories"
+        ]
+      },
+      {
+        "title": "Rivian Waypoints - Petoskey State Park, Michigan",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udjym4/rivian_waypoints_petoskey_state_park_michigan/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T15:15:29.120Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network",
+          "Waypoints"
+        ]
+      },
+      {
+        "title": "A more balanced take after test driving R2 and MYP on the same day.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1udkaxm/a_more_balanced_take_after_test_driving_r2_and/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-23T15:28:02.695Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Testing",
+          "Competitive Comparison"
+        ]
+      },
+      {
+        "title": "Jim Cramer on Rivian: \u201cIt\u2019s Losing Too Much Money, Sorry\u201d - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUh6ZEtCc0lNeUs0WjNJRnFZX19MVXIzWEc1enlHaVdiV1MteGpJVjVPUTcwcE40YTk3TXI4WjFhb1JjeFFieGR0VkdfQVZzX3VhYWZsbXoxaTNSOUhpZm1KUlhHMy1ielA1b21jUnpqODlWMTc3aWM4cVJrUTF5NjJQSHBBaHRYRmpYckZjYTY0MjlhWEczQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 23 Jun 2026 14:41:20 GMT",
+        "score": 0,
+        "snippet": "Jim Cramer on Rivian: \u201cIt\u2019s Losing Too Much Money, Sorry\u201d - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "Financial Performance"
+        ]
+      },
+      {
+        "title": "Tesla Declines 5% While Lucid and Rivian Hold Steady: What's Going On With EV Stocks Today? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlBEZGI4Z1NCeWlsODZrRDBId0pib1g2LUtkcEFQVVZKWm9UdkJPM1RCZmZvUXJaeUhxUUNuY0RONmpzXzgxSkZVMVUxMld2RFNwYjFaeGsxNXA0QXdrWGstdXVtWXhVaVFPQ3FYOXNxMGpCaDBSOTN2X3ZPN0lqWGdnTERma2d5OG0tZWtlcjBSRFd0MzRIb3AySWdlajB3LVNTNzVsa3FlUzZLd0tIMlprQjZFWXYzWGtiMVBacWFBUzU3Q1lLOThBSQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 23 Jun 2026 16:06:12 GMT",
+        "score": 0,
+        "snippet": "Tesla Declines 5% While Lucid and Rivian Hold Steady: What's Going On With EV Stocks Today? - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Jim Cramer on Rivian: \u201cIt\u2019s Losing Too Much Money, Sorry\u201d - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmRXRnBFaVdRcXNiX1ZUeEVsVXhjMkxSMDdMUy1Tb0h1cWFTZEZvLVc0YTJUX1UyODVoSWxlZm1ycThrRlU2Z0FTYzg3dUNQdUlZNllYeVZUVy1rNnM5UHB2SXBHSWgzSFNxdjdqV05JbHI3NFdWR0Q1b1hvUURRclMxVjNzU0x5MGFDYThFcVBtcGdWN2NQRnlNMkvSAaQBQVVfeXFMUHpvZzVMTVczZngtVW1HQ1BZNDJZbFhCZ3BWVWRic2wxU1AyVkFBUzc2MmJ0RGM4T2pLR2FON0hwLTVEVnJLMkc5NlVWZExJQkEyY2Y4RDZwOWZZRm5LNzFvLUg4ZlhDTTRJV2lhdFpaVE1HUS16UkNQT1Rval81R2RJVjR4a1IzX1BZY1lGSHRzd09YYXZjQjBlYWRRRmpaZElONFc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 23 Jun 2026 14:48:49 GMT",
+        "score": 0,
+        "snippet": "Jim Cramer on Rivian: \u201cIt\u2019s Losing Too Much Money, Sorry\u201d - Insider Monkey",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "Financial Performance"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s make-or-break SUV is here. Fans are already balking at the lease price. - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNNzFQMzB5MHVsOXBodmJCTmt6dy1pd3JxTGFFQUMwWGlheXF5MU9aTFZEdm1uVmpqZTNsNno5VWw4NnkxMHByOVEzbW1IS21QZTlqNVhRYnR4a0Q3eWJiUmhEQ3BFT2FRUklQOGZEVTJCb1NMaWZtaEN0ZklvZ01XLVZ1NlA4RXZWTVZsXzhXZWoyMTVCaVhYb1EwMDhCUWgtQ0lBZWpOYTV6Y3dHdGo3Y2JhYm5idE1RSmNWak55NnNUSVFaalNkVlJrbWxDZXNfbmxmVkpHb0had2g3Sm81UmFrSVFXVUdvZWFJU0g5MHQ2a0Jnd3NNQmZNRGJGM21RUjVqS21YS0JLbkpTeEF5ckE5ajJmV01wYURZem9teGNyd1FZYU91MG8xZ3loQ3JLOElvbXQ2aGV5WmlHR2pmQklLXzN4OG96NU4tUGRJRy1jbnN4Y3RTS2FfOHhPT0E0RUZNXzd4alZnYmxvQTZzLWxjWjR4eEE?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 23 Jun 2026 13:14:25 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s make-or-break SUV is here. Fans are already balking at the lease price. - MSN",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Pricing"
+        ]
+      },
+      {
+        "title": "Rivian Update 2026.15.30 has BUGS!!!",
+        "url": "https://youtube.com/watch?v=w2yOsOC1L70",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T17:32:20Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software Updates",
+          "Product Quality"
+        ]
+      },
+      {
+        "title": "The first true Model Y killer is here #tesla #rivian",
+        "url": "https://youtube.com/watch?v=Hw6c5v3MWdE",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T17:15:32Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Competitive Advantage"
+        ]
+      },
+      {
+        "title": "Rivian R1T #carreview #performancecars #autoreview #southmotorcarworld #carenthusiast#vehiclereview",
+        "url": "https://youtube.com/watch?v=OTyZR0uu5sI",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T17:15:21Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T Review"
+        ]
+      },
+      {
+        "title": "RIVIAN KILLED ITS CHEAP TRUCK \ud83d\udc80 (Here&#39;s Why That&#39;s Bad)",
+        "url": "https://youtube.com/watch?v=54UYkzUc8-A",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T17:06:38Z",
+        "score": 0,
+        "snippet": "Rivian just discontinued the $67500 R1T and $70000 R1S to make room for the $45K R2\u2014but the math doesn't add up.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Product Strategy",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Teste Drive do Rivian o SUV el\u00e9trico incr\u00edvel! #mans\u00e3omaronba #automobile #rivian #el\u00e9trico #toguro",
+        "url": "https://youtube.com/watch?v=vpeDpJc6Y54",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T15:08:07Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Test Drive",
+          "Customer Response"
+        ]
+      },
+      {
+        "title": "RJ Scaringe and Chris Evans agree not to argue over the\u00a0price of the new Rivian R2 \ud83d\ude99\ud83d\ude24\ud83e\udd1d\u00a0@Rivian",
+        "url": "https://youtube.com/watch?v=qycSkD09zsA",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T15:00:37Z",
+        "score": 0,
+        "snippet": "Virgin Radio UK's Instagram: https://www.instagram.com/virginradiouk Virgin Radio UK's Facebook: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 2027 \u2014 656 \u043b\u043e\u0448\u0430\u0434\u0435\u0439, 530 \u043a\u043c \u0437\u0430\u043f\u0430\u0441\u0430 \u0445\u043e\u0434\u0430, \u0431\u044b\u0441\u0442\u0440\u0435\u0435 Ferrari #\u0430\u0432\u0442\u043e\u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
+        "url": "https://youtube.com/watch?v=Qc86Sswap-M",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T14:38:50Z",
+        "score": 0,
+        "snippet": "Rivian R2 2027 \u2014 656 \u043b\u043e\u0448\u0430\u0434\u0435\u0439, 530 \u043a\u043c \u0437\u0430\u043f\u0430\u0441\u0430 \u0445\u043e\u0434\u0430, \u0431\u044b\u0441\u0442\u0440\u0435\u0435 Ferrari Enzo \u0437\u0430 46 000 \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432: \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0446\u044b \u0441\u0434\u0435\u043b\u0430\u043b\u0438 \u0442\u043e, ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Performance",
+          "Competitive Positioning"
+        ]
+      },
+      {
+        "title": "Rivian R2 Off-Road Review: Can It Handle Real Mountains?",
+        "url": "https://youtube.com/watch?v=4xe1I9Cdh8w",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T14:18:53Z",
+        "score": 0,
+        "snippet": "My Rivian R2 First Drive Review: https://youtu.be/F8ii1R5aAMM?si=tB9fw9XDPQASoCZn Use my \"STATEOFCHARGE\" coupon to ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Off-Road"
+        ]
+      },
+      {
+        "title": "It took me 15 years of filmmaking to buy this",
+        "url": "https://youtube.com/watch?v=DdU4pXxzpnQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T14:02:24Z",
+        "score": 0,
+        "snippet": "It's my birthday so I bought a Truck. I still pinch myself in moments like this because I can't believe that filmmaking has provided for ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Satisfaction"
+        ]
+      }
+    ]
   }
 ]
