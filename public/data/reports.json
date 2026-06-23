@@ -38350,5 +38350,72 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-23T14:04:07.684097Z",
+    "timestamp": "2026-06-23T14:04:07.684097Z",
+    "sentiment": {
+      "positive": 100,
+      "neutral": 0,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Charging Network",
+      "Mobile Charger"
+    ],
+    "summary": "Check out this slick 3D printable mount for the Rivian Mobile Charger (J1772).\n\nLink:  buff.ly/JwB481O",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Check out this slick 3D printable mount for the Rivian Mobile Charger (J1772).\n\n",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3moxkssxpi72t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T14:01:21.372Z",
+        "score": 0,
+        "snippet": "Check out this slick 3D printable mount for the Rivian Mobile Charger (J1772).\n\nLink:  buff.ly/JwB481O",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Mobile Charger",
+          "Charging Network"
+        ]
+      }
+    ]
   }
 ]
