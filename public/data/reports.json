@@ -37384,5 +37384,339 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-23T02:03:32.669461Z",
+    "timestamp": "2026-06-23T02:03:32.669461Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 50,
+      "negative": 30
+    },
+    "sources": {
+      "news": {
+        "found": 20,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Amazon Partnership",
+      "Autonomy Features",
+      "Competitive Threat",
+      "Customer Satisfaction",
+      "Demo Drive",
+      "Direct Sales",
+      "EV Market",
+      "Product Quality",
+      "R1S Comparison",
+      "R1S Features",
+      "R2 Features",
+      "R2 Interest",
+      "R2 Launch",
+      "R2 Reception",
+      "RIVN Stock",
+      "RVA Production",
+      "Rivian Gear"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R1S Forest Edge or R2? Help!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ud1x0x/r1s_forest_edge_or_r2_help/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T00:24:36.106Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Interest"
+        ]
+      },
+      {
+        "title": "R1S Forest Edge or R2? Help!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ud1wta/r1s_forest_edge_or_r2_help/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T00:24:36.106Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Interest"
+        ]
+      },
+      {
+        "title": "Hot take: The R2 is\u2026 boring",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ud0cbl/hot_take_the_r2_is_boring/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T23:16:49.382Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Reception"
+        ]
+      },
+      {
+        "title": "God, this is exactly why I love buying directly from the manufacturer.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uczu0d/god_this_is_exactly_why_i_love_buying_directly/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T22:56:09.517Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Direct Sales",
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "R2 - ride modes",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uczn22/r2_ride_modes/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T22:48:07.804Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Features"
+        ]
+      },
+      {
+        "title": "Still confused about autonomy. Please help!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ucyuca/still_confused_about_autonomy_please_help/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-22T22:16:04.716Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy Features"
+        ]
+      },
+      {
+        "title": "Yet another R2 Demo Drive: Why don\u2019t y\u2019all tell me I needed heated seats?!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ucyxho/yet_another_r2_demo_drive_why_dont_yall_tell_me_i/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-22T22:19:32.981Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Demo Drive"
+        ]
+      },
+      {
+        "title": "Another Demo Drive review",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ucyvjr/another_demo_drive_review/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-22T22:17:23.320Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drive"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDhDWEQwNGlnWVlENzhwVGhpVVNxVWMtbXZUSGZIdkhhSmZTWmtlSktBcTJNaWIzbUhpNGNNWVlhbUdBUWxnaTVpdUdVaDFCRzl5cF9qTmFtRXVKUHVPWmQxVElySEtqeXphRkFFUE5mMWY4NGNMT0c3Q3AwTjFnQUJCVnYzbmt4TE0wM05aRkdvUG10Z0xXTmp6bHd5UQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 22 Jun 2026 21:50:05 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Is Rivian Automotive Stock A Smart Buy Right Now? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelV4VmFOYjN4a2xDM1h2SW5MNWkzNktQQWdxVXpHN1RXWDMyZUV6ZTNBbFlxcFZTWF9LUUU2WGoyYmtxM1U1endtN3NVdjF5YVBGb0JfcGllNjlJUF9vTVVEeVByWDdUVU1QbVdGVlF5a3F3V1l1WEpSdWRFdTJqWHZXRk1hTGoxMjJpYUFyQVRpczh2RzdfVUg2YTFoMGNJZTY1ZFpGanZoTjBOdGc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 23 Jun 2026 01:34:25 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Automotive Stock A Smart Buy Right Now? - Trefis",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@meliquec.bsky.social (Bluesky): youtube.com/shorts/LuCPb...\nThis vehicle will definitely give Tesla and Rivian a",
+        "url": "https://bsky.app/profile/did:plc:yvcxqu5mqb2mt3ulta5rldee/post/3mow7nvzdp22d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T01:09:06.372Z",
+        "score": 0,
+        "snippet": "youtube.com/shorts/LuCPb...\nThis vehicle will definitely give Tesla and Rivian a run for their money. I hope this electric truck comes to market asap.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threat"
+        ]
+      },
+      {
+        "title": "@oregonian.com (Bluesky): The electric vehicles were located on a lot leased to Rivian, according to Portl",
+        "url": "https://bsky.app/profile/did:plc:hhqzjk3wuvan75wdnacitt2m/post/3mow3styyck2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T00:00:16.863Z",
+        "score": 7,
+        "snippet": "The electric vehicles were located on a lot leased to Rivian, according to Portland Fire and Rescue.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "RVA Production"
+        ]
+      },
+      {
+        "title": "@mjhowson.bsky.social (Bluesky): Of the dozen cars I\u2019ve owned, the best service I ever had was with Tesla. Steale",
+        "url": "https://bsky.app/profile/did:plc:yscrzry6o5vpdarv6fl6wrra/post/3movyng632c2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T23:03:33.267Z",
+        "score": 0,
+        "snippet": "Of the dozen cars I\u2019ve owned, the best service I ever had was with Tesla. Stealerships are horrible. Most service and repairs and recalls could be done via mobile. Hoping Rivian has success.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Direct Sales"
+        ]
+      },
+      {
+        "title": "@carterwickstrom.bsky.social (Bluesky): and zoox and tesla and rivian and toyota and",
+        "url": "https://bsky.app/profile/did:plc:r7u7br57m63eillhrq57uz7d/post/3movyachet22h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T22:56:13.362Z",
+        "score": 1,
+        "snippet": "and zoox and tesla and rivian and toyota and",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@jonvw4.bsky.social (Bluesky): Never mind, it's moving again...\n\nRivian must really make those vans solid.",
+        "url": "https://bsky.app/profile/did:plc:52gy2tvytetceugz2lscwbky/post/3movx2y3vf22i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T22:35:20.967Z",
+        "score": 0,
+        "snippet": "Never mind, it's moving again...\n\nRivian must really make those vans solid.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Product Quality",
+          "RVA Production"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has added a \"Grinds Polo Shirt\" to the Gear Shop.\n\nLink:  gearshop.rivian",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3movvtkqtx32x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-22T22:13:18.461Z",
+        "score": 0,
+        "snippet": "Rivian has added a \"Grinds Polo Shirt\" to the Gear Shop.\n\nLink:  gearshop.rivian.com/products/gri...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Gear"
+        ]
+      },
+      {
+        "title": "Hidden Rivian feature? #rivian",
+        "url": "https://youtube.com/watch?v=oKhysmQg5Gw",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T01:30:26Z",
+        "score": 0,
+        "snippet": "Hidden Rivian feature! Notice we said hidden not secret?! We love the torch on our Rivian R1S! #rivian #rivianr1s #adventure ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Features"
+        ]
+      },
+      {
+        "title": "Who\u2019s made the switch, is it worth it? #tesla #teslaprice #rivian #electriccar",
+        "url": "https://youtube.com/watch?v=1MIIiXMI-T4",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T23:54:56Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Comparison"
+        ]
+      },
+      {
+        "title": "How Rivian Builds Amazon&#39;s Electric Delivery Van From Scratch \u26a1\ud83d\ude90 #usa",
+        "url": "https://youtube.com/watch?v=dcYJa9zCdmQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T23:30:30Z",
+        "score": 0,
+        "snippet": "That blue van delivering your Amazon package? It started as a flat sheet of steel inside a Rivian factory in Normal, Illinois \u2014 and ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "RVA Production",
+          "Amazon Partnership"
+        ]
+      },
+      {
+        "title": "RIVN Dropping! #Shorts #RIVN",
+        "url": "https://youtube.com/watch?v=0_eQdwueeYI",
+        "source": "youtube",
+        "publishedAt": "2026-06-22T22:51:59Z",
+        "score": 0,
+        "snippet": "Rivian's 8.6% stock drop stems from investor worries over R2 launch, weaker EV demand, forced price cuts, and financial losses.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "R2 Launch"
+        ]
+      }
+    ]
   }
 ]
