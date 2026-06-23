@@ -38708,5 +38708,431 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-23T22:01:30.128147Z",
+    "timestamp": "2026-06-23T22:01:30.128147Z",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 33,
+      "negative": 25
+    },
+    "sources": {
+      "news": {
+        "found": 27,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Charging Infrastructure",
+      "Competitive Position",
+      "Customer Privacy",
+      "Customer Service",
+      "Industry Speculation",
+      "Mobile App",
+      "Product Discontinuation",
+      "Product Strategy",
+      "R1 Accessories",
+      "R1 Configuration",
+      "R1S Comparison",
+      "R1S Maintenance",
+      "R1S Pricing",
+      "R1S Reviews",
+      "R1T Performance",
+      "R1T Reviews",
+      "R2 Demo Drive",
+      "R2 Launch",
+      "R2 Pricing",
+      "R2 Reviews",
+      "R3 Anticipation",
+      "RIVN Stock",
+      "Vehicle Selection"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 or R1T (Gen 1)?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uduu1o/r2_or_r1t_gen_1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T21:57:18.413Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Selection"
+        ]
+      },
+      {
+        "title": "sanity check for what is a good price for a 2026 R1S Dual Standard",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uduio3/sanity_check_for_what_is_a_good_price_for_a_2026/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T21:44:33.013Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Pricing"
+        ]
+      },
+      {
+        "title": "Rivian Has Long Wanted to Put a Winch on the R1. RAD Might Finally Make It Happen",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uds2zn/rivian_has_long_wanted_to_put_a_winch_on_the_r1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T20:11:01.602Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1 Accessories"
+        ]
+      },
+      {
+        "title": "PSA: R1S Rear Wiper Refills",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udrl32/psa_r1s_rear_wiper_refills/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T19:52:17.218Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Maintenance"
+        ]
+      },
+      {
+        "title": "Rivian Removed from Account Unexpectedly",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udr30g/rivian_removed_from_account_unexpectedly/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T19:33:31.101Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Service"
+        ]
+      },
+      {
+        "title": "Gen 1 vs Gen 2 R1T: So much better than I thought",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udoq01/gen_1_vs_gen_2_r1t_so_much_better_than_i_thought/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T18:08:04.143Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Reviews"
+        ]
+      },
+      {
+        "title": "2024 R1S vs 2025+",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udokqj/2024_r1s_vs_2025/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T18:02:46.540Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Comparison"
+        ]
+      },
+      {
+        "title": "NACS Lock",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1udu5r5/nacs_lock/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-23T21:30:28.941Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Charging Infrastructure"
+        ]
+      },
+      {
+        "title": "Rivian Discontinues Its Cheapest R1T And R1S As R2 Rolls Out",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1udoj9g/rivian_discontinues_its_cheapest_r1t_and_r1s_as/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-23T18:01:20.789Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Product Discontinuation"
+        ]
+      },
+      {
+        "title": "\u2018Pull the Trigger,\u2019 Says Investor as Rivian Stock Approaches Near-Term Catalyst - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajZXQTBJdXhvSHFWMzVCQ1BSRndtSXNxcGx6SnpLc3V5cnVDRkVFYWJsNkFlQzRSX1BXYnZvcmZvQkJ2Z3ZjSFdJTXFDcmFUamxJVFZhNXhHZ0Y0WUlVdHNmZDBTbkJBWW40MHVURk03X3RGSnhRS3Flb2lOM0xQRVhPQXg5dWE3SXhvMWptUUJVdU1VM1YyazFZNlYxbmw5OWE2aGx5aHREQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 23 Jun 2026 20:12:08 GMT",
+        "score": 0,
+        "snippet": "\u2018Pull the Trigger,\u2019 Says Investor as Rivian Stock Approaches Near-Term Catalyst - TipRanks",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s make-or-break SUV is here. Fans are already balking at the lease price. - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOQlBRWVlKSExzdzVPVXBLdU92X08xNmJoY0YxSHBEdzl1QUZGbTFpOS1VTVRrM3lzRDBuQWp0WnR5d0xpa2pBTnJ5cURDVHFPZ2tyUEQ2WkRaY2gzOU1INFdFQ0p5U0h6MWNaRnJKd3huYm05ZDV6Yk9wYzdUZjFQUE1jcUlRaW1YejR0Z19FOVdPSVhfMjJ1ODBDcEtGcFo5TlhxRE5QX3dBSU5VY2NVdTJTbnBHTDkwVG1mRGJnS2pVVDl6cUhpUk52SDhaQnVWaEIwVFNHbFpOX09BNUNQdHZ4M045R1lncXFyZU5MUlc4WHpSbC1pYVNXcGpLZDhJQk9fSld3cmxFR3RFVjNKTllLRDRkYmc1bUpHX1BvU3ZnZVJoemNrSVFDWHgwdEpTZDNyX2kycjZfRmpRMG81el9xY0pKekM3MDV3dkpvUkFUTTNDcjVNd3lyYXh0SDg2bjlFWmthaTFjS3Y5akMyelRacw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 23 Jun 2026 18:29:42 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s make-or-break SUV is here. Fans are already balking at the lease price. - MSN",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "@deeerlybeloved.bsky.social (Bluesky): Rivian R3 is close, but I'd love to see more.",
+        "url": "https://bsky.app/profile/did:plc:om5ot6oasilr3v7vsnxzsgh2/post/3moyer5u4ws2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T21:45:42.770Z",
+        "score": 0,
+        "snippet": "Rivian R3 is close, but I'd love to see more.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R3 Anticipation"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Thinking about ordering an R1? The menu is down to four configs now. Here is exa",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3moycyfjbcc24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T21:14:00.366Z",
+        "score": 1,
+        "snippet": "Thinking about ordering an R1? The menu is down to four configs now. Here is exactly what each one can and cannot be built with, colors, wheels, interiors, and drive modes, all in one table.\n\nriviantr",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1 Configuration"
+        ]
+      },
+      {
+        "title": "@huntingbenjamin.bsky.social (Bluesky): Merge with Rivian, become a full-lineup automaker, do a leveraged buy-out of VW ",
+        "url": "https://bsky.app/profile/did:plc:2afgez7skjk7jsrqt7rm6gn6/post/3moy5cikjac23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T19:32:14.970Z",
+        "score": 1,
+        "snippet": "Merge with Rivian, become a full-lineup automaker, do a leveraged buy-out of VW USA, add the ID.Buzz to the stable.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Industry Speculation"
+        ]
+      },
+      {
+        "title": "@evchargingstations.bsky.social (Bluesky): The Rivian R2 is a mid-size SUV that is promised to handle on-road and off-road ",
+        "url": "https://bsky.app/profile/did:plc:wvln7i4aflavtxau3h2ol6ib/post/3moy3u35vc22e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T19:06:20.086Z",
+        "score": 1,
+        "snippet": "The Rivian R2 is a mid-size SUV that is promised to handle on-road and off-road adventures. State of Charge had an opportunity to check the R2\u2019s capabilities during Rivian\u2019s first drive event in Park ",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo Drive"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): PSA:  Rivian is now using the saved/favorite configurations you save to make sal",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3moy3j5ohgq2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T19:00:10.573Z",
+        "score": 0,
+        "snippet": "PSA:  Rivian is now using the saved/favorite configurations you save to make sales contacts.  If you favorite an R1S/R1T, they may reach out to you to try to match you with inventory.  I'm not sure th",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Privacy"
+        ]
+      },
+      {
+        "title": "@jraab.bsky.social (Bluesky): Got to drive a rivian r2 this morning. They're going to sell these as fast as th",
+        "url": "https://bsky.app/profile/did:plc:tf6hegtjcxrembb5xpo3ye7m/post/3moxz5jted22o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T18:17:57.472Z",
+        "score": 1,
+        "snippet": "Got to drive a rivian r2 this morning. They're going to sell these as fast as they can make them. Really enjoyable to drive",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo Drive"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Tesla Declines 5% While Lucid and Rivian Hold Steady: What\u2019s Going On With EV St",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3moxy6itnjv2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T18:00:32.370Z",
+        "score": 0,
+        "snippet": "Tesla Declines 5% While Lucid and Rivian Hold Steady: What\u2019s Going On With EV Stocks Today?\n\nhttps://www.evshift.com/479097/tesla-declines-5-while-lucid-and-rivian-hold-steady-whats-going-on-with-ev-s",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Position",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@tenchifox.bsky.social (Bluesky): People: \"can we have an R2T pls?\"\nRivian: \"no, but we can cancel the cheapest R1",
+        "url": "https://bsky.app/profile/did:plc:uptt6vaj56ngxtuyrp6niolg/post/3moxxengsc22y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T17:46:04.271Z",
+        "score": 0,
+        "snippet": "People: \"can we have an R2T pls?\"\nRivian: \"no, but we can cancel the cheapest R1T, does that work?\"",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Product Strategy"
+        ]
+      },
+      {
+        "title": "@insideevs.com (Bluesky): Rivian flagged earlier this year that the Dual Standard variants of its large SU",
+        "url": "https://bsky.app/profile/did:plc:3ez2pmoyablhgfw6rkfmv65n/post/3moxummccdk2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T16:56:52.061Z",
+        "score": 6,
+        "snippet": "Rivian flagged earlier this year that the Dual Standard variants of its large SUV and truck were on the way out.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Product Discontinuation"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian Officially Drops the R1 Dual Standard Configuration\n\nriviantrackr.com/new",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3moxtjnam6k2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T16:37:19.260Z",
+        "score": 4,
+        "snippet": "Rivian Officially Drops the R1 Dual Standard Configuration\n\nriviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Product Discontinuation"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Performance First Drive. The Smaller Rivian is a Big Deal. #automotive",
+        "url": "https://youtube.com/watch?v=tFxOKtZcEg8",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T22:00:06Z",
+        "score": 0,
+        "snippet": "The wait is finally over. The all-new 2027 Rivian R2 is one of the most anticipated electric vehicles on the market, and I got behind ...",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Reviews"
+        ]
+      },
+      {
+        "title": "Drag Race: 670 HP C8 Z06 vs 1025 HP Rivian Truck",
+        "url": "https://youtube.com/watch?v=PH_c5yo9kvI",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T21:00:02Z",
+        "score": 0,
+        "snippet": "670 HP C8 Z06 vs 1025 HP Rivian Truck All your Corvette performance parts needs: www.jesseiwujiperformance.com ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance"
+        ]
+      },
+      {
+        "title": "How to connect Rivian app to vehicle preconditioning - Detailed Guide",
+        "url": "https://youtube.com/watch?v=oRelyDL6CSY",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T21:00:03Z",
+        "score": 0,
+        "snippet": "Unlock the full potential of your Rivian vehicle with our detailed guide on connecting the Rivian app for preconditioning!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Mobile App"
+        ]
+      },
+      {
+        "title": "Meme Stocks Explained: FOMO, Losses, and What Happened #shorts",
+        "url": "https://youtube.com/watch?v=h3fDdP3hecA",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T21:00:18Z",
+        "score": 0,
+        "snippet": "Many investors were left holding the bag after chasing meme stocks like GameStop at $483 and Rivian at $92. Don't let FOMO ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian R2 Production Revealed \u2014 656 HP, 345 Miles, and a Huge Surprise",
+        "url": "https://youtube.com/watch?v=Hr7LvoN1lqQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T20:59:01Z",
+        "score": 0,
+        "snippet": "Rivian just pulled the covers off the production-ready R2, and it might be the most important electric SUV launch of the decade!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1S Full Review \u2013 Range, Performance, Features &amp; More",
+        "url": "https://youtube.com/watch?v=-PiNgFsd-UI",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T17:51:25Z",
+        "score": 0,
+        "snippet": "Experience the next generation of electric adventure with the all-new 2026 Rivian R1S\u2014a powerful, fully electric SUV built for ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Reviews"
+        ]
+      }
+    ]
   }
 ]
