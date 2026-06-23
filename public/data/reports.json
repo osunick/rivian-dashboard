@@ -38114,5 +38114,241 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-23T14:01:26.785194Z",
+    "timestamp": "2026-06-23T14:01:26.785194Z",
+    "sentiment": {
+      "positive": 41,
+      "neutral": 50,
+      "negative": 8
+    },
+    "sources": {
+      "news": {
+        "found": 12,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomous Tech",
+      "Battery Technology",
+      "Brand Awareness",
+      "Charging Network",
+      "Community Engagement",
+      "Customer Satisfaction",
+      "E-Bikes",
+      "Haptic Feedback",
+      "Market Performance",
+      "Positive Reviews",
+      "Product Expansion",
+      "Product Features",
+      "R2 Features",
+      "R2 Launch",
+      "RIVN Stock",
+      "Social Media",
+      "Strategic Partnership",
+      "Vehicle Design",
+      "Vehicle Features"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 Spotlight: Haptic Halo Wheels #r2 #rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udfxf7/r2_spotlight_haptic_halo_wheels_r2_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T12:35:18.423Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Haptic Feedback"
+        ]
+      },
+      {
+        "title": "R2 summon like feature?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uddj6u/r2_summon_like_feature/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T10:36:18.956Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Features",
+          "Autonomous Tech"
+        ]
+      },
+      {
+        "title": "Question about Max Pack",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ud7isw/question_about_max_pack/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T04:51:10.502Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Battery Technology"
+        ]
+      },
+      {
+        "title": "Radio - Remote Tuner Module",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ud629g/radio_remote_tuner_module/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T03:36:37.633Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Features"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s new, smaller R2 SUV is nimble, high-tech, ready for adventure and starts under $50K - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcDEyRE5WZDlGNnFrVURnMy1mWExzQUsxMTZUVmlPR1R2eWgwTTFvWTlMRWFGelBka0pWdkVmQklQY2ZYZWVYOWF4VFhNZzQyR0pEUE5jcGdKM2NQdG9sZ1FkLTNZX01SUWRXY3JONlJuY1N1UlFMS05fcFFuLUtPZXY0MkFuVHQxaVVfcnZ6UWoyYVFfQ2U1RkwxYlozaC0td0kwVE5aUVlpOWs1aW1FUFRlUnJsdEVaMDFwTWdrQVdERmpuREh5alNR?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 23 Jun 2026 09:03:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s new, smaller R2 SUV is nimble, high-tech, ready for adventure and starts under $50K - MarketWatch",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Positive Reviews"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): A very relaxed start to the day after a late night stargazing on the North Shore",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3moxd4dlv3c2w",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T11:43:38.067Z",
+        "score": 3,
+        "snippet": "A very relaxed start to the day after a late night stargazing on the North Shore of PEI. Today we are exploring PEI National Park, lighthouses, and as much seafood as we can fit in all while bird watc",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Engagement",
+          "Customer Satisfaction"
+        ]
+      },
+      {
+        "title": "@trendalertstox.bsky.social (Bluesky): RIVN | Rivian (NASDAQ):\n\ud83d\udcc9 Yesterday's Daily Top Movers DOWN - #3: RIVN dropped -",
+        "url": "https://bsky.app/profile/did:plc:2etirfyqqgrsbe7nibl4eyx3/post/3mox4rhqdp22p",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T09:50:03.664Z",
+        "score": 0,
+        "snippet": "RIVN | Rivian (NASDAQ):\n\ud83d\udcc9 Yesterday's Daily Top Movers DOWN - #3: RIVN dropped -8.60% close: 15.10 (prev. day: 16.52)",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "Market Performance"
+        ]
+      },
+      {
+        "title": "@ttbrasil.bsky.social (Bluesky): Trending Topics Brasil:\n1- Sampaio (+3\u25b2)\n2- Notas (\ud83d\udd25)\n3- S\u00e9rio (+7\u25b2)\n4- Acompanh",
+        "url": "https://bsky.app/profile/did:plc:tubfeeuz2gas5ikjpzbnwooy/post/3mox3uzmjjs2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T09:34:09.568Z",
+        "score": 0,
+        "snippet": "Trending Topics Brasil:\n1- Sampaio (+3\u25b2)\n2- Notas (\ud83d\udd25)\n3- S\u00e9rio (+7\u25b2)\n4- Acompanhe (\ud83d\udd25)\n5- Estudo (+5\u25b2)\n6- Rivian (\ud83d\udd25)\n7- Costa (+3\u25b2)\n8- N\u00facleos (+2\u25b2)\n9- Thiago (+1\u25b2)\n10- Economia (\u2194)\n\n\u2709\ufe0f669|\ud83d\ude4d\u200d339 |\u23f360m\n",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media",
+          "Brand Awareness"
+        ]
+      },
+      {
+        "title": "@jclaro.mastodon.social.ap.brid.gy (Bluesky): A Rivian, empresa americana de tecnologia e automotiva, e a ChargeScape, platafo",
+        "url": "https://bsky.app/profile/did:plc:pfx6zjyvlkw6ddtukctc5xvd/post/3mox3bxurtjm2",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T09:23:36.863Z",
+        "score": 0,
+        "snippet": "A Rivian, empresa americana de tecnologia e automotiva, e a ChargeScape, plataforma de integra\u00e7\u00e3o ve\u00edculo-rede el\u00e9trica, tem parceria \u00e0 incluir baterias de EVs da Rivian, quase 7 milh\u00f5es de EVs, em pr",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network",
+          "Strategic Partnership"
+        ]
+      },
+      {
+        "title": "@jclaro.bsky.social (Bluesky): A Rivian, empresa americana de tecnologia e automotiva, e a ChargeScape, platafo",
+        "url": "https://bsky.app/profile/did:plc:f7ampltvbjwtyxobithwjljm/post/3mox322j2v22t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T09:19:04.861Z",
+        "score": 0,
+        "snippet": "A Rivian, empresa americana de tecnologia e automotiva, e a ChargeScape, plataforma de integra\u00e7\u00e3o ve\u00edculo-rede el\u00e9trica, tem parceria \u00e0 incluir baterias de EVs da Rivian, quase 7 milh\u00f5es de EVs, em pr",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network",
+          "Strategic Partnership"
+        ]
+      },
+      {
+        "title": "Untitled #shorts",
+        "url": "https://youtube.com/watch?v=CPg6fCpF17A",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T13:29:55Z",
+        "score": 0,
+        "snippet": "Not every transformation is meant to be loud. Some are designed to completely change the presence of a vehicle while preserving ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Design",
+          "Product Features"
+        ]
+      },
+      {
+        "title": "Rivian new E bike also",
+        "url": "https://youtube.com/watch?v=TgADbcLUJWg",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T10:53:54Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Product Expansion",
+          "E-Bikes"
+        ]
+      }
+    ]
   }
 ]
