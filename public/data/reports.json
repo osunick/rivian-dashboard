@@ -40496,5 +40496,403 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-24T22:04:57.625903Z",
+    "timestamp": "2026-06-24T22:04:57.625903Z",
+    "sentiment": {
+      "positive": 45,
+      "neutral": 16,
+      "negative": 37
+    },
+    "sources": {
+      "news": {
+        "found": 24,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomous Pricing",
+      "Brand Perception",
+      "Business Model",
+      "Charging Strategy",
+      "Competitive Landscape",
+      "Competitive Threat",
+      "Customer Appreciation",
+      "Customer Churn",
+      "Customer Feedback",
+      "Design Quality",
+      "Feature Parity",
+      "Government Partnership",
+      "Missing Features",
+      "Other",
+      "Quality Recalls",
+      "R1T Performance",
+      "R2 Demo",
+      "R2 Handling",
+      "R2 Launch",
+      "R2 Marketing",
+      "R2 Performance",
+      "R2 Test Drive",
+      "R2 Value",
+      "Software Integration",
+      "Stock Comparison",
+      "Vehicle Durability"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "How long is this waiting list?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uer645/how_long_is_this_waiting_list/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T21:51:25.147Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Other"
+        ]
+      },
+      {
+        "title": "Rivian lease exit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uemlip/rivian_lease_exit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T19:01:44.826Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Churn"
+        ]
+      },
+      {
+        "title": "R2 demo drive :(",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ueoagf/r2_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-24T20:02:38.103Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Demo",
+          "Customer Feedback"
+        ]
+      },
+      {
+        "title": "R2 Acceleration Lag vs Tesla",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uemwq7/r2_acceleration_lag_vs_tesla/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-24T19:12:54.318Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Performance"
+        ]
+      },
+      {
+        "title": "Drove R2 twice, coming from a 2018 Model 3 LR RWD with 85k miles.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uekzhm/drove_r2_twice_coming_from_a_2018_model_3_lr_rwd/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-24T18:03:35.864Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Test Drive"
+        ]
+      },
+      {
+        "title": "Is Rivian (RIVN) Using Grid-Managed Charging To Quietly Redefine Its Core Business Model? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSXBBeFdZRlhQR0pLYkliUDZSb2JRVmRDMXB5UEF0YkZERnIyaGttQjdwa2cyWkZjNGZDYTRtN3VKa24xWlY5Z1VHSzIyeFp1T3F3a0NYck1jQVlSWDlkUGZIODlJZEkxNEt0THRaZUFoNHRwVTJjM0lQVTU5X0pkWFJ2dWZuWWc3alY3X1k0eXBvTy1TZGFTWkVaQUJudlNIa0xnVHA2b2NJUVhZcXpIRV9nbVRhUi1TTGhEWjNZM2N3cURoNVc0bF9hajdpMXppdUlYQmJn0gHbAUFVX3lxTE1ENkdmSE9PWWRmNEZqQ1E4Y0NfbXB2bEhhWk9xd2lnUDRxRjAwbTBzWWhtdWNvaGVPNTZ6Q2RmQ3ZsN0VPZGF6LUlMYlVtVUowcmZZQjRuX0JaSU4wUXB4ZExwN1BjXzFkQXpZODVSbmc2ZTBROWRpV3BONGVNXzM2bmI0aV92Ny1pVTlfRkFEcHpMQTF0dGQ2YVFIOWJYQzNaUmZEUk9UY3A3WnhvWjIwb2JjbHJwQW43Z1hSOFY2QURiM0tYc0QxWkVYMkRaRmlPQ0VESUZ5SG1XQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 24 Jun 2026 17:32:37 GMT",
+        "score": 0,
+        "snippet": "Is Rivian (RIVN) Using Grid-Managed Charging To Quietly Redefine Its Core Business Model? - simplywall.st",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Strategy",
+          "Business Model"
+        ]
+      },
+      {
+        "title": "LCID Stock vs RIVN Stock: Which EV Challenger is Pulling Ahead? - CMC Markets",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2Mya05yd1NheUV5REF5U2JPOWlEM2poWnJ0T2NZNU92XzF5aWEwU1pETjd3ZWJmdURablFQcmVydnhteksxVnRhbGtlYktaVGVEcXFXT0hYOXRSUXkwN0Jpc2xqQ2lFdkF1S2NGWEpVcEV2RHJKM3BSMkljSWdNTmFmdGhncjI3SVltdG96V0liblVhNmotWElvSnNyQkt4?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 24 Jun 2026 15:01:44 GMT",
+        "score": 0,
+        "snippet": "LCID Stock vs RIVN Stock: Which EV Challenger is Pulling Ahead? - CMC Markets",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Stock Comparison"
+        ]
+      },
+      {
+        "title": "@shimabra.bsky.social (Bluesky): @riviantrackr.com does your Apple iPhone command center shortcuts work consisten",
+        "url": "https://bsky.app/profile/did:plc:mxi43ewsw54pt522ozhkggdd/post/3mp2vwm2tss2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T21:58:18.665Z",
+        "score": 0,
+        "snippet": "@riviantrackr.com does your Apple iPhone command center shortcuts work consistently? Do certain commands work better than others? Do you notice better working accuracy with the Rivian watch shortcuts ",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Software Integration"
+        ]
+      },
+      {
+        "title": "@smackjackal.bsky.social (Bluesky): I want to like Rivian more, but their stance on smartphone screen mirroring/proj",
+        "url": "https://bsky.app/profile/did:plc:amg6lcrjbew3juhwvpzbcoh4/post/3mp2vle6hfk26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T21:52:05.486Z",
+        "score": 1,
+        "snippet": "I want to like Rivian more, but their stance on smartphone screen mirroring/projection put them in my NoZone.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Missing Features"
+        ]
+      },
+      {
+        "title": "@pantherraccoon.bsky.social (Bluesky): At least for any established OEM. Slate is doing this entirely by scratch and as",
+        "url": "https://bsky.app/profile/did:plc:4ktfm42mb2iayemgslbpl5sv/post/3mp2tkmxois2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T21:15:49.561Z",
+        "score": 3,
+        "snippet": "At least for any established OEM. Slate is doing this entirely by scratch and as Tesla/Lucid/Rivian show, the less you have to rely on suppliers, the more chance you have of delivering your EV on time",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Landscape"
+        ]
+      },
+      {
+        "title": "@spinozazsagabor.bsky.social (Bluesky): Virtual signalers who can't afford a rivian.\n\nA.k.a., abundobro \"urbanists\" that",
+        "url": "https://bsky.app/profile/did:plc:sei7bvqxnnpqowt2mfuwss7i/post/3mp2szlppk22j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T21:06:17.565Z",
+        "score": 1,
+        "snippet": "Virtual signalers who can't afford a rivian.\n\nA.k.a., abundobro \"urbanists\" that believe in burning fossil fuels to train ai data centers so they don't have to remember how to use excel/powerpoint, bu",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Perception"
+        ]
+      },
+      {
+        "title": "@jpalmerdubs.bsky.social (Bluesky): CalTrans must have a deal with Rivian, which, good for them both.",
+        "url": "https://bsky.app/profile/did:plc:kzbxrdgdonieesmc4cqxo7do/post/3mp2sdjjc4s2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T20:54:14.366Z",
+        "score": 0,
+        "snippet": "CalTrans must have a deal with Rivian, which, good for them both.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Government Partnership"
+        ]
+      },
+      {
+        "title": "@spinozazsagabor.bsky.social (Bluesky): Or the Maverick! It's small (good), useful, has a hybrid version which gets 40mp",
+        "url": "https://bsky.app/profile/did:plc:sei7bvqxnnpqowt2mfuwss7i/post/3mp2rzqaxsk2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T20:48:28.770Z",
+        "score": 2,
+        "snippet": "Or the Maverick! It's small (good), useful, has a hybrid version which gets 40mpg, and it starts at about the same price as this virtue signaling baby rivian. It also has airbags, a radio, and seats w",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threat"
+        ]
+      },
+      {
+        "title": "@supcat.bsky.social (Bluesky): Anyway pretty sure I stand by my whole thread from last year (since then, I\u2019ve s",
+        "url": "https://bsky.app/profile/did:plc:d3cbjcmtt3ky4keb6sd6xw3k/post/3mp2rs3tctk2z",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T20:44:12.670Z",
+        "score": 0,
+        "snippet": "Anyway pretty sure I stand by my whole thread from last year (since then, I\u2019ve seen a non-driving demonstrator in person and walked away pleased, though not as pleased as with the R3X Rivian also show",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Marketing"
+        ]
+      },
+      {
+        "title": "@williammoss.bsky.social (Bluesky): ngl this looks like a truck that I'd throw three bins of salty, wet dive gear in",
+        "url": "https://bsky.app/profile/did:plc:vvjhxsc6krgiw4n4lintojlf/post/3mp2rnmiuac26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T20:41:41.860Z",
+        "score": 4,
+        "snippet": "ngl this looks like a truck that I'd throw three bins of salty, wet dive gear into, something you really don't want to do with e.g. your $100,000 Rivian.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Durability"
+        ]
+      },
+      {
+        "title": "@aimkag.bsky.social (Bluesky): Ooooh. I have not seen these yet. Although I will say I fancy the Rivian truck o",
+        "url": "https://bsky.app/profile/did:plc:ayocvzyguorg7cuzpdgxib5u/post/3mp2pr2brxc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T20:07:50.365Z",
+        "score": 0,
+        "snippet": "Ooooh. I have not seen these yet. Although I will say I fancy the Rivian truck one of my students drives.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Appreciation"
+        ]
+      },
+      {
+        "title": "@tv.exegesis.space (Bluesky): [Part 2] Can a Rivian Full of Batteries Take the EV Cannonball Record?\nhttps://y",
+        "url": "https://bsky.app/profile/did:plc:4hg72hldsbzoseyb343fn25j/post/3mp2pddo3wa2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T20:00:09.963Z",
+        "score": 1,
+        "snippet": "[Part 2] Can a Rivian Full of Batteries Take the EV Cannonball Record?\nhttps://youtu.be/Bj9A6TqDSSU #nerd-tv",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance"
+        ]
+      },
+      {
+        "title": "Not the entire bumper view. But it is crisp",
+        "url": "https://youtube.com/watch?v=FGGXDS3HAPc",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T21:47:09Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Design Quality"
+        ]
+      },
+      {
+        "title": "Rivian CEO signals self-driving prices, like Tesla\u2019s, will fall #ev #electricvehicle #rivian #fsd",
+        "url": "https://youtube.com/watch?v=k-LBfzSBSIA",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T21:14:55Z",
+        "score": 0,
+        "snippet": "Rivian CEO signals end of $2,500 autonomy premium pricing; China bundles equivalent tech; Rivian targets feature parity by year-end as industry shifts toward subscription/bundled autonomy models.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomous Pricing",
+          "Feature Parity"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Performance First Drive. The Smaller Rivian is a Big Deal. #automotive",
+        "url": "https://youtube.com/watch?v=fy-PWPpLvDE",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T20:00:06Z",
+        "score": 0,
+        "snippet": "R2 launches now at $59k (656 hp, 330-mi range); $45k RWD base summer 2027; severely supply-limited; lifetime autonomous package in launch edition.",
+        "summarized": true,
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "R2 Spotlight: U-TURN TEST (not Austin Powers-style) #r2 #rivian #automobile",
+        "url": "https://youtube.com/watch?v=YsLUYMPVVSo",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T19:31:10Z",
+        "score": 0,
+        "snippet": "R2 exhibits tight turning radius in parking maneuvers, completing 3-spot U-turn successfully, indicating strong urban driving capability.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Handling"
+        ]
+      },
+      {
+        "title": "Yellow Rivian R1T Quad truck for trade",
+        "url": "https://youtube.com/watch?v=Vml1c-9vuew",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T19:26:16Z",
+        "score": 0,
+        "snippet": "Rivian R1T Quad owner actively trading on secondary marketplace for premium alternatives including Porsche 911, indicating potential demand leakage to established luxury competitors.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Churn"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Review: 345 Miles of Range for Under $50,000!",
+        "url": "https://youtube.com/watch?v=c4kksTfDwRI",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T19:08:36Z",
+        "score": 0,
+        "snippet": "2027 R2 launches: $45K (RWD, 345mi), $55K (AWD), $60K (656hp tri-motor, 3.6s 0-60); proprietary OS (no CarPlay/Auto); adventure-focused mainstream positioning.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Value"
+        ]
+      },
+      {
+        "title": "Rivian Owner DON&#39;T Make These 10 Mistakes!",
+        "url": "https://youtube.com/watch?v=YXo9pA5CyOI",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T19:00:08Z",
+        "score": 0,
+        "snippet": "9+ recalls by early 2026 including suspension tow-link (19,600 vehicles) and seatbelt defects; dual battery chemistry (LFP vs NMC) with different charge limits reflects durability concerns.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Quality Recalls"
+        ]
+      }
+    ]
   }
 ]
