@@ -39635,5 +39635,66 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-24T02:03:42.337328Z",
+    "timestamp": "2026-06-24T02:03:42.337328Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "And Rivian.\nAmazon: The largest single shareholder of Rivian, holding approximately 13.05% to 13.3% of the outstanding shares.",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "@christineaa.bsky.social (Bluesky): And Rivian.\nAmazon: The largest single shareholder of Rivian, holding approximat",
+        "url": "https://bsky.app/profile/did:plc:x4kcoilkcb6aeivdehsgrmgw/post/3moyt3zkxyc26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T02:02:19.869Z",
+        "score": 0,
+        "snippet": "And Rivian.\nAmazon: The largest single shareholder of Rivian, holding approximately 13.05% to 13.3% of the outstanding shares.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      }
+    ]
   }
 ]
