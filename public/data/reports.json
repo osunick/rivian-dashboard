@@ -39134,5 +39134,506 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-24T02:01:27.478676Z",
+    "timestamp": "2026-06-24T02:01:27.478676Z",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 25,
+      "negative": 34
+    },
+    "sources": {
+      "news": {
+        "found": 32,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 6,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Amazon Vans",
+      "Autonomous Insurance",
+      "Company Story",
+      "Customer Wait",
+      "Gen 2 Issues",
+      "Manufacturing",
+      "Profitability",
+      "R1S Accessories",
+      "R1S Charging",
+      "R1S Models",
+      "R1S Ownership",
+      "R1T Ownership",
+      "R1T Panel Issue",
+      "R1T Review",
+      "R2 Accessories",
+      "R2 Demo",
+      "R2 Design",
+      "R2 Efficiency",
+      "R2 Launch",
+      "R2 Pricing",
+      "R2 Sales",
+      "RIVN Stock",
+      "Retail Expansion",
+      "Social Media Engagement",
+      "Tech IPO",
+      "Tech Market",
+      "Tesla Competition",
+      "VW Competition"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Seems my R1S is now a bit of a unicorn",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ue021i/seems_my_r1s_is_now_a_bit_of_a_unicorn/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T01:43:33.915Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Ownership"
+        ]
+      },
+      {
+        "title": "New to me R1T has been so much fun!!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udz4ga/new_to_me_r1t_has_been_so_much_fun/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T01:00:13.627Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Ownership"
+        ]
+      },
+      {
+        "title": "R1S->MY Juniper->R2? Way Too Long Review",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udy848/r1smy_juniperr2_way_too_long_review/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T00:17:32.635Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Customer Wait"
+        ]
+      },
+      {
+        "title": "R1S->MY Juniper->R2? Way Too Long Review",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1udy6tw/r1smy_juniperr2_way_too_long_review/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T00:17:32.635Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Customer Wait"
+        ]
+      },
+      {
+        "title": "Gen 2 R1S defaulting to 40amps",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udwr2n/gen_2_r1s_defaulting_to_40amps/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T23:15:16.806Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Charging",
+          "Gen 2 Issues"
+        ]
+      },
+      {
+        "title": "Anyone know when the R2 Crossbars are coming?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udwmn0/anyone_know_when_the_r2_crossbars_are_coming/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T23:10:07.023Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Accessories"
+        ]
+      },
+      {
+        "title": "Gen1 Sun Shade : Which one to buy?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udwcok/gen1_sun_shade_which_one_to_buy/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T22:58:39.508Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Accessories"
+        ]
+      },
+      {
+        "title": "Esker Silver R2 Hi-Res Official Images Finally... And It's Stunning  \ud83d\udcf8\ud83d\ude0d",
+        "url": "https://www.reddit.com/r/Rivian/comments/1udw073/esker_silver_r2_hires_official_images_finally_and/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-23T22:44:16.938Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Design"
+        ]
+      },
+      {
+        "title": "R2 Round 2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1udxo4d/r2_round_2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-23T23:55:16.184Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "My Demo Drive Thoughts + A Few Comparisons",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1udx78w/my_demo_drive_thoughts_a_few_comparisons/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-23T23:34:37.537Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Demo"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: Tech rout, MSCI moves on Indonesia and South Korea in focus",
+        "url": "https://www.cnbc.com/2026/06/24/-cnbc-daily-open-tech-rout-msci-moves-on-indonesia-and-south-korea-in-focus-.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Tech Market"
+        ]
+      },
+      {
+        "title": "Down 22% This Year, Is Rivian Stock Overdue for a Rally? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWERiXzZvRnhMdkQwSUs2Y0xJR1EzUGFSYVVURWRzZ2Q1c2RkS2hUblZhRUlsTm4xc0M3aHV5T2VVNGJjMTJYMGFjQUlUQThUOHpmd2tXWUR2dWJ2ZU1PSnh5OEIybmN1bzN6MmNRYjN4YVpGUTU4bHdPWFNzZlNPMnR2M2dEcnVlclZlOEwzWkdCZGt3VEJxVg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 23 Jun 2026 17:15:00 GMT",
+        "score": 0,
+        "snippet": "Down 22% This Year, Is Rivian Stock Overdue for a Rally? - The Motley Fool",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian is betting its future on the R2. Here's the clearest launch road map for the new electric SUV - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWERCcTFhS3dDMG0yT1dSUzNfZUF3cWFzQlFaOEtxVzhCaWRCM0lJS2FsdlhWa2U3MGV4cTRObFZVX0toV1hqRkNlWGU1Ull0M3o0b0hobW9LRlhBd3A5eW9aemtyZHFyaXNMOG1INFBpdFlXT0t5VFo2eUZFT3lNS3VKNUkwRXNmS3NteFFYX0Z2bjNZRldSaGdjV1VmakVVTHJ0eWJQZHN5eldad21vcFVXMXlkYWg4OWotRnJDdFhYR3E3LURjTm9IT1lkbXVkZXlsYVVZM01RNDIwcENFeG9XU0RWaGs?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 23 Jun 2026 08:44:25 GMT",
+        "score": 0,
+        "snippet": "Rivian is betting its future on the R2. Here's the clearest launch road map for the new electric SUV - MSN",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Lemonade Expands Autonomous Car Insurance for Tesla FSD to Colorado - CollisionWeek",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0ktVVJUc1ZmbXFfOWR2X0lWM05zRHBsbC1DSVBTTy1xNV90QXJHaHBPU0tPaFBzWEhTMTU0eUJuNk8tdmJXMVdrUGFKY1hkR2JEalgxNGgyY3hESWtNX0ZpNzlHRTRyTlZHZlM2azBHellHaU5GRnFUUTY3aWNhdUtoaVJaRTZYcThIbERQeFZFb1UtaGRpRlJSM0NobnM?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Tue, 23 Jun 2026 16:43:56 GMT",
+        "score": 0,
+        "snippet": "Lemonade Expands Autonomous Car Insurance for Tesla FSD to Colorado - CollisionWeek",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomous Insurance",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): When marginal overgrowth at the drive thru touches the @Rivian R1T front corner ",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3moyshsrqou22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T01:51:03.466Z",
+        "score": 0,
+        "snippet": "When marginal overgrowth at the drive thru touches the @Rivian R1T front corner panel...\n\nMe: We totally needed the brush guard there.  Works flawlessly.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "R1T Panel Issue"
+        ]
+      },
+      {
+        "title": "@mister-hangman.bsky.social (Bluesky): Anyone in the sfbay area looking to get a #RivianR2 #Rivian #R2 right now? My or",
+        "url": "https://bsky.app/profile/did:plc:qi5zmwglkm3lhod5nsy63dkn/post/3moyr5a6hrk2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T01:27:12.867Z",
+        "score": 0,
+        "snippet": "Anyone in the sfbay area looking to get a #RivianR2 #Rivian #R2 right now? My order got called and we are gonna pass at this time. If you got fomo and cash to burn let me know. Looking for full sticke",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Sales"
+        ]
+      },
+      {
+        "title": "@thepines.bsky.social (Bluesky): I invested in Rivian stock because I'm hoping that the R2 will sell well also th",
+        "url": "https://bsky.app/profile/did:plc:dbmmbav5zxtjanhbemozngdp/post/3moyqpit6cs24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T01:19:31.871Z",
+        "score": 7,
+        "snippet": "I invested in Rivian stock because I'm hoping that the R2 will sell well also that the next Dem administration will restart the EV subsidies? Gamble gamble.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@theminsk.bsky.social (Bluesky): I bought stock in Rivian at their IPO. Yes, I got got. They make a nice vehicle ",
+        "url": "https://bsky.app/profile/did:plc:ud3ivj6exn5filatva7gjd2y/post/3moypagyok226",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T00:53:12.777Z",
+        "score": 0,
+        "snippet": "I bought stock in Rivian at their IPO. Yes, I got got. They make a nice vehicle but, VW will have their tech for the International Scout. Not looking good for Rivian. They sell a lot of trucks to Amaz",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "VW Competition"
+        ]
+      },
+      {
+        "title": "@copperbook.bsky.social (Bluesky): Snap and Lyft have never turned a profit.\n\nAirBnB just became profitable.\n\nRivia",
+        "url": "https://bsky.app/profile/did:plc:3imfdh7yyoggzf4rhm5dhm2l/post/3moyo633ixs2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T00:33:59.871Z",
+        "score": 0,
+        "snippet": "Snap and Lyft have never turned a profit.\n\nAirBnB just became profitable.\n\nRivian, not on my list, has never made profit.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Profitability"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Hopefully \ud83e\udece and \ud83e\udd9e await us and we can find charging! Should be excellent stargaz",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3moynn4tu2226",
+        "source": "bluesky",
+        "publishedAt": "2026-06-24T00:24:43.405Z",
+        "score": 0,
+        "snippet": "Hopefully \ud83e\udece and \ud83e\udd9e await us and we can find charging! Should be excellent stargazing and chance of Aurora as well as we camp right along the sea. \n@rivianofficial.bsky.social  #Rivian #R1S #RivianR1S #",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Ownership"
+        ]
+      },
+      {
+        "title": "@robcarlson.bsky.social (Bluesky): I pestered the person at the desk in the Rivian store about the custom R2 Hest m",
+        "url": "https://bsky.app/profile/did:plc:ofs5gs5weifdlyitenhqr6gn/post/3moyhs2be6k2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T22:39:55.161Z",
+        "score": 1,
+        "snippet": "I pestered the person at the desk in the Rivian store about the custom R2 Hest mattress, which is advertised as 78\" long. Best we can figure, the end of the mattress hangs from the front seat to bridg",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Accessories"
+        ]
+      },
+      {
+        "title": "@kwierso.com (Bluesky): I was delivering a package to a local museum in one of Amazon's Rivian vans. The",
+        "url": "https://bsky.app/profile/did:plc:tm4y3c4dli6ycthrghbmzlgm/post/3moyh5ko57s2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T22:28:27.475Z",
+        "score": 2,
+        "snippet": "I was delivering a package to a local museum in one of Amazon's Rivian vans. There were some kids pointing at my van, shouting \"it's the Amazon cybertruck!\"",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Amazon Vans"
+        ]
+      },
+      {
+        "title": "@c4cus.bsky.social (Bluesky): La demanda minorista por SpaceX fue hist\u00f3rica: inversores compraron $405M de $SP",
+        "url": "https://bsky.app/profile/did:plc:xqybj2sjzs5ugjmefc2lio3o/post/3moygr6sf5w26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-23T22:21:31.362Z",
+        "score": 0,
+        "snippet": "La demanda minorista por SpaceX fue hist\u00f3rica: inversores compraron $405M de $SPCX en su 1ra semana, r\u00e9cord para una IPO, seg\u00fan Vanda Research. Super\u00f3 a Rivian ($185M), las Magnificent 7 juntas ($158M",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Tech IPO"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s &quot;Affordable&quot; SUV Isn&#39;t Affordable &amp; a Retirement Rule Nobody Knows | Wit &amp; Grit",
+        "url": "https://youtube.com/watch?v=iRhaBz2rPTM",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T01:42:29Z",
+        "score": 0,
+        "snippet": "Rivian's new R2 electric SUV was supposed to be the affordable one \u2014 the lease numbers say otherwise. There's a retirement ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Review: The Ultimate Electric Pickup Truck for Adventure &amp; Performance",
+        "url": "https://youtube.com/watch?v=67373FntGpU",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T01:05:20Z",
+        "score": 0,
+        "snippet": "Description Explore the 2026 Rivian R1T, the groundbreaking electric pickup truck built for adventure, power, and innovation.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Review"
+        ]
+      },
+      {
+        "title": "Rivian Production Reel",
+        "url": "https://youtube.com/watch?v=zsvXL8nLXjc",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T00:48:49Z",
+        "score": 0,
+        "snippet": "Spartan AI Group - Rivian Production Reel.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Manufacturing"
+        ]
+      },
+      {
+        "title": "RIVIAN | South Hills of Pittsburgh",
+        "url": "https://youtube.com/watch?v=G4T65pA1pQc",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T00:07:30Z",
+        "score": 0,
+        "snippet": "New Rivian dealership in the South Hills of Pittsburgh, located in Bethel Park at the former site of the Bed, Bath & Beyond store.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Retail Expansion"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s Rugged Road to an Electric Fleet Revolution",
+        "url": "https://youtube.com/watch?v=YPHMFxaQ0kU",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T00:00:23Z",
+        "score": 0,
+        "snippet": "A concise retelling of Rivian founder RJ Scaringe's journey from a garage dream to an industry reshaping EV platform. Learn the ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Company Story"
+        ]
+      },
+      {
+        "title": "PL036803 2024 Rivian R1S Adventure",
+        "url": "https://youtube.com/watch?v=0eytzBx7QTQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T23:45:14Z",
+        "score": 0,
+        "snippet": "PL036803 2024 Rivian R1S Adventure.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Models"
+        ]
+      },
+      {
+        "title": "RIVIAN Edit #automobile #rivian #rivianr1s #rivianr2 #rivianr1t #cartok#srt#electriccars #automobile",
+        "url": "https://youtube.com/watch?v=QAyXhPJp1FI",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T23:23:28Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Social Media Engagement"
+        ]
+      },
+      {
+        "title": "This 3-IPO Pattern Cost Investors Millions",
+        "url": "https://youtube.com/watch?v=CjAS-E-jfgk",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T23:00:29Z",
+        "score": 0,
+        "snippet": "Three major IPOs followed the exact same pattern after their lockup periods expired. Palantir dropped after insiders sold into the ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "R2 Spotlight: Energy Use and Efficiencies #r2 #rivian",
+        "url": "https://youtube.com/watch?v=5_5RuE2paXk",
+        "source": "youtube",
+        "publishedAt": "2026-06-23T22:26:51Z",
+        "score": 0,
+        "snippet": "Providing some preliminary insight into R2 efficiencies after driving over 500 miles!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Efficiency"
+        ]
+      }
+    ]
   }
 ]
