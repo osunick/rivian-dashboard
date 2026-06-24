@@ -40086,5 +40086,415 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-24T18:03:48.931538Z",
+    "timestamp": "2026-06-24T18:03:48.931538Z",
+    "sentiment": {
+      "positive": 43,
+      "neutral": 47,
+      "negative": 8
+    },
+    "sources": {
+      "news": {
+        "found": 23,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Affordability Strategy",
+      "Amazon EDV",
+      "Charging Integration",
+      "Commercial Fleet",
+      "Competitive Setback",
+      "Content Endorsement",
+      "Customer Feedback",
+      "Delivery Updates",
+      "Design Leadership",
+      "EV Truck Competition",
+      "Investment Strategy",
+      "Lucid Competition",
+      "Luxury EV Segment",
+      "Margin Pressure",
+      "Market Positioning",
+      "Market Recovery",
+      "Pricing Pressure",
+      "Product Enhancement",
+      "R1S Performance",
+      "R1S Positioning",
+      "R1S Safety Award",
+      "R1T",
+      "R1T Adventure Segment",
+      "R1T Delivery",
+      "R1T Marketing",
+      "R2 Competition",
+      "R2 Launch",
+      "R2 Pricing",
+      "R2 Quality",
+      "RIVN Stock",
+      "Regenerative Braking",
+      "Rivian App",
+      "Safety Recognition",
+      "Tesla Litigation",
+      "VW Partnership"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "James May Drives a R1T Quad Across Virginia",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uekb1b/james_may_drives_a_r1t_quad_across_virginia/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T17:39:17.572Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Marketing",
+          "Content Endorsement"
+        ]
+      },
+      {
+        "title": "Does Rivian app require vehicle delivery to display Tesla Superchargers?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uek0ut/does_rivian_app_require_vehicle_delivery_to/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T17:29:10.173Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian App",
+          "Charging Integration"
+        ]
+      },
+      {
+        "title": "Rivian R1S named IIHS Top Safety Pick+ / R1T loses to Cybertruck",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uej581/rivian_r1s_named_iihs_top_safety_pick_r1t_loses/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T16:57:24.032Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Safety Award",
+          "Safety Recognition"
+        ]
+      },
+      {
+        "title": "Constant Regen",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ueiqzl/constant_regen/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T16:42:55.561Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Regenerative Braking"
+        ]
+      },
+      {
+        "title": "2025 Rivian R1S DM Performance Upgrade - Data Inside",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ueh0s4/2025_rivian_r1s_dm_performance_upgrade_data_inside/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T15:40:05.450Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Performance",
+          "Product Enhancement"
+        ]
+      },
+      {
+        "title": "R2 Side-effect - R1T Inbound",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uegwn1/r2_sideeffect_r1t_inbound/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-24T15:35:49.217Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "R1T Delivery"
+        ]
+      },
+      {
+        "title": "What Time of Day did you get your email?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uefcgq/what_time_of_day_did_you_get_your_email/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-24T14:38:16.304Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Delivery Updates"
+        ]
+      },
+      {
+        "title": "Tesla sued over fatal Texas crash linked to Autopilot",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1uekklv/tesla_sued_over_fatal_texas_crash_linked_to/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-06-24T17:48:57.636Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Tesla Litigation",
+          "Competitive Setback"
+        ]
+      },
+      {
+        "title": "Slate Auto says $24,950 electric truck will be profitable; targets positive cash flow next year",
+        "url": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
+        "source": "cnbc_top",
+        "publishedAt": "Wed, 24 Jun 2026 17:03:49 GMT",
+        "score": 0,
+        "snippet": "EV startup Slate Auto CEO Peter Faricy told CNBC that every vehicle the company produces will be gross margin positive.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "EV Truck Competition",
+          "Margin Pressure"
+        ]
+      },
+      {
+        "title": "Lucid vs. Rivian: Which Is Winning the Only Race That Matters? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1FrWVlYNEFEV1BUc3piMnZ2VlRXekRKWFN5VHIwSnJCM0JsZUx2bzVrVDlkSDJKMHc0OXpJc2NDaDhPdUxjVkFMVWhNcTBJRUtGajdnWVAyaFFuSnItNVlVOUZYeVl1ZHpyeThob093R1JsRFFCWlFwUkRKcVpxX0dZMG1tbmZvM1F6aU9lYkFoRGM?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 24 Jun 2026 14:45:12 GMT",
+        "score": 0,
+        "snippet": "Lucid vs. Rivian: Which Is Winning the Only Race That Matters? - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Lucid Competition",
+          "Market Positioning"
+        ]
+      },
+      {
+        "title": "Buy, Hold, or Sell: Rivian Slipped to $14 on Macro Pressures, but Does Its $5 Billion Volkswagen Venture Provide an Ironclad Moat? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUUN5d2xzNDkyTDljbEJGNWJGV0VoVkJST2VUYzkySk12dkRsaXhrMVE0aUlGSGlyaWRoMjhHazhEUnN4VktheHEwVEM2aHYwOG56V0x4ZjBXYjRoc2R5UzRzdDdacTRHVjNaLWN3VFFmVF92ZlpVWDBPY2J6QjZnMWJ6NlAteXRMZUM4TEdKaTBZb3NDdUVVeHdtb1pjQTVHUWRINFlkZ3VhU3drOVpIckNwbGJmLWppVnM2anA5SFRRazAzcG11LUJjcURhY1lCQlM1OFVUSVRHZC1wVzRoTEZIQ0NqS19DWE5sRmhVY2hwaHZ4TzZ5bnd5RQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 24 Jun 2026 14:52:47 GMT",
+        "score": 0,
+        "snippet": "Buy, Hold, or Sell: Rivian Slipped to $14 on Macro Pressures, but Does Its $5 Billion Volkswagen Venture Provide an Ironclad Moat? - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "VW Partnership"
+        ]
+      },
+      {
+        "title": "Here\u2019s How to Test Drive Rivian Stock Without Going All-In - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWVuWWtjcjc2VC1rQ2xyWGxZMmpoMGI2YWozd2FkU0pZQ2N1b0I4NVJaM1R1c2ljeENXMWJqdElpaDJxTTFkVkRoZWZkZ0U3MlZ1YXhqU25YMktWb0tad0FscEZfbjVhbEZzR1AzcndkQXgxLTNxb0QyMlo0SnBZYktGSlpNR0xQSTd5UlZ2QWtUNUdXZUNkZjJRTGgtMzFOdVFN?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 24 Jun 2026 14:05:28 GMT",
+        "score": 0,
+        "snippet": "Here\u2019s How to Test Drive Rivian Stock Without Going All-In - Barchart.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Investment Strategy"
+        ]
+      },
+      {
+        "title": "Lucid vs. Rivian: Which Is Winning the Only Race That Matters? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc2tqNGN5Q2Q4TklHOXE4eGxsdXAtM09BaTNfejNhOWtRS1VWaDlFUVI1U3dCS183ejZGLThFLW45WVBJbnZEbHF4U0tIWWFXUTRtZkdDNko3YnlIbDFLWXZ3enFhZXpnbGE4Y2F1MDZ3R2hGRDhfS0VkbG5FWXRldlBsYTdKWmdhNTFqNXBmVUQ2R2lBcVVYZzlqcXFZQ3VMWGJHTG9oZVZsZUJ0V2kwVExtZnA3Q3VfTDhiT1pGMXlaRDhycjVkTjRvTnZGTkdPYVdHQ2doVERZQkFIRVNv?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 24 Jun 2026 14:35:57 GMT",
+        "score": 0,
+        "snippet": "Lucid vs. Rivian: Which Is Winning the Only Race That Matters? - The Globe and Mail",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Lucid Competition",
+          "Market Positioning"
+        ]
+      },
+      {
+        "title": "LCID Stock vs RIVN Stock: Which EV Challenger is Pulling Ahead? - CMC Markets",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGdMdjd3N2hscGwyQjBVNnhnY2t4LVpFa29vTURNclRKcVhIYTNWeW5QeUxmTm5TZDhhMjR1MHJ3VmZmR1VGT3dJbzhTaXZPMnUzZ3BpZWxhRUF4UGR1SWlGVVp4eTZSZFZ4MFdRR0lxbHIxUWdSTzdjTDlLZHBKdWpmZU1UeXFkeGgxMElxSTBRZDg1SXc1S2I1a29sdzFX?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 24 Jun 2026 15:02:02 GMT",
+        "score": 0,
+        "snippet": "LCID Stock vs RIVN Stock: Which EV Challenger is Pulling Ahead? - CMC Markets",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Lucid Competition"
+        ]
+      },
+      {
+        "title": "How To Push Your Electric Vehicle To The EXTREME! Tesla &amp; Rivian Adventurers Share Their Secrets!",
+        "url": "https://youtube.com/watch?v=v6_d8OhVqlg",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T17:58:43Z",
+        "score": 0,
+        "snippet": "Rivian R1T dominates EV adventurers segment with 7-seat advantage over Tesla; Cybertruck's midgate limits camping comfort; Rivian's acquired route-planner strengthens competitive software moat.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Adventure Segment",
+          "Design Leadership"
+        ]
+      },
+      {
+        "title": "Rivian R2 Just Got Cheaper (Here\u2019s Why)",
+        "url": "https://youtube.com/watch?v=I-ylhN14Fi8",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T17:21:05Z",
+        "score": 0,
+        "snippet": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Pricing",
+          "Affordability Strategy"
+        ]
+      },
+      {
+        "title": "Amazon Rivian EDV",
+        "url": "https://youtube.com/watch?v=4fjNUXbzmIY",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T17:20:57Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Amazon EDV",
+          "Commercial Fleet"
+        ]
+      },
+      {
+        "title": "Electric Rivian",
+        "url": "https://youtube.com/watch?v=sEstJ7qHr88",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T17:03:15Z",
+        "score": 0,
+        "snippet": "rivianr1t #ford #dirtyheads.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1T"
+        ]
+      },
+      {
+        "title": "EVs Shaping 2026 | 5 Cars That Will Change 2026 \u2014 You Need To See These \ud83d\ude0e",
+        "url": "https://youtube.com/watch?v=M2_p6ey6WjY",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T16:19:40Z",
+        "score": 0,
+        "snippet": "Rivian's affordable R2 bet for mainstream success faces competition from BYD's aggressive price cuts, Lucid's luxury-tech positioning, and Xiaomi's integrated software-ecosystem approach.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Competition",
+          "Pricing Pressure"
+        ]
+      },
+      {
+        "title": "James May roadtrips the Rivian R1T across Virginia",
+        "url": "https://youtube.com/watch?v=avEWj3_nMk8",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T16:00:11Z",
+        "score": 0,
+        "snippet": "R1T features 1000-hp dual-mode powertrain and gear tunnel storage advantage vs Cybertruck; strong acceleration and design endorsed by respected automotive journalist James May.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Marketing",
+          "Content Endorsement"
+        ]
+      },
+      {
+        "title": "\ubbf8\uad6d\uc99d\uc2dc 11\uc2dc, EV \uc131\uc7a5\uc8fc \ubc18\uc751 \uac08\ub838\ub2e4",
+        "url": "https://youtube.com/watch?v=rnqwU27PSYc",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T15:51:11Z",
+        "score": 0,
+        "snippet": "\ubbf8\uad6d\uc99d\uc2dc 11\uc2dc \uc804\ud6c4 EV \uc131\uc7a5\uc8fc \ud750\ub984\uc740 Tesla \ubc29\uc5b4, Rivian \ubc18\ub4f1, Lucid \ubd80\ub2f4\uc73c\ub85c \uac08\ub838\uc2b5\ub2c8\ub2e4. 2026\ub144 6\uc6d4 24\uc77c \ubbf8\uad6d \ub3d9\ubd80 11\uc2dc 30\ubd84 ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Market Recovery"
+        ]
+      },
+      {
+        "title": "Rivian R2 Highway Noise is Nonexistent! #rivian #r2 #rivianr2",
+        "url": "https://youtube.com/watch?v=YX6yjY3XX0M",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T15:46:45Z",
+        "score": 0,
+        "snippet": "Rivian R2 delivers exceptional highway quietness and comfort with performance/sport drive modes and quality materials, confirming competitive EV sedan positioning.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Quality",
+          "Customer Feedback"
+        ]
+      },
+      {
+        "title": "Lexus TZ Rivals: Kia EV9, Rivian R1S, Lucid Gravity, Tesla Model X! #shorts",
+        "url": "https://youtube.com/watch?v=kct-Q8OMRAI",
+        "source": "youtube",
+        "publishedAt": "2026-06-24T14:19:48Z",
+        "score": 0,
+        "snippet": "Lexus TZ/EV compete directly with Kia EV9, Rivian R1S, Lucid Gravity, and Tesla Model X; market differentiation will depend on real-world customer experience once vehicles reach dealership lots.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Positioning",
+          "Luxury EV Segment"
+        ]
+      }
+    ]
   }
 ]
