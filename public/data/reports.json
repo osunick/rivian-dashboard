@@ -41675,5 +41675,329 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-25T18:04:14.194421Z",
+    "timestamp": "2026-06-25T18:04:14.194421Z",
+    "sentiment": {
+      "positive": 36,
+      "neutral": 47,
+      "negative": 15
+    },
+    "sources": {
+      "news": {
+        "found": 19,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 3,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy Features",
+      "Autonomy/Chip",
+      "Community",
+      "Community Management",
+      "Competitive Landscape",
+      "Customer Interest",
+      "Design/Styling",
+      "Entertainment",
+      "Pricing/Availability",
+      "Product Demand",
+      "Product Roadmap",
+      "R1T Performance",
+      "R2 Demand",
+      "R2 Launch",
+      "R2 Specs",
+      "R3 Interest",
+      "Range/Battery",
+      "Service Quality",
+      "Software Issues"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "No contact from service?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufg3dn/no_contact_from_service/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T17:10:03.386Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Service Quality"
+        ]
+      },
+      {
+        "title": "Please help. Zero range on full charge. Old software. Stuck in the Virgin Islands",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uffdf7/please_help_zero_range_on_full_charge_old/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T16:44:05.003Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software Issues",
+          "Range/Battery"
+        ]
+      },
+      {
+        "title": "Test drove R2 ( coming from MYP)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufe7y2/test_drove_r2_coming_from_myp/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T16:02:27.409Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demand"
+        ]
+      },
+      {
+        "title": "R2 seats",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufe60d/r2_seats/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T16:00:42.434Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Specs"
+        ]
+      },
+      {
+        "title": "What happened to the reward button on this subreddit?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufdib1/what_happened_to_the_reward_button_on_this/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T15:36:56.700Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Management"
+        ]
+      },
+      {
+        "title": "R2 charging spec",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufd8nt/r2_charging_spec/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T15:27:13.209Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Specs"
+        ]
+      },
+      {
+        "title": "Canadian Buyers Await R2 Pricing as R1 Starts at $145,000 - Motor Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZER6NVZMQ2JRekxyMnNaMDYtejVOM0JQZWt4X2pKSGozVlBudWtFNTU0VnZDa0lBV1dDQndES19tWGhuRnVieGVCY2RzMEVtZkVYTmNkOGNGb1U2bG1MYkp5aENwSVRlNmZZSk92Mm85WThBT2lvZWtSUlVpdE5QTG9Sd1VELWdKbU50elVHY1pZbklZeFBV0gGcAUFVX3lxTFBnNU5KNHhrWXNpZkRUdTBLaWNOV19PT0xOa0lwbW9TR05DR0tVS2FZNlBpNEpPQTdTTy1SbzlhSEpxS3dZNmd3SXYweVBuaVhUUVliT0JELXRTc3AzQzkwZ1psV2ppSFpreFVyMGJvUVRsT29rUkJzWVRxT3dTTHkyOV9tTTBVY3BSVGw5LUtWc0xibkdjXzg0MEFkbA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 25 Jun 2026 13:13:15 GMT",
+        "score": 0,
+        "snippet": "Canadian Buyers Await R2 Pricing as R1 Starts at $145,000 - Motor Illustrated",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Pricing/Availability"
+        ]
+      },
+      {
+        "title": "@tbapple.bsky.social (Bluesky): Rivian $RIVN needs to stark making sedans asap.\nAnd add an Amazon integration so",
+        "url": "https://bsky.app/profile/did:plc:udgvn6km32yvui2lftmk26wn/post/3mp4xu3xkzk2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T17:38:01.562Z",
+        "score": 1,
+        "snippet": "Rivian $RIVN needs to stark making sedans asap.\nAnd add an Amazon integration so Jeff can finagle government assistance.  They already make trucks for him.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Product Roadmap"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian added the word \"long range\" to the optional R2 Standard Dual Motor upgrad",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mp4xg4ykto2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T17:30:13.071Z",
+        "score": 2,
+        "snippet": "Rivian added the word \"long range\" to the optional R2 Standard Dual Motor upgrade.  It appears the RWD variant is the only one to come with a smaller battery pack.  Every other variant will be the Lon",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Specs"
+        ]
+      },
+      {
+        "title": "@combinatorial.bsky.social (Bluesky): We've got a polestar 2 and it is *fantastic*. They make a mockery of a Model 3/Y",
+        "url": "https://bsky.app/profile/did:plc:sbhqkdvernafzlsidarrxwg6/post/3mp4uyglpk22q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T16:46:44.167Z",
+        "score": 2,
+        "snippet": "We've got a polestar 2 and it is *fantastic*. They make a mockery of a Model 3/Y (as do the Polestar 3s and 4s). They're still supporting the existing ones (good).\n\nSinophobia is a hell of a drug (can",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Landscape"
+        ]
+      },
+      {
+        "title": "@jsatz.bsky.social (Bluesky): Correct. I used to have a M3 but got rid of it for a Mach-E and I am incredibly ",
+        "url": "https://bsky.app/profile/did:plc:jk5ivcverfo6dg6unfxedbhw/post/3mp4ttbtamk2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T16:25:59.177Z",
+        "score": 3,
+        "snippet": "Correct. I used to have a M3 but got rid of it for a Mach-E and I am incredibly happy with it. Also my wife has an ID.4 and we would love our next car to be the cheaper Rivian when it comes out.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Landscape"
+        ]
+      },
+      {
+        "title": "@squirtmunk.com (Bluesky): I\u2019ve always wanted a Rivian the next time I have to get a new car.",
+        "url": "https://bsky.app/profile/did:plc:d77dmfz73d6qrjdafv2qjjbk/post/3mp4rimxmdc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T15:44:14.366Z",
+        "score": 2,
+        "snippet": "I\u2019ve always wanted a Rivian the next time I have to get a new car.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Interest"
+        ]
+      },
+      {
+        "title": "@sumomania.bsky.social (Bluesky): I enjoyed your article on your Rivian Lease. I'll take a look at the R3 if it co",
+        "url": "https://bsky.app/profile/did:plc:d6luwu7y6kztvyhzlksg6ixp/post/3mp4qli2z4s27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T15:27:54.167Z",
+        "score": 2,
+        "snippet": "I enjoyed your article on your Rivian Lease. I'll take a look at the R3 if it comes to market.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Product Demand",
+          "R3 Interest"
+        ]
+      },
+      {
+        "title": "@elisantana.bsky.social (Bluesky): Want a Rivian so bad but those damn goofy headlights are so uncool",
+        "url": "https://bsky.app/profile/did:plc:fzxipo2lvyn5kmrkmukrpo5m/post/3mp4m5mgu3227",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T14:08:34.860Z",
+        "score": 0,
+        "snippet": "Want a Rivian so bad but those damn goofy headlights are so uncool",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Design/Styling"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian will be adding automated parking to Autonomy+ at some point.   I do not e",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mp4lotktid2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T14:00:20.171Z",
+        "score": 1,
+        "snippet": "Rivian will be adding automated parking to Autonomy+ at some point.   I do not expect it to be at Tesla's level where it'll find a parking spot.  I think it'll be similar to the original Tesla parking",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy Features"
+        ]
+      },
+      {
+        "title": "#rivian",
+        "url": "https://youtube.com/watch?v=eBAmHADIHyE",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T17:53:55Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Community"
+        ]
+      },
+      {
+        "title": "Does Rivian\u2019s New Autonomy Chip Actually Matter?",
+        "url": "https://youtube.com/watch?v=8NYJKwDeeSE",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T15:30:38Z",
+        "score": 0,
+        "snippet": "R2 Gen 2 launches now with Gen 3 (4x compute) next year but functionally equivalent for years; Rivian's radar-camera architecture is more compute-efficient than Tesla's pure-camera approach.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy/Chip",
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "River driving in the Rivian",
+        "url": "https://youtube.com/watch?v=3vBFuHEHcHk",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T15:13:44Z",
+        "score": 0,
+        "snippet": "This transcript contains no product intelligence\u2014it's a music video with lyrics and no information about Rivian specs, pricing, autonomy, timing, or competitive positioning.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Entertainment"
+        ]
+      },
+      {
+        "title": "Will it Wheelie?! Ep.15 Rivian!",
+        "url": "https://youtube.com/watch?v=iYQMriM7b3Y",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T15:00:29Z",
+        "score": 0,
+        "snippet": "Rivian R1T specs: 835 HP stock, tunable to 1,086 HP; achieves barely measurable wheelies with drag tires and rally suspension despite substantial horsepower increase.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance"
+        ]
+      }
+    ]
   }
 ]
