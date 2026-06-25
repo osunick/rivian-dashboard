@@ -41279,5 +41279,401 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-25T14:03:17.786151Z",
+    "timestamp": "2026-06-25T14:03:17.786151Z",
+    "sentiment": {
+      "positive": 41,
+      "neutral": 41,
+      "negative": 16
+    },
+    "sources": {
+      "news": {
+        "found": 24,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Amazon Partnership",
+      "Financial Strength",
+      "International Demand",
+      "Lucid Competition",
+      "Lucid Cosmos",
+      "Market Expansion",
+      "R1 Comparison",
+      "R1S Comparison",
+      "R1T Towing",
+      "R2 Comparison",
+      "R2 Competition",
+      "R2 Demo Drive",
+      "R2 Social Media",
+      "R2 vs Mach-E",
+      "R3 Delay",
+      "RIVN Stock",
+      "Rivian Spinout",
+      "Safety Probe",
+      "Social Media",
+      "Software Development",
+      "TM-B Launch",
+      "Tesla Competition",
+      "Test Drive",
+      "Vehicle Content"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Epic Family EV Road Trip: Towing 6,000 lbs from Brooklyn to Georgia in our Rivian R1T!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uf94x0/epic_family_ev_road_trip_towing_6000_lbs_from/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T12:51:29.387Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Towing"
+        ]
+      },
+      {
+        "title": "R1S Dual Max vs. Lucid Gravity: Has anyone cross-shopped these two?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uezodd/r1s_dual_max_vs_lucid_gravity_has_anyone/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T04:15:24.104Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Comparison"
+        ]
+      },
+      {
+        "title": "Rivian R2 Demo Drive Review",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ufaokz/rivian_r2_demo_drive_review/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-25T13:52:57.577Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo Drive"
+        ]
+      },
+      {
+        "title": "10-minute Demo in SLC",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ufaflp/10minute_demo_in_slc/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-25T13:43:26.859Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo Drive"
+        ]
+      },
+      {
+        "title": "Test drive (Palo Alto)",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ueyc8s/test_drive_palo_alto/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-25T03:09:14.487Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Test Drive"
+        ]
+      },
+      {
+        "title": "The TM-B, the new EV from ALSO, the micromobility company spun out of Rivian with a $1B valuation.",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1uf7rb3/the_tmb_the_new_ev_from_also_the_micromobility/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-25T11:48:50.623Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Spinout",
+          "TM-B Launch"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Faces US Safety Probe Over 100,000 Vehicles - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbDZoSlJwYWdTOGJhaDJNblN3ZlB6TGFWTEhVQlcwR2c5WnVaM2ZpalFKN1R4VHBWdVdSTE91NU1wTVFEdnRmRU1HYWpuVjB5Yl9DdnBUamhiYWRsanJ5enRPbUY5Nk4xdncxUlpBcF9aVnVDWmFNbmhQb3NHNkpmVHcwdVhQeFpIOVBBcF9FeGJHWEFKTVlV?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 25 Jun 2026 10:06:21 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Faces US Safety Probe Over 100,000 Vehicles - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Safety Probe"
+        ]
+      },
+      {
+        "title": "BI Asset Management Fondsmaeglerselskab A S Sells 263,207 Shares of Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUJRQWhWVWdMQkRpT2V3WXlXWW5WSElfQVA2WVphM1Jmb0hyUWhwaHplbzhnanJiNVpHRnhfb0RCSVF2d185ZWRZNThsZTktZGxtcnA3bDlLT2ZWZERMTmZrQzhFczlHWlljM1V1MnUtcWVrVllwU0pIdWdlZUpBZENRUlVVd3poUlFnYmhXQ19GVXJObXB3amMzMDBIVjFtVmZ2MjU5THNJQXRYRTJqcDJRQXQzTDV5Z2Z6ZGNaczcwZzhGZ3FmTm81SmVPdnlxSGhmRk81elZIU3Y2S1RBeW5JQXZDeC1ycGc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 25 Jun 2026 07:22:03 GMT",
+        "score": 0,
+        "snippet": "BI Asset Management Fondsmaeglerselskab A S Sells 263,207 Shares of Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@anubisthejackal.bsky.social (Bluesky): To that point, I have to grit my teeth thinking about Amazon buying Rivian deliv",
+        "url": "https://bsky.app/profile/did:plc:vqtdcg4x2eiw67lm32mep7jz/post/3mp4hn34d5s2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T12:47:45.860Z",
+        "score": 1,
+        "snippet": "To that point, I have to grit my teeth thinking about Amazon buying Rivian delivery trucks (I'm seeing them more often, and I don't live near a coast).\n\nAlso have heard that beverage companies in the ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Amazon Partnership"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mp4fjfbjrk2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T12:09:55.064Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mp4fhriif22x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T12:09:04.169Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mp4fgmbtsc2x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T12:08:21.476Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Social Media"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mp4ffkupv22x",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T12:07:48.474Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): eletric-vehicles.com/rivian/camou...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mp4dtbhook2h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T11:39:44.361Z",
+        "score": 1,
+        "snippet": "eletric-vehicles.com/rivian/camou...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Content"
+        ]
+      },
+      {
+        "title": "@whitepatrick.com (Bluesky): We're in the market \u2014\u00a0or will be soon. I was dead set on a Rivian R3, but it won",
+        "url": "https://bsky.app/profile/did:plc:be4xvypgszcdnfr6ljbwyim3/post/3mp4afueshs2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T10:38:27.668Z",
+        "score": 0,
+        "snippet": "We're in the market \u2014\u00a0or will be soon. I was dead set on a Rivian R3, but it won't be out for a while. \n\nGotta say, though, that the Neue Klasse BMW i3 is looking pretty sweet. \n\nBut, yeah, these Slat",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R3 Delay"
+        ]
+      },
+      {
+        "title": "@tumeka.bsky.social (Bluesky): Ja, wenn mehrere Firmen die Software nicht k\u00f6nnen in Zukunft zusammen Software e",
+        "url": "https://bsky.app/profile/did:plc:hnznehjzjeduqeophzb4vlhe/post/3mp47rbem7c2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T10:26:56.864Z",
+        "score": 0,
+        "snippet": "Ja, wenn mehrere Firmen die Software nicht k\u00f6nnen in Zukunft zusammen Software entwickeln wollen\u2026was kann DA schon schief gehen (Spoiler: so gut wie alles).  /s\n\nBei VW bestand ja durch die Zusammenar",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Software Development"
+        ]
+      },
+      {
+        "title": "@gatorali.bsky.social (Bluesky): I wish Rivian came to Europe. I'll be a customer",
+        "url": "https://bsky.app/profile/did:plc:ozborn365v2o7wxwbcrjbpv4/post/3mp3uuuznuc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T07:12:06.873Z",
+        "score": 0,
+        "snippet": "I wish Rivian came to Europe. I'll be a customer",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Expansion",
+          "International Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1 vs Tesla Cybertruck",
+        "url": "https://youtube.com/watch?v=tPQF3hbl0gQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T14:00:07Z",
+        "score": 0,
+        "snippet": "he ultimate battle of American electric giants! Elon Musk's controversial stainless-steel Tesla Cybertruck goes toe-to-toe with its ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1 Comparison"
+        ]
+      },
+      {
+        "title": "Amazon Rivian EDV",
+        "url": "https://youtube.com/watch?v=GDyMa10kG98",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T13:57:47Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Amazon Partnership"
+        ]
+      },
+      {
+        "title": "Tesla Owner Drives Rivian R2 for the First Time! ",
+        "url": "https://youtube.com/watch?v=kg6o0XmYPIE",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T12:00:32Z",
+        "score": 0,
+        "snippet": "R2 Performance qualifies for $179 tax write-off, achieves 300+ mile range, features superior camera/steering vs Tesla, smoother ride than R1, but navigation lags Tesla; interior has cheap roof plastic",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Comparison",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Made Me Question My Mustang Mach-E Ownership",
+        "url": "https://youtube.com/watch?v=svkq_q4Ht2Q",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T10:30:10Z",
+        "score": 0,
+        "snippet": "R2 scales R1S for mass market (Model Y equivalent); outperforms Mach-E on interior quality, software responsiveness, and legroom; trades electrochromic glass/rear screen for affordability.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 vs Mach-E"
+        ]
+      },
+      {
+        "title": "Rivian vs. Lucid: the KEY difference | Consumer Reports",
+        "url": "https://youtube.com/watch?v=tAi7q_Ky9-o",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T10:15:34Z",
+        "score": 0,
+        "snippet": "Rivian's commercial vehicle business, backed by Amazon, provides financial cushion Lucid's luxury-only strategy lacks; both struggle with reliability, but Rivian has superior owner satisfaction.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Lucid Competition",
+          "Financial Strength"
+        ]
+      },
+      {
+        "title": "\u2757\ufe0fMODEL Y KILLER LEAKED \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=g30iSBcGx2k",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T08:30:12Z",
+        "score": 0,
+        "snippet": "Lucid Cosmos (R2 competitor) emerging as mid-size slope-back EV with three-row potential and Genesis-style design; software issues continue to delay Lucid's launch.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Lucid Cosmos",
+          "R2 Competition"
+        ]
+      },
+      {
+        "title": "comedy \ud83d\ude05 Riviai",
+        "url": "https://youtube.com/watch?v=vo7pc4mv-iM",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T07:20:04Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Media"
+        ]
+      }
+    ]
   }
 ]
