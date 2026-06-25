@@ -41999,5 +41999,345 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-25T22:04:38.367460Z",
+    "timestamp": "2026-06-25T22:04:38.367460Z",
+    "sentiment": {
+      "positive": 44,
+      "neutral": 27,
+      "negative": 27
+    },
+    "sources": {
+      "news": {
+        "found": 18,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy Claims",
+      "Autonomy Tech",
+      "Battery Life",
+      "Brand Recognition",
+      "Charging Performance",
+      "Community",
+      "Development",
+      "HVAC Issues",
+      "Jeep Recon",
+      "Legal Liability",
+      "Legal Risk",
+      "Market Pressure",
+      "Park Assist",
+      "Positive Review",
+      "Product Pipeline",
+      "Product Strategy",
+      "R1 Performance",
+      "R1 Quality",
+      "R1S",
+      "R1T Performance",
+      "R2 Advantage",
+      "R2 Competition",
+      "R2 Design",
+      "R2 Launch",
+      "R3X Sedan",
+      "RA1 Chip",
+      "Safety Incident",
+      "Sedan Debate",
+      "Software Features",
+      "Sound Engineering",
+      "Tesla FSD",
+      "User Feedback",
+      "Warranty",
+      "Waymo Autonomy"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Feature Request: Completely Mute Park Assist Activation Chime in Stop-and-Go Traffic",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufm61a/feature_request_completely_mute_park_assist/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T20:51:20.346Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Park Assist",
+          "User Feedback"
+        ]
+      },
+      {
+        "title": "Data point: V12 battery replacement estimate \u2014 one month after warranty expiration \ud83d\ude2d",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uflfit/data_point_v12_battery_replacement_estimate_one/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T20:23:09.810Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Battery Life",
+          "Warranty"
+        ]
+      },
+      {
+        "title": "Has the R1 HVAC leak actually been fixed?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufk73n/has_the_r1_hvac_leak_actually_been_fixed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T19:37:01.868Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1 Quality",
+          "HVAC Issues"
+        ]
+      },
+      {
+        "title": "Level 2 charger derating on R1S(NACS native)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufiz0f/level_2_charger_derating_on_r1snacs_native/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T18:52:11.746Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Charging Performance",
+          "R1S"
+        ]
+      },
+      {
+        "title": "Fatal Tesla Crash in Texas Sparks FSD Legal Battle - The Tech Buzz",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWtXSUZVSkZ5c0M2OFBidklrY2Zob0pMd19CeTZjQjk2SEZ3OTQ4RlRJLURBdVR5RzF5T2JGRldlUEx6ckNjNEFRWXo3YktOdWNoVFExQkZJQlRkQ1BkVGRVNDY5Vll3Zzg2ejVhcXJIVEc4bWxlclg2TWk1eV9HOUpxMXYxZDF2QTU4?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Thu, 25 Jun 2026 18:23:00 GMT",
+        "score": 0,
+        "snippet": "Fatal Tesla Crash in Texas Sparks FSD Legal Battle - The Tech Buzz",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Tesla FSD",
+          "Legal Liability"
+        ]
+      },
+      {
+        "title": "Waymo self-driving taxi caught heading into oncoming traffic amid World Cup congestion - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemtsaU1PU3lrdG5vQnByX0NNTldubVRNbk5vSTRNT3lDNUU4ZVVDRFpmcUxGdDY5bWdjcEROZjFvM24tc2h0bnBLSTFaN0pkWllSdEtXcEtGbDBhckpoVWdXWXJEUkRUcjVPZ1BwZ0NyMXFlTEdTcENkZ3lJY2QzV3UyanBWVHFQRUhYSm1kOVpzN0RWRnRNZUUxSmNwTkhrb19IRXhWRi1WOUU?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 25 Jun 2026 09:32:00 GMT",
+        "score": 0,
+        "snippet": "Waymo self-driving taxi caught heading into oncoming traffic amid World Cup congestion - The Independent",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Waymo Autonomy",
+          "Safety Incident"
+        ]
+      },
+      {
+        "title": "@tv.exegesis.space (Bluesky): Can a Heavily Modified Rivian Take the EV Cannonball Record?\nhttps://youtu.be/yf",
+        "url": "https://bsky.app/profile/did:plc:4hg72hldsbzoseyb343fn25j/post/3mp57settxr2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T20:00:13.769Z",
+        "score": 2,
+        "snippet": "Can a Heavily Modified Rivian Take the EV Cannonball Record?\nhttps://youtu.be/yfgkh4Fgw98 #nerd-tv",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1 Performance",
+          "Community"
+        ]
+      },
+      {
+        "title": "@newsen.bsky.social (Bluesky): Coleman Law Initiates Nationwide Class Action Against Rivian Over Misleading Sel",
+        "url": "https://bsky.app/profile/did:plc:hslirr7h6d7livppaxty435b/post/3mp56bcb2rm2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T19:32:46.780Z",
+        "score": 0,
+        "snippet": "Coleman Law Initiates Nationwide Class Action Against Rivian Over Misleading Self-Driving Claims #Knoxville #None #Rivian #Self-Driving #Coleman_Law",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy Claims",
+          "Legal Risk"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): An R2 test mule just got spotted out in British Columbia. One of the first R2 si",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mp54u4qyf22y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T19:07:34.462Z",
+        "score": 8,
+        "snippet": "An R2 test mule just got spotted out in British Columbia. One of the first R2 sightings we have seen in Canada, and a solid sign for everyone up north who has been waiting on it. Meanwhile, US invites",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Development"
+        ]
+      },
+      {
+        "title": "@bullcityfats.bsky.social (Bluesky): How about a nice possible replacement for your Rivian fixation in these trying t",
+        "url": "https://bsky.app/profile/did:plc:ourerl5x3usfcwmzlwdpdiwh/post/3mp53gyaev22a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T18:42:15.871Z",
+        "score": 1,
+        "snippet": "How about a nice possible replacement for your Rivian fixation in these trying times?\n\nyoutu.be/d0t7wpkFc6U?...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Competition",
+          "Market Pressure"
+        ]
+      },
+      {
+        "title": "@fritterary.bsky.social (Bluesky): There's a Rivian Gremlin coming up on the roster.  Most sedans are glorified hat",
+        "url": "https://bsky.app/profile/did:plc:zuviek4mk7wswsdkzaqvjvah/post/3mp52vlbyi22i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T18:32:29.869Z",
+        "score": 1,
+        "snippet": "There's a Rivian Gremlin coming up on the roster.  Most sedans are glorified hatchbacks (IME) right now, so the R3X would only be a few body panels away from a muscular sedan.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R3X Sedan",
+          "Product Pipeline"
+        ]
+      },
+      {
+        "title": "@nickchillphoto.com (Bluesky): In my opinion, that's similar to saying Subaru needs to start making cargo vans ",
+        "url": "https://bsky.app/profile/did:plc:v7gngzva22rilmcp6fiypowf/post/3mp4zrnvc2k26",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T18:12:27.682Z",
+        "score": 1,
+        "snippet": "In my opinion, that's similar to saying Subaru needs to start making cargo vans or Ferrari needs to start making station wagons. Rivian is an adventure vehicle company. I find it hard to believe a sed",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Product Strategy",
+          "Sedan Debate"
+        ]
+      },
+      {
+        "title": "Will it Wheelie?! Ep.15.5 Rivian R1T!",
+        "url": "https://youtube.com/watch?v=KRmcaR9kI9g",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T22:00:01Z",
+        "score": 0,
+        "snippet": "Rivian R1T's software-tunable power transfer unit enables rear-wheel power focus and wheelie capability, demonstrating competitive performance parity with traditional trucks.",
+        "summarized": true,
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance",
+          "Software Features"
+        ]
+      },
+      {
+        "title": "Electric Car Sounds: 2027 Rivian R2 (Performance Launch Edition)",
+        "url": "https://youtube.com/watch?v=XXCYn5NOEfw",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T21:00:30Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Design",
+          "Sound Engineering"
+        ]
+      },
+      {
+        "title": "\u26a1 Only EV Owners Will Get This Right\u2026 Can You? \ud83e\udd14",
+        "url": "https://youtube.com/watch?v=7nTHxK6OSyo",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T20:40:58Z",
+        "score": 0,
+        "snippet": "Think you know electric cars? Name these EV taillights before checking the comments. \u26a1 Tesla \u26a1 Rivian \u26a1 Lucid \u26a1 Hyundai ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Recognition"
+        ]
+      },
+      {
+        "title": "Test Drive: The Rivian R2, Super Fun Family SUV. #rivianr2 #carreview #testdrive #ecars",
+        "url": "https://youtube.com/watch?v=tUqSXPG3sUY",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T19:37:14Z",
+        "score": 0,
+        "snippet": "R2 competes with Kia EV6 as California family SUV offering spacious interior, firm-friendly ride, four driving modes, frunk; positive reception amid tough e-car market competition.",
+        "summarized": true,
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Positive Review"
+        ]
+      },
+      {
+        "title": "Jeep Recon: EV Wrangler or Also Ran? #jeep #ev #wrangler",
+        "url": "https://youtube.com/watch?v=DrvFVukhDyw",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T18:36:29Z",
+        "score": 0,
+        "snippet": "Jeep Recon is non-competitive: priced $10K above R2 ($77K vs $67K), 30% less efficient (2.08 vs 2.94 mi/kWh), lacking Wrangler heritage that justifies premium\u2014creates no R2 threat.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Jeep Recon",
+          "R2 Advantage"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Secret AI Chip Is So Powerful, Tesla Should Be Worried!",
+        "url": "https://youtube.com/watch?v=ML19ktKUmKU",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T17:15:28Z",
+        "score": 0,
+        "snippet": "Rivian custom 5nm RA1 chip powers ACM3 autonomy; universal hands-free on R1 Gen 2 across 3.5M road miles; LiDAR for R2 H2 2026; Autonomy Plus $49.99/mo launches early 2026.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "RA1 Chip",
+          "Autonomy Tech"
+        ]
+      }
+    ]
   }
 ]
