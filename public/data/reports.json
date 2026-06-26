@@ -42339,5 +42339,315 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-26T02:04:13.224325Z",
+    "timestamp": "2026-06-26T02:04:13.224325Z",
+    "sentiment": {
+      "positive": 47,
+      "neutral": 35,
+      "negative": 17
+    },
+    "sources": {
+      "news": {
+        "found": 17,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Acceleration Handling",
+      "Autonomous Vehicles",
+      "Brand Lifestyle",
+      "Charging Network",
+      "Climate Control",
+      "Community",
+      "Competitor Threat",
+      "Customer Advocacy",
+      "Customer Fulfillment",
+      "EV Adoption",
+      "Fleet Contracts",
+      "Long-Distance Travel",
+      "Parts & Service",
+      "Product Positioning",
+      "R1S Advocacy",
+      "R1S Inventory",
+      "R1S Quality",
+      "R2 Adoption",
+      "R2 Launch",
+      "R2 Quality",
+      "RIVN Stock",
+      "Test Drive",
+      "Test Drive Safety"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "2026 R1S Swerving on Acceleration",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufsrjq/2026_r1s_swerving_on_acceleration/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T01:28:20.806Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Quality",
+          "Acceleration Handling"
+        ]
+      },
+      {
+        "title": "(Another) R2 Test Drive Perspective- Coming from i5",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufsfmt/another_r2_test_drive_perspective_coming_from_i5/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T01:13:06.297Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Test Drive"
+        ]
+      },
+      {
+        "title": "Cheap crossbar change!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufs282/cheap_crossbar_change/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T00:56:15.365Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Parts & Service"
+        ]
+      },
+      {
+        "title": "Anyone else just get an email \u201cFinal steps before your R2 invite date\u201d?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ufq4ci/anyone_else_just_get_an_email_final_steps_before/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T23:30:05.004Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Customer Fulfillment"
+        ]
+      },
+      {
+        "title": "Anyone else just get an email \u201cFinal steps before your R2 invite date\u201d?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ufq3so/anyone_else_just_get_an_email_final_steps_before/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-25T23:30:05.004Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Customer Fulfillment"
+        ]
+      },
+      {
+        "title": "PSA to everyone test driving, watch out for the fuzz",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uft6wa/psa_to_everyone_test_driving_watch_out_for_the/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-26T01:48:04.729Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Test Drive Safety"
+        ]
+      },
+      {
+        "title": "Demo drove the R2 on Tuesday and I noticed when you turn the fan speed to the highest setting (7) that the steering wheel and gas pedal vibrate excessively. Any one else noticing this?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uft1bs/demo_drove_the_r2_on_tuesday_and_i_noticed_when/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-26T01:40:58.804Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Quality",
+          "Climate Control"
+        ]
+      },
+      {
+        "title": "Waymo Robotaxi Push Reaches Germany - Transport Topics",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XT002NmZNX0VMazdzeS1sU01IdHRZMkw1QkhOcVNYUHVlcWRwRmt5U3NzU1dFeGZKMDdZb0NRZnoxa3Z0cFVwUF9aR0d3OWkzWWNfWWdPcDBISTRRT2ppT1NtbDFKN3d3ZldR?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 25 Jun 2026 21:36:55 GMT",
+        "score": 0,
+        "snippet": "Waymo Robotaxi Push Reaches Germany - Transport Topics",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomous Vehicles",
+          "Competitor Threat"
+        ]
+      },
+      {
+        "title": "@dtosk.bsky.social (Bluesky): agreed, in my small Colorado town going into my grocery store. There\u2019s a very ol",
+        "url": "https://bsky.app/profile/did:plc:xvcc6rskuafz7lzv2u66givv/post/3mp5sqxo4n22q",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T01:39:27.460Z",
+        "score": 0,
+        "snippet": "agreed, in my small Colorado town going into my grocery store. There\u2019s a very old and ragged dumpster and somebody with a knife scrap the word cyber truck. When I meet somebody that has a Rivian. I wa",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Community"
+        ]
+      },
+      {
+        "title": "@crystal4mvpharris.bsky.social (Bluesky): Nice to see a Black couple especially, the wife, perspective on her future Rivia",
+        "url": "https://bsky.app/profile/did:plc:baaeb2uyxddyprgl6sxjik7p/post/3mp5spmc6l22h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T01:38:42.660Z",
+        "score": 2,
+        "snippet": "Nice to see a Black couple especially, the wife, perspective on her future Rivian 2. She had a Rivian r1 (I forget the model). Looking at retirement vehicles. youtu.be/iWvhdV3arWw",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Adoption",
+          "Customer Advocacy"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): We had two incredible nights at True North in our dome overlooking the sea. \n\nTo",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mp5qsfuczk2z",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T01:05:06.176Z",
+        "score": 0,
+        "snippet": "We had two incredible nights at True North in our dome overlooking the sea. \n\nTomorrow we head over 500 km down to the UNESCO World Heritage Center of Lunenberg, leaving Cape Breton behind way too soo",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Lifestyle",
+          "Community"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): \u26a1\ufe0fDay 6: We\u2019re now over 1,500 miles into our Canadian road trip adventure with o",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mp5qrhihg22z",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T01:05:06.156Z",
+        "score": 3,
+        "snippet": "\u26a1\ufe0fDay 6: We\u2019re now over 1,500 miles into our Canadian road trip adventure with our @rivian R1S. \n\nToday we explored the world famous Cabot Trail and Cape Breton Highlands National Park on five hikes a",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Advocacy",
+          "Long-Distance Travel"
+        ]
+      },
+      {
+        "title": "@realbowman.bsky.social (Bluesky): I don\u2019t have a dedicated off street spot, and get by with using a public charger",
+        "url": "https://bsky.app/profile/did:plc:x2abhlf6rtrtj5zihpyk466d/post/3mp5ewx65tk24",
+        "source": "bluesky",
+        "publishedAt": "2026-06-25T21:32:15.871Z",
+        "score": 0,
+        "snippet": "I don\u2019t have a dedicated off street spot, and get by with using a public charger a few blocks away. Many more public chargers than a few years ago.\n\nNewer cars can also be fully charged in ~20minutes ",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network",
+          "EV Adoption"
+        ]
+      },
+      {
+        "title": "I See Three #rivian #automobile #ev #r2",
+        "url": "https://youtube.com/watch?v=Xy6gnUbAzYE",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T01:27:39Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian: Bull, Base, Bear Case Analysis &amp; Targets",
+        "url": "https://youtube.com/watch?v=56csAMX7Icg",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T00:00:44Z",
+        "score": 0,
+        "snippet": "Production scaling and fleet contracts drive three Rivian scenarios: bull case $60 (efficient platform + fleet deals), base case $30 (moderate growth), bear case $10 (supply-chain/competition risks).",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Fleet Contracts"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1S Adventure Package STK# CU20631 Columbus, Dublin, Worthington, Easton, Westerville",
+        "url": "https://youtube.com/watch?v=i05tB30bFCk",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T22:58:10Z",
+        "score": 0,
+        "snippet": "2023 Rivian R1S Adventure Package (<12k mi): AWD three-row SUV with premium interior, driver-assist features (lane-keep, blind-spot/cross-traffic alerts), heated mirrors, moon roof, wood-grain trim.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Inventory"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 ",
+        "url": "https://youtube.com/watch?v=QyMbhM76xgI",
+        "source": "youtube",
+        "publishedAt": "2026-06-25T22:06:59Z",
+        "score": 0,
+        "snippet": "Rivian R2 is fully electric with configurable seating, spacious cargo, and premium green leather interiors, positioning it as a mass-market Tesla competitor with focus on interior comfort features.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Positioning"
+        ]
+      }
+    ]
   }
 ]
