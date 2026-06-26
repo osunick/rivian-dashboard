@@ -42947,5 +42947,434 @@
         "themes": []
       }
     ]
+  },
+  {
+    "id": "2026-06-26T18:04:08.510073Z",
+    "timestamp": "2026-06-26T18:04:08.510073Z",
+    "sentiment": {
+      "positive": 53,
+      "neutral": 19,
+      "negative": 26
+    },
+    "sources": {
+      "news": {
+        "found": 26,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Amazon Partnership",
+      "Brand Mention",
+      "CEO Leadership",
+      "China Competition",
+      "Community Interest",
+      "Company Viability",
+      "EV Software",
+      "Financial Distress",
+      "Layoffs",
+      "Leadership",
+      "Market Penetration",
+      "Media Reception",
+      "Product Portfolio",
+      "Quality",
+      "R1S Demand",
+      "R1T Loyalty",
+      "R1T Marketing",
+      "R1T Software",
+      "R2 Delivery",
+      "R2 Demo",
+      "R2 Launch",
+      "R2 Migration",
+      "R2 Reservation",
+      "R2 Testing",
+      "R3X Launch",
+      "RIVN Stock",
+      "Unit Economics",
+      "Unrelated"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Would it be silly to ask for a sticky thread for Rivian R2 vin numbers?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugdipi/would_it_be_silly_to_ask_for_a_sticky_thread_for/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T17:37:36.061Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Community Interest"
+        ]
+      },
+      {
+        "title": "10hr 575mi roadtrip tomorrow\u2026 R1S (large battery) or Chevy 1500 crew cab\u2026",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uga71p/10hr_575mi_roadtrip_tomorrow_r1s_large_battery_or/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T15:35:20.377Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Demand"
+        ]
+      },
+      {
+        "title": "Somebody's waiting for their reservation to come up.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ug7xiu/somebodys_waiting_for_their_reservation_to_come_up/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T14:10:03.286Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Reservation"
+        ]
+      },
+      {
+        "title": "Battery Engineer / EV Enthusiast R2 Demo Drive Review",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugb3bw/battery_engineer_ev_enthusiast_r2_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-26T16:08:33.779Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Demo"
+        ]
+      },
+      {
+        "title": "Rubio says Israel, Lebanon reach framework agreement aimed at \u2018lasting peace and security\u2019",
+        "url": "https://www.cnbc.com/2026/06/26/israel-lebanon-hezbollah-ceasefire-rubio.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Unrelated"
+        ]
+      },
+      {
+        "title": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOdE0tWkRPVXNhZjFieldmYmRFNnRLVWFNSFBoRmNqanZhaEFqb1ZIZWZCN3ROczZRc1hiSnNUZng2S2pRcVY3ZUlhRlZTeVZ5bUNqU1lLMl9QZDhVS2JLd1RGNnhBeUtvenpsZ0dpWmFVOFgwWXl1Z0NFWlBacjd5ZTZjRnR6WW5LRTJaVDE4SXd4UkhrVkhVUllGZWZheDJSY1MyY3hZUDhYZ3VhMFNUX2pJWS1KZnRmblcwa0o2RWFTRHRoVUZzb2NDTTc1bThiVlZMZGQ0VDFwYjVtNlN2YWFfV1FBakpaejNGcDBUdm4xYmFSZEt3ZExZSFN0MWhBUWFUTk9iME42aFBVWkVmZ3NnNWg3WGd6QUNNTGlxa2doaWVMejhkOGZEYnRiOHVvQ2tsd0g2VWl2OHZ4RW8yZXN3bmh6MG02NTJFVG1jWDBLTHgzSkNEelUwOG15bVZZWlB6MEJFeVRYLU9vdThhbEd5OG94VFRXelJzSFZuRQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 26 Jun 2026 13:06:09 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Media Reception"
+        ]
+      },
+      {
+        "title": "Rivian R2 prototype spotted testing in Canada - driveteslacanada.ca",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHNPZ1hFZ3JvNTU0MDBFbUxHc1c0eWRuaGpxek1hOTAyYU9KN25ic2RfZ2VOenFZQTVOeGVSWlhsTW1CV3JmSERaZ3M1akhkQnZkWU9vZUtkRkU5OGZuak9HdFJmRXItZjhobTJWRnBrQURZQWxVeENOZWJnR3hicHIyQWxBZw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 26 Jun 2026 13:13:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 prototype spotted testing in Canada - driveteslacanada.ca",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Testing"
+        ]
+      },
+      {
+        "title": "@skinoc.bsky.social (Bluesky): Buy Rivian Stock and ignore it for 3 years.  It'll double.\n\n(If it doesn't, you'",
+        "url": "https://bsky.app/profile/did:plc:fqyp4mcwxylqsmkdtydyqpb3/post/3mp7gd2fbvc2g",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T17:02:14.971Z",
+        "score": 0,
+        "snippet": "Buy Rivian Stock and ignore it for 3 years.  It'll double.\n\n(If it doesn't, you'll probably not want to be living in the US)",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@williammoss.bsky.social (Bluesky): I don't know if Rivian is going to make it, but I agree with Scaringe on this po",
+        "url": "https://bsky.app/profile/did:plc:vvjhxsc6krgiw4n4lintojlf/post/3mp7flsxdl222",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T16:49:16.869Z",
+        "score": 3,
+        "snippet": "I don't know if Rivian is going to make it, but I agree with Scaringe on this point, and right now it looks like the pure play EV companies are doing a better job than the legacy carmakers because the",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Company Viability"
+        ]
+      },
+      {
+        "title": "@an-old-gremlin.bsky.social (Bluesky): In comparison, the US seems fossilized and old. It's unusual to even see a Rivia",
+        "url": "https://bsky.app/profile/did:plc:bmjn77wiqa5n3eamv3vyom5e/post/3mp7eug7fsc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T16:36:09.400Z",
+        "score": 0,
+        "snippet": "In comparison, the US seems fossilized and old. It's unusual to even see a Rivian.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Market Penetration"
+        ]
+      },
+      {
+        "title": "@techdefused.bsky.social (Bluesky): Rivian warns carmakers will fall behind by ignoring EV software",
+        "url": "https://bsky.app/profile/did:plc:ytm5r75urtq2hrexoguebd5f/post/3mp7etled5b2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T16:35:42.564Z",
+        "score": 0,
+        "snippet": "Rivian warns carmakers will fall behind by ignoring EV software",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "EV Software",
+          "Leadership"
+        ]
+      },
+      {
+        "title": "@guycole.bsky.social (Bluesky): I worked at Rivian before, during and after the IPO.  Any of these big IPO will ",
+        "url": "https://bsky.app/profile/did:plc:oengogsfb6yvapuqyxhiipcl/post/3mp7ehe4cws2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T16:28:52.065Z",
+        "score": 0,
+        "snippet": "I worked at Rivian before, during and after the IPO.  Any of these big IPO will almost certainly disappoint at the retail investor level.  My several million dollars (at peak) ended up being $65K (yea",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "@theguardian.com (Bluesky): \u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest ",
+        "url": "https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mp7dunjsm723",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T16:18:24.366Z",
+        "score": 31,
+        "snippet": "\u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "CEO Leadership"
+        ]
+      },
+      {
+        "title": "@toppnews.bsky.social (Bluesky): \n#Amazon   #Executive   #fuel   #Rivian\n\ud83c\udf10 www.newsmart.ch",
+        "url": "https://bsky.app/profile/did:plc:mhqnbglrgmwiuz3kgexbi7uf/post/3mp7c6wdc3i2n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T15:48:21.676Z",
+        "score": 1,
+        "snippet": "\n#Amazon   #Executive   #fuel   #Rivian\n\ud83c\udf10 www.newsmart.ch",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Amazon Partnership"
+        ]
+      },
+      {
+        "title": "@guardian-uk-rss.bsky.social (Bluesky): \u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest ",
+        "url": "https://bsky.app/profile/did:plc:hciqzcg2tksnxmhxn4vvvcss/post/3mp7556diow2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T14:17:54.260Z",
+        "score": 0,
+        "snippet": "\u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "CEO Leadership"
+        ]
+      },
+      {
+        "title": "@news-flows-ir.bsky.social (Bluesky): \u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest ",
+        "url": "https://bsky.app/profile/did:plc:vzmnljt7otfbbgrmachtefxh/post/3mp75b2i4ix2d",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T14:20:04.364Z",
+        "score": 0,
+        "snippet": "\u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs\n\nRJ Scaringe says firms focused on selling fossil fuel engines risk being \u2018woefully behind\u2019 on technology by end ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "CEO Leadership"
+        ]
+      },
+      {
+        "title": "How I Got Out of My Rivian R1T Lease Early (and What It Cost)",
+        "url": "https://youtube.com/watch?v=2MecZ_f5ErQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T17:57:25Z",
+        "score": 0,
+        "snippet": "R1T: first e-truck to market beating Cybertruck/F-150; Gen 2 tri-motor, 410-mi range, ~$100K; loyal customer trading for R2; autonomy platform critical to Gen 2 positioning.",
+        "summarized": true,
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Loyalty",
+          "R2 Migration"
+        ]
+      },
+      {
+        "title": "Auto Manufacturer CutsLayoffs Lucid, Rivian and VW",
+        "url": "https://youtube.com/watch?v=FRUy9-KMUIs",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T17:24:16Z",
+        "score": 0,
+        "snippet": "Rivian just launched R2 to drive affordable-segment volume, but Q1 2026 losses of $6k per unit and immediate layoffs despite direct-to-consumer model expose critical cost structure failure.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Unit Economics",
+          "Layoffs"
+        ]
+      },
+      {
+        "title": "2 Years Later, This Is My Biggest Rivian Regret",
+        "url": "https://youtube.com/watch?v=u3rm-xchHEA",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T17:15:47Z",
+        "score": 0,
+        "snippet": "Dual motor resets settings every 4 hours for 1-2% efficiency; tri/quad retain preferences with negligible range loss\u2014critical factor for daily driving satisfaction.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T Software",
+          "Quality"
+        ]
+      },
+      {
+        "title": "ALL Rivian Models Explained in UNDER 30 Seconds \u23f1\ufe0f #Rivian",
+        "url": "https://youtube.com/watch?v=t8BFecK-Xoo",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T17:11:26Z",
+        "score": 0,
+        "snippet": "Rivian's portfolio spans premium R1T/R1S (truck/SUV), affordable R2 (5-seat), compact R3/R3X, and commercial vans\u2014strategic segmentation from luxury to mass-market pricing.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Product Portfolio"
+        ]
+      },
+      {
+        "title": "Rivian R1T",
+        "url": "https://youtube.com/watch?v=tMQ-ibPbFow",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T16:43:40Z",
+        "score": 0,
+        "snippet": "R1T promotional content emphasizes 100-mile range (likely outdated), gear tunnel storage, all-wheel steering, and silent electric operation as differentiators against traditional trucks; no substantiv",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Marketing"
+        ]
+      },
+      {
+        "title": "Could Lucid and Rivian Merge? #rivian #lucid #merger",
+        "url": "https://youtube.com/watch?v=nAA7d48f57Y",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T16:23:07Z",
+        "score": 0,
+        "snippet": "Saudi PIF could force Lucid-Rivian merger; Lucid becomes R&D support for Rivian's truck focus while phasing out standalone brand.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Financial Distress"
+        ]
+      },
+      {
+        "title": "thanks for giving gift#rivian #usacars #carshorts #cars #musclecars #mustang #shorts #youtubeshorts",
+        "url": "https://youtube.com/watch?v=DordVG0ZQdo",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T16:18:39Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mention"
+        ]
+      },
+      {
+        "title": "La confesi\u00f3n de Rivian tras desmontar un Xiaomi SU7, as\u00ed es como China gana la batalla de los coches",
+        "url": "https://youtube.com/watch?v=WqlpKbCvO5I",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T16:20:04Z",
+        "score": 0,
+        "snippet": "La confesi\u00f3n de Rivian tras desmontar un Xiaomi SU7, as\u00ed es como China gana la batalla de los coches No es ning\u00fan secreto ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "China Competition"
+        ]
+      },
+      {
+        "title": "Rivian Reservation Delivery UPDATE!",
+        "url": "https://youtube.com/watch?v=9byzh4PM9uY",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T16:18:37Z",
+        "score": 0,
+        "snippet": "Sell Your Tesla or Any Vehicle \u2013 Get Top Offers via PLUG Highest Offer for Tesla/EV - https://bit.ly/3KoN9rC \u2713 Tesla Referral ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Delivery"
+        ]
+      },
+      {
+        "title": "2028\u00a0Rivian R3X EV #shorts",
+        "url": "https://youtube.com/watch?v=0-lbPXpmRXg",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T16:00:18Z",
+        "score": 0,
+        "snippet": "Futuristic 2028 Rivian R3X EV concept car in bright orange color. Ultra-realistic cinematic driving shot on a dark super highway ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R3X Launch"
+        ]
+      }
+    ]
   }
 ]
