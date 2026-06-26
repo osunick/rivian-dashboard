@@ -43376,5 +43376,442 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-26T22:03:14.081047Z",
+    "timestamp": "2026-06-26T22:03:14.081047Z",
+    "sentiment": {
+      "positive": 68,
+      "neutral": 16,
+      "negative": 16
+    },
+    "sources": {
+      "news": {
+        "found": 25,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "AI Design",
+      "Accessories",
+      "Adventure Marketing",
+      "Amazon Partnership",
+      "Annual Meeting",
+      "Autonomy Feature",
+      "Autonomy Plus",
+      "CEO Leadership",
+      "Charging Issues",
+      "Concept Truck",
+      "Customer Preference",
+      "EV Industry",
+      "EVER Competitor",
+      "Investor Sentiment",
+      "Lease Affordability",
+      "Lifestyle Marketing",
+      "Market Positioning",
+      "Model Y Competition",
+      "Polestar Partnership",
+      "Product Coverage",
+      "Production Quality",
+      "R1S Design",
+      "R1S Pricing",
+      "R1T Capability",
+      "R1T Content",
+      "R1T Performance",
+      "R2 Launch",
+      "R2 Performance",
+      "R2 Purchase Intent",
+      "RIVN Stock",
+      "Software Licensing",
+      "Tesla Competition",
+      "Tesla Switcher",
+      "Universal Hands-Free",
+      "Unknown",
+      "Vehicle Maturity",
+      "Vehicle Safety"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Asked AI to create a Slate/Rivian truck",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugj1ii/asked_ai_to_create_a_slaterivian_truck/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T21:05:55.827Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "AI Design",
+          "Concept Truck"
+        ]
+      },
+      {
+        "title": "First time seeing this",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugixph/first_time_seeing_this/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T21:01:47.967Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Autonomy+ and sunglasses?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ughzec/autonomy_and_sunglasses/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T20:25:21.048Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy Plus"
+        ]
+      },
+      {
+        "title": "Rivian Software for Polestar?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugeykt/rivian_software_for_polestar/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T18:31:01.901Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software Licensing",
+          "Polestar Partnership"
+        ]
+      },
+      {
+        "title": "Did Rivian R1S lease prices just go through the roof? Starting at $1139/mo",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugejpc/did_rivian_r1s_lease_prices_just_go_through_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T18:15:39.329Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Pricing",
+          "Lease Affordability"
+        ]
+      },
+      {
+        "title": "Tesla Supercharging Issues",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugedtt/tesla_supercharging_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T18:09:37.756Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Tesla Competition",
+          "Charging Issues"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Liking  what they\u2019re doing over at EVER, simple consistent reviews, and I LOVE a",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mp7v55pdoc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T21:27:25.780Z",
+        "score": 2,
+        "snippet": "Liking  what they\u2019re doing over at EVER, simple consistent reviews, and I LOVE anyone who explains clearly for folks that faster charging 800V EVs put less stress on their batteries than 400V, i.e. Ri",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Preference",
+          "EVER Competitor"
+        ]
+      },
+      {
+        "title": "@quant-hub.bsky.social (Bluesky): \ud83d\udea8 $RIVN\nOn June 22, 2026, Rivian Automotive, Inc. held its Annual Meeting of Sto",
+        "url": "https://bsky.app/profile/did:plc:ngdd6z6ozqhwlbeckdzwirp7/post/3mp7tgp7yjp2v",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T20:56:55.960Z",
+        "score": 0,
+        "snippet": "\ud83d\udea8 $RIVN\nOn June 22, 2026, Rivian Automotive, Inc. held its Annual Meeting of Stockholders.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Annual Meeting"
+        ]
+      },
+      {
+        "title": "@stephanloy.bsky.social (Bluesky): It's ten months till we order a Rivian R2 to replace the Tesla Model 3. It's two",
+        "url": "https://bsky.app/profile/did:plc:twr724rddw36fy3yygko5elb/post/3mp7smzfda22u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T20:42:35.766Z",
+        "score": 1,
+        "snippet": "It's ten months till we order a Rivian R2 to replace the Tesla Model 3. It's two weeks until my writers' group's retreat. Hopefully, I won't die in 13 days.\ud83d\ude02",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Purchase Intent",
+          "Tesla Switcher"
+        ]
+      },
+      {
+        "title": "@the-aero-engineer.bsky.social (Bluesky): A first job model build from anyone is a beta test. Rivian more an alpha.",
+        "url": "https://bsky.app/profile/did:plc:2y5h3axou3jxazq6ptnbs2ln/post/3mp7shfnbsc25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T20:39:26.577Z",
+        "score": 1,
+        "snippet": "A first job model build from anyone is a beta test. Rivian more an alpha.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Production Quality",
+          "Vehicle Maturity"
+        ]
+      },
+      {
+        "title": "@thedendroaspis.teamlh.social (Bluesky): \u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest ",
+        "url": "https://bsky.app/profile/did:plc:bm745yfrzesv2x4xczu43ih2/post/3mp7s2p6mvs27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T20:32:21.174Z",
+        "score": 1,
+        "snippet": "\u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs | Automotive industry | The Guardian share.google/EFYcAwav7rf6...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "CEO Leadership",
+          "EV Industry"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): It\u2019s already started. Rivian R2",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mp7ru27zjk23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T20:28:40.161Z",
+        "score": 3,
+        "snippet": "It\u2019s already started. Rivian R2",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@uk-news.bsky.social (Bluesky): \u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest ",
+        "url": "https://bsky.app/profile/did:plc:vizwdor43adw3277u2kkrssd/post/3mp7p5ijcna2w",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T19:40:13.167Z",
+        "score": 0,
+        "snippet": "\u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs | Automotive industry\n\nhttps://www.europesays.com/uk/1051944/\n\nCarmakers that focus on selling fossil fuel engine",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "CEO Leadership",
+          "EV Industry"
+        ]
+      },
+      {
+        "title": "@eu-business.bsky.social (Bluesky): \u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest ",
+        "url": "https://bsky.app/profile/did:plc:l46zxuss3stxah25hcxha3pa/post/3mp7p5g5q5623",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T19:40:09.875Z",
+        "score": 0,
+        "snippet": "\u2018Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs | Automotive industry\n\nhttps://www.europesays.com/uk/1051944/\n\nCarmakers that focus on selling fossil fuel engine",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "CEO Leadership",
+          "EV Industry"
+        ]
+      },
+      {
+        "title": "@hedgehogcycling.bsky.social (Bluesky): It's good that Rivian is pushing electric vehicles, but that SUV is a dangerous ",
+        "url": "https://bsky.app/profile/did:plc:6kenvz7cjaqjq3oxti3vqmli/post/3mp7p3wuzpk25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T19:39:13.761Z",
+        "score": 0,
+        "snippet": "It's good that Rivian is pushing electric vehicles, but that SUV is a dangerous monster www.theguardian.com/business/202...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Safety",
+          "R1S Design"
+        ]
+      },
+      {
+        "title": "@poohbearcorner.bsky.social (Bluesky): EV\n\nCarmakers that focus on selling fossil fuel engines are at risk of being \u201cwo",
+        "url": "https://bsky.app/profile/did:plc:u5ixxx5gh6tb3hvbmfm2wizt/post/3mp7o6egjqk2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T19:22:49.473Z",
+        "score": 2,
+        "snippet": "EV\n\nCarmakers that focus on selling fossil fuel engines are at risk of being \u201cwoefully behind\u201d on technology by the end of the decade, according to the boss of Rivian, an Amazon-backed US electric car",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "EV Industry",
+          "Market Positioning"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 First Look!",
+        "url": "https://youtube.com/watch?v=LRGfN1awljA",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T21:45:08Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Coverage"
+        ]
+      },
+      {
+        "title": "Rivian R1T Adventure 2023 Origem Americana!#tcar #shorts #carros",
+        "url": "https://youtube.com/watch?v=Vbc8GAkvekk",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T21:45:11Z",
+        "score": 0,
+        "snippet": "Rivian R1T Adventure 2023 Origem Americana! #tcar #tcarimports #imports #shorts #carros.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Content",
+          "Adventure Marketing"
+        ]
+      },
+      {
+        "title": "Same day delivery \ud83d\ude9a\ud83e\udeea #TowingRecovery #rivian #amazon #comedy #kansas",
+        "url": "https://youtube.com/watch?v=I0nkyZAt3_E",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T21:16:14Z",
+        "score": 0,
+        "snippet": "Rivian demonstrates practical towing/recovery capability by successfully pulling stuck Amazon delivery van, validating usable pulling strength for consumer real-world scenarios.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Amazon Partnership",
+          "R1T Capability"
+        ]
+      },
+      {
+        "title": "Rivian R1T Goes WILD on Downtown City Circuit #rivianr1t #ev",
+        "url": "https://youtube.com/watch?v=lsMnfQjWzJ4",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T21:00:30Z",
+        "score": 0,
+        "snippet": "Full throttle: Rivian R1T on Downtown City Circuit! Did it survive the run? Smash that like button and stick around for 50+ cars on ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance",
+          "Product Coverage"
+        ]
+      },
+      {
+        "title": "Its time for RIVN to fly. Rivian Investors, avoid the noise and get ready for a big bounce!",
+        "url": "https://youtube.com/watch?v=KzeUd2iiofQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T20:38:53Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Investor Sentiment"
+        ]
+      },
+      {
+        "title": "VOZ Camp Kitchen: Ultimate Off-Grid Cooking Setup for Rivian Camp Kitchen Adventures",
+        "url": "https://youtube.com/watch?v=vLp0sv6fHUo",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T20:39:36Z",
+        "score": 0,
+        "snippet": "VOZ Camp Kitchen integrates running water, sink, stove, and prep space into one compact system that deploys instantly for Rivian off-grid camping.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Accessories",
+          "Lifestyle Marketing"
+        ]
+      },
+      {
+        "title": "Universal Hands-Free | Rivian",
+        "url": "https://youtube.com/watch?v=dm3CRq5lRKA",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T19:15:50Z",
+        "score": 0,
+        "snippet": "You can travel 3.5 million miles of roads in the U.S. and Canada with Universal Hands-Free.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Universal Hands-Free",
+          "Autonomy Feature"
+        ]
+      },
+      {
+        "title": "Inside a Rivian R2 SUV #rivian #suv #productanimation #cgi #tech",
+        "url": "https://youtube.com/watch?v=yqSEXD2Zgy4",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T19:05:21Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Product Coverage"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Is Better Than Expected\u2014But There\u2019s a Catch!",
+        "url": "https://youtube.com/watch?v=Gyh1Z6XIU5Y",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T18:30:37Z",
+        "score": 0,
+        "snippet": "R2 Performance launches now (base $45k unavailable) with 656hp, 3.6s 0-60, 330mi range, superior design, off-road capability; outperforms Model Y but pricier than promised entry point.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Performance",
+          "Model Y Competition"
+        ]
+      }
+    ]
   }
 ]
