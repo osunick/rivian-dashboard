@@ -44578,5 +44578,401 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-27T18:04:00.669973Z",
+    "timestamp": "2026-06-27T18:04:00.669973Z",
+    "sentiment": {
+      "positive": 40,
+      "neutral": 48,
+      "negative": 12
+    },
+    "sources": {
+      "news": {
+        "found": 25,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Events",
+      "Customer Experience",
+      "International Market",
+      "R2 Competitive Position",
+      "R2 Launch",
+      "R2 Reviews",
+      "R2 Sales Concerns",
+      "R2 Specs",
+      "R2 Test Drive",
+      "Rivian Van",
+      "Safety Features",
+      "Secondary Market",
+      "Stock Analysis",
+      "Tesla Competition"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Here we go! v2.0",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uh8zwg/here_we_go_v20/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T17:44:05.937Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian AEB is garbage",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uh7gf0/rivian_aeb_is_garbage/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T16:42:05.095Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Safety Features"
+        ]
+      },
+      {
+        "title": "Order In, Got my VIN day after ordering.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uh8f9o/order_in_got_my_vin_day_after_ordering/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T17:20:59.006Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Experience"
+        ]
+      },
+      {
+        "title": "Glowing R2 review in WSJ",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uh7epe/glowing_r2_review_in_wsj/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T16:40:15.871Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Reviews"
+        ]
+      },
+      {
+        "title": "Anyone decided to not purchase after test driving the R2?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uh66qh/anyone_decided_to_not_purchase_after_test_driving/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T15:51:08.206Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Sales Concerns"
+        ]
+      },
+      {
+        "title": "Test Drive experience",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uh5l0n/test_drive_experience/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T15:26:35.647Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Test Drive"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Still nothing for me on my invite to order. I never even got the first email wit",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mpbz65qidc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T17:44:52.572Z",
+        "score": 0,
+        "snippet": "Still nothing for me on my invite to order. I never even got the first email with \u201cend of June\u201d for an order or update. My birthday is Wednesday so it would be great if Rivian had a surprise waiting f",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Customer Experience"
+        ]
+      },
+      {
+        "title": "@randyrnbla.bsky.social (Bluesky): My #Rivian #R2 test drive for myself & visiting family (who have reservations to",
+        "url": "https://bsky.app/profile/did:plc:suknqdnajuo7o7ho6uh5pvxb/post/3mpbyeufgsc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T17:30:42.664Z",
+        "score": 0,
+        "snippet": "My #Rivian #R2 test drive for myself & visiting family (who have reservations too) is Sunday afternoon at the Venice, CA hub. I cannot wait! Jumping out of my shoes! \ud83d\ude3a",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Test Drive"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): Drag coefficient less than 0.30, range greater than 300 miles\n\nAlso a little che",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3mpbvqry3ik2u",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T16:43:45.170Z",
+        "score": 0,
+        "snippet": "Drag coefficient less than 0.30, range greater than 300 miles\n\nAlso a little cheaper than a Ferrari",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Specs"
+        ]
+      },
+      {
+        "title": "@camasonian.bsky.social (Bluesky): It is also wrong.  Other than Tesla, most EVs sold in the US are SUV style.  And",
+        "url": "https://bsky.app/profile/did:plc:ar4m3xiu43lhhimqi7vnor5z/post/3mpbtfbszyc23",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T16:01:29.664Z",
+        "score": 2,
+        "snippet": "It is also wrong.  Other than Tesla, most EVs sold in the US are SUV style.  And new EVs like the Rivian R2 look like SUVs and also have excellent range",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Competitive Position"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2022 Rivian R1S\n\n\ud83d\udcb0 $56,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 69,924 mi\n\nCheck it out: http",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mpbtdjikxt2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T16:00:29.077Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2022 Rivian R1S\n\n\ud83d\udcb0 $56,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 69,924 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog0b96x0bj8klu2fg7cbwcg\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Secondary Market"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $68,294 | \ud83d\udccd Midlothian, VA | \ud83d\udee3\ufe0f 11,120 mi\n\nCheck it out: ht",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mpbpyyvibo25",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T15:00:54.961Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $68,294 | \ud83d\udccd Midlothian, VA | \ud83d\udee3\ufe0f 11,120 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog0b9ae0bj9klu2chw1ekg8\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Secondary Market"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $60,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 46,865 mi\n\nCheck it out: http",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mpbpylmjxe2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T15:00:41.063Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $60,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 46,865 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog0b9ly0bjcklu2j4kkijzw\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Secondary Market"
+        ]
+      },
+      {
+        "title": "@detroitnews.com (Bluesky): After the critical success of the $80k R1T/R1S, the R2 marks a pivotal moment in",
+        "url": "https://bsky.app/profile/did:plc:ax7hyxuychp2tqbauseifsgl/post/3mpbpy2lue52j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T15:00:23.379Z",
+        "score": 1,
+        "snippet": "After the critical success of the $80k R1T/R1S, the R2 marks a pivotal moment in the CEO's dream to take Rivian EVs mainstream.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2023 Rivian R1T\n\n\ud83d\udcb0 $54,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 37,284 mi\n\nCheck it out: http",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mpbmnyoosh2m",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T14:01:04.677Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2023 Rivian R1T\n\n\ud83d\udcb0 $54,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 37,284 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog0baoq0bjhklu2zvnixk3i\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Secondary Market"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s $45K Model 3 Killer Changes Everything",
+        "url": "https://youtube.com/watch?v=3Yp6D9YePQk",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T18:00:31Z",
+        "score": 0,
+        "snippet": "Rivian R2 launches at $45K, undercutting Tesla Model Y by $5K with positive margins from day one, 90K+ reservations, and SUV form factor\u2014directly threatening Tesla's mass-market EV dominance.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "is the Rivian R2 a Tesla Killer? #rivianr2 #usacars #electricsuv",
+        "url": "https://youtube.com/watch?v=eGg6-YY2kmw",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T17:06:15Z",
+        "score": 0,
+        "snippet": "Rivian R2: all-wheel-drive EV sub-$50K with 345-mile range and 656 hp targets budget buyers, but lacks CarPlay/Android Auto and exhibits softer steering than rivals including Tesla.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Competitive Position"
+        ]
+      },
+      {
+        "title": "Why the Rivian Van is Different",
+        "url": "https://youtube.com/watch?v=mtYt6XCnekU",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T17:00:08Z",
+        "score": 0,
+        "snippet": "$80k Rivian all-electric commercial van: 160mi range, auto bulkhead door, 6'10 cargo height, and adaptive safety lights for fleet efficiency.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Van"
+        ]
+      },
+      {
+        "title": "Greensboro North Carolina Cars and Coffee Rivian R1T #evs #rivian #tesla #carsandcoffee",
+        "url": "https://youtube.com/watch?v=hTzwrVrRaDY",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T16:11:50Z",
+        "score": 0,
+        "snippet": "cars #trucks #pickup #northcarolina.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Events"
+        ]
+      },
+      {
+        "title": "TCAR mostra RIVIAN carro da AMAZON 100% eletrico!  #tcar #automobile",
+        "url": "https://youtube.com/watch?v=BfwdgqdAlnQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T16:00:37Z",
+        "score": 0,
+        "snippet": "CARRO 2023, 400 KM PRATICAMENTE 0! CARRO AMERICANO!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "International Market"
+        ]
+      },
+      {
+        "title": "S\u00f3 existem tr\u00eas Rivian anunciadas\u2026 e blindada s\u00f3 essa",
+        "url": "https://youtube.com/watch?v=IZinKA_6o3A",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T15:50:14Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "International Market"
+        ]
+      },
+      {
+        "title": "R$ 800 mil numa Rivian zero km blindada",
+        "url": "https://youtube.com/watch?v=tXFAgKls8DA",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T15:47:44Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "International Market"
+        ]
+      },
+      {
+        "title": "Greensboro North Carolina Cars and Coffee Rivian R1T",
+        "url": "https://youtube.com/watch?v=n94RpoQE7CE",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T15:41:36Z",
+        "score": 0,
+        "snippet": "tesla #evs #carsandcoffee #northcarolina #nascar #formula1 #cars.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Events"
+        ]
+      },
+      {
+        "title": "Why Everyone Is Talking About the Rivian R2!#FutureCars #SUV #Tech #Cars #Shorts #usa",
+        "url": "https://youtube.com/watch?v=uh3ZkvfZrpk",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T15:25:39Z",
+        "score": 0,
+        "snippet": "Rivian R2 starting at $45K with 300+ miles range delivers premium EV experience (futuristic design, adventure-ready) at mainstream price, targeting accessible luxury segment.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "RIVN Stock Next WEEK CRAZY!? (Urgent: Thank Me Later) Rivian Automotive",
+        "url": "https://youtube.com/watch?v=xgG5FtlaWLg",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T15:11:31Z",
+        "score": 0,
+        "snippet": "This transcript contains no product intelligence\u2014it's purely stock price technical analysis and trading strategy with no information about Rivian's vehicles, software, autonomy, pricing, or competitiv",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Stock Analysis"
+        ]
+      }
+    ]
   }
 ]
