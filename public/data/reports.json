@@ -44205,5 +44205,378 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-27T14:02:59.924054Z",
+    "timestamp": "2026-06-27T14:02:59.924054Z",
+    "sentiment": {
+      "positive": 56,
+      "neutral": 21,
+      "negative": 21
+    },
+    "sources": {
+      "news": {
+        "found": 23,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Charging Infrastructure",
+      "Charging Network",
+      "Competitive Threat",
+      "Customer Acquisition",
+      "Customer Engagement",
+      "Customer Reviews",
+      "EV Market",
+      "Production Issues",
+      "R1T/R1S Pricing",
+      "R2 Design",
+      "R2 Development",
+      "R2 Features",
+      "R2 Pricing",
+      "R2 Production",
+      "R2 Reviews",
+      "R2 Visibility",
+      "RIVN Stock",
+      "Warranty Advantage"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rivian R2 in Arizona",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uh3a43/rivian_r2_in_arizona/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T13:49:25.943Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Development"
+        ]
+      },
+      {
+        "title": "[MEGATHREAD] Saturday Switchers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uh26qm/megathread_saturday_switchers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T13:00:44.306Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Acquisition"
+        ]
+      },
+      {
+        "title": "Underbody Panel Fasteners",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugz4nl/underbody_panel_fasteners/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T10:22:16.903Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Production Issues"
+        ]
+      },
+      {
+        "title": "R2 releasing in 2027 should have dimmable roofa",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugvtdd/r2_releasing_in_2027_should_have_dimmable_roofa/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T07:06:16.880Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Features"
+        ]
+      },
+      {
+        "title": "R2 releasing in 2027 should have dimmable roofa",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugvt5p/r2_releasing_in_2027_should_have_dimmable_roofa/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T07:06:16.880Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Features"
+        ]
+      },
+      {
+        "title": "Rivian Adventure Network Charging",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugugry/rivian_adventure_network_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T05:51:22.473Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network"
+        ]
+      },
+      {
+        "title": "Rivian Adventure Network Charging",
+        "url": "https://www.reddit.com/r/Ioniq5/comments/1uguggb/rivian_adventure_network_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T05:51:22.473Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network"
+        ]
+      },
+      {
+        "title": "Mobile charger questions",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uguc3n/mobile_charger_questions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T05:44:37.753Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Charging Infrastructure"
+        ]
+      },
+      {
+        "title": "Denver Demo Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uh2jlh/denver_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T13:16:48.169Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Engagement"
+        ]
+      },
+      {
+        "title": "R2 review in Wall Street Journal",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uh0v00/r2_review_in_wall_street_journal/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T11:56:10.345Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Reviews"
+        ]
+      },
+      {
+        "title": "Even more test drive footage - upstate New York - color comparison in the comments",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugwakl/even_more_test_drive_footage_upstate_new_york/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T07:34:07.843Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Visibility"
+        ]
+      },
+      {
+        "title": "Hood bigness",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugu564/hood_bigness/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T05:33:53.698Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Design"
+        ]
+      },
+      {
+        "title": "Test Drive Review from Luxury ICE SUV Owner",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugqo5d/test_drive_review_from_luxury_ice_suv_owner/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T02:37:36.827Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Reviews"
+        ]
+      },
+      {
+        "title": "@3leggedcrow.bsky.social (Bluesky): I think it will be impressive when China can merge their new battery tech with t",
+        "url": "https://bsky.app/profile/did:plc:gcpc5zvafl5ae5ua6pyf533w/post/3mpbme4fhik2c",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T13:55:31.976Z",
+        "score": 0,
+        "snippet": "I think it will be impressive when China can merge their new battery tech with the build quality of the West and Japan. What about the rest of the car? Russian market says they suck in the winter. The",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threat"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian Axed Its Least Expensive R1T and R1S Models, Effectively Raising Their Ba",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mpbjaz7qih2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T13:00:07.076Z",
+        "score": 0,
+        "snippet": "Rivian Axed Its Least Expensive R1T and R1S Models, Effectively Raising Their Base Prices by $7000\n\nhttps://www.evshift.com/481466/rivian-axed-its-least-expensive-r1t-and-r1s-models-effectively-raisin",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1T/R1S Pricing"
+        ]
+      },
+      {
+        "title": "@jalopnik.bsky.social (Bluesky): Tesla and Rivian offer very similar limited warranties. However, Rivian offers a",
+        "url": "https://bsky.app/profile/did:plc:jkx2jmb32wbdan4plaltva62/post/3mpb6bmvwlg2y",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T09:43:37.860Z",
+        "score": 0,
+        "snippet": "Tesla and Rivian offer very similar limited warranties. However, Rivian offers a 1-year adjustment warranty, while Tesla offers a longer corrosion warranty.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Warranty Advantage"
+        ]
+      },
+      {
+        "title": "@aftereffexmicha.bsky.social (Bluesky): Es geht gar nicht um Tesla, sondern um VW. Tesla war damals nur die einzige E-Au",
+        "url": "https://bsky.app/profile/did:plc:vvoeov54hxxmw7eqgfx5kssf/post/3mpazjabqk22h",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T08:18:25.461Z",
+        "score": 20,
+        "snippet": "Es geht gar nicht um Tesla, sondern um VW. Tesla war damals nur die einzige E-Auto-Firma.\nDer Markt wurde inzwischen von neuen Namen gedreht: BYD, NIO, XPeng, Rivian, Polestar, Leapmotor, Lucid Motors",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=INwLGakzd0k",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T12:28:22Z",
+        "score": 0,
+        "snippet": "R2 mass-market pivot: $60k trims launch 2026, $45k version summer 2027; 50-75k 2026 deliveries vs. 200k+ capacity creates margin pressure; path to profitability extends to 2030, dependent on scale exe",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s $45K Model 3 Killer Changes Everything #Shorts",
+        "url": "https://youtube.com/watch?v=_j5zQhYrVMY",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T12:04:53Z",
+        "score": 0,
+        "snippet": "Rivian R2 at $45K undercuts average car prices to directly challenge Tesla Model 3, targeting mass-market EV adoption with viable margins.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Pricing"
+        ]
+      },
+      {
+        "title": "SPCX\u89e3\u7981\u4f1a\u66b4\u8dcc\u5417\uff1f\u770b\u770bMeta\u3001Tesla\u548cRivian\u7684\u5386\u53f2 #shorts  #\u7f8e\u80a1 #\u89e3\u7981 #spcx",
+        "url": "https://youtube.com/watch?v=k-wgaAzAZWY",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T12:00:26Z",
+        "score": 0,
+        "snippet": "SPCX\u672a\u6765\u6700\u5927\u7684\u8003\u9a8c\u4e4b\u4e00\uff0c\u5c31\u662f\u89e3\u7981\u3002 \u5f88\u591a\u6295\u8d44\u8005\u8ba4\u4e3a\uff0cIPO\u89e3\u7981\u4e00\u5b9a\u610f\u5473\u7740\u80a1\u4ef7\u4e0b\u8dcc\uff0c\u4f46\u5386\u53f2\u5e76\u6ca1\u6709\u8fd9\u4e48\u7b80\u5355\u3002 \u8fd9\u6761\u89c6\u9891\u5bf9\u6bd4\u4e86 ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "EV Industry Crisis: Management Accounting Solutions (Faraday Future, Rivian and Ola Electric)",
+        "url": "https://youtube.com/watch?v=Zl32HwUJ8Hw",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T11:54:02Z",
+        "score": 0,
+        "snippet": "Rivian faces rising costs, lower regulatory credits, rear toe link failures; Faraday Future has sales fraud allegations; Ola Electric has battery fire crises.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Production Issues"
+        ]
+      },
+      {
+        "title": "RIVN Stock (Rivian Automotive stock analysis) RIVN STOCK PREDICTION &amp; analysis &amp; news today",
+        "url": "https://youtube.com/watch?v=ECyLYED5Bvk",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T09:44:23Z",
+        "score": 0,
+        "snippet": "This transcript contains no product intelligence\u2014it's pure technical stock trading analysis with no data on Rivian's vehicles, autonomy, pricing, launch timing, or competitive position.",
+        "summarized": true,
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "\u2757\ufe0fRIVIAN R2 production ramping \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=B6hmOjgRrKE",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T08:00:05Z",
+        "score": 0,
+        "snippet": "R2 ramping production rapidly (1,300+ VINs in 10 days); positioned as most important EV crossover since Model Y with premium driving experience and praised design; deliveries starting.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Production"
+        ]
+      }
+    ]
   }
 ]
