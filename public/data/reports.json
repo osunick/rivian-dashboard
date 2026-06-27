@@ -43813,5 +43813,397 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-27T02:02:53.578751Z",
+    "timestamp": "2026-06-27T02:02:53.578751Z",
+    "sentiment": {
+      "positive": 70,
+      "neutral": 20,
+      "negative": 8
+    },
+    "sources": {
+      "news": {
+        "found": 24,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Amazon Partnership",
+      "Brand Perception",
+      "Cargo Capability",
+      "Charging Network",
+      "Customer Content",
+      "Customer Support",
+      "Driver Assistance",
+      "EV Strategy",
+      "Interior Quality",
+      "International Market",
+      "Market Positioning",
+      "Order Issues",
+      "Positive Review",
+      "Pricing Strategy",
+      "R2 Launch",
+      "Rivian EDV",
+      "Service Reports",
+      "Social Content",
+      "Software Issues",
+      "Vehicle Performance",
+      "Vehicle Range"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Gen 1 driver assistance not working",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugpqnd/gen_1_driver_assistance_not_working/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T01:52:46.734Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Driver Assistance",
+          "Software Issues"
+        ]
+      },
+      {
+        "title": "Help with spill",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugn7o2/help_with_spill/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T23:56:47.142Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Support"
+        ]
+      },
+      {
+        "title": "PSA : Make sure you get a copy of your service report",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ugmmoa/psa_make_sure_you_get_a_copy_of_your_service/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T23:31:13.871Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Service Reports"
+        ]
+      },
+      {
+        "title": "R2 Test Drive",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uglugo/r2_test_drive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-26T22:58:26.973Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "WSJ: \u201cIt\u2019s awesome. I want one. And I\u2019ll buy one.\u201d",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugouha/wsj_its_awesome_i_want_one_and_ill_buy_one/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T01:10:19.642Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Positive Review"
+        ]
+      },
+      {
+        "title": "R2 test drive in King of Prussia, PA!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugnpxi/r2_test_drive_in_king_of_prussia_pa/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T00:18:31.880Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Long Weekend Cargo Test",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ugmpog/long_weekend_cargo_test/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-26T23:34:50.085Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Cargo Capability"
+        ]
+      },
+      {
+        "title": "R2 order invite not received",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uglfns/r2_order_invite_not_received/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-26T22:41:16.095Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Order Issues"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Give Me A Break\n\nIt's 4pm, you're an @amazon driver and you need a break deliver",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mpabfvqvfb2t",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T01:07:03.863Z",
+        "score": 0,
+        "snippet": "Give Me A Break\n\nIt's 4pm, you're an @amazon driver and you need a break delivering packages from the @Rivian EDV.  Do you go to @Starbucks or @ChipotleTweets?",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian EDV",
+          "Amazon Partnership"
+        ]
+      },
+      {
+        "title": "@mrbuick.bsky.social (Bluesky): Tier 4 - Humble Respect\n\n\u2022 Ferrari\n\u2022 Lexus\n\u2022 Toyota\n\u2022 Honda\n \nTier 5 - General R",
+        "url": "https://bsky.app/profile/did:plc:z7jtkk5rzn77glcijjhdgcas/post/3mpaamq45w22n",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T00:52:57.073Z",
+        "score": 0,
+        "snippet": "Tier 4 - Humble Respect\n\n\u2022 Ferrari\n\u2022 Lexus\n\u2022 Toyota\n\u2022 Honda\n \nTier 5 - General Respect\n\n\u2022 Cadillac\n\u2022 Aston Martin\n\u2022 Fiat\n\u2022 Volvo / Polestar\n\u2022 Rivian\n\u2022 Lotus\n\nTier 6 - Goofy Buds\n\n\u2022 Dodge\n\u2022 Peugeot\n\u2022 O",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Perception"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Tomorrow we explore a bit more before checking out Mahone Bay then Kejimkujik Na",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mpaam5lowk2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T00:52:38.425Z",
+        "score": 0,
+        "snippet": "Tomorrow we explore a bit more before checking out Mahone Bay then Kejimkujik National Park and ending on the Digby Peninsula. \n\n#Rivian #R1S #RivianR1S #EV #EVRoadtrip",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Content"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Day 6 of our massive @rivianofficial.bsky.social roadtrip. We drove all the way ",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mpaaldntbc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T00:52:38.363Z",
+        "score": 0,
+        "snippet": "Day 6 of our massive @rivianofficial.bsky.social roadtrip. We drove all the way through Nova Scotia from Cape Breton to Lunenburg, charging twice and touring very different scenery along the coast. \n\n",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Range"
+        ]
+      },
+      {
+        "title": "@norionakatsuji.bsky.social (Bluesky): [\u2019Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest",
+        "url": "https://bsky.app/profile/did:plc:ziwcpphglce5yet7pznc65gc/post/3mpa7nsoru22e",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T00:35:42.868Z",
+        "score": 1,
+        "snippet": "[\u2019Fork in the road\u2019: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs | Automotive industry | The Guardian]\n\n\u201cRJ Scaringe says firms focused on selling fossil fuel engines risk being",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "EV Strategy"
+        ]
+      },
+      {
+        "title": "@coffeedrinker.bsky.social (Bluesky): The amazon rivian electric deliver vans are awesome.  \n\n*If I life-or-death had ",
+        "url": "https://bsky.app/profile/did:plc:xaccjvc5r4caevgl57k3ybvu/post/3mpa2zlakqk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T23:12:45.475Z",
+        "score": 0,
+        "snippet": "The amazon rivian electric deliver vans are awesome.  \n\n*If I life-or-death had to put  proper commas in that sentence I'd definitely die.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian EDV"
+        ]
+      },
+      {
+        "title": "@youngcrone.bsky.social (Bluesky): Those are actually pretty popular around here,  where better-off-people can have",
+        "url": "https://bsky.app/profile/did:plc:oxgnz7c3lr5mv53sdl7z7vsj/post/3mp7zptfv6s2b",
+        "source": "bluesky",
+        "publishedAt": "2026-06-26T22:49:25.167Z",
+        "score": 0,
+        "snippet": "Those are actually pretty popular around here,  where better-off-people can have home solar and go fairly high-end, which right now is what Rivian aims at for civilians anyway.  \n\nThese new Slates cou",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Market Positioning"
+        ]
+      },
+      {
+        "title": "Off-Road Giant Battle: Rivian R1T vs Cybertruck\ud83d\ude31",
+        "url": "https://youtube.com/watch?v=7ZWVYqGh2Q0",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T02:00:31Z",
+        "score": 0,
+        "snippet": "Rivian R1T beats Cybertruck off-road with advanced modes and air suspension; Cybertruck wins on pavement with stainless steel body and straight-line performance.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Performance"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Performance | Order Placed and Demo Drive!",
+        "url": "https://youtube.com/watch?v=Zrav9NLNzVA",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T01:00:07Z",
+        "score": 0,
+        "snippet": "R2 Performance now available with 656hp, 330-mile range, 3.6s 0-60, included $2.5K autonomous driving; standard launches 2027; NACS-compatible; significantly better interior than Model Y.",
+        "summarized": true,
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Vehicle Performance"
+        ]
+      },
+      {
+        "title": "\ud83d\ude05\ud83d\ude05 #tesla #rivian #electronicmusic #teslanews",
+        "url": "https://youtube.com/watch?v=i3bbNMquovg",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T00:56:06Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Social Content"
+        ]
+      },
+      {
+        "title": "#rivian Charging tip!",
+        "url": "https://youtube.com/watch?v=FcLP5_aa8uE",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T00:40:02Z",
+        "score": 0,
+        "snippet": "Passing on the Tip! If this stall is not taken in Flagstaff, AZ-it's great! You have space AND you have the charging power all to ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging Network"
+        ]
+      },
+      {
+        "title": "TCAR NUNCA TINHA VISTO ESSA CAMINHONETE RIVIAN NO BRASIL #tcar #tcarimports",
+        "url": "https://youtube.com/watch?v=aKqIUnoWQWo",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T00:30:39Z",
+        "score": 0,
+        "snippet": "TCAR NUNCA TINHA VISTO ESSA CAMINHONETE RIVIAN NO BRASIL . . . #tcar #tcarimports #caminhonete.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "International Market"
+        ]
+      },
+      {
+        "title": "Autonomia Total do Rivian R1T de 450 km!#tcar #shorts #carros",
+        "url": "https://youtube.com/watch?v=2VZt9vWg9NU",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T23:54:12Z",
+        "score": 0,
+        "snippet": "Autonomia Total do Rivian R1T de 450 km! #tcar #tcarimports #imports #shorts #carros.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Range"
+        ]
+      },
+      {
+        "title": "TCAR APRESENTA CAMINHONETE QUE VOC\u00ca NUNCA VIU NO BRASIL!!! RIVIAN 100% EL\u00c9TRICA #tcar #tcarimports",
+        "url": "https://youtube.com/watch?v=J4FyQnJowz4",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T23:30:12Z",
+        "score": 0,
+        "snippet": "A caminhonete el\u00e9trica que est\u00e1 chamando aten\u00e7\u00e3o! Neste v\u00eddeo voc\u00ea vai conhecer de perto a Rivian, uma das picapes el\u00e9tricas ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "International Market"
+        ]
+      },
+      {
+        "title": "O interno da Rivian R1T \u00e9 de Alta Qualidade!#tcar #shorts #carros",
+        "url": "https://youtube.com/watch?v=R4h8b5klCvs",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T23:25:26Z",
+        "score": 0,
+        "snippet": "Acabamento Interno Deste Ve\u00edculo \u00e9 Incr\u00edvel! #tcar #tcarimports #imports #shorts #carros.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Interior Quality"
+        ]
+      },
+      {
+        "title": "I like the look R2  \ufffcRivian $45K",
+        "url": "https://youtube.com/watch?v=Un7X8PQzmkM",
+        "source": "youtube",
+        "publishedAt": "2026-06-26T23:17:49Z",
+        "score": 0,
+        "snippet": "R2 confirmed at $45K, representing 62% cost reduction versus Rivian's flagship models ($120K+), enabling mass-market compact SUV entry.",
+        "summarized": true,
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Pricing Strategy"
+        ]
+      }
+    ]
   }
 ]
