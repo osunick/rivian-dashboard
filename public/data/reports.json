@@ -45378,5 +45378,344 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-28T02:01:36.797975Z",
+    "timestamp": "2026-06-28T02:01:36.797975Z",
+    "sentiment": {
+      "positive": 31,
+      "neutral": 42,
+      "negative": 26
+    },
+    "sources": {
+      "news": {
+        "found": 19,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomous Driving",
+      "Brand Awareness",
+      "Brand Strategy",
+      "Charging Tech",
+      "Competitive Threat",
+      "Customer Delivery",
+      "Customer Feedback",
+      "Customer Service",
+      "Demo Drives",
+      "Design Innovation",
+      "EV Market",
+      "IPO Strategy",
+      "Industry Trends",
+      "International Markets",
+      "Pricing",
+      "R1S",
+      "R1S Gen2",
+      "R1T",
+      "R2",
+      "R2 Launch",
+      "RIVN Stock",
+      "Rivian",
+      "Vehicle Quality"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R1s gen 2 2025 tri motor was driving in conserve got a \"performance limited\" warning.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhjngd/r1s_gen_2_2025_tri_motor_was_driving_in_conserve/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T01:17:12.193Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Gen2",
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "Gen2 R1S wireless charger",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhj5ld/gen2_r1s_wireless_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T00:53:14.388Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Gen2",
+          "Charging Tech"
+        ]
+      },
+      {
+        "title": "R2 Autonomous Driving Question",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhj2c2/r2_autonomous_driving_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T00:48:56.851Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2",
+          "Autonomous Driving"
+        ]
+      },
+      {
+        "title": "General question about services and ownership.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhi1en/general_question_about_services_and_ownership/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T00:02:18.808Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Customer Service"
+        ]
+      },
+      {
+        "title": "I had the opportunity to detail my friends R2! First customer delivery in WA state!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhhifu/i_had_the_opportunity_to_detail_my_friends_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-27T23:38:28.170Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Customer Delivery"
+        ]
+      },
+      {
+        "title": "What I didn't like in R2 after the drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uhjtdh/what_i_didnt_like_in_r2_after_the_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-28T01:25:26.660Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2",
+          "Customer Feedback"
+        ]
+      },
+      {
+        "title": "Rattling noise on demo drives",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uhgaew/rattling_noise_on_demo_drives/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T22:44:54.202Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Quality",
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "R2 test drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uhfiif/r2_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-27T22:11:34.535Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2",
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian R2's shape-shifting scroll wheels steal the show at ACT Expo - The Cool Down",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0VnTmlzYm5jUm03Ukk5UVpwVkMwa2dobUk1ZmRVYzd2eHRleW14UHN5ekN4SGhla0JlMHZoWldabzRVamlSWlVWQktpbHdJeldHTzl4OEZobDhRc2IzTWthdHVBb3EzT3QzU3pndlYtaUVZbmVJS3o4bjhnQzV4XzBnWkl1RW5UaHZReA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sun, 28 Jun 2026 01:21:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2's shape-shifting scroll wheels steal the show at ACT Expo - The Cool Down",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Design Innovation"
+        ]
+      },
+      {
+        "title": "@aftplay.bsky.social (Bluesky): Why are car/truck names so violent and scary?\nDodge?\nRam??\n\nFord Focus was a goo",
+        "url": "https://bsky.app/profile/did:plc:jyiqaixdlx3xrc4ow5ltx6xm/post/3mpchowjmqs22",
+        "source": "bluesky",
+        "publishedAt": "2026-06-27T22:04:46.360Z",
+        "score": 2,
+        "snippet": "Why are car/truck names so violent and scary?\nDodge?\nRam??\n\nFord Focus was a good name, we could have more like that!\n\nAudi Attentive\nChevy Courtesy\nKia Kindness\nHonda Honesty\nGMC Generosity\nRenault R",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Strategy",
+          "Industry Trends"
+        ]
+      },
+      {
+        "title": "Esse el\u00e9trico raro vale quase R$800 mil no Brasil #shorts",
+        "url": "https://youtube.com/watch?v=PISMqcA-vhQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T01:30:05Z",
+        "score": 0,
+        "snippet": "Essa Rivian el\u00e9trica chama aten\u00e7\u00e3o pela autonomia, acabamento e exclusividade. Mas quando o pre\u00e7o chega perto dos R$800 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian",
+          "International Markets"
+        ]
+      },
+      {
+        "title": "Bancos gelados e R$400 mil: essa BYD Shark vale a pena? #shorts",
+        "url": "https://youtube.com/watch?v=rdjEbq3zGNY",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T00:34:13Z",
+        "score": 0,
+        "snippet": "Na compara\u00e7\u00e3o, a BYD Shark aparece como uma alternativa bem mais barata que a Rivian. Enquanto a Rivian blindada chega ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Pricing",
+          "Competitive Threat"
+        ]
+      },
+      {
+        "title": "A \u00fanica Rivian blindada do Brasil tem 4 motores? #shorts",
+        "url": "https://youtube.com/watch?v=A3t7m-LG9uw",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T00:21:12Z",
+        "score": 0,
+        "snippet": "Uma caminhonete el\u00e9trica americana, blindada, com 700 cv e configura\u00e7\u00e3o de 4 motores el\u00e9tricos. A Rivian \u00e9 rara no Brasil e ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S",
+          "International Markets"
+        ]
+      },
+      {
+        "title": "Rivian R2: Buy Performance Now or Wait? #shorts #automobile #rivianr2  #carbuyingguide",
+        "url": "https://youtube.com/watch?v=XL8731bFvh0",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T00:18:12Z",
+        "score": 0,
+        "snippet": "Five data-backed things to know before you reserve the 2027 Rivian R2: price, range, cargo, rear drop glass, and Performance ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2",
+          "Pricing"
+        ]
+      },
+      {
+        "title": "A \u00fanica Rivian blindada do Brasil custa quase R$800 mil? #shorts",
+        "url": "https://youtube.com/watch?v=43xSHJuWFfI",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T00:13:01Z",
+        "score": 0,
+        "snippet": "Essa Rivian chama aten\u00e7\u00e3o por tr\u00eas motivos: \u00e9 el\u00e9trica, tem 700 cv e ainda foi blindada. Mas no mercado brasileiro fica a ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S",
+          "International Markets"
+        ]
+      },
+      {
+        "title": "A caminhonete el\u00e9trica americana que chocou o Brasil #shorts",
+        "url": "https://youtube.com/watch?v=KiGy_vGrdxg",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T00:11:15Z",
+        "score": 0,
+        "snippet": "Uma Rivian el\u00e9trica americana apareceu no Brasil com 700 cv, visual diferente e pre\u00e7o perto dos R$800 mil. O ponto \u00e9: isso \u00e9 ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S",
+          "International Markets"
+        ]
+      },
+      {
+        "title": "John Deere fans will HATE this... \ud83d\ude9c\u26a1\ufe0f",
+        "url": "https://youtube.com/watch?v=77Y6yu0jcew",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T23:34:33Z",
+        "score": 0,
+        "snippet": "I decided to pull my Rivian right under my John Deere garage sign and realized just how much these two worlds clash. On one ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Famosa picape rivian\ud83d\udd25 #toguro #shortvideo #clipes #carrosel\u00e9tricos",
+        "url": "https://youtube.com/watch?v=CPA8pO2U8Ik",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T22:46:24Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Awareness",
+          "R1T"
+        ]
+      },
+      {
+        "title": "The Business Strategy Rivian Used Before Going Public \u2014 Never Reported #Shorts",
+        "url": "https://youtube.com/watch?v=Zd25o_CjgtQ",
+        "source": "youtube",
+        "publishedAt": "2026-06-27T22:21:26Z",
+        "score": 0,
+        "snippet": "Rivian hit a $66 billion IPO without a single consumer delivery \u2014 here's the contract they buried in the fine print. Before most ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "IPO Strategy"
+        ]
+      }
+    ]
   }
 ]
