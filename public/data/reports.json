@@ -46019,5 +46019,499 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-28T18:01:27.318639Z",
+    "timestamp": "2026-06-28T18:01:27.318639Z",
+    "sentiment": {
+      "positive": 46,
+      "neutral": 43,
+      "negative": 10
+    },
+    "sources": {
+      "news": {
+        "found": 30,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Brand Mentions",
+      "Brand Presence",
+      "Charging",
+      "Charging Network",
+      "Competitive Threat",
+      "Customer Confidence",
+      "Hyundai IONIQ 5",
+      "International Markets",
+      "Investment Potential",
+      "Investor Sentiment",
+      "Market Anticipation",
+      "Market Appeal",
+      "Market Awareness",
+      "Market Position",
+      "Marketing",
+      "Media Coverage",
+      "Pricing",
+      "Product Issues",
+      "Production",
+      "R1S Appeal",
+      "R1T Design",
+      "R1T Performance",
+      "R2 Launch",
+      "RIVN Stock",
+      "Range Anxiety",
+      "Regulatory Compliance",
+      "Self-Driving",
+      "Software Issues",
+      "Tesla Competition",
+      "Test Drive",
+      "Test Drive Content",
+      "Trading Signals",
+      "Used Vehicle Market",
+      "Vehicle Settings"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "I am so over range anxiety with my Rivian. Didn\u2019t even bother to use conserve mode and drove past 15 chargers.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ui3umz/i_am_so_over_range_anxiety_with_my_rivian_didnt/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T17:52:58.966Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Range Anxiety",
+          "Customer Confidence"
+        ]
+      },
+      {
+        "title": "Self drive",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ui3adu/self_drive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T17:30:43.453Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Self-Driving"
+        ]
+      },
+      {
+        "title": "Is the Rivian R2 America\u2019s Next Great SUV?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ui32y0/is_the_rivian_r2_americas_next_great_suv/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T17:22:41.010Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Market Position"
+        ]
+      },
+      {
+        "title": "Supercharging the R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ui2z1l/supercharging_the_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T12:55:52.196Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Charging Network"
+        ]
+      },
+      {
+        "title": "R2 charging session ..",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ui2m7t/r2_charging_session/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T17:04:45.530Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging"
+        ]
+      },
+      {
+        "title": "Rivian cameo in the new King of the Hill trailer",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ui234p/rivian_cameo_in_the_new_king_of_the_hill_trailer/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T16:43:45.673Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Presence",
+          "Marketing"
+        ]
+      },
+      {
+        "title": "Seat/mirror settings - unlock issues",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhzl1y/seatmirror_settings_unlock_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T15:03:52.911Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Software Issues",
+          "Vehicle Settings"
+        ]
+      },
+      {
+        "title": "Test Drive Booking advice?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ui1seo/test_drive_booking_advice/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-28T16:31:41.951Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Test Drive"
+        ]
+      },
+      {
+        "title": "Cute Slate Truck, is There a Market?",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1ui2cb5/cute_slate_truck_is_there_a_market/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-28T16:54:12.933Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Design",
+          "Market Appeal"
+        ]
+      },
+      {
+        "title": "AM Radio Bill Included in Build America 250 Act",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1uhywjw/am_radio_bill_included_in_build_america_250_act/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-28T14:36:10.495Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Regulatory Compliance"
+        ]
+      },
+      {
+        "title": "\u2018Put the Pieces Together,\u2019 Says Investor About Rivian Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb21PS0xOOTRNVDFRSzBBeFRTeWh3VEhrOGd1b3IxQ0ctZ2F5UXhwbHhUWGJtdmtzSnBFMDhBWm1pWVJIenZBYm5VUWNEclNQMnpJUFU0TGZaRzRpN1VnbWY5QXdjN0JTVHdpSlY2UlZUTkxhX3hWaUtzaXhheHpmSEIwWWkzbnRiWUd3SVVnVQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 28 Jun 2026 14:02:31 GMT",
+        "score": 0,
+        "snippet": "\u2018Put the Pieces Together,\u2019 Says Investor About Rivian Stock - TipRanks",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Investor Sentiment"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mpekk2wsbs2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T18:01:04.665Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mentions"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2022 Rivian R1T\n\n\ud83d\udcb0 $42,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 88,362 mi\n\nCheck it out: http",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mpekjlo2sb2l",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T18:00:48.360Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2022 Rivian R1T\n\n\ud83d\udcb0 $42,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 88,362 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog0b3td0bidklu2jtcncke7\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Used Vehicle Market"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $63,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 20,179 mi\n\nCheck it out: http",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mpekj7ksqi2s",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T18:00:35.668Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $63,997 | \ud83d\udccd Sterling, VA | \ud83d\udee3\ufe0f 20,179 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog0b44y0bifklu2guf2961y\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Used Vehicle Market"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mpejsisfxc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T17:47:53.762Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mentions"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mpejbg2pnk2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T17:38:20.471Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mentions"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #EVs #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mpeihmy2v22o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T17:23:56.070Z",
+        "score": 0,
+        "snippet": "#EVs #Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mentions"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mpeigrpzmc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T17:23:26.667Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mentions"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Prediction: Buying Rivian Stock Today Could Set You Up for Life\n\nhttps://www.evs",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mpeiaznfue2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T17:20:13.667Z",
+        "score": 0,
+        "snippet": "Prediction: Buying Rivian Stock Today Could Set You Up for Life\n\nhttps://www.evshift.com/482081/prediction-buying-rivian-stock-today-could-set-you-up-for-life/\n\nTesla (TSLA +1.38%) is one of the bigge",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Investment Potential"
+        ]
+      },
+      {
+        "title": "@ryanwilliams.dev (Bluesky): In today's Suspension www.suspension.news/p/rivian-kil...",
+        "url": "https://bsky.app/profile/did:plc:dexg7paeajni6jhfwpua4tqa/post/3mpei5jx4ns27",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T17:18:17.585Z",
+        "score": 0,
+        "snippet": "In today's Suspension www.suspension.news/p/rivian-kil...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Media Coverage"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mpefcrgi5c2o",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T16:27:31.067Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Brand Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Stock: Is It Time to Buy Before the Huge Move! RIVN Stock Analysis",
+        "url": "https://youtube.com/watch?v=QncujncdSmk",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T18:00:25Z",
+        "score": 0,
+        "snippet": "Check out VIP Algos here for Buy & Sell signals: https://hop.clickbank.net/?affiliate=itp129&vendor=fxlife VIP Algos helps traders ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Trading Signals"
+        ]
+      },
+      {
+        "title": "I Found the Secret 2026 Rivian R2 Factory! (Mass Production Begins)",
+        "url": "https://youtube.com/watch?v=ASwHuTDEmD0",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T17:30:17Z",
+        "score": 0,
+        "snippet": "Everyone thought Tesla had the mid-size electric SUV market completely locked down, but a new challenger has officially arrived.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Production",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Rivian R2 &quot;is CHEAP&quot; and has Issues",
+        "url": "https://youtube.com/watch?v=_jh6ZNCf-to",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T16:47:33Z",
+        "score": 0,
+        "snippet": "Sell Your Tesla or Any Vehicle \u2013 Get Top Offers via PLUG Highest Offer for Tesla/EV - https://bit.ly/3KoN9rC \u2713 Tesla Referral ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Product Issues"
+        ]
+      },
+      {
+        "title": "Is the BASE Rivian R2 worth $45,000? I think so!",
+        "url": "https://youtube.com/watch?v=hRKpYn8d_b8",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T15:23:22Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Pricing"
+        ]
+      },
+      {
+        "title": "2026 Hyundai IONIQ 5 Review | Better Value Than a Rivian R2?",
+        "url": "https://youtube.com/watch?v=RAQWPsVplRk",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T15:00:06Z",
+        "score": 0,
+        "snippet": "The Hyundai IONIQ 5 has always been one of our favorite electric vehicles, but the major news for the 2026 model year is ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threat",
+          "Hyundai IONIQ 5"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Quad Max - POV Test Drive (Binaural Audio)",
+        "url": "https://youtube.com/watch?v=_B8Wq2qsaOo",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T15:00:17Z",
+        "score": 0,
+        "snippet": "Filmed by @TopherDrives MSRP: $123885 Power: 1025 hp / 1198 lb-ft 4 Electric Motors Battery: 140 kWh Tires: 275/65/R20 0:00 ...",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "R1T Performance",
+          "Test Drive Content"
+        ]
+      },
+      {
+        "title": "People NEED To Stop Sleeping on the Rivian R1S \ud83d\ude24",
+        "url": "https://youtube.com/watch?v=VhAKJoHTGVo",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T14:23:37Z",
+        "score": 0,
+        "snippet": "The reason most people aren't buying EVs is because they haven't been in the right one yet. A lot of customers walk right past it.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Appeal",
+          "Market Awareness"
+        ]
+      },
+      {
+        "title": "TCAR - O \u00fanico Rivian do Brasil",
+        "url": "https://youtube.com/watch?v=1pNhN-vkF_A",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T14:15:23Z",
+        "score": 0,
+        "snippet": "Conhe\u00e7a o Rivian LT1 Adventure, o \u00fanico exemplar blindado em solo brasileiro. #rivian #exclusivo #carros #tecnologia.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "International Markets",
+          "Brand Presence"
+        ]
+      },
+      {
+        "title": "Top 5 Upcoming Cars in 2026 \ud83d\ude97\ud83d\udd25 | Toyota RAV4, Honda Prelude, Rivian R2 &amp; More\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
+        "url": "https://youtube.com/watch?v=5ocmM2wp3cE",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T13:30:02Z",
+        "score": 0,
+        "snippet": "Get ready for the future of automobiles! \u26a1 Here are the Top 5 most exciting upcoming cars expected in 2026. Featured Cars: ...",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Market Anticipation"
+        ]
+      }
+    ]
   }
 ]
