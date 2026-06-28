@@ -45717,5 +45717,307 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-28T14:01:31.337911Z",
+    "timestamp": "2026-06-28T14:01:31.337911Z",
+    "sentiment": {
+      "positive": 38,
+      "neutral": 44,
+      "negative": 16
+    },
+    "sources": {
+      "news": {
+        "found": 18,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy+",
+      "Brand Perception",
+      "Competitor Charging",
+      "Customer Loyalty",
+      "Industry News",
+      "International",
+      "Other",
+      "Product Quality",
+      "R1S Market",
+      "R1S Pricing",
+      "R1S Sales",
+      "R2 Launch",
+      "RIVN Stock",
+      "Service Costs",
+      "Test Drives",
+      "Warranty"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "How has rivian avoided the \u201csnobby rich person\u201d stereotype?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhx6j8/how_has_rivian_avoided_the_snobby_rich_person/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T13:21:59.743Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Brand Perception"
+        ]
+      },
+      {
+        "title": "best year to buy a used r1s?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhwoz1/best_year_to_buy_a_used_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T12:59:36.136Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R1S Market"
+        ]
+      },
+      {
+        "title": "Returning to the R1T family!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhvous/returning_to_the_r1t_family/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T12:10:32.972Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Loyalty"
+        ]
+      },
+      {
+        "title": "Ran over a ladder on the highway in my R1S. Safe to zip tie / what am I looking at for SC repair costs?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhoyl0/ran_over_a_ladder_on_the_highway_in_my_r1s_safe/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T05:45:55.724Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Service Costs"
+        ]
+      },
+      {
+        "title": "Where are these small rubber feet from?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhmfb4/where_are_these_small_rubber_feet_from/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T03:33:25.549Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Other"
+        ]
+      },
+      {
+        "title": "All this talk about R2 and new stuff. And I\u2019m just loving my Launch R1T with 120k",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhlg6v/all_this_talk_about_r2_and_new_stuff_and_im_just/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T02:44:57.042Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Customer Loyalty"
+        ]
+      },
+      {
+        "title": "I impulse bought an R1S today",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uhlg0n/i_impulse_bought_an_r1s_today/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-06-28T02:44:41.188Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R1S Sales"
+        ]
+      },
+      {
+        "title": "I am afraid I'm not going to like this week",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uhwgxq/i_am_afraid_im_not_going_to_like_this_week/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-28T12:48:49.689Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Other"
+        ]
+      },
+      {
+        "title": "Test Drive Schedule - Rocklin, CA location",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uhly0f/test_drive_schedule_rocklin_ca_location/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-06-28T03:09:11.098Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Test Drives"
+        ]
+      },
+      {
+        "title": "BMW not charging question",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1uhnvnc/bmw_not_charging_question/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-06-28T04:47:52.060Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitor Charging"
+        ]
+      },
+      {
+        "title": "@suewho82.bsky.social (Bluesky): I priced out a Rivian SUV for shits and giggles\u2026there was no giggle.",
+        "url": "https://bsky.app/profile/did:plc:cdccv2st5t3yb3yofutu675z/post/3mpe4rf4mks2a",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T13:54:37.567Z",
+        "score": 0,
+        "snippet": "I priced out a Rivian SUV for shits and giggles\u2026there was no giggle.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R1S Pricing"
+        ]
+      },
+      {
+        "title": "@jalopnik.bsky.social (Bluesky): Tesla and Rivian offer very similar limited warranties. However, Rivian offers a",
+        "url": "https://bsky.app/profile/did:plc:jkx2jmb32wbdan4plaltva62/post/3mpdqgvvnrx2j",
+        "source": "bluesky",
+        "publishedAt": "2026-06-28T10:14:00.668Z",
+        "score": 1,
+        "snippet": "Tesla and Rivian offer very similar limited warranties. However, Rivian offers a 1-year adjustment warranty, while Tesla offers a longer corrosion warranty.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Warranty"
+        ]
+      },
+      {
+        "title": "Rivian R2",
+        "url": "https://youtube.com/watch?v=UK2vN2hHB_E",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T13:30:05Z",
+        "score": 0,
+        "snippet": "Rivian R2 rivian r2, r2 rivian, rivian r2 suv, new rivian r2, 2027 rivian r2, rivian r2 news, 2026 rivian r2, rivian r2 2026, rivian r2 vs r1 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch"
+        ]
+      },
+      {
+        "title": "Rivian R2 Elektrikli SUV T\u00fcrkiye\u2019de Neler De\u011fi\u015ftirebilir?",
+        "url": "https://youtube.com/watch?v=aadKRUXAqys",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T13:19:50Z",
+        "score": 0,
+        "snippet": "Rivian R2 Elektrikli SUV T\u00fcrkiye'de neler de\u011fi\u015ftirebilir? Elektrikli ara\u00e7 pazar\u0131 Rivian ile heyecanland\u0131! #RivianR2 #ElektrikliAra\u00e7lar ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "International"
+        ]
+      },
+      {
+        "title": "Rivian is actually making a nice car #rivian #car #newcar #carreview",
+        "url": "https://youtube.com/watch?v=Urh_VBjO6nc",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T13:06:16Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Product Quality"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=dbRwcqJ-atE",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T11:49:54Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "The Current : Weekly EV News Ep #121 June 28, 2026",
+        "url": "https://youtube.com/watch?v=akOHoWaVehw",
+        "source": "youtube",
+        "publishedAt": "2026-06-28T10:00:35Z",
+        "score": 0,
+        "snippet": "Explore Miss GoElectric *membership* perks and help ensure we can continue to produce The Current. Membership: ...",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Industry News"
+        ]
+      },
+      {
+        "title": "Autonomy+ change?",
+        "url": "https://www.rivianforums.com/forum/threads/autonomy-change.60681/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Autonomy+ change?",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy+"
+        ]
+      }
+    ]
   }
 ]
