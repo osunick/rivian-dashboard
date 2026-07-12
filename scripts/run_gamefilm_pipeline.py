@@ -84,7 +84,7 @@ CATEGORY_LABELS = {
 
 DEMO_DRIVE_TERMS = [
     'demo drive', 'demo-drive', 'demo ride', 'demo review',
-    'test drive', 'test-drive', 'test ride', 'test drove',
+    'test drive', 'test-drive', 'test ride', 'test drove', 'test driving',
     'first drive', 'first-drive', 'drive review', 'driving impressions',
     'initial thoughts', 'first impressions', 'behind the wheel',
     'hands on', 'hands-on', 'walkaround', 'walk around',
@@ -175,6 +175,21 @@ NEG_WORDS = [
     'decline', 'declines', 'slump', ' weak', 'halts', 'bearish', 'plummet',
 ]
 
+THEME_RULES = [
+    ('R2 Launch', [' r2', 'rivian r2', '2027 rivian r2']),
+    ('Demo Drives', DEMO_DRIVE_TERMS),
+    ('Audio System', ['sound system', 'audio', 'speaker']),
+    ('Charging', ['charging', 'charger', 'supercharger', 'nacs', 'level 1', 'level 2']),
+    ('Service Experience', ['service', 'maintenance', 'repair', 'warranty']),
+    ('Vehicle Quality', ['quality', 'defect', 'damage', 'bumper', 'concern', 'problem', 'issue']),
+    ('RIVN Stock', ['rivn', 'stock', 'nasdaq', 'shares', 'price target', 'forecast']),
+    ('Commercial Vans', ['commercial van', 'edv', 'delivery van']),
+    ('Autonomy', ['autonomy', 'adas', 'self-driving', 'driver assist', 'highway assist']),
+    ('Software', ['software', 'ota', 'infotainment', 'update']),
+    ('Tesla Competition', ['tesla', 'model y', 'model 3', 'cybertruck', 'fsd']),
+    ('EV Market', ['ev ', '#ev', 'electric vehicle', 'electric vehicles']),
+]
+
 def classify_sentiment(item):
     """Sentiment toward Rivian's position.
 
@@ -194,6 +209,28 @@ def classify_sentiment(item):
     if net < 0:
         return 'negative'
     return 'neutral'
+
+def infer_themes(item):
+    """Deterministic fallback themes for when the LLM classifier is unavailable."""
+    text = f"{item.get('title', '')} {item.get('snippet', '')}".lower()
+    themes = []
+    for theme, terms in THEME_RULES:
+        if any(term in text for term in terms):
+            themes.append(theme)
+        if len(themes) >= 3:
+            return themes
+
+    category = item.get('category') or guess_category(item)
+    fallback = {
+        'autonomy': 'Autonomy',
+        'demo_drives': 'Demo Drives',
+        'vehicles': 'Vehicle Demand',
+        'business': 'Business',
+        'software': 'Software',
+        'community': 'Community Signals',
+        'competitive': 'Competitive Threats',
+    }.get(category, 'Rivian Mentions')
+    return [fallback]
 
 def _clean_themes(raw):
     """Normalize a model-returned themes value into a list of <=3 short tags."""
@@ -270,10 +307,10 @@ def assign_sentiments(items):
             got = mapped.get(idx)
             if got:
                 it['sentiment'] = got['s']
-                it['themes'] = got['t']
+                it['themes'] = got['t'] or infer_themes(it)
             else:
                 it['sentiment'] = classify_sentiment(it)
-                it.setdefault('themes', [])
+                it['themes'] = it.get('themes') or infer_themes(it)
 
 def compose_brief_llm(items, sentiment, ts):
     """Have Opus author the brief from the scraped items (real synthesis, not a
