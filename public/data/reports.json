@@ -47503,5 +47503,297 @@
         "themes": []
       }
     ]
+  },
+  {
+    "id": "2026-07-12T16:03:44.774849Z",
+    "timestamp": "2026-07-12T16:03:44.774849Z",
+    "sentiment": {
+      "positive": 9,
+      "neutral": 77,
+      "negative": 13
+    },
+    "sources": {
+      "news": {
+        "found": 22,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Annual Maintenance Costs",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uuhsja/annual_maintenance_costs/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-12T15:00:10.526Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Question on Rear AC Vents not blowing",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uuhd3j/question_on_rear_ac_vents_not_blowing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-12T14:43:13.384Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Ordered 2026 R1T but have concerns",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uuagby/ordered_2026_r1t_but_have_concerns/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-12T09:13:30.496Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": []
+      },
+      {
+        "title": "Can someone convince me not to get a Model Y now?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uu4fyq/can_someone_convince_me_not_to_get_a_model_y_now/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-12T03:47:00.670Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Disappointed in the R2 Sound System. Anyone looking into aftermarket upgrades?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uu293j/disappointed_in_the_r2_sound_system_anyone/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-12T01:56:39.956Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Level 1 charging",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uu0tgl/level_1_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-12T00:48:44.278Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Bumper Damage, fix before sale ?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uu00f2/bumper_damage_fix_before_sale/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-12T00:12:55.191Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@markalancarlson.bsky.social (Bluesky): Their color options are fun! So few with Rivian, and most are boring.",
+        "url": "https://bsky.app/profile/did:plc:mp6pfndezccxejrsmohwx5kl/post/3mqhicf3uts2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T15:24:09.673Z",
+        "score": 1,
+        "snippet": "Their color options are fun! So few with Rivian, and most are boring.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@markalancarlson.bsky.social (Bluesky): How's that $5 gas working out for ya, Iran war supporters?\n\n#EV",
+        "url": "https://bsky.app/profile/did:plc:mp6pfndezccxejrsmohwx5kl/post/3mqhhkpfkz22j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T15:10:59.967Z",
+        "score": 5,
+        "snippet": "How's that $5 gas working out for ya, Iran war supporters?\n\n#EV",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@milesgrant.bsky.social (Bluesky): Had to go to a country club for an event & noticed how many vehicles in the park",
+        "url": "https://bsky.app/profile/did:plc:vaojn6dh7vd76ggnd2zlzu5o/post/3mqhhalktlk2l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T15:05:15.573Z",
+        "score": 5,
+        "snippet": "Had to go to a country club for an event & noticed how many vehicles in the parking lot are expensive EV brands barely known to the average person (ie Rivian)\n\nMeanwhile traditional US automakers DGAF",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@hrcb.bsky.social (Bluesky): My friends absolutely love their Rivian EV pickup.",
+        "url": "https://bsky.app/profile/did:plc:omrrcr5yh6oyzoifocw4mgjx/post/3mqhgqlgcxs2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T14:56:18.368Z",
+        "score": 0,
+        "snippet": "My friends absolutely love their Rivian EV pickup.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": []
+      },
+      {
+        "title": "@deliakulu.bsky.social (Bluesky): One place I've been that seemed to have its act together with EV charging was Sa",
+        "url": "https://bsky.app/profile/did:plc:2h7wglp476igthgg3q3jsf62/post/3mqhf5ijefc2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T14:27:44.671Z",
+        "score": 0,
+        "snippet": "One place I've been that seemed to have its act together with EV charging was Salida, CO. Lots of chargers in public spaces right in the downtown so you could do fun stuff while the car charged. Some ",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@tickzen.bsky.social (Bluesky): Our Rivian (RIVN) forecast indicates a 9.5% increase to $19.14 in 12 months. Can",
+        "url": "https://bsky.app/profile/did:plc:zj47ytqzranuadlilusqpotu/post/3mqhae4sif32z",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T13:01:58.271Z",
+        "score": 0,
+        "snippet": "Our Rivian (RIVN) forecast indicates a 9.5% increase to $19.14 in 12 months. Can they maintain momentum?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": []
+      },
+      {
+        "title": "@lifebrieflynews.bsky.social (Bluesky): A Rivian spinoff just crossed $1 billion in funding and it's barely been a year\n",
+        "url": "https://bsky.app/profile/did:plc:y6lpwxprznjmwffhuzkh5mwb/post/3mqh2yjpmcu2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T11:26:00.770Z",
+        "score": 0,
+        "snippet": "A Rivian spinoff just crossed $1 billion in funding and it's barely been a year\n\nhttps://lifebriefly.news/a-rivian-spinoff-just-crossed-1-billion-in-funding-and-its-barely-been-a-year\n\n#RivianSpinoff ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "@trendalertstox.bsky.social (Bluesky): RIVN | Rivian (NASDAQ):\n\ud83d\udcc9 Weekly Top Movers DOWN - #9: RIVN dropped -6.17% (prev",
+        "url": "https://bsky.app/profile/did:plc:2etirfyqqgrsbe7nibl4eyx3/post/3mqgt2vwzqr2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-12T09:04:10.665Z",
+        "score": 0,
+        "snippet": "RIVN | Rivian (NASDAQ):\n\ud83d\udcc9 Weekly Top Movers DOWN - #9: RIVN dropped -6.17% (prev. week: 18.63 -> this week close: 17.48)",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": []
+      },
+      {
+        "title": "Rivian R2 Full Review | Everything You Need to Know #rivian #shorts #review",
+        "url": "https://youtube.com/watch?v=4rIJP57lHaI",
+        "source": "youtube",
+        "publishedAt": "2026-07-12T14:34:18Z",
+        "score": 0,
+        "snippet": "Rivian R2 Full Review | Everything You Need to Know #rivian #shorts #review.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "He Flew In From LA to Get a Rivian and Peace of Mind \ud83d\ude31",
+        "url": "https://youtube.com/watch?v=i63erDOlQGE",
+        "source": "youtube",
+        "publishedAt": "2026-07-12T14:23:11Z",
+        "score": 0,
+        "snippet": "Trust made the difference here. He flew in from LA. The closer option wasn't enough. He chose peace of mind. #ev #dealership ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "What&#39;s the Most Anticipated EV Launch of 2026? \ud83e\udd14",
+        "url": "https://youtube.com/watch?v=VlB3ML3Eux0",
+        "source": "youtube",
+        "publishedAt": "2026-07-12T14:23:25Z",
+        "score": 0,
+        "snippet": "We asked Andrew Maddox (Finance), Justin Bird (Engineering), and Anita Dharod (Buyer) what the most anticipated EV launch of ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Test driving the new Rivian R2",
+        "url": "https://youtube.com/watch?v=zSENmDHyJX4",
+        "source": "youtube",
+        "publishedAt": "2026-07-12T14:01:33Z",
+        "score": 0,
+        "snippet": "Test driving the brand new rivian R2 at a brand new service station in St. Augustine, Florida.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "2027 Rivian R2 | 360 &amp; Reverse Camera #review #cars",
+        "url": "https://youtube.com/watch?v=-sKud8Q7PTQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-12T13:30:02Z",
+        "score": 0,
+        "snippet": "It's nothing new, it's just done really well. #carreviews #rivian #rivianr2.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "2026 Rivian Commercial Van",
+        "url": "https://youtube.com/watch?v=IQWIAwnz2aw",
+        "source": "youtube",
+        "publishedAt": "2026-07-12T12:40:54Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian Commercial Van is a fully electric cargo van developed for businesses seeking efficient, zero-emission ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": []
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=P3aEtdhBwNA",
+        "source": "youtube",
+        "publishedAt": "2026-07-12T11:38:46Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": []
+      }
+    ]
   }
 ]
