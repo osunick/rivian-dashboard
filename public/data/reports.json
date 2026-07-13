@@ -54248,5 +54248,412 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-13T18:02:32.669783Z",
+    "timestamp": "2026-07-13T18:02:32.669783Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 27,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Tire pressure TPM location on screen not accurate",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvi2ev/tire_pressure_tpm_location_on_screen_not_accurate/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T17:26:02.993Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Must be nice",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvhx5j/must_be_nice/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T17:21:05.160Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "It looks like Rivian will sign on to the $3,500 new EV rebate in CA",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvhrxn/it_looks_like_rivian_will_sign_on_to_the_3500_new/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T17:16:00.419Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Thank you Rivian! \u2665\ufe0f",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvh9c5/thank_you_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T16:57:40.308Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Test drove the R2 yesterday- Some thoughts for the average person",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvft2m/test_drove_the_r2_yesterday_some_thoughts_for_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T16:05:16.151Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Test drove the R2 yesterday- Some thoughts for the average person",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1uvfst5/test_drove_the_r2_yesterday_some_thoughts_for_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T16:05:16.151Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Repairability - How much better is R2 when compared to R1?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uviv6v/repairability_how_much_better_is_r2_when_compared/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-13T17:54:02.541Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Thoughts on the R2 after my test drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uvggqv/thoughts_on_the_r2_after_my_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-13T16:29:27.652Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "What reviews are we waiting to see?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uvf2us/what_reviews_are_we_waiting_to_see/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-13T15:39:23.776Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "What is your go-to song for testing the audio during test drives?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uvempx/what_is_your_goto_song_for_testing_the_audio/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-13T15:23:03.280Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 vs. 2026 Subaru Trailseeker: I Drove Both Electric Adventure SUVs\u2014Here\u2019s My Honest Comparison Review",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1uvh593/2027_rivian_r2_vs_2026_subaru_trailseeker_i_drove/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-13T16:53:37.772Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why I Won\u2019t Buy A Rivian - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzNyR0JsUmZHWlN2QzZmV0x5SmpINnNkekRaU0ZPZWNPVmtrVDJoQzRteWtUa0ZvNFc5NExiWDJoM0Z3bGwxQ2JGQkY0V2RqZU1semxta1YydHJIazVQVDQ5NWE0WGFzV2JhT0FlQzZkWDBTQ3pHd2lDUWZmWnFsdk5idnVlMG9uWXNCS2JR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 13 Jul 2026 15:21:56 GMT",
+        "score": 0,
+        "snippet": "Why I Won\u2019t Buy A Rivian - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Vs. Tesla: Buy Rivian to Exploit California\u2019s Protectionist Subsidy That Snubbed Tesla - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUxybU9VWWZ5aExFdGszdFpfOFpYYjlqcmZ5SVk2RFNjWktadHo2RXI0SGFIb21Mb256QW9vVHpub2R2QU9PUVhJLUQ2UjRDQWc4VW9VenBoNEpJOVJCN3ZRNkExeU9VeUppOWh1dkt6T1dYeDd2N1VuQkNHNUNzYUJDNnFRQUVGUGtSQU1Wb2VTcGZaYUZBMG5QalM0TW03cE4xY2dvUEJuZDYyenJlNEZjZ19zQ1J1dzYtM2M3WVpZT2Q3VklQWng2NWxEYk0?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 13 Jul 2026 16:36:42 GMT",
+        "score": 0,
+        "snippet": "Rivian Vs. Tesla: Buy Rivian to Exploit California\u2019s Protectionist Subsidy That Snubbed Tesla - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $58,998 | \ud83d\udccd Saint Albans City, VT | \ud83d\udee3\ufe0f 40,731 mi\n\nCheck it ",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mqk65j5u6g26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T17:00:28.366Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2023 Rivian R1S\n\n\ud83d\udcb0 $58,998 | \ud83d\udccd Saint Albans City, VT | \ud83d\udee3\ufe0f 40,731 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog09e170b7rklu2jrqpmsk9\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@r1zr1z.bsky.social (Bluesky): @rivianofficial.bsky.social +\n@zeromotorcycles.bsky.social \n= Heaven \n\n#getdirty",
+        "url": "https://bsky.app/profile/did:plc:kplxnkwj5terhzaa7bpxlpho/post/3mqk5g7wypc23",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T16:47:33.771Z",
+        "score": 1,
+        "snippet": "@rivianofficial.bsky.social +\n@zeromotorcycles.bsky.social \n= Heaven \n\n#getdirty #XE #FX #MadeInUSA",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@seabeegator46.bsky.social (Bluesky): Good point. \n\nTime to buy a Rivian!\nCuz fuck Elon.",
+        "url": "https://bsky.app/profile/did:plc:re5kgfwm2pj5o7xvbed2fe3l/post/3mqjx3th43k2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T14:54:15.664Z",
+        "score": 1,
+        "snippet": "Good point. \n\nTime to buy a Rivian!\nCuz fuck Elon.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@professorbigfoot.bsky.social (Bluesky): RIGHT??\n\nA friend and coworker of mine went to work for Rivian a few years ago a",
+        "url": "https://bsky.app/profile/did:plc:67ubc3ndpa43kv43titbjjok/post/3mqjvbr2lvk2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T14:21:46.673Z",
+        "score": 1,
+        "snippet": "RIGHT??\n\nA friend and coworker of mine went to work for Rivian a few years ago and the ones I\u2019ve seen are very decent trucks.\n\nUnlike the Wankpanzer!\ud83d\ude02",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN R2S #performancecars #carreview #southmotorcarworld #autoreview #carenthusiast #modely",
+        "url": "https://youtube.com/watch?v=vOvExWhuM3E",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T17:26:32Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R1T has this thing called the Gear Tunnel where you can store items for easy access\ud83d\udd25\ud83d\udc4c\ud83c\udffb",
+        "url": "https://youtube.com/watch?v=3tSelHc5LLs",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T17:28:32Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "are you stringing me along or is this real??? \ud83e\udd79 @Rivian #rivian #rivianr2 #r2 #r1",
+        "url": "https://youtube.com/watch?v=KvMU5NfKWzE",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T17:22:47Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Seat Covers",
+        "url": "https://youtube.com/watch?v=ua0USLAeEBQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T17:20:29Z",
+        "score": 0,
+        "snippet": "Can a standard seat cover actually break the occupancy sensors in a 2026 Rivian R1T? The 2026 Rivian R1T is built from the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S &amp; Jordan Items BACK In The Rocket League Item Shop! - Rocket League Item Shop Update",
+        "url": "https://youtube.com/watch?v=fayJuamNg0c",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T17:00:38Z",
+        "score": 0,
+        "snippet": "Hey everyone, In todays episode we do have the Rivian R1S & Jordan Items Back In The Rocket League Item Shop! As always if ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "The EV Everyone Will Want in 2026! | Rivian R2 First Look",
+        "url": "https://youtube.com/watch?v=LEUzkXBN7WE",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T16:30:36Z",
+        "score": 0,
+        "snippet": "The EV Everyone Will Want in 2026! | Rivian R2 First Look The Rivian R2 is one of the most anticipated electric SUVs in the world, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Make sure you do this 1 thing  when washing your Rivian R2 ",
+        "url": "https://youtube.com/watch?v=WDNsPa1e2DY",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T16:00:04Z",
+        "score": 0,
+        "snippet": "With the Rivian R2 hidden rear wiper blade, you want to make sure when you are washing that area, that you see clear water ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Electric Van Wrap: Liquid Metal Finish! #Shorts",
+        "url": "https://youtube.com/watch?v=SP7cmJL-sXc",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T15:40:50Z",
+        "score": 0,
+        "snippet": "See this stunning vehicle wrap Chicago featuring a Rivian electric delivery van. Full vehicle wrap with a unique liquid metal ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How Long Does a Rivian Side Step Install ACTUALLY Take? #SerenityEV #Rivian #SideSteps #ShopTime",
+        "url": "https://youtube.com/watch?v=nQMzof-giE4",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T15:00:02Z",
+        "score": 0,
+        "snippet": "SERENITY EV: NEXT GEN CARE FOR THE NEXT GEN CAR We are a factory trained, independent electric vehicle repair shop ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A acelera\u00e7\u00e3o brutal da Rivian",
+        "url": "https://youtube.com/watch?v=At0kByNzE3k",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T14:38:36Z",
+        "score": 0,
+        "snippet": "3,1 segundos e eu j\u00e1 t\u00f4 com medo... pera, tira o t\u00eanis? N\u00c3O FA\u00c7AM ISSO EM CASA! #velocidade #trolol\u00f3 #carro #drift ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
