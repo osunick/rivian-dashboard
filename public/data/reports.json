@@ -53999,5 +53999,254 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-13T14:02:24.772668Z",
+    "timestamp": "2026-07-13T14:02:24.772668Z",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 93,
+      "negative": 0
+    },
+    "sources": {
+      "news": {
+        "found": 15,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "CCS R1 owners: what adapters to get?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uv0omq/ccs_r1_owners_what_adapters_to_get/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T03:55:45.514Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Trailmanor trailer range question.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uuz9g9/trailmanor_trailer_range_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T02:45:35.786Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Why Is Rivian Automotive Stock Falling on Monday? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTVSeGp1R1JfX0J1MXljRHg5ODJ4SGtrX3Z3X1ZHSkg1eF9xTGRhcjRDU29LUHJwSDktT2FRLWQ2ek1YSlZYLWc0NVhhMnZyUkU2VHhnX2N3VVhkc1lsTmIxR3ExQi1lZ1ZzMEttclZGa2tDUzEwU2JjSXduR3JfUFFyUXBISm1yTGFDbnFneUVnVldFbVh5SFM2OHU3ZjNldkQ5MXd0MDJEcFZOMUE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 13 Jul 2026 13:39:33 GMT",
+        "score": 0,
+        "snippet": "Why Is Rivian Automotive Stock Falling on Monday? - Benzinga",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@theiceman808.blacksky.app (Bluesky): I know we're not really talking this right now. But rivian got tesla beat easy i",
+        "url": "https://bsky.app/profile/did:plc:ug6zdvpn2nji3hxvctzu4mqt/post/3mqjswofqhs2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T13:39:47.273Z",
+        "score": 1,
+        "snippet": "I know we're not really talking this right now. But rivian got tesla beat easy in the pretty ev truck category. lol I have exactly zero reason to own a truck. But i want me a rivian. :D Meanwhile, eve",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian Extends $1,500 Amazon Employee R1 Discount to Quarter\u2019s End\n\nhttps://www.",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqjqpu2lfg27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T13:00:11.179Z",
+        "score": 0,
+        "snippet": "Rivian Extends $1,500 Amazon Employee R1 Discount to Quarter\u2019s End\n\nhttps://www.evshift.com/489759/rivian-extends-1500-amazon-employee-r1-discount-to-quarters-end/\n\nRivian Extends $1,500 Amazon Employ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newsarea.bsky.social (Bluesky): Modified 2022 Porsche 911 GT3 Touring\u00a06-Speed\n\nThis 2022 Porsche 911 GT3 is a Ca",
+        "url": "https://bsky.app/profile/did:plc:kqj4vuyjvmtnptvvdt2xijtk/post/3mqjn7xovu72o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T11:57:36.970Z",
+        "score": 0,
+        "snippet": "Modified 2022 Porsche 911 GT3 Touring\u00a06-Speed\n\nThis 2022 Porsche 911 GT3 is a Canadian-market Touring that was acquired by the seller, Chief Design Officer at Rivian Automotive, Jeff Hammoud, in 2024 ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Ross Gerber\u2019s \u2018Controversial\u2019 EV Opinion? He Prefers Tesla\u2019s Cybertruck Over His",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqjb3b65t72j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T08:20:14.567Z",
+        "score": 0,
+        "snippet": "Ross Gerber\u2019s \u2018Controversial\u2019 EV Opinion? He Prefers Tesla\u2019s Cybertruck Over His Rivian, but Criticizes F\n\nhttps://www.evshift.com/489661/ross-gerbers-controversial-ev-opinion-he-prefers-teslas-cybert",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "40/20/40 is the best rear seat config! #rivian #r2 #cars #automobile #newcar",
+        "url": "https://youtube.com/watch?v=tVYgZxuMHKc",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T13:55:05Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u30ea\u30d3\u30a2\u30f3\u682a\uff08RIVN\uff09\u306e\u4eca\u5f8c\u306f\uff1fR2\u306e\u6210\u9577\u6027\u30fb3\u3064\u306e\u30ea\u30b9\u30af\u30fb\u6b21\u306e\u6ce8\u76ee\u65e5\u3092\u89e3\u8aac #\u30ea\u30d3\u30a2\u30f3 #\u7c73\u56fd\u682a",
+        "url": "https://youtube.com/watch?v=nmJyaO49Jk0",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T12:31:38Z",
+        "score": 0,
+        "snippet": "\u30ea\u30d3\u30a2\u30f3\u682a\uff08RIVN\uff09\u306e\u4eca\u5f8c\u306f\u3069\u3046\u306a\u308b\uff1f EV\u30e1\u30fc\u30ab\u30fc\u300cRivian Automotive\uff08\u30ea\u30d3\u30a2\u30f3\uff09\u300d\u306b\u3064\u3044\u3066\u3001\u6295\u8cc7\u521d\u5fc3\u8005\u5411\u3051\u306b\u6210\u9577\u6027\u30fb ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "First look at the Rivian R2. What do y&#39;all think? #Rivian #R2",
+        "url": "https://youtube.com/watch?v=XeJwTL-OyC4",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T12:22:49Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla vs Rivian Stock 2026- Is it Time to BUY?",
+        "url": "https://youtube.com/watch?v=vF67vyc-WB4",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T12:00:28Z",
+        "score": 0,
+        "snippet": "In this episode we look at the drivers that could finally lead to a rerate in both of these stocks. They both need to scale parts of their ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Fine. I\u2019ll do it.",
+        "url": "https://youtube.com/watch?v=rXgNFCKGFS4",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T09:38:17Z",
+        "score": 0,
+        "snippet": "After countless comments from you all telling me to park my Rivian R1T nose-first in the garage, I finally gave it a shot. I've always ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ferrari\u2019s Big Reveal, Doug\u2019s Real Opinion on the Rivian R2 &amp; Ford in Trouble! This Car Pod! EP98",
+        "url": "https://youtube.com/watch?v=17NAy2a37p4",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T09:00:11Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 First Review Affordable, Practical, Awesome!",
+        "url": "https://youtube.com/watch?v=GTWcJhtA9N0",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T08:15:03Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Highway Assist - Calibration of lane center?",
+        "url": "https://www.rivianforums.com/forum/threads/highway-assist-calibration-of-lane-center.43721/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Highway Assist - Calibration of lane center?",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      }
+    ]
   }
 ]
