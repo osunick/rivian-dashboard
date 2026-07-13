@@ -58912,5 +58912,386 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-13T22:02:36.299911Z",
+    "timestamp": "2026-07-13T22:02:36.299911Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 88,
+      "negative": 12
+    },
+    "sources": {
+      "news": {
+        "found": 25,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Gavin Newsom IG prominently features Rivian.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvohpm/gavin_newsom_ig_prominently_features_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T21:14:17.532Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Salute",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvlt75/rivian_salute/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T19:37:48.087Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Need brakes - what have you done?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvlgup/need_brakes_what_have_you_done/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T19:25:41.116Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Gen2 All-Weather Mats in Gen1?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvkqfq/gen2_allweather_mats_in_gen1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T18:59:36.696Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Kammok x Rivian awning rattle?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvkiqq/kammok_x_rivian_awning_rattle/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T18:52:13.043Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "When Rivians come together to charge in Las Vegas\u2026.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvk1yr/when_rivians_come_together_to_charge_in_las_vegas/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T18:35:46.120Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "What\u2019s it like owning 2 Rivians for the app?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvjv2c/whats_it_like_owning_2_rivians_for_the_app/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T18:29:08.877Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyway to disable the efficiency display?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uvplbm/anyway_to_disable_the_efficiency_display/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-13T21:55:39.998Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "The Robotaxi Ultimatum: Waymo Is Now Fighting a Regulator and Its Biggest Distributor at the Same Time - Business Model Analyst",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aOHpsbHNBaUlYNDFEX0c1LU5sTm8zbWV1UERZdFJuZTVZbU5Yejczcm8yRVFTdUtOYkFGMEdzN1N0emRCVW51NThGZXVzU2U5SF9kLWkwRWtnTDIzcEJQTVJ6OFBVaVBhdGVLX0lqRnFYR1RkSTdaUA?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 13 Jul 2026 15:03:57 GMT",
+        "score": 0,
+        "snippet": "The Robotaxi Ultimatum: Waymo Is Now Fighting a Regulator and Its Biggest Distributor at the Same Time - Business Model Analyst",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@jeremydunworth.bsky.social (Bluesky): Chat, I have a question.  Excluding government subsidies and regulatory credits,",
+        "url": "https://bsky.app/profile/did:plc:zwwcuzjwmrdlhr2t3sfui4jv/post/3mqkouty6a22v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T21:59:53.670Z",
+        "score": 0,
+        "snippet": "Chat, I have a question.  Excluding government subsidies and regulatory credits, who has generated more net income, Nikolai Tesla the inventor or Telsa the car company?  I'm not liking the answers I'm",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@samaeltormenta.bsky.social (Bluesky): Rivian and Ophelia are the ones that immediately come to mind when i think about",
+        "url": "https://bsky.app/profile/did:plc:te6u5ttjtyi63knzmzk6zkrm/post/3mqkndrwvjk2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T21:32:26.171Z",
+        "score": 1,
+        "snippet": "Rivian and Ophelia are the ones that immediately come to mind when i think about your works",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): California\u2019s New EV Rebate Caps Tesla, Not Rivian or Lucid\n\nhttps://www.evshift.",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqkmnqslog2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T21:20:05.576Z",
+        "score": 0,
+        "snippet": "California\u2019s New EV Rebate Caps Tesla, Not Rivian or Lucid\n\nhttps://www.evshift.com/490036/californias-new-ev-rebate-caps-tesla-not-rivian-or-lucid/\n\nCalifornia Governor Gavin Newsom signed Senate Bil",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian has released mobile app 3.14 for iOS and Android. This update primarily f",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mqkk5kyob22y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T20:35:20.663Z",
+        "score": 6,
+        "snippet": "Rivian has released mobile app 3.14 for iOS and Android. This update primarily focuses on the Explore tab, introducing smarter search and trip-planning tools.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@sirgeekalot.bsky.social (Bluesky): I\u2019ve been driving a 2005 Corvette since 2008. I had 2000 before that and a Trans",
+        "url": "https://bsky.app/profile/did:plc:uxpp7rt64inekapcdnifusk7/post/3mqkio6kgg22k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T20:08:45.173Z",
+        "score": 1,
+        "snippet": "I\u2019ve been driving a 2005 Corvette since 2008. I had 2000 before that and a Trans Am before that.\n\nThere is a slight lag from when I touch the gas pedal.\n\nI drove a 2026 Chevy Equinox EV for almost two",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Review: Rivian-backed Also e-bike is a fun, powerful solution for urban mobility",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqkh36g5oi2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T19:40:13.673Z",
+        "score": 0,
+        "snippet": "Review: Rivian-backed Also e-bike is a fun, powerful solution for urban mobility. But it will cost you\n\nhttps://www.evshift.com/489970/review-rivian-backed-also-e-bike-is-a-fun-powerful-solution-for-u",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@k9hasmyheart.bsky.social (Bluesky): finance.yahoo.com/technology/a...",
+        "url": "https://bsky.app/profile/did:plc:liet5cy5wsla73b34lqaqzoq/post/3mqkf2c72x22u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T19:03:58.267Z",
+        "score": 0,
+        "snippet": "finance.yahoo.com/technology/a...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): California\u2019s new $3,500 EV rebate favors Rivian and Lucid over Tesla",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mqkefjdvom23",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T18:52:18.776Z",
+        "score": 16,
+        "snippet": "California\u2019s new $3,500 EV rebate favors Rivian and Lucid over Tesla",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): California's $3,500 EV rebate has a $50,000 price cap. Rivian does not have to m",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mqkdezlz3k2u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T18:34:11.763Z",
+        "score": 107,
+        "snippet": "California's $3,500 EV rebate has a $50,000 price cap. Rivian does not have to meet it. Lucid does not have to meet it. Tesla does. The difference is where the HQ sits.\n\nriviantrackr.com/news/califor.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@yahoofinance.com (Bluesky): Review: Rivian-backed Also e-bike is a fun, powerful solution for urban mobility",
+        "url": "https://bsky.app/profile/did:plc:sqbswn3lalcc2dlh2k7zdpuw/post/3mqkcns2epx2h",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T18:21:09.270Z",
+        "score": 0,
+        "snippet": "Review: Rivian-backed Also e-bike is a fun, powerful solution for urban mobility. But it will cost you",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Cybertruck vs Rivian R1S \u2013 Ultimate Wall Crash Test",
+        "url": "https://youtube.com/watch?v=7wyJ9amrPWk",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T22:00:01Z",
+        "score": 0,
+        "snippet": "Tesla Cybertruck vs Rivian R1S crashes into a concrete wall at increasing speeds to find out which electric truck survives the best.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R1T Quad Motor is FAST AF!",
+        "url": "https://youtube.com/watch?v=qeeJVMYuX8g",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T21:54:07Z",
+        "score": 0,
+        "snippet": "Testing out the Rivian R1T Quad Motor with Oliver! This thing is insanely fast! Watch the entire experience on our YouTube ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Rear Fender Dent Repair | Hollywood, FL",
+        "url": "https://youtube.com/watch?v=mWk7nusU5Co",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T21:00:33Z",
+        "score": 0,
+        "snippet": "Meet Nevin, one of our skilled body technicians at Car Geeks Collision. In this video, he demonstrates how we remove a dent from ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Rear Fender Dent Repair | Hollywood, FL",
+        "url": "https://youtube.com/watch?v=P7mVAmQ60JI",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T21:00:11Z",
+        "score": 0,
+        "snippet": "Meet Nevin, one of our skilled body technicians at Car Geeks Collision. In this video, he demonstrates how we remove a dent from ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Finally Ordered My Rivian R2 Launch Edition... But Did I Just Make a Huge Mistake?",
+        "url": "https://youtube.com/watch?v=-WFXZmq5FHA",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T20:45:22Z",
+        "score": 0,
+        "snippet": "I Finally Ordered My Rivian R2 Launch Edition... But Did I Just Make a Huge Mistake?** After waiting more than **two years**, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian says AI will replace Apple CarPlay. Do you think so? \ud83e\udd14",
+        "url": "https://youtube.com/watch?v=zub3uwfwiXs",
+        "source": "youtube",
+        "publishedAt": "2026-07-13T20:04:26Z",
+        "score": 0,
+        "snippet": "Rivian says AI will replace Apple CarPlay. Do you think so? #Rivian #apple #ai #carplay #tech.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
