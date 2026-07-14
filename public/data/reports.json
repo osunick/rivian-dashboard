@@ -60029,5 +60029,430 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-14T18:02:45.502050Z",
+    "timestamp": "2026-07-14T18:02:45.502050Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 78,
+      "negative": 10
+    },
+    "sources": {
+      "news": {
+        "found": 28,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Audio System",
+      "Autonomy",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Any Rivian Owners in the Louisville area?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwfewm/any_rivian_owners_in_the_louisville_area/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T17:32:24.726Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Parts availability is not acceptable",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uweawa/parts_availability_is_not_acceptable/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T16:53:03.563Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Home Charger Question",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwe1lj/rivian_home_charger_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T16:43:36.322Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Set default key/driver",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwc6kz/set_default_keydriver/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T15:37:48.341Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Finally! R2 order email",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwbt34/finally_r2_order_email/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T15:24:12.048Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Let Speculation Commence on LE/Gen3 Hardware based on this email...",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uwexto/let_speculation_commence_on_legen3_hardware_based/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-14T17:15:42.146Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "I Had High Expectations For The Rivian R2. It Still Blew Me Away - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQRDFhLUlnMlQwR1R5NGl1ZWd0NEptWUI3Q21MMS1GT1ZIQ1RIWjN1Wkh2ZTQtZ2x0dU1VZUdxQ1BxOS0wUnlTdjFrdC1US2N4YS05TDRkSGIwajFIRFVzOGlJZFpENmdUZDRtMGdJWEVyUmQ5?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 14 Jul 2026 11:45:52 GMT",
+        "score": 0,
+        "snippet": "I Had High Expectations For The Rivian R2. It Still Blew Me Away - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Korea\u2019s Tesla FSD limbo leaves owners frustrated - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjNzbFZ3Q2J5M2RxcXJVV0VacVdfWGhQdGFyQVZhcU41NkFTei1ERGsya2xtajdpSnZRSC1vMy1tZkt1eW5iaDBhZkZJMlExVWhDd1J6VTF3aFN3REhaSUtyaFQyMDZwcHNwUTNqYTBaVWxDX2lLNFY1VUJOd0lSU1M1RHdXdEJqd05VNjVRZkdRdTdGNmVORlFQUURRMFI4RlFMSE1B?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Tue, 14 Jul 2026 15:05:42 GMT",
+        "score": 0,
+        "snippet": "Korea\u2019s Tesla FSD limbo leaves owners frustrated - Korea JoongAng Daily",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): There's an argument that could be made that Rivian should buy Lucid for its hard",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mqmrcdk3hp26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T17:48:30.273Z",
+        "score": 0,
+        "snippet": "There's an argument that could be made that Rivian should buy Lucid for its hardware EV tech.\n\n$rivn $lcid",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bmccully.bsky.social (Bluesky): $50k is the average price of a new car now, and the cap.  EVs the wealthy buy ar",
+        "url": "https://bsky.app/profile/did:plc:ml2to5e2rggl2rao4yhm2adz/post/3mqmomapikk2q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T17:00:21.964Z",
+        "score": 0,
+        "snippet": "$50k is the average price of a new car now, and the cap.  EVs the wealthy buy are more than $50k and not typically eligible.  The carve outs for Rivian and Lucid are low volume.\n\nMost of the rebates w",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mqmn7ydrug22",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T16:35:36.967Z",
+        "score": 1,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@alexvonwitzleben.bsky.social (Bluesky): #GavinNewsom signed SB 168, creating a new #MyFirstEV program that gives first-t",
+        "url": "https://bsky.app/profile/did:plc:jktjr4e347fggxxlcyco2pth/post/3mqmmzvd3z22m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T16:32:14.373Z",
+        "score": 19,
+        "snippet": "#GavinNewsom signed SB 168, creating a new #MyFirstEV program that gives first-time #electricvehicle buyers a $3,500 instant rebate starting later this summer. It makes Calfornia based #Rivian and #Lu",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): We put the Rivian R2 to the ultimate test: a full family road test in NYC! \ud83d\udd0b\ud83c\udf32 My",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mqmm2emm6g2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T16:14:34.478Z",
+        "score": 0,
+        "snippet": "We put the Rivian R2 to the ultimate test: a full family road test in NYC! \ud83d\udd0b\ud83c\udf32 My wife took the wheel for her first R2 drive & first time using autonomy, while the kids rated the space and sound system",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Audio System",
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian was awarded a patent for a \"vehicle camera system\".  The patent also ment",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mqmlbbo3wp2r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T16:00:32.767Z",
+        "score": 2,
+        "snippet": "Rivian was awarded a patent for a \"vehicle camera system\".  The patent also mentions connectivity to towed object cameras for surround (birds-eye) view.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian Offers Up to $5,000 Off 2026 R1T and R1S Builds\n\nriviantrackr.com/news/ri",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mqmkzrovvc2g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T15:56:24.274Z",
+        "score": 4,
+        "snippet": "Rivian Offers Up to $5,000 Off 2026 R1T and R1S Builds\n\nriviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@meredithlowry.bsky.social (Bluesky): Today in design patents:\n\nD1133737 issued to Rivian IP for a compact kitchen.\n\n#",
+        "url": "https://bsky.app/profile/did:plc:ihqsgbh37qvgpxa5q6quagqc/post/3mqmkbktvhk26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T15:42:52.573Z",
+        "score": 0,
+        "snippet": "Today in design patents:\n\nD1133737 issued to Rivian IP for a compact kitchen.\n\n#DesignPatents",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@t-antony.bsky.social (Bluesky): Considering the current scorched-earth policies of republicans, this forward mov",
+        "url": "https://bsky.app/profile/did:plc:vba3mnu6fzlwkmxtwhj6lmai/post/3mqmiveibts2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T15:18:09.365Z",
+        "score": 2,
+        "snippet": "Considering the current scorched-earth policies of republicans, this forward movement seems quaint at best.\ncleantechnica.com/2026/07/06/c...",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): These are the jobs to get at Rivian - making prototypes for Special Projects.\n\nL",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mqmhvhmkyo2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T15:00:14.972Z",
+        "score": 2,
+        "snippet": "These are the jobs to get at Rivian - making prototypes for Special Projects.\n\nLink:  buff.ly/8CYQLnB",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This Rivian Building has a Hidden Story",
+        "url": "https://youtube.com/watch?v=UM9u8FJ6Zsc",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T17:00:23Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Part 3: Rivian R1T Autonomy+ Is the Feature Nobody Talks About",
+        "url": "https://youtube.com/watch?v=hfxUay4kjZM",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T17:00:31Z",
+        "score": 0,
+        "snippet": "Everyone talks about range and charging \u2014 but Autonomy+ is the Rivian R1T feature that actually changed how I drive.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Testing Rear Cargo Temps in Rivian R2",
+        "url": "https://youtube.com/watch?v=Xbwy7h8U24k",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T16:51:46Z",
+        "score": 0,
+        "snippet": "Since there are no rear vents, some people are curious if it gets hot in the rear for pets. I did a quick, unscientific test to see what ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Getting ready for your Rivian R2 demo drive",
+        "url": "https://youtube.com/watch?v=o7thI11_XBA",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T16:39:09Z",
+        "score": 0,
+        "snippet": "This pre-drive tutorial shows you how to adjust settings, features and controls in R2 once you get behind the wheel. Use the key ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "2027 Rivian R1S SHOCKS Everyone \u2013 Tesla Should Be Worried!",
+        "url": "https://youtube.com/watch?v=B-vc_cUQlyA",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T16:00:22Z",
+        "score": 0,
+        "snippet": "The 2027 Rivian R1S is here, and it's redefining what an electric SUV can be. In this video, we take an in-depth look at the latest ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Global Auto Industry Has Entered a New Era - VW, Rivian &amp; USMCA | At The Wheel #24",
+        "url": "https://youtube.com/watch?v=l4--2hRXo8A",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T15:55:18Z",
+        "score": 0,
+        "snippet": "For decades, Volkswagen was the world's automotive powerhouse. Today, it's closing factories, cutting jobs, losing market share ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 interior view",
+        "url": "https://youtube.com/watch?v=ss8bW87QKp0",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T15:41:28Z",
+        "score": 0,
+        "snippet": "Rivian R2 interior view pre test drive review.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian R1T Named 2026 Edmunds Top Rated Electric Truck! \u26a1\ud83c\udfc6#rivian#electric#truck#trendingshorts#tech",
+        "url": "https://youtube.com/watch?v=IvsiOSyVkIw",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T14:45:04Z",
+        "score": 0,
+        "snippet": "The Rivian R1T has been named Edmunds' Top Rated Electric Truck for 2026! With impressive performance, advanced ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian container fell down in ocean \ud83c\udf0a #container #boat #riding #cars #fyp #subscribe",
+        "url": "https://youtube.com/watch?v=sZxG2Bo_PJ4",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T14:46:03Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s business model &#39;doesn&#39;t work&#39; without R2",
+        "url": "https://youtube.com/watch?v=w8AHHJIjoRU",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T14:06:21Z",
+        "score": 0,
+        "snippet": "Rivian's business model doesn't work without R2.\u201d Rivian founder & CEO RJ Scaringe explains why the company's new vehicle is ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
