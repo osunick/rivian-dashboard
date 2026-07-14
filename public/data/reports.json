@@ -59596,5 +59596,438 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-14T14:02:10.369047Z",
+    "timestamp": "2026-07-14T14:02:10.369047Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 96,
+      "negative": 3
+    },
+    "sources": {
+      "news": {
+        "found": 29,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rust bubble",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uw9c2e/rust_bubble/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T13:52:33.391Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Looking for insight from long time r1s/r1t owners",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uw81rn/looking_for_insight_from_long_time_r1sr1t_owners/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T13:01:32.827Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian's Electric Van Outsold Its Rivals Combined\u2014By 70%",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uw58p4/rivians_electric_van_outsold_its_rivals/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T10:51:15.285Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Running Boards FTW?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvydb2/running_boards_ftw/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T04:26:55.199Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "20\u201d tire replacement dilemma",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvxpk1/20_tire_replacement_dilemma/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T03:53:05.382Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "\"Emerging Issue\": Rivian digital key access unavailable.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvxkzv/emerging_issue_rivian_digital_key_access/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T03:46:47.885Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Oil Leak?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvvk2r/oil_leak/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T02:11:31.720Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "I am not a buyer until primary mechanical locks are included",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uvvqlm/i_am_not_a_buyer_until_primary_mechanical_locks/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-14T02:19:52.424Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "ADAS Regulations overview: What every automaker needs to know",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1uw7zqf/adas_regulations_overview_what_every_automaker/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-07-14T12:59:32.906Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Eyes on Rivian Automotive after R2 launch and large share offering (RIVN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkRxRHkza1kteHFOd0JaajVoUjBBZUdlQTBQSW5nU0FEYVlXM0Y0a2Y5NDJQUHVTMWhOWVJIbWZVOE5CdnFMZGo2U0RJc093RGhocjktZktsTC1BSWFhU3JIaGFZVF9UM0NZSUxjRi0wSlFoZ1R2Nk54NFFONU0wcDVqX3E2SGZTZU1lcTR1SGQ1QlpBczhsZ1k4amNpekZucEJOTlR6dw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 11:27:08 GMT",
+        "score": 0,
+        "snippet": "Eyes on Rivian Automotive after R2 launch and large share offering (RIVN:NASDAQ) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Backs Also And Teams With DoorDash On Delivery Bikes - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaW00cFhVbEwwNHU5UFVlSWplQnQxNm5Tcl85V2ZEVE9UQ1BkUk1FelR4WTM0cFlPd0k1V2QweFlQOVhNbHdNT0ljeUg2TjJVUDdGS2FPSGplNmVnQnVCQko0VTRJOHBrOV9kNHliV0hYMklRSjIwWWt6djlBYXI2RVh2SFlfc1BpYjRsajR0VHd2cmZESjQ3ZUFJd1pmU1ZBZDc4dHhOWGFNZWNyVTk2UHpBWXE3NmNmUl9lbWp1WnZRckxfTmlMX1J3bHl4cFFCVWtybThR0gHbAUFVX3lxTE1hLUFaaU1BVkVDM0ZMUDA1VmdyQm1scGdLZHBseTJDRmdadFpEcXZ5ZWVjZDUwQjVCOWhYQ0ZKcjNlN1B4U0lySGtNWDZFNW5TSE04aTBHNE1Yd1EydjR6N1VyM0ZvZjB6QW9sRFVCRW1NWl96UzlxNHd1OG9GSEIya2FGRGFyenZnRlF3SVdHNHBKR0xuLVNueGdCUWZCMlFzNjR4c2U0UGY1MVY1bVVlakE1Y2ZHR1JuRjQ2Sy1MeWN0RWFXbjlTNl81TDdVYTh2VkJIYWUwcHVXOA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 11:27:46 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Backs Also And Teams With DoorDash On Delivery Bikes - simplywall.st",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Given New $13.00 Price Target at Morgan Stanley - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzcxeU5qSEl0VFFaS2J5Qko1dlBjb3ZfVnIyWU0yLWNhRkJnUURFQXJlbVE1eTkxbXBEb2FfcExpU0FDUzJZVUk1YjIyNmNZZFE3dFlCRXZtQjBNZ0tlbTBHeHdScU1NTlF5SjlLcHNOS3RZZGpOZTJxdFZIT01MZDdQTVk0ZXVIdS05MmhQYTV1UXdoeEdWcV9UOG5SZXBrZ2JtMHVQQWRfa1hWc3VTZVkwVHBKVndKcndnM2dlaXkzOXB5cmZZ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 12:14:27 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Given New $13.00 Price Target at Morgan Stanley - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Barclays on Rivian (RIVN) into earnings: 'Autonomy remains show me' - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3dRVDhzdVQ4b1hYMWlabUVWelk1d2w4U3h6aUtLamZSQWNUN0k1LWdXdmhkWFRzMm1JNnBHT0JXUlllc3d6YjI1UEZTdUJzMmdwbnlSak5oOTBTMlY3NzJLLVZpRll4T2w4aVB4dUh5OVA2M2d5ZUZ1VWZlS2VUR0lZeWlydFZJQVE4NGRnYVppMjFQUngtU3diU2dHQ1IyMGtzMEdTNGNvQ3pIQWdqMFd6YTBZdHpuQ2c0OUtIRC1NMUhhODNCNHZTTEc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 10:01:26 GMT",
+        "score": 0,
+        "snippet": "Barclays on Rivian (RIVN) into earnings: 'Autonomy remains show me' - StreetInsider",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Sumitomo Mitsui Trust Group Inc. Has $24.76 Million Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSlFueUhaUmR3dEluMUZ5LVNxTEFqZ2xxUTFzVGNnSWc4elgxLTdhS3JLemViZlYtQ3pRUnF6ZmRfclNJRHIyV0JibEtZZktDbHkyS1VtbEV1U2w3M2ltLUJSdmlmODFid3BFekxHWERnSmwzNE5FNXEwakhhck50Q3JlNEt5cUM4cS14cFdXQTRVNklLNXRDQTFRRXNuOHM4cmpxMkxBUkhwMWV3QW9lbWZjZDJRNlBDdmk2UFh4S2FMdVFWX0M1bjcyR1RPQWV3OFc0b0JmNHZGX1VTZXc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 09:07:18 GMT",
+        "score": 0,
+        "snippet": "Sumitomo Mitsui Trust Group Inc. Has $24.76 Million Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Toyota 4Runner vs. 2027 Rivian R2: I Drove Both Adventure SUVs\u2014Here\u2019s My Honest Gas Vs Electric Comparison Review - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzlQNE1UblN4R1hLZ0lHMzUtaUhxVnR3SzJ3cWxyN1AxRnI5blRYV2I4WVlNX1FycGs4UHlCS3FVYkxUT3JDdXJWQzhSeDdwOW95MTBVUWhlTmV0WmZiYlc5YnJXQWs3N0JBLUJnRmQ0a2k1bjVqUTc3UTVLV2RTcmdIYUhmcHN4aW1PNnRfelE3Zw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 14 Jul 2026 12:00:00 GMT",
+        "score": 0,
+        "snippet": "2026 Toyota 4Runner vs. 2027 Rivian R2: I Drove Both Adventure SUVs\u2014Here\u2019s My Honest Gas Vs Electric Comparison Review - Autoblog",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@gcfong.bsky.social (Bluesky): In the U.S., Volvo, Mini, Slate, and Scout. Possibly Rivian and Lucid as indepen",
+        "url": "https://bsky.app/profile/did:plc:murnzvuamfexlhkeykjwl5br/post/3mqmchdtevc26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T13:22:52.664Z",
+        "score": 0,
+        "snippet": "In the U.S., Volvo, Mini, Slate, and Scout. Possibly Rivian and Lucid as independent manufacturers.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mqmbs4xfmm2l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T13:11:00.269Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@fundspec.bsky.social (Bluesky): Rivian Automotive $RIVN Morgan Stanley Raises price target from 12.00 to 13.00. ",
+        "url": "https://bsky.app/profile/did:plc:5i7m7wpf7lstzfau43thfeff/post/3mqm6o3dkj42e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T12:15:03.268Z",
+        "score": 0,
+        "snippet": "Rivian Automotive $RIVN Morgan Stanley Raises price target from 12.00 to 13.00. Maintains Underweight.\nhttps://fundspec.ai\nDon't just watch RIVN move, predict it! Build your own custom AI trading mode",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@a4xrbj1.bsky.social (Bluesky): No, you must be living in a parallel universe because there's no freaking way th",
+        "url": "https://bsky.app/profile/did:plc:36v5mrng22efx5bxxy3yqdfb/post/3mqlxlhq4gk2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T10:08:20.869Z",
+        "score": 0,
+        "snippet": "No, you must be living in a parallel universe because there's no freaking way that Detroit or US car makers would be leaders in EV's. NO WAY.\n\nYou have Elon and a copy cat called Rivian. Rivian produc",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bdogz.xyz (Bluesky): Anyway this is my cope because I really wanted to get an EV and this was my firs",
+        "url": "https://bsky.app/profile/did:plc:6novlgzybodyp2f47gu7kjam/post/3mqlwfpctgs2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T09:47:15.363Z",
+        "score": 0,
+        "snippet": "Anyway this is my cope because I really wanted to get an EV and this was my first choice because Rivian is too expensive, Tesla is... *motions to obvious reason*, and I just didn't really like the Kia",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): More North Scottsdale traffic expected with Rivian |\n\nhttps://www.evshift.com/49",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqlvyxvzth2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T09:40:05.371Z",
+        "score": 0,
+        "snippet": "More North Scottsdale traffic expected with Rivian |\n\nhttps://www.evshift.com/490346/more-north-scottsdale-traffic-expected-with-rivian/\n\nCompared to the roar of their gas-guzzling predecessors, elect",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@us-news.bsky.social (Bluesky): More North Scottsdale traffic expected with Rivian |\n\nhttps://www.europesays.com",
+        "url": "https://bsky.app/profile/did:plc:wrsf35zye5xmlfaje5zyyega/post/3mqlqy67nrt27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T08:10:09.965Z",
+        "score": 0,
+        "snippet": "More North Scottsdale traffic expected with Rivian |\n\nhttps://www.europesays.com/us/933845/\n\nCompared to the roar of their gas-guzzling predecessors, electric vehicles pass by with a whispery hum. So ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian Vs. Tesla: Buy Rivian to Exploit California\u2019s Protectionist Subsidy That ",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqln3gzjay2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T07:00:25.074Z",
+        "score": 0,
+        "snippet": "Rivian Vs. Tesla: Buy Rivian to Exploit California\u2019s Protectionist Subsidy That Snubbed Tesla\n\nhttps://www.evshift.com/490278/rivian-vs-tesla-buy-rivian-to-exploit-californias-protectionist-subsidy-th",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Just Crossed Into Positive Gross Margin \u2014 But Can It Outrun a $4B Annual Burn?",
+        "url": "https://youtube.com/watch?v=skx0upfzcR4",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T14:00:03Z",
+        "score": 0,
+        "snippet": "Ford just wrote off $19.5 billion trying to scale EVs. Rivian is burning $2 billion a year in operations \u2014 yet Wall Street is treating it ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A acelera\u00e7\u00e3o brutal da Rivian",
+        "url": "https://youtube.com/watch?v=dTjzrcAmND4",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T13:45:46Z",
+        "score": 0,
+        "snippet": "3,1 segundos e eu j\u00e1 tirei o t\u00eanis... n\u00e3o tentem isso #velocidade #drift #carros #adrenalina #perigo #tiktokbrasil #reelsbr.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S Dual Motor AWD MAX",
+        "url": "https://youtube.com/watch?v=jugJJw8U7NY",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T13:45:33Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Amazon Rivian Van. Van Number: 641239",
+        "url": "https://youtube.com/watch?v=jAKIFHvUD1U",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T13:43:33Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83e\udd2fRivian R1S Wood Carving | Luxury Electric SUV Build \ud83e\ude9a\ud83d\ude97 #RivianR1S #viral #shorts #viralvideo",
+        "url": "https://youtube.com/watch?v=JTCK0POyBK0",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T12:38:08Z",
+        "score": 0,
+        "snippet": "The Rivian R1S, carved in miniature wood! A luxury electric SUV, shaped entirely by hand into a stunning tiny masterpiece.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "the #futurecars #electricvehicle #rivian",
+        "url": "https://youtube.com/watch?v=_nGxCnhXFn8",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T07:00:22Z",
+        "score": 0,
+        "snippet": "teamgoodmanpamilya #rivianr2.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
