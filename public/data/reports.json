@@ -59293,5 +59293,308 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-14T02:02:43.458043Z",
+    "timestamp": "2026-07-14T02:02:43.458043Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 78,
+      "negative": 10
+    },
+    "sources": {
+      "news": {
+        "found": 19,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "Rooftop camping",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvtknm/rooftop_camping/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T00:42:06.654Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "2026 R1T tri (leased) with offroad package \u2014 anyone swap from offroad tires to all season tires using the 20\u201d offroad rims? Any lease concerns?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvt2hl/2026_r1t_tri_leased_with_offroad_package_anyone/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T00:19:51.844Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Any last minute tips for delivery?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvrmn5/any_last_minute_tips_for_delivery/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T23:18:07.632Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Celebs Who Own a Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uvpqqm/celebs_who_own_a_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-13T22:01:16.754Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Odd glitch with voice navigation?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uvqzu2/odd_glitch_with_voice_navigation/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-13T22:51:28.664Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Uber\u2019s robotaxi lobbying effort puts it on a collision course with Waymo - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2F4eVliLXhFMFdRX2lXQjFzWURuNFNYU18tLVFwbmhmV0FCTy1zeUxzV3hpX2lyOU01OUpBYWxUVjFVdnZQZkhyU1JwXzBFcWZVU2pPWmdRLWxlWDA4UGZmUy1CYmFXV1V4aGJYY3JONk1VSTJIX1RVR2c0TkpnN1Y0VkdQZVlCd3J6V01xVkxWeml4d0Q0YVdZOFpzRWZmNkpGWmEtSy1nNGZQZnc?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 13 Jul 2026 12:30:00 GMT",
+        "score": 0,
+        "snippet": "Uber\u2019s robotaxi lobbying effort puts it on a collision course with Waymo - TechCrunch",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): California\u2019s new EV incentive gives a leg up to Lucid and Rivian\n\nhttps://www.ev",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mql36rncls2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T01:40:09.476Z",
+        "score": 0,
+        "snippet": "California\u2019s new EV incentive gives a leg up to Lucid and Rivian\n\nhttps://www.evshift.com/490148/californias-new-ev-incentive-gives-a-leg-up-to-lucid-and-rivian/\n\nCA Gov. Gavin Newsom signed a new bil",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): California EV Incentive Gives Rivian, Lucid a Price-Cap Edge\n\nhttps://www.evshif",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqkyxakfa22p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T01:00:09.364Z",
+        "score": 1,
+        "snippet": "California EV Incentive Gives Rivian, Lucid a Price-Cap Edge\n\nhttps://www.evshift.com/490130/california-ev-incentive-gives-rivian-lucid-a-price-cap-edge/\n\nCalifornia is launching a new incentive progr",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ferl67.bsky.social (Bluesky): California\u2019s new $3,500 EV rebate favors Rivian and Lucid over Tesla\n\nelectrek.c",
+        "url": "https://bsky.app/profile/did:plc:yoorxodgdcylzn6aaxvsn6ca/post/3mqkxthjqak2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T00:40:14.476Z",
+        "score": 24,
+        "snippet": "California\u2019s new $3,500 EV rebate favors Rivian and Lucid over Tesla\n\nelectrek.co/2026/07/13/c...\n\n#California #EV",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@joseart.bsky.social (Bluesky): Tesla needs to partner with Uber instead of Uber/Waymo/Rivian! I'm Tesla and Ube",
+        "url": "https://bsky.app/profile/did:plc:klwwqzcdxhgvcaj2hkqhat5s/post/3mqkxex3y322i",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T00:31:59.165Z",
+        "score": 1,
+        "snippet": "Tesla needs to partner with Uber instead of Uber/Waymo/Rivian! I'm Tesla and Uber so it makes more sense! And Tesla-Uber is a better partnership for the long term !!! I'm waiting to get the check(s) a",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"RivianTrackr\"\nBy: Jose Castillo on Monday, July 13, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqkx2kqomy22",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T00:26:12.775Z",
+        "score": 0,
+        "snippet": "Feed: \"RivianTrackr\"\nBy: Jose Castillo on Monday, July 13, 2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Both skiing and Rivian are all about carving new paths and respecting the mounta",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mqkwgu3rvs2g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T00:15:12.001Z",
+        "score": 0,
+        "snippet": "Both skiing and Rivian are all about carving new paths and respecting the mountains we love. Safe to say, the inspiration tanks (and battery packs) are at 100% after this one. \ud83d\udd0b\u2744\ufe0f\n#Rivian #MikaelaShif",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@eyanj.bsky.social (Bluesky): went to Wawa on my break and heard a dude driving a Rivian tell a dude driving a",
+        "url": "https://bsky.app/profile/did:plc:gcsf24irff4ikv4ktu5glng3/post/3mqkvnghxgc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T00:00:56.872Z",
+        "score": 0,
+        "snippet": "went to Wawa on my break and heard a dude driving a Rivian tell a dude driving a dumpster \"you drive a Cybertruck. nobody wants to ride with you, bro\" and the HURT that rolled across buddy's face...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newmethos.bsky.social (Bluesky): Oh this is how I know I am old - I also only want to know how far away something",
+        "url": "https://bsky.app/profile/did:plc:zgrga5twhrss665vepfgqgxj/post/3mqkuxixtlc25",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T23:48:47.301Z",
+        "score": 0,
+        "snippet": "Oh this is how I know I am old - I also only want to know how far away something is by distance. If you tell me time, you are making assumptions about average velocity that may not be true, but distan",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): I drove the 2027 Rivian R2 and the 2026 Subaru Trailseeker to compare two electr",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mqkui3wm5u2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T23:40:05.369Z",
+        "score": 0,
+        "snippet": "I drove the 2027 Rivian R2 and the 2026 Subaru Trailseeker to compare two electric adventure SUVs in terms of price, range, capability, and real-world appeal.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newmethos.bsky.social (Bluesky): I'm circling back to my Top Gear diaspora interests and this question on James M",
+        "url": "https://bsky.app/profile/did:plc:zgrga5twhrss665vepfgqgxj/post/3mqkubcb2zk25",
+        "source": "bluesky",
+        "publishedAt": "2026-07-13T23:36:18.168Z",
+        "score": 1,
+        "snippet": "I'm circling back to my Top Gear diaspora interests and this question on James May's channel has me floored: youtu.be/avEWj3_nMk8?...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Rivian R2 Hot Take",
+        "url": "https://youtube.com/watch?v=U3qEKWDD8qY",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T01:21:06Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Rear Vent Control Demo",
+        "url": "https://youtube.com/watch?v=NopJwsNSxJ4",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T01:12:42Z",
+        "score": 0,
+        "snippet": "Just a quick look at the rear vent control and an interesting UX decision.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Which one for you?  Rivian R2 vs. 4Runner vs. Scout",
+        "url": "https://youtube.com/watch?v=iUtQnPLjHtg",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T01:00:18Z",
+        "score": 0,
+        "snippet": "The Rivian R2 has launched! It looks like an incredible vehicle. The Scout is the one I'm watching closely, but the 4Runner is a ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
