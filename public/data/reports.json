@@ -60454,5 +60454,413 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-14T22:02:39.840845Z",
+    "timestamp": "2026-07-14T22:02:39.840845Z",
+    "sentiment": {
+      "positive": 11,
+      "neutral": 77,
+      "negative": 11
+    },
+    "sources": {
+      "news": {
+        "found": 27,
+        "sentiment": null
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "",
+    "fullReport": "",
+    "items": [
+      {
+        "title": "R2 (Esker Silver) Road Trip Report",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwm11j/r2_esker_silver_road_trip_report/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T21:33:05.097Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How\u2019s vehicle is this?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwlxgs/hows_vehicle_is_this/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T21:29:23.933Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Gen 1 R1T Quad -> Gen 2 R1T Quad owners \u2013 can you comment on any different in suspension and half shaft noise?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwl6vt/gen_1_r1t_quad_gen_2_r1t_quad_owners_can_you/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T21:02:23.859Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A few questions related to charging and roadtrips (2022 LE R1T)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwktq1/a_few_questions_related_to_charging_and_roadtrips/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T20:48:26.632Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 next to my R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwikuc/r2_next_to_my_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T19:24:14.871Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Get Ready For Your R2 Demo",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uwjbr0/get_ready_for_your_r2_demo/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-14T19:51:51.103Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Ranked Last In Quality Survey While Backing Also With DoorDash - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3V4SzNUajgyVm1WM0ZQcTBObEFLc2hvZ29EdU96TWZDbENQS3NpZmUtRGlGbEpDSU95cXNKeHNjSFE0eGQ1Q3ZIMGNhNVdyVDFFT3ROZXpnQnN2SUNPUUduQzVBOHpwVF9JOGszYndXTjVvaUZ6Z3B2SFBSV3R0T1pWcWVPaUxYMFJkV0Z4VmltcHRCWDJtVEZ0UlI?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 16:14:28 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Ranked Last In Quality Survey While Backing Also With DoorDash - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Price Up 1.1% Following Analyst Upgrade - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQTNfS1lKWkhwZlBzakVSVG5sQ1VrcU0xd2lGelNKeVVLakpGeE1UU3NUUUgwSjJvdnNIdm0xN3JndFluTXdmN2RaYm5GelptcU9sSXd6MlVqZ19lczlma0lCR1pYRUhBdERORWN6ZWVQZWNhazJmVjZLOWx4LU5kdnJRN29xR3IwSU1sSGZTNlZPYldMZHZTNE5ZbW9yVU9Ga3JKRTROcEpvSHh6cUxWWjExMHd4c1J0clV5V2c3dlFmZzhl?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 21:06:40 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Price Up 1.1% Following Analyst Upgrade - MarketBeat",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "2026 Toyota 4Runner vs. 2027 Rivian R2: I Drove Both Adventure SUVs\u2014Here\u2019s My Honest Gas Vs Electric Comparison Review - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUOUZ4dzlmRmdnZVQ0dWRxTVZQNF9yc1hCNjBrUnJqc3ZnYjdxREdaQk5JdnBmY3gyMmpKWGp3c3pfa2NfODBFNE5pUUdXekpPMFhHdWY5cDYzdng2eExFTWZ0NHhrd1pnclM5WW9aYU5oSVFoSlVLMUJOTQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 14 Jul 2026 18:13:06 GMT",
+        "score": 0,
+        "snippet": "2026 Toyota 4Runner vs. 2027 Rivian R2: I Drove Both Adventure SUVs\u2014Here\u2019s My Honest Gas Vs Electric Comparison Review - AOL.com",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@angiecoiro.bsky.social (Bluesky): This is pretty great: incentives for first-time electric car buyers in Californi",
+        "url": "https://bsky.app/profile/did:plc:trdh5vfr662j4jec5mvnoosz/post/3mqn5mre73c2h",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T21:29:07.083Z",
+        "score": 1,
+        "snippet": "This is pretty great: incentives for first-time electric car buyers in California - for cars made by companies with \"corporate management and staff\" in CA as of Jan 2026. Guess who took his toys and l",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@common-carp.bsky.social (Bluesky): Im a car salesman. You come to the store and say, Hi I'd like to buy a Rivian ca",
+        "url": "https://bsky.app/profile/did:plc:6ff6ocrky3gvrdhduyexkfex/post/3mqn3rcqlos2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T20:55:50.169Z",
+        "score": 0,
+        "snippet": "Im a car salesman. You come to the store and say, Hi I'd like to buy a Rivian car. They are so awesome. I say Right this way. We walk down a long hallway and I escort you into a room, gently closing t",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@babygoldie.bsky.social (Bluesky): 2026-07-15 01:09:13 - RIVIAN shares fell 1%.",
+        "url": "https://bsky.app/profile/did:plc:xhrtfphu4gzqrztkpb3a63qf/post/3mqmxzorcao2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T19:48:56.065Z",
+        "score": 0,
+        "snippet": "2026-07-15 01:09:13 - RIVIAN shares fell 1%.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jimmyjazz1968.bsky.social (Bluesky): \"Interesting\" how cancelling the EV tax incentive hurt Tesla, but hurt rivals li",
+        "url": "https://bsky.app/profile/did:plc:ltjrnyaxxua6bstlgayvu4j7/post/3mqmxfyqeo22a",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T19:37:55.468Z",
+        "score": 25,
+        "snippet": "\"Interesting\" how cancelling the EV tax incentive hurt Tesla, but hurt rivals like Lucid and Rivian enough to probably put them out of business",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@babygoldie.bsky.social (Bluesky): 2026-07-15 01:09:13 - RIVIAN shares fell 1%.",
+        "url": "https://bsky.app/profile/did:plc:xhrtfphu4gzqrztkpb3a63qf/post/3mqmwr6bat52q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T19:26:16.569Z",
+        "score": 0,
+        "snippet": "2026-07-15 01:09:13 - RIVIAN shares fell 1%.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Back in April, I wrote about how the Rivian Commercial Van had its best quarter ",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mqmwow2doc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T19:25:03.969Z",
+        "score": 9,
+        "snippet": "Back in April, I wrote about how the Rivian Commercial Van had its best quarter ever (Q1 2026) and it looks like Q2 2026 was yet another incredible quarter for the Commercial Van!\n\nriviantrackr.com/ne",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@midnightdorifto.bsky.social (Bluesky): I see them every other day up here in the PNW, but I also see the Rivian vans (i",
+        "url": "https://bsky.app/profile/did:plc:cawgx6t4s2nayb4z3s7nq7hz/post/3mqmup3mmfs2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T18:49:19.573Z",
+        "score": 2,
+        "snippet": "I see them every other day up here in the PNW, but I also see the Rivian vans (in and out of Amazon livery) multiple times a day, so we might not be a representative population here",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mqmurrqkk32x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T18:50:49.569Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@jimmythefly.bsky.social (Bluesky): Mitsubishi and Suzuki are my first reaction, but I know that's very American-cen",
+        "url": "https://bsky.app/profile/did:plc:rbvfrck2pmu2mo4gby4ix374/post/3mqmtyjy7es2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T18:36:48.074Z",
+        "score": 0,
+        "snippet": "Mitsubishi and Suzuki are my first reaction, but I know that's very American-centric and the must have more solid sales in other markets. \n\nI hope I'm wrong, but Rivian.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): I just use Rivian.\n\nRivian sold less EVs globally in 2025 than Hyundai sold IONI",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mqmtlkq6lc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T18:29:27.574Z",
+        "score": 1,
+        "snippet": "I just use Rivian.\n\nRivian sold less EVs globally in 2025 than Hyundai sold IONIQ 5's in the U.S., and are raising another ~2B on top of ~15B cap raise over the last 2 years (and 8th round of layoffs)",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R3 Finally EXPOSED! Everything We Know Before Production Begins",
+        "url": "https://youtube.com/watch?v=ngN34OwDVvk",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T20:45:11Z",
+        "score": 0,
+        "snippet": "Rivian R3 Finally EXPOSED! Everything We Know Before Production Begins** The Rivian R3 is shaping up to be one of the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u26a0\ufe0f Rivian caiu MAIS DE 80% ap\u00f3s IPO: o padr\u00e3o que se repete #shorts",
+        "url": "https://youtube.com/watch?v=paJGF3WdUc4",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T20:29:15Z",
+        "score": 0,
+        "snippet": "Quem comprou a\u00e7\u00e3o da Rivian no IPO perdeu mais de 80% em meses. Facebook estreou a 38 d\u00f3lares, em 3 meses caiu para 18 ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Discounts Are HERE",
+        "url": "https://youtube.com/watch?v=GQXRzw9Tmio",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T20:00:03Z",
+        "score": 0,
+        "snippet": "Tesla Referral \u2013 Get $2500 OFF https://linktr.ee/Denniscw Save $200 on customizable EV coverage for your Tesla or other EV ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Entering the Rivian delivery van like a boss 2026!",
+        "url": "https://youtube.com/watch?v=bUp3u1Lz-UM",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T19:49:09Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Who needs a Land Cruiser?",
+        "url": "https://youtube.com/watch?v=-8v_2TE1aQU",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T19:41:52Z",
+        "score": 0,
+        "snippet": "I've owned a fair share of trucks, including my old Land Cruiser, but there's something uniquely satisfying about the split tailgate ...",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian R2 wiper settings front and rear Steps",
+        "url": "https://youtube.com/watch?v=Pj8FfcGo-ic",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T19:13:55Z",
+        "score": 0,
+        "snippet": "How to turn on front and rear wiper settings on your Rivian R2. It took me a bit to figure it out so i think this might help you with your ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "BIG MISTAKE? I Just Reserved the Rivian R2 Launch Edition (Full Breakdown)",
+        "url": "https://youtube.com/watch?v=CMTBbV809nQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T19:00:07Z",
+        "score": 0,
+        "snippet": "I finally pulled the trigger and ordered the Rivian R2 Launch Edition \u2014 but was it the right call? In this video, I break down the full ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Testing Rivian R2 Autonomy in the city",
+        "url": "https://youtube.com/watch?v=kY-pzW2BZWo",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T18:52:28Z",
+        "score": 0,
+        "snippet": "I was testing the Rivian R2 Autonomy in the City. I was making a left turn at the light but it did not follow the turning process and I ...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      }
+    ]
   }
 ]
