@@ -28,6 +28,8 @@ with open(REPORTS_JSON) as f:
 categories_changed = 0
 themes_filled = 0
 sentiment_filled = 0
+sources_fixed = 0
+summaries_fixed = 0
 
 for report in reports:
     for item in report.get('items', []):
@@ -47,6 +49,15 @@ for report in reports:
             themes_filled += 1
 
     items = report.get('items', [])
+    previous_sources = report.get('sources')
+    report['sources'] = pipeline.source_breakdown(items)
+    if report['sources'] != previous_sources:
+        sources_fixed += 1
+
+    if not (report.get('summary') or '').strip():
+        report['summary'] = pipeline.summarize_for_dashboard(items)
+        summaries_fixed += 1
+
     report['themes'] = sorted({theme for item in items for theme in item.get('themes', [])})
     report['categories'] = {
         key: {
@@ -69,3 +80,5 @@ with open(REPORTS_JSON, 'w') as f:
 print(f"categories_changed={categories_changed}")
 print(f"themes_filled={themes_filled}")
 print(f"sentiment_filled={sentiment_filled}")
+print(f"sources_fixed={sources_fixed}")
+print(f"summaries_fixed={summaries_fixed}")

@@ -453,6 +453,24 @@ def compose_brief(items, sentiment, ts):
 
     return "\n".join(lines)
 
+def summarize_for_dashboard(items):
+    for item in items:
+        text = clean_snippet(item.get('snippet') or item.get('title') or '')
+        if text != '—':
+            return text[:200]
+    return 'Rivian intel'
+
+def source_breakdown(items):
+    sources = {}
+    for item in items:
+        source = item.get('source') or 'unknown'
+        if source not in sources:
+            sources[source] = {'found': 0, 'sentiment': None}
+        sources[source]['found'] += 1
+        if sources[source]['sentiment'] is None and item.get('sentiment'):
+            sources[source]['sentiment'] = item.get('sentiment')
+    return sources
+
 def main():
     print("[GameFilm Pipeline] Starting...")
 
@@ -492,15 +510,24 @@ def main():
         total = len(items) or 1
         sentiment = {k:int(v/total*100) for k,v in s.items()}
 
+        # Compose before saving so the dashboard JSON includes the same complete
+        # narrative that gets delivered to Signal/WhatsApp.
+        brief = compose_brief_llm(items, sentiment, now_ts)
+        if brief:
+            print("[2] Brief authored by Opus")
+        else:
+            brief = compose_brief(items, sentiment, now_ts)
+            print("[2] Brief composed by template fallback")
+
         entry = {
             'id': now_ts, 'timestamp': now_ts,
             'sentiment': sentiment,
-            'sources': {'news':{'found':len(items),'sentiment':None}},
+            'sources': source_breakdown(items),
             'categories': {c:{'found':sum(1 for i in items if i.get('category')==c),'sentiment':None}
                            for c in CATEGORY_ORDER},
             'themes': sorted(set(t for i in items for t in i.get('themes',[]))),
-            'summary': items[0].get('snippet','Rivian intel')[:200] if items else '',
-            'fullReport': '', 'items': items
+            'summary': summarize_for_dashboard(items),
+            'fullReport': brief, 'items': items
         }
 
         try:
@@ -540,13 +567,15 @@ def main():
             if reports: items = reports[-1].get('items',[])
         except: pass
 
-    # Compose brief — Opus authors it; deterministic template is the fallback.
-    brief = compose_brief_llm(items, sentiment, now_ts)
-    if brief:
-        print("[4] Brief authored by Opus")
-    else:
-        brief = compose_brief(items, sentiment, now_ts)
-        print("[4] Brief composed by template fallback")
+    # Compose brief for no-new-items runs. New-item runs already composed and
+    # persisted the brief before saving the report above.
+    if 'brief' not in locals():
+        brief = compose_brief_llm(items, sentiment, now_ts)
+        if brief:
+            print("[4] Brief authored by Opus")
+        else:
+            brief = compose_brief(items, sentiment, now_ts)
+            print("[4] Brief composed by template fallback")
     with open(BRIEF_FILE, 'w') as f: f.write(brief)
     print(f"[4] Brief written to {BRIEF_FILE}")
     print(f"\n{brief}\n")

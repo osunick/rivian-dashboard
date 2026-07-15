@@ -8,81 +8,37 @@
       "negative": 23
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 1,
-        "sentiment": "positive"
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
       "reuters_top": {
         "found": 1,
         "sentiment": "negative"
       },
-      "nytimes": {
-        "found": 0,
-        "sentiment": null
-      },
-      "wsj": {
-        "found": 0,
-        "sentiment": null
-      },
-      "automotive_news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "motor_trend": {
-        "found": 0,
-        "sentiment": null
-      },
-      "car_and_driver": {
-        "found": 0,
-        "sentiment": null
-      },
-      "insideevs_main": {
-        "found": 2,
-        "sentiment": "neutral"
+      "bloomberg_top": {
+        "found": 1,
+        "sentiment": "negative"
       },
       "business_insider": {
         "found": 1,
         "sentiment": "neutral"
       },
+      "insideevs_main": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
       "bluesky": {
-        "found": 8,
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "rivianforums": {
+        "found": 1,
         "sentiment": "positive"
+      },
+      "reddit_rivianr2": {
+        "found": 1,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -286,49 +242,17 @@
       "negative": 6
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
+      "reddit_rivianr2": {
         "found": 1,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 7,
         "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
       },
       "bluesky": {
-        "found": 10,
+        "found": 8,
         "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 6,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -589,45 +513,25 @@
       "negative": 10
     },
     "sources": {
-      "reddit_rivian": {
+      "forbes": {
         "found": 1,
         "sentiment": "positive"
       },
-      "reddit_rivian_r2": {
-        "found": 10,
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "automotive_news": {
+        "found": 1,
         "sentiment": "positive"
       },
-      "reddit_ev": {
+      "electrek": {
         "found": 1,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 25,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 12,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -821,45 +725,17 @@
       "negative": 14
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
       "reddit_rivian_r2": {
         "found": 1,
         "sentiment": "neutral"
       },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
       "news": {
         "found": 1,
-        "sentiment": "positive"
+        "sentiment": "neutral"
       },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -1016,45 +892,41 @@
       "negative": 21
     },
     "sources": {
-      "reddit_rivian": {
+      "reuters_top": {
         "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_rivian_r2": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 1,
-        "sentiment": "neutral"
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
         "sentiment": "negative"
       },
-      "twitter": {
-        "found": 2,
+      "bloomberg_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "electrek_main": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "insideevs_main": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
         "sentiment": "neutral"
       },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
+      "reddit_rivianr2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 1,
+        "sentiment": "neutral"
       },
       "hackernews": {
         "found": 1,
-        "sentiment": "neutral"
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -1321,48 +1193,16 @@
       "negative": 15
     },
     "sources": {
-      "reddit_rivian": {
+      "reddit_rivianr2": {
         "found": 1,
-        "sentiment": "negative"
-      },
-      "reddit_rivian_r2": {
-        "found": 1,
-        "sentiment": "mixed"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
+        "sentiment": "neutral"
       },
       "twitter": {
         "found": 8,
-        "sentiment": "mixed"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
+        "sentiment": "neutral"
       },
       "bluesky": {
-        "found": 9,
+        "found": 10,
         "sentiment": "negative"
       }
     },
@@ -1694,45 +1534,13 @@
       "negative": 14
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 1,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
+      "reddit_rivianr2": {
         "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 7,
         "sentiment": "neutral"
       },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
+      "twitter": {
+        "found": 4,
+        "sentiment": "positive"
       },
       "bluesky": {
         "found": 8,
@@ -1991,45 +1799,29 @@
       "negative": 4
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
+      "reddit_rivianr2": {
         "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "twitter": {
+        "found": 10,
         "sentiment": "positive"
       },
-      "reddit_ev": {
-        "found": 2,
-        "sentiment": "positive"
+      "hackernews": {
+        "found": 1,
+        "sentiment": "neutral"
       },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
       },
       "rivianforums": {
         "found": 1,
         "sentiment": "neutral"
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 13,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 1,
-        "sentiment": null
       }
     },
     "categories": {
@@ -2417,45 +2209,9 @@
       "negative": 0
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
       "twitter": {
         "found": 2,
         "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
       },
       "bluesky": {
         "found": 1,
@@ -2553,48 +2309,16 @@
       "negative": 9
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
+      "reddit_rivianr2": {
         "found": 2,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
+        "sentiment": "neutral"
       },
       "twitter": {
-        "found": 8,
+        "found": 10,
         "sentiment": "positive"
       },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
       "bluesky": {
-        "found": 12,
+        "found": 10,
         "sentiment": "neutral"
       }
     },
@@ -2955,49 +2679,13 @@
       "negative": 18
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
       "twitter": {
         "found": 9,
-        "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
+        "sentiment": "positive"
       },
       "bluesky": {
         "found": 2,
-        "sentiment": "positive"
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -3206,45 +2894,13 @@
         "found": 1,
         "sentiment": "neutral"
       },
-      "reddit_rivian_r2": {
+      "reddit_rivianr2": {
         "found": 8,
-        "sentiment": "positive"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 0,
-        "sentiment": null
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
+        "sentiment": "neutral"
       },
       "bluesky": {
         "found": 10,
-        "sentiment": "negative"
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -3564,45 +3220,13 @@
       "negative": 7
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
+      "reddit_rivianr2": {
         "found": 3,
         "sentiment": "neutral"
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
       },
       "twitter": {
         "found": 9,
         "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
       },
       "bluesky": {
         "found": 2,
@@ -3848,49 +3472,13 @@
       "negative": 17
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
+      "reddit_rivianr2": {
         "found": 8,
         "sentiment": "positive"
       },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "twitter": {
-        "found": 4,
-        "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
       "bluesky": {
-        "found": 10,
-        "sentiment": "neutral"
+        "found": 9,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -4179,45 +3767,9 @@
       "negative": 0
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
       "twitter": {
         "found": 1,
         "sentiment": "positive"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
       }
     },
     "categories": {
@@ -4281,45 +3833,13 @@
       "negative": 33
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "rivianforums": {
-        "found": 0,
-        "sentiment": null
-      },
       "news": {
         "found": 4,
-        "sentiment": "neutral"
+        "sentiment": "negative"
       },
       "twitter": {
         "found": 7,
         "sentiment": "neutral"
-      },
-      "youtube": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
       },
       "bluesky": {
         "found": 10,
@@ -4652,37 +4172,17 @@
       "negative": 0
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 4,
-        "sentiment": null
+      "insideevs_main": {
+        "found": 1,
+        "sentiment": "positive"
       },
       "bluesky": {
-        "found": 4,
-        "sentiment": null
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -4803,9 +4303,33 @@
       "negative": 8
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "nytimes": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "wsj": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs_main": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -4843,7 +4367,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "\u6cbf66\u865f\u516c\u8def\uff0c\u99db\u904e\u4e00\u500b\u4e16\u7d00",
     "fullReport": "",
     "items": [
       {
@@ -4854,10 +4378,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Markets Index - The Wall Street Journal - WSJ.com",
@@ -4867,10 +4391,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Stellantis' SRT revival highlights Jeep, Ram, Dodge product blitz - Automotive News",
@@ -4880,10 +4404,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "\u30a8\u30cc\u30d3\u30c7\u30a3\u30a2CEO\u3001\u65b0\u534a\u5c0e\u4f53\u306e\u672a\u6765\u8a9e\u308b\uff0d\u30d1\u30bd\u30b3\u30f3\u304c\u9053\u5177\u304b\u3089\u76f8\u68d2\u306b - Bloomberg",
@@ -4893,10 +4417,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Electric Vehicle News and Analysis | InsideEVs",
@@ -5156,9 +4680,33 @@
       "negative": 4
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "wsj": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "motor_trend": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reuters_top": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bloomberg_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -5203,7 +4751,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Markets Index - The Wall Street Journal - WSJ.com",
     "fullReport": "",
     "items": [
       {
@@ -5214,10 +4762,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Sales Data - Automotive News",
@@ -5227,10 +4775,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Subaru News",
@@ -5240,10 +4788,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "2026 Chevrolet Silverado 1500 Review: Expert Insights, Pricing, and Trims",
@@ -5292,10 +4840,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "@naatbatt.bsky.social (Bluesky): All 6 major OEMs: GM, Ford, Tesla, Honda, Toyota, Rivian\n\nBattery recycling stra",
@@ -5533,9 +5081,13 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 2,
-        "sentiment": null
+      "reddit_rivianr2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -5571,7 +5123,7 @@
     "themes": [
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 being 400v is the right choice. This video shows how 800v could ...",
     "fullReport": "",
     "items": [
       {
@@ -5611,9 +5163,25 @@
       "negative": 2
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 18,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -5656,7 +5224,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "New Malfunction Unlocked?",
     "fullReport": "",
     "items": [
       {
@@ -5667,10 +5235,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian raising Georgia EV plant\u2019s initial capacity by 50% to 300K vehicles a year",
@@ -5693,10 +5261,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Not an R2 post",
@@ -5888,10 +5456,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Geely becomes first Chinese automaker to receive EU certification for advanced driver assistance system",
@@ -5901,10 +5469,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Robotaxis in California are required to have an expensive external loudspeaker and microphone communication system by July 2026",
@@ -5940,10 +5508,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Stock (RIVN) Jumps as EV Maker Taps AT&T to Boost R2 Ahead of Market Rollout - TipRanks",
@@ -6192,9 +5760,9 @@
       "negative": 2
     },
     "sources": {
-      "news": {
+      "google_news": {
         "found": 40,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -6774,9 +6342,9 @@
       "negative": 10
     },
     "sources": {
-      "news": {
+      "google_news": {
         "found": 40,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -7353,9 +6921,13 @@
       "negative": 5
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "google_news": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 36,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -7837,10 +7409,10 @@
         "score": 0,
         "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNV21aWGdIVTh1dks2VzdfNi00Rk9mQzd3UlFSVl81Qk5PbW5DLTJBQ3dwTms0Ykx1djE4R0NpeXJCOThjTlFqOUNVLUs0SzVDS0hfZVpNUWFnSGtOanVoWk1qT09CRGc5RWhIOTc4dm",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Electric carmaker Rivian bucks industry trend, launches all-new midsize SUV - ABC News - Breaking News, Latest News and Videos",
@@ -7931,9 +7503,9 @@
       "negative": 5
     },
     "sources": {
-      "news": {
+      "google_news_r2": {
         "found": 40,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -8511,9 +8083,17 @@
       "negative": 5
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "google_news": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 20,
+        "sentiment": "neutral"
+      },
+      "google_news_autonomy": {
+        "found": 14,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -8700,10 +8280,10 @@
         "score": 0,
         "snippet": "The $45k Off-Roader That Could Give The 4Runner A Run For Its Money - CarBuzz",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Finally Revealed the R2\u2014and It Might Be the Perfect EV - Outside Magazine",
@@ -9095,9 +8675,9 @@
       "negative": 2
     },
     "sources": {
-      "news": {
+      "google_news_autonomy": {
         "found": 40,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -9490,10 +9070,10 @@
         "score": 0,
         "snippet": "Commuter-Friendly Cars of 2025, Ranked by Advanced Highway Driving Assistance Tech - Autoblog",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Rolls Out One of the Most Consequential Software Updates in Its History - autoevolution",
@@ -9677,9 +9257,21 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_autonomy": {
+        "found": 35,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -9721,7 +9313,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "R1 series feature you surprisingly didn't like/use as much as you thought?",
     "fullReport": "",
     "items": [
       {
@@ -10259,9 +9851,21 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_autonomy": {
+        "found": 31,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -10301,7 +9905,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Rivian tailgate pad - Found a way to get shipped to California easily",
     "fullReport": "",
     "items": [
       {
@@ -10338,10 +9942,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Irvine RAN is operational",
@@ -10351,10 +9955,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "RIVN Stock Snaps Record Streak: Rivian Reverses R1 Discounts Days Before High-Stakes R2 Launch - Yahoo Finance",
@@ -10520,10 +10124,10 @@
         "score": 0,
         "snippet": "Understanding Level 3 Autonomous Driving Systems, from Currently Available to Upcoming - autoevolution",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Every EV Offering Hands-Free Driving In 2025 - Top Speed",
@@ -10533,10 +10137,10 @@
         "score": 0,
         "snippet": "Every EV Offering Hands-Free Driving In 2025 - Top Speed",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "My Rivian R1T's Autonomous Driving Needs to Be Better, After Two Years of Ownership, I\u2019m Still Waiting for Meaningful Improvements - Torque News",
@@ -10835,9 +10439,17 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_autonomy": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_competitive": {
+        "found": 32,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -11430,9 +11042,25 @@
       "negative": 5
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news_autonomy": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news_competitive": {
+        "found": 21,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -11476,7 +11104,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Rivian insurance?",
     "fullReport": "",
     "items": [
       {
@@ -11513,10 +11141,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Delivery is two weeks out and scheduled. I have a few questions. Maybe you guys can help?",
@@ -11539,10 +11167,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "I forgot what hoody I was wearing",
@@ -11552,10 +11180,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "If You Buy Rivian Right Now, Could It Make You a Millionaire? - The Motley Fool",
@@ -12018,9 +11646,17 @@
       "negative": 4
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -12063,7 +11699,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Salvage rebuilt r1s experience?",
     "fullReport": "",
     "items": [
       {
@@ -12087,10 +11723,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "@somearborist.bsky.social (Bluesky): Damn and I had such high hopes too. I will NEVER purchase a Tesla and Rivian is ",
@@ -12367,9 +12003,9 @@
       "negative": 0
     },
     "sources": {
-      "news": {
+      "google_news_tesla": {
         "found": 2,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -12450,9 +12086,21 @@
       "negative": 15
     },
     "sources": {
-      "news": {
-        "found": 13,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -12495,7 +12143,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "[MEGATHREAD] Saturday Switchers",
     "fullReport": "",
     "items": [
       {
@@ -12506,10 +12154,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Tesla\u2019s EV Rebound Leaves Rivian and Lucid Facing a Tougher Investor Test - MarketBeat",
@@ -12682,38 +12330,26 @@
     "sources": {
       "reddit_rivian": {
         "found": 7,
-        "sentiment": "positive"
-      },
-      "reddit_electricvehicles": {
-        "found": 1,
         "sentiment": "neutral"
       },
-      "reddit_selfdrivingcars": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
+      "reddit_electricvehicles": {
         "found": 1,
         "sentiment": "negative"
       },
       "google_news_tesla": {
         "found": 1,
-        "sentiment": "negative"
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
+        "sentiment": "neutral"
       },
       "bluesky": {
         "found": 10,
-        "sentiment": "mixed"
+        "sentiment": "neutral"
       },
       "youtube": {
         "found": 10,
+        "sentiment": "neutral"
+      },
+      "hackernews": {
+        "found": 1,
         "sentiment": "neutral"
       }
     },
@@ -13208,9 +12844,21 @@
       "negative": 12
     },
     "sources": {
-      "news": {
-        "found": 16,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -13249,7 +12897,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Borrowed a friend\u2019s ice truck\u2026",
     "fullReport": "",
     "items": [
       {
@@ -13273,10 +12921,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "2025 Rivian R1S bugs after a service center visit?",
@@ -13312,10 +12960,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Can\u2019t find Rivian Care?",
@@ -13338,10 +12986,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "How (RIVN) Movements Inform Risk Allocation Models - Stock Traders Daily",
@@ -13475,31 +13123,15 @@
         "found": 5,
         "sentiment": "neutral"
       },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
+      "google_news": {
         "found": 2,
         "sentiment": "neutral"
       },
       "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
         "found": 4,
         "sentiment": "negative"
       }
@@ -13767,32 +13399,20 @@
         "found": 7,
         "sentiment": "negative"
       },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
       "reddit_ev": {
         "found": 1,
         "sentiment": "negative"
       },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
+      "google_news": {
         "found": 2,
-        "sentiment": "neutral"
+        "sentiment": "positive"
       },
       "bluesky": {
         "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
         "sentiment": "neutral"
       }
     },
@@ -14142,9 +13762,17 @@
       "negative": 22
     },
     "sources": {
-      "news": {
-        "found": 9,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -14185,7 +13813,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Supercharging payment declined issue",
     "fullReport": "",
     "items": [
       {
@@ -14196,10 +13824,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "negative",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "275/55r21 tires for R1S",
@@ -14318,9 +13946,9 @@
       "negative": 100
     },
     "sources": {
-      "news": {
+      "bluesky": {
         "found": 1,
-        "sentiment": null
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -14391,29 +14019,17 @@
         "found": 4,
         "sentiment": "neutral"
       },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
+      "reddit_electricvehicles": {
         "found": 1,
         "sentiment": "neutral"
       },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
+      "google_news_autonomy": {
+        "found": 1,
+        "sentiment": "negative"
       },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
-        "sentiment": "mixed"
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
       },
       "bluesky": {
         "found": 4,
@@ -14421,7 +14037,7 @@
       },
       "youtube": {
         "found": 6,
-        "sentiment": "positive"
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -14706,9 +14322,25 @@
       "negative": 13
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -14750,7 +14382,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "U-Haul",
     "fullReport": "",
     "items": [
       {
@@ -14761,10 +14393,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Here's a quick tour of ALSO's Rivian Van setup",
@@ -14800,10 +14432,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "The reason Rivian went with stadium headlights?",
@@ -15054,38 +14686,22 @@
     "sources": {
       "reddit_rivian": {
         "found": 4,
-        "sentiment": "mixed"
+        "sentiment": "neutral"
       },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
       },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 2,
+      "google_news_tesla": {
+        "found": 1,
         "sentiment": "neutral"
       },
       "bluesky": {
-        "found": 9,
+        "found": 7,
         "sentiment": "positive"
       },
       "youtube": {
-        "found": 8,
+        "found": 10,
         "sentiment": "neutral"
       }
     },
@@ -15466,9 +15082,29 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 18,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -15512,7 +15148,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Demo drives can be reserved starting tmrw at 9am eastern",
     "fullReport": "",
     "items": [
       {
@@ -15523,10 +15159,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Maisto 1/43 R1T Die-cast available",
@@ -15549,10 +15185,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Lease Return - How important are tires?",
@@ -15601,10 +15237,10 @@
         "score": 0,
         "snippet": "RIVN: Virtual Meeting Announcement and Market Data Introduction - GuruFocus",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Automotive Options Spot-On: On June 8th, 102.84K Contracts Were Traded, With 2.52 Million Open Interest - \u5bcc\u9014\u725b\u725b",
@@ -15764,9 +15400,29 @@
       "negative": 4
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -15805,7 +15461,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 spotted in oakland",
     "fullReport": "",
     "items": [
       {
@@ -15842,10 +15498,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Doesn\u2019t Care How Much You Like Interior Buttons, Voice Control Is Better (CarScoops article)",
@@ -15881,10 +15537,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Trex, Bel Fuse, and Rivian Stocks Trade Up, What You Need To Know - The Globe and Mail",
@@ -16104,40 +15760,7 @@
       "neutral": 0,
       "negative": 0
     },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
+    "sources": {},
     "categories": {
       "autonomy": {
         "found": 0,
@@ -16183,9 +15806,29 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 22,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -16229,7 +15872,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R1S hydroplaning",
     "fullReport": "",
     "items": [
       {
@@ -16253,10 +15896,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Booked demo for R2, but shows up as R1T in app screen?",
@@ -16305,10 +15948,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "My First Look At The $45,000 Base Rivian R2",
@@ -16773,9 +16416,21 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 18,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -16816,7 +16471,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Rivian\u2019s $45,000 Model Y Killer Is Finally Here [Snazzy Labs]",
     "fullReport": "",
     "items": [
       {
@@ -17352,41 +17007,13 @@
       "negative": 18
     },
     "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
       "bluesky": {
         "found": 1,
-        "sentiment": "positive"
+        "sentiment": "neutral"
       },
       "youtube": {
         "found": 10,
-        "sentiment": "positive"
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -17585,9 +17212,37 @@
       "negative": 2
     },
     "sources": {
-      "news": {
-        "found": 39,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -17634,7 +17289,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "You have to pay extra money for a spare and it doesn't even come with a way to inflate!?",
     "fullReport": "",
     "items": [
       {
@@ -17645,10 +17300,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "R2 Owner\u2019s Guide Online",
@@ -17723,10 +17378,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "[Out of Spec Reviews - 2 Hour YouTube Video] I Drive The Rivian R2 For The First Time! They Pretty Much Nailed It",
@@ -18166,40 +17821,7 @@
       "neutral": 100,
       "negative": 0
     },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
+    "sources": {},
     "categories": {
       "autonomy": {
         "found": 0,
@@ -18245,9 +17867,13 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 3,
-        "sentiment": null
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 2,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -18336,9 +17962,29 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 40,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 14,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -18382,7 +18028,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 Buyers: were you able to put in a referral code during purchase?",
     "fullReport": "",
     "items": [
       {
@@ -18445,10 +18091,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "The New Rivian Flated Truck Topper fits perfectly, but now I can't access the buttons. Is this a deal breaker? \ud83e\udd28",
@@ -18486,10 +18132,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Begins R2 Public Customer Deliveries, Opens Orders for Reservation Holders - Rivian",
@@ -18926,33 +18572,25 @@
         "found": 7,
         "sentiment": "neutral"
       },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
       },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
+      "google_news_r2": {
+        "found": 14,
+        "sentiment": "neutral"
       },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 16,
+      "google_news_waymo": {
+        "found": 1,
         "sentiment": "positive"
       },
       "bluesky": {
         "found": 10,
-        "sentiment": "positive"
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -19547,9 +19185,29 @@
       "negative": 11
     },
     "sources": {
-      "news": {
-        "found": 35,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -19592,7 +19250,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R1S glitching",
     "fullReport": "",
     "items": [
       {
@@ -19707,10 +19365,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Assessing Rivian (RIVN) Valuation After R2 Launch Uber Robotaxi Deal And Volkswagen Investment - simplywall.st",
@@ -20066,40 +19724,7 @@
       "neutral": 100,
       "negative": 0
     },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
+    "sources": {},
     "categories": {
       "autonomy": {
         "found": 0,
@@ -20145,9 +19770,33 @@
       "negative": 8
     },
     "sources": {
-      "news": {
-        "found": 37,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -20191,7 +19840,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Real R2 sales seem strangely quiet, or am I missing something?",
     "fullReport": "",
     "items": [
       {
@@ -20215,10 +19864,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Auto emergency brakes engaging for no reason",
@@ -20228,10 +19877,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Semi-active suspension?",
@@ -20241,10 +19890,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Demo Drive Complete!",
@@ -20254,10 +19903,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "R2 Financing Options",
@@ -20280,10 +19929,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Made You Wait 50 Days for Service. RJ Scaringe Says Those Days Are Over",
@@ -20692,9 +20341,29 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 28,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -20735,7 +20404,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Cleaning tips for these trim spots?",
     "fullReport": "",
     "items": [
       {
@@ -20746,10 +20415,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian R3X Is a Couple Years Away, RJ Scaringe Says",
@@ -20772,10 +20441,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Will R1S ever achieve feature parity with the R2?",
@@ -20811,10 +20480,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Re-release of same update",
@@ -20837,10 +20506,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Automotive Options Spot-On: On June 10th, 109.37K Contracts Were Traded, With 2.47 Million Open Interest - \u5bcc\u9014\u725b\u725b",
@@ -21112,40 +20781,7 @@
       "neutral": 100,
       "negative": 0
     },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
+    "sources": {},
     "categories": {
       "autonomy": {
         "found": 0,
@@ -21191,9 +20827,29 @@
       "negative": 12
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -21235,7 +20891,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "Brand-New 2026 R1S DS: Power Steering Malfunction While Driving",
     "fullReport": "",
     "items": [
       {
@@ -21272,10 +20928,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "When you get a test drive aaaand have your camera with you :)",
@@ -21285,10 +20941,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Quick walk around of the black/black R2",
@@ -21324,10 +20980,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "CNBC Daily Open: Trump expresses \u2018love\u2019 for inflation print and anger at Iran",
@@ -21337,10 +20993,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "positive",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Why Rivian Automotive (RIVN) Dipped More Than Broader Market Today - Yahoo Finance",
@@ -21579,40 +21235,7 @@
       "neutral": 0,
       "negative": 0
     },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
+    "sources": {},
     "categories": {
       "autonomy": {
         "found": 0,
@@ -21658,9 +21281,29 @@
       "negative": 3
     },
     "sources": {
-      "news": {
-        "found": 29,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -21703,7 +21346,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 Garage Door Opener?",
     "fullReport": "",
     "items": [
       {
@@ -21792,10 +21435,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian's R2 impresses reviewers as deliveries begin - MSN",
@@ -22095,40 +21738,7 @@
       "neutral": 100,
       "negative": 0
     },
-    "sources": {
-      "reddit_rivian": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_rivian_r2": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_ev": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_sdc": {
-        "found": 0,
-        "sentiment": null
-      },
-      "reddit_stocks": {
-        "found": 0,
-        "sentiment": null
-      },
-      "hackernews": {
-        "found": 0,
-        "sentiment": null
-      },
-      "news": {
-        "found": 0,
-        "sentiment": null
-      },
-      "bluesky": {
-        "found": 0,
-        "sentiment": null
-      }
-    },
+    "sources": {},
     "categories": {
       "autonomy": {
         "found": 0,
@@ -22174,9 +21784,29 @@
       "negative": 3
     },
     "sources": {
-      "news": {
-        "found": 27,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -22218,7 +21848,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "RWD-17 appointment",
     "fullReport": "",
     "items": [
       {
@@ -22229,10 +21859,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Some R2 Concerns",
@@ -22585,9 +22215,17 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 7,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -22623,7 +22261,7 @@
     "themes": [
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 referral points",
     "fullReport": "",
     "items": [
       {
@@ -22728,9 +22366,17 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 9,
-        "sentiment": null
+      "nytimes": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -22769,7 +22415,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Uber to Buy Rivian Vehicles for Use as Driverless Taxis",
     "fullReport": "",
     "items": [
       {
@@ -22793,10 +22439,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Honda Scraps Plans for E.V.s While Start-Ups Forge Ahead",
@@ -22819,10 +22465,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Why the Rivian R2 Could Be America\u2019s Next Big EV SUV - NEWS10 ABC",
@@ -22900,9 +22546,17 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 6,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -22939,7 +22593,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Frunk R1T",
     "fullReport": "",
     "items": [
       {
@@ -22963,10 +22617,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "CNBC Sport: The plan for this year\u2019s World Cup to revolutionize Major League Soccer",
@@ -22976,10 +22630,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "@call634-5789.bsky.social (Bluesky): We have 2 Chevy EVs for home and a Rivian for the business. I'm done buying sawe",
@@ -23031,9 +22685,33 @@
       "negative": 3
     },
     "sources": {
-      "news": {
-        "found": 29,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -23078,7 +22756,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 Demo Laguna Beach",
     "fullReport": "",
     "items": [
       {
@@ -23128,10 +22806,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Spent A Few Days in an R2 Just Before Memorial Day Weekend",
@@ -23471,9 +23149,29 @@
       "negative": 3
     },
     "sources": {
-      "news": {
-        "found": 33,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -23517,7 +23215,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Any news on the R2?",
     "fullReport": "",
     "items": [
       {
@@ -23966,9 +23664,29 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 19,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -24011,7 +23729,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "Precise Location",
     "fullReport": "",
     "items": [
       {
@@ -24022,10 +23740,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Maintenance and Repairs on Rivians",
@@ -24048,10 +23766,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivan has been the worst vehicle I've ever owned.",
@@ -24087,10 +23805,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "R2 turn signal",
@@ -24276,9 +23994,25 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 20,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -24319,7 +24053,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Another pickup day post!",
     "fullReport": "",
     "items": [
       {
@@ -24330,10 +24064,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "positive",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "How much do I have to pay to get someone to design a hidden winch for the R1?",
@@ -24382,10 +24116,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian's CEO Says There's a Big Market for a Small Electric Truck",
@@ -24434,10 +24168,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian begins public deliveries of R2 SUV flagship trim - MSN",
@@ -24601,9 +24335,29 @@
       "negative": 18
     },
     "sources": {
-      "news": {
-        "found": 33,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -24650,7 +24404,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "Rivian x Yakima Tent issues",
     "fullReport": "",
     "items": [
       {
@@ -24700,10 +24454,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Charge port door won't close; \"Obstacle Detected\" even though nothing is blocking it",
@@ -24713,10 +24467,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "negative",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "What prevents flipping?",
@@ -24726,10 +24480,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "The Rivian R2 Is Now Shipping With A Rare Accessory The Competition Forgot Existed",
@@ -25103,9 +24857,17 @@
       "negative": 30
     },
     "sources": {
-      "news": {
-        "found": 20,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -25149,7 +24911,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Didn\u2019t realize they made the Miami edition with the quad motor until I saw one today.",
     "fullReport": "",
     "items": [
       {
@@ -25160,10 +24922,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "positive",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Test drove the R2 in SF (coming from a 2024 Model 3)",
@@ -25188,10 +24950,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "negative",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Catalina Cove in Colorado!!!",
@@ -25201,10 +24963,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "My race teammate towed from Denver to California with his R1T. 20 charge stops, 1.2 MWh of energy, and about a third the cost of gas.",
@@ -25430,9 +25192,29 @@
       "negative": 9
     },
     "sources": {
-      "news": {
-        "found": 31,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -25475,7 +25257,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "Weird Software Issues",
     "fullReport": "",
     "items": [
       {
@@ -25499,10 +25281,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian CEO RJ Scaringe on the R2, robotics & the future of EVs",
@@ -25525,10 +25307,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "negative",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "[MEGATHREAD] Saturday Switchers",
@@ -25538,10 +25320,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "King of Prussia has R2 demo rides today!",
@@ -25564,10 +25346,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "negative",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
@@ -25897,9 +25679,21 @@
       "negative": 9
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -25944,7 +25738,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "In depth R2 Audio test with EQ settings - compared to Polestar Bowers and Wilkins",
     "fullReport": "",
     "items": [
       {
@@ -25994,10 +25788,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "positive",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Any Rivian technicians here to answer something. Just had vehicle in for repair.",
@@ -26253,9 +26047,25 @@
       "negative": 9
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_tesla": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -26297,7 +26107,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 Audio",
     "fullReport": "",
     "items": [
       {
@@ -26601,9 +26411,17 @@
       "negative": 12
     },
     "sources": {
-      "news": {
-        "found": 16,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -26642,7 +26460,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Absurd experience",
     "fullReport": "",
     "items": [
       {
@@ -26653,10 +26471,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "R1T delivery this morning!!!",
@@ -26679,10 +26497,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Yet another R2 demo review",
@@ -26868,9 +26686,21 @@
       "negative": 31
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -26913,7 +26743,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Tire Switching",
     "fullReport": "",
     "items": [
       {
@@ -26924,10 +26754,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Recommendations: Carpet Floor Mats",
@@ -26937,10 +26767,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Adding a SSD?",
@@ -26950,10 +26780,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Rocklin Grand Opening was Awesome!",
@@ -26976,10 +26806,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Removing support (major interstate highways) from the Self-drive? Is it a configuration issue or Rivian is inviting a class suit?",
@@ -27220,9 +27050,21 @@
       "negative": 26
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -27264,7 +27106,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "Tire Switching",
     "fullReport": "",
     "items": [
       {
@@ -27275,10 +27117,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Recommendations: Carpet Floor Mats",
@@ -27288,10 +27130,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Adding a SSD?",
@@ -27301,10 +27143,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Rocklin Grand Opening was Awesome!",
@@ -27327,10 +27169,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Removing support (major interstate highways) from the Self-drive? Is it a configuration issue or Rivian is inviting a class suit?",
@@ -27584,9 +27426,21 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 18,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -27627,7 +27481,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 Test Drive Experience",
     "fullReport": "",
     "items": [
       {
@@ -27651,10 +27505,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Portland Oregon R2 Test Drive, Great Experience",
@@ -27677,10 +27531,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "What I did different to protect my 2nd brand new gen2 R1S",
@@ -27877,9 +27731,17 @@
       "negative": 21
     },
     "sources": {
-      "news": {
-        "found": 14,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -27917,7 +27779,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Charging Issues at Home",
     "fullReport": "",
     "items": [
       {
@@ -27928,10 +27790,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "negative",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Hex bolt head circular covers in R1T bed",
@@ -28006,10 +27868,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Can you Camp In The Back Of A Rivian R2?",
@@ -28113,9 +27975,25 @@
       "negative": 18
     },
     "sources": {
-      "news": {
-        "found": 27,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -28162,7 +28040,7 @@
       "Vehicle Demand",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "Finally got the 12V error",
     "fullReport": "",
     "items": [
       {
@@ -28173,10 +28051,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian R2 Test Drive Review Coming From a 2026 Model Y Owner",
@@ -28201,10 +28079,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "neutral",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Help. A2z charger stuck in charge port.",
@@ -28214,10 +28092,10 @@
         "score": 0,
         "snippet": "",
         "sentiment": "negative",
-        "category": "other",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "How does Rivian's autonomy (free or plus) compare to BMW's DAPP?",
@@ -28537,9 +28415,25 @@
       "negative": 33
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -28599,7 +28493,7 @@
       "Software UX",
       "Subscription Services"
     ],
-    "summary": "",
+    "summary": "The Rivian R2 performance is fun, but not a game changer compared to my 26 R1S (Gen 2), in my opinion.",
     "fullReport": "",
     "items": [
       {
@@ -28937,9 +28831,33 @@
       "negative": 14
     },
     "sources": {
-      "news": {
-        "found": 27,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "rivianforums": {
+        "found": 8,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -29002,7 +28920,7 @@
       "Tesla Comparison",
       "Third-Party Software"
     ],
-    "summary": "",
+    "summary": "Based on current orders",
     "fullReport": "",
     "items": [
       {
@@ -29375,9 +29293,21 @@
       "negative": 50
     },
     "sources": {
-      "news": {
-        "found": 16,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -29432,7 +29362,7 @@
       "Roamer Service",
       "Tesla Competition"
     ],
-    "summary": "",
+    "summary": "Help Me Understand: R1S G1 Suspension v G2 Suspension",
     "fullReport": "",
     "items": [
       {
@@ -29662,9 +29592,29 @@
       "negative": 35
     },
     "sources": {
-      "news": {
-        "found": 20,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -29716,7 +29666,7 @@
       "Strategic Acquisition",
       "\u0160koda Peaq"
     ],
-    "summary": "",
+    "summary": "\"Yes, I also drove an R2 today\" thoughts.",
     "fullReport": "",
     "items": [
       {
@@ -29997,9 +29947,13 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 3,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -30037,7 +29991,7 @@
       "Preconditioning",
       "Siri Integration"
     ],
-    "summary": "",
+    "summary": "Built out a Rivian plugin so I could pre condition my truck with Siri. Summers been hot so far",
     "fullReport": "",
     "items": [
       {
@@ -30092,9 +30046,25 @@
       "negative": 30
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -30151,7 +30121,7 @@
       "R3 Delays",
       "Social Media"
     ],
-    "summary": "",
+    "summary": "Brake Hold on R2?",
     "fullReport": "",
     "items": [
       {
@@ -30469,9 +30439,25 @@
       "negative": 21
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -30532,7 +30518,7 @@
       "Strategic Partnerships",
       "Utility Rewards"
     ],
-    "summary": "",
+    "summary": "2026 R1T Tri-Max, Forest Green / Black Mountain / Brown Ash Wood",
     "fullReport": "",
     "items": [
       {
@@ -30860,9 +30846,17 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 3,
-        "sentiment": null
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -30902,7 +30896,7 @@
       "R1S",
       "SpaceX"
     ],
-    "summary": "",
+    "summary": "SpaceX surges past Microsoft in market cap, becoming fourth-biggest U.S. company",
     "fullReport": "",
     "items": [
       {
@@ -30958,9 +30952,25 @@
       "negative": 53
     },
     "sources": {
-      "news": {
-        "found": 30,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -31010,7 +31020,7 @@
       "Service Costs",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "I created a community powered site that pulls together R2 reservation data from the top 2 Rivian forums to easily see where their reservations are in comparison to other 2000+",
     "fullReport": "",
     "items": [
       {
@@ -31432,9 +31442,33 @@
       "negative": 54
     },
     "sources": {
-      "news": {
-        "found": 46,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "hackernews": {
+        "found": 2,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -31493,7 +31527,7 @@
       "Vehicle Performance",
       "Workforce Reduction"
     ],
-    "summary": "",
+    "summary": "Wanting a Rivian",
     "fullReport": "",
     "items": [
       {
@@ -32126,9 +32160,17 @@
       "negative": 33
     },
     "sources": {
-      "news": {
-        "found": 3,
-        "sentiment": null
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -32170,7 +32212,7 @@
       "Production Scaling",
       "R2 Launch"
     ],
-    "summary": "",
+    "summary": "Stock futures are little changed as Wall Street gears up for Federal Reserve rate decision",
     "fullReport": "",
     "items": [
       {
@@ -32228,9 +32270,25 @@
       "negative": 36
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -32281,7 +32339,7 @@
       "Vehicle Quality",
       "Workforce Reduction"
     ],
-    "summary": "",
+    "summary": "Never owned a Rivian, First min order placed. Located in Chicago",
     "fullReport": "",
     "items": [
       {
@@ -32626,9 +32684,29 @@
       "negative": 30
     },
     "sources": {
-      "news": {
-        "found": 33,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -32688,7 +32766,7 @@
       "Vehicle Performance",
       "Warranty"
     ],
-    "summary": "",
+    "summary": "Let\u2019s See Your Rivian\u2019s Elevation Record: Highest and Lowest You Recorded",
     "fullReport": "",
     "items": [
       {
@@ -33153,9 +33231,29 @@
       "negative": 21
     },
     "sources": {
-      "news": {
-        "found": 33,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -33219,7 +33317,7 @@
       "Used Vehicle Market",
       "Warranty Documentation"
     ],
-    "summary": "",
+    "summary": "Any Rivian drivers looking into this? Utility Dive: Managed, bidirectional EV charging advances with utility, automaker support",
     "fullReport": "",
     "items": [
       {
@@ -33672,9 +33770,25 @@
       "negative": 30
     },
     "sources": {
-      "news": {
-        "found": 30,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -33738,7 +33852,7 @@
       "User Community",
       "Workforce Cuts"
     ],
-    "summary": "",
+    "summary": "12V battery mass replacement questions",
     "fullReport": "",
     "items": [
       {
@@ -34167,9 +34281,33 @@
       "negative": 44
     },
     "sources": {
-      "news": {
-        "found": 29,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "cnbc": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -34241,7 +34379,7 @@
       "Warranty Issues",
       "Waymo Threat"
     ],
-    "summary": "",
+    "summary": "2022 R1T and pay to upgrade features",
     "fullReport": "",
     "items": [
       {
@@ -34653,9 +34791,25 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 28,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -34698,7 +34852,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Rivian Pickup? Really",
     "fullReport": "",
     "items": [
       {
@@ -35078,9 +35232,25 @@
       "negative": 30
     },
     "sources": {
-      "news": {
-        "found": 20,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -35141,7 +35311,7 @@
       "Tesla Switcher",
       "Tesla Weakness"
     ],
-    "summary": "",
+    "summary": "One and done with Rivian!",
     "fullReport": "",
     "items": [
       {
@@ -35425,9 +35595,37 @@
       "negative": 28
     },
     "sources": {
-      "news": {
-        "found": 35,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -35493,7 +35691,7 @@
       "Test Drive Booking",
       "Vehicle Ownership"
     ],
-    "summary": "",
+    "summary": "Look at this beauty! Courtesy of Emerald City Rivian Club and Rivian",
     "fullReport": "",
     "items": [
       {
@@ -35972,9 +36170,37 @@
       "negative": 46
     },
     "sources": {
-      "news": {
-        "found": 32,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "google_news_autonomy": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -36031,7 +36257,7 @@
       "System Issues",
       "Uber Partnership"
     ],
-    "summary": "",
+    "summary": "R2 Steering wheel size",
     "fullReport": "",
     "items": [
       {
@@ -36469,9 +36695,25 @@
       "negative": 31
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -36520,7 +36762,7 @@
       "Used Market",
       "Vehicle Defects"
     ],
-    "summary": "",
+    "summary": "If this is your R1S at the airport in Phoenix, you have a flat tire \ud83d\ude15",
     "fullReport": "",
     "items": [
       {
@@ -36826,9 +37068,17 @@
       "negative": 35
     },
     "sources": {
-      "news": {
-        "found": 17,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -36881,7 +37131,7 @@
       "Test Drives",
       "Trip Planner"
     ],
-    "summary": "",
+    "summary": "Hmmmmm...",
     "fullReport": "",
     "items": [
       {
@@ -37127,9 +37377,29 @@
       "negative": 36
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -37212,7 +37482,7 @@
       "Vehicle Reliability",
       "Vehicle Value"
     ],
-    "summary": "",
+    "summary": "R2 Poor Vent Design",
     "fullReport": "",
     "items": [
       {
@@ -37577,9 +37847,25 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "nytimes": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -37639,7 +37925,7 @@
       "Tesla Competition",
       "Tesla Cybertruck"
     ],
-    "summary": "",
+    "summary": "Post PDR repair options",
     "fullReport": "",
     "items": [
       {
@@ -37988,9 +38274,21 @@
       "negative": 50
     },
     "sources": {
-      "news": {
-        "found": 28,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -38049,7 +38347,7 @@
       "Winter Performance",
       "Workforce Reductions"
     ],
-    "summary": "",
+    "summary": "Did anyone shop for outside car loans for R2?",
     "fullReport": "",
     "items": [
       {
@@ -38436,9 +38734,29 @@
       "negative": 22
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -38497,7 +38815,7 @@
       "Vehicle Quality",
       "Warranty Policy"
     ],
-    "summary": "",
+    "summary": "Jordan Schiefer's R2 EQ Sound Settings",
     "fullReport": "",
     "items": [
       {
@@ -38810,9 +39128,25 @@
       "negative": 8
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -38866,7 +39200,7 @@
       "Specifications",
       "Workforce"
     ],
-    "summary": "",
+    "summary": "Successfully installed the Ohmmu 12V Sodium ion batteries in my R1T",
     "fullReport": "",
     "items": [
       {
@@ -39199,9 +39533,21 @@
       "negative": 23
     },
     "sources": {
-      "news": {
-        "found": 26,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -39252,7 +39598,7 @@
       "Service Network",
       "Social Mentions"
     ],
-    "summary": "",
+    "summary": "Need Advice\u2026",
     "fullReport": "",
     "items": [
       {
@@ -39609,9 +39955,9 @@
       "negative": 0
     },
     "sources": {
-      "news": {
+      "reddit_rivian_r2": {
         "found": 1,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -39647,7 +39993,7 @@
     "themes": [
       "Rivian Mentions"
     ],
-    "summary": "",
+    "summary": "Wishful thinking? Probably",
     "fullReport": "",
     "items": [
       {
@@ -39674,9 +40020,29 @@
       "negative": 34
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -39742,7 +40108,7 @@
       "Test Drive",
       "Transmission Issue"
     ],
-    "summary": "",
+    "summary": "Unable to put into gear, 3 times in 2 days.",
     "fullReport": "",
     "items": [
       {
@@ -40073,9 +40439,29 @@
       "negative": 13
     },
     "sources": {
-      "news": {
-        "found": 29,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -40132,7 +40518,7 @@
       "Vehicle Comparison",
       "Vehicle Recall"
     ],
-    "summary": "",
+    "summary": "How are the cup holders in the R2?",
     "fullReport": "",
     "items": [
       {
@@ -40534,9 +40920,25 @@
       "negative": 21
     },
     "sources": {
-      "news": {
-        "found": 19,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -40602,7 +41004,7 @@
       "Vehicle Quirks",
       "Voice Assistant"
     ],
-    "summary": "",
+    "summary": "New Rivian Minivan Spotted",
     "fullReport": "",
     "items": [
       {
@@ -40882,9 +41284,21 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 18,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -40948,7 +41362,7 @@
       "Reliability Issue",
       "Road Trip"
     ],
-    "summary": "",
+    "summary": "Rivian under the suns heat",
     "fullReport": "",
     "items": [
       {
@@ -41209,9 +41623,33 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -41265,7 +41703,7 @@
       "RIVN Stock",
       "Unrelated"
     ],
-    "summary": "",
+    "summary": "Report/Review - R2 Testdrive & Rivian Neighborhood Night",
     "fullReport": "",
     "items": [
       {
@@ -41603,9 +42041,25 @@
       "negative": 46
     },
     "sources": {
-      "news": {
-        "found": 30,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news_autonomy": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -41677,7 +42131,7 @@
       "Sports Coupe",
       "Warranty Support"
     ],
-    "summary": "",
+    "summary": "Anybody know how to fix squeaky loud breaks? Pads have a ton of life left on them and rotors appear fine. Just started a few weeks ago and won\u2019t go away. R1S quad 2023",
     "fullReport": "",
     "items": [
       {
@@ -42098,9 +42552,25 @@
       "negative": 28
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -42168,7 +42638,7 @@
       "Vehicle Durability",
       "Vehicle Issues"
     ],
-    "summary": "",
+    "summary": "R2: Super tall person perspective",
     "fullReport": "",
     "items": [
       {
@@ -42536,9 +43006,25 @@
       "negative": 30
     },
     "sources": {
-      "news": {
-        "found": 20,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -42590,7 +43076,7 @@
       "RVA Production",
       "Rivian Gear"
     ],
-    "summary": "",
+    "summary": "R1S Forest Edge or R2? Help!",
     "fullReport": "",
     "items": [
       {
@@ -42870,9 +43356,29 @@
       "negative": 31
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -42943,7 +43449,7 @@
       "Trucks",
       "Vehicle Choice"
     ],
-    "summary": "",
+    "summary": "R1S Forest Edge or R2? Help!",
     "fullReport": "",
     "items": [
       {
@@ -43266,9 +43772,21 @@
       "negative": 8
     },
     "sources": {
-      "news": {
-        "found": 12,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 2,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -43322,7 +43840,7 @@
       "Vehicle Design",
       "Vehicle Features"
     ],
-    "summary": "",
+    "summary": "R2 Spotlight: Haptic Halo Wheels #r2 #rivian",
     "fullReport": "",
     "items": [
       {
@@ -43502,9 +44020,9 @@
       "negative": 0
     },
     "sources": {
-      "news": {
+      "bluesky": {
         "found": 1,
-        "sentiment": null
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -43569,9 +44087,25 @@
       "negative": 31
     },
     "sources": {
-      "news": {
-        "found": 16,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -43627,7 +44161,7 @@
       "Software Updates",
       "Waypoints"
     ],
-    "summary": "",
+    "summary": "Must Have Accessories",
     "fullReport": "",
     "items": [
       {
@@ -43860,9 +44394,33 @@
       "negative": 25
     },
     "sources": {
-      "news": {
-        "found": 27,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -43920,7 +44478,7 @@
       "RIVN Stock",
       "Vehicle Selection"
     ],
-    "summary": "",
+    "summary": "R2 or R1T (Gen 1)?",
     "fullReport": "",
     "items": [
       {
@@ -44286,9 +44844,37 @@
       "negative": 34
     },
     "sources": {
-      "news": {
-        "found": 32,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -44351,7 +44937,7 @@
       "Tesla Competition",
       "VW Competition"
     ],
-    "summary": "",
+    "summary": "Seems my R1S is now a bit of a unicorn",
     "fullReport": "",
     "items": [
       {
@@ -44787,9 +45373,9 @@
       "negative": 0
     },
     "sources": {
-      "news": {
+      "bluesky": {
         "found": 1,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -44852,9 +45438,37 @@
       "negative": 29
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -44915,7 +45529,7 @@
       "Test Drive Activity",
       "Workforce Cuts"
     ],
-    "summary": "",
+    "summary": "[ Removed by moderator ]",
     "fullReport": "",
     "items": [
       {
@@ -45248,9 +45862,29 @@
       "negative": 8
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -45320,7 +45954,7 @@
       "Tesla Litigation",
       "VW Partnership"
     ],
-    "summary": "",
+    "summary": "James May Drives a R1T Quad Across Virginia",
     "fullReport": "",
     "items": [
       {
@@ -45658,9 +46292,25 @@
       "negative": 37
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -45721,7 +46371,7 @@
       "Stock Comparison",
       "Vehicle Durability"
     ],
-    "summary": "",
+    "summary": "How long is this waiting list?",
     "fullReport": "",
     "items": [
       {
@@ -46056,9 +46706,29 @@
       "negative": 4
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -46120,7 +46790,7 @@
       "Uber Partnership",
       "User Content"
     ],
-    "summary": "",
+    "summary": "Drove Home Today in a 2026 R1S",
     "fullReport": "",
     "items": [
       {
@@ -46441,9 +47111,29 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -46502,7 +47192,7 @@
       "Test Drive",
       "Vehicle Content"
     ],
-    "summary": "",
+    "summary": "Epic Family EV Road Trip: Towing 6,000 lbs from Brooklyn to Georgia in our Rivian R1T!",
     "fullReport": "",
     "items": [
       {
@@ -46837,9 +47527,21 @@
       "negative": 15
     },
     "sources": {
-      "news": {
-        "found": 19,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -46893,7 +47595,7 @@
       "Service Quality",
       "Software Issues"
     ],
-    "summary": "",
+    "summary": "No contact from service?",
     "fullReport": "",
     "items": [
       {
@@ -47161,9 +47863,25 @@
       "negative": 27
     },
     "sources": {
-      "news": {
-        "found": 18,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -47232,7 +47950,7 @@
       "Warranty",
       "Waymo Autonomy"
     ],
-    "summary": "",
+    "summary": "Feature Request: Completely Mute Park Assist Activation Chime in Stop-and-Go Traffic",
     "fullReport": "",
     "items": [
       {
@@ -47501,9 +48219,25 @@
       "negative": 17
     },
     "sources": {
-      "news": {
-        "found": 17,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -47561,7 +48295,7 @@
       "Test Drive",
       "Test Drive Safety"
     ],
-    "summary": "",
+    "summary": "2026 R1S Swerving on Acceleration",
     "fullReport": "",
     "items": [
       {
@@ -47811,9 +48545,29 @@
       "negative": 18
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -47857,7 +48611,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Rivian charging me $250 for this",
     "fullReport": "",
     "items": [
       {
@@ -48167,9 +48921,29 @@
       "negative": 26
     },
     "sources": {
-      "news": {
-        "found": 26,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -48232,7 +49006,7 @@
       "Unit Economics",
       "Unrelated"
     ],
-    "summary": "",
+    "summary": "Would it be silly to ask for a sticky thread for Rivian R2 vin numbers?",
     "fullReport": "",
     "items": [
       {
@@ -48596,9 +49370,17 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -48670,7 +49452,7 @@
       "Vehicle Maturity",
       "Vehicle Safety"
     ],
-    "summary": "",
+    "summary": "Asked AI to create a Slate/Rivian truck",
     "fullReport": "",
     "items": [
       {
@@ -49033,9 +49815,21 @@
       "negative": 8
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -49091,7 +49885,7 @@
       "Vehicle Performance",
       "Vehicle Range"
     ],
-    "summary": "",
+    "summary": "Gen 1 driver assistance not working",
     "fullReport": "",
     "items": [
       {
@@ -49425,9 +50219,21 @@
       "negative": 21
     },
     "sources": {
-      "news": {
-        "found": 23,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -49480,7 +50286,7 @@
       "RIVN Stock",
       "Warranty Advantage"
     ],
-    "summary": "",
+    "summary": "Rivian R2 in Arizona",
     "fullReport": "",
     "items": [
       {
@@ -49798,9 +50604,21 @@
       "negative": 12
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -49849,7 +50667,7 @@
       "Stock Analysis",
       "Tesla Competition"
     ],
-    "summary": "",
+    "summary": "Here we go! v2.0",
     "fullReport": "",
     "items": [
       {
@@ -50194,9 +51012,21 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 24,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -50257,7 +51087,7 @@
       "Vehicle Features",
       "Vehicle Repair"
     ],
-    "summary": "",
+    "summary": "R2 Test drive to R1T Owner - St Augustine, FL Service+ Center",
     "fullReport": "",
     "items": [
       {
@@ -50598,9 +51428,25 @@
       "negative": 26
     },
     "sources": {
-      "news": {
-        "found": 19,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -50658,7 +51504,7 @@
       "Rivian",
       "Vehicle Quality"
     ],
-    "summary": "",
+    "summary": "R1s gen 2 2025 tri motor was driving in conserve got a \"performance limited\" warning.",
     "fullReport": "",
     "items": [
       {
@@ -50937,9 +51783,29 @@
       "negative": 16
     },
     "sources": {
-      "news": {
-        "found": 18,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -50990,7 +51856,7 @@
       "Test Drives",
       "Warranty"
     ],
-    "summary": "",
+    "summary": "How has rivian avoided the \u201csnobby rich person\u201d stereotype?",
     "fullReport": "",
     "items": [
       {
@@ -51239,9 +52105,29 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 30,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -51310,7 +52196,7 @@
       "Used Vehicle Market",
       "Vehicle Settings"
     ],
-    "summary": "",
+    "summary": "I am so over range anxiety with my Rivian. Didn\u2019t even bother to use conserve mode and drove past 15 chargers.",
     "fullReport": "",
     "items": [
       {
@@ -51733,9 +52619,9 @@
       "negative": 0
     },
     "sources": {
-      "news": {
+      "bluesky": {
         "found": 3,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -51824,9 +52710,21 @@
       "negative": 15
     },
     "sources": {
-      "news": {
-        "found": 20,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -51880,7 +52778,7 @@
       "Vehicle Quality",
       "Vehicle Technology"
     ],
-    "summary": "",
+    "summary": "Using a Electrical Adapter",
     "fullReport": "",
     "items": [
       {
@@ -52164,9 +53062,29 @@
       "negative": 8
     },
     "sources": {
-      "backfill": {
-        "found": 50,
-        "sentiment": null
+      "google_news": {
+        "found": 15,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news_oems": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "google_news_chinese": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 16,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -52881,9 +53799,9 @@
       "negative": 4
     },
     "sources": {
-      "backfill": {
+      "google_news": {
         "found": 50,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -53594,9 +54512,9 @@
       "negative": 30
     },
     "sources": {
-      "backfill": {
+      "google_news": {
         "found": 50,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -54297,9 +55215,9 @@
       "negative": 16
     },
     "sources": {
-      "backfill": {
+      "google_news": {
         "found": 50,
-        "sentiment": null
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -55005,9 +55923,9 @@
       "negative": 0
     },
     "sources": {
-      "backfill": {
+      "google_news": {
         "found": 50,
-        "sentiment": null
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -55709,9 +56627,17 @@
       "negative": 8
     },
     "sources": {
-      "backfill": {
-        "found": 50,
-        "sentiment": null
+      "google_news": {
+        "found": 42,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 7,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -56421,9 +57347,41 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 47,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 3,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -56469,7 +57427,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "A2Z adapter at Rivian charger",
     "fullReport": "",
     "items": [
       {
@@ -57098,9 +58056,17 @@
       "negative": 13
     },
     "sources": {
-      "news": {
-        "found": 22,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -57143,7 +58109,7 @@
       "Service Experience",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Annual Maintenance Costs",
     "fullReport": "",
     "items": [
       {
@@ -57445,9 +58411,33 @@
       "negative": 3
     },
     "sources": {
-      "news": {
-        "found": 33,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_oems": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
       }
     },
     "categories": {
@@ -57493,7 +58483,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R1T to the rescue!",
     "fullReport": "",
     "items": [
       {
@@ -57516,11 +58506,11 @@
         "publishedAt": "2026-07-12T21:10:02.161Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "positive",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "If I want to wait for Gen 3 R2, How Do I Answer Survey?",
@@ -57568,11 +58558,11 @@
         "publishedAt": "2026-07-12T17:06:31.421Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Life is good!",
@@ -57581,11 +58571,11 @@
         "publishedAt": "2026-07-12T16:59:16.903Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Tall People Question (Test Drove)",
@@ -57594,11 +58584,11 @@
         "publishedAt": "2026-07-12T18:52:13.961Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Test Drive perspective from BMW 5 series owner",
@@ -57942,9 +58932,17 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 20,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -57988,7 +58986,7 @@
       "Tesla Competition",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Sunday Suds",
     "fullReport": "",
     "items": [
       {
@@ -57998,11 +58996,11 @@
         "publishedAt": "2026-07-13T01:21:05.386Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Would an R2 in the launch-only Launch Green color command a higher resale price than one in a more common color?",
@@ -58024,11 +59022,11 @@
         "publishedAt": "2026-07-13T00:29:57.157Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Picked up my pre-owned 2024 R1S. I am officially a Rivian Stan.",
@@ -58266,9 +59264,25 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 15,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -58306,7 +59320,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "CCS R1 owners: what adapters to get?",
     "fullReport": "",
     "items": [
       {
@@ -58329,11 +59343,11 @@
         "publishedAt": "2026-07-13T02:45:35.786Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Why Is Rivian Automotive Stock Falling on Monday? - Benzinga",
@@ -58498,11 +59512,11 @@
         "publishedAt": null,
         "score": 0,
         "snippet": "Highway Assist - Calibration of lane center?",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       }
     ]
   },
@@ -58515,9 +59529,29 @@
       "negative": 0
     },
     "sources": {
-      "news": {
-        "found": 27,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -58557,7 +59591,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Tire pressure TPM location on screen not accurate",
     "fullReport": "",
     "items": [
       {
@@ -58567,11 +59601,11 @@
         "publishedAt": "2026-07-13T17:26:02.993Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Must be nice",
@@ -58580,11 +59614,11 @@
         "publishedAt": "2026-07-13T17:21:05.160Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "It looks like Rivian will sign on to the $3,500 new EV rebate in CA",
@@ -58671,11 +59705,11 @@
         "publishedAt": "2026-07-13T15:39:23.776Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "What is your go-to song for testing the audio during test drives?",
@@ -58922,9 +59956,25 @@
       "negative": 12
     },
     "sources": {
-      "news": {
-        "found": 25,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "negative"
       }
     },
     "categories": {
@@ -58964,7 +60014,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Gavin Newsom IG prominently features Rivian.",
     "fullReport": "",
     "items": [
       {
@@ -59000,11 +60050,11 @@
         "publishedAt": "2026-07-13T19:25:41.116Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Gen2 All-Weather Mats in Gen1?",
@@ -59013,11 +60063,11 @@
         "publishedAt": "2026-07-13T18:59:36.696Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Kammok x Rivian awning rattle?",
@@ -59065,11 +60115,11 @@
         "publishedAt": "2026-07-13T21:55:39.998Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "The Robotaxi Ultimatum: Waymo Is Now Fighting a Regulator and Its Biggest Distributor at the Same Time - Business Model Analyst",
@@ -59303,9 +60353,25 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 19,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -59345,7 +60411,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Rooftop camping",
     "fullReport": "",
     "items": [
       {
@@ -59355,11 +60421,11 @@
         "publishedAt": "2026-07-14T00:42:06.654Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "2026 R1T tri (leased) with offroad package \u2014 anyone swap from offroad tires to all season tires using the 20\u201d offroad rims? Any lease concerns?",
@@ -59407,11 +60473,11 @@
         "publishedAt": "2026-07-13T22:51:28.664Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "negative",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Uber\u2019s robotaxi lobbying effort puts it on a collision course with Waymo - TechCrunch",
@@ -59606,9 +60672,33 @@
       "negative": 3
     },
     "sources": {
-      "news": {
-        "found": 29,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -59648,7 +60738,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Rust bubble",
     "fullReport": "",
     "items": [
       {
@@ -59658,11 +60748,11 @@
         "publishedAt": "2026-07-14T13:52:33.391Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Looking for insight from long time r1s/r1t owners",
@@ -59697,11 +60787,11 @@
         "publishedAt": "2026-07-14T04:26:55.199Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "20\u201d tire replacement dilemma",
@@ -59710,11 +60800,11 @@
         "publishedAt": "2026-07-14T03:53:05.382Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "\"Emerging Issue\": Rivian digital key access unavailable.",
@@ -59736,11 +60826,11 @@
         "publishedAt": "2026-07-14T02:11:31.720Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "I am not a buyer until primary mechanical locks are included",
@@ -59749,11 +60839,11 @@
         "publishedAt": "2026-07-14T02:19:52.424Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "ADAS Regulations overview: What every automaker needs to know",
@@ -59762,11 +60852,11 @@
         "publishedAt": "2026-07-14T12:59:32.906Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Eyes on Rivian Automotive after R2 launch and large share offering (RIVN:NASDAQ) - Seeking Alpha",
@@ -60039,9 +61129,29 @@
       "negative": 10
     },
     "sources": {
-      "news": {
-        "found": 28,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -60084,7 +61194,7 @@
       "Rivian Mentions",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "Any Rivian Owners in the Louisville area?",
     "fullReport": "",
     "items": [
       {
@@ -60107,11 +61217,11 @@
         "publishedAt": "2026-07-14T16:53:03.563Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Rivian Home Charger Question",
@@ -60133,11 +61243,11 @@
         "publishedAt": "2026-07-14T15:37:48.341Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "Finally! R2 order email",
@@ -60159,11 +61269,11 @@
         "publishedAt": "2026-07-14T17:15:42.146Z",
         "score": 0,
         "snippet": "",
-        "category": "other",
         "sentiment": "neutral",
         "themes": [
           "Rivian Mentions"
-        ]
+        ],
+        "category": "other"
       },
       {
         "title": "I Had High Expectations For The Rivian R2. It Still Blew Me Away - InsideEVs",
@@ -60464,9 +61574,29 @@
       "negative": 11
     },
     "sources": {
-      "news": {
-        "found": 27,
-        "sentiment": null
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
       }
     },
     "categories": {
@@ -60507,7 +61637,7 @@
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "",
+    "summary": "R2 (Esker Silver) Road Trip Report",
     "fullReport": "",
     "items": [
       {
