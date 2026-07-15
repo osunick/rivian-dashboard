@@ -62432,5 +62432,331 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-15T14:02:15.086759Z",
+    "timestamp": "2026-07-15T14:02:15.086759Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 90,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "That would be great... Thanks",
+    "fullReport": "\ud83c\udfac *GameFilm \u2014 Rivian Intel*\n_Wednesday, July 15, 2026 \u2014 2:02 PM PT \u2014 20 signals \u00b7 2 categories_\n\n*\ud83c\udfaf SITREP*\n\u2022 *Rivian:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\u2694\ufe0f FIELD INTELLIGENCE* (0)\n\u2022 No competitive signals\n\n*\ud83d\ude97 RIVIAN POSITION*\n\n*\ud83e\udd16 Autonomy (0)* \u2022 No signals\n*\ud83e\uddea Demo & Test Drives (0)* \u2022 No signals\n*\ud83d\ude97 Vehicles (16)* \u2022 Got R2 VIN today!\n  https://www.reddit.com/r/Rivian/comments/1uwtsd8/got_r2_vin_today/\n*\ud83d\udcb0 Business (0)* \u2022 No signals\n*\ud83d\udcf1 Software (0)* \u2022 No signals\n*\ud83c\udf10 Community (2)* \u2022 insideevs.com/news/801672/... \u592a\u967d\u96fb\u6c60EV\uff08\u30d7\u30e9\u30b0\u30a4\u30f3\u3082\u53ef\uff09\u306e\u30a2\u30d7\u30c6\u30e9\u306f\u3001\u4eee\u306b\u767a\u58f2\u51fa\u6765\u305f\u3068\u3057\u305f\u3089\u305d\u306e\u5f8c\u3067\u751f\u3058\u308b\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u3084\u4fee\u7406\u306b\u3064\u3044\u3066\u300c\u81ea\u793e\u306e\u30b5\u30fc\u30d3\u30b9\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306f\u69cb\u7bc9\u3057\u306a\u3044\u3002\u4ee3\u308f\u308a\u306b\u5168\u56fd\u5c55\u958b\u3059\u308b\u4fee\u7406\u30c1\u30a7\u30fc\u30f3\u3068\u5951\u7d04\u3057\u3066\u3001\u305d\u3053\u3067\u9762\u5012\u898b\u3066\u3082\u3089\u3046\u300d\u30b9\u30ec\u30fc\u30c8\u306e\u65b9\u5f0f\u306b\u5023\u3046\u3068\u306e\u3053\u3068\u3002\u65e5\u672c\u3067\u3044\u3048\u3070\u3001\u30aa\u30fc\u30c8\u30d0\u30c3\u30af\u30b9\u306e\u5e97\u8217\u7db2\u3092\u30b5\u30fc\u30d3\u30b9\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u4ee3\u308f\u308a\u306b\u3059\u308b\u611f\u3058\u30fb\u30fb\u30fb\u3068\u3044\u3046\u3068\u3001\u5947\u745e\u304c\n  https://bsky.app/profile/did:plc:cpkso7oowtqbutosskr25tu4/post/3mqoeptoeok2s\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udccc PM WATCH LIST*\n\u2022 Community Signals\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "That would be great... Thanks",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ux56lk/that_would_be_great_thanks/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-15T13:00:09.214Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "[followup] DON'T DELETE YOUR KEY if you get the \"Digital key access unavailable\" error.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwuqkq/followup_dont_delete_your_key_if_you_get_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-15T03:52:34.349Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Got R2 VIN today!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwtsd8/got_r2_vin_today/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-15T03:05:58.137Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) surpasses market returns: Some facts worth knowing - MSN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVBETEZuRXVsTUNmZGNhcE5tUWtYajhKdWFmNHgtWU5DNngtM3lIRnpVT21nQ05VdmhFSVNyY3VDODVoVkM5T1o3bEtTakV4YmRmNjU2eElSVkVIVm0zdmVSMkxIMFVVYmlZdHQ4NXN0WDJ4R2E5NFoyY1VXZElvcWJSTVR1eW93MHdKWGptTkVwblB4QnBsNlg1SUFldzhqNDByNEFPMjhCNm1xeExQdHBBM2FET1dLSk5VMDZFaGFXcGVS?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 15 Jul 2026 07:24:47 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) surpasses market returns: Some facts worth knowing - MSN",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #CaliforniaLeads",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqotlmtvtc2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T13:34:47.973Z",
+        "score": 0,
+        "snippet": "#Rivian #CaliforniaLeads",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@samvydav24.bsky.social (Bluesky): I am weirdly optimistic about the EV future in US. We're going to see consistent",
+        "url": "https://bsky.app/profile/did:plc:anojzqsv7ie4byszlvecphii/post/3mqotju2rfc2z",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T13:33:51.177Z",
+        "score": 1,
+        "snippet": "I am weirdly optimistic about the EV future in US. We're going to see consistently high gas prices for the next 12 months at least due to Trump's whatever you want to call it in Iran. Rivian is enteri",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqotg3zz3s2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T13:31:42.769Z",
+        "score": 2,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@johnsmillie42.bsky.social (Bluesky): Gonna be honest, I have seen may more Rivian Amazon vans than duck trucks (a ter",
+        "url": "https://bsky.app/profile/did:plc:gps4qwkggxgp7op7pm4bfeuz/post/3mqop6hfvf22x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T12:15:52.466Z",
+        "score": 2,
+        "snippet": "Gonna be honest, I have seen may more Rivian Amazon vans than duck trucks (a term I use affectionately)",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mqookiy5gk2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T12:04:55.474Z",
+        "score": 2,
+        "snippet": "eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): www.usatoday.com/story/cars/s...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mqonmeguxc2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T11:47:58.865Z",
+        "score": 1,
+        "snippet": "www.usatoday.com/story/cars/s...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqoncunqrs2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T11:42:31.578Z",
+        "score": 5,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqonbykig22y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T11:42:03.274Z",
+        "score": 5,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@damin-en500.bsky.social (Bluesky): insideevs.com/news/801672/...\n\u592a\u967d\u96fb\u6c60EV\uff08\u30d7\u30e9\u30b0\u30a4\u30f3\u3082\u53ef\uff09\u306e\u30a2\u30d7\u30c6\u30e9\u306f\u3001\u4eee\u306b\u767a\u58f2\u51fa\u6765\u305f\u3068\u3057\u305f\u3089\u305d\u306e\u5f8c\u3067\u751f\u3058\u308b\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u3084\u4fee\u7406\u306b",
+        "url": "https://bsky.app/profile/did:plc:cpkso7oowtqbutosskr25tu4/post/3mqoeptoeok2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T09:08:48.570Z",
+        "score": 1,
+        "snippet": "insideevs.com/news/801672/...\n\u592a\u967d\u96fb\u6c60EV\uff08\u30d7\u30e9\u30b0\u30a4\u30f3\u3082\u53ef\uff09\u306e\u30a2\u30d7\u30c6\u30e9\u306f\u3001\u4eee\u306b\u767a\u58f2\u51fa\u6765\u305f\u3068\u3057\u305f\u3089\u305d\u306e\u5f8c\u3067\u751f\u3058\u308b\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u3084\u4fee\u7406\u306b\u3064\u3044\u3066\u300c\u81ea\u793e\u306e\u30b5\u30fc\u30d3\u30b9\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306f\u69cb\u7bc9\u3057\u306a\u3044\u3002\u4ee3\u308f\u308a\u306b\u5168\u56fd\u5c55\u958b\u3059\u308b\u4fee\u7406\u30c1\u30a7\u30fc\u30f3\u3068\u5951\u7d04\u3057\u3066\u3001\u305d\u3053\u3067\u9762\u5012\u898b\u3066\u3082\u3089\u3046\u300d\u30b9\u30ec\u30fc\u30c8\u306e\u65b9\u5f0f\u306b\u5023\u3046\u3068\u306e\u3053\u3068\u3002\u65e5\u672c\u3067\u3044\u3048\u3070\u3001\u30aa\u30fc\u30c8\u30d0\u30c3\u30af\u30b9\u306e\u5e97\u8217\u7db2\u3092\u30b5\u30fc\u30d3\u30b9\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u4ee3\u308f\u308a\u306b\u3059\u308b\u611f\u3058\u30fb\u30fb\u30fb\u3068\u3044\u3046\u3068\u3001\u5947\u745e\u304c",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"EV\"\nBy: Matilde Alves on Tuesday, July 14, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqo5no2odb2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T07:02:16.265Z",
+        "score": 0,
+        "snippet": "Feed: \"EV\"\nBy: Matilde Alves on Tuesday, July 14, 2026",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2S Review: Price, Range, Specs, Features &amp; Off-Road Performance",
+        "url": "https://youtube.com/watch?v=MbgZ9TMBFk0",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T13:20:23Z",
+        "score": 0,
+        "snippet": "Description Discover everything you need to know about the 2026 Rivian R2S in this in-depth review! We cover the expected ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Crafted a new Rivian R1S \ud83d\ude97 #rivianr1s #craft #viral #unique",
+        "url": "https://youtube.com/watch?v=oAIXukD-1KI",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T13:15:19Z",
+        "score": 0,
+        "snippet": "Crafted a new Rivian R1S #rivianr1s #craft #viral #unique Crafted a new Rivian R1S #rivianr1s #craft #viral #unique.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2022 RIVIAN R1T 835 HP 1232 NM OFF-ROAD",
+        "url": "https://youtube.com/watch?v=7gBySJzeldI",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T13:00:02Z",
+        "score": 0,
+        "snippet": "2022 RIVIAN R1T 835 HP 1232 NM OFF-ROAD PayPal https://www.paypal.com/donate/?hosted_button_id=BBW8B72GX65KL.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I cancelled my Rivian R2 for a 2026 Tesla Model Y (Premium)",
+        "url": "https://youtube.com/watch?v=HBxFd5lRimY",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T11:40:20Z",
+        "score": 0,
+        "snippet": "Everyone assumed I'd get the Rivian. I reserved one, drove the entire lineup, and bought a 2026 Tesla Model Y instead.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Full Review | Design, Interior, Features &amp; Expected Price",
+        "url": "https://youtube.com/watch?v=z0HoN__LVJY",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T10:24:33Z",
+        "score": 0,
+        "snippet": "Welcome to the future of automotive design! In this video, we showcase the all-new 2026 to 27 New Shape \u2013 a perfect blend of ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "#tesla#rivian #neo#mercedes #trolling #bmw #edits",
+        "url": "https://youtube.com/watch?v=h6W2aboWoTg",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T09:12:17Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
