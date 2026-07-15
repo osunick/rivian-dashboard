@@ -12,7 +12,6 @@ import { CATEGORY_KEYS, CATEGORY_LABELS, COMPETITORS, SOURCE_KEYS, SOURCE_LABELS
 import SearchButton from '@/components/SearchButton';
 import ChatButton from '@/components/ChatButton';
 import SummarySentimentBars from '@/components/SummarySentimentBars';
-import MediaPreview from '@/components/MediaPreview';
 import CompetitorsSection from '@/components/CompetitorsSection';
 import PublishSentimentTrend from '@/components/PublishSentimentTrend';
 import DrillDown, { DrillDownItem } from '@/components/DrillDown';
@@ -756,7 +755,6 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                       </h3>
                     </a>
                     <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{item.snippet}</p>
-                    <MediaPreview url={item.url} title={item.title} className="mt-3 rounded-lg border-white/10 bg-black/30" />
                   </div>
                 ))}
               </div>
@@ -832,7 +830,6 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                     </h3>
                   </a>
                   <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{item.snippet}</p>
-                  <MediaPreview url={item.url} title={item.title} className="mt-3 border-white/10 bg-black/30 rounded-lg" />
                 </div>
               ))}
             </div>
@@ -863,7 +860,6 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                     </h3>
                   </a>
                   <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{issue.snippet}</p>
-                  <MediaPreview url={issue.url} title={issue.title} className="mt-3 border-white/10 bg-black/30 rounded-lg" />
                 </div>
               ))}
             </div>
