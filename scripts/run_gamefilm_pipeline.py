@@ -318,7 +318,7 @@ def compose_brief_llm(items, sentiment, ts):
     fall back to the deterministic compose_brief()."""
     neg = sentiment.get('negative', 0)
     threat = sentiment_label(neg)
-    header = f"🎬 *GameFilm — Rivian Intel*\n_{format_date(ts)} — {format_time(ts)} — {len(items)} signals_"
+    header = f"▪️ *GameFilm — Executive Intelligence Brief*\n_{format_date(ts)} — {format_time(ts)} — {len(items)} signals_"
     footer = f"_Threat: {threat}_\n_Dashboard: https://watchgamefilm.vercel.app_"
 
     by_cat = {}
@@ -337,17 +337,20 @@ def compose_brief_llm(items, sentiment, ts):
     data_block = "\n".join(data_lines) if data_lines else "(no items)"
 
     prompt = (
-        "You are a competitive-intelligence analyst writing a tactical brief for "
-        "Rivian's product team. Synthesize the scraped signals below into a sharp, "
-        "skimmable brief — connect dots, surface what actually matters to a Rivian PM, "
-        "and call out implications, not just headlines. Be specific and concise.\n\n"
+        "You are a top-tier management consultant (e.g., McKinsey, BCG) writing an executive intelligence briefing for "
+        "Rivian's product leadership. Synthesize the scraped signals below into a highly structured, analytical, "
+        "and skimmable brief. Focus on strategic implications, market dynamics, and actionable intelligence. "
+        "Use precise, executive-level language.\n\n"
         "OUTPUT RULES (this is sent over Signal/WhatsApp):\n"
-        "- Plain text only. Use *single asterisks* for bold (not **). No markdown tables, no headers with #.\n"
+        "- Plain text only. Use *single asterisks* for bold (not **). No markdown tables, no headers with #. DO NOT use emojis.\n"
         "- IGNORE and filter out low-value, purely conversational thread titles (like memes, image captions, or zero-context replies). Only synthesize actual signal/news.\n"
-        "- Keep the emoji section structure: 🎯 SITREP (2-4 bullets: top competitor move, Rivian's position, key risk), "
-        "then a ━━━━━━━━━━ divider, ⚔️ FIELD INTELLIGENCE (the most consequential competitor items, with implication for Rivian), "
-        "🚗 RIVIAN POSITION (group by 🤖 Autonomy / 🧪 Demo & Test Drives / 🚗 Vehicles / 💰 Business / 📱 Software / 🌐 Community as relevant), "
-        "another divider, then 📌 PM WATCH LIST (3-6 forward-looking bullets — what to track next).\n"
+        "- Use the following rigorous structure:\n"
+        "  *EXECUTIVE SUMMARY* (2-3 bullets summarizing macro market shifts, critical competitor moves, and Rivian's immediate posture).\n"
+        "  ━━━━━━━━━━\n"
+        "  *COMPETITIVE DYNAMICS* (Synthesize the most consequential competitor items, explicitly stating the strategic implication for Rivian).\n"
+        "  *PRODUCT & MARKET POSITIONING* (Group by relevant functional areas: Autonomy / Product & Vehicles / Go-to-Market / Corporate / Software & Tech).\n"
+        "  ━━━━━━━━━━\n"
+        "  *STRATEGIC IMPERATIVES* (3-5 forward-looking, action-oriented bullets detailing what leadership must track or respond to next).\n"
         "- Include the source URL in <angle brackets> on its own line under any item you cite, so the link stays clickable.\n"
         "- Start your output with EXACTLY this header, then a blank line:\n" + header + "\n"
         "- End your output with EXACTLY these two lines:\n" + footer + "\n"
