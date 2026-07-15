@@ -372,15 +372,19 @@ def fetch_rss_feeds():
         items = _fetch_rss(url, label)
         all_items.extend(items)
 
-    rivian_kw = ['rivian', 'rivn', 'r1t', 'r1s', 'r2', 'rj scaringe', 'electric truck', 'electric suv']
-    ev_av_kw = ['tesla', 'waymo', 'cruise', 'zoox', 'lucid', 'self-driving', 'autonomous', 'robotaxi', 'fsd', 'nio', 'byd', 'evs', 'avs']
+    import re
+    rivian_kw = [r'\brivian\b', r'\brivn\b', r'\br1t\b', r'\br1s\b', r'\br2\b', r'\brj scaringe\b', r'\belectric trucks?\b', r'\belectric suvs?\b']
+    ev_av_kw = [r'\btesla\b', r'\bwaymo\b', r'\bcruise\b', r'\bzoox\b', r'\blucid\b', r'\bself-driving\b', r'\bautonomous\b', r'\brobotaxis?\b', r'\bfsd\b', r'\bnio\b', r'\bbyd\b', r'\bevs?\b', r'\bavs?\b']
     
+    rivian_pattern = re.compile('|'.join(rivian_kw), re.IGNORECASE)
+    ev_av_pattern = re.compile('|'.join(ev_av_kw), re.IGNORECASE)
+
     today_items = []
     for item in all_items:
-        text = (item['title'] + ' ' + item['snippet']).lower()
+        text = (item['title'] + ' ' + item['snippet'])
         
-        is_rivian = any(k in text for k in rivian_kw)
-        is_ev_av = any(k in text for k in ev_av_kw)
+        is_rivian = bool(rivian_pattern.search(text))
+        is_ev_av = bool(ev_av_pattern.search(text))
         
         if not (is_rivian or is_ev_av):
             continue
