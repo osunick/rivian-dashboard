@@ -64054,5 +64054,83 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-15T23:56:02.233942Z",
+    "timestamp": "2026-07-15T23:56:02.233942Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "google_news_oems": {
+        "found": 2,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats"
+    ],
+    "summary": "Ford Teases Its $30K EV Truck With An Interactive 'Unicorn' Wrap - SlashGear",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, July 15, 2026 \u2014 11:56 PM PT \u2014 2 signals \u00b7 0 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* Ford Teases Its $30K EV Truck With An Interactive 'Unicorn' Wrap - SlashGear\n\u2022 *Key risk:* Ford Should Stop Selling EVs - 24/7 Wall St.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Ford Teases Its $30K EV Truck With An Interactive 'Unicorn' Wrap - SlashGear\n  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWliVkM4UWx5NklrY19WN3AtcWJ5YjV6U2FLZTAtODFlSjJrVHlBWGFUNEh6N2R6X0E1NTRJNEs5blIxUUxRYVQxTzNtRGs2STFDNHV6LTBSc1Q2b1U3WTlFbmZ4b25uam44Q1J0YUJJUWxENk5kOHBaMDhqMElWRDIwWkh6cmRhaEtJ?oc=5\n\u2022 *Competitive Threats:* Ford Should Stop Selling EVs - 24/7 Wall St.\n  https://news.google.com/rss/articles/CBMifEFVX3lxTE1HY0gwWWFoWDhQNFJWVGQ4VGd1Y1pmQ21wdE1LaVNiUkl3ZjJqVTEtc3ZuOXh1cVJfNUhiNkZkQXpDS3I1cmw1Sk1iejBNYTltSjNIbTdnLWY4TWxwWUNjSHZhMl9ISm9BYnp4cnJfQldJNTZEYTBSb085X24?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (0)* \u2022 No signals\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Ford Teases Its $30K EV Truck With An Interactive 'Unicorn' Wrap - SlashGear",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWliVkM4UWx5NklrY19WN3AtcWJ5YjV6U2FLZTAtODFlSjJrVHlBWGFUNEh6N2R6X0E1NTRJNEs5blIxUUxRYVQxTzNtRGs2STFDNHV6LTBSc1Q2b1U3WTlFbmZ4b25uam44Q1J0YUJJUWxENk5kOHBaMDhqMElWRDIwWkh6cmRhaEtJ?oc=5",
+        "source": "google_news_oems",
+        "publishedAt": "Wed, 15 Jul 2026 14:45:00 GMT",
+        "score": 0,
+        "snippet": "Ford Teases Its $30K EV Truck With An Interactive 'Unicorn' Wrap - SlashGear",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Ford Should Stop Selling EVs - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HY0gwWWFoWDhQNFJWVGQ4VGd1Y1pmQ21wdE1LaVNiUkl3ZjJqVTEtc3ZuOXh1cVJfNUhiNkZkQXpDS3I1cmw1Sk1iejBNYTltSjNIbTdnLWY4TWxwWUNjSHZhMl9ISm9BYnp4cnJfQldJNTZEYTBSb085X24?oc=5",
+        "source": "google_news_oems",
+        "publishedAt": "Wed, 15 Jul 2026 13:47:46 GMT",
+        "score": 0,
+        "snippet": "Ford Should Stop Selling EVs - 24/7 Wall St.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      }
+    ]
   }
 ]
