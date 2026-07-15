@@ -56,13 +56,13 @@ export function getSentimentDelta(field: 'positive' | 'negative'): number {
 export function getTotalPostsLatest(): number {
   const r = getLatestReport();
   if (!r) return 0;
-  return Object.values(r.sources).reduce((sum, s) => sum + s.found, 0);
+  return Object.values(r.sources).reduce((sum, s) => sum + (s?.found ?? 0), 0);
 }
 
 export function getActiveSourcesLatest(): number {
   const r = getLatestReport();
   if (!r) return 0;
-  return Object.values(r.sources).filter(s => s.found > 0).length;
+  return Object.values(r.sources).filter(s => (s?.found ?? 0) > 0).length;
 }
 
 export function getLast5ReportsNewestFirst(): Report[] {

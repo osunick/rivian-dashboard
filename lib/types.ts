@@ -52,18 +52,7 @@ export interface Report {
     neutral: number;
     negative: number;
   };
-  sources: {
-    reddit_rivian: SourceData;
-    reddit_rivian_r2?: SourceData;
-    reddit_ev: SourceData;
-    reddit_sdc: SourceData;
-    reddit_stocks?: SourceData;
-    rivianforums: SourceData;
-    news: SourceData;
-    twitter: SourceData;
-    youtube: SourceData;
-    hackernews: SourceData;
-  };
+  sources: Record<string, SourceData | undefined>;
   categories?: Partial<Record<CategoryKey, CategoryData>>;
   themes: string[];
   competitiveContext: string;

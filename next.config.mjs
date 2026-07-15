@@ -24,6 +24,7 @@ const nextConfig = {
               "font-src 'self' data:",
               "style-src 'self' 'unsafe-inline'",
               "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+              "frame-src https://www.youtube.com https://www.youtube-nocookie.com",
               "connect-src 'self' https://generativelanguage.googleapis.com",
             ].join('; '),
           },
