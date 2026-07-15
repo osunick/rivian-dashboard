@@ -343,6 +343,7 @@ def compose_brief_llm(items, sentiment, ts):
         "and call out implications, not just headlines. Be specific and concise.\n\n"
         "OUTPUT RULES (this is sent over Signal/WhatsApp):\n"
         "- Plain text only. Use *single asterisks* for bold (not **). No markdown tables, no headers with #.\n"
+        "- IGNORE and filter out low-value, purely conversational thread titles (like memes, image captions, or zero-context replies). Only synthesize actual signal/news.\n"
         "- Keep the emoji section structure: 🎯 SITREP (2-4 bullets: top competitor move, Rivian's position, key risk), "
         "then a ━━━━━━━━━━ divider, ⚔️ FIELD INTELLIGENCE (the most consequential competitor items, with implication for Rivian), "
         "🚗 RIVIAN POSITION (group by 🤖 Autonomy / 🧪 Demo & Test Drives / 🚗 Vehicles / 💰 Business / 📱 Software / 🌐 Community as relevant), "
