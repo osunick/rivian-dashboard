@@ -364,6 +364,7 @@ def fetch_rss_feeds():
         ('https://www.cnbc.com/id/100003114/device/rss/rss.html', 'cnbc_top'),
         ('https://feeds.marketwatch.com/marketwatch/topstories', 'marketwatch'),
         ('https://www.automotiveworld.com/feed/', 'automotive_world'),
+        ('https://techmeme.com/feed.xml', 'techmeme'),
     ]
 
     all_items = []
@@ -371,12 +372,19 @@ def fetch_rss_feeds():
         items = _fetch_rss(url, label)
         all_items.extend(items)
 
-    keywords = ['rivian', 'rivn', 'r1t', 'r1s', 'r2', 'rj scaringe', 'electric truck', 'electric suv']
+    rivian_kw = ['rivian', 'rivn', 'r1t', 'r1s', 'r2', 'rj scaringe', 'electric truck', 'electric suv']
+    ev_av_kw = ['tesla', 'waymo', 'cruise', 'zoox', 'lucid', 'self-driving', 'autonomous', 'robotaxi', 'fsd', 'nio', 'byd', 'evs', 'avs']
+    
     today_items = []
     for item in all_items:
         text = (item['title'] + ' ' + item['snippet']).lower()
-        if not any(k in text for k in keywords):
+        
+        is_rivian = any(k in text for k in rivian_kw)
+        is_ev_av = any(k in text for k in ev_av_kw)
+        
+        if not (is_rivian or is_ev_av):
             continue
+            
         date_str = item.get('publishedAt', '')
         if date_str:
             try:
@@ -388,7 +396,7 @@ def fetch_rss_feeds():
                 pass
         today_items.append(item)
 
-    print(f"[fetch_gamefilm] RSS: {len(all_items)} total, {len(today_items)} today/Rivian-relevant", file=sys.stderr)
+    print(f"[fetch_gamefilm] RSS: {len(all_items)} total, {len(today_items)} today/relevant", file=sys.stderr)
     return today_items
 
 # ---------------------------------------------------------------------------

@@ -476,6 +476,13 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
   const competitiveSignals = scopeItems.filter(item => item.category === 'competitive');
   const demoDriveSignals = scopeItems.filter(isDemoDriveFeedback);
 
+  const socialSources = ['twitter', 'youtube', 'hackernews', 'rivianforums', 'bluesky', 'reddit_rivian', 'reddit_rivian_r2', 'reddit_ev', 'reddit_sdc', 'reddit_stocks'];
+  const pressNewsSignals = scopeItems.filter(item => {
+    if (socialSources.includes(item.source)) return false;
+    if (item.source.startsWith('reddit_')) return false;
+    return true;
+  });
+
   const dynamicsTopics = DYNAMICS_TOPICS.map(topic => {
     const matched = scopeItems.filter(item => {
       const text = dynamicsText(item);
@@ -692,6 +699,42 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                 </DrillDown>
               ))}
             </div>
+          </Card>
+
+                    <Card title="Breaking Press News" meta={`${pressNewsSignals.length} in scope`}>
+            {pressNewsSignals.length > 0 ? (
+              <div className="space-y-2.5">
+                {pressNewsSignals.slice(0, 10).map((item, idx) => (
+                  <a
+                    key={`${item.url}-${idx}`}
+                    href={item.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
+                  >
+                    <div className="mb-2 flex flex-wrap items-center gap-2">
+                      <span className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${sentimentTone(item.sentiment)}`}>{item.sentiment}</span>
+                      <span className="font-mono-num text-[11px] text-claude-muted">{item.source}</span>
+                      {item.publishedAt && (
+                        <span className="font-mono-num text-[11px] text-claude-muted/50">
+                          {new Date(item.publishedAt).toLocaleDateString()}
+                        </span>
+                      )}
+                    </div>
+                    <div className="text-[14px] font-medium leading-snug text-claude-text group-hover:text-marvel-red">
+                      {item.title}
+                    </div>
+                    {item.snippet && (
+                      <div className="mt-2 text-[13px] leading-relaxed text-claude-muted line-clamp-2">
+                        {item.snippet}
+                      </div>
+                    )}
+                  </a>
+                ))}
+              </div>
+            ) : (
+              <div className="text-[14px] text-claude-muted">No press news found in the current scope.</div>
+            )}
           </Card>
 
           <Card title="Demo & test drive feedback" meta={`${demoDriveSignals.length} in scope`}>
