@@ -61992,5 +61992,445 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-15T02:02:27.591517Z",
+    "timestamp": "2026-07-15T02:02:27.591517Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 89,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "Just placed my R2 reservation",
+    "fullReport": "\ud83c\udfac *GameFilm \u2014 Rivian Intel*\n_Wednesday, July 15, 2026 \u2014 2:02 AM PT \u2014 28 signals \u00b7 4 categories_\n\n*\ud83c\udfaf SITREP*\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* RIVN Stock Climbs Despite Lucid Bankruptcy Rumors As Morgan Stanley Lifts Price Target - Yahoo Finance\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\u2694\ufe0f FIELD INTELLIGENCE* (0)\n\u2022 No competitive signals\n\n*\ud83d\ude97 RIVIAN POSITION*\n\n*\ud83e\udd16 Autonomy (0)* \u2022 No signals\n*\ud83e\uddea Demo & Test Drives (0)* \u2022 No signals\n*\ud83d\ude97 Vehicles (19)* \u2022 Just placed my R2 reservation\n  https://www.reddit.com/r/Rivian/comments/1uwqz9r/just_placed_my_r2_reservation/\n*\ud83d\udcb0 Business (4)* \u2022 Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success - Yahoo Finance\n  https://news.google.com/rss/articles/CBMiogFBVV95cUxObklQLVlaZGVGU1hQby1NVGZXRmZIR0p2aXcwSE8tNktxS3R5Y0ZJWlFYRlpqOGI4V2taX2VxWVhsblVjMDB6aWFaLTljRzZSRTRRNmdLTGpPcHJ0SW5mak5Kem9QUEUwZW9iOFAzUlFHa2FEUlVFaTI3U09DRmpIQlZPREZ1R19IeDh3V0VZckNYS1dXVmNHR2txMGlkNW9DRHc?oc=5\n*\ud83d\udcf1 Software (2)* \u2022 It\u2019s funny how Toyota kind of \u201cdisappeared\u201d the LandCruiser. I\u2019m still not sold on the new 4Runner or Rivian but there\u2019s a Tesla station 3 miles from work. I could make a Rivian happen. share.google\n  https://bsky.app/profile/did:plc:ea2ncqk6tz57j26wwr2dvvsx/post/3mqnff745322e\n*\ud83c\udf10 Community (2)* \u2022 finance.yahoo.com/markets/stoc...\n  https://bsky.app/profile/did:plc:qjx6rjadxt5gktrxdbzru2vv/post/3mqniwhgycs23\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udccc PM WATCH LIST*\n\u2022 Business\n\u2022 Community Signals\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Just placed my R2 reservation",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwqz9r/just_placed_my_r2_reservation/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-15T00:55:27.357Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian r2 real world driving efficiency",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwpnex/rivian_r2_real_world_driving_efficiency/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T23:29:03.650Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian r2 real world driving efficiency",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uwozwv/rivian_r2_real_world_driving_efficiency/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T23:29:03.650Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Reserved R2 Sunday order timeline received Tuesday",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwo0ut/reserved_r2_sunday_order_timeline_received_tuesday/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T22:50:06.601Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Whose vehicle is this?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwnibb/whose_vehicle_is_this/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T22:29:40.430Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Here we go again.. special treatment for influencers just like the R1T launch.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uwngk9/here_we_go_again_special_treatment_for/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-14T22:27:45.353Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklQLVlaZGVGU1hQby1NVGZXRmZIR0p2aXcwSE8tNktxS3R5Y0ZJWlFYRlpqOGI4V2taX2VxWVhsblVjMDB6aWFaLTljRzZSRTRRNmdLTGpPcHJ0SW5mak5Kem9QUEUwZW9iOFAzUlFHa2FEUlVFaTI3U09DRmpIQlZPREZ1R19IeDh3V0VZckNYS1dXVmNHR2txMGlkNW9DRHc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 23:25:00 GMT",
+        "score": 0,
+        "snippet": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success - Yahoo Finance",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Why Rivian Stock Volatility Won\u2019t Be Tamed by Earnings - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jZXU5Wlc5eHdDOG9JaU9CandKTHIyWXdEbDNyZDZtcDluYkxEamtVYzR4dDA4NkFGQ3JpLWRwOTdKRGpXN1lIVHdNZHFNVkdLTThIdjdkUERmbThqNVdST2JhTVJ1eDh1bHBCZEpuRFJnVmpZVWZGbw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 20:18:00 GMT",
+        "score": 0,
+        "snippet": "Why Rivian Stock Volatility Won\u2019t Be Tamed by Earnings - Barron's",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTjdndENRbnZfcS1Rb1ZFN3pnRWc2Sko0dFBNX1JrTnd2dERrWjdTWGZBc2RjR2cxOEluamxQMEhvbUlONHBXVm1oT0F3b0xPUzFkTlVGTzY2dDBoM1VvTnBrVVVhY0MxSlpfa0FSR3ZYQnhlMWVLcGM4YmVIczY4c3JCbWlmTkE3dmpYTEhxRXplTmlqWnprRG9SdmlfSmYzNUxhbVEyMDNWSHA1NEFqbWFRdktSejdZbEFoY0tuWXVUdGgwODVHOEVFUHB2ZHhpeFJpaEZKWVh6cEc5UDJaNVI3dXhaNFdtdEZfQ0pBZmtWRXM?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 23:25:11 GMT",
+        "score": 0,
+        "snippet": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success - The Globe and Mail",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjdFRzFmc1RuM0xPc29ZLTJrb0FOeHRXY3BJMVlXSHFCYWNIWEdETXdrUUEzTnB1U0lxN1FiQkZqMlltYWFQckNfRU5xUG9ua1NVeWF5ZFNiZE9YbUU5elA2NnFXdDJWaGRXYUtrMFpGOUpjcXU3dURHQ2tsMVdnVmVvLUMxaXRGb1YwTDZxX0tvRkJqbUtsU0ZrSXEtOHZGQ2VBX2UxQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 21:50:03 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN Stock Climbs Despite Lucid Bankruptcy Rumors As Morgan Stanley Lifts Price Target - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSENvbjFMN1Myck8wVDBMeG5KYTBPTDVMZ0RaVzg4c3ctM2MyVWdmNllIRnJDb1ByNndvLXF6SEdYSENMN0dlWFJWUnV3OFF1Q29RamowYzE2V2Vzc1kwNXE0MTA2R2dOdGVrelBXSS0xNWhmM1MwYTFLZlpSV1lOVnhPVml2Mlg5YzVaWlJZTnhIZi1VVVh6VFBPV3k?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 14 Jul 2026 22:39:48 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Climbs Despite Lucid Bankruptcy Rumors As Morgan Stanley Lifts Price Target - Yahoo Finance",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): What are you going to say to RJ?\n\nAny @Rivian enthusiast hopes to talk to @RJSca",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mqnmb5h7s426",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T01:51:03.373Z",
+        "score": 0,
+        "snippet": "What are you going to say to RJ?\n\nAny @Rivian enthusiast hopes to talk to @RJScaringe.  He has extremely limited time so there's pressure to make the most of the interaction whether it's being memorab",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tamerlaneblog.bsky.social (Bluesky): You better hope I don\u2019t get a Rivian next. I\u2019m cursed!",
+        "url": "https://bsky.app/profile/did:plc:dcvjfscy47ifcgekky4ysvgy/post/3mqnkldhu2k2q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T01:20:56.174Z",
+        "score": 1,
+        "snippet": "You better hope I don\u2019t get a Rivian next. I\u2019m cursed!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"RivianTrackr\"\nBy: Jose Castillo on Tuesday, July 14, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqnj2nywti24",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T00:53:42.567Z",
+        "score": 0,
+        "snippet": "Feed: \"RivianTrackr\"\nBy: Jose Castillo on Tuesday, July 14, 2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dutchbellbeaker.bsky.social (Bluesky): finance.yahoo.com/markets/stoc...",
+        "url": "https://bsky.app/profile/did:plc:qjx6rjadxt5gktrxdbzru2vv/post/3mqniwhgycs23",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T00:51:22.968Z",
+        "score": 0,
+        "snippet": "finance.yahoo.com/markets/stoc...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@garygastelu.bsky.social (Bluesky): Wow, Lucid took Rivian for a ride with it",
+        "url": "https://bsky.app/profile/did:plc:lb4pfhrxqwyzzhgeruzclbct/post/3mqnfp5jinc2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T23:53:39.074Z",
+        "score": 1,
+        "snippet": "Wow, Lucid took Rivian for a ride with it",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jaimev2.bsky.social (Bluesky): It\u2019s funny how Toyota kind of \u201cdisappeared\u201d the LandCruiser. \nI\u2019m still not sold",
+        "url": "https://bsky.app/profile/did:plc:ea2ncqk6tz57j26wwr2dvvsx/post/3mqnff745322e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T23:48:07.477Z",
+        "score": 1,
+        "snippet": "It\u2019s funny how Toyota kind of \u201cdisappeared\u201d the LandCruiser. \nI\u2019m still not sold on the new 4Runner or Rivian but there\u2019s a Tesla station 3 miles from work. I could make a Rivian happen.\n\nshare.google",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): I drove the 2026 Toyota 4Runner and 2027 Rivian R2 to see whether an old-school ",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mqnexbrykl24",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T23:40:14.064Z",
+        "score": 0,
+        "snippet": "I drove the 2026 Toyota 4Runner and 2027 Rivian R2 to see whether an old-school gas SUV or modern EV is the better adventure rig.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Software",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@uncrate.com.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:4ktczlepabucnfgulh3h67l5/post/3mqnju5ho7ht2",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T01:08:00.471Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): I thought there was a long waitlist for the Rivian R2.\n\nSeems like it\u2019s only 3-4",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mqncmjb5vk2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-14T22:58:26.873Z",
+        "score": 0,
+        "snippet": "I thought there was a long waitlist for the Rivian R2.\n\nSeems like it\u2019s only 3-4 month wait.\n\nwww.reddit.com/r/Rivian/s/h...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Amazon rivian van",
+        "url": "https://youtube.com/watch?v=vG-J1bOboMw",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T01:14:18Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u6295\u884c\u7ed9\u51fa 23 \u7f8e\u5143\u76ee\u6807\u4ef7\uff0cRivian \u5230\u5e95\u51ed\u4ec0\u4e48\uff1f",
+        "url": "https://youtube.com/watch?v=yXqPdC9Lars",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T01:13:07Z",
+        "score": 0,
+        "snippet": "Needham \u7ed9\u51fa23 \u7f8e\u5143\u7684\u76ee\u6807\u4ef7\uff0c\u4f60\u8ba4\u4e3a\u8fd9\u4e2a\u4f30\u503c\u662f\u201c\u753b\u997c\u201d\u8fd8\u662f\u201c\u4f4e\u4f30\u201d\uff1f\u5982\u679c\u4f60\u67091 \u4e07\u5200\uff0c\u73b0\u5728\u4f1a\u9009\u62e9\u68ad\u54c8\u8fd8\u662f\u89c2\u671b\uff1f\u8bc4\u8bba\u533a\u804a\u804a\u4f60\u7684 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Title:2026 Rivian R1T Review: America&#39;s Ultimate Electric Pickup Truck?",
+        "url": "https://youtube.com/watch?v=iuf7dajN7s4",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T01:11:30Z",
+        "score": 0,
+        "snippet": "Description: Discover everything you need to know about the 2026 Rivian R1T in this detailed review! We cover performance ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "thoughts on the rivian R2",
+        "url": "https://youtube.com/watch?v=J2ba6BwhZKk",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T00:15:35Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Gear Tunnel door is useful!",
+        "url": "https://youtube.com/watch?v=iwuQDAlSzO0",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T23:50:30Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Supercharging \u201cSplash and Dash\u201d Test ",
+        "url": "https://youtube.com/watch?v=u5i0Ii5vhbg",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T23:07:14Z",
+        "score": 0,
+        "snippet": "Just a quick test of a somewhat typical charging stop for me on a road trip where I probably drank too much water. 2027 Rivian R2 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Offgrid trailer giving 1000 mile range to a Rivian",
+        "url": "https://youtube.com/watch?v=wgdQDOYdkaI",
+        "source": "youtube",
+        "publishedAt": "2026-07-14T22:39:04Z",
+        "score": 0,
+        "snippet": "Took us about six months to figure out how to mount the generator into a front box and then design a front box that looked like the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Overall height cheat sheet",
+        "url": "https://www.rivianforums.com/forum/threads/overall-height-cheat-sheet.11610/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Overall height cheat sheet",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      }
+    ]
   }
 ]
