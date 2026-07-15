@@ -63806,5 +63806,253 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-15T23:52:38.691115Z",
+    "timestamp": "2026-07-15T23:52:38.691115Z",
+    "sentiment": {
+      "positive": 14,
+      "neutral": 71,
+      "negative": 14
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 4,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "The first R2 software update!",
+    "fullReport": "\ud83c\udfac *GameFilm \u2014 Rivian Intel*\n_Wednesday, July 15, 2026 \u2014 11:52 PM PT \u2014 14 signals \u00b7 2 categories_\n\n*\ud83c\udfaf SITREP*\n\u2022 *Competitor:* Nvidia Corp. will supply its artificial intelligence hardware and software to Toyota Motor Corp. to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long p\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* Nvidia Corp. will supply its artificial intelligence hardware and software to Toyota Motor Corp. to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long p\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\u2694\ufe0f FIELD INTELLIGENCE* (2)\n\u2022 *Competitive Threats:* Nvidia Corp. will supply its artificial intelligence hardware and software to Toyota Motor Corp. to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long p\n  https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories\n\u2022 *Competitive Threats:* GM did this once already with the EV-1. Everyone loved it, but GM realized that the lack of maintenance would lower their profits. Switch to an OEM that believes in the electric future (Tesla, Lucid\n  https://bsky.app/profile/did:plc:6fw4bjxmkvwig2gh47youd4u/post/3mqptgtpgzc2p\n\n*\ud83d\ude97 RIVIAN POSITION*\n\n*\ud83e\udd16 Autonomy (0)* \u2022 No signals\n*\ud83e\uddea Demo & Test Drives (0)* \u2022 No signals\n*\ud83d\ude97 Vehicles (8)* \u2022 @rivianwave.com (Bluesky):\n  https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mqpum6c5wm2x\n*\ud83d\udcb0 Business (0)* \u2022 No signals\n*\ud83d\udcf1 Software (4)* \u2022 The first R2 software update!\n  https://www.reddit.com/r/Rivian/comments/1uxjvwr/the_first_r2_software_update/\n*\ud83c\udf10 Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udccc PM WATCH LIST*\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "The first R2 software update!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uxjvwr/the_first_r2_software_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-15T22:02:26.817Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 15 Jul 2026 23:00:00 GMT",
+        "score": 0,
+        "snippet": "Nvidia Corp. will supply its artificial intelligence hardware and software to Toyota Motor Corp. to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long p",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mqpum6c5wm2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T23:25:40.667Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@moneytalksnews.com (Bluesky): California will hand new EV buyers up to $3,500 off starting this summer -- and ",
+        "url": "https://bsky.app/profile/did:plc:2chxsee2nn2wmb4r2mnwcl63/post/3mqpu6isufp2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T23:18:02.864Z",
+        "score": 0,
+        "snippet": "California will hand new EV buyers up to $3,500 off starting this summer -- and buyers of Rivian or Lucid models face no price cap at all.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@eddeppman.bsky.social (Bluesky): GM did this once already with the EV-1. Everyone loved it, but GM realized that ",
+        "url": "https://bsky.app/profile/did:plc:6fw4bjxmkvwig2gh47youd4u/post/3mqptgtpgzc2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T23:04:48.462Z",
+        "score": 0,
+        "snippet": "GM did this once already with the EV-1. Everyone loved it, but GM realized that the lack of maintenance would lower their profits.  Switch to an OEM that believes in the electric future (Tesla, Lucid ",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@daltonmnm.bsky.social (Bluesky): Aside from Rivian & Lucid who the hell is against this stuff?",
+        "url": "https://bsky.app/profile/did:plc:qpyr7ewurqkdrmee6nflzssj/post/3mqprka267s25",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T22:30:54.473Z",
+        "score": 0,
+        "snippet": "Aside from Rivian & Lucid who the hell is against this stuff?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Finally installed today. They look and feel great on the Rivian R1S.",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mqpqopmbrc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-07-15T22:15:36.771Z",
+        "score": 4,
+        "snippet": "Finally installed today. They look and feel great on the Rivian R1S.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2024 Rivian R1S Adventure Dual Motor Large Pack FL Tamarac, Coral Springs, Coconut Creek, Parkl...",
+        "url": "https://youtube.com/watch?v=aeJg1rBBd2Y",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T23:29:52Z",
+        "score": 0,
+        "snippet": "Pre-Owned 2024 Rivian R1S Adventure Dual Motor Large Pack available at Sawgrass Infiniti located in 5801 Madison Ave, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Universal Hands Free Drive!",
+        "url": "https://youtube.com/watch?v=d8b42uTrrqY",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T23:13:40Z",
+        "score": 0,
+        "snippet": "I drive my 2027 Rivian R2 (mostly) using Universal Hands Free. A mix of city driving, back roads, and divided highways is used to ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Mostrando o Novo Pacote Rivian R1S #shorts",
+        "url": "https://youtube.com/watch?v=NTfCtqT_xKU",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T23:00:34Z",
+        "score": 0,
+        "snippet": "Mostrando o Novo Pacote Rivian R1S.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Lifestyle Broll June 2026",
+        "url": "https://youtube.com/watch?v=hLMEf7KLk_4",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T23:00:57Z",
+        "score": 0,
+        "snippet": "Silent running footage of the new Rivian R2 five-seat SUV, provided by Rivian.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R2 Off-Road Running Footage",
+        "url": "https://youtube.com/watch?v=R1Cftaj6dFs",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T22:53:30Z",
+        "score": 0,
+        "snippet": "Brief video of the new Rivian R2 5-seat SUV on an off-road course. Video provided by Rivian.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "The one thing I use for my dog in my Rivian R2....",
+        "url": "https://youtube.com/watch?v=_8aAzSoXkBQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T22:25:58Z",
+        "score": 0,
+        "snippet": "This is the dog basket that I'm using for my dog. My dog is a 22-24lb Boston terrier named SHANE. We have two different styles of ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Bo-Katan\u2019s FIRST software update!",
+        "url": "https://youtube.com/watch?v=rubIcJt-J4A",
+        "source": "youtube",
+        "publishedAt": "2026-07-15T21:53:36Z",
+        "score": 0,
+        "snippet": "The R2 is officially PERFECT now. This software update is FULLY LOADED! And has made a remarkable difference in the ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      }
+    ]
   }
 ]
