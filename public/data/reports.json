@@ -64132,5 +64132,175 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-16T02:01:29.300775Z",
+    "timestamp": "2026-07-16T02:01:29.300775Z",
+    "sentiment": {
+      "positive": 25,
+      "neutral": 62,
+      "negative": 12
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "Saw a Caltrans Rivian R1S today",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, July 16, 2026 \u2014 2:01 AM PT \u2014 8 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* \u2014\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* \u2014\n  https://www.reddit.com/r/SelfDrivingCars/comments/1uxp8uc/ntsb_prelim_on_tesla_that_crashed_in_texas/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (5)* \u2022 Saw a Caltrans Rivian R1S today\n  https://www.reddit.com/r/Rivian/comments/1uxokl7/saw_a_caltrans_rivian_r1s_today/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Saw a Caltrans Rivian R1S today",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uxokl7/saw_a_caltrans_rivian_r1s_today/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T01:17:58.516Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New Continental TerrainContact AT tires = loss in efficiency?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uxoht3/new_continental_terraincontact_at_tires_loss_in/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T01:14:28.717Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Bluetooth \"Currently Playing\" info not showing",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uxndir/bluetooth_currently_playing_info_not_showing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T00:24:14.267Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "NTSB prelim on Tesla that crashed in Texas",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1uxp8uc/ntsb_prelim_on_tesla_that_crashed_in_texas/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-07-16T01:48:49.462Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"RivianTrackr\"\nBy: Jose Castillo on Wednesday, July 15, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqpz6j4e2d2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T00:47:31.370Z",
+        "score": 0,
+        "snippet": "Feed: \"RivianTrackr\"\nBy: Jose Castillo on Wednesday, July 15, 2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqpz63pu222n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T00:47:16.366Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): When in Rome...\n\nTake pictures of Sad @Mikekantorski.  \n\nCaught a few looky loos",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mqpyr4m7yj2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T00:40:03.173Z",
+        "score": 1,
+        "snippet": "When in Rome...\n\nTake pictures of Sad @Mikekantorski.  \n\nCaught a few looky loos with @Rivian Gear Guard recording system.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Just Reinvented The Steering Wheel. Important Feature Explained",
+        "url": "https://youtube.com/watch?v=4I0TxPKxNFY",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T00:30:23Z",
+        "score": 0,
+        "snippet": "Rivian R2 Steering Wheel Just Changed Everything! | Haptic Halo Scroll Wheels Explained The Rivian R2 isn't just another ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
