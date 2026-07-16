@@ -65179,5 +65179,399 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-16T22:02:21.214157Z",
+    "timestamp": "2026-07-16T22:02:21.214157Z",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 87,
+      "negative": 8
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Service Experience",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "OEM sunshade (R1T)",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, July 16, 2026 \u2014 10:02 PM PT \u2014 24 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* chopped up unc in the fancy Rivian waiting for his curbside pickup microbrewery munchies while blasting 1995 Goldie we see and salute you who were there when the Old Ones first dropped the Sacred Roll\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (19)* \u2022 OEM sunshade (R1T)\n  https://www.reddit.com/r/Rivian/comments/1uy59dt/oem_sunshade_r1t/\n*Business (0)* \u2022 No signals\n*Software (3)* \u2022 Rivian\u2019s First Major R2 OTA Update Adds Launch Mode, Pet Comfort, Gear Guard and More - driveteslacanada.ca\n  https://news.google.com/rss/articles/CBMitwFBVV95cUxOODh3OTltYU5OWXVCNXVlNlpKa0t0NlN0WTFwN3pzaF9scFNrMVE1Tks2WkFyS3FtNEJ3WUQ0TUFtZm03cnJvanJ3V0hLdVVjcVAyN0xSNXdfa0VObFNsc2o0SFVRZWlJWUR1MHJiZXdmenU4Ml9EVFowdV9MTGRPQVJIVlFFbzdGVDI4aVNVUEdvWi0zdnI0T3g4Zm9nTFlfeHFkTFhfOHlmRVZ1NGxpR01SYWRVRDA?oc=5\n*Community (1)* \u2022 Feed: \"Electrek\" By: Fred Lambert on Thursday, July 16, 2026\n  https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqrwpwtswy2a\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\u2022 Service Experience\n\u2022 Software\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "OEM sunshade (R1T)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy59dt/oem_sunshade_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T14:57:35.706Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Reservation Made!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uyaayr/reservation_made/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-16T18:00:12.250Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "$Rivian Automotive (RIVN.US)$ - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczFmMmhxMHhrdlg4eWlaXzlpaEtMd0pRWmFwZ0VRYXd1alFFaGFXOWx5VFdfNE5FSG1zYVhyOWtRV3lJUEtTMjdZaHhSQ042U1J5Q3F5WkNLYnhqZWcxUG44NkpGY3lINE5ZaHFNeDBmcElxQ0I4X09BSDVJRzJGRktLTDJDZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 16 Jul 2026 19:29:37 GMT",
+        "score": 0,
+        "snippet": "$Rivian Automotive (RIVN.US)$ - Moomoo",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Shares Down 4% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkR4bFRsSHc4NDVnMXhSVnZ0TmZxNHQ4dHdmajVPN24yQXRCbDB2d3hPdkdZY2JhRndBcnN5Z3dfOE9DRVpxa1JDY2RQcDh0NEtjNDdBZlFqNENYSW9TX1p1T0FwVGFxTHZhMS1lM3otZ2h6aGFiQ0k0ZTRFeG5HODRlN3dESHZoU1AtRmtBV2JFQUNNeGljN29jUUY4MWt4bVZnbk81RnF1Q3pVTmc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 16 Jul 2026 21:47:40 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Shares Down 4% - Time to Sell? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian price climbs in volatile session - Forecast today - 16-07-2026 - Economies.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS3pjSlk1ZlNLS2hZRDZ2NUY3SWZoRjN5T3Q3Y1FSemwydVk5Y0hIQjBOSHMxeFFNY2FjaUR3WnUwdHJvUXFPOEtCbGhjTHV4TnItd3pTaUQtVGRscTZ6U1E1Rjhfem95MTZocDBzdGptYTFGM1JRMzJsLXp0OThXNG4wTVduN1d3RzJXVmR1Tko1bHV2aEhjeXE4TVRaQzJ4R3NBdDN4R3FabjBpNDdUQ1N4OG94ZlVNUUFIalExMDRDQ1RWOG9RaVR5dV8?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 16 Jul 2026 12:24:00 GMT",
+        "score": 0,
+        "snippet": "Rivian price climbs in volatile session - Forecast today - 16-07-2026 - Economies.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s First Major R2 OTA Update Adds Launch Mode, Pet Comfort, Gear Guard and More - driveteslacanada.ca",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODh3OTltYU5OWXVCNXVlNlpKa0t0NlN0WTFwN3pzaF9scFNrMVE1Tks2WkFyS3FtNEJ3WUQ0TUFtZm03cnJvanJ3V0hLdVVjcVAyN0xSNXdfa0VObFNsc2o0SFVRZWlJWUR1MHJiZXdmenU4Ml9EVFowdV9MTGRPQVJIVlFFbzdGVDI4aVNVUEdvWi0zdnI0T3g4Zm9nTFlfeHFkTFhfOHlmRVZ1NGxpR01SYWRVRDA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 16 Jul 2026 15:13:04 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s First Major R2 OTA Update Adds Launch Mode, Pet Comfort, Gear Guard and More - driveteslacanada.ca",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Software",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Patrol EV Builds Atlanta Fire Rescue an All-Electric Rivian R1T Response Vehicle",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mqs6z4rjns2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T21:37:15.469Z",
+        "score": 8,
+        "snippet": "Patrol EV Builds Atlanta Fire Rescue an All-Electric Rivian R1T Response Vehicle\n\nriviantrackr.com/news/patrol-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@princetonyimby.bsky.social (Bluesky): Rivian very expensive",
+        "url": "https://bsky.app/profile/did:plc:d456yoxdxn5oh5hlp5r5mfix/post/3mqs4n5zmp22r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T20:54:43.368Z",
+        "score": 0,
+        "snippet": "Rivian very expensive",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@acreed.bsky.social (Bluesky): Every review I read gave the Prologue a solid B-. Much better to spend the money",
+        "url": "https://bsky.app/profile/did:plc:4rarscim3ccpn3ukz6y5jtd7/post/3mqs4lmxtcc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T20:53:58.972Z",
+        "score": 0,
+        "snippet": "Every review I read gave the Prologue a solid B-. Much better to spend the money on the Hyundai Ioniq series which are very well reviewed. Personally I\u2019m looking forward to the Rivian R3 when it comes",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@viriditax.bsky.social (Bluesky): chopped up unc in the fancy Rivian waiting for his curbside pickup microbrewery ",
+        "url": "https://bsky.app/profile/did:plc:6tgrg4woq2zxv2lentcpqmka/post/3mqs2cckqnc2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T20:12:51.968Z",
+        "score": 1,
+        "snippet": "chopped up unc in the fancy Rivian waiting for his curbside pickup microbrewery munchies while blasting 1995 Goldie we see and salute you who were there when the Old Ones first dropped the Sacred Roll",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newsarea.bsky.social (Bluesky): Rivian Automotive (RIVN) \u2013 Analysts\u2019 Weekly Ratings\u00a0Updates\n\nRivian Automotive (",
+        "url": "https://bsky.app/profile/did:plc:kqj4vuyjvmtnptvvdt2xijtk/post/3mqrziy3l6v24",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T19:58:42.272Z",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) \u2013 Analysts\u2019 Weekly Ratings\u00a0Updates\n\nRivian Automotive (NASDAQ: RIVN) has recently received a number of price target changes and ratings updates: 7/14/2026 \u2013 Rivian Automotive ",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"Electrek\"\nBy: Fred Lambert on Thursday, July 16, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqrwpwtswy2a",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T19:08:54.969Z",
+        "score": 0,
+        "snippet": "Feed: \"Electrek\"\nBy: Fred Lambert on Thursday, July 16, 2026",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): \ud83d\udea6 Attention New Rivian Owners \ud83d\udea6 \n\nMake sure to sign up for Rivian Roamer to get ",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mqrwae5qyv2g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T19:00:11.664Z",
+        "score": 0,
+        "snippet": "\ud83d\udea6 Attention New Rivian Owners \ud83d\udea6 \n\nMake sure to sign up for Rivian Roamer to get insights into your vehicle.  The free version is excellent and you can subscribe for extra features/capabilities.  Link ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Really user engaging article with good info. Go #Rivian!",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqruq2psbc2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T18:33:10.379Z",
+        "score": 0,
+        "snippet": "Really user engaging article with good info. Go #Rivian!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@realimgroot.bsky.social (Bluesky): Because I can\u2019t afford one - when I had the chance to rent a Rivian last week - ",
+        "url": "https://bsky.app/profile/did:plc:fgwuipl2ygjoy2ptdli7fwgs/post/3mqruoepvcc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T18:32:14.965Z",
+        "score": 4,
+        "snippet": "Because I can\u2019t afford one - when I had the chance to rent a Rivian last week - I jumped at it. \n\nI don\u2019t have enough room to say how impressive that R1S is. Over 400m range. Quiet. Powerful. Intellig",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian's new over-the-air software update fixes bugs and brings features that we",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mqrtz4xzer2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T18:20:21.964Z",
+        "score": 0,
+        "snippet": "Rivian's new over-the-air software update fixes bugs and brings features that weren't available at launch.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Should I get a Rivian R2?! #Rivian #R2",
+        "url": "https://youtube.com/watch?v=sOyQ387L2dw",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T21:45:09Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 2027: Primeras impresiones del SUV el\u00e9ctrico m\u00e1s importante para la marca",
+        "url": "https://youtube.com/watch?v=ZgdGg77w0pw",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T21:00:05Z",
+        "score": 0,
+        "snippet": "https://3wliners.com/?ref=bbrlwfkx&utm_source=ref%26utm_media Code:VAZQUEZ #3Wfloormats #PrimeDay2026 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Reason Rivian R2 Is Not for Me: I was looking forward to buying one #carreview #rivianr2 #tesla",
+        "url": "https://youtube.com/watch?v=b6TYaPuc7i4",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T20:53:20Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "FOR\u00c7A G DA RIVIAN IMPRESSIONA E \u00c9 COMPARADA COM TESLA #acf #fueltech #igor3k",
+        "url": "https://youtube.com/watch?v=7_wzkPF62r0",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T20:45:28Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Demo of the Rivian R2 Road Cam!",
+        "url": "https://youtube.com/watch?v=3Eshq0BV9rM",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T20:44:10Z",
+        "score": 0,
+        "snippet": "Quick demo of the new os2.0 road cam in the Rivian R2.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T \u2014 \u043a\u043e\u0440\u043e\u043b\u044c \u0442\u0440\u0430\u0441\u0438? \u041c\u043e\u0457 \u0432\u0440\u0430\u0436\u0435\u043d\u043d\u044f \u043f\u0456\u0441\u043b\u044f 1500 \u043a\u043c. \u0406\u043c\u043f\u043e\u0440\u0442\u0435\u0440 faraday_auto",
+        "url": "https://youtube.com/watch?v=cUr40f_8UjM",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T18:42:25Z",
+        "score": 0,
+        "snippet": "\u041f\u0456\u0441\u043b\u044f 1500 \u043a\u043c \u0437\u0430 \u043a\u0435\u0440\u043c\u043e\u043c Rivian R1T \u044f \u0437\u0440\u043e\u0437\u0443\u043c\u0456\u0432, \u0447\u043e\u043c\u0443 \u043d\u0430\u0432\u043a\u043e\u043b\u043e \u0446\u044c\u043e\u0433\u043e \u0431\u0440\u0435\u043d\u0434\u0443 \u0441\u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043b\u0430\u0441\u044f \u0442\u0430\u043a\u0430 \u0432\u0456\u0434\u0434\u0430\u043d\u0430 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0430 \u0432\u043b\u0430\u0441\u043d\u0438\u043a\u0456\u0432.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 First Look My First Rivian Dealership Experience Nashville",
+        "url": "https://youtube.com/watch?v=klZAlc8KH_A",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T18:34:00Z",
+        "score": 0,
+        "snippet": "Tesla Model S / X Plaid Air Ride Stance SLAM Tesla Service Menu Car Show SLAMMED Stance #Rivian #R2 #Nahsville Tesla ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Service Experience",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Rivian R1T \u0441\u0438\u043b\u043e\u0432\u0430 \u043a\u0440\u0438\u0448\u043a\u0430 \u043a\u0443\u0437\u043e\u0432\u0430 \u043f\u0456\u043a\u0430\u043f\u0430,\u0432\u0438\u0440\u043e\u0431\u043d\u0438\u0446\u0442\u0432\u043e TUNING BVV.Rivian RT power body cover-TUNING BVV.",
+        "url": "https://youtube.com/watch?v=0VVm8n6rRzI",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T18:15:16Z",
+        "score": 0,
+        "snippet": "Rivian R1T \u0441\u0438\u043b\u043e\u0432\u0430 \u043a\u0440\u0438\u0448\u043a\u0430 \u043a\u0443\u0437\u043e\u0432\u0430 \u043f\u0456\u043a\u0430\u043f\u0430, \u0432\u0438\u0440\u043e\u0431\u043d\u0438\u0446\u0442\u0432\u043e TUNING BVV. Rivian RT power body cover, production TUNING BVV.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
