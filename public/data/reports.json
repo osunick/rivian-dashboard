@@ -64664,5 +64664,520 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-16T18:02:24.862600Z",
+    "timestamp": "2026-07-16T18:02:24.862600Z",
+    "sentiment": {
+      "positive": 12,
+      "neutral": 81,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "nytimes": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "HVAC consumption",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, July 16, 2026 \u2014 6:02 PM PT \u2014 33 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* Tesla Driver Hit Accelerator '100%' Before Fatal Texas Crash - The Tech Buzz\n\u2022 *Test drives:* A new Rivian Space in Boulder, CO is coming soon and located at the Twenty Ninth Street mall. Be on the lookout for demo drives and more coming available in the near future. Address: 1710 29th Stree\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Tesla Driver Hit Accelerator '100%' Before Fatal Texas Crash - The Tech Buzz\n  https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2tVUGV1dS1HZGhXOHJlejZUMkJLaXVHeEMwd3hxMDVMWGE2ZUEtRHBlNFFzdnlYWHNmNXBydkk3S3B4bDRsMk5tci1OUWJ6V0k2azdsTU9tc194eGp2am4yRUROZlREb0hOaUxrVklycEdLQlFrWkgyd1I1WW0wUmdHZm90SHMyR3dOUEdQTEdMT0Jk?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 A new Rivian Space in Boulder, CO is coming soon and located at the Twenty Ninth Street mall. Be on the lookout for demo drives and more coming available in the near future. Address: 1710 29th Stree\n  https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mqrlpkvsof2w\n*Vehicles (17)* \u2022 Are we seeing a Lucid Rivian swap\u2026.c\u2019mon man!\n  https://www.reddit.com/r/Rivian/comments/1uy90j0/are_we_seeing_a_lucid_rivian_swapcmon_man/\n*Business (2)* \u2022 The Hottest Stock Markets Lead to the Biggest Losses\n  https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html?searchResultPosition=2\n*Software (3)* \u2022 Totaled?\n  https://www.reddit.com/r/Rivian/comments/1uy6nls/totaled/\n*Community (3)* \u2022 Lucid \u6c7d\u8f66\u56e0\u7834\u4ea7\u4f20\u95fb\u80a1\u4ef7\u66b4\u8dcc 57%\uff0c\u5728\u5f3a\u786c\u5426\u8ba4\u524d\u5f15\u53d1\u7194\u65ad \u52a0\u5dde\u7535\u52a8\u6c7d\u8f66\u5236\u9020\u5546 Lucid Group Inc. \u7684\u80a1\u4ef7\u5728\u5468\u4e8c\uff082026\u5e747\u670814\u65e5\uff09\u76d8\u4e2d\u4ea4\u6613\u4e2d\u4e0b\u8dcc\u4e86 57%\uff0c\u6b64\u524d\u4e00\u5bb6\u5728\u7ebf\u884c\u4e1a\u51fa\u7248\u7269\u62a5\u9053\u79f0\u8be5\u516c\u53f8\u6b63\u5728\u8003\u8651\u7533\u8bf7\u7b2c 11 \u7ae0\u7834\u4ea7\u4ee5\u53ca\u5176\u4ed6\u6218\u7565\u9009\u62e9\u3002\u8be5\u62a5\u9053\u8fd8\u58f0\u79f0 Lucid \u5df2\u8058\u8bf7\u91cd\u7ec4\u516c\u53f8 AlixPartners\uff0c\u5e76\u53ef\u80fd\u6682\u505c\u5176 Lucid Air \u8f7f\u8f66\u7684\u751f\u4ea7\u3002\u6b64\u6b21\u5927\u5e45\u629b\u552e\u5f15\u53d1\u4e86\u591a\u6b21\n  https://bsky.app/profile/did:plc:5pd7ymu6zw4qz7aiz5bnehjb/post/3mqrru3mmzw23\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "HVAC consumption",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy90kb/hvac_consumption/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T17:13:48.030Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Are we seeing a Lucid Rivian swap\u2026.c\u2019mon man!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy90j0/are_we_seeing_a_lucid_rivian_swapcmon_man/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T17:13:28.479Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Are we seeing a Lucid Rivian swap\u2026.c\u2019mon man!",
+        "url": "https://www.reddit.com/r/RIVNstock/comments/1uy9071/are_we_seeing_a_lucid_rivian_swapcmon_man/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T17:13:28.479Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Service loaner question",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy6xpn/service_loaner_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T15:59:13.165Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian self driving",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy6rl1/rivian_self_driving/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T15:52:59.628Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Totaled?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy6nls/totaled/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T15:49:01.618Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "First-time towing question for a Gen 2 R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy6b3n/firsttime_towing_question_for_a_gen_2_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T15:36:21.492Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1T remove passenger seat and replace w/ bed platform?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uy5dnz/r1t_remove_passenger_seat_and_replace_w_bed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T15:01:42.619Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "What to know before test drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uy8uwf/what_to_know_before_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-16T17:08:27.003Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Mini to Maestro",
+        "url": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "The Hottest Stock Markets Lead to the Biggest Losses",
+        "url": "https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html?searchResultPosition=2",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Time-Traveling Along Route 66, in Cars of the Past, Present and Future",
+        "url": "https://www.nytimes.com/2026/05/23/us/route-66-100-years-cars.html?searchResultPosition=4",
+        "source": "nytimes",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Dallas Fed President Logan calls for \u2018modestly\u2019 higher interest rates",
+        "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Why Rivian Stock Fell 12% in the First Half of 2026 - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVBTb1lLM2hjZktVTVNHcDdEZWNfUjU4RnNCNHluRTBlNXRtVnBQclZEazBsem1Cc1hpdDE5QjlLRnJMTE1RcWJjY2ZNUVhxVG02UGx1NDQ0QnlneEpEZUxTUHhzR1JYckFUckhNTU9wVFhBZFJha09TckliOXN6aHBrZjVOei1SUm5qcU45Ny1Ra05QUUYtbFhSalJ1RnNjbEdCZHNMVENhQU5NMm5PR18xS2xUYjhYVkdYWFNMMGZHSGRGZi10d3VSdFRKRV9j?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 16 Jul 2026 14:37:28 GMT",
+        "score": 0,
+        "snippet": "Why Rivian Stock Fell 12% in the First Half of 2026 - The Globe and Mail",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Tesla Driver Hit Accelerator '100%' Before Fatal Texas Crash - The Tech Buzz",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2tVUGV1dS1HZGhXOHJlejZUMkJLaXVHeEMwd3hxMDVMWGE2ZUEtRHBlNFFzdnlYWHNmNXBydkk3S3B4bDRsMk5tci1OUWJ6V0k2azdsTU9tc194eGp2am4yRUROZlREb0hOaUxrVklycEdLQlFrWkgyd1I1WW0wUmdHZm90SHMyR3dOUEdQTEdMT0Jk?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Thu, 16 Jul 2026 16:35:00 GMT",
+        "score": 0,
+        "snippet": "Tesla Driver Hit Accelerator '100%' Before Fatal Texas Crash - The Tech Buzz",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@jqjousabusinessch.bsky.social (Bluesky): Lucid \u6c7d\u8f66\u56e0\u7834\u4ea7\u4f20\u95fb\u80a1\u4ef7\u66b4\u8dcc 57%\uff0c\u5728\u5f3a\u786c\u5426\u8ba4\u524d\u5f15\u53d1\u7194\u65ad\n\n\u52a0\u5dde\u7535\u52a8\u6c7d\u8f66\u5236\u9020\u5546 Lucid Group Inc. \u7684\u80a1\u4ef7\u5728\u5468\u4e8c\uff082026\u5e747\u670814\u65e5\uff09\u76d8",
+        "url": "https://bsky.app/profile/did:plc:5pd7ymu6zw4qz7aiz5bnehjb/post/3mqrru3mmzw23",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T17:41:45.371Z",
+        "score": 0,
+        "snippet": "Lucid \u6c7d\u8f66\u56e0\u7834\u4ea7\u4f20\u95fb\u80a1\u4ef7\u66b4\u8dcc 57%\uff0c\u5728\u5f3a\u786c\u5426\u8ba4\u524d\u5f15\u53d1\u7194\u65ad\n\n\u52a0\u5dde\u7535\u52a8\u6c7d\u8f66\u5236\u9020\u5546 Lucid Group Inc. \u7684\u80a1\u4ef7\u5728\u5468\u4e8c\uff082026\u5e747\u670814\u65e5\uff09\u76d8\u4e2d\u4ea4\u6613\u4e2d\u4e0b\u8dcc\u4e86 57%\uff0c\u6b64\u524d\u4e00\u5bb6\u5728\u7ebf\u884c\u4e1a\u51fa\u7248\u7269\u62a5\u9053\u79f0\u8be5\u516c\u53f8\u6b63\u5728\u8003\u8651\u7533\u8bf7\u7b2c 11 \u7ae0\u7834\u4ea7\u4ee5\u53ca\u5176\u4ed6\u6218\u7565\u9009\u62e9\u3002\u8be5\u62a5\u9053\u8fd8\u58f0\u79f0 Lucid \u5df2\u8058\u8bf7\u91cd\u7ec4\u516c\u53f8 AlixPartners\uff0c\u5e76\u53ef\u80fd\u6682\u505c\u5176 Lucid Air \u8f7f\u8f66\u7684\u751f\u4ea7\u3002\u6b64\u6b21\u5927\u5e45\u629b\u552e\u5f15\u53d1\u4e86\u591a\u6b21",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@britlaw.bsky.social (Bluesky): Some of them are getting close though.  Rivian R1T is 11K and Chevy Silverado EV",
+        "url": "https://bsky.app/profile/did:plc:fwx62ilstd3drxtzxkhxz2oj/post/3mqrre2yl6k27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T17:32:46.767Z",
+        "score": 1,
+        "snippet": "Some of them are getting close though.  Rivian R1T is 11K and Chevy Silverado EV is 12.5k. www.kbb.com/best-cars/ma...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@call634-5789.bsky.social (Bluesky): We have 2 and the Bake shoppe has a Rivian truck. I'm never going back, but when",
+        "url": "https://bsky.app/profile/did:plc:vysdl4bhvlnjr4nciocx6dri/post/3mqrr6e4xa22o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T17:29:37.069Z",
+        "score": 0,
+        "snippet": "We have 2 and the Bake shoppe has a Rivian truck. I'm never going back, but when you talk to older ICE owners, it's like pulling teeth to explain what's so good about the EV experience. They just don'",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@drmikeregan.bsky.social (Bluesky): \u201cMeet the all-new 2027 Rivian R2, an SUV that is not only smaller and more affor",
+        "url": "https://bsky.app/profile/did:plc:4fbhw2tg662a6qt35f4iggg7/post/3mqrqo3vw5k2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T17:20:29.865Z",
+        "score": 0,
+        "snippet": "\u201cMeet the all-new 2027 Rivian R2, an SUV that is not only smaller and more affordable than the R1S, but also better in almost every way.\u201d\n\nwww.jdpower.com/cars/expert-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@manykarz.bsky.social (Bluesky): Worth waking up early for this\n\ud83d\udcf7 Pentax 17\n\ud83c\udf9e\ufe0f Portra 400\n#believeinfilm",
+        "url": "https://bsky.app/profile/did:plc:23uwe5ziojmyopka6jykoh6g/post/3mqrpl6jqv22n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T17:01:06.273Z",
+        "score": 7,
+        "snippet": "Worth waking up early for this\n\ud83d\udcf7 Pentax 17\n\ud83c\udf9e\ufe0f Portra 400\n#believeinfilm",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@drmikeregan.bsky.social (Bluesky): www.wsj.com/lifestyle/ca...",
+        "url": "https://bsky.app/profile/did:plc:4fbhw2tg662a6qt35f4iggg7/post/3mqrp6dxg4s2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T16:53:48.869Z",
+        "score": 0,
+        "snippet": "www.wsj.com/lifestyle/ca...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Such a massive instant hit of a game changing EV, hopefully Kia can ramp up prod",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mqrnsigfdc2g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T16:29:16.874Z",
+        "score": 3,
+        "snippet": "Such a massive instant hit of a game changing EV, hopefully Kia can ramp up production to meet the insane demand!\n\nRivian sold <22k vehicles through H1 2026 globally\nKia sold >24k PV5 \ud83d\ude05",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): I'm not sure what you're getting at.\n\nIn terms of total EVs sold in the U.S. thr",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mqrn7kg5l22g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T16:18:40.670Z",
+        "score": 0,
+        "snippet": "I'm not sure what you're getting at.\n\nIn terms of total EVs sold in the U.S. through H1 2026, Hyundai Motor Group built and sold more EVs in the U.S. than the total EV sales for these manufacturers:\n\n",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): A new Rivian Space in Boulder, CO is coming soon and located at the Twenty Ninth",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mqrlpkvsof2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T15:51:51.718Z",
+        "score": 1,
+        "snippet": "A new Rivian Space in Boulder, CO is coming soon and located at the Twenty Ninth Street mall.  Be on the lookout for demo drives and more coming available in the near future.\n\nAddress:\n1710 29th Stree",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): This, it\u2019s more Tesla, Lucid, Rivians inability to iterate and update their plat",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mqrljbay2k2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T15:48:19.071Z",
+        "score": 2,
+        "snippet": "This, it\u2019s more Tesla, Lucid, Rivians inability to iterate and update their platforms and consistently launch great affordable globally competitive models is what\u2019s dooming lucid and Rivian especially",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian RT power body cover, production TUNING BVV. Rivian R1T \u0441\u0438\u043b\u043e\u0432\u0430 \u043a\u0440\u0438\u0448\u043a\u0430 \u043a\u0443\u0437\u043e\u0432\u0430 - TUNING BVV.",
+        "url": "https://youtube.com/watch?v=-hn3TZmE_3o",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T16:59:24Z",
+        "score": 0,
+        "snippet": "Rivian RT power body cover, production TUNING BVV. Rivian R1T \u0441\u0438\u043b\u043e\u0432\u0430 \u043a\u0440\u0438\u0448\u043a\u0430 \u043a\u0443\u0437\u043e\u0432\u0430 \u043f\u0456\u043a\u0430\u043f\u0430, \u0432\u0438\u0440\u043e\u0431\u043d\u0438\u0446\u0442\u0432\u043e TUNING BVV.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My Rivian&#39;s Glass Roof Hit 132\u00b0. So I Tested This.",
+        "url": "https://youtube.com/watch?v=tXTqxDNP3_c",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T17:00:07Z",
+        "score": 0,
+        "snippet": "It was 111\u00b0F outside. The glass roof of my Rivian R1S was 132\u00b0F. So I put a thermal camera on it and tested whether an EVBASE ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Crazy Bear   #gaming @Short #rivian #witch @Subhra_Kanti #hunting #witcher #firsttimeplaying",
+        "url": "https://youtube.com/watch?v=XgyfHtQCCB8",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T16:57:41Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Abandoned Rivian Aerial Restoration | Drone Magic \ud83d\udd25 #RivianR1T #EVTruck #viralshorts",
+        "url": "https://youtube.com/watch?v=mmtQJAZGQXI",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T16:03:37Z",
+        "score": 0,
+        "snippet": "Abandoned Rivian Aerial Restoration | Drone Magic #RivianR1T #EVTruck #viralshorts.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Bigger Lexus ES Replaces Flagship LS; How Rivian is Reducing Its Complexity - Autoline Daily 4335",
+        "url": "https://youtube.com/watch?v=SrijfSMu008",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T16:02:26Z",
+        "score": 0,
+        "snippet": "Autoline reports breaking global car news, with great insight and analysis. Also, top auto executive interviews. We cover electric ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "VW-Technik entsteht in Kalifornien \u2013 was bleibt in Deutschland?",
+        "url": "https://youtube.com/watch?v=jnXy13BpzLw",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T16:00:38Z",
+        "score": 0,
+        "snippet": "Volkswagen entwickelt gemeinsam mit Rivian einen Kernbereich der n\u00e4chsten Fahrzeuggeneration in Kalifornien. VW schickt ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN R1T LAUNCH CONTROL",
+        "url": "https://youtube.com/watch?v=tD_vR13m7i0",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T15:52:47Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This is how the Rivian R2 looks square and smooth at the same time #rivian #rivianr2 #recharge",
+        "url": "https://youtube.com/watch?v=NAPXCvp_-FM",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T15:51:55Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
