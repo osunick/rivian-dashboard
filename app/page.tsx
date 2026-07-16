@@ -534,7 +534,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
     { label: 'Signals', value: totalSignals, items: scopeItems, drillTitle: 'All signals', drillLabel: 'Signal Drilldown', drillDescription: 'Every deduped signal in the current scope, newest first.', footerSuffix: 'in scope' },
     { label: 'Dated by publish', value: `${datedShare}%`, items: datedSignals, drillTitle: 'Signals with a publish date', drillLabel: 'Signal Drilldown', drillDescription: 'Signals carrying an original publish date, newest first.', footerSuffix: 'dated' },
     { label: 'Sources', value: sourceCounts.length, items: scopeItems, drillTitle: 'Signals across all sources', drillLabel: 'Source Drilldown', drillDescription: `${sourceCounts.length} active sources contributing signals in scope.`, footerSuffix: 'in scope' },
-    { label: 'Demo drives', value: demoDriveSignals.length, items: demoDriveSignals, drillTitle: 'Demo & test drive feedback', drillLabel: 'Feedback Drilldown', drillDescription: 'Hands-on R2 demo, test-drive, first-drive, and ride-along impressions in the current scope.', footerSuffix: 'feedback items' },
+    { label: 'GTM / Demos', value: demoDriveSignals.length, items: demoDriveSignals, drillTitle: 'Go-to-Market & Product Feedback', drillLabel: 'Feedback Drilldown', drillDescription: 'Hands-on R2 demo, test-drive, first-drive, and ride-along impressions in the current scope.', footerSuffix: 'feedback items' },
     { label: 'Competitive', value: competitiveSignals.length, items: competitiveSignals, drillTitle: 'Competitive signals', drillLabel: 'Competitive Drilldown', drillDescription: 'Signals tagged competitive intel in the current scope.', footerSuffix: 'competitive' },
     { label: 'Failed scans', value: failedScans.length, items: failedScanItems, drillTitle: 'Failed scans', drillLabel: 'Scan Errors', drillDescription: 'Scan cycles that returned an error.', footerSuffix: 'failed' },
     { label: 'Issues tracked', value: autonomyIssues.length, items: issueItems, drillTitle: 'Autonomy & software issues', drillLabel: 'Issue Drilldown', drillDescription: 'Recent autonomy and software risk signals.', footerSuffix: 'tracked' },
@@ -563,13 +563,13 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             <div className="min-w-0">
               <div className="flex flex-wrap items-center gap-2.5">
                 <span className="marvel-chip rounded-[3px] px-2 py-1 text-[12px] leading-none">GAMEFILM</span>
-                <span className="font-mono-num text-[10px] uppercase tracking-[0.28em] text-claude-muted">Rivian Intelligence Unit</span>
+                <span className="font-mono-num text-[10px] uppercase tracking-[0.28em] text-claude-muted">Strategic Intelligence Unit</span>
                 <span className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide ${threatStyle.tone}`}>
                   {threatStyle.label}
                 </span>
               </div>
               <h1 className="poster-mark mt-3 text-5xl text-claude-text sm:text-6xl">
-                RIVIAN <span className="text-marvel-red">INTEL</span>
+                EXECUTIVE <span className="text-marvel-red">BRIEF</span>
               </h1>
               <div className="mt-2 font-mono-num text-[11px] uppercase tracking-[0.16em] text-claude-muted">
                 Last scan · {lastUpdated}
@@ -634,7 +634,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
         </Card>
 
         <div className="grid gap-4 xl:grid-cols-[1.4fr_0.6fr]">
-          <Card title="Analysis Summary" meta={`${sentimentTotalCount} items in scope`}>
+          <Card title="Executive Summary" meta={`${sentimentTotalCount} items in scope`}>
             <div className="grid gap-8 lg:grid-cols-[1fr_0.8fr]">
               <div className="space-y-4">
                 {fieldNotes.map((note, i) => (
@@ -648,7 +648,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             </div>
           </Card>
 
-          <Card title="Dominant themes" meta={`${themeCounts.length} active`}>
+          <Card title="Strategic Themes" meta={`${themeCounts.length} active`}>
             {themeCounts.length > 0 ? (
               <div className="flex flex-wrap gap-2.5">
                 {themeCounts.map(theme => (
@@ -673,7 +673,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
         </div>
 
         <div className="grid gap-4 xl:grid-cols-[0.8fr_1.2fr]">
-          <Card title="Sources" meta={`${sourceCounts.length} active`}>
+          <Card title="Intelligence Sources" meta={`${sourceCounts.length} active`}>
             <div className="space-y-4">
               {sourceCounts.map(source => (
                 <DrillDown
@@ -700,7 +700,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             </div>
           </Card>
 
-                    <Card title="Breaking Press News" meta={`${pressNewsSignals.length} in scope`}>
+                    <Card title="Macro & Press Intelligence" meta={`${pressNewsSignals.length} in scope`}>
             {pressNewsSignals.length > 0 ? (
               <div className="space-y-2.5">
                 {pressNewsSignals.slice(0, 10).map((item, idx) => (
@@ -736,7 +736,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             )}
           </Card>
 
-          <Card title="Demo & test drive feedback" meta={`${demoDriveSignals.length} in scope`}>
+          <Card title="Go-to-Market & Product Feedback" meta={`${demoDriveSignals.length} in scope`}>
             {demoDriveSignals.length > 0 ? (
               <div className="space-y-2.5">
                 {demoDriveSignals.slice(0, 8).map(item => (
@@ -766,7 +766,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
           </Card>
         </div>
 
-        <Card title="Vehicle dynamics" meta={`${dynamicsTotal} signal${dynamicsTotal !== 1 ? 's' : ''} · ${dynamicsTopics.length} topics`}>
+        <Card title="Product & Platform Dynamics" meta={`${dynamicsTotal} signal${dynamicsTotal !== 1 ? 's' : ''} · ${dynamicsTopics.length} topics`}>
           {dynamicsTopics.length > 0 ? (
             <>
               <div className="grid gap-x-8 gap-y-3.5 sm:grid-cols-2">
@@ -809,7 +809,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
         </Card>
 
         <div className="grid gap-4 xl:grid-cols-[1fr]">
-          <Card title="Recent signals" meta="by publish date">
+          <Card title="Tactical Signal Feed" meta="by publish date">
             <div className="space-y-2.5">
               {topSignals.map(item => (
                 <div
@@ -837,11 +837,11 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
         </div>
 
         <div className="grid gap-4 xl:grid-cols-[0.8fr_1.2fr]">
-          <Card title="Competitors" meta={`${activeCompetitors.length} tracked`}>
+          <Card title="Competitive Dynamics" meta={`${activeCompetitors.length} tracked`}>
             <CompetitorsSection competitors={activeCompetitors} threatStyles={THREAT_STYLES} />
           </Card>
 
-          <Card title="Autonomy & software risks" meta={`${autonomyIssues.length} recent`}>
+          <Card title="Software & Autonomy Imperatives" meta={`${autonomyIssues.length} recent`}>
             <div className="space-y-2.5">
               {autonomyIssues.map(issue => (
                 <div
