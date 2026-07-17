@@ -66304,5 +66304,455 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-17T18:02:25.871059Z",
+    "timestamp": "2026-07-17T18:02:25.871059Z",
+    "sentiment": {
+      "positive": 13,
+      "neutral": 82,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "Road Cam Formatted, no files on drive.",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, July 17, 2026 \u2014 6:02 PM PT \u2014 29 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.\n\u2022 *Test drives:* This is a review and test ride of the Also brand e-bike, which is a full-suspension e-bike made by the Rivian company who makes ...\n\u2022 *Key risk:* Rivian's new over-the-air software update fixes bugs and brings features that weren't available at launch.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.\n  https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 This is a review and test ride of the Also brand e-bike, which is a full-suspension e-bike made by the Rivian company who makes ...\n  https://youtube.com/watch?v=y4Z25aXyisU\n*Vehicles (22)* \u2022 R2 Home Charging\n  https://www.reddit.com/r/Rivian/comments/1uz54jh/r2_home_charging/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Rivian's new over-the-air software update fixes bugs and brings features that weren't available at launch.\n  https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mqubclducy2y\n*Community (1)* \u2022 I just bought an EV raffle ticket with @CCANActionFund - I might win a free car, but either way I'm supporting efforts to save the planet! Join me: ccanactionfund.org/ev-raffle/\n  https://bsky.app/profile/did:plc:cphftaggq447plqnki4alfet/post/3mqudex3vwc2r\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Road Cam Formatted, no files on drive.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz72ya/road_cam_formatted_no_files_on_drive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T17:56:56.392Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R2 Home Charging",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz54jh/r2_home_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T16:47:09.187Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Big Rivian Screw Up and Canceled Pickup",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz4z16/big_rivian_screw_up_and_canceled_pickup/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T16:35:10.605Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Big Rivian Screw Up and Canceled Pickup",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uz4spt/big_rivian_screw_up_and_canceled_pickup/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T16:35:10.605Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Bus",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz4us5/rivian_bus/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T16:37:13.894Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Charging in San Francisco without home charger",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz40lo/charging_in_san_francisco_without_home_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T16:06:28.955Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Maine Rivian owners",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz3kep/maine_rivian_owners/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T15:50:14.977Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Shoutout to the amazing team at the Salt Lake City SC!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz16xq/shoutout_to_the_amazing_team_at_the_salt_lake/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T14:22:22.236Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+        "url": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
+        "source": "cnbc_top",
+        "publishedAt": "Fri, 17 Jul 2026 14:42:04 GMT",
+        "score": 0,
+        "snippet": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive, Inc. (RIVN) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkpwWnhPYmlqSG9XQW1NNjZUdkRDXzVjQ00yanZwR1Rfd2lFeFp6cm9BT3RZaGtVN01OSVo1X2NWa1ZMdjVoNmlPYzhiRGJhaURhY3RjdXFnWldqN3FzN3I2azRpWXZnUjJJNlhacHRJSFZRUm5MeGxyLUIwVTd6OGlOeU5VRnhvMmhEX3UyLU9QUDRYVHpBS3lMXzRkVjVvQTNsMQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 17 Jul 2026 13:00:22 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive, Inc. (RIVN) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cypresslounge.bsky.social (Bluesky): I just bought an EV raffle ticket with @CCANActionFund - I might win a free car,",
+        "url": "https://bsky.app/profile/did:plc:cphftaggq447plqnki4alfet/post/3mqudex3vwc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T18:00:45.472Z",
+        "score": 0,
+        "snippet": "I just bought an EV raffle ticket with @CCANActionFund - I might win a free car, but either way I'm supporting efforts to save the planet! Join me: ccanactionfund.org/ev-raffle/",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2025 Rivian R1S\n\n\ud83d\udcb0 $68,542 | \ud83d\udccd West Valley City, UT | \ud83d\udee3\ufe0f 12,576 mi\n\nCheck it o",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mqudefenqx2u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T18:00:25.172Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2025 Rivian R1S\n\n\ud83d\udcb0 $68,542 | \ud83d\udccd West Valley City, UT | \ud83d\udee3\ufe0f 12,576 mi\n\nCheck it out: https://www.findusedcarsus.com/car/cmog08vmc0b4mklu2ixhmj236\n\n#usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Haha, Rivian was about to sell an R2 with two different grey colors, until someo",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mqud3fo47c23",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T17:55:24.971Z",
+        "score": 0,
+        "snippet": "Haha, Rivian was about to sell an R2 with two different grey colors, until someone caught it at the last minute.\n\nwww.reddit.com/r/RivianR2/s...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian's new over-the-air software update fixes bugs and brings features that we",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mqubclducy2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T17:23:36.874Z",
+        "score": 0,
+        "snippet": "Rivian's new over-the-air software update fixes bugs and brings features that weren't available at launch.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mquavivmwx27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T17:16:18.074Z",
+        "score": 1,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@starbuck2004.bsky.social (Bluesky): A family member has been driving a Rivian for about a year. She's thrilled by ho",
+        "url": "https://bsky.app/profile/did:plc:4am3mm4v7w2u37ywj34k3qru/post/3mquaqknp222e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T17:10:54.076Z",
+        "score": 1,
+        "snippet": "A family member has been driving a Rivian for about a year. She's thrilled by how well its handled:\n- towing a camper\n- highway & urban driving\n- backcountry & BC logging roads.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mjhowson.bsky.social (Bluesky): Rivian R3 isn\u2019t planned for production until 2028 after the new Georgia plant co",
+        "url": "https://bsky.app/profile/did:plc:yscrzry6o5vpdarv6fl6wrra/post/3mqu6e3yia22t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T16:30:46.879Z",
+        "score": 0,
+        "snippet": "Rivian R3 isn\u2019t planned for production until 2028 after the new Georgia plant comes online.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thealpacalypse.bsky.social (Bluesky): That's the Rivian office! I do not work there but they have a great coffee shop ",
+        "url": "https://bsky.app/profile/did:plc:doukci4y75jxqhhb5y5447qr/post/3mqu6ckypbs2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T16:29:55.365Z",
+        "score": 1,
+        "snippet": "That's the Rivian office! I do not work there but they have a great coffee shop underneath along with a tasty (albeit pricey) italian spot",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Can't wait! #Rivian #R3",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqu4kc4qkk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T15:58:26.675Z",
+        "score": 1,
+        "snippet": "Can't wait! #Rivian #R3",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqu4jq4oxk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T15:58:07.672Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Quad Miniature Unboxing \u26a1\ud83d\udefb | ASMR  #rivianr1t  #miniatureunboxing  #asmr  #diecast",
+        "url": "https://youtube.com/watch?v=AXOWFdVqeS8",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T18:00:36Z",
+        "score": 0,
+        "snippet": "A detailed miniature Rivian R1T Quad is unboxed inside a futuristic EV studio. Protective film and foam are removed before the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T: The 800HP Electric Beast is Here! \ud83c\uddfa\ud83c\uddf2\ud83e\udd96 #rivian #truck  #hellcat",
+        "url": "https://youtube.com/watch?v=Y_17loZysdI",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T17:45:00Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Also E-Bike From Rivian Review &amp; Test Ride",
+        "url": "https://youtube.com/watch?v=y4Z25aXyisU",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T17:00:04Z",
+        "score": 0,
+        "snippet": "This is a review and test ride of the Also brand e-bike, which is a full-suspension e-bike made by the Rivian company who makes ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian R1S Miniature Assembly | Hyper Realistic AI Build",
+        "url": "https://youtube.com/watch?v=k_Eb8kJHP-4",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T16:58:09Z",
+        "score": 0,
+        "snippet": "Rivian R1S Miniature Assembly | Hyper Realistic AI Build Watch the stunning Rivian R1S come to life in this hyper-realistic ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Por qu\u00e9 el R2 es la sorpresa del a\u00f1o #rivian #electricvehicle #automotive",
+        "url": "https://youtube.com/watch?v=i6DapGFEPzY",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T16:44:23Z",
+        "score": 0,
+        "snippet": "Rivian quiere hacer con el R2 lo que Tesla hizo con el Model Y: llevar los autos el\u00e9ctricos a mucha m\u00e1s gente. Pero este SUV no ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Frunk Temperature Test",
+        "url": "https://youtube.com/watch?v=99MFKhBE9po",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T16:13:23Z",
+        "score": 0,
+        "snippet": "Thermometer in frunk for 45 minutes, nearly 90 degrees outside part sun part shade.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Stuck in your Rivian R2 during Pet Mode? Do this:",
+        "url": "https://youtube.com/watch?v=KfC_UzvHs-Y",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T15:55:28Z",
+        "score": 0,
+        "snippet": "Just showing the safety features of pet mode and how to exit the car in case you're inside during pet mode.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Camera Viewing Options",
+        "url": "https://youtube.com/watch?v=nYPswdGlp1s",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T15:44:26Z",
+        "score": 0,
+        "snippet": "Cycling through the various camera angles available in the Rivian R2 camera menu.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Aspen Ideas: Rivian CEO RJ Scaringe Showcases its Newest Electric Midsize SUV R2",
+        "url": "https://youtube.com/watch?v=DEzMm8O5sjw",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T14:17:18Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
