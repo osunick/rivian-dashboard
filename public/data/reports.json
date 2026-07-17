@@ -66754,5 +66754,386 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-17T22:02:18.958103Z",
+    "timestamp": "2026-07-17T22:02:18.958103Z",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 91,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 4,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Service Experience",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "How do Rivian Drivers Interact With Each Other in the World?",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, July 17, 2026 \u2014 10:02 PM PT \u2014 23 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Test drives:* Test drove Rivian R2\n\u2022 *Key risk:* My Rivian R2 had some minor issues that I wanted to address. Check out this video to hear my firsthand experience getting my R2 ...\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 Test drove Rivian R2\n  https://www.reddit.com/r/Rivian/comments/1uzai9z/test_drove_rivian_r2/\n*Vehicles (15)* \u2022 How do Rivian Drivers Interact With Each Other in the World?\n  https://www.reddit.com/r/Rivian/comments/1uzbhf9/how_do_rivian_drivers_interact_with_each_other_in/\n*Business (0)* \u2022 No signals\n*Software (4)* \u2022 Rivian is an American company, but you're still totally right.\n  https://bsky.app/profile/did:plc:v7gngzva22rilmcp6fiypowf/post/3mquohgmz7s2z\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\u2022 Service Experience\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "How do Rivian Drivers Interact With Each Other in the World?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uzbhf9/how_do_rivian_drivers_interact_with_each_other_in/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T20:38:19.594Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1T Quad Gen 1 or R2 Performance",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uzaj11/r1t_quad_gen_1_or_r2_performance/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T20:02:05.721Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Test drove Rivian R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uzai9z/test_drove_rivian_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T20:00:56.931Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Test drove Rivian R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uzahvz/test_drove_rivian_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T20:00:56.931Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Delivery Day is tomorrow any tips on what to look for?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uz7o85/delivery_day_is_tomorrow_any_tips_on_what_to_look/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T18:17:54.284Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Underwhelmed after test drive and absolutely confused. halp.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uzdhen/underwhelmed_after_test_drive_and_absolutely/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-17T21:57:09.827Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Test Drive / Sound System Question",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uzc9l4/test_drive_sound_system_question/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-17T21:07:59.994Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Lucid Rallies 10% for a Third Straight Up Day, Leaving Tesla, Rivian Behind - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVdPRnlwSUdhM3lCbjQ5Q3hNNTU5eTdNcHZIMHlQdEdkdkhta0NyTGM3YjMtOXpqVkJmUEJfTm1CbEI5MURmWjV1MXZaWHdQUlQwNDdWekV3aUx0SGIzeEE0Xy10b3BMM2dZT3BpRWxpTFZTWVE3MVBwUGM5YUZ2d2tSQ3NYTTFSZHRXTWhGdGtkNTk4VGtJQ044SjNXVjQzX3hQNG82Z1VnN243aHV6aU9sendERjg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 17 Jul 2026 18:18:21 GMT",
+        "score": 0,
+        "snippet": "Lucid Rallies 10% for a Third Straight Up Day, Leaving Tesla, Rivian Behind - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@nickchillphoto.com (Bluesky): Rivian is an American company, but you're still totally right.",
+        "url": "https://bsky.app/profile/did:plc:v7gngzva22rilmcp6fiypowf/post/3mquohgmz7s2z",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T21:18:58.064Z",
+        "score": 0,
+        "snippet": "Rivian is an American company, but you're still totally right.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): TheStreet is now calling Rivian the first EV maker with software that seriously ",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mqunjlswqs2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T21:02:18.866Z",
+        "score": 19,
+        "snippet": "TheStreet is now calling Rivian the first EV maker with software that seriously rivals Tesla.\n\nThe R2\u2019s first big OTA is the proof, adding Launch Mode, Pet Comfort, and Gear Guard weeks after deliveri",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Software",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@dfedicatest.bsky.social (Bluesky): Rivian will deliver the first R2 SUVs on June 9",
+        "url": "https://bsky.app/profile/did:plc:uauvgtaseetghf5czwruktdj/post/3mqulg35wcx2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T20:24:31.075Z",
+        "score": 0,
+        "snippet": "Rivian will deliver the first R2 SUVs on June 9",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@nickchillphoto.com (Bluesky): The Rivian R3 will not be released anywhere likely until at least 2028. The R2 i",
+        "url": "https://bsky.app/profile/did:plc:v7gngzva22rilmcp6fiypowf/post/3mqukzqk47k2u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T20:17:37.479Z",
+        "score": 1,
+        "snippet": "The Rivian R3 will not be released anywhere likely until at least 2028. The R2 is scheduled to begin deliveries to Canada in 2027.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@star-telegram.com (Bluesky): The first significant over-the-air (OTA) software update has begun rolling out f",
+        "url": "https://bsky.app/profile/did:plc:ywmvuzc64nhieavhxy3nsczh/post/3mquix366zu2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T19:40:21.366Z",
+        "score": 0,
+        "snippet": "The first significant over-the-air (OTA) software update has begun rolling out for the Rivian R2, adding key features like Launch Mode, Pet Comfort, Gear Guard, and a host of other improvements.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83d\udce6 Removed from the Rivian Gear Shop: Kids' Shooting Star 12 oz Water Bottle",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mquhvis2w627",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T19:21:33.763Z",
+        "score": 3,
+        "snippet": "\ud83d\udce6 Removed from the Rivian Gear Shop: Kids' Shooting Star 12 oz Water Bottle",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@travisketchum.bsky.social (Bluesky): New @rivianofficial.bsky.social Recap loaded.\n\n- R2 gets it's first major softwa",
+        "url": "https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3mquh637ni22r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T19:08:28.366Z",
+        "score": 0,
+        "snippet": "New @rivianofficial.bsky.social Recap loaded.\n\n- R2 gets it's first major software release\n- Updated mobile app\n- I get to test some new accessories\n- Lucid Motors has a wild week\n- And I finally get ",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@dougdirt24.bsky.social (Bluesky): Yeah, I just don't think it would be suitable for my needs. I like the idea behi",
+        "url": "https://bsky.app/profile/did:plc:lkdqsavlcogrdgqfj73vdvja/post/3mqugov5nws2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T18:59:58.882Z",
+        "score": 1,
+        "snippet": "Yeah, I just don't think it would be suitable for my needs. I like the idea behind it. I'm not sure about it's viability for consumers though. It's very niche. \n\nI like the the Rivian. I like the Ligh",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@axmurders.bsky.social (Bluesky): My current truck is 17 years old and has ~170k on the clock. I have a reserve on",
+        "url": "https://bsky.app/profile/did:plc:mir4rn7ukx4skyul4bqqljzb/post/3mquepug3bc2l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T18:24:41.173Z",
+        "score": 1,
+        "snippet": "My current truck is 17 years old and has ~170k on the clock. I have a reserve on 2 different EVs (Rivian R2 and a Telo MT1), both \ud83e\udd1e to become active sometime in Q4 this year. I'm just hoping my truck ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "First Rivian R2 hits the Auction",
+        "url": "https://youtube.com/watch?v=wEGyXFE8h88",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T21:00:05Z",
+        "score": 0,
+        "snippet": "Tesla Referral \u2013 Get $2500 OFF https://linktr.ee/Denniscw Save $200 on customizable EV coverage for your Tesla or other EV ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "\u00bfComputadoras o motores? El dilema del R2 2027",
+        "url": "https://youtube.com/watch?v=KP48UL0EJq4",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T21:00:32Z",
+        "score": 0,
+        "snippet": "Descubre lo que normalmente nunca se ve en un lanzamiento automotriz. En esta segunda parte del especial del Rivian R2 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian EDVs spotted on duty on the streets of Munich! \u26a1\ud83c\udde9\ud83c\uddea",
+        "url": "https://youtube.com/watch?v=WnEbzNgoGKE",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T19:36:08Z",
+        "score": 0,
+        "snippet": "Rivian EDVs spotted on duty on the streets of Munich! \u26a1     Rivian's electric delivery vans are making an appearance in Munich.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Took My Rivian R2 In For Service: How Did It Go?",
+        "url": "https://youtube.com/watch?v=ru2FxUz94E0",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T19:28:28Z",
+        "score": 0,
+        "snippet": "My Rivian R2 had some minor issues that I wanted to address. Check out this video to hear my firsthand experience getting my R2 ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Service Experience",
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "Rivian ELECTRIC SUV officially a state vehicle! \u26a1\ufe0f",
+        "url": "https://youtube.com/watch?v=_k5_fsTvGLs",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T18:57:16Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R1S Accessories I&#39;d actually keep (and what I regret)",
+        "url": "https://youtube.com/watch?v=bxNuYaxF8o8",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T18:53:06Z",
+        "score": 0,
+        "snippet": "Thanks to LASFIT for partnering with me! Save on the best all-weather floor mats for your Rivian using my links below: Gen2 R1S ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
