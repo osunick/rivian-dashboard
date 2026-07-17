@@ -65573,5 +65573,309 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-17T02:02:32.310577Z",
+    "timestamp": "2026-07-17T02:02:32.310577Z",
+    "sentiment": {
+      "positive": 16,
+      "neutral": 72,
+      "negative": 11
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Demo Drives",
+      "Vehicle Demand"
+    ],
+    "summary": "Delivery in under 24 hours and get this message. Frustrating, but I rather pick up an R2 that is good to go than it messing up down the road.",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, July 17, 2026 \u2014 2:02 AM PT \u2014 18 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Test drives:* R2 Test drive thoughts from an F-150 owner, first EV ever\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 R2 Test drive thoughts from an F-150 owner, first EV ever\n  https://www.reddit.com/r/RivianR2/comments/1uyl12h/r2_test_drive_thoughts_from_an_f150_owner_first/\n*Vehicles (15)* \u2022 Delivery in under 24 hours and get this message. Frustrating, but I rather pick up an R2 that is good to go than it messing up down the road.\n  https://www.reddit.com/r/Rivian/comments/1uylp5y/delivery_in_under_24_hours_and_get_this_message/\n*Business (2)* \u2022 Rivian Stock Slides As $1.2B Equity Raise Meets Revenue Beat - StocksToTrade\n  https://news.google.com/rss/articles/CBMif0FVX3lxTE14RjdoWkNXcmNKQzlVZF9lTy1oRS1SUFV3ejVkV0FJUlF3alpYTGp6VHpIbVoxWlVlV0tmd2c3dGVpaUhOZnF3SHhSM01NZDFvT2lMcmdFb2lfLUZsNnlTcUwtMHg5SzEwV0dvazBuck84YzhSVHVob3pIaUltOWc?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Demo Drives\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Delivery in under 24 hours and get this message. Frustrating, but I rather pick up an R2 that is good to go than it messing up down the road.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uylp5y/delivery_in_under_24_hours_and_get_this_message/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T01:29:29.048Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "6-Month Review: R1S Dual Standard \u2014 Loving the drive, but experiencing some minor \"battery envy\"",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uylomz/6month_review_r1s_dual_standard_loving_the_drive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T01:28:47.139Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Front Fascia Replacement on R1T - DIY Qs",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uyi0v9/front_fascia_replacement_on_r1t_diy_qs/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T22:48:53.081Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Highway Efficiency Test: 80 MPH vs 70 MPH Changed Everything \ud83d\udcca",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uyhitz/r2_highway_efficiency_test_80_mph_vs_70_mph/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T22:28:03.607Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Concerns about R2 Ownership?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uygyyn/concerns_about_r2_ownership/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-16T22:05:35.932Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Test drive thoughts from an F-150 owner, first EV ever",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uyl12h/r2_test_drive_thoughts_from_an_f150_owner_first/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-17T00:59:27.617Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "How is the R2 suspension?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1uyhsvv/how_is_the_r2_suspension/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-16T22:39:50.221Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Stock Slides As $1.2B Equity Raise Meets Revenue Beat - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14RjdoWkNXcmNKQzlVZF9lTy1oRS1SUFV3ejVkV0FJUlF3alpYTGp6VHpIbVoxWlVlV0tmd2c3dGVpaUhOZnF3SHhSM01NZDFvT2lMcmdFb2lfLUZsNnlTcUwtMHg5SzEwV0dvazBuck84YzhSVHVob3pIaUltOWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 16 Jul 2026 20:03:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Slides As $1.2B Equity Raise Meets Revenue Beat - StocksToTrade",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Stock Slides As $1.2B Equity Offering Resets Trading Setup - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXNlMnRKWS1oS0pTMkdWQUF3MzlDV0hwRHlPM1Ita0pxY3hOTWFtOGw1RW9wZS10cG4xa3RqTHBCUGhRUEZIb3VIY0VZYjdzeFNaUXlhNDNscTQzTENYZmRBMm9MVk1VS2UyQzZ5OWYtZHF2ajhJQkFaRGNwUFdzNGpkTQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 16 Jul 2026 21:04:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Slides As $1.2B Equity Offering Resets Trading Setup - timothysykes.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): I\u2019ve had nothing but gumdrops and roses experiences with my dealer. My car would",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mqsl3px6mk2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T01:13:24.669Z",
+        "score": 1,
+        "snippet": "I\u2019ve had nothing but gumdrops and roses experiences with my dealer. My car wouldn\u2019t charge one day, booked service next, immediately put in loaner, car back next day right as rain.\n\nBuddy w/ Rivian sp",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"RivianTrackr\"\nBy: Jose Castillo on Thursday, July 16, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqskzxvm6n2r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T01:12:26.369Z",
+        "score": 0,
+        "snippet": "Feed: \"RivianTrackr\"\nBy: Jose Castillo on Thursday, July 16, 2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@topherrobin.bsky.social (Bluesky): There are lots of other great choices.  At the least expensive end there is Bolt",
+        "url": "https://bsky.app/profile/did:plc:v3vbp22zpdhkypr73zbcuudc/post/3mqsk52bajk2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T00:56:15.769Z",
+        "score": 0,
+        "snippet": "There are lots of other great choices.  At the least expensive end there is Bolt and Leaf.  In the mid price range check out Mach E, Equinox or ID4.  More expensive there is Rivian, Lucid, Taycan.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@yuenqiu.bsky.social (Bluesky): Both used and new vehicles, most are as cheap or cheaper than a used Tesla sedan",
+        "url": "https://bsky.app/profile/did:plc:lic6lggjeanwl5fgdwepywzx/post/3mqsgpai5c22t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-16T23:54:51.570Z",
+        "score": 0,
+        "snippet": "Both used and new vehicles, most are as cheap or cheaper than a used Tesla sedan, the only one with a higher used price was Rivian. Also, where you live certainly isn't an issue if the Midwest red sta",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tech Products not worth the money #ithomas #techtok #rivian #tesla #apple",
+        "url": "https://youtube.com/watch?v=0rZ-erbevo8",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T01:53:09Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Gear Guard Live Cam Demo Rivian R2",
+        "url": "https://youtube.com/watch?v=0PoUpGOB5CU",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T00:45:23Z",
+        "score": 0,
+        "snippet": "Quick demo of streaming gear guard cams to phone via Rivian mobile app.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ub9ac\ube44\uc548 R2 \ud83d\ude99\uc911\ud615 \uc804\uae30 SUV ; LG\uc5d4\uc194 \ubc30\ud130\ub9ac\ud83d\udd0b \ud0d1\uc7ac\ud55c \u2018\ubaa8\ub378Y \ud83d\ude97\ub300\ud56d\ub9c8\u2019 #\uc804\uae30\ucc28 #\ub9ac\ube44\uc548 #\ud14c\uc2ac\ub77c #ev #suv #lg\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158 #modely",
+        "url": "https://youtube.com/watch?v=u2WKMQFW8Es",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T00:10:49Z",
+        "score": 0,
+        "snippet": "\ub9ac\ube44\uc548R2 #\ub9ac\ube44\uc548 #\ud14c\uc2ac\ub77c\ubaa8\ub378Y #\uc804\uae30SUV #\uc804\uae30\ucc28\ubcf4\uc870\uae08 #\uac00\uc131\ube44\uc804\uae30\ucc28 #LG\uc5d4\uc1944695 #\uc2e0\ucc28\uc18c\uc2dd #R2\ucd9c\uc2dc \ud14c\uc2ac\ub77c \ubaa8\ub378 Y \ub3c5\uc8fc\ub97c ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Gear Guard Recording Quick View ",
+        "url": "https://youtube.com/watch?v=o9imtazL6q8",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T00:07:57Z",
+        "score": 0,
+        "snippet": "Just an impromptu viewing of an example Gear Guard recording in the Rivian R2. Note: I have auto folding mirrors enabled and it ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "History of Rivian cars 2021 2026",
+        "url": "https://youtube.com/watch?v=zhPGPu0-0z4",
+        "source": "youtube",
+        "publishedAt": "2026-07-16T19:00:06Z",
+        "score": 0,
+        "snippet": "My first car video!!! Volkswagen ID. Buzz by AuHaidhausen is licensed under CC BY 4.0 (creativecommons.org) Source: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
