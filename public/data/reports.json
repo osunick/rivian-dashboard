@@ -65877,5 +65877,432 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-17T14:02:30.146808Z",
+    "timestamp": "2026-07-17T14:02:30.146808Z",
+    "sentiment": {
+      "positive": 14,
+      "neutral": 70,
+      "negative": 14
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 4,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "Any current or coming incentives R1T? Or any inventory",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, July 17, 2026 \u2014 2:02 PM PT \u2014 27 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* \ud83d\udeb2 Tesla lance enfin un v\u00e9lo\u2026 mais il risque de surprendre ses plus grands fans. Apr\u00e8s des ann\u00e9es de rumeurs autour d'un v\u00e9lo \u00e9lectrique sign\u00e9 Tesla, la marque d\u00e9voile finalement\u2026 une draisienne pou\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* \ud83d\udeb2 Tesla lance enfin un v\u00e9lo\u2026 mais il risque de surprendre ses plus grands fans. Apr\u00e8s des ann\u00e9es de rumeurs autour d'un v\u00e9lo \u00e9lectrique sign\u00e9 Tesla, la marque d\u00e9voile finalement\u2026 une draisienne pou\n  https://bsky.app/profile/did:plc:qhliqhw3uqldwpcr33vfjlle/post/3mqtbsxbv2l2u\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (17)* \u2022 Any current or coming incentives R1T? Or any inventory\n  https://www.reddit.com/r/Rivian/comments/1uyzhy4/any_current_or_coming_incentives_r1t_or_any/\n*Business (2)* \u2022 Rivian stock plummets after announcing public sale of 75M shares For more Local News from WEEK: ...\n  https://youtube.com/watch?v=zhHND_u6OSw\n*Software (0)* \u2022 No signals\n*Community (4)* \u2022 Salvage or Branded Title Owners Experience Question\n  https://www.reddit.com/r/Rivian/comments/1uyo4m1/salvage_or_branded_title_owners_experience/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Any current or coming incentives R1T? Or any inventory",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uyzhy4/any_current_or_coming_incentives_r1t_or_any/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T13:18:22.606Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian commercial van-based camper conversions?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uyz2ie/rivian_commercial_vanbased_camper_conversions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T13:01:01.661Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Salvage or Branded Title Owners Experience Question",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uyo4m1/salvage_or_branded_title_owners_experience/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T03:22:44.826Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "I was supposed to take R1S delivery tomorrow but it's getting postponed two weeks for a battery issue \ud83d\ude1e",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uyo2z8/i_was_supposed_to_take_r1s_delivery_tomorrow_but/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T03:20:31.645Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Here we go! v3.0",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uyn1o2/here_we_go_v30/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T02:31:59.608Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Just a few simple requests for Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uymwf2/just_a_few_simple_requests_for_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T02:25:10.868Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 wheels and tires in Gear Shop",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uymp48/r2_wheels_and_tires_in_gear_shop/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-17T02:15:37.380Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The 10 best-selling EVs of 2026 so far in the U.S. (Car & Driver)",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1uz0izi/the_10_bestselling_evs_of_2026_so_far_in_the_us/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-17T13:57:52.141Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Apple dethrones Nvidia as world\u2019s most valuable company, ending the chipmaker\u2019s long run at the top",
+        "url": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Why Did Rivian (NASDAQ:RIVN) Revise Full-Year Deliveries? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlRGNDZ4QUxQSkdMeTN0VjVQeXBSdVlzMi1ZbUtDWGdVT08xakVYN19RbENXWTNwVk03djZYTEtwUDVaeUFneGVWQ3VQaW4tWDZOTk1Db2o4M1QzOG5mY0x3bmQxY1V0dDRWSUJEWkRMdW9Na3lQYWwyYVZnZGwtc1RQZWppWVRudUloTlJmakxmd0Y3SE5wdk10Zw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 17 Jul 2026 07:56:00 GMT",
+        "score": 0,
+        "snippet": "Why Did Rivian (NASDAQ:RIVN) Revise Full-Year Deliveries? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@neworleanswiz.bsky.social (Bluesky): It is always good to spend some time helping the homeless. \"My car broke down. I",
+        "url": "https://bsky.app/profile/did:plc:nqi4yx2f6n3gduv5ceyq7xpq/post/3mqtvjn6wqc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T13:52:48.682Z",
+        "score": 0,
+        "snippet": "It is always good to spend some time helping the homeless. \"My car broke down. I couldn't fix it. I lost my job\" is the how I became homeless story you hear again and again. The average American can't",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@manykarz.bsky.social (Bluesky): Later that morning, at the peak\n\ud83d\udcf7 Pentax 17\n\ud83c\udf9e\ufe0f Portra 400\n#believeinfilm",
+        "url": "https://bsky.app/profile/did:plc:23uwe5ziojmyopka6jykoh6g/post/3mqtust6qek2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T13:40:09.364Z",
+        "score": 7,
+        "snippet": "Later that morning, at the peak\n\ud83d\udcf7 Pentax 17\n\ud83c\udf9e\ufe0f Portra 400\n#believeinfilm",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): I love the whole winter theme Gary. They had some great ski and snowman stickers",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mqtt7duqpk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T13:11:16.177Z",
+        "score": 0,
+        "snippet": "I love the whole winter theme Gary. They had some great ski and snowman stickers at the Performance House event this week. My water bottle is full on Rivian ski themed now",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): \u201cI\u2019m here for the pin\u201d \ud83d\ude02\n\nLove these Rivian events!  The Holidazzler 2025 pin wi",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mqtsox35sh2g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T13:02:05.567Z",
+        "score": 3,
+        "snippet": "\u201cI\u2019m here for the pin\u201d \ud83d\ude02\n\nLove these Rivian events!  The Holidazzler 2025 pin with the Gear Guard Gary snowman is my favorite.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@anna26458.bsky.social (Bluesky): heatmap.news/daily/rivian...",
+        "url": "https://bsky.app/profile/did:plc:ru55eyk6bq5uyrq7ggvckgs2/post/3mqtlz3sfic2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T11:02:31.973Z",
+        "score": 0,
+        "snippet": "heatmap.news/daily/rivian...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cleanrider.com (Bluesky): \ud83d\udeb2 Tesla lance enfin un v\u00e9lo\u2026 mais il risque de surprendre ses plus grands fans.\r",
+        "url": "https://bsky.app/profile/did:plc:qhliqhw3uqldwpcr33vfjlle/post/3mqtbsxbv2l2u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T08:00:06.463Z",
+        "score": 0,
+        "snippet": "\ud83d\udeb2 Tesla lance enfin un v\u00e9lo\u2026 mais il risque de surprendre ses plus grands fans.\r\n\r\nApr\u00e8s des ann\u00e9es de rumeurs autour d'un v\u00e9lo \u00e9lectrique sign\u00e9 Tesla, la marque d\u00e9voile finalement\u2026 une draisienne pou",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"EV\"\nBy: Matilde Alves on Thursday, July 16, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mqt7g7lnov2h",
+        "source": "bluesky",
+        "publishedAt": "2026-07-17T07:17:11.565Z",
+        "score": 0,
+        "snippet": "Feed: \"EV\"\nBy: Matilde Alves on Thursday, July 16, 2026",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "\u00bfPuede NIO vencer a Rivian? #Shorts",
+        "url": "https://youtube.com/watch?v=9lhxRHQFwBQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T13:46:40Z",
+        "score": 0,
+        "snippet": "Carrera de acciones: Rivian (RIVN), NIO, Ford Motor (F) Ganador: NIO (+9%) #Shorts #Bolsa #Inversion --- Aviso: Este video es ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 vs Model Y: Acceleration, Ride, Efficiency &amp; Real World Winner",
+        "url": "https://youtube.com/watch?v=xhNJ4BOUUvg",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T13:00:36Z",
+        "score": 0,
+        "snippet": "As a Tesla Model Y owner, I put the new Rivian R2 through a full driving test and compared it head-to-head with my daily driver.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I didn\u2019t know cars could do this\u2026 \ud83d\ude33 #technology #cars #rivian #elon #spy",
+        "url": "https://youtube.com/watch?v=ERCx1FVZswc",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T12:35:27Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian stock plummets after announcing public sale of 75M shares",
+        "url": "https://youtube.com/watch?v=zhHND_u6OSw",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T12:24:08Z",
+        "score": 0,
+        "snippet": "Rivian stock plummets after announcing public sale of 75M shares For more Local News from WEEK: ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian more hopeful about 2026 after stronger than expected EV sales in 2Q",
+        "url": "https://youtube.com/watch?v=j7Nx9NiyBbg",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T12:24:38Z",
+        "score": 0,
+        "snippet": "Rivian more hopeful about 2026 after stronger than expected EV sales in 2Q For more Local News from WEEK: ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=3R5ZcZ30QUY",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T11:43:13Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Why This EV Is the Ultimate Survival Tool (Rivian R1S)",
+        "url": "https://youtube.com/watch?v=_Oft7VR6kdc",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T11:00:30Z",
+        "score": 0,
+        "snippet": "Imagine being stranded on a deserted island with nothing but your car. Sounds like a nightmare, right? But if that car is a Rivian ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 Review: The Electric SUV Everyone Has Been Waiting For!",
+        "url": "https://youtube.com/watch?v=nT_AxE46Fww",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T11:00:40Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian R2 is finally here, and it could be one of the most exciting electric SUVs in America. In this in-depth review, we ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How to configure Rivian battery charge limit and departure timing - Detailed Guide",
+        "url": "https://youtube.com/watch?v=roBd8IOA6jo",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T10:12:32Z",
+        "score": 0,
+        "snippet": "In this detailed guide, we walk you through the steps to configure your Rivian battery charge limit and set your departure timing ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u2757\ufe0fBUYERS ARE CANCELLING THEIR RIVIAN R2 order - HERES WHY \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=5jg-3paMqQg",
+        "source": "youtube",
+        "publishedAt": "2026-07-17T08:30:26Z",
+        "score": 0,
+        "snippet": "BUYERS ARE CANCELLING THEIR RIVIAN R2 order - HERES WHY \u26a1\ufe0f save $2500 link in bio \u26a1\ufe0f TESLA REFERRAL ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
