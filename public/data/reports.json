@@ -68411,5 +68411,322 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-18T22:02:09.888082Z",
+    "timestamp": "2026-07-18T22:02:09.888082Z",
+    "sentiment": {
+      "positive": 21,
+      "neutral": 73,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "Tire Advise",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 18, 2026 \u2014 10:02 PM PT \u2014 19 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (14)* \u2022 R2 second drive back to back with MY and Cybertruck\n  https://www.reddit.com/r/RivianR2/comments/1v04t7w/r2_second_drive_back_to_back_with_my_and/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 I just bought an EV raffle ticket with @CCANActionFund - I might win a free car, but either way I'm supporting greener choices. \ud83c\udf33\ud83e\udec1\ud83c\udf0e Join me: ccanactionfund.org/ev-raffle/\n  https://bsky.app/profile/did:plc:semxkbjfr4qyyu376carr52a/post/3mqwwxkefcc2l\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Tire Advise",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v05rgt/tire_advise/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T19:59:56.282Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rear camera vs brake light warning on screen unsafe-ish",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v03zyo/rear_camera_vs_brake_light_warning_on_screen/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T18:49:59.117Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Soliciting suggestions on how to hang charging cord in garage for charge port access",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v030wj/soliciting_suggestions_on_how_to_hang_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T18:11:56.194Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R2 second drive back to back with MY and Cybertruck",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v04t7w/r2_second_drive_back_to_back_with_my_and/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-18T19:21:37.511Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Cancels R2 Delivery Over a Wrong-Colour Bumper, Buyer Says - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejY1RkpOd3k0LXphbFpaZGYxNXFtWVd3bUZWYThJZ3JXYWxBSUZidEtzbEprM01iaEFEOTNHdXRmX2F6OTR1OGx2aS1fWi1NSHIyVDRiY2VVWGhhUHVUY3NRNHo5UzhiaUtmVXkwakdkUi13ZGtMWURpcU9LTWVsWjBMemVOLVJVZGZvWWpQdFo4WEgwNndoQzVHX1BJZklRZnBJ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sat, 18 Jul 2026 16:10:08 GMT",
+        "score": 0,
+        "snippet": "Rivian Cancels R2 Delivery Over a Wrong-Colour Bumper, Buyer Says - eletric-vehicles.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@shuadc.bsky.social (Bluesky): Haven\u2019t driven the R2 yet, but\u2026if I had to choose based on what I know, I\u2019d pick",
+        "url": "https://bsky.app/profile/did:plc:ntvpcekg4nwg75ir6c3fqlpr/post/3mqx3q7jnis2q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T20:21:51.560Z",
+        "score": 2,
+        "snippet": "Haven\u2019t driven the R2 yet, but\u2026if I had to choose based on what I know, I\u2019d pick the BMW \n\nThe iX3 is very good to drive. Haven\u2019t seen validation of the range but that also seems strong\n\nRivian has mo",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Electric Vehicle Market Enters Trillion-Dollar Era, Is Tesla or Rivian More Wort",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mqx3n3hnxa2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T20:20:05.989Z",
+        "score": 0,
+        "snippet": "Electric Vehicle Market Enters Trillion-Dollar Era, Is Tesla or Rivian More Worthy of Long-Term Investment?\n\nhttps://www.evshift.com/493204/electric-vehicle-market-enters-trillion-dollar-era-is-tesla-",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tamerlaneblog.bsky.social (Bluesky): Same friend is cross shopping Rivian R2 and BMW iX3. I said R2. That\u2019s the right",
+        "url": "https://bsky.app/profile/did:plc:dcvjfscy47ifcgekky4ysvgy/post/3mqx3622noc2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T20:11:40.868Z",
+        "score": 8,
+        "snippet": "Same friend is cross shopping Rivian R2 and BMW iX3. I said R2. That\u2019s the right answer, correct?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@arboreous.bsky.social (Bluesky): I just bought an EV raffle ticket with @CCANActionFund - I might win a free car,",
+        "url": "https://bsky.app/profile/did:plc:semxkbjfr4qyyu376carr52a/post/3mqwwxkefcc2l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T18:56:29.167Z",
+        "score": 0,
+        "snippet": "I just bought an EV raffle ticket with @CCANActionFund - I might win a free car, but either way I'm supporting greener choices. \ud83c\udf33\ud83e\udec1\ud83c\udf0e\nJoin me: ccanactionfund.org/ev-raffle/",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): youtu.be/YuWHLqM2qjs?...",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mqwvea5u4c2q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T18:27:47.966Z",
+        "score": 0,
+        "snippet": "youtu.be/YuWHLqM2qjs?...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@jefftw.bsky.social (Bluesky): The average price for a new vehicle in the U.S. is now well over $50K. Nothing i",
+        "url": "https://bsky.app/profile/did:plc:757jz7kkqum2l75bvtur7bze/post/3mqwuhfshwc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T18:11:39.269Z",
+        "score": 1,
+        "snippet": "The average price for a new vehicle in the U.S. is now well over $50K. Nothing is \u201caffordable\u201d any longer, but Rivian is attempting to offer a high-quality US made EV for as low as possible. It\u2019s HALF",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S#RollsRoyce#shorts",
+        "url": "https://youtube.com/watch?v=1VeXjyBwN7Q",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T21:56:03Z",
+        "score": 0,
+        "snippet": "Rivian R1S #RollsRoyce.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How to transfer Rivian account for charging management - Easy Tutorial",
+        "url": "https://youtube.com/watch?v=GGnuqvgCBFo",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T21:00:05Z",
+        "score": 0,
+        "snippet": "In this easy tutorial, we guide you through the simple steps to transfer your Rivian account for charging management. Whether ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Just Shocked Wall Street! 23 Reasons the R2 Could Change Everything Forever",
+        "url": "https://youtube.com/watch?v=BbgbnIvxPRU",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T20:45:13Z",
+        "score": 0,
+        "snippet": "Rivian just delivered one of its biggest surprises yet.** After years of skepticism, massive cash burn, and constant questions ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1S Launch Edition 0-100MPH Pull #cars #burnout #viral #viralvideo #fyp #explore #shorts",
+        "url": "https://youtube.com/watch?v=TPUY9Sl2gtQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T19:55:43Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Night Drive - Adaptive Matrix Headlights &amp; Ambient Lighting on Display",
+        "url": "https://youtube.com/watch?v=Z8UvUNDolb8",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T19:52:37Z",
+        "score": 0,
+        "snippet": "Just a quick clip of a night drive I took. Sorry about the dirty windshield and weird POV, maybe a better quality, longer video ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Performance House | Rivian",
+        "url": "https://youtube.com/watch?v=Y0NIVIwhwEo",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T19:41:26Z",
+        "score": 0,
+        "snippet": "A little indoor off-roading at the Rivian Performance House in NYC. Emphasis on little.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2",
+        "url": "https://youtube.com/watch?v=Uxn45PP3aew",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T18:30:02Z",
+        "score": 0,
+        "snippet": "Car ASMR Lab \"Hey Machine Lovers ! Unboxing a hyper-realistic miniature truck straight from its container! \u2728 Watch the ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 First Look \u2013 The Affordable Electric SUV That Changes Everything!",
+        "url": "https://youtube.com/watch?v=v3x92jnPKzw",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T18:22:29Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian R2 is one of the most anticipated electric SUVs, bringing Rivian's premium design, advanced technology, and ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
