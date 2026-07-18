@@ -68001,5 +68001,415 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-18T18:02:11.288364Z",
+    "timestamp": "2026-07-18T18:02:11.288364Z",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 88,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Charging",
+      "Community Signals",
+      "Competitive Threats",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Tesla Competition",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "R1S Launch Mode",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 18, 2026 \u2014 6:02 PM PT \u2014 26 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* Affordable? Hardly, maybe when it hits $25-$32k www.forbes.com/sites/billko...\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Affordable? Hardly, maybe when it hits $25-$32k www.forbes.com/sites/billko...\n  https://bsky.app/profile/did:plc:t4fu3tcq3lvods35g5d3ml56/post/3mqwo3emryk26\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (20)* \u2022 R1S Launch Mode\n  https://www.reddit.com/r/Rivian/comments/1v02lev/r1s_launch_mode/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 One of State Of Charge's recent DC fast-charging tests resulted in damage to a charging adapter. It seems that the charging current was too high for too long. evchargingstations.com/chargingnews...\n  https://bsky.app/profile/did:plc:wvln7i4aflavtxau3h2ol6ib/post/3mqwji6otf22k\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Charging\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R1S Launch Mode",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v02lev/r1s_launch_mode/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T17:55:30.236Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Has anyone fixed the key wake problem?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v028iu/has_anyone_fixed_the_key_wake_problem/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T17:41:28.517Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian in Hawaii??",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v007w2/rivian_in_hawaii/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T16:22:32.989Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u201cAuto\u201d ride height OK?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uzyv94/auto_ride_height_ok/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T15:28:57.263Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "What is this part and how do I get a replacement",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uzxk3w/what_is_this_part_and_how_do_i_get_a_replacement/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T14:36:16.172Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "23 Quad or 25 Tri?!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1uzx6f9/23_quad_or_25_tri/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-18T14:20:45.999Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "@robertfoleyjr.bsky.social (Bluesky): Affordable?\nHardly, maybe when it hits $25-$32k\n\nwww.forbes.com/sites/billko...",
+        "url": "https://bsky.app/profile/did:plc:t4fu3tcq3lvods35g5d3ml56/post/3mqwo3emryk26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T16:17:37.575Z",
+        "score": 0,
+        "snippet": "Affordable?\nHardly, maybe when it hits $25-$32k\n\nwww.forbes.com/sites/billko...",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@scoop24news.bsky.social (Bluesky): Rivian makes the long-lasting American automobile \u2014 however that is probably not",
+        "url": "https://bsky.app/profile/did:plc:auk4xklydfg2s6o6olr2pyus/post/3mqwlbebnlw2z",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T15:27:12.363Z",
+        "score": 0,
+        "snippet": "Rivian makes the long-lasting American automobile \u2014 however that is probably not sufficient",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evchargingstations.bsky.social (Bluesky): One of State Of Charge's recent DC fast-charging tests resulted in damage to a c",
+        "url": "https://bsky.app/profile/did:plc:wvln7i4aflavtxau3h2ol6ib/post/3mqwji6otf22k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:55:17.175Z",
+        "score": 3,
+        "snippet": "One of State Of Charge's recent DC fast-charging tests resulted in damage to a charging adapter. It seems that the charging current was too high for too long.\n\nevchargingstations.com/chargingnews...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqwjasgwfc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:51:06.573Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqwj6xda7k2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:50:04.372Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqwj62nuqk2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:49:34.672Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqwj4e2dts2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:48:37.267Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqwj3q5nt22c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:48:16.268Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mqwj2xx3os2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:47:50.865Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@x-minus-t.bsky.social (Bluesky): The Rivian R2 Fried My Charging Adapter: Don't Let This Happen To You\n\n#Electric",
+        "url": "https://bsky.app/profile/did:plc:fjyz6vi5ih6fktq7rzkaiacb/post/3mqwhb5tabn26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T14:15:30.564Z",
+        "score": 0,
+        "snippet": "The Rivian R2 Fried My Charging Adapter: Don't Let This Happen To You\n\n#ElectricVehicles #EV",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Rivian R2 At&amp;T 5g hotspot speed test",
+        "url": "https://youtube.com/watch?v=qJxEFywlsg8",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T17:56:04Z",
+        "score": 0,
+        "snippet": "Testing the Rivian R2 speed capabilities when connected to the in-car hotspot.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "cuando el hombre es beb\u00e9 con la rivian",
+        "url": "https://youtube.com/watch?v=1EPvysksO8g",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T17:42:51Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 horn vs R1 horn",
+        "url": "https://youtube.com/watch?v=l8rEvUoNWNc",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T17:37:25Z",
+        "score": 0,
+        "snippet": "Rivian decided the toy horn from the R1 wasn't going to carry over to the R2.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 First Look \u2013 The Affordable Electric SUV That Changes Everything!",
+        "url": "https://youtube.com/watch?v=NICa01sD9KQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T17:34:30Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian R2 is one of the most anticipated electric SUVs, bringing Rivian's premium design, advanced technology, and ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Production &amp; Delivery Issues",
+        "url": "https://youtube.com/watch?v=eyxCqpEjvYc",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T16:30:10Z",
+        "score": 0,
+        "snippet": "Tesla Referral \u2013 Get $2500 OFF https://linktr.ee/Denniscw Save $200 on customizable EV coverage for your Tesla or other EV ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Vehicle Quality",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 -- A Luxury SUV for Barely More Money Than a RAV4?? ($45,000)",
+        "url": "https://youtube.com/watch?v=nKN-Ra7Q4YY",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T16:00:15Z",
+        "score": 0,
+        "snippet": "Here's our Full Review & Drive of the NEW 2027 Rivian R2 Performance! Looking to buy a Rivian R2 or any vehicle?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2\u200b #TransformationHub #CubeTransformation #VehicleBuild #FutureTech  #SciFiVibes",
+        "url": "https://youtube.com/watch?v=ucRLCO011_U",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T15:37:58Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This Rivian Feature Makes Tesla Look Outdated",
+        "url": "https://youtube.com/watch?v=vr7U_2bBN74",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T15:34:23Z",
+        "score": 0,
+        "snippet": "See the Rivian R1 SUV charging port and interior features in action. Get a closer look at how this unique electric SUV operates.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2",
+        "url": "https://youtube.com/watch?v=ph1Yzz5btrY",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T15:33:46Z",
+        "score": 0,
+        "snippet": "Creation hub \"Hey Car Lovers! Today we transformed small car parts into one complete, awesome machine! \u2699\ufe0f  \u2728 \u200bIf you ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Cerakote coating on Plastic Trim - wet look for a year #rivian #cerakote #amazonfinds",
+        "url": "https://youtube.com/watch?v=g1BVVhwJfB4",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T15:06:47Z",
+        "score": 0,
+        "snippet": "Applying Cerakote Ceramic Trim Coat to my Rivian to rejuvenate the look of faded plastics and give it the wet look for up to a year.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
