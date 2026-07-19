@@ -68728,5 +68728,283 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-19T02:02:20.274767Z",
+    "timestamp": "2026-07-19T02:02:20.274767Z",
+    "sentiment": {
+      "positive": 18,
+      "neutral": 75,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Demo Drives",
+      "Vehicle Demand"
+    ],
+    "summary": "Rivians in Panama (the country, not PC in FL)?",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, July 19, 2026 \u2014 2:02 AM PT \u2014 16 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Test drives:* Test driving the new Rivian R2, quick first thoughts.\n\u2022 *Key risk:* Rivian under investigation over rear suspension failures on R1 models\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 Test driving the new Rivian R2, quick first thoughts.\n  https://youtube.com/watch?v=ksnl0RbhXRA\n*Vehicles (14)* \u2022 Rivians in Panama (the country, not PC in FL)?\n  https://www.reddit.com/r/Rivian/comments/1v0bqnd/rivians_in_panama_the_country_not_pc_in_fl/\n*Business (1)* \u2022 Enjoy my stock market updates? \u2615 Support me here \u2192 Even a small coffee keeps me ...\n  https://youtube.com/watch?v=b9JnVeOopfk\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Demo Drives\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivians in Panama (the country, not PC in FL)?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0bqnd/rivians_in_panama_the_country_not_pc_in_fl/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T00:16:03.370Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Model Y owners switched to R2?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v0akaj/tesla_model_y_owners_switched_to_r2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-18T23:23:40.804Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Electric Vehicle Market Enters Trillion-Dollar Era, Is Tesla or Rivian More Worthy of Long-Term Investment? - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX0RZcmE2d3VtTUFtWDNrNkJndlVlOXBOSUJ2Qm1Gc1g0S09jNldMNWNmUU5fZXZxb2RYX1ZFdlAxZkdvQUhEZUEzamJEc1BXQ3JHVXE2QVFmNElLa2wtWVphNF9YUElwdTA2MG0wSTNwRG80aUN3NGxDcHZDb2FqUHhRTFBObC1CR3EweXZ2UkZxRmE3bGdNZUotejkweDNBX0ttNklCTDVuR29tNW9UNW5sSWhXR1l6VXEyUGhham9hdHI0N2FfSGktWVJmWldBb1cxbGxjU1Z3OFk3WWlDbDU3d19odGtHTlE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 18 Jul 2026 19:07:58 GMT",
+        "score": 0,
+        "snippet": "Electric Vehicle Market Enters Trillion-Dollar Era, Is Tesla or Rivian More Worthy of Long-Term Investment? - TradingKey",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mikekantorski.bsky.social (Bluesky): After two years, I\u2019m trading in the best vehicle I\u2019ve ever owned.\n\nMy final Rivi",
+        "url": "https://bsky.app/profile/did:plc:aabkgrsooxhbakpia27sw5gj/post/3mqxiaace3k2u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T00:05:33.869Z",
+        "score": 2,
+        "snippet": "After two years, I\u2019m trading in the best vehicle I\u2019ve ever owned.\n\nMy final Rivian R1T review is now live.\n\nyoutu.be/iTtZiJ6maRY",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Thanks again @Hilbe for the Indiana @Rivian shirt.  The swap continues!",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mqxh3mofv42e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T23:45:04.971Z",
+        "score": 1,
+        "snippet": "Thanks again @Hilbe for the Indiana @Rivian shirt.  The swap continues!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dfedicatest.bsky.social (Bluesky): Rivian under investigation over rear suspension failures on R1 models",
+        "url": "https://bsky.app/profile/did:plc:uauvgtaseetghf5czwruktdj/post/3mqxft6lanl2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T23:22:28.271Z",
+        "score": 0,
+        "snippet": "Rivian under investigation over rear suspension failures on R1 models",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gustheowl.bsky.social (Bluesky): Slate auto. Rivian. And though it may be unpopular, brand T is still around. The",
+        "url": "https://bsky.app/profile/did:plc:rtichfv5zefnr6dqmjn37r6u/post/3mqxe4inhmc2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-18T22:51:53.966Z",
+        "score": 0,
+        "snippet": "Slate auto. Rivian. And though it may be unpopular, brand T is still around. The tax credit knocked EV buying down, but it's pressing forward in spite of that because EV's sell themselves vigorously. ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Test Drive Quick Thoughts",
+        "url": "https://youtube.com/watch?v=ksnl0RbhXRA",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T01:30:04Z",
+        "score": 0,
+        "snippet": "Test driving the new Rivian R2, quick first thoughts.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "First look at the Rivian R2 at LA Auto Show! \ud83d\ude97",
+        "url": "https://youtube.com/watch?v=LD3Wmd8yfuw",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T01:00:59Z",
+        "score": 0,
+        "snippet": "The Rivian R2 booth was packed at the LA Auto Show, and it's easy to see why! This $45000 electric SUV is going to shake up the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hyundai IONIQ 5 N Is On Sale. Tesla, BMW, RIVIAN Cancel?",
+        "url": "https://youtube.com/watch?v=zhHdg393524",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T00:30:14Z",
+        "score": 0,
+        "snippet": "Why is the 2026 Hyundai IONIQ 5 N suddenly one of the BEST performance car deals in America? Hyundai just shocked the ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian fully done #automobile #bodyshopsale #mechaniclife",
+        "url": "https://youtube.com/watch?v=Ua7rbFUT6tc",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T00:21:45Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Mikaela Shiffrin Rivian R2 Car! #automobile #rivian #rivianr2 #viral #fyp #NYC",
+        "url": "https://youtube.com/watch?v=6Dv1rTAC8j4",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T00:14:42Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian fully done ready to go home # #automobile #bodyshopsale #mechanic",
+        "url": "https://youtube.com/watch?v=Vd58yAxN5qc",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T00:10:52Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Part 5: Rivian R1T Charged to 80% \u2014 First Charge Done \u2705",
+        "url": "https://youtube.com/watch?v=7_4qLvz-wco",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T00:00:04Z",
+        "score": 0,
+        "snippet": "First charge done \u2014 80% and rolling. The finale of my Rivian R1T first-charge series. Native Tesla Supercharger access made it ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why I\u2019m Trading In the Best Vehicle I\u2019ve Ever Owned",
+        "url": "https://youtube.com/watch?v=iTtZiJ6maRY",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T23:59:23Z",
+        "score": 0,
+        "snippet": "After two years of owning a Rivian R1T, I'm trading it in one year early for a Rivian R2. In this final Rivian R1T ownership review, ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN Stock Analysis | Rivian Automotive, Inc. | July 20, 2026",
+        "url": "https://youtube.com/watch?v=b9JnVeOopfk",
+        "source": "youtube",
+        "publishedAt": "2026-07-18T23:57:53Z",
+        "score": 0,
+        "snippet": "Enjoy my stock market updates? \u2615 Support me here \u2192 https://buymeacoffee.com/pradipg Even a small coffee keeps me ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
