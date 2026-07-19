@@ -69307,5 +69307,445 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-19T18:02:18.030876Z",
+    "timestamp": "2026-07-19T18:02:18.030876Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 6,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "Hungarian temporary plates in Reykjav\u00edk, Iceland",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, July 19, 2026 \u2014 6:02 PM PT \u2014 28 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Rivian:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Driver+ Autonomy+ with a hitch accessory?\n  https://www.rivianforums.com/forum/threads/driver-autonomy-with-a-hitch-accessory.58244/\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (13)* \u2022 Getting my R1S\n  https://www.reddit.com/r/Rivian/comments/1v0wzsx/getting_my_r1s/\n*Business (6)* \u2022 Should You Invest $5,000 Into Rivian Stock Below $20? - The Motley Fool\n  https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVpzM1pOc2ZzOFljQmI4dWtra2w5UXpxeXFOX1h2NXk4ZHJ0dFd2ZURBSklncHUzT0lTX2RpUEoyREQwekp5OGxPY0NUQ1VqSFZCMFA1UlFteXBMYjlqeFFmb0dBT0ZmLWoybnlYc2VPWlB0TWI4MjlVYUllU2loZmZQaTIyUHgyLVJxQTl4UF9jNTJGVzU0?oc=5\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 www.forbes.com/sites/edgars...\n  https://bsky.app/profile/did:plc:5xznwbgoqyj2dngmpkhqptvd/post/3mqz7xwid7k23\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Hungarian temporary plates in Reykjav\u00edk, Iceland",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0x6vf/az_hogy_ker%C3%BClt_oda_j%C3%B3_k%C3%A9rd%C3%A9s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T14:35:16.810Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Hungarian temporary plates in Reykjav\u00edk, Iceland",
+        "url": "https://www.reddit.com/r/ForeignPlatesSpotting/comments/1v0s6zl/hungarian_temporary_plates_in_reykjav%C3%ADk_iceland/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T14:35:16.810Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Getting my R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0wzsx/getting_my_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T17:44:37.837Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is there a problem with my AC or is this the best it gets?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0wmwa/is_there_a_problem_with_my_ac_or_is_this_the_best/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T17:30:38.563Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "working Automatic Profile Switch",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0v9jj/working_automatic_profile_switch/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T16:36:55.754Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "working Automatic Profile Switch",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v0v8zi/working_automatic_profile_switch/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T16:36:55.754Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Legit survey?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0u54t/legit_survey/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T15:54:07.582Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Assistant Easter Egg",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0re7i/rivian_assistant_easter_egg/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T14:02:00.447Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Questions (and Comments) from a non-EV Owner Waiting for my R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v0vojp/questions_and_comments_from_a_nonev_owner_waiting/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-19T16:53:54.157Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Phoenix area",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v0vh0d/phoenix_area/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-19T16:45:47.097Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Should You Invest $5,000 Into Rivian Stock Below $20? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVpzM1pOc2ZzOFljQmI4dWtra2w5UXpxeXFOX1h2NXk4ZHJ0dFd2ZURBSklncHUzT0lTX2RpUEoyREQwekp5OGxPY0NUQ1VqSFZCMFA1UlFteXBMYjlqeFFmb0dBT0ZmLWoybnlYc2VPWlB0TWI4MjlVYUllU2loZmZQaTIyUHgyLVJxQTl4UF9jNTJGVzU0?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 19 Jul 2026 16:52:55 GMT",
+        "score": 0,
+        "snippet": "Should You Invest $5,000 Into Rivian Stock Below $20? - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@beyondlink.bsky.social (Bluesky): Should You Invest $5,000 Into Rivian Stock Below $20?",
+        "url": "https://bsky.app/profile/did:plc:joxpffdd3w44tpol34fkx3rk/post/3mqzbcthies2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T17:07:03.581Z",
+        "score": 0,
+        "snippet": "Should You Invest $5,000 Into Rivian Stock Below $20?",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@bradporcellato.bsky.social (Bluesky): \n\nShould You Invest $5,000 Into Rivian Stock Below $20? https://t.co/qMJD6NpsPe\n",
+        "url": "https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mqzaxxuoxh2h",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T17:00:59.379Z",
+        "score": 0,
+        "snippet": "\n\nShould You Invest $5,000 Into Rivian Stock Below $20? https://t.co/qMJD6NpsPe\n\n  \u2014 The Right News, Right Now. (@BradPorcellato)\n  Jul 19, 2026\n\nJuly 19, 2026 at 09:57AM\n\nvia Twitter https://twitter.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@finanxiety.bsky.social (Bluesky): https://finance.yahoo.com/markets/stocks/articles/invest-5-000-rivian-stock-1650",
+        "url": "https://bsky.app/profile/did:plc:y4r4pexdscxonol7otg2qrut/post/3mqzaxo2lxm2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T17:00:48.865Z",
+        "score": 0,
+        "snippet": "https://finance.yahoo.com/markets/stocks/articles/invest-5-000-rivian-stock-165000449.html",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@finanxiety.bsky.social (Bluesky): Rivian below $20 prompts thought: EV sector stays volatile. Watch EV stocks and ",
+        "url": "https://bsky.app/profile/did:plc:y4r4pexdscxonol7otg2qrut/post/3mqzaxniuqt2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T17:00:48.667Z",
+        "score": 0,
+        "snippet": "Rivian below $20 prompts thought: EV sector stays volatile. Watch EV stocks and thematic ETFs. A bit of caution on equities feels wise; we'd prefer more market stability. #FinNerve",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@finansia.bsky.social (Bluesky): https://finance.yahoo.com/markets/stocks/articles/invest-5-000-rivian-stock-1650",
+        "url": "https://bsky.app/profile/did:plc:6ezkifij7hvhsgvr2zrfndvp/post/3mqzaxkute52u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T17:00:45.592Z",
+        "score": 0,
+        "snippet": "https://finance.yahoo.com/markets/stocks/articles/invest-5-000-rivian-stock-165000449.html",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@finansia.bsky.social (Bluesky): Rivian sotto i $20 fa riflettere: l'auto elettrica resta volatile. Attenzione al",
+        "url": "https://bsky.app/profile/did:plc:6ezkifij7hvhsgvr2zrfndvp/post/3mqzaxkdloh2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T17:00:45.569Z",
+        "score": 0,
+        "snippet": "Rivian sotto i $20 fa riflettere: l'auto elettrica resta volatile. Attenzione al settore EV e agli ETF tematici. Un po' di cautela sui mercati azionari non guasta, vorremmo pi\u00f9 stabilit\u00e0. #CapitaleEmo",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@travisketchum.bsky.social (Bluesky): I\u2019m picking up some new skills for my @rivianofficial.bsky.social content. What ",
+        "url": "https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3mqz7yeee722v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T16:43:18.565Z",
+        "score": 0,
+        "snippet": "I\u2019m picking up some new skills for my @rivianofficial.bsky.social content. What a stunning place to learn the ropes. Stay Curious. \u270c\ufe0f \n\nComment your favorite Rivian color \u2b07\ufe0f",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gaganc.bsky.social (Bluesky): www.forbes.com/sites/edgars...",
+        "url": "https://bsky.app/profile/did:plc:5xznwbgoqyj2dngmpkhqptvd/post/3mqz7xwid7k23",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T16:43:05.884Z",
+        "score": 0,
+        "snippet": "www.forbes.com/sites/edgars...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@travisketchum.bsky.social (Bluesky): I\u2019m picking up some new skills for my @rivianofficial.bsky.social content. What ",
+        "url": "https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3mqz7xuuwok2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T16:43:05.169Z",
+        "score": 0,
+        "snippet": "I\u2019m picking up some new skills for my @rivianofficial.bsky.social content. What a stunning place to learn the ropes. Stay Curious. \u270c\ufe0f \n\nComment your favorite Rivian color \u2b07\ufe0f",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): video.search.yahoo.com/search/video...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mqz4i2lopk2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T15:40:30.465Z",
+        "score": 1,
+        "snippet": "video.search.yahoo.com/search/video...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R1T is a special vehicle. \ud83d\udc99",
+        "url": "https://youtube.com/watch?v=QznSELpdUUs",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T17:30:41Z",
+        "score": 0,
+        "snippet": "Taking the Rivian R1T through a scenic shot in Walla Walla, WA. Special thanks to Leonetti Cellar. Resources : Get up to 500 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "One of the most important settings for your Rivian R2 #teamowl",
+        "url": "https://youtube.com/watch?v=CvbrP2vHnJ0",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T16:57:44Z",
+        "score": 0,
+        "snippet": "Owl enjoyers unite.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Can you find it?#shorts #fyp #rivian #trending #xyzbca #michaeljackson",
+        "url": "https://youtube.com/watch?v=J6dmBV2zQTg",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T16:27:33Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "#lifeisbutadream Rivian",
+        "url": "https://youtube.com/watch?v=vvxfVJpgoZA",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T15:43:29Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "US portfolio #Lucid #Rivian",
+        "url": "https://youtube.com/watch?v=G8QL0wFZHos",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T15:39:10Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Drive &amp; Chat: 1 Hour of Unedited Highway Hands Free",
+        "url": "https://youtube.com/watch?v=crF0SgCUnNQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T15:00:06Z",
+        "score": 0,
+        "snippet": "I drive the Rivian R2 on the highway for about an hour to demonstrate real world Universal Hands Free and efficiency on the 20\" ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Driver+ Autonomy+ with a hitch accessory?",
+        "url": "https://www.rivianforums.com/forum/threads/driver-autonomy-with-a-hitch-accessory.58244/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Driver+ Autonomy+ with a hitch accessory?",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      }
+    ]
   }
 ]
