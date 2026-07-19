@@ -69006,5 +69006,306 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-19T14:02:21.416190Z",
+    "timestamp": "2026-07-19T14:02:21.416190Z",
+    "sentiment": {
+      "positive": 11,
+      "neutral": 88,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_cybertruck": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 4,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "July Software Update",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, July 19, 2026 \u2014 2:02 PM PT \u2014 18 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* Top 5 Tesla Cybertruck Alternatives to Buy in 2026: Electric Pickup Trucks Worth Considering This Year - International Business Times Australia\n\u2022 *Rivian:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Top 5 Tesla Cybertruck Alternatives to Buy in 2026: Electric Pickup Trucks Worth Considering This Year - International Business Times Australia\n  https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQU12RFd1Tk8wZGVVOWdpU1VhbEpJbGdObFpnRjlic2FNRHc3X0hHclVfbVlFMWhqNXlFUHpNMDdmZ2djYkE3T19hWGFNVjM2V0Jsci1FRnNrajUxTmJra1pySXdodTVLWXZMSV9kWTQ2SXNSZk9kOXlkU1B2VjQ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (12)* \u2022 Rivian Assistant send message - trouble confirming message\n  https://www.reddit.com/r/Rivian/comments/1v0ov6a/rivian_assistant_send_message_trouble_confirming/\n*Business (0)* \u2022 No signals\n*Software (4)* \u2022 July Software Update\n  https://www.reddit.com/r/Rivian/comments/1v0p3p8/july_software_update/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "July Software Update",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0p3p8/july_software_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T12:18:17.850Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian Assistant send message - trouble confirming message",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0ov6a/rivian_assistant_send_message_trouble_confirming/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T12:06:58.550Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian EDV ad in Delaware",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0fmxg/rivian_edv_ad_in_delaware/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T03:29:10.443Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pickup day!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v0fkwr/pickup_day/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T03:26:15.479Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Top 5 Tesla Cybertruck Alternatives to Buy in 2026: Electric Pickup Trucks Worth Considering This Year - International Business Times Australia",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQU12RFd1Tk8wZGVVOWdpU1VhbEpJbGdObFpnRjlic2FNRHc3X0hHclVfbVlFMWhqNXlFUHpNMDdmZ2djYkE3T19hWGFNVjM2V0Jsci1FRnNrajUxTmJra1pySXdodTVLWXZMSV9kWTQ2SXNSZk9kOXlkU1B2VjQ?oc=5",
+        "source": "google_news_cybertruck",
+        "publishedAt": "Sun, 19 Jul 2026 11:18:46 GMT",
+        "score": 0,
+        "snippet": "Top 5 Tesla Cybertruck Alternatives to Buy in 2026: Electric Pickup Trucks Worth Considering This Year - International Business Times Australia",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@afarrell.bsky.social (Bluesky): I\u2019ve been noticing that the latest 3.14 update has caused crazy drain on my iPho",
+        "url": "https://bsky.app/profile/did:plc:fem474xuo6meyknnjjrcqoru/post/3mqywuxsjjc2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T14:00:23.167Z",
+        "score": 0,
+        "snippet": "I\u2019ve been noticing that the latest 3.14 update has caused crazy drain on my iPhone\u2019s battery even when only running in the background. Have you been hearing anything similar from other owners?",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@haeikou.bsky.social (Bluesky): Software Defined Vehicle ist so ne Cargo Cult L\u00fcge. Tesla hat over-the-air upgra",
+        "url": "https://bsky.app/profile/did:plc:y42lz6tplcqybfqdkrol5liy/post/3mqygeqjdp22i",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T09:04:57.769Z",
+        "score": 1,
+        "snippet": "Software Defined Vehicle ist so ne Cargo Cult L\u00fcge. Tesla hat over-the-air upgrades f\u00fcr Reichweite und Beschleunigung gebracht, Rivian f\u00fcr die Aufh\u00e4ngung (?). \n\nF\u00fcr Autoindustriemanager nat\u00fcrlich uner",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@doubting-thomas.bsky.social (Bluesky): VW schafft es nicht einmal, die Software f\u00fcr die eigene Flotte zu schreiben und ",
+        "url": "https://bsky.app/profile/did:plc:fzyyjg5kydanyzezw27kxfna/post/3mqyg34kytc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T08:59:36.565Z",
+        "score": 0,
+        "snippet": "VW schafft es nicht einmal, die Software f\u00fcr die eigene Flotte zu schreiben und holt sich Hilfe bei einem US Startup. www.motortrend.com/news/rivian-...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@stupiddope.bsky.social (Bluesky): ICYMI: Rivian x Nike ACG R1T Recharge Truck Reimagines Support Vehicles for Endu",
+        "url": "https://bsky.app/profile/did:plc:deuinqqjmpl3snvdy5lb4ic5/post/3mqydsqrsze2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T08:19:05.564Z",
+        "score": 0,
+        "snippet": "ICYMI: Rivian x Nike ACG R1T Recharge Truck Reimagines Support Vehicles for Endurance Sports #stupidDOPE",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN R1T TITANIUM EDITION (2026)",
+        "url": "https://youtube.com/watch?v=-IR4AhEyrwI",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T13:51:56Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T car evolves until 2050! \ud83d\ude31 #shorts #asmr #car",
+        "url": "https://youtube.com/watch?v=6ZxPuu3y24s",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T13:47:15Z",
+        "score": 0,
+        "snippet": "Rivian R1T car evolves until 2050! #shorts #asmr #car Experience the incredible evolution of Rivian, from its early 2009 electric ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My Truck Kneels Down So People Can Get In",
+        "url": "https://youtube.com/watch?v=iOFxEJkwQok",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T13:00:03Z",
+        "score": 0,
+        "snippet": "My Rivian R1T does something most trucks can't \u2014 it kneels down to make getting in easier. And that's not even the only party ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "V-MAX 285 KM/H RIVIAN R1S 1000 HP 1500 NM",
+        "url": "https://youtube.com/watch?v=MXKs2eDLgws",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T13:00:33Z",
+        "score": 0,
+        "snippet": "V-MAX 285 KM/H RIVIAN R1S 1000 HP 1500 NM PayPal https://www.paypal.com/donate/?hosted_button_id=BBW8B72GX65KL.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian vs Hummer EV: The Ultimate Electric Truck Battle #shorts #shortsfeed",
+        "url": "https://youtube.com/watch?v=2TyC1CBw-aM",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T12:00:19Z",
+        "score": 0,
+        "snippet": "Rivian vs. Hummer EV. We are breaking down the biggest rivalry in electric trucks. Are you team precision and efficiency with ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN R1T JUMP",
+        "url": "https://youtube.com/watch?v=zjVnex7WVJ4",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T11:03:11Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Can Employees Take Trade Secrets? \u2696\ufe0f\ud83d\udd0b",
+        "url": "https://youtube.com/watch?v=7czhLUuliwY",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T10:53:49Z",
+        "score": 0,
+        "snippet": "Did you hear about the latest @teslamotors vs. @rivianofficial clash? \u26a1   It's a battle for supremacy in the electric vehicle world.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2018 Mercedes GLE 350, 2023 Rivian R1T i przygotowania do wyjazdu w g\u00f3ry, czyli Hiob gl\u0119dzi. Part 1",
+        "url": "https://youtube.com/watch?v=Q1ldwm98KEw",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T10:00:38Z",
+        "score": 0,
+        "snippet": "Wspomagamy: https://caritas.pl https://patronite.pl/ewtn.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u26a0\ufe0fRIVIAN DISCOUNTS ARE HERE \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=_uVl3i8MSyo",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T08:00:13Z",
+        "score": 0,
+        "snippet": "RIVIAN DISCOUNTS ARE HERE \u26a1\ufe0f save $2500 link in bio \u26a1\ufe0f TESLA REFERRAL CODE LINK | Receive $1000 OFF Your ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
