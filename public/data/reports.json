@@ -70032,5 +70032,300 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-20T02:02:27.594997Z",
+    "timestamp": "2026-07-20T02:02:27.594997Z",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 94,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "Is it realistic to hope for YouTube Music?",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, July 20, 2026 \u2014 2:02 AM PT \u2014 17 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* \u2014\n\u2022 *Test drives:* Rivian's \"The Westchester\" Mall in White Plains NY location is the closest Rivian demo drive location for most of Connecticut, reservations at rivian.com/demo-drive @rivianofficial.bsky.social @rivi\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* \u2014\n  https://www.reddit.com/r/Rivian/comments/1v15mg5/tesla_charging/\n\u2022 *Competitive Threats:* \u2014\n  https://www.reddit.com/r/Rivian/comments/1v14h9u/tesla_wall_charger_randomly_gives_me_half_power/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (3)* \u2022 Rivian's \"The Westchester\" Mall in White Plains NY location is the closest Rivian demo drive location for most of Connecticut, reservations at rivian.com/demo-drive @rivianofficial.bsky.social @rivi\n  https://bsky.app/profile/did:plc:hextv7ov5rnm2dsj44mz3lkk/post/3mqzziebwkc2y\n*Vehicles (10)* \u2022 Support Group for Gen1 R1T Q LE Owners\n  https://www.reddit.com/r/Rivian/comments/1v15y1b/support_group_for_gen1_r1t_q_le_owners/\n*Business (1)* \u2022 Rivian vs Lucid: Which EV Stock Has the Bigger Future Potential? \u26a1 In this video, we compare Rivian (RIVN) and Lucid (LCID) ...\n  https://youtube.com/watch?v=NPQzHbTbHdQ\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 Is it realistic to hope for YouTube Music?\n  https://www.reddit.com/r/Rivian/comments/1v17zvr/is_it_realistic_to_hope_for_youtube_music/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Is it realistic to hope for YouTube Music?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v17zvr/is_it_realistic_to_hope_for_youtube_music/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T01:38:51.241Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Support Group for Gen1 R1T Q LE Owners",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v15y1b/support_group_for_gen1_r1t_q_le_owners/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T00:03:19.777Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla charging",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v15mg5/tesla_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T23:50:21.239Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla wall charger randomly gives me half power",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v14h9u/tesla_wall_charger_randomly_gives_me_half_power/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T23:01:42.272Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Help me identify what is rattling on my R1s",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v148r2/help_me_identify_what_is_rattling_on_my_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-19T22:52:07.810Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Advice: Launch Package or Forest Green",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v16eei/advice_launch_package_or_forest_green/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-20T00:23:26.328Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How is the Horn on the R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v15ylp/how_is_the_horn_on_the_r2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-20T00:04:02.828Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Quick-Take Review Of The 2027 Rivian R2\n\nhttps://www.evshift.com/493894/quick-ta",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mr25y7h2ym2l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T01:40:06.239Z",
+        "score": 0,
+        "snippet": "Quick-Take Review Of The 2027 Rivian R2\n\nhttps://www.evshift.com/493894/quick-take-review-of-the-2027-rivian-r2/\n\nRivian R2. Credit: Brooke Crothers The Rivian R2 is here. I got a small taste. A discl",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@k9s.bsky.social (Bluesky): I got to push an Also. (Rivian) Ebike to the max today and also test out all of ",
+        "url": "https://bsky.app/profile/did:plc:66ca62lx35j5ehjiwmd2bw4g/post/3mr256f3d322c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T01:25:40.570Z",
+        "score": 0,
+        "snippet": "I got to push an Also. (Rivian) Ebike to the max today and also test out all of the features. It was extremely fast and the torque is absolutely ludicrous. I could take it from 0-28mph in a couple sec",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@schoenen.bsky.social (Bluesky): FAFO\n\nRivian and Tesla don\u2019t kowtow to changing political winds\u2014they know exactl",
+        "url": "https://bsky.app/profile/did:plc:omd4p3c37t3ot4bclmzswpro/post/3mqzzvk5fx22c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T00:27:07.369Z",
+        "score": 0,
+        "snippet": "FAFO\n\nRivian and Tesla don\u2019t kowtow to changing political winds\u2014they know exactly where the auto industry is heading. Betting on internal combustion engines having a meaningful footprint in 10 years i",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evclubct.bsky.social (Bluesky): Rivian's \"The Westchester\" Mall in White Plains NY location is the closest Rivia",
+        "url": "https://bsky.app/profile/did:plc:hextv7ov5rnm2dsj44mz3lkk/post/3mqzziebwkc2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T00:19:39.776Z",
+        "score": 0,
+        "snippet": "Rivian's \"The Westchester\" Mall in White Plains NY location is the closest Rivian demo drive location for most of Connecticut, reservations at rivian.com/demo-drive\n\n@rivianofficial.bsky.social \n@rivi",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@paulbraren.bsky.social (Bluesky): Rivian R2 Test Drive: 10 Ideas to Tempt Even More Tesla Drivers\ntinkertry.com/ri",
+        "url": "https://bsky.app/profile/did:plc:6yxqy36ajlz3j2ejxgtqgoq4/post/3mqzzcy4ay22h",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T00:16:39.965Z",
+        "score": 1,
+        "snippet": "Rivian R2 Test Drive: 10 Ideas to Tempt Even More Tesla Drivers\ntinkertry.com/rivian-r2-vi...\nNew article & video includes my 1st impressions, suggestions, and comparison tables.\n\n@rivianofficial.bsky",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@scjessey.bsky.social (Bluesky): My next car will probably be a Rivian. If you look at the cost of ownership and ",
+        "url": "https://bsky.app/profile/did:plc:2sgmxa7pyza2nl55ffjfwefe/post/3mqzsfrhqns2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-19T22:12:55.876Z",
+        "score": 0,
+        "snippet": "My next car will probably be a Rivian. If you look at the cost of ownership and the cost to the planet, electric vehicles now make a lot more sense.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian vs Lucid Stock Analysis: Growth Potential, Risks, and Future Outlook",
+        "url": "https://youtube.com/watch?v=NPQzHbTbHdQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T01:29:06Z",
+        "score": 0,
+        "snippet": "Rivian vs Lucid: Which EV Stock Has the Bigger Future Potential? \u26a1 In this video, we compare Rivian (RIVN) and Lucid (LCID) ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Summit Ride in the Rivian: Paragliding Wind Check!",
+        "url": "https://youtube.com/watch?v=Zi29d3y2D_U",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T00:00:13Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Xpel Stealth PPF installation (Rivian Door)",
+        "url": "https://youtube.com/watch?v=5QbjSJkqQ_I",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T22:46:31Z",
+        "score": 0,
+        "snippet": "In this video I remove damaged paint protection film from a Rivian. I make and install a new piece to fit the driver door. If you have ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Test Drive: 10 Ideas to Tempt Even More Tesla Drivers",
+        "url": "https://youtube.com/watch?v=TNT5XbDsqpg",
+        "source": "youtube",
+        "publishedAt": "2026-07-19T22:44:11Z",
+        "score": 0,
+        "snippet": "I finally got to test drive the new Rivian R2! Here's what the demo drive was like, some close-up details other reviews have ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Tesla Competition"
+        ]
+      }
+    ]
   }
 ]
