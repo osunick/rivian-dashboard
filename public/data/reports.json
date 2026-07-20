@@ -71146,5 +71146,440 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-20T22:03:30.464060Z",
+    "timestamp": "2026-07-20T22:03:30.464060Z",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 88,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "Rivian one of the 13 automakers who\u2019ve signed up. For $3500 California rebate. Let\u2019s hope r2 is included.",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, July 20, 2026 \u2014 10:03 PM PT \u2014 27 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* The S&amp;P 500 Index erased early gains to finish lower as a decline in Apple Inc. and Tesla Inc. offset advances elsewhere. Chipmakers rebounded ahead of a deluge of earnings reports that will test\n\u2022 *Test drives:* R2 Test Drive. Current BMW X6 Driver.\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* The S&amp;P 500 Index erased early gains to finish lower as a decline in Apple Inc. and Tesla Inc. offset advances elsewhere. Chipmakers rebounded ahead of a deluge of earnings reports that will test\n  https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 R2 Test Drive. Current BMW X6 Driver.\n  https://www.reddit.com/r/RivianR2/comments/1v1u0kw/r2_test_drive_current_bmw_x6_driver/\n*Vehicles (19)* \u2022 Rivian one of the 13 automakers who\u2019ve signed up. For $3500 California rebate. Let\u2019s hope r2 is included.\n  https://www.reddit.com/r/Rivian/comments/1v1yz7o/rivian_one_of_the_13_automakers_whove_signed_up/\n*Business (0)* \u2022 No signals\n*Software (3)* \u2022 <IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"\n  https://www.techmeme.com/260720/p34#a260720p34\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian one of the 13 automakers who\u2019ve signed up. For $3500 California rebate. Let\u2019s hope r2 is included.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v1yz7o/rivian_one_of_the_13_automakers_whove_signed_up/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T21:42:27.852Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Delivery delayed for repair; exceeding trade-in mileage",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v1yyr6/delivery_delayed_for_repair_exceeding_tradein/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T21:41:57.372Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2115 Mile Camping Trip, California & Oregon",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v1xuzp/2115_mile_camping_trip_california_oregon/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T20:59:28.540Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R1S infant seat gets no air - any suggestions?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v1xc2n/r1s_infant_seat_gets_no_air_any_suggestions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T20:39:16.159Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone \u201cDowngrading\u201d to an R2 from an R1",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v1vl61/anyone_downgrading_to_an_r2_from_an_r1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T19:11:12.247Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone \u201cDowngrading\u201d to an R2 from an R1",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v1uxqr/anyone_downgrading_to_an_r2_from_an_r1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T19:11:12.247Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Any comparison of 2nd Gen R1S vs earlier models in terms of needing service?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v1v19z/any_comparison_of_2nd_gen_r1s_vs_earlier_models/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T19:14:39.428Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Energy stats on app",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v1t7rv/energy_stats_on_app/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T18:10:06.571Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R2 Test Drive. Current BMW X6 Driver.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v1u0kw/r2_test_drive_current_bmw_x6_driver/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-20T18:38:16.594Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "S&P Slips as Apple, Tesla Keep Broader Chipmaker Gains in Check",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise",
+        "source": "bloomberg_markets",
+        "publishedAt": "Mon, 20 Jul 2026 13:41:52 GMT",
+        "score": 0,
+        "snippet": "The S&amp;P 500 Index erased early gains to finish lower as a decline in Apple Inc. and Tesla Inc. offset advances elsewhere. Chipmakers rebounded ahead of a deluge of earnings reports that will test ",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Natural, which aims to help companies let their AI agents make autonomous payments, raised a $30M Series A led by Forerunner, bringing its total raised to $40M (Marina Temkin/TechCrunch)",
+        "url": "https://www.techmeme.com/260720/p34#a260720p34",
+        "source": "techmeme",
+        "publishedAt": "Mon, 20 Jul 2026 15:40:01 -0400",
+        "score": 0,
+        "snippet": "<A HREF=\"https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/\"><IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"http://www.techmeme.com/2",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Shares Down 1.2% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkh2eGZ0c2UwSnp0OTV5cFEwWl81bzFhb2RwX2lKZkJ0ZEM3d2FJSy1zdFc1djh0SVRRREpHWFQ0My1oTllDUVBMR09QMHBHZUZWNHdQNlFmZnRTNDRCSERkWU1SdkpEX0hYTU5lbWlBMWtiVTBnNW1LdTM1QUp3MGExbjZuM1ZNWGRtbUdyeG9TZ0JCVFpmMGRPel9QQk1tSE4tcE9ZdnZIVnJFQktweVBPUExGNGNz?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 20 Jul 2026 21:42:53 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Shares Down 1.2% - Here's What Happened - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s R2 shows the path to manufacturing-driven development - Automotive Manufacturing Solutions",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3YwNWQyU0ltbU1HMGpjWGZWdGpxYTBSN0o0WGNZcEg2X2J6MFJ3YUlCdVBFTE5QYnNEQWhJR2d5WWNKM0d1dWRrc1RyeC1oR0dNSzZYUTBxV3ozeWRDTWZZMTJwdUFtSkxiUFBubVJMLXg4Yk1DMWtiQ25PYkMyRXBUZ05rNGJWeTBqdmh4cEc4V3p4czh4NnJ2UC1feFhoUVQwdDVMVEUyMGd2ekFOcF9hRC01QlFfYm9oNjBNY3dFT3g5YlE?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 20 Jul 2026 17:15:05 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s R2 shows the path to manufacturing-driven development - Automotive Manufacturing Solutions",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ben-wins.bsky.social (Bluesky): Given this issue, Rivian should consider including an up to spec adaptor as part",
+        "url": "https://bsky.app/profile/did:plc:zltqjke3cn7tkqhtls2joqpf/post/3mr4atnsyyk2z",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T21:36:33.681Z",
+        "score": 0,
+        "snippet": "Given this issue, Rivian should consider including an up to spec adaptor as part of the purchase.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@insideevs.com (Bluesky): Since Rivian stuck with 400 volts to keep costs down, the R2's high-amperage cha",
+        "url": "https://bsky.app/profile/did:plc:3ez2pmoyablhgfw6rkfmv65n/post/3mr4ajjk6fk27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T21:30:54.970Z",
+        "score": 10,
+        "snippet": "Since Rivian stuck with 400 volts to keep costs down, the R2's high-amperage charging can be too much for some older adapters.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mrdna.bsky.social (Bluesky): A slate truck and rivian r3 would be my dream driveway.",
+        "url": "https://bsky.app/profile/did:plc:gmnt5zfhgmrowifbxhxtmd7n/post/3mr47qrzyh224",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T21:17:05.767Z",
+        "score": 0,
+        "snippet": "A slate truck and rivian r3 would be my dream driveway.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ownfeed.bsky.social (Bluesky): Participating automakers include Ford, GM, Honda, Hyundai, Kia, Lucid, Mitsubish",
+        "url": "https://bsky.app/profile/did:plc:iipowqhztticiguaxkwgtiwt/post/3mr43hfltrj2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T20:00:13.608Z",
+        "score": 0,
+        "snippet": "Participating automakers include Ford, GM, Honda, Hyundai, Kia, Lucid, Mitsubishi, Nissan, Rivian, Subaru, Tesla, Toyota, and Volvo.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@saygoodbuy.co (Bluesky): Shell's Pennsylvania plant has exceeded nitrogen oxide limits every month since ",
+        "url": "https://bsky.app/profile/did:plc:x3ke7ax5mpxplrcygnzsoef3/post/3mr42w764qk24",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T19:50:37.468Z",
+        "score": 0,
+        "snippet": "Shell's Pennsylvania plant has exceeded nitrogen oxide limits every month since 2022, racking up 23 violations with no fine since May 2023. An EV built electric from day one, like Rivian, skips the pu",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gregmigliore.bsky.social (Bluesky): My first drive of the 2027 @rivianofficial.bsky.social R2. www.forbes.com/sites/",
+        "url": "https://bsky.app/profile/did:plc:4wyrr5bsfcd7gq545jed2kyb/post/3mr42eftmkk27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T19:40:41.071Z",
+        "score": 1,
+        "snippet": "My first drive of the 2027 @rivianofficial.bsky.social R2. www.forbes.com/sites/gregmi...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): With the Rivian Roamer R2 fleet at 40 and counting rollout stats are now showing",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mr3waqnqmi2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T18:27:02.565Z",
+        "score": 2,
+        "snippet": "With the Rivian Roamer R2 fleet at 40 and counting rollout stats are now showing up for software updates!\n\nrivianroamer.com/software-up...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian Full Clear Paint Protection Film (PPF) Wrap Professional Results in Napa, California",
+        "url": "https://youtube.com/watch?v=ryWyunIh3Mw",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T21:28:18Z",
+        "score": 0,
+        "snippet": "Full wrap can be a great way to protect your vehicle against all environmental damage, giving you peace of mind on your next ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Just Changed Everything! R2 Is Coming, AI Robots Are Here, and Tesla Should Be Worried",
+        "url": "https://youtube.com/watch?v=afWOsmHLvZA",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T20:45:19Z",
+        "score": 0,
+        "snippet": "Rivian just made one of the biggest announcements in its history!** The highly anticipated **Rivian R2** is officially on track, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Get Free and Explore - Rivian R1S  #rivian #r1s #rivianreferralcode",
+        "url": "https://youtube.com/watch?v=YKn-rbPKQqM",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T20:11:37Z",
+        "score": 0,
+        "snippet": "Get Three Months Charging and Gear Shop points: Rivian Referral Code: ERYL4150576.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Full Rivian R1T Detail: Quick Detailer, Graphene Ceramic Spray, RVP &amp; PPF-Safe Trim Restoration",
+        "url": "https://youtube.com/watch?v=70xkC2YkIPM",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T19:45:33Z",
+        "score": 0,
+        "snippet": "Spent an afternoon refreshing my friend Ethan's Rivian R1T with the full Luma Auto lineup. The full workflow in this video: 0:00 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "V1 of my Rivian R2 Front License Plate holder to tow a hook piece.",
+        "url": "https://youtube.com/watch?v=8gILL5_UJVg",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T18:30:02Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Full Rivian R2 Beyond Zero Video Out Now!",
+        "url": "https://youtube.com/watch?v=RSEIslOuVts",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T18:08:58Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian SHOCKED the Auto Industry! The Electric SUV Everyone Will Be Talking About!",
+        "url": "https://youtube.com/watch?v=usokS3vngls",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T17:24:07Z",
+        "score": 0,
+        "snippet": "The 2027 Rivian is taking electric vehicles to the next level with its futuristic design, cutting-edge technology, incredible driving ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
