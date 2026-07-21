@@ -72402,5 +72402,438 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-21T22:03:28.280176Z",
+    "timestamp": "2026-07-21T22:03:28.280176Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 85,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "EV Market",
+      "RIVN Stock",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "27 signals across Vehicles (19), Competitive (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 21, 2026 \u2014 10:03 PM PT \u2014 27 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats, EV Market.\n\u2022 *Rivian posture:* 23 Rivian signals clustered around Vehicles (19), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Cruise Control Redesign/Request\n  https://www.reddit.com/r/Rivian/comments/1v2ryg8/cruise_control_redesignrequest/\n\u2022 *Rivn Stock:* Shares of Elon Musk's electric vehicle company are expected to see a sharp swing after Tesla rolls out its quarterly report.\n  https://www.cnbc.com/2026/07/21/tesla-shares-poised-for-biggest-earnings-move-in-a-year.html\n\u2022 *Competitive Threats:* For reference, GM has launched almost this entire lineup since the last new Tesla EV. Tesla\u2019s only upcoming product is a two seat, private owner focused taxi that might currently be illegal to sell as\n  https://bsky.app/profile/did:plc:tlf5hilbsn7vlw3rzunbzvw3/post/3mr6hvb6zus2l\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (19)* \u2022 Delivery timing?\n  https://www.reddit.com/r/Rivian/comments/1v2vs4d/delivery_timing/\n*Business (2)* \u2022 Rivian Stock Jumps As RIVN Hikes 2026 Delivery Outlook - StocksToTrade\n  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZFBoWkZUTHFpb29oQWV6bXJqVlF2NFg0UG9BQ3RFVmhTRXF6bUw4X09ZQVhkOEcxblZiaS1IVWxVaWlXeTQ2cXZXc0UwR0Nzb0Q2RmpEN084U1RoYy1kQzFBZm5Yc1BsSlRxMG1vdlVLTUVfc3BDMUlzZ1M2REk?oc=5\n*Software (1)* \u2022 EV market growth over the next year will come from Rivian, Toyota, BMW, and Hyundai/Kia. Ford and Mercedes might help in 2027, also VW. But at this point you're looking at 2028 as the launchpad for\n  https://bsky.app/profile/did:plc:rp4rgamibrblojq7f7pgmuxc/post/3mr6mlforok2v\n*Community (1)* \u2022 Question for the all electric owners\u2026\n  https://www.reddit.com/r/Rivian/comments/1v2s7h0/question_for_the_all_electric_owners/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 RIVN Stock\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "A boringly good service story (in NJ)...",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2wia4/a_boringly_good_service_story_in_nj/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T21:52:31.374Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Delivery timing?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2vs4d/delivery_timing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T21:24:22.810Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Seeking Feedback - Ceramic Coating by Rivian SC",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2vgeh/seeking_feedback_ceramic_coating_by_rivian_sc/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T21:12:11.883Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How do I give props when I see another Rivian?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2t1to/how_do_i_give_props_when_i_see_another_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T19:44:50.999Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Question for the all electric owners\u2026",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2s7h0/question_for_the_all_electric_owners/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T19:14:24.293Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Cruise Control Redesign/Request",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2ryg8/cruise_control_redesignrequest/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T19:05:37.719Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2qnae/psa_dont_use_an_old_charging_adapter_for_your/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T18:20:55.821Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v2qm5f/psa_dont_use_an_old_charging_adapter_for_your/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-21T18:19:53.959Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla shares poised for biggest earnings move in a year",
+        "url": "https://www.cnbc.com/2026/07/21/tesla-shares-poised-for-biggest-earnings-move-in-a-year.html",
+        "source": "cnbc_top",
+        "publishedAt": "Tue, 21 Jul 2026 18:25:07 GMT",
+        "score": 0,
+        "snippet": "Shares of Elon Musk's electric vehicle company are expected to see a sharp swing after Tesla rolls out its quarterly report.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Rivian Stock Jumps As RIVN Hikes 2026 Delivery Outlook - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZFBoWkZUTHFpb29oQWV6bXJqVlF2NFg0UG9BQ3RFVmhTRXF6bUw4X09ZQVhkOEcxblZiaS1IVWxVaWlXeTQ2cXZXc0UwR0Nzb0Q2RmpEN084U1RoYy1kQzFBZm5Yc1BsSlRxMG1vdlVLTUVfc3BDMUlzZ1M2REk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 21 Jul 2026 20:03:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Jumps As RIVN Hikes 2026 Delivery Outlook - StocksToTrade",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Price Up 3% - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZVhlT2xJOGcxRmJLRDhmTU1GUzVkUi1vblgwU1VFcmNjcE5YdGNOc2UwYXZEQUtuWDJUMlhqd3FuLTdXaTZpNW9TYkY2TDRJNnU3RTc3SUxOSkpzYllKLUpYMzlQN3FvNUNGWnhjOTBqMTRuVUVrWHdNWWRhbG4tZ2dqMGVsYm5GaFZSMVBISzBrUUd5c1VmenRBbG5QeTZhazdaUkh4MXdsQjhKenlORQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 21 Jul 2026 21:48:05 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Price Up 3% - Time to Buy? - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@howardkushlan.bsky.social (Bluesky): A new Rivian R2. Of course it\u2019s a student driver",
+        "url": "https://bsky.app/profile/did:plc:fqog56vdgmz6mpsku6km4n6l/post/3mr6q2jqoxc2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T21:14:36.263Z",
+        "score": 1,
+        "snippet": "A new Rivian R2. Of course it\u2019s a student driver",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@horadam.bsky.social (Bluesky): I'm guessing the next wave of product decisions will depend heavily on the succe",
+        "url": "https://bsky.app/profile/did:plc:rp4rgamibrblojq7f7pgmuxc/post/3mr6ntma2oc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T20:34:30.672Z",
+        "score": 0,
+        "snippet": "I'm guessing the next wave of product decisions will depend heavily on the success of their LMR battery chemistry. But for now, it's probably just following in Tesla, Rivian, and Ford's footsteps in s",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@horadam.bsky.social (Bluesky): EV market growth over the next year will come from Rivian, Toyota, BMW, and Hyun",
+        "url": "https://bsky.app/profile/did:plc:rp4rgamibrblojq7f7pgmuxc/post/3mr6mlforok2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T20:12:01.578Z",
+        "score": 2,
+        "snippet": "EV market growth over the next year will come from Rivian, Toyota, BMW, and Hyundai/Kia. \n\nFord and Mercedes might help in 2027, also VW. But at this point you're looking at 2028 as the launchpad for ",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@catchen.me (Bluesky): \u52a0\u5dde 8 \u6708\u4efd\u5f00\u59cb\u6709\u65b0\u7684 ZEV\uff08\u96f6\u6392\u653e\u6c7d\u8f66\uff09\u8865\u8d34\u3002\u8865\u8d34\u989d\u5ea6\u662f $3500\uff0c\u96f6\u6392\u653e\u610f\u5473\u7740\u4ec5\u9002\u7528\u4e8e\u7eaf\u7535\u6216\u6c22\u71c3\u6599\u7535\u6c60\uff0c\u800c\u4e14\u8fd8\u5fc5\u987b\u662f\u521d\u6b21\u8d2d\u4e70\u3002\u65b0\u8f66\u8f66\u4ef7\u5fc5\u987b\u5728 $50k",
+        "url": "https://bsky.app/profile/did:plc:m6eciwa66lnldukkffzddwnx/post/3mr6lvorlze2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T19:59:52.370Z",
+        "score": 0,
+        "snippet": "\u52a0\u5dde 8 \u6708\u4efd\u5f00\u59cb\u6709\u65b0\u7684 ZEV\uff08\u96f6\u6392\u653e\u6c7d\u8f66\uff09\u8865\u8d34\u3002\u8865\u8d34\u989d\u5ea6\u662f $3500\uff0c\u96f6\u6392\u653e\u610f\u5473\u7740\u4ec5\u9002\u7528\u4e8e\u7eaf\u7535\u6216\u6c22\u71c3\u6599\u7535\u6c60\uff0c\u800c\u4e14\u8fd8\u5fc5\u987b\u662f\u521d\u6b21\u8d2d\u4e70\u3002\u65b0\u8f66\u8f66\u4ef7\u5fc5\u987b\u5728 $50k \u4ee5\u5185\uff0c\u8d85\u8fc7\u4e86\u5c31\u62ff\u4e0d\u5230\u8865\u8d34\uff0c\u603b\u90e8\u5728\u52a0\u5dde\u7684\u8f66\u5382\u9664\u5916\u3002\u6240\u4ee5 Lucid \u548c Rivian \u4e0d\u53d7 $50k \u9650\u5236\uff0c\u4f46\u628a\u603b\u90e8\u642c\u8d70\u4e86\u7684 Tesla \u5c31\u6ca1\u8fd9\u5f85\u9047\u4e86\u3002 chatgpt.com/share/6a5fce...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angelogiganti.bsky.social (Bluesky): I\u2019d much rather have a #Rivian.",
+        "url": "https://bsky.app/profile/did:plc:l7zidxxfckv6mepubdxo7ch2/post/3mr6jvp4tts2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T19:24:05.675Z",
+        "score": 0,
+        "snippet": "I\u2019d much rather have a #Rivian.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): PSA: Don\u2019t Use An Old Charging Adapter For Your Rivian R2. It May Melt\n\nhttps://",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mr6jookqeo2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T19:20:10.668Z",
+        "score": 0,
+        "snippet": "PSA: Don\u2019t Use An Old Charging Adapter For Your Rivian R2. It May Melt\n\nhttps://www.evshift.com/495078/psa-dont-use-an-old-charging-adapter-for-your-rivian-r2-it-may-melt/\n\nPSA: Don\u2019t Use An Old Charg",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@davefoose.bsky.social (Bluesky): PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt insideevs",
+        "url": "https://bsky.app/profile/did:plc:37nkf4bl7g6kxtj4ic7gvktd/post/3mr6hxqu46s2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T18:49:27.673Z",
+        "score": 0,
+        "snippet": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt insideevs.com/news/802239/...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@fredsmith.bsky.social (Bluesky): For reference, GM has launched almost this entire lineup since the last new Tesl",
+        "url": "https://bsky.app/profile/did:plc:tlf5hilbsn7vlw3rzunbzvw3/post/3mr6hvb6zus2l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T18:48:05.575Z",
+        "score": 3,
+        "snippet": "For reference, GM has launched almost this entire lineup since the last new Tesla EV. Tesla\u2019s only upcoming product is a two seat, private owner focused taxi that might currently be illegal to sell as",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian R1T Quad vs R2 Launch Edition: Should I Trade?? Honest Thoughts @Rivian #tesla #roadtrip ",
+        "url": "https://youtube.com/watch?v=S1Ob5ohY6LM",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T20:53:10Z",
+        "score": 0,
+        "snippet": "Use my referral code to buy your TESLA!! https://ts.la/chloe592589 Use my referral code TRAVIS1836285 to buy your new Rivian!!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R2\u2014EV adventure made simple. #RivianR2 #ElectricSUV #AdventureReady #EVLife #NeoSpeeds.",
+        "url": "https://youtube.com/watch?v=R1ufrwBtEYI",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T20:50:47Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Just Exposed Tesla&#39;s Biggest Weakness\u2026 And Owners Are Finally Noticing",
+        "url": "https://youtube.com/watch?v=VNSrHxirGpg",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T20:45:04Z",
+        "score": 0,
+        "snippet": "The Rivian R2 Just Exposed Tesla's Biggest Weakness\u2026 And Owners Are Finally Noticing** Is the **Rivian R2** finally the ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Compared to a Tesla.. this is genuinely so good \ud83d\udc40 #rivian #r1t #interior #cartok #fyp",
+        "url": "https://youtube.com/watch?v=AQ30h7fSAYE",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T19:02:04Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T XPEL Stealth PPF Detail with #LumaAutomotive #automobile #rivian #carcare #evcare #tesla",
+        "url": "https://youtube.com/watch?v=kM88uxgA0Fg",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T18:45:38Z",
+        "score": 0,
+        "snippet": "Detailing a Rivian R1T with full XPEL Stealth PPF using the entire Luma Auto lineup. Every product formulated safe on film.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T backup camera broken. #adventuretruck #rivian",
+        "url": "https://youtube.com/watch?v=j7O_R6cPQz4",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T18:36:51Z",
+        "score": 0,
+        "snippet": "My backup camera on my Rivian R1T is displaying lines. Other cameras work just fine.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2024 Rivian R1S Adventure Quad Motor Large Pack, Capital Subaru of Greensboro",
+        "url": "https://youtube.com/watch?v=PyQlBQ5SYqo",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T18:22:02Z",
+        "score": 0,
+        "snippet": "Discover the Rivian R1S Adventure Quad Motor, a 2024 model designed for both adventure and everyday use. With 16312 miles ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is This New US Luxury SUV Better Than Tesla? Rivian R1S First Look!",
+        "url": "https://youtube.com/watch?v=eLPXWy5ZXqY",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T18:16:59Z",
+        "score": 0,
+        "snippet": "Description \u200bWelcome back to Car Zone! Today, we are taking an exclusive first look at the stunning new Rivian R1S inside the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
