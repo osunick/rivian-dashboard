@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GameFilm Pipeline.
-Fetches data, classifies sentiment (claude CLI, keyword fallback), builds report, formats brief.
+Fetches data, classifies sentiment with local heuristics, builds report, formats brief.
 Delivery is handled separately by scripts/send_gamefilm_signal.py so it can send
 directly to Signal and WhatsApp without relying on agent-session visibility.
 """
@@ -12,15 +12,6 @@ REPORTS_JSON = "/Users/osunick/.openclaw/workspace/rivian-dashboard/public/data/
 FETCH_LOG = "/tmp/gamefilm_fetch.log"
 RAW_JSON = "/tmp/gamefilm_raw.json"
 BRIEF_FILE = "/tmp/gamefilm_brief.txt"
-
-# Locally OAuth-authenticated `claude` CLI (Haiku) for sentiment — no API key.
-CLAUDE_BIN = os.environ.get('CLAUDE_BIN', '/opt/homebrew/bin/claude')
-SENTIMENT_MODEL = 'claude-haiku-4-5'
-SENTIMENT_BATCH = 40        # items per LLM call (bounds prompt size + latency)
-# Opus authors the brief itself (synthesis, not template). Falls back to the
-# deterministic compose_brief() below on any failure.
-BRIEF_MODEL = 'claude-opus-4-8'
-BRIEF_MAX_ITEMS = 60        # cap items handed to the briefing model (bounds prompt)
 
 def run(cmd, timeout=60):
     try:
@@ -211,7 +202,7 @@ def classify_sentiment(item):
     return 'neutral'
 
 def infer_themes(item):
-    """Deterministic fallback themes for when the LLM classifier is unavailable."""
+    """Infer a small set of dashboard themes from local keyword rules."""
     text = f"{item.get('title', '')} {item.get('snippet', '')}".lower()
     themes = []
     for theme, terms in THEME_RULES:
@@ -232,158 +223,70 @@ def infer_themes(item):
     }.get(category, 'Rivian Mentions')
     return [fallback]
 
-def _clean_themes(raw):
-    """Normalize a model-returned themes value into a list of <=3 short tags."""
-    if not isinstance(raw, list):
-        return []
-    out = []
-    for t in raw:
-        if not isinstance(t, str):
-            continue
-        tag = ' '.join(t.strip().split())[:32]
-        if tag:
-            out.append(tag)
-    return out[:3]
-
-def _llm_sentiment_batch(batch):
-    """Classify one batch via the claude CLI. Returns {local_index: {"s": sentiment,
-    "t": [themes]}} for indices the model returned validly, or {} on any failure
-    (caller falls back)."""
-    lines = []
-    for idx, it in enumerate(batch):
-        cat = it.get('category', 'other')
-        text = (it.get('title', '') + ' — ' + (it.get('snippet') or '')).strip()
-        lines.append(f"{idx} [{cat}]: {text[:240]}")
-    prompt = (
-        "You are a competitive-intelligence analyst for Rivian's product team. "
-        "For each item, do two things from RIVIAN's strategic perspective:\n"
-        "1) Classify sentiment:\n"
-        '- "positive": good for Rivian (strong sales/deliveries, profit, wins, praise, '
-        "favorable reviews, OR a competitor stumbling).\n"
-        '- "negative": bad for Rivian (recalls, lawsuits, losses, defects, complaints, '
-        "missed targets, OR a competitor winning/advancing — a competitive threat).\n"
-        '- "neutral": purely factual, ambiguous, or not consequential either way.\n'
-        "2) Tag 1-3 short themes (2-4 words each, Title Case) capturing the concrete "
-        'topic — e.g. "R2 Launch", "RIVN Stock", "Highway Assist", "Charging Network", '
-        '"Tesla FSD". Prefer reusing common themes across items so they aggregate.\n'
-        "The bracketed tag is the item's category; 'competitive' items are about rivals, "
-        "so judge them as threats/relief to Rivian.\n"
-        'Return ONLY a JSON array of {"i":<index>,"s":"positive|negative|neutral",'
-        '"t":["Theme One","Theme Two"]} — no prose, no markdown.\n\n'
-        + "\n".join(lines)
-    )
-    try:
-        r = subprocess.run(
-            [CLAUDE_BIN, '-p', '--model', SENTIMENT_MODEL, prompt],
-            capture_output=True, text=True, timeout=180,
-        )
-        out = (r.stdout or '').strip()
-        if r.returncode != 0 or not out:
-            print(f"[sentiment] LLM rc={r.returncode}: {(r.stderr or '')[:200]}", file=sys.stderr)
-            return {}
-        start, end = out.find('['), out.rfind(']')
-        if start == -1 or end == -1:
-            return {}
-        parsed = json.loads(out[start:end + 1])
-        result = {}
-        for obj in parsed:
-            i = obj.get('i')
-            s = obj.get('s')
-            if isinstance(i, int) and 0 <= i < len(batch) and s in ('positive', 'negative', 'neutral'):
-                result[i] = {'s': s, 't': _clean_themes(obj.get('t'))}
-        return result
-    except Exception as e:
-        print(f"[sentiment] LLM failed: {e}", file=sys.stderr)
-        return {}
-
 def assign_sentiments(items):
-    """Set item['sentiment'] and item['themes'] for every item using the LLM, batched.
-    Any item the LLM doesn't return falls back to the keyword classifier for sentiment
-    (themes default to []) so nothing is missed."""
-    for start in range(0, len(items), SENTIMENT_BATCH):
-        batch = items[start:start + SENTIMENT_BATCH]
-        mapped = _llm_sentiment_batch(batch)
-        for idx, it in enumerate(batch):
-            got = mapped.get(idx)
-            if got:
-                it['sentiment'] = got['s']
-                it['themes'] = got['t'] or infer_themes(it)
-            else:
-                it['sentiment'] = classify_sentiment(it)
-                it['themes'] = it.get('themes') or infer_themes(it)
+    """Set item['sentiment'] and item['themes'] for every item using local rules."""
+    for item in items:
+        item['sentiment'] = classify_sentiment(item)
+        item['themes'] = item.get('themes') or infer_themes(item)
 
-def compose_brief_llm(items, sentiment, ts):
-    """Have Opus author the brief from the scraped items (real synthesis, not a
-    template). Returns the brief string, or None on any failure so the caller can
-    fall back to the deterministic compose_brief()."""
-    neg = sentiment.get('negative', 0)
-    threat = sentiment_label(neg)
-    header = f"▪️ *GameFilm — Executive Intelligence Brief*\n_{format_date(ts)} — {format_time(ts)} — {len(items)} signals_"
-    footer = f"_Threat: {threat}_\n_Dashboard: https://watchgamefilm.vercel.app_"
+def top_themes(items, limit=3):
+    counts = {}
+    for item in items:
+        for theme in item.get('themes', []):
+            counts[theme] = counts.get(theme, 0) + 1
+    return [theme for theme, _ in sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))[:limit]]
 
-    by_cat = {}
-    for it in items[:BRIEF_MAX_ITEMS]:
-        by_cat.setdefault(it.get('category', 'other'), []).append(it)
+def category_counts(items):
+    counts = {}
+    for item in items:
+        category = item.get('category', 'other')
+        counts[category] = counts.get(category, 0) + 1
+    return counts
 
-    data_lines = []
-    for cat, cat_items in by_cat.items():
-        data_lines.append(f"\n## {cat} ({len(cat_items)})")
-        for it in cat_items:
-            sent = it.get('sentiment', 'neutral')
-            snip = clean_snippet(it.get('snippet'))
-            title = (it.get('title') or '').strip()
-            url = it.get('url', '')
-            data_lines.append(f"- [{sent}] {title} — {snip} {('<' + url + '>') if url else ''}".strip())
-    data_block = "\n".join(data_lines) if data_lines else "(no items)"
+def category_name(category):
+    import re
+    label = CATEGORY_LABELS.get(category, category.replace('_', ' ').title())
+    return re.sub(r'[^a-zA-Z &]', '', label).strip()
 
-    prompt = (
-        "You are a top-tier management consultant (e.g., McKinsey, BCG) writing an executive intelligence briefing for "
-        "Rivian's product leadership. Synthesize the scraped signals below into a highly structured, analytical, "
-        "and skimmable brief. Focus on strategic implications, market dynamics, and actionable intelligence. "
-        "Use precise, executive-level language.\n\n"
-        "OUTPUT RULES (this is sent over Signal/WhatsApp):\n"
-        "- Plain text only. Use *single asterisks* for bold (not **). No markdown tables, no headers with #. DO NOT use emojis.\n"
-        "- IGNORE and filter out low-value, purely conversational thread titles (like memes, image captions, or zero-context replies). Only synthesize actual signal/news.\n"
-        "- Use the following rigorous structure:\n"
-        "  *EXECUTIVE SUMMARY* (2-3 bullets summarizing macro market shifts, critical competitor moves, and Rivian's immediate posture).\n"
-        "  ━━━━━━━━━━\n"
-        "  *COMPETITIVE DYNAMICS* (Synthesize the most consequential competitor items, explicitly stating the strategic implication for Rivian).\n"
-        "  *PRODUCT & MARKET POSITIONING* (Group by relevant functional areas: Autonomy / Product & Vehicles / Go-to-Market / Corporate / Software & Tech).\n"
-        "  ━━━━━━━━━━\n"
-        "  *STRATEGIC IMPERATIVES* (3-5 forward-looking, action-oriented bullets detailing what leadership must track or respond to next).\n"
-        "- Include the source URL in <angle brackets> on its own line under any item you cite, so the link stays clickable.\n"
-        "- Start your output with EXACTLY this header, then a blank line:\n" + header + "\n"
-        "- End your output with EXACTLY these two lines:\n" + footer + "\n"
-        "- Output ONLY the brief text. No preamble, no code fences, no commentary.\n\n"
-        f"SENTIMENT MIX: {sentiment}\n"
-        "SIGNALS:\n" + data_block
-    )
+def plural(count, singular, plural_word=None):
+    return f"{count} {singular if count == 1 else (plural_word or singular + 's')}"
 
-    try:
-        r = subprocess.run(
-            [CLAUDE_BIN, '-p', '--model', BRIEF_MODEL, prompt],
-            capture_output=True, text=True, timeout=240,
+def compose_executive_summary(items, by_cat, sentiment, threat):
+    competitive_count = len(by_cat.get('competitive', []))
+    negative_count = sum(1 for item in items if item.get('sentiment') == 'negative')
+    non_comp_counts = {
+        c: len(by_cat.get(c, []))
+        for c in CATEGORY_ORDER
+        if c != 'competitive' and by_cat.get(c)
+    }
+    leading_categories = sorted(non_comp_counts.items(), key=lambda kv: (-kv[1], kv[0]))[:2]
+    leading_category_text = ', '.join(f"{category_name(c)} ({n})" for c, n in leading_categories)
+    theme_text = ', '.join(top_themes(items, 3))
+
+    lines = []
+    if competitive_count:
+        comp_themes = ', '.join(top_themes(by_cat.get('competitive', []), 2)) or 'competitive positioning'
+        lines.append(
+            f"• *Competitive landscape:* {plural(competitive_count, 'rival signal')} surfaced, led by {comp_themes}."
         )
-        out = (r.stdout or '').strip()
-        if r.returncode != 0 or not out:
-            print(f"[brief] LLM rc={r.returncode}: {(r.stderr or '')[:200]}", file=sys.stderr)
-            return None
-        # Strip accidental code fences
-        if out.startswith('```'):
-            out = out.split('\n', 1)[-1]
-            if out.rstrip().endswith('```'):
-                out = out.rstrip()[:-3].rstrip()
-        # Sanity: must look like the brief, not a refusal/explanation
-        if 'GameFilm' not in out or 'watchgamefilm.vercel.app' not in out:
-            print("[brief] LLM output failed sanity check; falling back", file=sys.stderr)
-            return None
-        return out.strip()
-    except Exception as e:
-        print(f"[brief] LLM failed: {e}", file=sys.stderr)
-        return None
+    else:
+        lines.append("• *Competitive landscape:* No material rival signal surfaced in this run.")
+
+    if leading_category_text:
+        lines.append(
+            f"• *Rivian posture:* {plural(sum(non_comp_counts.values()), 'Rivian signal')} clustered around {leading_category_text}."
+        )
+    else:
+        lines.append("• *Rivian posture:* No material Rivian product, market, or community signal surfaced in this run.")
+
+    risk_detail = f"{plural(negative_count, 'negative signal')}" if negative_count else "no negative signals"
+    if theme_text:
+        lines.append(f"• *Risk posture:* {threat} with {risk_detail}; watch {theme_text}.")
+    else:
+        lines.append(f"• *Risk posture:* {threat} with {risk_detail}.")
+    return lines
 
 def compose_brief(items, sentiment, ts):
-    pos = sentiment.get('positive', 0)
     neg = sentiment.get('negative', 0)
     threat = sentiment_label(neg)
 
@@ -394,44 +297,30 @@ def compose_brief(items, sentiment, ts):
 
     lines = []
     n_cats = sum(1 for c in CATEGORY_ORDER if c != 'competitive' and by_cat.get(c))
-    lines.append(f"🎬 *GameFilm — Rivian Intel*")
+    lines.append(f"▪️ *GameFilm — Executive Intelligence Brief*")
     lines.append(f"_{format_date(ts)} — {format_time(ts)} — {len(items)} signals · {n_cats} categories_")
     lines.append("")
-    lines.append("*🎯 SITREP*")
+    lines.append("*EXECUTIVE SUMMARY*")
 
     competitive = by_cat.get('competitive', [])
-    negative = [i for i in items if i.get('sentiment') == 'negative']
-    demo_drives = by_cat.get('demo_drives', [])
-    vehicles = by_cat.get('vehicles', [])
-    positive = [i for i in items if i.get('sentiment') == 'positive']
-
-    if competitive:
-        lines.append(f"• *Competitor:* {clean_snippet(competitive[0].get('snippet'))}")
-    if demo_drives:
-        lines.append(f"• *Test drives:* {clean_snippet(demo_drives[0].get('snippet') or demo_drives[0].get('title'))}")
-    elif vehicles:
-        lines.append(f"• *Rivian:* {clean_snippet(vehicles[0].get('snippet'))}")
-    if negative:
-        lines.append(f"• *Key risk:* {clean_snippet(negative[0].get('snippet'))}")
-    elif competitive and len(competitive) > 1:
-        lines.append(f"• *Key risk:* {clean_snippet(competitive[1].get('snippet'))}")
+    lines.extend(compose_executive_summary(items, by_cat, sentiment, threat))
 
     lines.append("")
     lines.append("━━━━━━━━━━")
-    lines.append(f"*⚔️ FIELD INTELLIGENCE* ({len(competitive)})")
+    lines.append(f"*COMPETITIVE DYNAMICS* ({len(competitive)})")
     if competitive:
         for item in competitive[:5]:
             theme = (item.get('themes',['competitive'])[0] if item.get('themes') else 'competitive').title()
-            lines.append(f"• *{theme}:* {clean_snippet(item.get('snippet'))}")
+            lines.append(f"• *{theme}:* {clean_snippet(item.get('snippet') or item.get('title'))}")
             if item.get('url'): lines.append(f"  {item['url']}")
     else:
         lines.append("• No competitive signals")
 
     lines.append("")
-    lines.append("*🚗 RIVIAN POSITION*")
+    lines.append("*PRODUCT & MARKET POSITIONING*")
     lines.append("")
     for cat_key in [c for c in CATEGORY_ORDER if c != 'competitive']:
-        cat_label = CATEGORY_LABELS[cat_key]
+        cat_label = category_name(cat_key)
         cat_items = by_cat.get(cat_key, [])
         cnt = len(cat_items)
         if cnt > 0:
@@ -443,7 +332,7 @@ def compose_brief(items, sentiment, ts):
 
     lines.append("")
     lines.append("━━━━━━━━━━")
-    lines.append("*📌 PM WATCH LIST*")
+    lines.append("*STRATEGIC IMPERATIVES*")
     all_themes = sorted(set(t for i in items for t in i.get('themes',[])))
     if all_themes:
         for t in all_themes[:6]: lines.append(f"• {t}")
@@ -458,10 +347,15 @@ def compose_brief(items, sentiment, ts):
     return "\n".join(lines)
 
 def summarize_for_dashboard(items):
-    for item in items:
-        text = clean_snippet(item.get('snippet') or item.get('title') or '')
-        if text != '—':
-            return text[:200]
+    if items:
+        counts = category_counts(items)
+        leading = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))[:2]
+        leading_text = ', '.join(f"{category_name(c)} ({n})" for c, n in leading)
+        theme_text = ', '.join(top_themes(items, 2))
+        summary = f"{plural(len(items), 'signal')} across {leading_text or 'Rivian intel'}"
+        if theme_text:
+            summary += f"; watch {theme_text}"
+        return summary[:200]
     return 'Rivian intel'
 
 def source_breakdown(items):
@@ -506,7 +400,7 @@ def main():
         for item in items:
             # Always re-classify — category from fetch may be stale
             item['category'] = guess_category(item)
-        # Sentiment via LLM (Rivian-perspective), batched, keyword fallback per item
+        # Sentiment from Rivian's perspective, using local heuristics.
         assign_sentiments(items)
 
         s = {'positive':0,'neutral':0,'negative':0}
@@ -516,12 +410,8 @@ def main():
 
         # Compose before saving so the dashboard JSON includes the same complete
         # narrative that gets delivered to Signal/WhatsApp.
-        brief = compose_brief_llm(items, sentiment, now_ts)
-        if brief:
-            print("[2] Brief authored by Opus")
-        else:
-            brief = compose_brief(items, sentiment, now_ts)
-            print("[2] Brief composed by template fallback")
+        brief = compose_brief(items, sentiment, now_ts)
+        print("[2] Brief composed")
 
         entry = {
             'id': now_ts, 'timestamp': now_ts,
@@ -574,12 +464,8 @@ def main():
     # Compose brief for no-new-items runs. New-item runs already composed and
     # persisted the brief before saving the report above.
     if 'brief' not in locals():
-        brief = compose_brief_llm(items, sentiment, now_ts)
-        if brief:
-            print("[4] Brief authored by Opus")
-        else:
-            brief = compose_brief(items, sentiment, now_ts)
-            print("[4] Brief composed by template fallback")
+        brief = compose_brief(items, sentiment, now_ts)
+        print("[4] Brief composed")
     with open(BRIEF_FILE, 'w') as f: f.write(brief)
     print(f"[4] Brief written to {BRIEF_FILE}")
     print(f"\n{brief}\n")
