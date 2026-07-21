@@ -71581,5 +71581,287 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-21T02:13:06.435299Z",
+    "timestamp": "2026-07-21T02:13:06.435299Z",
+    "sentiment": {
+      "positive": 12,
+      "neutral": 75,
+      "negative": 12
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "What did you drive before Rivian? Potential R1T owner wants to know",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 21, 2026 \u2014 2:13 AM PT \u2014 16 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitor:* China to launch Tesla-rivalling autonomous car tech in Aus - drive.com.au\n\u2022 *Rivian:* \u2014\n\u2022 *Key risk:* \u2014\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* China to launch Tesla-rivalling autonomous car tech in Aus - drive.com.au\n  https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGxxSnZTZEtWeE82eXF0WnNTOHl0TXRfS2wwNFRTZjhIX3VOcjVuS2VOQlBWRGQxME5SdUF6YlkyeXZNd0sycWc2Z3NHbWlCLXlXTGRLUjVHZkZFblZyQjA5VGJ5ZWg5YjVBUUtfWkVReVQ3WEYwOEFiMTk4S2tod0o0eTR3cGhYenBmVWN2bmhjdHMta1lfbDg5MEcyUWhYOG5DNnNpdlRCNmVnd1RQaWpnTUJWR19KVTRDVFBvdjJvanM?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (13)* \u2022 What did you drive before Rivian? Potential R1T owner wants to know\n  https://www.reddit.com/r/Rivian/comments/1v24840/what_did_you_drive_before_rivian_potential_r1t/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "What did you drive before Rivian? Potential R1T owner wants to know",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v24840/what_did_you_drive_before_rivian_potential_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T01:26:39.365Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "1,000 miles in on my R1T \u2014 home charging saved me way more than I expected",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v23y48/1000_miles_in_on_my_r1t_home_charging_saved_me/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T01:13:55.356Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Homage to the Rivian R1T in King of the Hill?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v20vnl/homage_to_the_rivian_r1t_in_king_of_the_hill/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T23:00:10.524Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Yet another extended warranty question...",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v20llq/yet_another_extended_warranty_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-20T22:48:24.149Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Insurance quote made my jaw drop",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v22xse/insurance_quote_made_my_jaw_drop/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-21T00:28:10.413Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFJyd1hiSDNZbFBMWWQ5THllZk5fbUgzVk9aRzM2QkwxNDNIcUVtOEJ0V29UTUVmdnFNX2tLUEVSdXZaaXo3S1hyalozWUtOdHpIZEZvVndfbVl3VFFNWFpzcFE4NnotTnlpUHZqdE15R3pPa2JZeElfRXNIX3NYWWFkVEJRZmRJSzBydVBCQS11em1sd2I1bS0xR0prVEk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 20 Jul 2026 21:50:04 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "China to launch Tesla-rivalling autonomous car tech in Aus - drive.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGxxSnZTZEtWeE82eXF0WnNTOHl0TXRfS2wwNFRTZjhIX3VOcjVuS2VOQlBWRGQxME5SdUF6YlkyeXZNd0sycWc2Z3NHbWlCLXlXTGRLUjVHZkZFblZyQjA5VGJ5ZWg5YjVBUUtfWkVReVQ3WEYwOEFiMTk4S2tod0o0eTR3cGhYenBmVWN2bmhjdHMta1lfbDg5MEcyUWhYOG5DNnNpdlRCNmVnd1RQaWpnTUJWR19KVTRDVFBvdjJvanM?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Tue, 21 Jul 2026 01:29:20 GMT",
+        "score": 0,
+        "snippet": "China to launch Tesla-rivalling autonomous car tech in Aus - drive.com.au",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): The Kia EV5 is the only one and the same segment but poorer range, less hp and m",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mr4mxsz5rk25",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T01:13:38.470Z",
+        "score": 0,
+        "snippet": "The Kia EV5 is the only one and the same segment but poorer range, less hp and more expensive. Also not coming to the US. \n\nRivian will sell a lot of R2\u2019s.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83d\udce6 Removed from the Rivian Gear Shop: Kids' Gear Guard Launch T-Shirt",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mr4faofj5d2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-20T22:55:25.464Z",
+        "score": 3,
+        "snippet": "\ud83d\udce6 Removed from the Rivian Gear Shop: Kids' Gear Guard Launch T-Shirt",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "1,000 Miles In My Rivian R1T \u2014 $12 vs $43 to Charge (Here&#39;s My Real Bill)",
+        "url": "https://youtube.com/watch?v=d17j0FhFz5A",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T01:06:35Z",
+        "score": 0,
+        "snippet": "1000 miles in and here's the real number: less than $12 to charge my Rivian R1T at home versus $43 at a Supercharger for the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Taking delivery of the first Rivian RCV 500 in Dallas, Texas!",
+        "url": "https://youtube.com/watch?v=p54CMmC_B3M",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T00:56:56Z",
+        "score": 0,
+        "snippet": "Just about to deliver this to one of our clients and excited to see it in the streets!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Parking assist tools in the Rivian R2",
+        "url": "https://youtube.com/watch?v=FTbm_dmu8DU",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T00:45:38Z",
+        "score": 0,
+        "snippet": "My rear camera is dirty, it looks better normally!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A Rivian ride feels less like a drive and more like a party with friends. \ud83c\udf89\ud83d\ude99 #rivian #friends",
+        "url": "https://youtube.com/watch?v=Rj2Ow77QIFI",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T00:12:49Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2: #cars #auto #cartok #rivian #rivianr2 #electricsuv #caradvisor #newcar #carsofinstagram",
+        "url": "https://youtube.com/watch?v=QGrskiDJo_8",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T23:16:54Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Is Continuously Recording Your Drives!",
+        "url": "https://youtube.com/watch?v=-AsQaMoCdtA",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T22:40:50Z",
+        "score": 0,
+        "snippet": "Very useful feature!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian ?!??",
+        "url": "https://youtube.com/watch?v=QpbTm68bTb0",
+        "source": "youtube",
+        "publishedAt": "2026-07-20T22:29:54Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
