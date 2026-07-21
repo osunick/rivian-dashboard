@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 :root {
-  --surface: #08080A;
-  --surface-elevated: #131318;
-  --ink: #F4F4F7;
-  --ink-soft: #9A9AA6;
-  --border: #26262F;
-  --marvel-red: #E62429;
-  --marvel-gold: #F5C518;
+  --surface: #F6F4EF;
+  --surface-elevated: #FFFDF8;
+  --ink: #171713;
+  --ink-soft: #6F695F;
+  --border: #DED7CA;
+  --marvel-red: #C83B2B;
+  --marvel-gold: #B58417;
 }
 
 * {
@@ -26,13 +26,12 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Cinematic backdrop: deep black with a red ember vignette + faint grain */
+/* Daylight dashboard backdrop: warm paper surface with a restrained blue sky wash */
 body {
-  background-color: #08080A;
+  background-color: var(--surface);
   background-image:
-    radial-gradient(120% 90% at 50% -10%, rgba(230, 36, 41, 0.10) 0%, rgba(230, 36, 41, 0) 55%),
-    radial-gradient(80% 60% at 100% 0%, rgba(58, 134, 255, 0.05) 0%, rgba(58, 134, 255, 0) 50%),
-    linear-gradient(180deg, #0B0B0E 0%, #08080A 40%, #060608 100%);
+    radial-gradient(80% 55% at 50% -10%, rgba(15, 91, 215, 0.10) 0%, rgba(15, 91, 215, 0) 60%),
+    linear-gradient(180deg, #FCFAF5 0%, #F6F4EF 48%, #EFE9DF 100%);
   background-attachment: fixed;
 }
 
@@ -56,17 +55,17 @@ a {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #2C2C36;
+  background: #C9C0B3;
   border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--marvel-red);
+  background: #0F5BD7;
 }
 
 ::selection {
-  background: rgba(230, 36, 41, 0.35);
-  color: #fff;
+  background: rgba(15, 91, 215, 0.18);
+  color: var(--ink);
 }
 
 .font-mono-num {
@@ -88,7 +87,7 @@ a {
 
 /* Red brand chip like the Marvel Studios block */
 .marvel-chip {
-  background: var(--marvel-red);
+  background: #171713;
   color: #fff;
   font-family: var(--font-poster), Impact, sans-serif;
   letter-spacing: 0.08em;
@@ -103,8 +102,8 @@ a {
   position: absolute;
   inset: 0 0 auto 0;
   height: 2px;
-  background: linear-gradient(90deg, transparent, var(--marvel-red), transparent);
-  opacity: 0.55;
+  background: linear-gradient(90deg, transparent, #0F5BD7, transparent);
+  opacity: 0.5;
 }
 
 /* Subtle film-grain overlay utility */

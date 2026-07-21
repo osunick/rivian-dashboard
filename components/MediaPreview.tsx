@@ -78,7 +78,7 @@ export default function MediaPreview({ url, title, className = '' }: Props) {
 
   if (youtubeId) {
     return (
-      <div className={`mt-3 overflow-hidden rounded-xl border border-white/10 bg-black/30 ${className}`}>
+      <div className={`mt-3 overflow-hidden rounded-xl border border-claude-border bg-[#F0EBE2] ${className}`}>
         <div className="aspect-video">
           <iframe
             src={`https://www.youtube.com/embed/${youtubeId}`}
@@ -94,7 +94,7 @@ export default function MediaPreview({ url, title, className = '' }: Props) {
 
   if (state.status === 'image') {
     return (
-      <div className={`mt-3 overflow-hidden rounded-xl border border-white/10 bg-black/30 ${className}`}>
+      <div className={`mt-3 overflow-hidden rounded-xl border border-claude-border bg-[#F0EBE2] ${className}`}>
         <img
           src={state.imageUrl}
           alt={title}
@@ -107,7 +107,7 @@ export default function MediaPreview({ url, title, className = '' }: Props) {
 
   if (state.status === 'loading') {
     return (
-      <div className={`mt-3 overflow-hidden rounded-xl border border-white/10 bg-black/30 ${className}`}>
+      <div className={`mt-3 overflow-hidden rounded-xl border border-claude-border bg-[#F0EBE2] ${className}`}>
         <div className="flex aspect-[16/9] items-center justify-center text-[11px] uppercase tracking-[0.22em] text-[#8b8478]">
           Loading preview
         </div>

@@ -20,7 +20,7 @@ const COLORS = {
 type SentimentFilter = 'all' | 'positive' | 'neutral' | 'negative';
 
 const FILTERS: { key: SentimentFilter; label: string; color: string }[] = [
-  { key: 'all', label: 'All', color: '#E6E6EA' },
+  { key: 'all', label: 'All', color: '#0F5BD7' },
   { key: 'positive', label: 'Positive', color: COLORS.positive },
   { key: 'neutral', label: 'Neutral', color: COLORS.neutral },
   { key: 'negative', label: 'Negative', color: COLORS.negative },
@@ -32,7 +32,7 @@ const CustomTooltip = ({ active, payload, label }: any) => {
   for (const p of payload) map[p.dataKey] = p.value;
   const total = (map.positive ?? 0) + (map.neutral ?? 0) + (map.negative ?? 0);
   return (
-    <div className="rounded-md border border-marvel-line bg-[#0C0C10]/95 px-3 py-2.5 shadow-cinematic backdrop-blur">
+    <div className="rounded-md border border-claude-border bg-white/95 px-3 py-2.5 shadow-cinematic backdrop-blur">
       <div className="mb-2 font-mono-num text-[10px] uppercase tracking-[0.22em] text-claude-muted">
         {label} · {total} signals
       </div>
@@ -47,7 +47,7 @@ const CustomTooltip = ({ active, payload, label }: any) => {
           </div>
         ))}
       </div>
-      <div className="mt-2 font-mono-num text-[10px] text-[#E62429]">click to drill down ↓</div>
+      <div className="mt-2 font-mono-num text-[10px] text-claude-accent">click to drill down ↓</div>
     </div>
   );
 };
@@ -55,10 +55,10 @@ const CustomTooltip = ({ active, payload, label }: any) => {
 function DrillDownPanel({ point, filter, onClose }: { point: PublishTrendPoint; filter: SentimentFilter; onClose: () => void }) {
   const items = (point.items ?? []).filter(it => filter === 'all' || it.sentiment === filter);
   return (
-    <div className="mt-4 overflow-hidden rounded-lg border border-marvel-line bg-[#0C0C10]">
-      <div className="flex items-center justify-between border-b border-marvel-line bg-[#111118] px-4 py-2">
+    <div className="mt-4 overflow-hidden rounded-lg border border-claude-border bg-white">
+      <div className="flex items-center justify-between border-b border-claude-border bg-[#FCFAF5] px-4 py-2">
         <div className="flex items-center gap-3">
-          <span className="font-mono-num text-[10px] uppercase tracking-[0.22em] text-[#E62429]">Drill-down</span>
+          <span className="font-mono-num text-[10px] uppercase tracking-[0.22em] text-claude-accent">Drill-down</span>
           <span className="font-mono-num text-[11px] text-claude-text">{point.label}</span>
           <span className="flex gap-2">
             <span className="font-mono-num text-[11px]" style={{ color: COLORS.positive }}>▲{point.positive}</span>
@@ -79,9 +79,9 @@ function DrillDownPanel({ point, filter, onClose }: { point: PublishTrendPoint; 
           No individual signals recorded for this day.
         </div>
       ) : (
-        <div className="max-h-80 divide-y divide-marvel-line overflow-y-auto">
+        <div className="max-h-80 divide-y divide-claude-border overflow-y-auto">
           {items.map((item: PublishTrendItem, i) => (
-            <div key={item.url + i} className="group px-4 py-3 transition-colors hover:bg-[#111118]">
+            <div key={item.url + i} className="group px-4 py-3 transition-colors hover:bg-[#F7FAFF]">
               <div className="flex items-start gap-3">
                 <div
                   className="mt-1 w-1.5 flex-shrink-0 rounded-full"
@@ -89,7 +89,7 @@ function DrillDownPanel({ point, filter, onClose }: { point: PublishTrendPoint; 
                 />
                 <div className="min-w-0 flex-1">
                   <div className="mb-1 flex items-center gap-2">
-                    <span className="rounded bg-[#1A1A22] px-1.5 py-0.5 font-mono-num text-[10px] text-claude-muted">
+                    <span className="rounded bg-[#F0EBE2] px-1.5 py-0.5 font-mono-num text-[10px] text-claude-muted">
                       {(SOURCE_LABELS as Record<string, string>)[item.source] ?? item.source}
                     </span>
                     <span
@@ -110,7 +110,7 @@ function DrillDownPanel({ point, filter, onClose }: { point: PublishTrendPoint; 
                     href={item.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block text-[13px] font-semibold leading-snug text-claude-text transition-colors hover:text-[#2DD4A7]"
+                    className="block text-[13px] font-semibold leading-snug text-claude-text transition-colors hover:text-claude-accent"
                     title={item.title}
                   >
                     {item.title} ↗
@@ -125,7 +125,7 @@ function DrillDownPanel({ point, filter, onClose }: { point: PublishTrendPoint; 
         </div>
       )}
 
-      <div className="border-t border-marvel-line bg-[#111118] px-4 py-2 font-mono-num text-[10px] text-claude-muted">
+      <div className="border-t border-claude-border bg-[#FCFAF5] px-4 py-2 font-mono-num text-[10px] text-claude-muted">
         {items.length} signal{items.length !== 1 ? 's' : ''} · click any title to verify the source
       </div>
     </div>
@@ -165,9 +165,9 @@ export default function PublishSentimentTrend({ data }: Props) {
               onClick={() => setFilter(f.key)}
               className="flex items-center gap-1.5 rounded-md border px-2.5 py-1 font-mono-num text-[10px] uppercase tracking-[0.16em] transition-colors"
               style={{
-                borderColor: active ? f.color : '#26262F',
-                backgroundColor: active ? f.color + '1F' : 'transparent',
-                color: active ? f.color : '#7A7A86',
+                borderColor: active ? f.color : '#DED7CA',
+                backgroundColor: active ? f.color + '1F' : '#FFFDF8',
+                color: active ? f.color : '#6F695F',
               }}
             >
               {f.key !== 'all' && <span className="h-2 w-2 rounded-sm" style={{ background: f.color }} />}
@@ -200,25 +200,25 @@ export default function PublishSentimentTrend({ data }: Props) {
               <stop offset="100%" stopColor={COLORS.negative} stopOpacity={0.04} />
             </linearGradient>
           </defs>
-          <CartesianGrid strokeDasharray="2 4" stroke="#1F1F27" vertical={false} />
+          <CartesianGrid strokeDasharray="2 4" stroke="#DED7CA" vertical={false} />
           <XAxis
             dataKey="label"
-            tick={{ fill: '#7A7A86', fontSize: 10, fontFamily: 'var(--font-mono)' }}
+            tick={{ fill: '#6F695F', fontSize: 10, fontFamily: 'var(--font-mono)' }}
             tickLine={false}
-            axisLine={{ stroke: '#26262F' }}
+            axisLine={{ stroke: '#DED7CA' }}
             interval="preserveStartEnd"
             minTickGap={16}
           />
           <YAxis
-            tick={{ fill: '#7A7A86', fontSize: 10, fontFamily: 'var(--font-mono)' }}
+            tick={{ fill: '#6F695F', fontSize: 10, fontFamily: 'var(--font-mono)' }}
             tickLine={false}
             axisLine={false}
             allowDecimals={false}
             width={42}
           />
-          <Tooltip content={<CustomTooltip />} cursor={{ stroke: '#E62429', strokeWidth: 1, strokeDasharray: '3 3' }} />
+          <Tooltip content={<CustomTooltip />} cursor={{ stroke: '#0F5BD7', strokeWidth: 1, strokeDasharray: '3 3' }} />
           {selectedPoint && (
-            <ReferenceLine x={selectedPoint.label} stroke="#E62429" strokeWidth={2} strokeDasharray="4 2" />
+            <ReferenceLine x={selectedPoint.label} stroke="#0F5BD7" strokeWidth={2} strokeDasharray="4 2" />
           )}
           {show('negative') && <Area type="monotone" dataKey="negative" stackId="1" stroke={COLORS.negative} strokeWidth={1.5} fill="url(#trendNeg)" />}
           {show('neutral') && <Area type="monotone" dataKey="neutral" stackId="1" stroke={COLORS.neutral} strokeWidth={1.5} fill="url(#trendNeu)" />}

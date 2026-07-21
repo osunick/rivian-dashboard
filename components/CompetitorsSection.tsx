@@ -36,11 +36,11 @@ export default function CompetitorsSection({ competitors, threatStyles }: Props)
     <>
       <div className="space-y-3">
         {competitors.map(({ competitor, count, threat, latestItem, items }) => (
-          <div key={competitor.id} className="rounded-lg border border-white/[0.07] bg-white/[0.02] p-3 transition-colors hover:border-marvel-red/30">
+          <div key={competitor.id} className="rounded-lg border border-claude-border bg-white/70 p-3 transition-colors hover:border-claude-accent/45 hover:bg-[#F7FAFF]">
             <div className="flex items-start justify-between gap-3">
               <div>
-                <div className="text-[13px] font-semibold text-zinc-100">{competitor.name}</div>
-                <div className="font-mono-num text-[11px] text-zinc-500">{competitor.tagline}</div>
+                <div className="text-[13px] font-semibold text-claude-text">{competitor.name}</div>
+                <div className="font-mono-num text-[11px] text-claude-muted">{competitor.tagline}</div>
               </div>
               <button
                 type="button"
@@ -59,12 +59,12 @@ export default function CompetitorsSection({ competitors, threatStyles }: Props)
                   href={latestItem.url}
                   target="_blank"
                   rel="noreferrer"
-                  className="text-[13px] leading-5 text-zinc-400 hover:text-marvel-red transition-colors"
+                  className="text-[13px] leading-5 text-claude-muted hover:text-claude-accent transition-colors"
                 >
                   {latestItem.title}
                 </a>
               ) : (
-                <div className="text-[13px] leading-5 text-zinc-600">No recent matched items.</div>
+                <div className="text-[13px] leading-5 text-claude-muted/70">No recent matched items.</div>
               )}
             </div>
 
@@ -72,7 +72,7 @@ export default function CompetitorsSection({ competitors, threatStyles }: Props)
               <button
                 type="button"
                 onClick={() => setActiveCompetitorId(competitor.id)}
-                className="mt-2 font-mono-num text-[10px] uppercase tracking-[0.12em] text-zinc-500 hover:text-marvel-red transition-colors"
+                className="mt-2 font-mono-num text-[10px] uppercase tracking-[0.12em] text-claude-muted hover:text-claude-accent transition-colors"
               >
                 View all {items.length} signals
               </button>

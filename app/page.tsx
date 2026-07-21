@@ -19,10 +19,10 @@ import DrillDown, { DrillDownItem } from '@/components/DrillDown';
 export const dynamic = 'force-dynamic';
 
 const THREAT_STYLES = {
-  high: { label: 'Critical', tone: 'bg-[#E62429]/15 text-[#FF5A5F] border-[#E62429]/40' },
-  elevated: { label: 'Elevated', tone: 'bg-[#F5C518]/12 text-[#F5C518] border-[#F5C518]/35' },
-  medium: { label: 'Monitoring', tone: 'bg-[#3A86FF]/12 text-[#6FA8FF] border-[#3A86FF]/35' },
-  low: { label: 'Clear', tone: 'bg-[#2DD4A7]/12 text-[#2DD4A7] border-[#2DD4A7]/30' },
+  high: { label: 'Critical', tone: 'bg-[#FDE8E6] text-[#B42318] border-[#F0A8A1]' },
+  elevated: { label: 'Elevated', tone: 'bg-[#FFF5D6] text-[#8A5B00] border-[#E9C766]' },
+  medium: { label: 'Monitoring', tone: 'bg-[#E8F0FF] text-[#0F5BD7] border-[#AFC8F6]' },
+  low: { label: 'Clear', tone: 'bg-[#E6F6EF] text-[#087047] border-[#A8DCC4]' },
 } as const;
 
 function formatTimestamp(value: string) {
@@ -319,9 +319,9 @@ function buildSummaryNotes({
 }
 
 function sentimentTone(sentiment: SentimentLabel) {
-  if (sentiment === 'positive') return 'bg-[#2DD4A7]/12 text-[#2DD4A7] border border-[#2DD4A7]/25';
-  if (sentiment === 'negative') return 'bg-[#F0453A]/12 text-[#FF6B61] border border-[#F0453A]/25';
-  return 'bg-white/[0.04] text-claude-muted border border-white/10';
+  if (sentiment === 'positive') return 'bg-[#E6F6EF] text-[#087047] border border-[#A8DCC4]';
+  if (sentiment === 'negative') return 'bg-[#FDE8E6] text-[#B42318] border border-[#F0A8A1]';
+  return 'bg-[#F0EBE2] text-claude-muted border border-claude-border';
 }
 
 function ScopeTab({ active, href, label }: { active: boolean; href: string; label: string }) {
@@ -330,8 +330,8 @@ function ScopeTab({ active, href, label }: { active: boolean; href: string; labe
       href={href}
       className={`rounded-md px-3 py-1.5 text-[13px] font-medium transition-all ${
         active
-          ? 'bg-marvel-red text-white shadow-glow'
-          : 'bg-transparent text-claude-muted hover:text-claude-text hover:bg-white/5'
+          ? 'bg-claude-accent text-white shadow-glow'
+          : 'bg-transparent text-claude-muted hover:text-claude-text hover:bg-[#F0EBE2]'
       }`}
     >
       {label}
@@ -351,10 +351,10 @@ function Card({
   className?: string;
 }) {
   return (
-    <section className={`relative overflow-hidden rounded-xl border border-claude-border bg-claude-card/80 shadow-cinematic backdrop-blur-sm ${className}`}>
-      <div className="flex items-center justify-between gap-3 border-b border-white/[0.06] px-5 py-3.5">
+    <section className={`relative overflow-hidden rounded-xl border border-claude-border bg-claude-card/95 shadow-cinematic ${className}`}>
+      <div className="flex items-center justify-between gap-3 border-b border-claude-border/70 bg-[#FCFAF5] px-5 py-3.5">
         <h2 className="flex items-center gap-2.5 text-[15px] font-semibold tracking-tight text-claude-text">
-          <span className="h-3.5 w-[3px] rounded-full bg-marvel-red" />
+          <span className="h-3.5 w-[3px] rounded-full bg-claude-accent" />
           {title}
         </h2>
         {meta ? <div className="font-mono-num text-[11px] uppercase tracking-[0.14em] text-claude-muted">{meta}</div> : null}
@@ -557,8 +557,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
   return (
     <main className="min-h-screen px-3 py-5 sm:px-6 sm:py-7">
       <div className="mx-auto max-w-7xl space-y-4">
-        <header className="edge-top-red grain relative overflow-hidden rounded-xl border border-claude-border bg-gradient-to-b from-[#16161C] to-[#0C0C10] shadow-cinematic">
-          <div className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-marvel-red/15 blur-3xl" />
+        <header className="edge-top-red relative overflow-hidden rounded-xl border border-claude-border bg-gradient-to-br from-[#FFFDF8] via-[#FCFAF5] to-[#EAF1FF] shadow-cinematic">
           <div className="relative flex flex-col gap-4 px-5 py-5 sm:px-7 sm:py-6 lg:flex-row lg:items-center lg:justify-between">
             <div className="min-w-0">
               <div className="flex flex-wrap items-center gap-2.5">
@@ -569,7 +568,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                 </span>
               </div>
               <h1 className="poster-mark mt-3 text-5xl text-claude-text sm:text-6xl">
-                EXECUTIVE <span className="text-marvel-red">BRIEF</span>
+                EXECUTIVE <span className="text-claude-accent">BRIEF</span>
               </h1>
               <div className="mt-2 font-mono-num text-[11px] uppercase tracking-[0.16em] text-claude-muted">
                 Last scan · {lastUpdated}
@@ -577,14 +576,14 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             </div>
 
             <div className="flex flex-wrap items-center gap-2.5">
-              <div className="flex items-center gap-1 rounded-lg border border-white/10 bg-black/40 p-1">
+              <div className="flex items-center gap-1 rounded-lg border border-claude-border bg-white/75 p-1 shadow-sm">
                 <ScopeTab active={scope === 'latest'} href="?scope=latest" label="Latest" />
                 <ScopeTab active={scope === '7d'} href="?scope=7d" label="7 days" />
                 <ScopeTab active={scope === 'all'} href="?scope=all" label="Archive" />
               </div>
               <a
                 href="/newsletter"
-                className="rounded-md border border-marvel-red/40 bg-marvel-red/10 px-3 py-1.5 text-[13px] font-medium text-[#FF6B61] transition-colors hover:bg-marvel-red/20"
+                className="rounded-md border border-claude-border bg-white/75 px-3 py-1.5 text-[13px] font-medium text-claude-text transition-colors hover:border-claude-accent hover:text-claude-accent"
               >
                 Weekly
               </a>
@@ -593,20 +592,20 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             </div>
           </div>
 
-          <div className="relative grid grid-cols-2 gap-px border-t border-white/[0.06] bg-white/[0.05] sm:grid-cols-3 xl:grid-cols-6">
+          <div className="relative grid grid-cols-2 gap-px border-t border-claude-border bg-claude-border sm:grid-cols-3 xl:grid-cols-7">
             {headerStats.map(stat => {
               const body = (
                 <>
                   <div className="flex items-center justify-between font-mono-num text-[10px] uppercase tracking-[0.16em] text-claude-muted">
                     <span>{stat.label}</span>
-                    {stat.items.length > 0 && <span className="text-claude-muted/40 group-hover:text-marvel-red transition-colors">↗</span>}
+                    {stat.items.length > 0 && <span className="text-claude-muted/50 group-hover:text-claude-accent transition-colors">↗</span>}
                   </div>
                   <div className="mt-1 font-mono-num text-3xl font-semibold tabular-nums text-claude-text">{stat.value}</div>
                 </>
               );
               if (stat.items.length === 0) {
                 return (
-                  <div key={stat.label} className="bg-[#0C0C10] px-4 py-3.5">{body}</div>
+                  <div key={stat.label} className="bg-[#FFFDF8] px-4 py-3.5">{body}</div>
                 );
               }
               return (
@@ -617,7 +616,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                   label={stat.drillLabel}
                   description={stat.drillDescription}
                   footerSuffix={stat.footerSuffix}
-                  className="group block w-full bg-[#0C0C10] px-4 py-3.5 text-left transition-colors hover:bg-[#13131A]"
+                  className="group block w-full bg-[#FFFDF8] px-4 py-3.5 text-left transition-colors hover:bg-[#F0EBE2]"
                 >
                   {body}
                 </DrillDown>
@@ -657,7 +656,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                     title={theme.theme}
                     items={scopeItems.filter(item => (item.themes ?? []).includes(theme.theme))}
                     footerSuffix="in this theme"
-                    className="rounded-lg border border-white/[0.07] bg-white/[0.03] px-3 py-1.5 text-left transition-colors hover:border-marvel-red/40"
+                    className="rounded-lg border border-claude-border bg-white/70 px-3 py-1.5 text-left transition-colors hover:border-claude-accent/45"
                   >
                     <div className="text-[13px] font-medium text-claude-text">{theme.theme}</div>
                     <div className="mt-0.5 font-mono-num text-[11px] text-claude-muted">{theme.count} mentions</div>
@@ -686,12 +685,12 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                   className="group block w-full text-left"
                 >
                   <div className="mb-2 flex items-center justify-between text-[14px] text-claude-text/90">
-                    <span className="transition-colors group-hover:text-marvel-red">{source.label}</span>
+                    <span className="transition-colors group-hover:text-claude-accent">{source.label}</span>
                     <span className="font-mono-num text-[13px] text-claude-muted">{source.count}</span>
                   </div>
-                  <div className="h-1.5 rounded-full bg-claude-border/40">
+                  <div className="h-1.5 rounded-full bg-claude-border">
                     <div
-                      className="h-1.5 rounded-full bg-claude-accent transition-all group-hover:bg-marvel-red"
+                      className="h-1.5 rounded-full bg-claude-accent transition-all"
                       style={{ width: `${(source.count / Math.max(sourceCounts[0]?.count ?? 1, 1)) * 100}%` }}
                     />
                   </div>
@@ -709,7 +708,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                     href={item.url}
                     target="_blank"
                     rel="noreferrer"
-                    className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
+                    className="block rounded-lg border border-claude-border bg-white/70 p-3.5 transition-all hover:border-claude-accent/45 hover:bg-[#F7FAFF]"
                   >
                     <div className="mb-2 flex flex-wrap items-center gap-2">
                       <span className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${sentimentTone(item.sentiment)}`}>{item.sentiment}</span>
@@ -720,7 +719,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                         </span>
                       )}
                     </div>
-                    <div className="text-[14px] font-medium leading-snug text-claude-text group-hover:text-marvel-red">
+                    <div className="text-[14px] font-medium leading-snug text-claude-text group-hover:text-claude-accent">
                       {item.title}
                     </div>
                     {item.snippet && (
@@ -742,7 +741,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                 {demoDriveSignals.slice(0, 8).map(item => (
                   <div
                     key={item.url}
-                    className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
+                    className="block rounded-lg border border-claude-border bg-white/70 p-3.5 transition-all hover:border-claude-accent/45 hover:bg-[#F7FAFF]"
                   >
                     <div className="mb-2 flex flex-wrap items-center gap-2">
                       <span className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${sentimentTone(item.sentiment)}`}>{item.sentiment}</span>
@@ -750,7 +749,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                       <span className="ml-auto font-mono-num text-[11px] text-claude-muted">{formatCompactDate(item.publishDate)}</span>
                     </div>
                     <a href={item.url} target="_blank" rel="noreferrer" className="group block">
-                      <h3 className="text-[15px] font-semibold leading-snug text-claude-text transition-colors group-hover:text-marvel-red">
+                      <h3 className="text-[15px] font-semibold leading-snug text-claude-text transition-colors group-hover:text-claude-accent">
                         {item.title}
                       </h3>
                     </a>
@@ -781,13 +780,13 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                     className="group block w-full text-left"
                   >
                     <div className="mb-1.5 flex items-center justify-between text-[14px] text-claude-text/90">
-                      <span className="transition-colors group-hover:text-marvel-red">{topic.label}</span>
+                      <span className="transition-colors group-hover:text-claude-accent">{topic.label}</span>
                       <span className="font-mono-num text-[13px] text-claude-muted">
                         {topic.count}
                         <span className="ml-1.5 text-[11px] text-claude-muted/60">{Math.round((topic.positive / topic.count) * 100)}%+</span>
                       </span>
                     </div>
-                    <div className="flex h-1.5 overflow-hidden rounded-full bg-claude-border/30">
+                    <div className="flex h-1.5 overflow-hidden rounded-full bg-claude-border">
                       <div style={{ width: `${(topic.positive / topic.count) * 100}%`, background: '#2DD4A7' }} />
                       <div style={{ width: `${(topic.neutral / topic.count) * 100}%`, background: '#8B8F99' }} />
                       <div style={{ width: `${(topic.negative / topic.count) * 100}%`, background: '#F0453A' }} />
@@ -796,7 +795,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                 ))}
               </div>
               {dynamicsTakeaway && (
-                <p className="mt-5 border-t border-white/[0.06] pt-4 text-[14px] leading-relaxed text-claude-text/80">
+                <p className="mt-5 border-t border-claude-border pt-4 text-[14px] leading-relaxed text-claude-text/80">
                   {dynamicsTakeaway}
                 </p>
               )}
@@ -814,7 +813,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
               {topSignals.map(item => (
                 <div
                   key={item.url}
-                  className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
+                  className="block rounded-lg border border-claude-border bg-white/70 p-3.5 transition-all hover:border-claude-accent/45 hover:bg-[#F7FAFF]"
                 >
                   <div className="flex flex-wrap items-center gap-2 mb-2">
                     <span className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${sentimentTone(item.sentiment)}`}>{item.sentiment}</span>
@@ -825,7 +824,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                     </span>
                   </div>
                   <a href={item.url} target="_blank" rel="noreferrer" className="group block">
-                    <h3 className="text-[15px] font-semibold leading-snug text-claude-text group-hover:text-marvel-red transition-colors">
+                    <h3 className="text-[15px] font-semibold leading-snug text-claude-text group-hover:text-claude-accent transition-colors">
                       {item.title}
                     </h3>
                   </a>
@@ -846,16 +845,16 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
               {autonomyIssues.map(issue => (
                 <div
                   key={issue.url}
-                  className="block rounded-lg border border-white/[0.07] bg-white/[0.02] p-3.5 transition-all hover:border-marvel-red/30 hover:bg-white/[0.04]"
+                  className="block rounded-lg border border-claude-border bg-white/70 p-3.5 transition-all hover:border-claude-accent/45 hover:bg-[#F7FAFF]"
                 >
                   <div className="flex flex-wrap items-center gap-2 mb-2 font-mono-num text-[11px] uppercase tracking-[0.08em] text-claude-muted">
                     <span>{SOURCE_LABELS[issue.source] ?? issue.source}</span>
-                    <span className="text-marvel-red/60">•</span>
-                    <span className="text-[#FF6B61]">{issue.issueType}</span>
+                    <span className="text-claude-accent/60">•</span>
+                    <span className="text-[#B42318]">{issue.issueType}</span>
                     <span className="ml-auto normal-case tracking-normal">{formatCompactDate(getEffectiveDate(issue, issue.reportTimestamp).toISOString())}</span>
                   </div>
                   <a href={issue.url} target="_blank" rel="noreferrer" className="group block">
-                    <h3 className="text-[15px] font-semibold leading-snug text-claude-text group-hover:text-marvel-red transition-colors">
+                    <h3 className="text-[15px] font-semibold leading-snug text-claude-text group-hover:text-claude-accent transition-colors">
                       {issue.title}
                     </h3>
                   </a>
