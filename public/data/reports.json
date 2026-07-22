@@ -73339,5 +73339,341 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-22T14:03:07.783286Z",
+    "timestamp": "2026-07-22T14:03:07.783286Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 70,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "nytimes_business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (10), Business (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, July 22, 2026 \u2014 2:03 PM PT \u2014 20 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 15 Rivian signals clustered around Vehicles (10), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* But stock investors shrug off Iran developments as they await crucial earnings reports from tech firms including Alphabet and Tesla.\n  https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html\n\u2022 *Competitive Threats:* Volkswagen is again deepening its China ties, betting that speed can substitute for the software lead it failed to build in-house. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/volkswagen-deepens-horizon-robotics-ties-for-china-adas-avs/\n\u2022 *Competitive Threats:* Tesla's Orlando and Tampa launch is the third straight robotaxi \u2018update\u2019 timed just before an earnings call, and not by coincidence. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/teslas-robotaxi-map-grows-again-just-ahead-of-earnings/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (10)* \u2022 The New Rivian Rocklin Service Center Is Exactly What Rivian Ownership Should Feel Like\n  https://www.reddit.com/r/Rivian/comments/1v34aiy/the_new_rivian_rocklin_service_center_is_exactly/\n*Business (3)* \u2022 Rivian stock extends gains as 2024 revenue rose to $5 billion - Ad-hoc-news.de\n  https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzVsbEhBRG5GWmZvd2JDWlNyNEdjMUE0Q3dWbVlJZ2cwdXBTQ1R2RW5YX2M2Yzk5Mmg2WjZ3emNHcDNHOTRfN195dnY4QkNSZWtTRmpMMDlsZmFzQ3A2RnA1amh1ZXh5aXE0ckpEWjlyb2ZUTHo0XzJJYmljTlhncGhVVkNmdENWNjV4MkgwNTBqS3dLazd2VUY3RE1rRDRhMGY3eEpwY2Y1bkRDNFBlbGhfaFVjaDF3eWpJ?oc=5\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 Feed: \"EV\" By: Matilde Alves on Tuesday, July 21, 2026\n  https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mr7wsdmckw27\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Speed traps",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3d8xz/speed_traps/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T11:21:40.967Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Navigation wobbles and spins",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v37p7s/navigation_wobbles_and_spins/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T06:17:21.711Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "The New Rivian Rocklin Service Center Is Exactly What Rivian Ownership Should Feel Like",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v34aiy/the_new_rivian_rocklin_service_center_is_exactly/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T03:24:29.620Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Global Oil Price Jumps as War Threats Intensify",
+        "url": "https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html",
+        "source": "nytimes_business",
+        "publishedAt": "Wed, 22 Jul 2026 13:59:35 +0000",
+        "score": 0,
+        "snippet": "But stock investors shrug off Iran developments as they await crucial earnings reports from tech firms including Alphabet and Tesla.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Volkswagen deepens Horizon Robotics ties for China ADAS, AVs",
+        "url": "https://www.automotiveworld.com/news/volkswagen-deepens-horizon-robotics-ties-for-china-adas-avs/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 22 Jul 2026 10:37:53 +0000",
+        "score": 0,
+        "snippet": "<p>Volkswagen is again deepening its China ties, betting that speed can substitute for the software lead it failed to build in-house. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotive",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s robotaxi map grows again just ahead of earnings",
+        "url": "https://www.automotiveworld.com/news/teslas-robotaxi-map-grows-again-just-ahead-of-earnings/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 22 Jul 2026 08:30:23 +0000",
+        "score": 0,
+        "snippet": "<p>Tesla's Orlando and Tampa launch is the third straight robotaxi \u2018update\u2019 timed just before an earnings call, and not by coincidence. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automoti",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian stock extends gains as 2024 revenue rose to $5 billion - Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzVsbEhBRG5GWmZvd2JDWlNyNEdjMUE0Q3dWbVlJZ2cwdXBTQ1R2RW5YX2M2Yzk5Mmg2WjZ3emNHcDNHOTRfN195dnY4QkNSZWtTRmpMMDlsZmFzQ3A2RnA1amh1ZXh5aXE0ckpEWjlyb2ZUTHo0XzJJYmljTlhncGhVVkNmdENWNjV4MkgwNTBqS3dLazd2VUY3RE1rRDRhMGY3eEpwY2Y1bkRDNFBlbGhfaFVjaDF3eWpJ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 22 Jul 2026 11:59:36 GMT",
+        "score": 0,
+        "snippet": "Rivian stock extends gains as 2024 revenue rose to $5 billion - Ad-hoc-news.de",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@wildcat-russell.bsky.social (Bluesky): My actual EV ownership: I charge my Rivian from my off-grid solar and that\u2019s eno",
+        "url": "https://bsky.app/profile/did:plc:7l2inobmjf2wbdmx4m5xb6uk/post/3mraha3gykk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T13:41:32.276Z",
+        "score": 1,
+        "snippet": "My actual EV ownership: I charge my Rivian from my off-grid solar and that\u2019s enough to run to town twice a week (1 hr each way, 4000 ft elevation change). If I go a third time, I slow charge at the co",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jodellm.bsky.social (Bluesky): \ud83c\udfc6California rebate for electric cars\n\ud83d\ude0a\ud83d\ude4f\u263a\ufe0f\ud83d\udd35CA Gov. Gavin Newsom \n\n\ud83d\udd35MyFirstEV prog",
+        "url": "https://bsky.app/profile/did:plc:pjflgl525xj5hnoaqhw4g3gs/post/3mradwxvvrc2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T12:42:46.072Z",
+        "score": 0,
+        "snippet": "\ud83c\udfc6California rebate for electric cars\n\ud83d\ude0a\ud83d\ude4f\u263a\ufe0f\ud83d\udd35CA Gov. Gavin Newsom \n\n\ud83d\udd35MyFirstEV program\n1st time EV buyers\n$3k off New \ud83d\udd0c\ud83d\ude99 <$50k\n$ 1,750 off used <$25k\nIncl. CA-makers \u2022Rivian & \u2022Lucid\n\n\ud83d\udd34One Big Beautiful ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian was awarded a patent on an \"Integrated tailgate cargo system for automoti",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mraaspc52v2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T11:46:40.969Z",
+        "score": 2,
+        "snippet": "Rivian was awarded a patent on an \"Integrated tailgate cargo system for automotive vehicle\".  It looks like they would turn the R1T tailgate into a customizable carrier for bikes and more.  This would",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@leafrgb.bsky.social (Bluesky): Rivian: the sequel to\u2026\n\nI got nothin",
+        "url": "https://bsky.app/profile/did:plc:nlc7j55cfca2glkzlhkfjum5/post/3mr7xe2q2ms2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T08:57:25.668Z",
+        "score": 2,
+        "snippet": "Rivian: the sequel to\u2026\n\nI got nothin",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@longtail-news.bsky.social (Bluesky): Feed: \"EV\"\nBy: Matilde Alves on Tuesday, July 21, 2026",
+        "url": "https://bsky.app/profile/did:plc:o6ggjvnj4ze3mnrpnv5oravg/post/3mr7wsdmckw27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T08:47:30.868Z",
+        "score": 0,
+        "snippet": "Feed: \"EV\"\nBy: Matilde Alves on Tuesday, July 21, 2026",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@harshadawgr.bsky.social (Bluesky): \u8f6e\u80ce OEM \u548c\u552e\u540e\u5e02\u573a\u89c4\u6a21\u53ca 2032 \u5e74\u672a\u6765\u589e\u957f | WiseGuyReports www.wiseguyreports.com/cn/reports/t.",
+        "url": "https://bsky.app/profile/did:plc:irmrif2a4xspiizhgfwl66ik/post/3mr7qymro5k27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T07:03:46.965Z",
+        "score": 0,
+        "snippet": "\u8f6e\u80ce OEM \u548c\u552e\u540e\u5e02\u573a\u89c4\u6a21\u53ca 2032 \u5e74\u672a\u6765\u589e\u957f | WiseGuyReports www.wiseguyreports.com/cn/reports/t...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "The Brand New Rivian R2",
+        "url": "https://youtube.com/watch?v=Usqk2fDS1eU",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T13:46:56Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Will Rivian be the next Tesla with &#39;R2&#39; ? #rivian #tesla",
+        "url": "https://youtube.com/watch?v=sIrlTvBlJMY",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T13:29:19Z",
+        "score": 0,
+        "snippet": "Rivian has launched its new EV SUV 'R2'. Lets see what happens.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026  Blue Rivian R1T",
+        "url": "https://youtube.com/watch?v=961exrn1nNs",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T13:25:13Z",
+        "score": 0,
+        "snippet": "This 2026 @Rivian R1T came to AP3 in Atlanta for @XPELinc full Paint Protection Film Package. AP3 Paint Protection is Atlanta's ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why You Should Buy Rivian Stock Now | Is This the Best EV Bargain?",
+        "url": "https://youtube.com/watch?v=rqXwvCG7WjY",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T13:00:25Z",
+        "score": 0,
+        "snippet": "Is Rivian one of the best EV stocks to buy today? In this video, I explain why I'm watching Rivian closely, including its strong ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=Lf1-EXNHY_Y",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T12:16:08Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "2018 Mercedes GLE 350, 2023 Rivian R1T i przygotowania do wyjazdu w g\u00f3ry, czyli Hiob gl\u0119dzi. Part 2",
+        "url": "https://youtube.com/watch?v=05yOPzqvxYc",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T12:00:12Z",
+        "score": 0,
+        "snippet": "Wspomagamy: https://caritas.pl https://patronite.pl/ewtn.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u5317\u7f8e\u9020\u8f66\u65b0\u52bf\u529bRIVIAN\uff01",
+        "url": "https://youtube.com/watch?v=7-IdsUY1llw",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T11:14:26Z",
+        "score": 0,
+        "snippet": "rivian #rivianr1t #rivianr2 #rivianr1s #\u7279\u65af\u62c9#\u7279\u65af\u62c9\u8f66\u4e3b#\u9020\u8f66\u65b0\u52bf\u529b#\u7f8e\u56fd\u8f66\u4f01#ev.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
