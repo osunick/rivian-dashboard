@@ -73675,5 +73675,463 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-22T18:03:28.464799Z",
+    "timestamp": "2026-07-22T18:03:28.464799Z",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 89,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "cnbc_top": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "29 signals across Vehicles (18), Competitive (3); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, July 22, 2026 \u2014 6:03 PM PT \u2014 29 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 24 Rivian signals clustered around Vehicles (18), Demo & Test Drives (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* US stocks swung between small gains and losses after chipmakers came off session lows and oil prices jumped on the escalation of the US-Iran war. Traders are also bracing for key earnings from Alphabe\n  https://www.bloomberg.com/news/articles/2026-07-22/s-p-futures-fall-as-traders-brace-for-alphabet-tesla-earnings\n\u2022 *Competitive Threats:* Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.\n  https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html\n\u2022 *Competitive Threats:* New Tesla FSD Capabilities Uncovered: Autonomous Driving Now Boasts a \"User Model\" for Highly Personalized AI Drivers Delivering Unique Experiences for Every User - 36 Kr\n  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ycmdwTVBlbTZfSUFfM3BiM0x4TGIwZmswNllRM3RsYjh4czlVbnlwUm1KdXBNMWJkdmt3blVWUndvT0dwRVVhcnJxTi1NRnlpZGVN?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 The Rivian Amazon EDV system seems to mostly use cameras, at least for lane assist + cruise control. It's hot garbage for the most part. I have zero idea how anyone thinks cameras-only is good. It\n  https://bsky.app/profile/did:plc:yxophxgbwe7dgnsg6mv4ikxa/post/3mrapfhdxa22i\n*Demo & Test Drives (2)* \u2022 The premium electric SUV segment just got wild. We headed out to BMW's Ultimate Driving Experience event to get behind the ...\n  https://youtube.com/watch?v=qVW1-ecLFPA\n*Vehicles (18)* \u2022 Ceramic coating on R2 via the SF Service Center. Very, VERY happy with the result.\n  https://www.reddit.com/r/Rivian/comments/1v3mu10/ceramic_coating_on_r2_via_the_sf_service_center/\n*Business (1)* \u2022 3 Big Reasons to Believe in Rivian Stock Long-Term \u2014 The Right News, Right Now. (@BradPorcellato) Jul 22, 2026 July 22, 2026 at 07:12AM via Twitter\n  https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mraj4nhph72u\n*Software (2)* \u2022 invested in Rivian (RIVN): Starting value: $10000 Ending value: $7596 Total loss: -24.0% This is why diversification matters.\n  https://youtube.com/watch?v=w2IkDqBktnA\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Ceramic coating on R2 via the SF Service Center. Very, VERY happy with the result.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3mu10/ceramic_coating_on_r2_via_the_sf_service_center/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T17:26:04.063Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "California Rivian Deliveries: Front Plate Mounted?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3m0aa/california_rivian_deliveries_front_plate_mounted/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T16:58:01.831Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "California Rivian Deliveries: Front Plate Mounted?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v3lzti/california_rivian_deliveries_front_plate_mounted/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T16:58:01.831Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 didn\u2019t make it home :(",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3lhss/r2_didnt_make_it_home/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T16:39:56.651Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 didn\u2019t make it home :(",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v3lh8j/r2_didnt_make_it_home/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T16:39:56.651Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Incorrect front imaging on 360 camera",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3kqqz/incorrect_front_imaging_on_360_camera/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T16:14:11.182Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Sharing Road Data",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3i7zz/rivians_sharing_road_data/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T14:45:19.460Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Front Plate Holder to Tow Hook Adaptor V1.1 model",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3hxyc/rivian_r2_front_plate_holder_to_tow_hook_adaptor/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T14:34:41.326Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "S&P 500 Fluctuates as Traders Brace for Alphabet, Tesla Results",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/s-p-futures-fall-as-traders-brace-for-alphabet-tesla-earnings",
+        "source": "bloomberg_markets",
+        "publishedAt": "Wed, 22 Jul 2026 11:58:01 GMT",
+        "score": 0,
+        "snippet": "US stocks swung between small gains and losses after chipmakers came off session lows and oil prices jumped on the escalation of the US-Iran war. Traders are also bracing for key earnings from Alphabe",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+        "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+        "source": "cnbc_top",
+        "publishedAt": "Wed, 22 Jul 2026 17:42:33 GMT",
+        "score": 0,
+        "snippet": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Tesla set to report second-quarter results after the bell",
+        "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+        "source": "cnbc_top",
+        "publishedAt": "Wed, 22 Jul 2026 16:00:01 GMT",
+        "score": 0,
+        "snippet": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "New Tesla FSD Capabilities Uncovered: Autonomous Driving Now Boasts a \"User Model\" for Highly Personalized AI Drivers Delivering Unique Experiences for Every User - 36 Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ycmdwTVBlbTZfSUFfM3BiM0x4TGIwZmswNllRM3RsYjh4czlVbnlwUm1KdXBNMWJkdmt3blVWUndvT0dwRVVhcnJxTi1NRnlpZGVN?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Wed, 22 Jul 2026 09:43:23 GMT",
+        "score": 0,
+        "snippet": "New Tesla FSD Capabilities Uncovered: Autonomous Driving Now Boasts a \"User Model\" for Highly Personalized AI Drivers Delivering Unique Experiences for Every User - 36 Kr",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@on-tannhausergate.bsky.social (Bluesky): I remember so many people telling me I was going to regret my Rivian truck purch",
+        "url": "https://bsky.app/profile/did:plc:t6mvdyjtqfdocyca2qqgnmy6/post/3mrav2ef2vs2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T17:48:52.565Z",
+        "score": 0,
+        "snippet": "I remember so many people telling me I was going to regret my Rivian truck purchase and that I should\u2019ve held out for the cyber truck\n\nI got my Rivian in 2022 completely fantastic and the cyber truck ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@brentwould.bsky.social (Bluesky): I think I saw that Rivian just went belly up, too.",
+        "url": "https://bsky.app/profile/did:plc:mggonanmglphaooz4k5axjho/post/3mrar2jdpek2l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T16:37:22.972Z",
+        "score": 1,
+        "snippet": "I think I saw that Rivian just went belly up, too.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jwardell.bsky.social (Bluesky): Saw R2 for the first time and take it for a spin yesterday while my R1 was in fo",
+        "url": "https://bsky.app/profile/did:plc:b2kqh4o5mzzwdhcu5pg3vepp/post/3mrapzr5uis2i",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T16:19:09.066Z",
+        "score": 0,
+        "snippet": "Saw R2 for the first time and take it for a spin yesterday while my R1 was in for service. Rivian knocked this out of the park in packaging and design, and I was amazed how incredibly well it drove on",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@darkswordsman.com (Bluesky): The Rivian Amazon EDV system seems to mostly use cameras, at least for lane assi",
+        "url": "https://bsky.app/profile/did:plc:yxophxgbwe7dgnsg6mv4ikxa/post/3mrapfhdxa22i",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T16:07:42.165Z",
+        "score": 0,
+        "snippet": "The Rivian Amazon EDV system seems to mostly use cameras, at least for lane assist + cruise control.\n\nIt's hot garbage for the most part. \n\nI have zero idea how anyone thinks cameras-only is good. It ",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): If you want more range out of your Rivian, the biggest lever is not a setting, i",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mrap5wtuss2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T16:03:31.969Z",
+        "score": 3,
+        "snippet": "If you want more range out of your Rivian, the biggest lever is not a setting, it's your right foot. Broke down everything that actually helps and everything that does not really matter.\n\nriviantrackr",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian R2 Front Plate Holder to Tow Hook Adaptor \n\nA free 3D-printable front lic",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mraoy7tpli2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T16:00:18.769Z",
+        "score": 0,
+        "snippet": "Rivian R2 Front Plate Holder to Tow Hook Adaptor \n\nA free 3D-printable front license plate holder to tow hook adapter is now available for download.  This will allow you to use the included front lice",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mramiozrmc27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T15:15:50.466Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Food For Thought\n\nThe 2027 R2 start of production was announced April 2026.  Peo",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mraln2phwb2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T15:00:22.866Z",
+        "score": 2,
+        "snippet": "Food For Thought\n\nThe 2027 R2 start of production was announced April 2026.  People like me with a late order invite/delivery window should consider the timing.  There's a good chance Rivian does the ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@kirchnerreport.com (Bluesky): Rivian did something that truly impressed me\r\n\r\nhttps://www.kirchnerreport.com/p",
+        "url": "https://bsky.app/profile/did:plc:a2ntpdltxewgfumxjfaebbkg/post/3mralmkotpl2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T15:00:06.095Z",
+        "score": 1,
+        "snippet": "Rivian did something that truly impressed me\r\n\r\nhttps://www.kirchnerreport.com/p/rivian-did-something-that-truly-impressed-me",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bradporcellato.bsky.social (Bluesky): \n\n3 Big Reasons to Believe in Rivian Stock Long-Term https://t.co/IndVLVsMAs\n\n  ",
+        "url": "https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mraj4nhph72u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T14:15:24.371Z",
+        "score": 0,
+        "snippet": "\n\n3 Big Reasons to Believe in Rivian Stock Long-Term https://t.co/IndVLVsMAs\n\n  \u2014 The Right News, Right Now. (@BradPorcellato)\n  Jul 22, 2026\n\nJuly 22, 2026 at 07:12AM\n\nvia Twitter https://twitter.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s R2 Structural Battery Pack",
+        "url": "https://youtube.com/watch?v=9rI-QtYiYeE",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T18:00:37Z",
+        "score": 0,
+        "snippet": "Go behind the scenes at Rivian's exclusive R2 media event, where the Munro Live team had the opportunity to meet with Rivian's ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Review: America&#39;s Ultimate Electric Pickup Truck #carreview #autoreview #electricvehicle",
+        "url": "https://youtube.com/watch?v=0y6HJT7A8Js",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T18:00:24Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This Is Why People LOST Everything in RIVN \ud83d\ude31 #Shorts",
+        "url": "https://youtube.com/watch?v=w2IkDqBktnA",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T17:27:03Z",
+        "score": 0,
+        "snippet": "invested in Rivian (RIVN): Starting value: $10000 Ending value: $7596 Total loss: -24.0% This is why diversification matters.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "BMW iX3 First Drive Review: Better Than the Rivian R2? (Autocross Track Test!)",
+        "url": "https://youtube.com/watch?v=qVW1-ecLFPA",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T15:30:35Z",
+        "score": 0,
+        "snippet": "The premium electric SUV segment just got wild. We headed out to BMW's Ultimate Driving Experience event to get behind the ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s R2 Structural Battery Pack Explained by the Engineering Team",
+        "url": "https://youtube.com/watch?v=brQIdTONWZE",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T14:49:32Z",
+        "score": 0,
+        "snippet": "Go behind the scenes at Rivian's exclusive R2 media event, where the Munro Live team had the opportunity to meet with Rivian's ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Test Drive: 2027 Rivian R2 -- Highway Autonomy (Rivian Autonomy Platform)",
+        "url": "https://youtube.com/watch?v=DbWyFQPRan8",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T14:36:06Z",
+        "score": 0,
+        "snippet": "A test drive of the Rivian R2 in Burbank, Calif. using the Rivian Autonomy Platform, which will (eventually) be a direct competitor ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Why this 4Runner owner just reserved a Rivian R2...",
+        "url": "https://youtube.com/watch?v=FX-5xKzvRaI",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T14:29:51Z",
+        "score": 0,
+        "snippet": "For the first time, I'm seriously considering replacing my Toyota 4Runner \u2014 and somehow, it's with an EV. I took the new Rivian ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      }
+    ]
   }
 ]
