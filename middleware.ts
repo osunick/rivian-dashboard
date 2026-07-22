@@ -5,8 +5,9 @@ export async function middleware(req: NextRequest) {
   const { pathname, search } = req.nextUrl;
   const isLoginPage = pathname === '/login';
   const isLoginApi = pathname === '/api/login';
+  const isPublicAmbientRoute = pathname === '/screencatcher';
 
-  if (isLoginApi) return NextResponse.next();
+  if (isLoginApi || isPublicAmbientRoute) return NextResponse.next();
 
   const authenticated = await verifyAuthToken(req.cookies.get(AUTH_COOKIE)?.value);
 
