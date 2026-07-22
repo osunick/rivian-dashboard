@@ -74524,5 +74524,70 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-22T22:17:05.151987Z",
+    "timestamp": "2026-07-22T22:17:05.151987Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 100
+    },
+    "sources": {
+      "cnbc": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business"
+    ],
+    "summary": "1 signal across Business (1); watch Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, July 22, 2026 \u2014 10:17 PM PT \u2014 1 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 1 Rivian signal clustered around Business (1).\n\u2022 *Risk posture:* \ud83d\udd34 HIGH with 1 negative signal; watch Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (0)* \u2022 No signals\n*Business (1)* \u2022 Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook\n  https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\n_Threat: \ud83d\udd34 HIGH_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook",
+        "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
