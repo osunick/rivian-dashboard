@@ -72974,5 +72974,370 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-22T02:03:15.509291Z",
+    "timestamp": "2026-07-22T02:03:15.509291Z",
+    "sentiment": {
+      "positive": 13,
+      "neutral": 86,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Audio System",
+      "Demo Drives",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "22 signals across Vehicles (19), Demo & Test Drives (1); watch Vehicle Demand, Audio System",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, July 22, 2026 \u2014 2:03 AM PT \u2014 22 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 21 Rivian signals clustered around Vehicles (19), Demo & Test Drives (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Audio System, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 [Test Drive] R2 audio on freeway in California mode\n  https://www.reddit.com/r/RivianR2/comments/1v302nz/test_drive_r2_audio_on_freeway_in_california_mode/\n*Vehicles (19)* \u2022 Pre owned Rivians are Trash\n  https://www.reddit.com/r/Rivian/comments/1v31pz4/pre_owned_rivians_are_trash/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 CAR BRANDS RANKED #toyota #honda #chevrolet #ford #rivian #tesla #subaru\n  https://youtube.com/watch?v=sC1f4CS4sUQ\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Audio System\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Pre owned Rivians are Trash",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v31pz4/pre_owned_rivians_are_trash/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T01:28:35.934Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 color choices",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2z646/r2_color_choices/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T23:38:51.136Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 color choices",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v2z5yc/r2_color_choices/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T23:38:51.136Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I built an app that automatically logs every drive and charging session on your Rivian",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2xo4o/i_built_an_app_that_automatically_logs_every/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T22:37:20.134Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "UI Organization Options",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v2xk2n/ui_organization_options/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-21T22:32:59.356Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "[Test Drive] R2 audio on freeway in California mode",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v302nz/test_drive_r2_audio_on_freeway_in_california_mode/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-22T00:16:47.088Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Audio System"
+        ]
+      },
+      {
+        "title": "How long is maintenance on a battery for Tesla and Rivian owners?",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v2yz7x/how_long_is_maintenance_on_a_battery_for_tesla/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-21T23:30:56.699Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@choichi6971.bsky.social (Bluesky): Where is the RIVIAN R3?  I believe R3 would sell better than the R2. Stop making",
+        "url": "https://bsky.app/profile/did:plc:dv5a5mvqy2ytzp4lll74wf3u/post/3mr772dvw2227",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T01:42:30.771Z",
+        "score": 0,
+        "snippet": "Where is the RIVIAN R3?  I believe R3 would sell better than the R2. Stop making the R1 for a year to get the R3 going.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@morey000.bsky.social (Bluesky): RR has one job.  Build a Rivian R2 EV with a nicer interior.",
+        "url": "https://bsky.app/profile/did:plc:p7lg3q6ekeguq3ag7qsihsbh/post/3mr74k33sbc2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T00:57:36.569Z",
+        "score": 1,
+        "snippet": "RR has one job.  Build a Rivian R2 EV with a nicer interior.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@likethemaps.bsky.social (Bluesky): Are they buying Rivian blowers? Couple hundred bucks at Home Depot and every tim",
+        "url": "https://bsky.app/profile/did:plc:5x2abcwdk7kkluf54vd6jwe6/post/3mr742dp5pc2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-22T00:47:29.768Z",
+        "score": 15,
+        "snippet": "Are they buying Rivian blowers? Couple hundred bucks at Home Depot and every time you get a new tool you get another battery.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@darraghmckenna.bsky.social (Bluesky): Although Hank appears to have drove an F150 lightning in Saudi.\n\nI\u2019m trying to f",
+        "url": "https://bsky.app/profile/did:plc:4mvxzjukalrcg754hpkb62i5/post/3mr6yq7phks2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T23:49:29.866Z",
+        "score": 2,
+        "snippet": "Although Hank appears to have drove an F150 lightning in Saudi.\n\nI\u2019m trying to figure out what ( Spoiler ) truck is based on as it looks like a mix of Rivian & Kia Tasman",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@nextdoorsv.bsky.social (Bluesky): that's why you need to get them a rivian r2 - keeps them safe!",
+        "url": "https://bsky.app/profile/did:plc:ufug6zr72izga2zdpa5npkwr/post/3mr6uerh43s2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T22:31:28.678Z",
+        "score": 0,
+        "snippet": "that's why you need to get them a rivian r2 - keeps them safe!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Awesome! #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mr6udmgjts2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-21T22:30:49.772Z",
+        "score": 0,
+        "snippet": "Awesome! #Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Review: Price, Range, Specs, Features &amp; Off-Road Performance | Best Electric Truck",
+        "url": "https://youtube.com/watch?v=ZEgkQoF6vbY",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T01:35:32Z",
+        "score": 0,
+        "snippet": "Description: Discover everything about the 2026 Rivian R1T, one of America's most advanced electric pickup trucks. In this video ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla vs Rivian vs Lucid: Who Wins the EV Battle? $10K Investment Results",
+        "url": "https://youtube.com/watch?v=1d1b45YzJzY",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T00:29:58Z",
+        "score": 0,
+        "snippet": "Back in 2021, electric vehicles were one of the biggest investment trends. Many investors believed the EV revolution would create ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "CAR BRANDS RANKED #toyota #honda #chevrolet #ford #rivian #tesla #subaru",
+        "url": "https://youtube.com/watch?v=sC1f4CS4sUQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-22T00:08:06Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Living with the Haptic Halo Wheels in the Rivian R2 (Demos and Owner Perspective)",
+        "url": "https://youtube.com/watch?v=jtpmi2WfxbQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T23:41:55Z",
+        "score": 0,
+        "snippet": "I walk through the various ways you can use the new Haptic Halo Wheels in the Rivian R2. I also offer my perspective after living ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "PL032705 2024 Rivian R1S Adventure Dual Motor Perf Max Pack",
+        "url": "https://youtube.com/watch?v=W_hUWATAntg",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T23:29:34Z",
+        "score": 0,
+        "snippet": "PL032705 2024 Rivian R1S Adventure Dual Motor Perf Max Pack.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Cyber Odyssey with 33 Cybertrucks and One &quot;Sacrificial&quot; Rivian.",
+        "url": "https://youtube.com/watch?v=2t_9RTgZWLk",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T23:23:38Z",
+        "score": 0,
+        "snippet": "Cyber Odyssey: 33 Cybertrucks + 1 \u201cSacrificial\u201d Rivian Take Over the Wilderness! Join Sean & Joan League of League Estates as ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Por que algu\u00e9m pagaria caro numa Rivian no Brasil @Tcar#klipcorttcar #clipstcar",
+        "url": "https://youtube.com/watch?v=B8hQnh5tTSc",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T23:14:44Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Everyone\u2019s choosing the wrong Rivian R2 wheels",
+        "url": "https://youtube.com/watch?v=CUcyhTBx6Ig",
+        "source": "youtube",
+        "publishedAt": "2026-07-21T22:33:08Z",
+        "score": 0,
+        "snippet": "Awesome raffle has thousands of UNSOLD tickets with just DAYS before the drawing. Don't miss your shot to win one of THREE ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Lidar Promised Capabilities",
+        "url": "https://www.rivianforums.com/forum/threads/r2-lidar-promised-capabilities.61676/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "R2 Lidar Promised Capabilities",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
