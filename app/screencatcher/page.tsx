@@ -24,6 +24,16 @@ function cleanLabel(value: string) {
   return value.replace(/^[^\w]+/, '').trim();
 }
 
+function visualSourceScore(source: string) {
+  const normalized = source.toLowerCase();
+  if (normalized.includes('youtube')) return 5;
+  if (normalized.includes('bluesky') || normalized.includes('twitter')) return 4;
+  if (normalized.includes('news') || normalized.includes('cnbc') || normalized.includes('insideevs')) return 3;
+  if (normalized.includes('rivianforums')) return 2;
+  if (normalized.includes('reddit')) return 1;
+  return 0;
+}
+
 function buildSignals(): AmbientSignal[] {
   const seen = new Set<string>();
   const signals = getScopeReports('7d').reports
@@ -40,6 +50,8 @@ function buildSignals(): AmbientSignal[] {
       return true;
     })
     .sort((a, b) => {
+      const visualDelta = visualSourceScore(b.source) - visualSourceScore(a.source);
+      if (visualDelta !== 0) return visualDelta;
       const aTime = new Date(a.publishedAt ?? a.reportTimestamp).getTime();
       const bTime = new Date(b.publishedAt ?? b.reportTimestamp).getTime();
       return bTime - aTime;

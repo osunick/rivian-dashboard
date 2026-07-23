@@ -6,8 +6,9 @@ export async function middleware(req: NextRequest) {
   const isLoginPage = pathname === '/login';
   const isLoginApi = pathname === '/api/login';
   const isPublicAmbientRoute = pathname === '/screencatcher';
+  const isPublicMediaPreviewApi = pathname === '/api/media-preview';
 
-  if (isLoginApi || isPublicAmbientRoute) return NextResponse.next();
+  if (isLoginApi || isPublicAmbientRoute || isPublicMediaPreviewApi) return NextResponse.next();
 
   const authenticated = await verifyAuthToken(req.cookies.get(AUTH_COOKIE)?.value);
 

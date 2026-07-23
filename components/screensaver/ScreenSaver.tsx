@@ -1,5 +1,7 @@
 'use client';
 
+import { useEffect, useState } from 'react';
+
 export interface AmbientSignal {
   title: string;
   snippet: string;
@@ -47,6 +49,31 @@ const sentimentTone = {
   neutral: 'text-[#b9c2ce] border-white/15 bg-white/8',
   negative: 'text-[#ff6b57] border-[#ff6b57]/45 bg-[#ff6b57]/12',
 } as const;
+
+type PreviewState =
+  | { status: 'idle' | 'loading' | 'none' | 'error' }
+  | { status: 'image'; imageUrl: string };
+
+const previewCache = new Map<string, PreviewState>();
+
+function parseYouTubeId(url: string) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname.includes('youtu.be')) {
+      return parsed.pathname.replace('/', '') || null;
+    }
+    if (parsed.hostname.includes('youtube.com')) {
+      return parsed.searchParams.get('v');
+    }
+  } catch {
+    return null;
+  }
+  return null;
+}
+
+function isDirectImageUrl(url: string) {
+  return /\.(png|jpe?g|gif|webp|avif|svg)(\?.*)?$/i.test(url);
+}
 
 function firstSentence(value: string) {
   const normalized = value.replace(/\s+/g, ' ').trim();
@@ -149,37 +176,40 @@ export default function ScreenSaver({
               {featured.map((signal, index) => (
                 <article
                   key={`${signal.url}-${index}`}
-                  className="signal-slide"
+                  className="signal-slide grid min-h-0 grid-cols-[minmax(0,1fr)_minmax(22rem,0.46fr)] gap-7"
                   style={{ animationDelay: `${index * 8}s` }}
                 >
-                  <div className="flex items-center gap-3">
-                    <span className={`border px-3 py-1 font-mono-num text-xs uppercase tracking-[0.18em] ${sentimentTone[signal.sentiment]}`}>
-                      {signal.sentiment}
-                    </span>
-                    <span className="font-mono-num text-sm uppercase tracking-[0.18em] text-[#ffd166]">
-                      {signal.category}
-                    </span>
-                    <span className="font-mono-num text-sm text-white/40">{formatSignalDate(signal.publishedAt)}</span>
-                  </div>
-                  <h2 className="mt-5 max-w-[22ch] text-[clamp(2.3rem,3.5vw,4.8rem)] font-black uppercase leading-[0.92] tracking-normal text-white">
-                    {signal.title}
-                  </h2>
-                  <p className="mt-6 max-w-5xl text-[clamp(1.7rem,2.3vw,3rem)] font-semibold leading-[1.05] text-white/84">
-                    {signalReadout(signal)}
-                  </p>
-                  <p className="mt-5 max-w-4xl border-l-2 border-[#70e4ff]/55 pl-5 text-[clamp(1rem,1.15vw,1.35rem)] leading-snug text-white/62">
-                    {signalContext(signal)}
-                  </p>
-                  <div className="mt-6 flex flex-wrap gap-3">
-                    <span className="border border-white/14 bg-white/8 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-white/70">
-                      {signal.source}
-                    </span>
-                    {signal.themes.map(theme => (
-                      <span key={theme} className="border border-[#70e4ff]/25 bg-[#70e4ff]/10 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-[#b8f4ff]">
-                        {theme}
+                  <div className="min-w-0">
+                    <div className="flex items-center gap-3">
+                      <span className={`border px-3 py-1 font-mono-num text-xs uppercase tracking-[0.18em] ${sentimentTone[signal.sentiment]}`}>
+                        {signal.sentiment}
                       </span>
-                    ))}
+                      <span className="font-mono-num text-sm uppercase tracking-[0.18em] text-[#ffd166]">
+                        {signal.category}
+                      </span>
+                      <span className="font-mono-num text-sm text-white/40">{formatSignalDate(signal.publishedAt)}</span>
+                    </div>
+                    <h2 className="mt-5 max-w-[22ch] text-[clamp(2rem,3vw,4.1rem)] font-black uppercase leading-[0.92] tracking-normal text-white">
+                      {signal.title}
+                    </h2>
+                    <p className="mt-6 max-w-5xl text-[clamp(1.45rem,1.85vw,2.45rem)] font-semibold leading-[1.06] text-white/84">
+                      {signalReadout(signal)}
+                    </p>
+                    <p className="mt-5 max-w-4xl border-l-2 border-[#70e4ff]/55 pl-5 text-[clamp(1rem,1.1vw,1.25rem)] leading-snug text-white/62">
+                      {signalContext(signal)}
+                    </p>
+                    <div className="mt-6 flex flex-wrap gap-3">
+                      <span className="border border-white/14 bg-white/8 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-white/70">
+                        {signal.source}
+                      </span>
+                      {signal.themes.map(theme => (
+                        <span key={theme} className="border border-[#70e4ff]/25 bg-[#70e4ff]/10 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-[#b8f4ff]">
+                          {theme}
+                        </span>
+                      ))}
+                    </div>
                   </div>
+                  <AmbientImage signal={signal} />
                 </article>
               ))}
             </div>
@@ -372,6 +402,84 @@ export default function ScreenSaver({
         }
       `}</style>
     </main>
+  );
+}
+
+function AmbientImage({ signal }: { signal: AmbientSignal }) {
+  const youtubeId = parseYouTubeId(signal.url);
+  const [state, setState] = useState<PreviewState>(() => {
+    if (youtubeId) {
+      return {
+        status: 'image',
+        imageUrl: `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`,
+      };
+    }
+    if (isDirectImageUrl(signal.url)) return { status: 'image', imageUrl: signal.url };
+    return previewCache.get(signal.url) ?? { status: 'idle' };
+  });
+
+  useEffect(() => {
+    if (!signal.url || youtubeId || isDirectImageUrl(signal.url)) return;
+    const cached = previewCache.get(signal.url);
+    if (cached) {
+      setState(cached);
+      return;
+    }
+
+    let cancelled = false;
+    setState({ status: 'loading' });
+
+    fetch(`/api/media-preview?url=${encodeURIComponent(signal.url)}`)
+      .then(res => res.json())
+      .then(data => {
+        if (cancelled) return;
+        const nextState: PreviewState =
+          data.kind === 'image' && data.imageUrl
+            ? { status: 'image', imageUrl: data.imageUrl }
+            : { status: 'none' };
+        previewCache.set(signal.url, nextState);
+        setState(nextState);
+      })
+      .catch(() => {
+        if (cancelled) return;
+        const nextState: PreviewState = { status: 'error' };
+        previewCache.set(signal.url, nextState);
+        setState(nextState);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [signal.url, youtubeId]);
+
+  if (state.status === 'image') {
+    return (
+      <div className="signal-image relative h-full min-h-0 overflow-hidden border border-white/12 bg-black/30 shadow-2xl shadow-black/45">
+        <img
+          src={state.imageUrl}
+          alt=""
+          className="h-full w-full object-cover"
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/8 to-transparent" />
+        <div className="absolute inset-x-0 bottom-0 p-5">
+          <div className="font-mono-num text-xs uppercase tracking-[0.18em] text-white/58">Visual Source</div>
+          <div className="mt-1 truncate text-2xl font-semibold text-white">{signal.source}</div>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="signal-image signal-image-fallback relative h-full min-h-0 overflow-hidden border border-white/12 bg-black/30 shadow-2xl shadow-black/45">
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_32%_28%,rgba(112,228,255,0.35),transparent_28%),radial-gradient(circle_at_74%_70%,rgba(255,209,102,0.22),transparent_34%),linear-gradient(135deg,rgba(255,255,255,0.08),rgba(255,255,255,0))]" />
+      <div className="absolute inset-6 border border-white/14" />
+      <div className="absolute inset-x-0 bottom-0 p-6">
+        <div className="font-mono-num text-xs uppercase tracking-[0.18em] text-white/50">
+          {state.status === 'loading' ? 'Resolving Visual' : 'Signal Map'}
+        </div>
+        <div className="mt-2 text-2xl font-black uppercase leading-tight text-white">{signal.category}</div>
+      </div>
+    </div>
   );
 }
 
