@@ -76300,5 +76300,87 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-23T22:29:18.907654Z",
+    "timestamp": "2026-07-23T22:29:18.907654Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Vehicle Demand"
+    ],
+    "summary": "2 signals across Vehicles (2); watch Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, July 23, 2026 \u2014 10:29 PM PT \u2014 2 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 2 Rivian signals clustered around Vehicles (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (2)* \u2022 Rivian Automotive (RIVN) As June Quarter Results Near Fair Value Stays In Focus - Yahoo Finance Singapore\n  https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3gzbmhreDVlWERfeWo4N0xTSVRXd0JrRWxiLUw2SG8yR1NkTHRfcG5pejNLOFNJLXVxRzJkRFhWb3ZETjBERTBBRlQyUkdFYnVjSkVCY1VRd0swaVV5ZFBVMUZGTDJ5eGlZalNCSTNKM0xwRFVteVEwYlg3V0N4ZWVHWl9QcWpydmVIUg?oc=5\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian Automotive (RIVN) As June Quarter Results Near Fair Value Stays In Focus - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3gzbmhreDVlWERfeWo4N0xTSVRXd0JrRWxiLUw2SG8yR1NkTHRfcG5pejNLOFNJLXVxRzJkRFhWb3ZETjBERTBBRlQyUkdFYnVjSkVCY1VRd0swaVV5ZFBVMUZGTDJ5eGlZalNCSTNKM0xwRFVteVEwYlg3V0N4ZWVHWl9QcWpydmVIUg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Jul 2026 22:11:57 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) As June Quarter Results Near Fair Value Stays In Focus - Yahoo Finance Singapore",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@clubadaptation.bsky.social (Bluesky): \u2026should also be investing in energy\u2026 @govpritzker.illinois.gov who owns a Rivian",
+        "url": "https://bsky.app/profile/did:plc:qrffrbac2xxbzzwzcmlhiplg/post/3mrdufehd5c2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T22:15:07.464Z",
+        "score": 1,
+        "snippet": "\u2026should also be investing in energy\u2026 @govpritzker.illinois.gov who owns a Rivian electric truck, touted the potential of clean energy industries to create jobs.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
