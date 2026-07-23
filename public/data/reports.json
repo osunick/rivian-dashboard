@@ -74676,5 +74676,245 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-23T02:03:19.139084Z",
+    "timestamp": "2026-07-23T02:03:19.139084Z",
+    "sentiment": {
+      "positive": 25,
+      "neutral": 58,
+      "negative": 16
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 2,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 6,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "12 signals across Vehicles (6), Competitive (3); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, July 23, 2026 \u2014 2:03 AM PT \u2014 12 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 8 Rivian signals clustered around Vehicles (6), Community (1).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 2 negative signals; watch Vehicle Demand, Competitive Threats, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Micron Technology Inc. recently gave Tesla Inc. a \u201csignificant allocation\u201d of memory chips, according to Elon Musk, helping meet the automaker\u2019s demand for an increasingly precious commodity.\n  https://www.bloomberg.com/news/articles/2026-07-22/musk-says-micron-gave-tesla-significant-supply-of-memory-chips\n\u2022 *Competitive Threats:* Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.\n  https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html\n\u2022 *Competitive Threats:* <IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"\n  https://www.techmeme.com/260722/p59#a260722p59\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 Today\u2019s R2 Test Drive from this Tesla Y owner\n  https://www.reddit.com/r/RivianR2/comments/1v3xim6/todays_r2_test_drive_from_this_tesla_y_owner/\n*Vehicles (6)* \u2022 Rivian R2 Delivery...couple things\n  https://www.reddit.com/r/Rivian/comments/1v407wm/rivian_r2_deliverycouple_things/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 My niece and a friend of mine have one and they're both frustrated when it comes to maintenance. My friend doesn't recommend it. Since we've been EV owners for the past 12 years, we would only consid\n  https://bsky.app/profile/did:plc:m2ls7dtxqlwry6xhncs3b2qm/post/3mrbnztcpvk2p\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian R2 Delivery...couple things",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v407wm/rivian_r2_deliverycouple_things/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-23T01:57:43.402Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Any Rivian love for folks with Gen1 Rivian home chargers as we upgrade to R2s, Gen2 R1s, etc? Sales rep told me not safe to use with an adapter.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v3wj35/any_rivian_love_for_folks_with_gen1_rivian_home/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T23:15:52.987Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Today\u2019s R2 Test Drive from this Tesla Y owner",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v3xim6/todays_r2_test_drive_from_this_tesla_y_owner/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-22T23:58:17.095Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Musk Says Micron Gave Tesla \u2018Significant\u2019 Supply of Memory Chips",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/musk-says-micron-gave-tesla-significant-supply-of-memory-chips",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 22 Jul 2026 22:54:35 GMT",
+        "score": 0,
+        "snippet": "Micron Technology Inc. recently gave Tesla Inc. a \u201csignificant allocation\u201d of memory chips, according to Elon Musk, helping meet the automaker\u2019s demand for an increasingly precious commodity.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+        "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+        "source": "cnbc_top",
+        "publishedAt": "Thu, 23 Jul 2026 01:48:22 GMT",
+        "score": 0,
+        "snippet": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+        "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+        "source": "cnbc_top",
+        "publishedAt": "Wed, 22 Jul 2026 22:56:13 GMT",
+        "score": 0,
+        "snippet": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits (Reuters)",
+        "url": "https://www.techmeme.com/260722/p59#a260722p59",
+        "source": "techmeme",
+        "publishedAt": "Wed, 22 Jul 2026 20:45:00 -0400",
+        "score": 0,
+        "snippet": "<A HREF=\"https://www.reuters.com/business/media-telecom/elon-musks-tesla-posts-cash-burn-capex-surges-ai-robotaxi-push-2026-07-22/\"><IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"http://www.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@ebonielon.bsky.social (Bluesky): My niece and a friend of mine have one and they're both frustrated when it comes",
+        "url": "https://bsky.app/profile/did:plc:m2ls7dtxqlwry6xhncs3b2qm/post/3mrbnztcpvk2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T01:15:58.474Z",
+        "score": 1,
+        "snippet": "My niece and a friend of mine have one and they're both frustrated when it comes to maintenance. My friend doesn't recommend it. \nSince we've been EV owners for the past 12 years, we would only consid",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@thecasey.bsky.social (Bluesky): Hey @council.seattle.gov, why is SeaFair allowed to turn Rainier playfield into ",
+        "url": "https://bsky.app/profile/did:plc:wftbu7m56mst3eq4asrla5z3/post/3mrbklss55s2d",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T00:14:33.166Z",
+        "score": 0,
+        "snippet": "Hey @council.seattle.gov, why is SeaFair allowed to turn Rainier playfield into a parking lot? Who thinks that parking hundreds of vehicles on dry grass is a good idea? Does any of the $50/vehicle/day",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@namhnguyen365.bsky.social (Bluesky): Key developments include AMD's major investment and chip deal with Anthropic, Sp",
+        "url": "https://bsky.app/profile/did:plc:6dyetjchymutjm4jjkpdilxw/post/3mrbka6dfqk24",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T00:07:55.268Z",
+        "score": 0,
+        "snippet": "Key developments include AMD's major investment and chip deal with Anthropic, SpaceX surpassing major valuations, ongoing OpenAI-AWS collaborations, Google's Gemini updates, and strong EV delivery mom",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Performance Review | The Electric SUV That Changes Everything",
+        "url": "https://youtube.com/watch?v=Fnt8FQUV474",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T01:00:20Z",
+        "score": 0,
+        "snippet": "The 2027 Rivian R2 Performance is set to redefine the compact electric SUV segment with thrilling acceleration, dual-motor ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s Secret Suspension Strategy Might Be the Smartest EV Move of 2026",
+        "url": "https://youtube.com/watch?v=xy4FDbjWUOs",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T00:45:33Z",
+        "score": 0,
+        "snippet": "Rivian's Secret Suspension Strategy Might Be the Smartest EV Move of 2026** What if the biggest innovation in the Rivian R2 isn't ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
