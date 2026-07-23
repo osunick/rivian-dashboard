@@ -54,6 +54,32 @@ function firstSentence(value: string) {
   return match?.[1] ?? normalized.slice(0, 220);
 }
 
+function signalReadout(signal: AmbientSignal) {
+  const text = signal.snippet.replace(/\s+/g, ' ').trim();
+  if (!text) {
+    const category = signal.category.toLowerCase() === 'other'
+      ? 'general intelligence'
+      : `${signal.category.toLowerCase()} intelligence`;
+    const themeText = signal.themes.length > 0
+      ? ` It is tied to ${signal.themes.join(', ')}.`
+      : '';
+    return `${signal.source} is carrying ${category} around ${signal.title}.${themeText}`;
+  }
+
+  const sentences = text
+    .split(/(?<=[.!?])\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .join(' ');
+
+  return sentences.length > 340 ? `${sentences.slice(0, 337).trim()}...` : sentences;
+}
+
+function signalContext(signal: AmbientSignal) {
+  const themeText = signal.themes.length > 0 ? ` Themes: ${signal.themes.join(', ')}.` : '';
+  return `${signal.source} signal in ${signal.category.toLowerCase()} from ${formatSignalDate(signal.publishedAt)}.${themeText}`;
+}
+
 function formatSignalDate(value: string) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return 'Recent';
@@ -135,11 +161,14 @@ export default function ScreenSaver({
                     </span>
                     <span className="font-mono-num text-sm text-white/40">{formatSignalDate(signal.publishedAt)}</span>
                   </div>
-                  <h2 className="mt-5 max-w-[16ch] text-[clamp(3rem,5vw,6.4rem)] font-black uppercase leading-[0.9] tracking-normal text-white">
+                  <h2 className="mt-5 max-w-[22ch] text-[clamp(2.3rem,3.5vw,4.8rem)] font-black uppercase leading-[0.92] tracking-normal text-white">
                     {signal.title}
                   </h2>
-                  <p className="mt-5 max-w-4xl text-[clamp(1.25rem,1.7vw,2.05rem)] leading-tight text-white/76">
-                    {firstSentence(signal.snippet)}
+                  <p className="mt-6 max-w-5xl text-[clamp(1.7rem,2.3vw,3rem)] font-semibold leading-[1.05] text-white/84">
+                    {signalReadout(signal)}
+                  </p>
+                  <p className="mt-5 max-w-4xl border-l-2 border-[#70e4ff]/55 pl-5 text-[clamp(1rem,1.15vw,1.35rem)] leading-snug text-white/62">
+                    {signalContext(signal)}
                   </p>
                   <div className="mt-6 flex flex-wrap gap-3">
                     <span className="border border-white/14 bg-white/8 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-white/70">
