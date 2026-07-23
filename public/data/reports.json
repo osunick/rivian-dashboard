@@ -74916,5 +74916,492 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-23T14:03:23.033804Z",
+    "timestamp": "2026-07-23T14:03:23.033804Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 76,
+      "negative": 13
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "nytimes_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 7,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "30 signals across Vehicles (19), Competitive (7); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, July 23, 2026 \u2014 2:03 PM PT \u2014 30 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 7 rival signals surfaced, led by Competitive Threats, Autonomy.\n\u2022 *Rivian posture:* 22 Rivian signals clustered around Vehicles (19), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 4 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (7)\n\u2022 *Autonomy:* In a first, Apple software will influence the way a new line of electric vehicles made by Ford Motor operates, and other automakers may follow.\n  https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html\n\u2022 *Competitive Threats:* Tesla missed on earnings despite beating revenue estimates. Plus, Club names Honeywell Technologies and Dover released results.\n  https://www.cnbc.com/2026/07/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html\n\u2022 *Competitive Threats:* Ford and Geely plan for the joint venture will begin operations in the first half of 2027, with the first new vehicles scheduled to roll off the line in 2028.\n  https://www.cnbc.com/2026/07/23/ford-china-geely-ev-europe.html\n\u2022 *Competitive Threats:* Despite record revenue and deliveries in Q2 2026, Tesla's accelerating capex on AI impacted profits considerably. By Will Girling The post <a href=\"\n  https://www.automotiveworld.com/analysis/teslas-cash-flow-turns-negative-first-time-since-q2-2024/\n\u2022 *Competitive Threats:* China has resumed issuing robotaxi permits after a freeze in place since 29 April, with Momenta and Baidu among the first recipients. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/china-resumes-robotaxi-permits-after-three-month-freeze/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (19)* \u2022 Hat tip to the new Rivian Service Center in Pittsburgh\n  https://www.reddit.com/r/Rivian/comments/1v4e3y4/hat_tip_to_the_new_rivian_service_center_in/\n*Business (3)* \u2022 American Airlines stock tumbles 8% as fuel spike further postpones turnaround\n  https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Hat tip to the new Rivian Service Center in Pittsburgh",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v4e3y4/hat_tip_to_the_new_rivian_service_center_in/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-23T13:34:42.373Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Just joined the R1T fam today",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v42o9z/just_joined_the_r1t_fam_today/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-23T03:51:33.338Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "When are we getting an issue tracker?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v42i00/when_are_we_getting_an_issue_tracker/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-23T03:42:57.851Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Gen 2 R1T Tri Motor Max Pack Battery Degradation After 45,000 Miles of Charging to 100%",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v413n4/gen_2_r1t_tri_motor_max_pack_battery_degradation/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-23T02:37:05.123Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
+        "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Ford Will Use Apple Maps in New Self-Driving System",
+        "url": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
+        "source": "nytimes_tech",
+        "publishedAt": "Thu, 23 Jul 2026 13:52:50 +0000",
+        "score": 0,
+        "snippet": "In a first, Apple software will influence the way a new line of electric vehicles made by Ford Motor operates, and other automakers may follow.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy",
+          "Software",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+        "url": "https://www.cnbc.com/2026/07/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+        "source": "cnbc_top",
+        "publishedAt": "Thu, 23 Jul 2026 13:31:46 GMT",
+        "score": 0,
+        "snippet": "Tesla missed on earnings despite beating revenue estimates. Plus, Club names Honeywell Technologies and Dover released results.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "China's Geely to make EVs at Ford plant in Spain under new joint venture",
+        "url": "https://www.cnbc.com/2026/07/23/ford-china-geely-ev-europe.html",
+        "source": "cnbc_top",
+        "publishedAt": "Thu, 23 Jul 2026 11:49:29 GMT",
+        "score": 0,
+        "snippet": "Ford and Geely plan for the joint venture will begin operations in the first half of 2027, with the first new vehicles scheduled to roll off the line in 2028.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s cash flow turns negative, first time since Q2 2024",
+        "url": "https://www.automotiveworld.com/analysis/teslas-cash-flow-turns-negative-first-time-since-q2-2024/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 23 Jul 2026 09:40:53 +0000",
+        "score": 0,
+        "snippet": "<p>Despite record revenue and deliveries in Q2 2026, Tesla's accelerating capex on AI impacted profits considerably. By Will Girling</p>\n<p>The post <a href=\"https://www.automotiveworld.com/analysis/t",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "China resumes robotaxi permits after three-month freeze",
+        "url": "https://www.automotiveworld.com/news/china-resumes-robotaxi-permits-after-three-month-freeze/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 23 Jul 2026 07:54:47 +0000",
+        "score": 0,
+        "snippet": "<p>China has resumed issuing robotaxi permits after a freeze in place since 29 April, with Momenta and Baidu among the first recipients. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automot",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Ford says Apple's software will be available in its new EVs, helping determine autonomous driving via Apple Maps, and they are working to improve self-driving (Jack Ewing/New York Times)",
+        "url": "https://www.techmeme.com/260723/p23#a260723p23",
+        "source": "techmeme",
+        "publishedAt": "Thu, 23 Jul 2026 09:09:18 -0400",
+        "score": 0,
+        "snippet": "<A HREF=\"https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html\"><IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"http://www.techmeme.com/260723/i23.jpg\"></A>\n<P><A ",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Projected to Announce Earnings on Thursday - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjdfUzVyWWltZXVrbUJIREItb0pOM1VLVHRlT0dRX05EOEVoNnRsc19TV01yalB4TWZscm5OdWNVR2JoX01wUU5DdDBERkxIdXRTUEIzSHlNWGhGdGZzMmpDbnBOSjBrd1ZINjQ2WVg3Vnd5TDlKVFI3YXBQWjFLT29qYnFmOThvT3B3VG5VU1M3VVJYMmZpRUswWWZYbkd5NzlidzFFMlA0X1lsT0VKOEdCTEFhYlN6al9r?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Jul 2026 09:50:42 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Projected to Announce Earnings on Thursday - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Tesla Slides 8% on Earnings Miss Despite Record Deliveries; Rivian, Lucid Slip - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXEtdkpIOWJCOFc3SFo1aE9JQ0NCRFgtYzlFb18ydlJ4VVVfSXVLRXFtWUFHRlphSjhDR0hYc1I1QkxvVVVsd2k5SkFKcXIza3dxcGFQZ2lIcEh1dk5uM0RsNElSUXRXTFl1ZklOM2xFZ3RoTDlWX2VWZS0yVHp1U1F2ck54bktMZWRCbkk0cld3NzY4dWJ1MmxNcEJ0TThRMko5bDJGdGNCWml2OGswLU5NT0Z1OUduanNn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Jul 2026 13:15:18 GMT",
+        "score": 0,
+        "snippet": "Tesla Slides 8% on Earnings Miss Despite Record Deliveries; Rivian, Lucid Slip - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Swiss National Bank Acquires 176,500 Shares of Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSF9RODd2U3dsYWo3VlE4aUY0bF83Q0hHUGxtQnM2NVZtZFV3ellpVmFETjdJNzF5OThqUGtVVFFFbkJHOXlKamxBRFhjT0ROUmQ5WU1fNmZLNGNpZW9GOHdvOUZxeXB5RHJlOHhmQjNxSUdtQ2dTTkI2YWNMQnpTSWtaeXhmLWk1RFp6d2t6THBUWTkxakF3eWFBX2tpYTdocm9pNWJ0dlZsRmFKcGxFTlplTzdHTWRSYW91eGtEVWxrREpoNTE5dzBrT0ZPQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Jul 2026 09:06:38 GMT",
+        "score": 0,
+        "snippet": "Swiss National Bank Acquires 176,500 Shares of Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mrcwthvp2c2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T13:26:08.467Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R1T",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mrcwsfdimc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T13:25:32.370Z",
+        "score": 0,
+        "snippet": "#Rivian #R1T",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Is the BMW iX3 the new benchmark for luxury electric SUVs? \u26a1\ufe0f\ud83d\ude99\n\nWe just posted o",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mrcwmyj3xc2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T13:22:31.469Z",
+        "score": 0,
+        "snippet": "Is the BMW iX3 the new benchmark for luxury electric SUVs? \u26a1\ufe0f\ud83d\ude99\n\nWe just posted our full YouTube review testing its real-world range, charging speeds, tech, and cabin space.\n\nWatch the full breakdown h",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has a \"Rivian Certified\" program for places they have trained to diagnose",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mrcvktqq5a2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T13:03:25.170Z",
+        "score": 2,
+        "snippet": "Rivian has a \"Rivian Certified\" program for places they have trained to diagnose/repair their vehicles.  Use the below link to find one near you.\n\nLink:  buff.ly/7HPiGlN",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dianecmurphy.bsky.social (Bluesky): Buy Rivian! Made in Bloomington,IL. We love ours!",
+        "url": "https://bsky.app/profile/did:plc:h7uw7k2b6eubuvkhj5i73ox5/post/3mrctrjpsqs2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T12:31:22.073Z",
+        "score": 0,
+        "snippet": "Buy Rivian! Made in Bloomington,IL. We love ours!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@670rv.bsky.social (Bluesky): stories.rivian.com/rivian-pivot...",
+        "url": "https://bsky.app/profile/did:plc:batsov5c6h6e54mpj6wrqzt4/post/3mrcnozube22o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T10:42:36.267Z",
+        "score": 0,
+        "snippet": "stories.rivian.com/rivian-pivot...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@670rv.bsky.social (Bluesky): stories.rivian.com/rivian-pivot...",
+        "url": "https://bsky.app/profile/did:plc:batsov5c6h6e54mpj6wrqzt4/post/3mrcnoffq222o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T10:42:15.266Z",
+        "score": 0,
+        "snippet": "stories.rivian.com/rivian-pivot...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Databricks + Rivian The AI That Makes Cars Smarter Over Time",
+        "url": "https://youtube.com/watch?v=tWXYl14YI0I",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T14:00:26Z",
+        "score": 0,
+        "snippet": "Most cars decline the moment you drive them off the lot. Rivian's don't. Sensor, telemetry, and video data streams into a ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian EDV 500/700 van taillight replacement",
+        "url": "https://youtube.com/watch?v=gKyRcFnVvzw",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T13:47:43Z",
+        "score": 0,
+        "snippet": "here is how to take off a taillight to a rivian van for amazon, there aren't a lot of videos out there on how to work on these vans but if ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Universal Hands Free Drive in Traffic and Rain with Commentary",
+        "url": "https://youtube.com/watch?v=pC939YIqINk",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T13:00:08Z",
+        "score": 0,
+        "snippet": "I drive my Rivian R2 in a variety of conditions with some rain and traffic mixed in to test how Universal Hands Free behaves.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Drove the Rivian R2 \u2013 Everything You Need to Know Before You Buy",
+        "url": "https://youtube.com/watch?v=A5iKISt4caU",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T12:55:31Z",
+        "score": 0,
+        "snippet": "Have you ever wondered if the Rivian R2 actually lives up to the hype? I didn't just watch a presentation or read the spec sheet.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "It ain\u2019t got no gas in it!",
+        "url": "https://youtube.com/watch?v=NImhGBNjUFQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T11:16:11Z",
+        "score": 0,
+        "snippet": "Ever wonder what actually sits under the hood of a fully electric pickup truck? I popped the front trunk (frunk) on the Rivian to ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S  #shorts #short",
+        "url": "https://youtube.com/watch?v=9-LU5-XuiUc",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T11:00:06Z",
+        "score": 0,
+        "snippet": "Rivian R1S (Limestone) #gemini #automobile #shortsfeed #short #viral #shorts #geminiai #viral #satisfying #travel #viralvideo ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "From Junkyard to Showroom | Rivian R1T Restoration #Shorts",
+        "url": "https://youtube.com/watch?v=Agz8u14ke0c",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T09:14:07Z",
+        "score": 0,
+        "snippet": "Watch this incredible Rivian R1T transformation from an abandoned scrapyard vehicle to a stunning, like-new electric pickup.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u26a0\ufe0fRIVIAN R2 production &amp; transportation issues \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=5DumLKkB2AU",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T08:30:34Z",
+        "score": 0,
+        "snippet": "RIVIAN R2 production & transportation issues \u26a1\ufe0f save $2500 link in bio \u26a1\ufe0f TESLA REFERRAL CODE LINK | Receive ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Vehicle Quality",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1S First Look \u2013 400+ Miles of Range &amp; Incredible Performance!",
+        "url": "https://youtube.com/watch?v=NNPJ6budbGI",
+        "source": "youtube",
+        "publishedAt": "2026-07-23T07:13:43Z",
+        "score": 0,
+        "snippet": "Discover everything you need to know about the 2026 Rivian R1S in this in-depth review! In this video, we cover the latest design ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
