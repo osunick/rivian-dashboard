@@ -77030,5 +77030,445 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-24T18:03:23.601705Z",
+    "timestamp": "2026-07-24T18:03:23.601705Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 89,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_oems": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "28 signals across Vehicles (22), Community (2); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, July 24, 2026 \u2014 6:03 PM PT \u2014 28 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 25 Rivian signals clustered around Vehicles (22), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Community Signals, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Ford's Cheap New Truck Won't Make GM's Big Mistake On CarPlay, Android Auto - CarBuzz\n  https://news.google.com/rss/articles/CBMie0FVX3lxTFBmWmVXR3VlYjFuY01uMDZPRzJFMzVhT05SMjB2bzN2SnFfejFmblRZOWdRdzlfVEJxZzhyRWxhMWQyNmdRT0dnb1pUTkZMLWgtSlhDRnRfZkM0WUQxLUdKb29maWtUZHF0Qm5FWmt5N2dwVDkwV19RTmlfVQ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (22)* \u2022 To R2 or not to R2\n  https://www.reddit.com/r/Rivian/comments/1v5ijx7/to_r2_or_not_to_r2/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 The future of adventure SUVs is changing forever. Can the Toyota Land Cruiser SE bring legendary Land Cruiser DNA into the ...\n  https://youtube.com/watch?v=K_WEjAKNvGs\n*Community (2)* \u2022 @blueresearch.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mrfpydpehf2p\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "To R2 or not to R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5ijx7/to_r2_or_not_to_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-22T21:29:49.257Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1S Lease Turn in questions",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5ie2l/r1s_lease_turn_in_questions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T17:42:17.211Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Storage Drawer Identifying as Camp Speaker - 12v PCB",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5i5d3/storage_drawer_identifying_as_camp_speaker_12v_pcb/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T17:33:29.046Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Goodbye Tri Max, Hello R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5h9k7/goodbye_tri_max_hello_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T17:02:51.387Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How Rivian Made The R2's Suspension Cheaper And Lighter Than The R1's But Just As Good",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5g1nv/how_rivian_made_the_r2s_suspension_cheaper_and/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T16:19:36.081Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian wooden truck set doesn\u2019t come in Compass Yellow. My kid and I fixed that.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5fawy/the_rivian_wooden_truck_set_doesnt_come_in/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T15:53:22.001Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Factory Tour Photo Dump!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5eudv/rivian_factory_tour_photo_dump/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T15:36:37.424Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "NEMA extension cord from basement",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v5g9sn/nema_extension_cord_from_basement/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-24T16:27:39.040Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "How Rivian Made The R2's Suspension Cheaper And Lighter Than The R1's But Just As Good",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v5g1a9/how_rivian_made_the_r2s_suspension_cheaper_and/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-24T16:19:11.300Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN|Rivian Automotive Inc|Price:15.860|Chg%:-0.600 - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUklkWHo2OTJ6d0Vmb2xTbXByOWI4dUYtM3NGNmtBNG5rSkhpZ0pSSTg4Vzh2ZVp2U0dkWFNGWEpaUndGc2VOWUxzMTNpY2ExSktCczk1Nm1FUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 24 Jul 2026 09:06:32 GMT",
+        "score": 0,
+        "snippet": "RIVN|Rivian Automotive Inc|Price:15.860|Chg%:-0.600 - TradingKey",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ford's Cheap New Truck Won't Make GM's Big Mistake On CarPlay, Android Auto - CarBuzz",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmWmVXR3VlYjFuY01uMDZPRzJFMzVhT05SMjB2bzN2SnFfejFmblRZOWdRdzlfVEJxZzhyRWxhMWQyNmdRT0dnb1pUTkZMLWgtSlhDRnRfZkM0WUQxLUdKb29maWtUZHF0Qm5FWmt5N2dwVDkwV19RTmlfVQ?oc=5",
+        "source": "google_news_oems",
+        "publishedAt": "Fri, 24 Jul 2026 14:00:53 GMT",
+        "score": 0,
+        "snippet": "Ford's Cheap New Truck Won't Make GM's Big Mistake On CarPlay, Android Auto - CarBuzz",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@pepperoni-dogfart.bsky.social (Bluesky): When Rivian lets me toggle off one pedal drive I'll consider buying one. Their r",
+        "url": "https://bsky.app/profile/did:plc:sjn7ysbufsdxg7ueedw5z5cz/post/3mrfs7ufvjk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T16:41:33.777Z",
+        "score": 0,
+        "snippet": "When Rivian lets me toggle off one pedal drive I'll consider buying one. Their regen makes driving in traffic nerve wracking, I very much like the vehicles otherwise.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Bummer, having switched over a decade ago I couldn't be happier with my non-U.S.",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mrfrgruop22p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T16:27:33.875Z",
+        "score": 0,
+        "snippet": "Bummer, having switched over a decade ago I couldn't be happier with my non-U.S. branded EV. Heck, brand new GM/Ford/Tesla/Rivian products lack many of it's basic features and charge 50% slower, half ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thedailytechfeed.com (Bluesky): Rivian sues U.S. government to reclaim unconstitutional Trump-era tariffs. #Rivi",
+        "url": "https://bsky.app/profile/did:plc:mht5ub4ykjuoxpux77hikixt/post/3mrfq7eghfx2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T16:05:30.484Z",
+        "score": 0,
+        "snippet": "Rivian sues U.S. government to reclaim unconstitutional Trump-era tariffs. #Rivian #Tariffs #EV #TradePolicy #AutonomousVehicles #TechNews thedailytechfeed.com/rivian-seeks...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): In some ways, I think VW might be more dependent on Rivian in their join venture",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mrfpww7yh225",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T16:00:46.869Z",
+        "score": 0,
+        "snippet": "In some ways, I think VW might be more dependent on Rivian in their join venture than the other way around. They are getting closer and closer to a dead brand in the US, and have shown incompetence li",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mrfpydpehf2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T16:01:34.474Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@insideevs.com (Bluesky): Rivian went to impressive lengths to completely re-engineer the R2's battery and",
+        "url": "https://bsky.app/profile/did:plc:3ez2pmoyablhgfw6rkfmv65n/post/3mrfpbz6nss2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T15:49:09.373Z",
+        "score": 29,
+        "snippet": "Rivian went to impressive lengths to completely re-engineer the R2's battery and suspension to make the cheaper R2 as good as the R1.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@t8ngy.bsky.social (Bluesky): \u0627\u0644\u0645\u0639\u0642\u062f\u0629.\n\n\u0647\u0644 \u062a\u0639\u062a\u0642\u062f \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062e\u0637\u0648\u0627\u062a \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629 \u0633\u062a\u0639\u0632\u0632 \u0645\u0646 \u0641\u0631\u0635 Rivian \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0636\u062f \u0639",
+        "url": "https://bsky.app/profile/did:plc:7z6si6cjpmulvi4tamojtlth/post/3mrfpawjxqp2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T15:48:28.873Z",
+        "score": 0,
+        "snippet": "\u0627\u0644\u0645\u0639\u0642\u062f\u0629.\n\n\u0647\u0644 \u062a\u0639\u062a\u0642\u062f \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062e\u0637\u0648\u0627\u062a \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629 \u0633\u062a\u0639\u0632\u0632 \u0645\u0646 \u0641\u0631\u0635 Rivian \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0636\u062f \u0639\u0645\u0627\u0644\u0642\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629\u061f\n\n\u0634\u0627\u0631\u0643\u0648\u0646\u0627 \u0622\u0631\u0627\u0621\u0643\u0645 \u0641\u064a \u0627\u0644\u062a\u0639\u0644\u064a\u0642\u0627\u062a \ud83d\udc47\n\n#Rivian #ElectricVehicles #EV #\u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a_\u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 #\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@t8ngy.bsky.social (Bluesky): \u0627\u0644\u0645\u062d\u0643\u0645\u0629 \u0627\u0644\u0639\u0644\u064a\u0627 \u0644\u0627\u062d\u0642\u0627\u064b \u0623\u0646\u0647\u0627 \u063a\u064a\u0631 \u062f\u0633\u062a\u0648\u0631\u064a\u0629.\n\n\u062a\u062a\u0648\u0642\u0639 \u0627\u0644\u0634\u0631\u0643\u0629 \u0623\u0646 \u062a\u0646\u062c\u062d \u0641\u064a \u0627\u0633\u062a\u0631\u062f\u0627\u062f \u0645\u0628\u0627\u0644\u063a \u062a",
+        "url": "https://bsky.app/profile/did:plc:7z6si6cjpmulvi4tamojtlth/post/3mrfpacmxtw2x",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T15:48:08.064Z",
+        "score": 0,
+        "snippet": "\u0627\u0644\u0645\u062d\u0643\u0645\u0629 \u0627\u0644\u0639\u0644\u064a\u0627 \u0644\u0627\u062d\u0642\u0627\u064b \u0623\u0646\u0647\u0627 \u063a\u064a\u0631 \u062f\u0633\u062a\u0648\u0631\u064a\u0629.\n\n\u062a\u062a\u0648\u0642\u0639 \u0627\u0644\u0634\u0631\u0643\u0629 \u0623\u0646 \u062a\u0646\u062c\u062d \u0641\u064a \u0627\u0633\u062a\u0631\u062f\u0627\u062f \u0645\u0628\u0627\u0644\u063a \u062a\u0642\u062f\u0631 \u0628\u0639\u0634\u0631\u0627\u062a \u0627\u0644\u0645\u0644\u0627\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0627\u0631\u0627\u062a. \u0647\u0630\u0627 \u0627\u0644\u0631\u0642\u0645 \u064a\u0645\u062b\u0644 \u0623\u0647\u0645\u064a\u0629 \u0642\u0635\u0648\u0649 \u0644\u0634\u0631\u0643\u0629 \u062a\u0645\u0631 \u0628\u0645\u0631\u062d\u0644\u0629 \u0627\u0646\u062a\u0642\u0627\u0644\u064a\u0629 \u062d\u0631\u062c\u0629\u060c \u062d\u064a\u062b \u062a\u0639\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0639\u0644\u0649 \u0625\u0637\u0644\u0627\u0642 \u0623\u0648",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@t8ngy.bsky.social (Bluesky): \u0639\u0634\u0631\u0627\u062a \u0627\u0644\u0645\u0644\u0627\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0646\u062a\u0638\u0627\u0631 \u0642\u0631\u0627\u0631 \u0642\u0636\u0627\u0626\u064a \u0642\u062f \u064a\u063a\u064a\u0631 \u0645\u0633\u0627\u0631 Rivian \u0627\u0644\u0645\u0627\u0644\u064a.\n\n\u062f\u062e",
+        "url": "https://bsky.app/profile/did:plc:7z6si6cjpmulvi4tamojtlth/post/3mrfp7ylsc72e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T15:47:57.581Z",
+        "score": 0,
+        "snippet": "\u0639\u0634\u0631\u0627\u062a \u0627\u0644\u0645\u0644\u0627\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0646\u062a\u0638\u0627\u0631 \u0642\u0631\u0627\u0631 \u0642\u0636\u0627\u0626\u064a \u0642\u062f \u064a\u063a\u064a\u0631 \u0645\u0633\u0627\u0631 Rivian \u0627\u0644\u0645\u0627\u0644\u064a.\n\n\u062f\u062e\u0644\u062a \u0634\u0631\u0643\u0629 Rivian \u0641\u064a \u0645\u0648\u0627\u062c\u0647\u0629 \u0642\u0627\u0646\u0648\u0646\u064a\u0629 \u0645\u0639 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0644\u0644\u0645\u0637\u0627\u0644\u0628\u0629 \u0628\u0627\u0633\u062a\u0631\u062f\u0627\u062f \u0643\u0627\u0645\u0644 \u0627\u0644\u0636\u0631\u0627\u0626\u0628 \u0627\u0644\u062a\u064a \u062f\u0641\u0639\u062a\u0647\u0627 \u062a\u062d\u062a \u0645\u0638\u0644\u0629 \u0645\u0627 \u0643\u0627\u0646 \u064a\u0639\u0631\u0641 \u0628\u0640",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@okane.fyi (Bluesky): NEW and first on @techcrunch.com: \n\nRivian has sued the US government in a bid t",
+        "url": "https://bsky.app/profile/did:plc:4jphg72g3zncjlbpvvagqvbs/post/3mrfoimwunw2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T15:34:53.577Z",
+        "score": 26,
+        "snippet": "NEW and first on @techcrunch.com: \n\nRivian has sued the US government in a bid to recoup the money it lost to Trump's unconstitutional tariffs, which CFO Claire McDonough had said could be in the \"ten",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2: The Tesla Model Y Competitor We Need? #shorts",
+        "url": "https://youtube.com/watch?v=q2tj-EXODl4",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T17:54:35Z",
+        "score": 0,
+        "snippet": "Rivian's new R2 SUV targets the mass market. Can it be a 'Model Y moment' for the brand, especially with European expansion in ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Sues US Government for Millions! \ud83d\udcb8\ud83d\ude97",
+        "url": "https://youtube.com/watch?v=Qsoixhk25Ms",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T16:48:39Z",
+        "score": 0,
+        "snippet": "Rivian is fighting for its money! The EV giant is suing the US government to get millions back in illegal tariffs. Do you think the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Sues US for Refund of Trump Tariffs \u2696\ufe0f",
+        "url": "https://youtube.com/watch?v=q4K7za5Dm8Y",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T16:47:56Z",
+        "score": 0,
+        "snippet": "Rivian has filed a lawsuit against the U.S. government seeking a full refund of tariffs, claiming they were unconstitutional following ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Design of the Rivian R2 | With Rivian&#39;s Chief Design Officer",
+        "url": "https://youtube.com/watch?v=1FLP2mOy_MM",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T16:05:04Z",
+        "score": 0,
+        "snippet": "Go behind the scenes at Rivian's exclusive R2 media event, where the Munro Live team had the opportunity to meet with Rivian's ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Toyota Land Cruiser SE vs Rivian R1S: The Ultimate Future EV SUV Battle",
+        "url": "https://youtube.com/watch?v=K_WEjAKNvGs",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T16:00:39Z",
+        "score": 0,
+        "snippet": "The future of adventure SUVs is changing forever. Can the Toyota Land Cruiser SE bring legendary Land Cruiser DNA into the ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian de R$ 800 mil ou chin\u00eas mais barato @Tcar#klipcorttcar #clipstcar",
+        "url": "https://youtube.com/watch?v=2QAPRcITBe8",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T15:11:49Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "#automobile #ev #tesla #rivian #testdrive #electricvehicle #R2 #florida",
+        "url": "https://youtube.com/watch?v=j809b1O1Pc4",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T14:04:38Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
