@@ -76382,5 +76382,305 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-24T02:03:18.277641Z",
+    "timestamp": "2026-07-24T02:03:18.277641Z",
+    "sentiment": {
+      "positive": 11,
+      "neutral": 77,
+      "negative": 11
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 2,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "18 signals across Vehicles (14), Business (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, July 24, 2026 \u2014 2:03 AM PT \u2014 18 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 17 Rivian signals clustered around Vehicles (14), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Business, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (14)* \u2022 Spare compartment in R1T\n  https://www.reddit.com/r/Rivian/comments/1v4xa5k/spare_compartment_in_r1t/\n*Business (3)* \u2022 Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors? - The Globe and Mail\n  https://news.google.com/rss/articles/CBMiigJBVV95cUxQajFDMmFpQVlvRFhTOW9CdVk4TlRBLXVvRUZWTmFOMlI1OXd3Q3R6OWM1RGxCZWpSV2dVZzFmS2Jxdk1HVEZsVlpzc0xIaUUzNDM3WHBZR24xU1Y4Z01DR1hYaXFQSTdEZkZ6aUt3MzZheDU3OFRoaWlHb0hHclVOMUduZzNacjZ2VThqejRNbG9wSWIyUXQtVV9EMnplNjFHY0xvam1GckVhcDBDVTdlUlRxTWdkbEltWDFLVl9aOU14UlVTdFhvakVpUWtWM2tvSmxhZTJqZDZJTzNPTE56eUxjZGh4cFJGc2s1bUdveVhKU1hTZ3ZVVXFqNFVoaVJPWm56NDhVSGl4QQ?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Spare compartment in R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v4xa5k/spare_compartment_in_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T01:35:37.276Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Assistant Voice Control Issue: SiriusXM?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v4x6ab/rivian_assistant_voice_control_issue_siriusxm/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T01:30:27.663Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Memory seats and mirrors",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v4tbj2/memory_seats_and_mirrors/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-23T22:44:48.912Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Tracks The EV Selloff, Is It Still 9% Undervalued? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZm50T0tLbHFXUjBrTHNtUHU1UVlxZUhEb3k1YXFLblByTHZOVGJ5ZVg1N1RzYmpxTW5rdGI0QUFnUThZWkRwcFo2bDNVZ0tzb0JyeTVfMHlaTWVGYzlaTi1hc2d2VkVwY3VIUWdiWWpScGxhMVNsbE4teWg5NHA0OVFPZ0VLSVdJY1RIbHpHYjlZMU4wVDNkaWxkWXRuQ2ZLY1J3OEZlOUNZejk0NkphRTkyUmlzTGNWX1FqdG9hOEJ6M2Z0ZnEtTUhHNloyTDlwYXpuSm9B0gHbAUFVX3lxTE50NXRNdUIwVnk3cXQ0RUZPWEJjSG42UkJsWEFPUUJodmUzTHJFeXI5YkF1c2pzQUExMThGZk04U3NFTHBtbThCYWFSQ2hfUW9jeFJxZW15OFJZbG5qSDA1Y1NsMkVHUXZzQVZVbTdQQmo0MGxfaFVMekxITE5vWDZHS1BXWmtKd01nUDJCdjJRRTJ6WHRoZUM2aURKUUN4ZW9reEI5ZE1rbXQ2Vm9POHFuTUVwQ1ZUZ25uaDk1WUV1QWI1Y2tER1VaTmhqY2FvR2ZVTHgzTXdYQ1A5bw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Jul 2026 23:40:34 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Tracks The EV Selloff, Is It Still 9% Undervalued? - simplywall.st",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDI3WHU0UVJpQmdYeU9EOWxySEF5cU1vT2Q1SHB5QkxfY2hIZFY1dEZQTHpzaVJIYko2eHJJMHRyd1dvQ25yTUFyZ0k5QldYZnVGVVh4cXNHNjB5VkhObmlfR0c2c21UMGFjM0RpNFNIMUJDcWw5anRWaC1oZ0R1RGxEZFNwTlhzanFia2NRR0o3dw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Jul 2026 20:14:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQajFDMmFpQVlvRFhTOW9CdVk4TlRBLXVvRUZWTmFOMlI1OXd3Q3R6OWM1RGxCZWpSV2dVZzFmS2Jxdk1HVEZsVlpzc0xIaUUzNDM3WHBZR24xU1Y4Z01DR1hYaXFQSTdEZkZ6aUt3MzZheDU3OFRoaWlHb0hHclVOMUduZzNacjZ2VThqejRNbG9wSWIyUXQtVV9EMnplNjFHY0xvam1GckVhcDBDVTdlUlRxTWdkbEltWDFLVl9aOU14UlVTdFhvakVpUWtWM2tvSmxhZTJqZDZJTzNPTE56eUxjZGh4cFJGc2s1bUdveVhKU1hTZ3ZVVXFqNFVoaVJPWm56NDhVSGl4QQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 23 Jul 2026 23:47:06 GMT",
+        "score": 0,
+        "snippet": "Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors? - The Globe and Mail",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mreamrn2ds22",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:54:00.970Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mrealsvesk22",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:53:28.770Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Right on! #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mreal6j5pk22",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:53:08.066Z",
+        "score": 0,
+        "snippet": "Right on! #Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian R2 Trailer Hitch Cover Screw Remover\n\nHere's a free 3D printable R2 Hitch",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mreai6d5cu25",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:51:27.166Z",
+        "score": 0,
+        "snippet": "Rivian R2 Trailer Hitch Cover Screw Remover\n\nHere's a free 3D printable R2 Hitch Cover Remover tool.  It's designed to remove the cover without a screwdriver.\n\nLink:  buff.ly/ZKhzFUm",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): It's not PG&E, Rivian doesn't sell an EV that supports V2G currently.",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mre6xmiimk2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:24:17.272Z",
+        "score": 0,
+        "snippet": "It's not PG&E, Rivian doesn't sell an EV that supports V2G currently.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@crissakentavr.bsky.social (Bluesky): No big three EV has killed a same-market EV.  I don't know why people keep y com",
+        "url": "https://bsky.app/profile/did:plc:jbwxai6k52bd2jl7i6k3knsx/post/3mre6utgcks2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:22:43.874Z",
+        "score": 0,
+        "snippet": "No big three EV has killed a same-market EV.  I don't know why people keep y comparison.  Fisker killed itself, Canoo never went into production.  Rivian and Tesla still remain.\n\nWhat's killed compani",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jcreek.bsky.social (Bluesky): Worked up a calculator and it\u2019s not looking good for me to join V2G & I have sol",
+        "url": "https://bsky.app/profile/did:plc:hza5qbmpnf5qtqfizhung2r6/post/3mre63z7mzs2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:08:50.968Z",
+        "score": 1,
+        "snippet": "Worked up a calculator and it\u2019s not looking good for me to join V2G & I have solar so V2H doesn\u2019t pencil out well. But I can check back in 2027 to see if PGE adds Rivian to their programs. I want to d",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and L",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mre5mqn7dk2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T01:00:18.967Z",
+        "score": 0,
+        "snippet": "Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors?\n\nhttps://www.evshift.com/496532/is-teslas-earnings-miss-and-negative-free-cash-flow-a-red-flag-for-rivia",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@titaniumman91.bsky.social (Bluesky): Sure, but we're a country of 340 million people. There's 10k Rivians sold per qu",
+        "url": "https://bsky.app/profile/did:plc:of6ha677guds4orbvoq3rngx/post/3mre42fgv2s2z",
+        "source": "bluesky",
+        "publishedAt": "2026-07-24T00:32:08.330Z",
+        "score": 1,
+        "snippet": "Sure, but we're a country of 340 million people. There's 10k Rivians sold per quarter and if that's all the kind of numbers needed for Slate, it seems entirely doable?\n\nI know Rivian has been a bit of",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bradporcellato.bsky.social (Bluesky): \n\nIs Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and",
+        "url": "https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mrdzguzz2q2h",
+        "source": "bluesky",
+        "publishedAt": "2026-07-23T23:45:27.067Z",
+        "score": 0,
+        "snippet": "\n\nIs Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors? https://t.co/rJlkyfnKyo\n\n  \u2014 The Right News, Right Now. (@BradPorcellato)\n  Jul 23, 2026\n\nJuly 23, 202",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Gloss to Satin Black: Insane 2026 Rivian R1S Stealth Upgrade!",
+        "url": "https://youtube.com/watch?v=gHqUDwTdNfI",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T00:30:06Z",
+        "score": 0,
+        "snippet": "Witness the ultimate upgrade! We took this brand new 2026 Rivian R1S from factory gloss black to an absolute showstopper ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs Tesla Model Y \u2013 The Ultimate Compact Electric Adventure Comparison",
+        "url": "https://youtube.com/watch?v=vOKtj9MKdZo",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T00:15:20Z",
+        "score": 0,
+        "snippet": "Rivian R2 vs Tesla Model Y \u2013 The Ultimate Compact Electric Adventure Comparison We pit the Rivian R2's rugged, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
