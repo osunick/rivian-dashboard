@@ -6,6 +6,19 @@ import {
 } from '@/lib/data';
 import { CATEGORY_LABELS, SOURCE_LABELS } from '@/lib/types';
 
+
+function decodeHTMLEntities(text: string | undefined): string {
+  if (!text) return "";
+  return text
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&#x27;/g, "'")
+    .replace(/&#x2F;/g, '/');
+}
+
 export const dynamic = 'force-dynamic';
 
 function formatTimestamp(value: string) {
@@ -59,8 +72,8 @@ function buildSignals(): AmbientSignal[] {
     .slice(0, 18);
 
   return signals.map(item => ({
-    title: item.title,
-    snippet: item.snippet,
+    title: decodeHTMLEntities(item.title),
+    snippet: decodeHTMLEntities(item.snippet),
     url: item.url,
     source: SOURCE_LABELS[item.source] ?? item.source,
     category: item.category ? cleanLabel(CATEGORY_LABELS[item.category] ?? item.category) : 'Signal',
