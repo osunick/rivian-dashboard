@@ -78545,5 +78545,133 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T02:13:44.757957Z",
+    "timestamp": "2026-07-25T02:13:44.757957Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 80,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "5 signals across Vehicles (2), Business (1); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 2:13 AM PT \u2014 5 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 4 Rivian signals clustered around Vehicles (2), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Business, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (2)* \u2022 Rivian vehicles are made in the United States. The company is an American electric vehicle manufacturer headquartered in Irvine, California.\n  https://bsky.app/profile/did:plc:eew4zia5kgaoh35sdn2u5cgg/post/3mrgrtrvypc2k\n*Business (1)* \u2022 Rivian Stock Slides As $1.2B Equity Offering Collides With Revenue Beat - timothysykes.com\n  https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZN2xFbDg3eEFETjhYcVl5a3htajhad0Zya0szUHJsUGtOTW1FUXNyb0djZVY4Wm45aW1yUXpwbXotLXNocVVkbXRsS1lsWUg3a05TSlpQcHFYTDN1c01UMWNkaDgweUpqSmxFeG5FMVI1MFR5Mzd1NFJfRXhjUQ?oc=5\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 Flipping cars hurts everyone (including the flipper when it goes wrong), and it deserves ridicule whenever it's caught out in the wild.\n  https://bsky.app/profile/did:plc:jkx2jmb32wbdan4plaltva62/post/3mrgs4jre3b2f\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Random repetitive beep noise",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5v2qh/random_repetitive_beep_noise/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T02:02:37.178Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Stock Slides As $1.2B Equity Offering Collides With Revenue Beat - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZN2xFbDg3eEFETjhYcVl5a3htajhad0Zya0szUHJsUGtOTW1FUXNyb0djZVY4Wm45aW1yUXpwbXotLXNocVVkbXRsS1lsWUg3a05TSlpQcHFYTDN1c01UMWNkaDgweUpqSmxFeG5FMVI1MFR5Mzd1NFJfRXhjUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 24 Jul 2026 21:04:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Slides As $1.2B Equity Offering Collides With Revenue Beat - timothysykes.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@jalopnik.bsky.social (Bluesky): Flipping cars hurts everyone (including the flipper when it goes wrong), and it ",
+        "url": "https://bsky.app/profile/did:plc:jkx2jmb32wbdan4plaltva62/post/3mrgs4jre3b2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T02:12:22.570Z",
+        "score": 0,
+        "snippet": "Flipping cars hurts everyone (including the flipper when it goes wrong), and it deserves ridicule whenever it's caught out in the wild.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@mlbosin.bsky.social (Bluesky): Rivian vehicles are made in the United States. The company is an American electr",
+        "url": "https://bsky.app/profile/did:plc:eew4zia5kgaoh35sdn2u5cgg/post/3mrgrtrvypc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T02:07:29.073Z",
+        "score": 0,
+        "snippet": "Rivian vehicles are made in the United States. The company is an American electric vehicle manufacturer headquartered in Irvine, California.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@nimaecm.bsky.social (Bluesky): I love Rivian, and now I adore them \ud83d\udcaa\ud83c\udffc",
+        "url": "https://bsky.app/profile/did:plc:m7hxcvuzvi3oj5wdyd5efini/post/3mrgrrzcjvs2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T02:06:28.766Z",
+        "score": 0,
+        "snippet": "I love Rivian, and now I adore them \ud83d\udcaa\ud83c\udffc",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
