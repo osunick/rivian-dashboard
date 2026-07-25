@@ -78821,5 +78821,523 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T14:03:30.770054Z",
+    "timestamp": "2026-07-25T14:03:30.770054Z",
+    "sentiment": {
+      "positive": 8,
+      "neutral": 91,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 4,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 23,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "34 signals across Vehicles (23), Demo & Test Drives (4); watch Vehicle Demand, Demo Drives",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 2:03 PM PT \u2014 34 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (23), Demo & Test Drives (4).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Demo Drives, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (4)* \u2022 Impressed with the R2 test drive!\n  https://www.reddit.com/r/RivianR2/comments/1v5xoc0/impressed_with_the_r2_test_drive/\n*Vehicles (23)* \u2022 R2 Performance Suspension vs Model Y 21 Performance\n  https://www.reddit.com/r/Rivian/comments/1v682ft/r2_performance_suspension_vs_model_y_21/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 The Rivian R1T can rotate on its own axis. No combustion truck can do this. Here's the engineering that makes it possible \u2014 and ...\n  https://youtube.com/watch?v=AmoUiWdG5vk\n*Community (2)* \u2022 www.tikr.com/blog/who-own...\n  https://bsky.app/profile/did:plc:xs4b6morr2usunrttn3n2zty/post/3mrhzfxowr22o\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R2 Performance Suspension vs  Model Y 21 Performance",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v682ft/r2_performance_suspension_vs_model_y_21/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T13:12:46.931Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "[MEGATHREAD] Saturday Switchers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v67snm/megathread_saturday_switchers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T13:01:00.935Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Performance Dual Motor Mystery",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v67ph0/performance_dual_motor_mystery/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T12:57:13.965Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian state park chargers should be free (at least to Rivian owners)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v66oia/rivian_state_park_chargers_should_be_free_at/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T12:08:38.032Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Front License Plate?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v66n99/front_license_plate/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T12:06:55.497Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian sues the US government over tariffs",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5yf3j/rivian_sues_the_us_government_over_tariffs/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T04:44:10.489Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rear Accessory Mode Shortcut",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5xc15/rear_accessory_mode_shortcut/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T03:49:48.381Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Impressed with the R2 test drive!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v5xoc0/impressed_with_the_r2_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-25T04:06:27.876Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian R2 Demo Drive Review: A Seamless Upgrade iX to R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v5xb21/rivian_r2_demo_drive_review_a_seamless_upgrade_ix/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-24T22:56:06.921Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian R2 Demo Drive Review: A Seamless Upgrade iX to R2",
+        "url": "https://www.reddit.com/r/BMWiX/comments/1v5qusx/rivian_r2_demo_drive_review_a_seamless_upgrade_ix/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-24T22:56:06.921Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian sues the US government for 'full refund' of tariffs",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v5ych1/rivian_sues_the_us_government_for_full_refund_of/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-25T04:40:19.611Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Faces New Legal Risk As Volkswagen Charges And Tariff Suit Land - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckdqYzlWcnpVQzY2M2pVdGFRZWNpSS1nTUs5VEVRNmFNd3dyQXRqdjBCMWdCYXFoVkJsbVRzYlMxcXRPZm8tQTB0eGdSU3lIOWctamFaMHc1ZnJoektqZTJxVVloZG16LXlucWZzNXJIeFZ5WjNQaGI4clFYd1FQTVBPZExmanBCcl9kbWUwYS1SY2M4UDJZbU03WHFZYldWTFNxYzdqUnpqaGxfSUd3SHNycXBkWkRtSEhYUXF2VXEzaUdSdlJ1akJnNVJKc1ZsZm9nY1R30gHbAUFVX3lxTE5RdFdqSDlxUWliTnJkLUZzVFFmN0NiNjA1ZG1LNlYxTC1ZSnFLbHZDczdQVllKT3YwNzExeWcyVmxtSlVMZy1BREoza2c5d21tTjh4OEVyWFA0d3BOemoybE9LM1h5Vno4WFJ5VWNaTUFlZ09NZjhYU0tteTRwbnJTaXhCTGVYSkdBRHlvamJDcTlrUFU0RkM4WnptUHB2YjZTaTZ1Slc2Q3Fqak1iM19seEVZSGU4YjVuN1YzaEZOQVQtSDgtYUdxQW5fSENxbkdpajRXYk5oaFRoWQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 25 Jul 2026 12:32:09 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Faces New Legal Risk As Volkswagen Charges And Tariff Suit Land - simplywall.st",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Renaissance Technologies LLC Trims Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTTd6bW5mTUNDVGI5cjdjUmQxaU50MXRpUFoyelVRMWt0ZEJpU01PZUFTZ21TOVN2akptOHNDUVJLdXBCNE1HZnkycG9ldFIwRVd4NVZMNVN2RFFDVWMwRW4yZXZ5ejRtS0dHazdCa2hJREt3cGxuVEktYl9YUGthYW16LUZFWVVmVC1NTjFxdDN1SVFEU1RYbUsyUV9tTkVPZWpTNldaVVZDMmRFX25meDBMY2NUejQxbHdZTFBrLTladU43eGtxTFpjNA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 25 Jul 2026 10:11:15 GMT",
+        "score": 0,
+        "snippet": "Renaissance Technologies LLC Trims Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Bank of New York Mellon Corp Lowers Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTVBbndlU0xvWXZkSkhqNTRqWDRDVDNsQk9JSG8zNVI0NGZ2WkI3bFZoREw5bTVNNWFCYm5ybEtvaUVUdGVTOEYxTHBzdXNqT05DT0hBZ25MT2lsTkc4b1pzTmZwd2NTLXdOczNwcnRyejljc19OZ3RvTzZWNFBRZnVfQ1UtS0dnaWFqNjlMeGhqT3Q4c1RqV1RGX05yZDJfTHBETEt1b0tBUHo0RmpweUpZWDRXRzV0SnAtN3FzTGhBVkliSnBMOUptZU8?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 25 Jul 2026 07:28:27 GMT",
+        "score": 0,
+        "snippet": "Bank of New York Mellon Corp Lowers Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@pollygray2.bsky.social (Bluesky): www.tikr.com/blog/who-own...",
+        "url": "https://bsky.app/profile/did:plc:xs4b6morr2usunrttn3n2zty/post/3mrhzfxowr22o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:55:36.576Z",
+        "score": 0,
+        "snippet": "www.tikr.com/blog/who-own...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@pollygray2.bsky.social (Bluesky): www.tikr.com/blog/who-own...",
+        "url": "https://bsky.app/profile/did:plc:xs4b6morr2usunrttn3n2zty/post/3mrhzfgur3c2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:55:19.276Z",
+        "score": 0,
+        "snippet": "www.tikr.com/blog/who-own...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@pollygray2.bsky.social (Bluesky): And Rivian is backed by Bezos",
+        "url": "https://bsky.app/profile/did:plc:xs4b6morr2usunrttn3n2zty/post/3mrhzbhctyc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:53:03.669Z",
+        "score": 0,
+        "snippet": "And Rivian is backed by Bezos",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@pollygray2.bsky.social (Bluesky): Rivian is also backed by Bezos",
+        "url": "https://bsky.app/profile/did:plc:xs4b6morr2usunrttn3n2zty/post/3mrhzawjpj22o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:52:46.872Z",
+        "score": 0,
+        "snippet": "Rivian is also backed by Bezos",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@pollygray2.bsky.social (Bluesky): Buying lucid and rivian support Saudi",
+        "url": "https://bsky.app/profile/did:plc:xs4b6morr2usunrttn3n2zty/post/3mrhz6gck3s2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:51:22.477Z",
+        "score": 0,
+        "snippet": "Buying lucid and rivian support Saudi",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sondakikatr.bsky.social (Bluesky): \ud83d\udcf0 \ud83d\udd34 SON DAK\u0130KA: Volkswagen m\u00fchendislerine Rivian ortakl\u0131\u011f\u0131yla i\u00e7eriden ticaret s",
+        "url": "https://bsky.app/profile/did:plc:ze2rng6kfggs3uaoz2z7zmbc/post/3mrhyh5lbu32q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:38:21.767Z",
+        "score": 0,
+        "snippet": "\ud83d\udcf0 \ud83d\udd34 SON DAK\u0130KA: Volkswagen m\u00fchendislerine Rivian ortakl\u0131\u011f\u0131yla i\u00e7eriden ticaret su\u00e7lamas\u0131\n\nKaynak: CHIP Online\n\n#haber #sondakika #g\u00fcndem #t\u00fcrkiye #d\u00fcnya",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@eu-de.bsky.social (Bluesky): Rivian (RIVN) Faces New Legal Risk As Volkswagen Charges And Tariff Suit Land\n\nh",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mrhx5nirna2q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:15:08.265Z",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Faces New Legal Risk As Volkswagen Charges And Tariff Suit Land\n\nhttps://www.europesays.com/germany/61102/\n\nVolkswagen engineers have been charged with insider trading linked to the plan",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@theclevermonkey.bsky.social (Bluesky): Will each buyer get a rebate or will Rivian just pocket that money too?",
+        "url": "https://bsky.app/profile/did:plc:v5seubqcungtyxv4uzxz3sdg/post/3mrhwtcllts2a",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T13:09:19.666Z",
+        "score": 0,
+        "snippet": "Will each buyer get a rebate or will Rivian just pocket that money too?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Taking Delivery of My Rivian R2 at the Rivian Factory\n\nyoutu.be/GqExHEcfnAs",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mrhvl5uuus2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T12:46:55.674Z",
+        "score": 11,
+        "snippet": "Taking Delivery of My Rivian R2 at the Rivian Factory\n\nyoutu.be/GqExHEcfnAs",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@eu-de.bsky.social (Bluesky): Ex-Volkswagen Workers Charged with Insider Trading on Rivian\n\nhttps://www.europe",
+        "url": "https://bsky.app/profile/did:plc:56i5k4rdeizxjwiot7kufsqq/post/3mrhtskgt7j2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T12:15:14.572Z",
+        "score": 0,
+        "snippet": "Ex-Volkswagen Workers Charged with Insider Trading on Rivian\n\nhttps://www.europesays.com/germany/61079/\n\nThe Alleged Scheme According to prosecutors, Stamp and Plank worked together to take advantage ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R3 \u2013 The Affordable EV Everyone Is Waiting For!",
+        "url": "https://youtube.com/watch?v=4hJZxoNhwuo",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T14:00:13Z",
+        "score": 0,
+        "snippet": "Hello Welcome to my Channel The 2027 Rivian R3 is shaping up to be one of the most exciting and affordable electric vehicles ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "TESTANDO A RIVIAN R1S QUAD 1.064 CV NA ARRANCADA  #shorts #fueltech #rivian",
+        "url": "https://youtube.com/watch?v=5ZFqOzh9Rpw",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T14:00:09Z",
+        "score": 0,
+        "snippet": "Corte feito do video do @AndersonDick, testando a Rivian R1S QUAD na arrancada.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S Review \u26a1 The Ultimate Electric Adventure SUV | Luxury, Range &amp; Performance #usacar",
+        "url": "https://youtube.com/watch?v=9XEhsS3-k0s",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T13:58:23Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian R1S is a premium all-electric adventure SUV built for both city driving and off-road exploration. With impressive ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 | Drive Modes &amp; Settings",
+        "url": "https://youtube.com/watch?v=PxsGSNSfxr4",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T13:30:28Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u26a1\ud83d\ude99 Rivian R2 2027 | \u0643\u0644 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u062a\u062d\u062f\u064a\u062b\u0627\u062a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+        "url": "https://youtube.com/watch?v=nMYhOGd8EXA",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T13:17:57Z",
+        "score": 0,
+        "snippet": "Rivian R2 2027 | \u0643\u0644 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u062a\u062d\u062f\u064a\u062b\u0627\u062a \u0627\u0644\u062c\u062f\u064a\u062f\u0629 \u26a1 \u0647\u0644\u0627 \u0648\u0627\u0644\u0644\u0647 \u0628\u0645\u062a\u0627\u0628\u0639\u064a\u0646 **Elite Auto Rides**! \u0641\u064a \u0647\u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0646\u0633\u062a\u0639\u0631\u0636 \u0622\u062e\u0631 **\u0627\u0644\u0623\u062e\u0628\u0627\u0631 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Road Trip Performance Benchmarking In Our 10% Challenge",
+        "url": "https://youtube.com/watch?v=LgZClJTLQWc",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T13:04:20Z",
+        "score": 0,
+        "snippet": "Kyle runs the new Rivian R2 Performance in the typical 10% Challenge road trip simulation. A big thank you to @riviantrackr for ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Taking Delivery of My Rivian R2 at the Rivian Factory",
+        "url": "https://youtube.com/watch?v=GqExHEcfnAs",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T12:25:32Z",
+        "score": 0,
+        "snippet": "Join me at the Rivian factory in Normal, IL, where I flew out to pick up my brand-new Rivian R2, take you through the delivery ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Review",
+        "url": "https://youtube.com/watch?v=lgUd-Q3j_5U",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T12:00:30Z",
+        "score": 0,
+        "snippet": "Finally got my hands on the brand new 2027 Rivian R2. Let me know what you think of it.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "ESSA CAMINHONETE EL\u00c9TRICA FEZ O IMPOSS\u00cdVEL \ud83d\ude31\u26a1 #shorts",
+        "url": "https://youtube.com/watch?v=mFEKVaR-yqM",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T11:00:00Z",
+        "score": 0,
+        "snippet": "A Rivian vem mostrando que carros el\u00e9tricos n\u00e3o s\u00e3o apenas econ\u00f4micos. Neste v\u00eddeo voc\u00ea vai ver uma das arrancadas mais ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why the Rivian can turn like a tank #shorts",
+        "url": "https://youtube.com/watch?v=AmoUiWdG5vk",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T10:45:15Z",
+        "score": 0,
+        "snippet": "The Rivian R1T can rotate on its own axis. No combustion truck can do this. Here's the engineering that makes it possible \u2014 and ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      }
+    ]
   }
 ]
