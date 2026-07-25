@@ -79421,5 +79421,88 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T14:24:36.922290Z",
+    "timestamp": "2026-07-25T14:24:36.922290Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "2 signals across Other (1), Vehicles (1); watch Rivian Mentions, Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 2:24 PM PT \u2014 2 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 1 Rivian signal clustered around Vehicles (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Rivian Mentions, Vehicle Demand.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (1)* \u2022 \"The US Department of Justice has charged two Volkswagen engineers with securities fraud for an alleged insider-trading scheme connected to the German automaker\u2019s joint venture with Rivian.\" techcrunc\n  https://bsky.app/profile/did:plc:gcqnk27ommkfj6c65mwrttz6/post/3mri2pv4bs62l\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "I finally managed to book a test drive for tomorrow, I've been working my arse off to be ready to buy next year",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v69nge/i_finally_managed_to_book_a_test_drive_for/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-25T14:19:08.753Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "@ambermac.bsky.social (Bluesky): \"The US Department of Justice has charged two Volkswagen engineers with securiti",
+        "url": "https://bsky.app/profile/did:plc:gcqnk27ommkfj6c65mwrttz6/post/3mri2pv4bs62l",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T14:19:01.772Z",
+        "score": 0,
+        "snippet": "\"The US Department of Justice has charged two Volkswagen engineers with securities fraud for an alleged insider-trading scheme connected to the German automaker\u2019s joint venture with Rivian.\" techcrunc",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
