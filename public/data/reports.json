@@ -79613,5 +79613,398 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T18:03:06.641115Z",
+    "timestamp": "2026-07-25T18:03:06.641115Z",
+    "sentiment": {
+      "positive": 12,
+      "neutral": 72,
+      "negative": 16
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "25 signals across Vehicles (19), Community (2); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 6:03 PM PT \u2014 25 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 22 Rivian signals clustered around Vehicles (19), Community (2).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 4 negative signals; watch Vehicle Demand, Community Signals, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* The two former VW engineers Googled \"insider trading\" before actually committing the crime.\n  https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mrifxjfsjl2j\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 I finally got behind the wheel of the 2027 Rivian R2, and after all the hype, it's time to see if it actually delivers. In this first drive, ...\n  https://youtube.com/watch?v=7h4mSw4634U\n*Vehicles (19)* \u2022 Well great news. The R2 can easily hold my search and rescue gear for missions.\n  https://www.reddit.com/r/Rivian/comments/1v6eteo/well_great_news_the_r2_can_easily_hold_my_search/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 @schmidtisblog.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3mriauchg2p2w\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Well great news. The R2 can easily hold my search and rescue gear for missions.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6eteo/well_great_news_the_r2_can_easily_hold_my_search/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T17:07:22.443Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Well great news. The R2 can easily hold my search and rescue gear for missions.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v6dttk/well_great_news_the_r2_can_easily_hold_my_search/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T17:07:22.443Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Passenger Airbag Off Issues - Resolved?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6d5yr/passenger_airbag_off_issues_resolved/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T16:41:31.733Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Is anyone considering trading a Gen2 R1 for R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6bjrj/is_anyone_considering_trading_a_gen2_r1_for_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T15:37:35.125Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 delivery - \ud83d\ude0d",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6bgnz/r2_delivery/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T15:34:09.057Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Quirks",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6b56s/rivian_quirks/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T15:21:26.948Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 efficiency not an improvement over R1?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6a43s/r2_efficiency_not_an_improvement_over_r1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T14:38:17.695Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Aircon vents",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v6d8d2/aircon_vents/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-25T16:44:20.347Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "@technoholic.bsky.social (Bluesky): \ud83d\udcf0 Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+        "url": "https://bsky.app/profile/did:plc:dzaoyenerctazw52quyx22fc/post/3mrig2gok6g26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T17:41:46.874Z",
+        "score": 0,
+        "snippet": "\ud83d\udcf0 Volkswagen engineers charged with insider trading tied to Rivian joint venture\n\nRead More \ud83d\udc49 : techcrunch.com/2026/07/24/v...\n\n#techtrends #ai #tech #gadgets",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): The two former VW engineers Googled \"insider trading\" before actually committing",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mrifxjfsjl2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T17:40:09.581Z",
+        "score": 0,
+        "snippet": "The two former VW engineers Googled \"insider trading\" before actually committing the crime.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Former Volkswagen Engineers Accused of Insider Trading Ahead of Rivian Deal",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mricmsyfnh2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T16:40:29.163Z",
+        "score": 0,
+        "snippet": "Former Volkswagen Engineers Accused of Insider Trading Ahead of Rivian Deal",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@schmidtisblog.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3mriauchg2p2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T16:08:52.579Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian Sues U.S. Government to Recover Millions in Trump Tariffs",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mriafpq5er2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T16:00:43.072Z",
+        "score": 0,
+        "snippet": "Rivian Sues U.S. Government to Recover Millions in Trump Tariffs",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@el-intrepido.bsky.social (Bluesky): If they had the Bronco with the Shitty Maveric \u201chybrid\u201d system (bigger battery, ",
+        "url": "https://bsky.app/profile/did:plc:eebqy4dtqvaejhh5tpeyhvkb/post/3mri6brxm622n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T15:22:45.976Z",
+        "score": 0,
+        "snippet": "If they had the Bronco with the Shitty Maveric \u201chybrid\u201d system (bigger battery, bring it to the Prius 4 level) I would buy one in a HEARTBEAT\n\nBut, I prefer the up and coming Ranger 2.5 offered by SLA",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@bill-leibenguth.bsky.social (Bluesky): riviantrackr.com/news/rivian-...",
+        "url": "https://bsky.app/profile/did:plc:tcr7nxzxs4c5adjp6xa7gis3/post/3mri4zlaatk24",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T15:00:16.593Z",
+        "score": 4,
+        "snippet": "riviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Fastest Electric Pickup? Rivian R1T Tri-Motor \u26a1\ufe0f #Shorts #rivian #electrictrucks  #electricmove",
+        "url": "https://youtube.com/watch?v=e4euuhdgRCA",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T18:00:06Z",
+        "score": 0,
+        "snippet": "The Rivian R1T Tri-Motor combines all-electric performance, advanced technology, and off-road capability into one incredible ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Just Sued the US Government \ud83d\udcb0\u2696\ufe0f",
+        "url": "https://youtube.com/watch?v=Yf2plnZP96g",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T17:32:02Z",
+        "score": 0,
+        "snippet": "Rivian is suing the US government to guarantee a \"full refund\" on tariffs it paid under Trump's \"Liberation Day\" policy \u2014 even after ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Finally Drove the Rivian R2... Here&#39;s What Happened",
+        "url": "https://youtube.com/watch?v=7h4mSw4634U",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T17:00:40Z",
+        "score": 0,
+        "snippet": "I finally got behind the wheel of the 2027 Rivian R2, and after all the hype, it's time to see if it actually delivers. In this first drive, ...",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian Tesla and Chanel fun day Mall",
+        "url": "https://youtube.com/watch?v=2ybCxwwiabg",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T16:28:42Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Cyberbeast vs Rivian R2 #futurecars #luxurycars #suvreview #supercar #hypercar #suv #car 2",
+        "url": "https://youtube.com/watch?v=7gSp1CWJ948",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T16:00:18Z",
+        "score": 0,
+        "snippet": "Tesla Cyberbeast vs Rivian R2 #futurecars #luxurycars #suvreview #supercar #hypercar #suv #car.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Gear Guard has one issue owners should know about.",
+        "url": "https://youtube.com/watch?v=DAw-0cLmNCk",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T16:00:18Z",
+        "score": 0,
+        "snippet": "Rivian R2 Gear guard issues. Owners should know that motion cam is working, but notifications are not being sent/or display ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "rivian the traveler",
+        "url": "https://youtube.com/watch?v=t0R-JHjpWbg",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T15:18:24Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My Rivian R2 Is Having Issues...",
+        "url": "https://youtube.com/watch?v=5uMW29hQesc",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T15:12:59Z",
+        "score": 0,
+        "snippet": "In this video I talk about some of the recent issues I'm having with my Rivian, some of the concerns and feelings they've brought ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=T7ma8TadA0o",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T15:10:13Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=BP156Hr_qao",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T15:08:54Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
