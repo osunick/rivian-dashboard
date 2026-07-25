@@ -80006,5 +80006,70 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T18:25:49.963887Z",
+    "timestamp": "2026-07-25T18:25:49.963887Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Vehicle Demand"
+    ],
+    "summary": "1 signal across Vehicles (1); watch Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 6:25 PM PT \u2014 1 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 1 Rivian signal clustered around Vehicles (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (1)* \u2022 Can a family of 5 take a 3,500+ mile road trip into Atlantic Canada in an electric SUV without range anxiety? \u26a1\ufe0f\ud83c\udde8\ud83c\udde6 Follow along as we drive from NJ through VT & ME, cross into New Brunswick, and expl\n  https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mrihzcmvas2b\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "@dadontherunblog.com (Bluesky): Can a family of 5 take a 3,500+ mile road trip into Atlantic Canada in an electr",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mrihzcmvas2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T18:16:58.568Z",
+        "score": 0,
+        "snippet": "Can a family of 5 take a 3,500+ mile road trip into Atlantic Canada in an electric SUV without range anxiety? \u26a1\ufe0f\ud83c\udde8\ud83c\udde6\n\nFollow along as we drive from NJ through VT & ME, cross into New Brunswick, and expl",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
