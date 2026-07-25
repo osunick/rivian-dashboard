@@ -78119,5 +78119,431 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T02:02:59.951347Z",
+    "timestamp": "2026-07-25T02:02:59.951347Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 77,
+      "negative": 14
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "27 signals across Vehicles (19), Business (4); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 2:02 AM PT \u2014 27 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 25 Rivian signals clustered around Vehicles (19), Business (4).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 4 negative signals; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.\n  https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html\n\u2022 *Competitive Threats:* Waymo explores ending Uber ties as robotaxi rivalry grows (GOOG:NASDAQ) - Seeking Alpha\n  https://news.google.com/rss/articles/CBMimwFBVV95cUxOb19jdWZpdWowS09QV283VDNTSU9rb2xTTS03MWw4ZS1weVIzNGN2TTlpZFl4ZGxSclgzTkpPY1pjdXlFaWtsaURuSmJOY0VUZHJnellseWhLaW1PVnZLN1lJMWgxU2NaajZOQ3BYRXlrNGdKdFZsTG5vSkRBODdKaEp3aGw5d0RNMlQwdXplVXZQOEhRRVoyaDB1Yw?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (19)* \u2022 Help understanding Rivian buy to lease\n  https://www.reddit.com/r/Rivian/comments/1v5uvvb/help_understanding_rivian_buy_to_lease/\n*Business (4)* \u2022 Rivian Automotive (RIVN) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance Singapore\n  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2dyeHRFajhNNG1IeFdqY0NSenVsdmlQTExBUG1BVzBaeDZKTlg5QmpTazJzOFhjV1RqSW1qY1J3YnJ3WllzSlZqdnNJMUtzbzJnSVJxVUs3TGk3M1FvanlseFlTTF85dHdFSWx4ektQMloyMzkzQ3BGUFJXR19EZElXQzJhT01ma2Z3?oc=5\n*Software (2)* \u2022 The Rivian R2 just got a major software update.... but it still feels unfinished. Watch Here: www.youtube.com/watch?v=Rvmd...\n  https://bsky.app/profile/did:plc:aabkgrsooxhbakpia27sw5gj/post/3mrgq7yd4552v\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Help understanding Rivian buy to lease",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5uvvb/help_understanding_rivian_buy_to_lease/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T01:53:41.424Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Gen 1 R1S Quad",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5tqq6/gen_1_r1s_quad/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T01:00:52.988Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Thinking of trading my Model Y for an R2. Anyone else making the switch?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v5qtjl/thinking_of_trading_my_model_y_for_an_r2_anyone/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T22:54:15.532Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Thinking of trading my Model Y for an R2. Anyone else making the switch?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v5qt5a/thinking_of_trading_my_model_y_for_an_r2_anyone/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-24T22:54:15.532Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
+        "url": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
+        "source": "cnbc_top",
+        "publishedAt": "Fri, 24 Jul 2026 21:48:45 GMT",
+        "score": 0,
+        "snippet": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2dyeHRFajhNNG1IeFdqY0NSenVsdmlQTExBUG1BVzBaeDZKTlg5QmpTazJzOFhjV1RqSW1qY1J3YnJ3WllzSlZqdnNJMUtzbzJnSVJxVUs3TGk3M1FvanlseFlTTF85dHdFSWx4ektQMloyMzkzQ3BGUFJXR19EZElXQzJhT01ma2Z3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 24 Jul 2026 21:45:04 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance Singapore",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "RIVN Stock Slips 4% Ahead Of Q2 Report \u2014 EV Maker Files Lawsuit Seeking Tariff Refunds - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSlFfQkppTkZxeEJqaTBSc29lV01Fd2JNRXFJYkZOQ3FZRkhfTXlnNFd3YzJSZ0pzX01DYWRlNUJBMzZNVVJDalYyYVFmbU5xeW1CZjgtdFc1RHNFWWtpclU3WHlUeW55Y2RuR0pPQi01eXFyWXpURF9uVzIxb3RMR2hySVRqMmJtYTdzcnZVYTQ0NjA4aGxVZDYydURGSTdrRDdLWmlVNzZEWUFDNWQ5azhXUkZUWUVkYXBXdHhsaWp1RFZ2TFFLSloyMTUycDlENkstejRkUjM0SDA1?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 24 Jul 2026 22:29:04 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Slips 4% Ahead Of Q2 Report \u2014 EV Maker Files Lawsuit Seeking Tariff Refunds - TradingView",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Waymo explores ending Uber ties as robotaxi rivalry grows (GOOG:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb19jdWZpdWowS09QV283VDNTSU9rb2xTTS03MWw4ZS1weVIzNGN2TTlpZFl4ZGxSclgzTkpPY1pjdXlFaWtsaURuSmJOY0VUZHJnellseWhLaW1PVnZLN1lJMWgxU2NaajZOQ3BYRXlrNGdKdFZsTG5vSkRBODdKaEp3aGw5d0RNMlQwdXplVXZQOEhRRVoyaDB1Yw?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Fri, 24 Jul 2026 19:43:06 GMT",
+        "score": 0,
+        "snippet": "Waymo explores ending Uber ties as robotaxi rivalry grows (GOOG:NASDAQ) - Seeking Alpha",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@aprivateguy.bsky.social (Bluesky): Interesting to see #Rivian pushing back against #Trump tarriff policy decisions.",
+        "url": "https://bsky.app/profile/did:plc:ai5imdmfmkqb244bkzcjoab3/post/3mrgqv3t6is2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T01:50:19.269Z",
+        "score": 0,
+        "snippet": "Interesting to see #Rivian pushing back against #Trump tarriff policy decisions.\n\n#Amazon directly owns about 158.4 million Rivian shares, roughly 12.6%. Including its warrant, Amazon\u2019s beneficial own",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electricdonkey.me (Bluesky): Go Rivian!\n\nWish we could get some class-action lawsuits going.",
+        "url": "https://bsky.app/profile/did:plc:xc25fjmpp5pfpou627ud7n3b/post/3mrgqu4lrzs22",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T01:49:48.570Z",
+        "score": 0,
+        "snippet": "Go Rivian!\n\nWish we could get some class-action lawsuits going.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mikekantorski.bsky.social (Bluesky): The Rivian R2 just got a major software update.... but it still feels unfinished",
+        "url": "https://bsky.app/profile/did:plc:aabkgrsooxhbakpia27sw5gj/post/3mrgq7yd4552v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T01:38:31.562Z",
+        "score": 0,
+        "snippet": "The Rivian R2 just got a major software update.... but it still feels unfinished.\n\nWatch Here: www.youtube.com/watch?v=Rvmd...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@trixxyil.bsky.social (Bluesky): The entire Rivian line-up is cool as can be.",
+        "url": "https://bsky.app/profile/did:plc:3bzuirrail7qdqlqeo425p6t/post/3mrgoveqkxs2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T01:14:41.579Z",
+        "score": 0,
+        "snippet": "The entire Rivian line-up is cool as can be.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rubymae326.bsky.social (Bluesky): Rivian buyers during the tariffs paid ~67% of those tariffs, and the only reason",
+        "url": "https://bsky.app/profile/did:plc:6xcdzoryvcfrthh6pwbnawor/post/3mrgoestd5223",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T01:05:25.865Z",
+        "score": 0,
+        "snippet": "Rivian buyers during the tariffs paid ~67% of those tariffs, and the only reason Rivian soaked the rest was because they couldn't afford to jack up prices any further without deterring buyers. If Rivi",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@healinghands65.bsky.social (Bluesky): GOOD!!! Rivian is a good American company run by moral people instead of a psych",
+        "url": "https://bsky.app/profile/did:plc:7dayeodrkdef2ml4rgktn3hc/post/3mrgobr4ik22e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T01:03:43.169Z",
+        "score": 1,
+        "snippet": "GOOD!!! Rivian is a good American company run by moral people instead of a psychopath who helps fascist get elected. Are you listening Elon????",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rockymountaincat.bsky.social (Bluesky): According to the article, Rivian claims they only added a \"few hundred\" dollars ",
+        "url": "https://bsky.app/profile/did:plc:nsbttmshepvjleurm26sgufd/post/3mrgniie4o22a",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T00:49:33.465Z",
+        "score": 2,
+        "snippet": "According to the article, Rivian claims they only added a \"few hundred\" dollars to the prices customers paid, while the tariff was a couple thousand. I say prove it.\n\nIf true, juice might not be worth",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@trending-stocks.bsky.social (Bluesky): Rivian sues for tariff refund. #econsky",
+        "url": "https://bsky.app/profile/did:plc:rsfz3w3w5id4f5ptffu4pwwv/post/3mrgn2745qa2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T00:41:35.475Z",
+        "score": 5,
+        "snippet": "Rivian sues for tariff refund. #econsky",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@trending-finance.bsky.social (Bluesky): Tariffs toppled; Rivian demands payback. #econsky",
+        "url": "https://bsky.app/profile/did:plc:au2h75mougmx6kqblqbw24xd/post/3mrgmyn7evj2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T00:40:43.071Z",
+        "score": 2,
+        "snippet": "Tariffs toppled; Rivian demands payback. #econsky",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Electric Truck Classified As Luxury Truck Manufactured In USA Crossing Train Tracks ASMR",
+        "url": "https://youtube.com/watch?v=tJeXGuAiCxs",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T02:02:05Z",
+        "score": 0,
+        "snippet": "rivian #rit #electrictruck #classified #luxurytruck #madeinusa #crossing #bnsf #railroad #traintracks #asmr #usa.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Throwing Codes",
+        "url": "https://youtube.com/watch?v=zUWASPxfpok",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T01:45:12Z",
+        "score": 0,
+        "snippet": "Rivian is picking up my R2 tomorrow to take it back to service. All sorts of faults are being thrown, including (as I later learned) ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Shipped the R2 Before It Was Ready",
+        "url": "https://youtube.com/watch?v=RvmdXoG_0EU",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T01:33:36Z",
+        "score": 0,
+        "snippet": "The Rivian R2's first major software update adds more functionality but the R2 is still missing key features found in the R1T and ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=nzwHmv5I8l8",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T01:05:30Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Auto Detailing in Atlantic City, NJ | CDC Detailing LLC",
+        "url": "https://youtube.com/watch?v=3jQ05BD5HTg",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T00:18:42Z",
+        "score": 0,
+        "snippet": "CDC Detailing LLC in Atlantic City, NJ completed a full interior and exterior detail on a Rivian R1S. The service included thorough ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Finally Got My Rivian R2 | Delivery Day Setup",
+        "url": "https://youtube.com/watch?v=-rA5NGt3YN8",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T00:12:59Z",
+        "score": 0,
+        "snippet": "Rivian R2 delivery day is finally here! After owning two Rivian R1Ts, I traded my Gen 2 R1T Tri Max for a brand-new R2.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Cyberbeast vs Rivian R2 #futurecars #luxurycars #suvreview #supercar #hypercar #suv #car",
+        "url": "https://youtube.com/watch?v=X5rBsR3-0GQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T00:00:20Z",
+        "score": 0,
+        "snippet": "Tesla Cyberbeast vs Rivian R2 #futurecars #luxurycars #suvreview #supercar #hypercar #suv #car.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1S Adventure MEDIA SCREEN NAVIGATION SYSTEM BACK-UP CAMERA #Carvision",
+        "url": "https://youtube.com/watch?v=qJ3LSuVmxYY",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T23:49:34Z",
+        "score": 0,
+        "snippet": "STOCK# 009884A 2023 Rivian R1S Adventure Gray Clean CARFAX. Odometer is 1476 miles below market average! *****Why ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 Gremlins :/",
+        "url": "https://youtube.com/watch?v=I7v-6KvWu5M",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T23:07:48Z",
+        "score": 0,
+        "snippet": "Not a great day for confidence in the car.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "An\u00e1lisis Rivian: Se\u00f1ales de Acumulaci\u00f3n y Spring #shorts",
+        "url": "https://youtube.com/watch?v=Nh0Aops7g20",
+        "source": "youtube",
+        "publishedAt": "2026-07-24T23:04:11Z",
+        "score": 0,
+        "snippet": "Las acciones de empresas de veh\u00edculos el\u00e9ctricos, como Rivian pueden mostrar un camino bajista seguido de un rango de ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
