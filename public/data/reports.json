@@ -80170,5 +80170,341 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T22:02:49.254019Z",
+    "timestamp": "2026-07-25T22:02:49.254019Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 95,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Community Signals",
+      "Demo Drives",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (14), Demo & Test Drives (2); watch Vehicle Demand, Demo Drives",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 10:02 PM PT \u2014 20 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (14), Demo & Test Drives (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Demo Drives, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 After trying the latest Tesla FSD, I nearly crashed a Rivian R2\n  https://www.reddit.com/r/electricvehicles/comments/1v6i1zu/after_trying_the_latest_tesla_fsd_i_nearly/\n*Demo & Test Drives (2)* \u2022 R1S --> R2: First Impressions\n  https://www.reddit.com/r/Rivian/comments/1v6hl4w/r1s_r2_first_impressions/\n*Vehicles (14)* \u2022 Ok I don\u2019t need the Rivian that bad!\n  https://bsky.app/profile/did:plc:z46r7nstbjsgnhgjboxrijy4/post/3mritn7yzx226\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 Let Elon know..\n  https://bsky.app/profile/did:plc:ci7l5pslj7dk3ljdkdye4ldj/post/3mrimlahnec2n\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Community Signals\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Sad Day! Parted with my TriMax today. But want to share info you might want to know",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6l4l9/sad_day_parted_with_my_trimax_today_but_want_to/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T21:54:36.842Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Gen 1 Tonneau cover replacement: Data point",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6hxy4/gen_1_tonneau_cover_replacement_data_point/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T19:45:13.353Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R1S --> R2: First Impressions",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v6hl4w/r1s_r2_first_impressions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-25T19:31:14.759Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian R2 test drive experience (current Tesla M3 owner)",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v6l1u4/rivian_r2_test_drive_experience_current_tesla_m3/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-25T21:51:18.965Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "After trying the latest Tesla FSD, I nearly crashed a Rivian R2",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v6i1zu/after_trying_the_latest_tesla_fsd_i_nearly/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-25T19:49:43.941Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@allyd1776.bsky.social (Bluesky): Ok I don\u2019t need the Rivian that bad!",
+        "url": "https://bsky.app/profile/did:plc:z46r7nstbjsgnhgjboxrijy4/post/3mritn7yzx226",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T21:44:56.864Z",
+        "score": 0,
+        "snippet": "Ok I don\u2019t need the Rivian that bad!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Lockable Rivian R1/R2 Tow Hitch Storage Box \n\nCheck out this free 3D-printable l",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mrirua3ct72y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T21:13:03.675Z",
+        "score": 0,
+        "snippet": "Lockable Rivian R1/R2 Tow Hitch Storage Box \n\nCheck out this free 3D-printable lockable R1/R2 tow hitch storage box.  You can put a few emergency accessories inside it!\n\nLink:  makerworld.com/en/model",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newsarea.bsky.social (Bluesky): KBC Group NV Lowers Holdings in Rivian Automotive, Inc.\u00a0$RIVN\n\nKBC Group NV redu",
+        "url": "https://bsky.app/profile/did:plc:kqj4vuyjvmtnptvvdt2xijtk/post/3mrir42h7tc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T20:59:31.964Z",
+        "score": 0,
+        "snippet": "KBC Group NV Lowers Holdings in Rivian Automotive, Inc.\u00a0$RIVN\n\nKBC Group NV reduced its stake in shares of Rivian Automotive, Inc. (NASDAQ:RIVN \u2013 Free Report) by 17.9% in the 1st quarter, according to",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@californiabardic.bsky.social (Bluesky): Let Elon know..",
+        "url": "https://bsky.app/profile/did:plc:ci7l5pslj7dk3ljdkdye4ldj/post/3mrimlahnec2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T19:38:34.674Z",
+        "score": 0,
+        "snippet": "Let Elon know..",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has officially added Washington to the states where they offer Rivian Car",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mrikud2lb42z",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T19:07:50.476Z",
+        "score": 0,
+        "snippet": "Rivian has officially added Washington to the states where they offer Rivian Care.  Rivian Care is an extended warranty for R1T, R1S, R2, and Pre-owned (RPO) vehicles.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I WAS SO CLOSE TO WINNING THIS 66 PLAYERS SESSION IN RIVIAN... - Forza Horizon 6 | Eliminator",
+        "url": "https://youtube.com/watch?v=cKOEw16GNA8",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T22:00:07Z",
+        "score": 0,
+        "snippet": "My discord server: https://discord.gg/uYTRp3m9zH.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Better Than Tesla? Rivian&#39;s Flagship RAN Charging Site - Full Tour",
+        "url": "https://youtube.com/watch?v=HIlXeehY5EY",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:30:40Z",
+        "score": 0,
+        "snippet": "I fully explore this flagship RAN site just minutes from Rivian's AMP1 plant in Normal, Illinois (the very factory building every ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=A5PC0nnvKRA",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:25:27Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=xVFHWXWmzvc",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:26:02Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=qItvx38PQMQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:24:11Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=BwQ25qTt4aM",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:23:16Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=uKqDhFXK-8Q",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:24:44Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=q-tQOqyTQmw",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:23:50Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=sULnb6q9bFg",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:22:55Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pistons &amp; Pretzels Sunday Cars &amp; Coffee at Rivian HQ. Irvine CA Jul19/26",
+        "url": "https://youtube.com/watch?v=cLH215ncdg0",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T21:21:19Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
