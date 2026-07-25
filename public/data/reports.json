@@ -79339,5 +79339,87 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-25T14:13:49.797032Z",
+    "timestamp": "2026-07-25T14:13:49.797032Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 50,
+      "negative": 50
+    },
+    "sources": {
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Vehicle Demand"
+    ],
+    "summary": "2 signals across Vehicles (2); watch Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, July 25, 2026 \u2014 2:13 PM PT \u2014 2 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 2 Rivian signals clustered around Vehicles (2).\n\u2022 *Risk posture:* \ud83d\udd34 HIGH with 1 negative signal; watch Vehicle Demand.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (2)* \u2022 Volkswagen\u2019in gizli plan\u0131 mahkemelik oldu: M\u00fchendisler hisse al\u0131m\u0131yla su\u00e7lan\u0131yor ABD Adalet Bakanl\u0131\u011f\u0131, Volkswagen'in Rivian ortakl\u0131\u011f\u0131 \u00f6ncesinde gizli bilgileri kullanarak hisse al\u0131m\u0131 yapt\u0131\u011f\u0131 iddia ed\n  https://bsky.app/profile/did:plc:v7nvkhezqq33xrcgasafhbw4/post/3mrhztnu5o426\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd34 HIGH_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "@ercanceviz.bsky.social (Bluesky): Volkswagen\u2019in gizli plan\u0131 mahkemelik oldu: M\u00fchendisler hisse al\u0131m\u0131yla\u00a0su\u00e7lan\u0131yor",
+        "url": "https://bsky.app/profile/did:plc:v7nvkhezqq33xrcgasafhbw4/post/3mrhztnu5o426",
+        "source": "bluesky",
+        "publishedAt": "2026-07-25T14:03:15.272Z",
+        "score": 0,
+        "snippet": "Volkswagen\u2019in gizli plan\u0131 mahkemelik oldu: M\u00fchendisler hisse al\u0131m\u0131yla\u00a0su\u00e7lan\u0131yor\n\nABD Adalet Bakanl\u0131\u011f\u0131, Volkswagen'in Rivian ortakl\u0131\u011f\u0131 \u00f6ncesinde gizli bilgileri kullanarak hisse al\u0131m\u0131 yapt\u0131\u011f\u0131 iddia ed",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T vs Giant Steel Press Ram \ud83d\udca5 #shorts #shortvideo #reels",
+        "url": "https://youtube.com/watch?v=FJix4LGs8Mo",
+        "source": "youtube",
+        "publishedAt": "2026-07-25T14:06:48Z",
+        "score": 0,
+        "snippet": "What happens when a gigantic forged steel industrial press ram crashes onto a Rivian R1T? Watch this ultra-realistic destruction ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
