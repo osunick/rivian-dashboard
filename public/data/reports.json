@@ -81854,5 +81854,465 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-27T22:03:19.347669Z",
+    "timestamp": "2026-07-27T22:03:19.347669Z",
+    "sentiment": {
+      "positive": 13,
+      "neutral": 72,
+      "negative": 13
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "29 signals across Vehicles (14), Other (5); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, July 27, 2026 \u2014 10:03 PM PT \u2014 29 signals \u00b7 6 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 23 Rivian signals clustered around Vehicles (14), Business (4).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 4 negative signals; watch Vehicle Demand, Rivian Mentions, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.\n  https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 The Rivian R2 autonomy + has a little shimmy in the wheel right now. Rivian knows and will fix soon.\n  https://youtube.com/watch?v=h876mdcLcF4\n*Demo & Test Drives (1)* \u2022 Test drove the Rivian R2 model I'm supposed to take delivery of in December. Although it was nice, I wish they paid attention to the finer points. Lots of tradeoffs that make the R2 more affordable th\n  https://bsky.app/profile/did:plc:bzvrvvmmzolhfpu4sr6k3ifp/post/3mrnucq2shk2b\n*Vehicles (14)* \u2022 Rivian Extended Warranty now or wait until closer to the end of Manufacturer warranty?\n  https://www.reddit.com/r/Rivian/comments/1v8cvjb/rivian_extended_warranty_now_or_wait_until_closer/\n*Business (4)* \u2022 Rivian Automotive's Next Earnings Report on July 30 Could Send the Stock Soaring. Here's Why. - The Motley Fool\n  https://news.google.com/rss/articles/CBMizAFBVV95cUxPMVkzalotTUpOZDZ4ZEszRzJ1c2dYR2VsWFRXa2JMZ2Y4ekxFYmVKX283YzZ6WW44MmxfT19wb0R3YTlZTWpSZV9DSzEwS3lCbEdmZHhWSXU1ZnYxMzdzMmNfMG9nTHhlQ2xvdUN1c3RHT2g5Wk16dzdzWlUzRk9teTJXblZCb3lCVEQwLXh3ajFFWFd5bHF0Rl91R0Z2NDVrRnkyd2cxQVRiUGM3eXZLTGYxUUJxSjhFd0JpSDlzbGdmZXlodFNIUEdCRlE?oc=5\n*Software (2)* \u2022 Which electric SUV has the better design? Is it the legendary Toyota Land Cruiser SE or the futuristic Rivian R1S? Watch this ...\n  https://youtube.com/watch?v=7kJRqe9u1oA\n*Community (1)* \u2022 youtu.be/gi2vvHu-a4k?...\n  https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mrntbcbnjk2o\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian Extended Warranty now or wait until closer to the end of Manufacturer warranty?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8cvjb/rivian_extended_warranty_now_or_wait_until_closer/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T20:51:57.979Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian support is garbage, so I\u2019m coming here for help",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8ctsa/rivian_support_is_garbage_so_im_coming_here_for/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T20:50:12.024Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Don't let us down Costco",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8byu4/dont_let_us_down_costco/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T20:19:13.685Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R2 Purchase Superthread: Satisfaction and Issues Report",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v89aum/r2_purchase_superthread_satisfaction_and_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T18:13:54.560Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Purchase Superthread: Satisfaction and Issues Report",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v88efc/r2_purchase_superthread_satisfaction_and_issues/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T18:13:54.560Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Minor Damage - Thoughts?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v899bk/minor_damage_thoughts/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T18:43:54.295Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Don't hate me",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v8ekbe/dont_hate_me/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-27T21:55:11.793Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Just a generally poor showroom experience",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v8ch7o/just_a_generally_poor_showroom_experience/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-27T20:37:44.300Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+        "url": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+        "source": "cnbc_top",
+        "publishedAt": "Mon, 27 Jul 2026 21:26:03 GMT",
+        "score": 0,
+        "snippet": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive's Next Earnings Report on July 30 Could Send the Stock Soaring. Here's Why. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMVkzalotTUpOZDZ4ZEszRzJ1c2dYR2VsWFRXa2JMZ2Y4ekxFYmVKX283YzZ6WW44MmxfT19wb0R3YTlZTWpSZV9DSzEwS3lCbEdmZHhWSXU1ZnYxMzdzMmNfMG9nTHhlQ2xvdUN1c3RHT2g5Wk16dzdzWlUzRk9teTJXblZCb3lCVEQwLXh3ajFFWFd5bHF0Rl91R0Z2NDVrRnkyd2cxQVRiUGM3eXZLTGYxUUJxSjhFd0JpSDlzbGdmZXlodFNIUEdCRlE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 20:29:55 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive's Next Earnings Report on July 30 Could Send the Stock Soaring. Here's Why. - The Motley Fool",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading 4% Higher - Should You Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pQWkhHY1M5RHlKMUM2WVdEb0ljQTdSRjlUSzdqYjhKdWpBUkNfc3UtTzRaZ3YyOWpWUzlOSW55Mm54MW4yaUZnWjJOUU1EcXJobG9IV3pwYmJmMGVyUFRGRTkxWFh2UGZmejFTMjdFUEdyTGQwSGQ2c01IWUFFLXR3Y0NyZm1VX09kNXhuV1B4dGFRMkk4Yy1BRWNWVzdLQ05FZzVfTnVkQzZsZEhiMXdwcFY?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 21:47:28 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading 4% Higher - Should You Buy? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian (NASDAQ:RIVN) climbs 4% pre-earnings as R2 delivery expectations shift outlook - TechStock\u00b2",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdC1LTEZwQnZQNklkVndQNUpDd0RtRjV2dDloUlNBeDU2Y1FScEFIN0lWa0Yxb2thanUwSTRMMXV6dUNOV1ZtSGU2MWZvc2hYai1XTmQ4V0tqSjBIR0dEMk4xS0RpQ2JIaEVjWWlaWXdhWWhRY2UzNTc1S0FJazlINXVGcTR3NkpXeHppYXUxaW1SNmpmakxCM2Iwd0VIb0ZPZE1xYw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 21:23:28 GMT",
+        "score": 0,
+        "snippet": "Rivian (NASDAQ:RIVN) climbs 4% pre-earnings as R2 delivery expectations shift outlook - TechStock\u00b2",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "RIVN Stock Rallies On Wall Street Optimism Ahead Of Q2 Report \u2014 Why Does This Analyst See 26% Upside? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR3MtZlJfVUpnMFBnRHZueVdFbnNDSk5PZmhCZmhzV3NQQXRLRU16V3IwNEJuVXhOQktQaHBDV0hvNFlzUkxxR0ZDdkR6bklyQ2NFRFFJaVJUcTZPUC1PbzFRLTd5YVdNUGxJbmdzSVZMbHpaSDQtVlJ6WV8xRkl5d0d1YTBab1Y4QXhSN1AwN01ndWRXcDRSSXBwbkRpQUh3bnlmVmNrTnFxVHFHYlk0MGtMeW12Z1l5cS12UUx4T1hsLWpPN3NFYVdNN0lGMzV3MGh5a1RCeVZvYndheEdtZVlRNkNTSUZkc1JTc3RHNA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 17:06:29 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Rallies On Wall Street Optimism Ahead Of Q2 Report \u2014 Why Does This Analyst See 26% Upside? - TradingView",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@funnytechguy.bsky.social (Bluesky): I liked Rivian, too, but I've heard their business has become unstable. Of cours",
+        "url": "https://bsky.app/profile/did:plc:z2l7n6g4km5kaeja7rjeufie/post/3mrnv6cqwgs2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:55:42.164Z",
+        "score": 0,
+        "snippet": "I liked Rivian, too, but I've heard their business has become unstable. Of course, business stability is relative in this borked economy.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hitdogsholler.com (Bluesky): Test drove the Rivian R2 model I'm supposed to take delivery of in December. Alt",
+        "url": "https://bsky.app/profile/did:plc:bzvrvvmmzolhfpu4sr6k3ifp/post/3mrnucq2shk2b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:40:16.173Z",
+        "score": 1,
+        "snippet": "Test drove the Rivian R2 model I'm supposed to take delivery of in December. Although it was nice, I wish they paid attention to the finer points. Lots of tradeoffs that make the R2 more affordable th",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@hdjennings.bsky.social (Bluesky): Here's a more positive spin:\n\n#RideAlso #Rivian #EBike \n\nyoutu.be/y4Z25aXyisU?..",
+        "url": "https://bsky.app/profile/did:plc:4ip5rbxmjh2dqgrlyj2sqrme/post/3mrnu7vr4qc2g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:38:43.968Z",
+        "score": 1,
+        "snippet": "Here's a more positive spin:\n\n#RideAlso #Rivian #EBike \n\nyoutu.be/y4Z25aXyisU?...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cryptodarklordgr.bsky.social (Bluesky): Trump kept pushing the Fed publicly to cut rates and called the board \"political",
+        "url": "https://bsky.app/profile/did:plc:l7fzfec2hyhxqeclgws6oaxi/post/3mrntvspwgn2h",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:33:02.462Z",
+        "score": 0,
+        "snippet": "Trump kept pushing the Fed publicly to cut rates and called the board \"political.\" Chip stocks ripped premarket, and Ford, GM and Rivian all got upgrades this week on stronger demand and cash flow exp",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): Idk if Rivian is of interest but we're doing a ton of stuff with ADAS and also s",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3mrntsq4tsk2r",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:31:21.374Z",
+        "score": 0,
+        "snippet": "Idk if Rivian is of interest but we're doing a ton of stuff with ADAS and also some \u201centerprise AI\u201d, if anything here careers.rivian.com/careers-home... in Palo Alto is in the ballpark of what you're ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@stacnelson84.bsky.social (Bluesky): And thats why I will be buying a Rivian",
+        "url": "https://bsky.app/profile/did:plc:b5tcbxtb7y4kf3mqg5g7cr5u/post/3mrntdul5yc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:23:01.082Z",
+        "score": 1,
+        "snippet": "And thats why I will be buying a Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): youtu.be/gi2vvHu-a4k?...",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mrntbcbnjk2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:21:33.270Z",
+        "score": 0,
+        "snippet": "youtu.be/gi2vvHu-a4k?...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@contrails.bsky.social (Bluesky): Future Rivian owner\u2026ditching all the sick-ups.",
+        "url": "https://bsky.app/profile/did:plc:ywi6rahhnbi3fqwen7iwpayt/post/3mrnsozhb6c2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T21:11:21.065Z",
+        "score": 1,
+        "snippet": "Future Rivian owner\u2026ditching all the sick-ups.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@weill.org (Bluesky): Funny thing was, I thought a used Cadillac whatever-the-smallest-one-is might be",
+        "url": "https://bsky.app/profile/did:plc:ojpd2knsb3m6yubvlznds44p/post/3mrnrwvveys2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T20:57:52.163Z",
+        "score": 1,
+        "snippet": "Funny thing was, I thought a used Cadillac whatever-the-smallest-one-is might be a good EV upgrade in the future. Still holding out hope for the Rivian R3 \u2026",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@doublectech.bsky.social (Bluesky): It 100% weakened it, just look at charging speeds compared to the Ioniq 5 which ",
+        "url": "https://bsky.app/profile/did:plc:ib56bfp6mojnwkcbkmdtxoew/post/3mrnrnmfq3s2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T20:52:43.685Z",
+        "score": 0,
+        "snippet": "It 100% weakened it, just look at charging speeds compared to the Ioniq 5 which is cheaper! It\u2019s sad that Rivian didn\u2019t invest in a 800v architecture.\ufffc",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Toyota Land Cruiser SE vs Rivian R1S \u26a1 Heritage or Future Design? #landcruisers",
+        "url": "https://youtube.com/watch?v=7kJRqe9u1oA",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T21:00:21Z",
+        "score": 0,
+        "snippet": "Which electric SUV has the better design? Is it the legendary Toyota Land Cruiser SE or the futuristic Rivian R1S? Watch this ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R2 Production Version EXPOSED \u2014 What Rivian Quietly Changed Since the Reveal!",
+        "url": "https://youtube.com/watch?v=6raG3pesmyo",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T20:45:02Z",
+        "score": 0,
+        "snippet": "Rivian R2 Production Version EXPOSED \u2014 and the SUV heading toward production isn't exactly the same R2 Rivian originally ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My Rivian lost $37,100. Should R2 buyers be worried?",
+        "url": "https://youtube.com/watch?v=WpCkn2EoNLM",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T20:28:14Z",
+        "score": 0,
+        "snippet": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "The Rivian R2 autonomy + has a little shimmy in the wheel right now. Rivian knows and will fix soon.",
+        "url": "https://youtube.com/watch?v=h876mdcLcF4",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T19:46:33Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian R2 launch mode to get the dirt off \ud83e\udd23",
+        "url": "https://youtube.com/watch?v=jVxPbfDbgmY",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T17:02:32Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Comma harness issues?",
+        "url": "https://www.rivianforums.com/forum/threads/comma-harness-issues.54209/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Comma harness issues?",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      }
+    ]
   }
 ]
