@@ -81509,5 +81509,350 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-27T18:03:05.926673Z",
+    "timestamp": "2026-07-27T18:03:05.926673Z",
+    "sentiment": {
+      "positive": 23,
+      "neutral": 71,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "21 signals across Vehicles (13), Business (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, July 27, 2026 \u2014 6:03 PM PT \u2014 21 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (13), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Business, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Waymo plans end of Uber robotaxi tie-up, stepping up rivalry - Automotive News\n  https://news.google.com/rss/articles/CBMif0FVX3lxTE5uNEhvaWRLWTh4M04wendDWnhJQnE1WHlZVF9wdDRrQTZHTFNWU1UtTnA2OUZWUnlFeTNERkdJaWJpcEU1VUluOG5rZE1ZeVF6QU1XT0FEOVhKLTIwdmVXdERQSHpiRk1EbVlDTllSUjN0M3pmdWYzdnVJWmp0elE?oc=5\n\u2022 *Competitive Threats:* \"The Cybertruck sold one-sixth of Musk's 250,000-unit annual projection and posted the steepest sales decline of any U.S. EV nameplate in 2025\" \"On-Sixth\" LOL They're too chickensh** to actually say\n  https://bsky.app/profile/did:plc:httu5qrryewbun6nrt6xufqv/post/3mrngb3zwmk2m\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (13)* \u2022 Rivian wants tariff money back\u2014plus interest (RIVN:NASDAQ) - Seeking Alpha\n  https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlNkMHU4c3laQ1lNNTlMVEpyNUpaRjFLVE12cmx0QnFRN0ViNHlJWnFjLThoczA5Ym5ZcEpGWlZRdWRoUm9oQzJtNDRKMzQybnkwd1BWR0tTSlJqYTlOR1NxSDY5MFJEOEpGaHBvWV9aQmVUQXIxX2tZMndUemxQRHNSZm92enRiakFSTw?oc=5\n*Business (3)* \u2022 Why Is Rivian (RIVN) Stock Soaring Today - TradingView\n  https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTJTOGMxMEZEUm9kUEFwRGo0cWxRT0MwVjRvRF83REZZTjBlV0tFR1pNVThGRmpRZWQ2S0ZUdWNOZV85ZnNJYl9WWTNCR2NwMjRjVm03NDdTRy05ZTIwd3RtOENXRFAzTDhhZVlQemFYU2FxMjhZa2ctQXJONnJ3SlgzX0I0YURIMFU5bTN0aktkN0VCM3UxMUlHNFdlZ1dw?oc=5\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 @blueresearch.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mrnfsubhe32w\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Firm vs soft suspension",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v8202l/firm_vs_soft_suspension/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-27T14:28:16.303Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Why Is Rivian (RIVN) Stock Soaring Today - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTJTOGMxMEZEUm9kUEFwRGo0cWxRT0MwVjRvRF83REZZTjBlV0tFR1pNVThGRmpRZWQ2S0ZUdWNOZV85ZnNJYl9WWTNCR2NwMjRjVm03NDdTRy05ZTIwd3RtOENXRFAzTDhhZVlQemFYU2FxMjhZa2ctQXJONnJ3SlgzX0I0YURIMFU5bTN0aktkN0VCM3UxMUlHNFdlZ1dw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 15:45:40 GMT",
+        "score": 0,
+        "snippet": "Why Is Rivian (RIVN) Stock Soaring Today - TradingView",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian wants tariff money back\u2014plus interest (RIVN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlNkMHU4c3laQ1lNNTlMVEpyNUpaRjFLVE12cmx0QnFRN0ViNHlJWnFjLThoczA5Ym5ZcEpGWlZRdWRoUm9oQzJtNDRKMzQybnkwd1BWR0tTSlJqYTlOR1NxSDY5MFJEOEpGaHBvWV9aQmVUQXIxX2tZMndUemxQRHNSZm92enRiakFSTw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 14:35:52 GMT",
+        "score": 0,
+        "snippet": "Rivian wants tariff money back\u2014plus interest (RIVN:NASDAQ) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN Stock Rallies On Wall Street Optimism Ahead Of Q2 Report \u2014 Why Does This Analyst See 26% Upside? - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVjJTQ3NOSHlUV2ctRnRtcFdsQ0MwM0YxaW0tSXZiLVM5cFpNWVIzd2EycnAwcWZzdW14YURXbXcycUlpMi1CQzhUY2dLaUtDdE5ZZUd6N3VMWlNEem5tMmZSbU5IVU1jWHpkVEROMzlYUWhxMmRodUN4a0hMVmI4WkFCR3NrMWFjSzd3LXpVNEJoVzAwelg4emREbDVIYXFibEtfeVdoTFhuRVF6YkttWDBZN1hZbl9ydW1sRXZOSUdtcFNCNHVLTFZnSWw3bFBlX0xPX2ZHOTd4UXA0c2V0cGRGNEdmVWdkWmVwMXpJQTF6ejA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 17:06:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Rallies On Wall Street Optimism Ahead Of Q2 Report \u2014 Why Does This Analyst See 26% Upside? - Stocktwits",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Wall Street Analysts Issue Major Calls On Alphabet (NASDAQ: GOOGL), Ford (NYSE: F), Rivian (NASDAQ: RIVN) and Rocket Lab (NASDAQ: RKLB) - foreignpolicyjournal.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc3ZQNU9mLV9hNEpUbWI4c0pjSDlpMUFTeGptZ18zdDVZbEowWWJDWWtXUG94M1IteW9lRk9jU1BLNDI1TE1lNVBxRHZDcUF6QXRpVzJPVkFZRWZKSTJUbUM3VndYWk5nQngtZzMxdmtLb19lVXhSRnBsckxicFZRQW5VSVdEZnpia0RWb3hvS0VTcjVTZnBSNTZ6LS0wbmUzMklnUjU5cHlHQWdQWjlzT053b0tjSFpxR3A0UmVCcW12OG96VDl6WGFNLTAzOUdSZGVjc2VPUURlQnhkQU5KYmtGOFJ1TnVIQTBmclNhWU5XVTRrUkYxcjZHSVpfM28?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 16:22:00 GMT",
+        "score": 0,
+        "snippet": "Wall Street Analysts Issue Major Calls On Alphabet (NASDAQ: GOOGL), Ford (NYSE: F), Rivian (NASDAQ: RIVN) and Rocket Lab (NASDAQ: RKLB) - foreignpolicyjournal.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Gears Up to Report Q2 Earnings: Here's What to Expect - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGdma1kxYU4tZm8xY1h3dnFkSW8xVEo3NXp0SFYxRUFpTFJnbHVUSC1MNlIzWmVONGxYQ0ZXNGJldTZSck5yXzMzZE93SE9yaGw0MDRDZkJNSGo5bXhkVDF0RC02VjlweE02T04td09nLTFSS0pzeXNON3daWkpVQ3poZGd4c2RyOXVuYXU2MzhNYmlZNHpucl9UWEFvWXRoOG1iSmo2UW9vNlJtMkhXWXdNLVhOUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 15:35:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Gears Up to Report Q2 Earnings: Here's What to Expect - TradingView",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Why Did Rivian Automotive (NASDAQ:RIVN) Raise Its Delivery Guidance This Quarter? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZFBTY3k2OGJsNlBnUlBjdHB2akxwLU5aUUdsenBsOGVQU3o1LWRILUhSWXBRbkxZUFVtOXVHX3JsRlFrb1M5dVRiTXRrR0k0ajJaWVZnVVI0QXZwQ1hYbW9fR1M3eERhQVVtU3BjU0NldkR6ekRDZy12ck8xYTR5dk1EejBwdGVQMTFTRlVQZjFzalpPdkg2TW9NUGRGWjhCQXQxYmduODl3NzVXTElxaU1WVEdLS0NMc0J6dVNNZjc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 17:49:00 GMT",
+        "score": 0,
+        "snippet": "Why Did Rivian Automotive (NASDAQ:RIVN) Raise Its Delivery Guidance This Quarter? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo plans end of Uber robotaxi tie-up, stepping up rivalry - Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uNEhvaWRLWTh4M04wendDWnhJQnE1WHlZVF9wdDRrQTZHTFNWU1UtTnA2OUZWUnlFeTNERkdJaWJpcEU1VUluOG5rZE1ZeVF6QU1XT0FEOVhKLTIwdmVXdERQSHpiRk1EbVlDTllSUjN0M3pmdWYzdnVJWmp0elE?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 27 Jul 2026 08:07:00 GMT",
+        "score": 0,
+        "snippet": "Waymo plans end of Uber robotaxi tie-up, stepping up rivalry - Automotive News",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@headhuntersully.bsky.social (Bluesky): \"The Cybertruck sold one-sixth of Musk's 250,000-unit annual projection and post",
+        "url": "https://bsky.app/profile/did:plc:httu5qrryewbun6nrt6xufqv/post/3mrngb3zwmk2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T17:28:50.286Z",
+        "score": 1,
+        "snippet": "\"The Cybertruck sold one-sixth of Musk's 250,000-unit annual projection and posted the steepest sales decline of any U.S. EV nameplate in 2025\"\n\n\"On-Sixth\"\nLOL  They're too chickensh** to actually say",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mrnfsubhe32w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T17:20:51.891Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Tesla Model Y Outperforms Rivian R2 in Real-World Efficiency Test Despite Matchi",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mrndq45b4g2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T16:43:31.477Z",
+        "score": 0,
+        "snippet": "Tesla Model Y Outperforms Rivian R2 in Real-World Efficiency Test Despite Matching EPA Ratings",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bye-byemars.bsky.social (Bluesky): Tesla gets a lot of criticism because of Elon, but Rivian has been worse. They h",
+        "url": "https://bsky.app/profile/did:plc:sg6pt3vdsqnz5la57gx2jrha/post/3mrndno63e225",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T16:42:12.573Z",
+        "score": 0,
+        "snippet": "Tesla gets a lot of criticism because of Elon, but Rivian has been worse. They haven't improved on anything in years. They should have made a smaller, budget truck. Instead, Slate is going to make it.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Each of them builds a strong case for not going with more established brands, bu",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mrndjxv2dl2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T16:40:06.079Z",
+        "score": 0,
+        "snippet": "Each of them builds a strong case for not going with more established brands, but they deliver their premium EV goods in very different ways.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@davethemusician.bsky.social (Bluesky): Not a physicist but even if the internal drivetrain is efficient, the tall, bloc",
+        "url": "https://bsky.app/profile/did:plc:bpsbisuyyop5zuherf3vvuq4/post/3mrnd6o5p4s27",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T16:33:44.868Z",
+        "score": 0,
+        "snippet": "Not a physicist but even if the internal drivetrain is efficient, the tall, blocky front of the Rivian sure looks less aerodynamic.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newscoulomb.bsky.social (Bluesky): Yeah, it's more that they provided an extra incentive to Lucid and Rivian becaus",
+        "url": "https://bsky.app/profile/did:plc:4jzjwkjkluizx6j5lpbf6ezp/post/3mrnd5ea6g22b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T16:33:03.767Z",
+        "score": 3,
+        "snippet": "Yeah, it's more that they provided an extra incentive to Lucid and Rivian because they maintain their HQ in California.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): Very interesting #RivianR2 stats and visualizations here on builds and deliverie",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mrncsakmhc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T16:26:49.264Z",
+        "score": 0,
+        "snippet": "Very interesting #RivianR2 stats and visualizations here on builds and deliveries sourced directly from Rivian Roamer users. Looks like both are continuing to scale and hopefully growth significantly ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Out of Spec Reviews put a Rivian R2 Performance and a Tesla Model Y Performance ",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mrnc7zbdpd2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T16:16:38.364Z",
+        "score": 7,
+        "snippet": "Out of Spec Reviews put a Rivian R2 Performance and a Tesla Model Y Performance on the same roads on the same afternoon. \n\nThe R2 used 18% to 26% more energy at every single speed they tested...\n\nDeta",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Introducing the RIvian R2 tracker. Track the delivery rollout and configuration ",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mrnb37fj562i",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T15:56:03.977Z",
+        "score": 1,
+        "snippet": "Introducing the RIvian R2 tracker. Track the delivery rollout and configuration preferences of owners as they take delivery of their vehicles. Sourced from owners linked to Rivian Roamer.\n\nrivianroame",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My TOP 7 THINGS that the Rivian R2 has over Tesla Model Y Performance",
+        "url": "https://youtube.com/watch?v=lQWuozHg-3k",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T16:00:01Z",
+        "score": 0,
+        "snippet": "Discover seven things the Rivian R2 has that the Model Y Performance does not. We'll cover Rivian's new Haptic Halo wheels, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "California Dune RS1 Might Be the RAREST Rivian \ud83d\ude2e\u200d\ud83d\udca8",
+        "url": "https://youtube.com/watch?v=kjKC19xB_XI",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T15:04:08Z",
+        "score": 0,
+        "snippet": "This Rivian is unbelievably rare! The color combo steals the show. Built for adventure, comfort and performance. #rivian ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tapping the CAN Bus: Wiring Automatic Rivian Side Steps! #SerenityEV #Rivian #PowerSteps #Wiring",
+        "url": "https://youtube.com/watch?v=GLmwaJNdVr4",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T15:00:00Z",
+        "score": 0,
+        "snippet": "SERENITY EV: NEXT GEN CARE FOR THE NEXT GEN CAR We are a factory trained, independent electric vehicle repair shop ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
