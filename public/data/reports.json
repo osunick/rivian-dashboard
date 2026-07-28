@@ -83939,5 +83939,102 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-28T18:24:33.271264Z",
+    "timestamp": "2026-07-28T18:24:33.271264Z",
+    "sentiment": {
+      "positive": 66,
+      "neutral": 33,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Rivian Mentions",
+      "Software"
+    ],
+    "summary": "3 signals across Business (1), Other (1); watch Business, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 28, 2026 \u2014 6:24 PM PT \u2014 3 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 2 Rivian signals clustered around Business (1), Software (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Business, Rivian Mentions, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (0)* \u2022 No signals\n*Business (1)* \u2022 Rivian vs. Stellantis: This Wall Street Bank Just Told You Which EV Stock to Own and Which to Dump Quick Read Piper Sandler upgraded Rivian to Overweigh\n  https://bsky.app/profile/did:plc:tygmoztg7hvboeqteixmx6ky/post/3mrpzd4ivx32p\n*Software (1)* \u2022 The Rivian R3 that everyone goes nuts for is just the updated EV version of this beloved Golf. And this is a lesson VW should've learned with the new Beetle and the new Bus!\n  https://bsky.app/profile/did:plc:5rhhrhp35bcyqieoniuqsw6u/post/3mrpzl4gww222\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Car in shop, back to driving ICE",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v96f4y/car_in_shop_back_to_driving_ice/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-28T18:12:59.339Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "@johngennaro.com (Bluesky): The Rivian R3 that everyone goes nuts for is just the updated EV version of this",
+        "url": "https://bsky.app/profile/did:plc:5rhhrhp35bcyqieoniuqsw6u/post/3mrpzl4gww222",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T18:19:45.767Z",
+        "score": 0,
+        "snippet": "The Rivian R3 that everyone goes nuts for is just the updated EV version of this beloved Golf. \n\nAnd this is a lesson VW should've learned with the new Beetle and the new Bus!",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@eu-nl.bsky.social (Bluesky): Rivian vs. Stellantis: This Wall Street Bank Just Told You Which EV Stock to Own",
+        "url": "https://bsky.app/profile/did:plc:tygmoztg7hvboeqteixmx6ky/post/3mrpzd4ivx32p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T18:15:17.468Z",
+        "score": 0,
+        "snippet": "Rivian vs. Stellantis: This Wall Street Bank Just Told You Which EV Stock to Own and Which to Dump\n\nhttps://www.europesays.com/netherlands/34370/\n\nQuick Read Piper Sandler upgraded Rivian to Overweigh",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
