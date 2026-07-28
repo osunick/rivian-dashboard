@@ -82379,5 +82379,382 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-28T02:02:24.062768Z",
+    "timestamp": "2026-07-28T02:02:24.062768Z",
+    "sentiment": {
+      "positive": 8,
+      "neutral": 82,
+      "negative": 8
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "23 signals across Vehicles (12), Other (4); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 28, 2026 \u2014 2:02 AM PT \u2014 23 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (12), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Rivian Mentions, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* I finally rode in a driverless Waymo in San Francisco. Here's what it was like - Yahoo Creators\n  https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2tRUVBKcEl6OFhZTW5ReE9FVzlmbXNpb0l0LWNrbnFEbUFKTDktMkpKQ18wc20wM3V5RVA1SFZ2RnlVWWR5R1Z3Z3Z1NHNOVC1KVERBajkzZG5QWDhIZXRxWkQ2Z05pRFRaRzFTWTU1SERod0gybUszdzBFTkNSQTRuY2FhTEZtWkxkZFlVS0VDbnViTGYzT1VvQkZRdEQtZHJuMUowZlRxak45SFNGLUw3VkZfV1drZTZuRVhQd28zaTdqRFNheTlBS3kzWGs?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 We travel to Chicago to test drive the Rivian R2 Launch Edition!\n  https://youtube.com/watch?v=Ug_wwI_RD8Q\n*Vehicles (12)* \u2022 Gen 1 R1T Quad (2022 with 40k miles) service recap\n  https://www.reddit.com/r/Rivian/comments/1v8irbn/gen_1_r1t_quad_2022_with_40k_miles_service_recap/\n*Business (1)* \u2022 U.S. stock futures slip while South Korea\u2019s Kospi plunges over 8%\n  https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html\n*Software (2)* \u2022 Rivian will emerge as big winner as robotaxi market grows, says Piper Sandler - CNBC\n  https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0RKSGkxNnd2VndpMDVkelZxa1hpc0NCOFAzMFBsa09vRlJEeEQxY2FEU2hIQXNFVndHZm4yYjA2T1ZlOWE5bmkxVU0xT0JGSEpkOWp2THdFS3d6Tm1wVmFPOUJCY2pwUmcwWUYxWm9XNlRPZWRkckl1eVJNb2lveWQyemdvQjFCdVRJRmUtdXh4SmxxRXlnS3RfcUN3UjEybGRHUnliZ01TUUc1aG5Vd1pvMA?oc=5\n*Community (2)* \u2022 Each of them builds a strong case for not going with more established brands, but they deliver their premium EV goods in very different ways.\n  https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mro7ikszzw2w\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Reserved a Scout Traveler",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8jtcl/reserved_a_scout_traveler/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T01:29:55.979Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Dog Cover for Trunk",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8jh3u/dog_cover_for_trunk/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T01:14:57.296Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Gen 1 R1T Quad (2022 with 40k miles) service recap",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8irbn/gen_1_r1t_quad_2022_with_40k_miles_service_recap/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T00:43:57.656Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Care in 48 States - California Coming October",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8ij3i/rivian_care_in_48_states_california_coming_october/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T00:33:58.303Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Yet Another (Positive) Demo Drive from someone with 0 EV experience.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8h7oz/yet_another_positive_demo_drive_from_someone_with/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T23:40:10.297Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "$3k for a mirror replacement?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8fwrx/3k_for_a_mirror_replacement/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T22:47:31.848Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Are there any Rivian clubs in the Salt Lake area?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8fg4n/are_there_any_rivian_clubs_in_the_salt_lake_area/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-27T22:28:57.412Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "U.S. stock futures slip while South Korea\u2019s Kospi plunges over 8%",
+        "url": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian will emerge as big winner as robotaxi market grows, says Piper Sandler - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0RKSGkxNnd2VndpMDVkelZxa1hpc0NCOFAzMFBsa09vRlJEeEQxY2FEU2hIQXNFVndHZm4yYjA2T1ZlOWE5bmkxVU0xT0JGSEpkOWp2THdFS3d6Tm1wVmFPOUJCY2pwUmcwWUYxWm9XNlRPZWRkckl1eVJNb2lveWQyemdvQjFCdVRJRmUtdXh4SmxxRXlnS3RfcUN3UjEybGRHUnliZ01TUUc1aG5Vd1pvMA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 27 Jul 2026 11:22:13 GMT",
+        "score": 0,
+        "snippet": "Rivian will emerge as big winner as robotaxi market grows, says Piper Sandler - CNBC",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "I finally rode in a driverless Waymo in San Francisco. Here's what it was like - Yahoo Creators",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2tRUVBKcEl6OFhZTW5ReE9FVzlmbXNpb0l0LWNrbnFEbUFKTDktMkpKQ18wc20wM3V5RVA1SFZ2RnlVWWR5R1Z3Z3Z1NHNOVC1KVERBajkzZG5QWDhIZXRxWkQ2Z05pRFRaRzFTWTU1SERod0gybUszdzBFTkNSQTRuY2FhTEZtWkxkZFlVS0VDbnViTGYzT1VvQkZRdEQtZHJuMUowZlRxak45SFNGLUw3VkZfV1drZTZuRVhQd28zaTdqRFNheTlBS3kzWGs?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 27 Jul 2026 23:32:52 GMT",
+        "score": 0,
+        "snippet": "I finally rode in a driverless Waymo in San Francisco. Here's what it was like - Yahoo Creators",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@amandasorcerer.bsky.social (Bluesky): BUY A RIVIAN. IT'S A GORGEOUS EV VEHICLE!!!!!!",
+        "url": "https://bsky.app/profile/did:plc:mtlt6ejsi4cllq6f5a2jnaeq/post/3mrocmxf7lc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T01:56:32.467Z",
+        "score": 0,
+        "snippet": "BUY A RIVIAN. IT'S A GORGEOUS EV VEHICLE!!!!!!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Each of them builds a strong case for not going with more established brands, bu",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mro7ikszzw2w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T01:00:24.164Z",
+        "score": 1,
+        "snippet": "Each of them builds a strong case for not going with more established brands, but they deliver their premium EV goods in very different ways.",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@3leggedcrow.bsky.social (Bluesky): That's kind of been my default stance with them since the Igniton Switch recall ",
+        "url": "https://bsky.app/profile/did:plc:gcpc5zvafl5ae5ua6pyf533w/post/3mro7b6zass2o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T00:56:15.177Z",
+        "score": 0,
+        "snippet": "That's kind of been my default stance with them since the Igniton Switch recall fiasco back, idk 2013ish?  \n\nFuck those people!\n\nI don't expect angels to run these companies, but some human beings wou",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@ssdelko.bsky.social (Bluesky): My street this afternoon. #chicago #storm #trees",
+        "url": "https://bsky.app/profile/did:plc:6n7kapczdje25vhlde2sygmo/post/3mro75xetss2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T00:54:40.566Z",
+        "score": 5,
+        "snippet": "My street this afternoon. #chicago #storm #trees",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@borgdad.bsky.social (Bluesky): Macho maga family big mad at the cost to feed their heavily tuned and modified t",
+        "url": "https://bsky.app/profile/did:plc:rybvey7es7bkltiskkyo67ze/post/3mro65da7pk2q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T00:36:11.368Z",
+        "score": 3,
+        "snippet": "Macho maga family big mad at the cost to feed their heavily tuned and modified turbo diesel Silverado. \n\nThat thing cost more than my Rivian and more than 12x to feed. \ud83e\udd23",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dijinikanet.bsky.social (Bluesky): Rivian, ABD H\u00fck\u00fcmetine G\u00fcmr\u00fck Tarifeleri i\u00e7in Tazminat Davas\u0131 A\u00e7t\u0131\r\n\r\nElektrikli",
+        "url": "https://bsky.app/profile/did:plc:5cr2iejjdpwfuervuaq5szr6/post/3mro5yjkpkj2u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T00:33:31.369Z",
+        "score": 0,
+        "snippet": "Rivian, ABD H\u00fck\u00fcmetine G\u00fcmr\u00fck Tarifeleri i\u00e7in Tazminat Davas\u0131 A\u00e7t\u0131\r\n\r\nElektrikli ara\u00e7 \u00fcreticisi Rivian, Y\u00fcksek Mahkeme'nin tarifeler hakk\u0131ndaki karar\u0131n\u0131n yetersiz oldu\u011funu savunarak ABD H\u00fck\u00fcmetine dav",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jackie2cats.bsky.social (Bluesky): My next car is a Rivian R2. GM is going down! All they manufacture is gas guzzle",
+        "url": "https://bsky.app/profile/did:plc:n7fnc3lssfptqahxccwc5nwu/post/3mro5golsg22t",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T00:23:32.771Z",
+        "score": 0,
+        "snippet": "My next car is a Rivian R2. GM is going down! All they manufacture is gas guzzlers.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian Sues US Government for Tariff Refund\n\nhttps://www.evshift.com/498700/rivi",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mro5ajmkn62m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T00:20:06.189Z",
+        "score": 0,
+        "snippet": "Rivian Sues US Government for Tariff Refund\n\nhttps://www.evshift.com/498700/rivian-sues-us-government-for-tariff-refund/\n\nAmerican electric truck and SUV manufacturer Rivian filed a lawsuit against th",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Just a @Rivian in its natural habitat... preparing to hunt @hilbe for the top sp",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mrnzrjv2f62e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T23:18:01.865Z",
+        "score": 2,
+        "snippet": "Just a @Rivian in its natural habitat... preparing to hunt @hilbe for the top spot of the @RivianRoamer leaderboard in Costco visits.\n\nWhen the Costco leaderboard is live, she'll pounce.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83d\udce6 Removed from the Rivian Gear Shop: Rivian Dog Harness",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mrnyn5iyo322",
+        "source": "bluesky",
+        "publishedAt": "2026-07-27T22:57:40.568Z",
+        "score": 2,
+        "snippet": "\ud83d\udce6 Removed from the Rivian Gear Shop: Rivian Dog Harness",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "if you don&#39;t like Tesla&#39;s,the rivian is for you#tech #rivian",
+        "url": "https://youtube.com/watch?v=bh-lK9Jh0cs",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T23:30:19Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Top Charge the Rivian R2 at a Supercharger so You Don&#39;t Have to!",
+        "url": "https://youtube.com/watch?v=97mbzYxSqrA",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T23:15:52Z",
+        "score": 0,
+        "snippet": "This video was filmed prior to my range test (which was canceled due to the car misbehavin') but I still have this video. Maybe ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Demo Drive!!",
+        "url": "https://youtube.com/watch?v=Ug_wwI_RD8Q",
+        "source": "youtube",
+        "publishedAt": "2026-07-27T22:15:16Z",
+        "score": 0,
+        "snippet": "We travel to Chicago to test drive the Rivian R2 Launch Edition!",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      }
+    ]
   }
 ]
