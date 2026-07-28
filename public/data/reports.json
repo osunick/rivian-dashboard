@@ -82756,5 +82756,423 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-28T14:02:35.820349Z",
+    "timestamp": "2026-07-28T14:02:35.820349Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 84,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "26 signals across Vehicles (16), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 28, 2026 \u2014 2:02 PM PT \u2014 26 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 20 Rivian signals clustered around Vehicles (16), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* London now runs three competing robotaxi bets at once, making it a proving ground for multiple distinct business models. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/freenow-and-baidu-put-rt6-robotaxis-on-london-roads/\n\u2022 *Competitive Threats:* BYD built Japan's best-specced kei EV, but whether that translates to meaningful sales is another matter entirely. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/byd-goes-live-with-debut-kei-ev-japan-subsidy-wall-remains/\n\u2022 *Competitive Threats:* <IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"\n  https://www.techmeme.com/260728/p8#a260728p8\n\u2022 *Competitive Threats:* Divi \u201cVolkswagen\u201d in\u017eenieri arest\u0113ti par iek\u0161\u0113j\u0101s inform\u0101cijas izmanto\u0161anu savt\u012bgos nol\u016bkos\n  https://bsky.app/profile/did:plc:hazpjswid5xp743woxo4jib4/post/3mrp76dxxts2c\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (16)* \u2022 Rivian tried to sell me a car with a broken lightbar\n  https://www.reddit.com/r/Rivian/comments/1v8pxtt/rivian_tried_to_sell_me_a_car_with_a_broken/\n*Business (2)* \u2022 Better get into Rivian stock before their earnings call This Thursday. Big report big stock moves. Let\u2019s go!\n  https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mrpf74h3hs2k\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 Now I know what those gen1 owners felt like ..\n  https://www.reddit.com/r/Rivian/comments/1v8vr2z/now_i_know_what_those_gen1_owners_felt_like/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Now I know what those gen1 owners felt like ..",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8vr2z/now_i_know_what_those_gen1_owners_felt_like/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T11:31:01.061Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Rivian tried to sell me a car with a broken lightbar",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8pxtt/rivian_tried_to_sell_me_a_car_with_a_broken/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T06:24:01.847Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Here is the difference in articulation off road between the R2 and the R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8p8tf/here_is_the_difference_in_articulation_off_road/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T05:37:51.836Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Here is the difference in articulation off road between the R2 and the R1T",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v8p2jq/here_is_the_difference_in_articulation_off_road/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T05:37:51.836Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Do you trust Gear Guard or do you use a Dash Cam",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8l792/do_you_trust_gear_guard_or_do_you_use_a_dash_cam/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T02:31:00.718Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Horrible Rivian Experience",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v8l0ss/horrible_rivian_experience/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T02:23:03.024Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "BEV Pickup Truck/Ute Prices Around The World",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1v8oxhi/bev_pickup_truckute_prices_around_the_world/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-07-28T05:30:29.721Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Gotion secures \u20ac100m to build Moroccan battery plant",
+        "url": "https://www.automotiveworld.com/news/byd-goes-live-with-debut-kei-ev-japan-subsidy-wall-remains-2/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 28 Jul 2026 11:03:42 +0000",
+        "score": 0,
+        "snippet": "<p>Morocco's phosphate reserves and EU trade access, particularly its Spain adjacency, justify a more atypical choice of production geography. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.a",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Freenow and Baidu put RT6 robotaxis on London roads",
+        "url": "https://www.automotiveworld.com/news/freenow-and-baidu-put-rt6-robotaxis-on-london-roads/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 28 Jul 2026 10:15:46 +0000",
+        "score": 0,
+        "snippet": "<p>London now runs three competing robotaxi bets at once, making it a proving ground for multiple distinct business models. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.com/",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD goes live with debut kei EV, Japan subsidy wall remains",
+        "url": "https://www.automotiveworld.com/news/byd-goes-live-with-debut-kei-ev-japan-subsidy-wall-remains/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 28 Jul 2026 09:03:31 +0000",
+        "score": 0,
+        "snippet": "<p>BYD built Japan's best-specced kei EV, but whether that translates to meaningful sales is another matter entirely. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.com/news/b",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft's Freenow (Kirsten Korosec/TechCrunch)",
+        "url": "https://www.techmeme.com/260728/p8#a260728p8",
+        "source": "techmeme",
+        "publishedAt": "Tue, 28 Jul 2026 06:15:01 -0400",
+        "score": 0,
+        "snippet": "<A HREF=\"https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/\"><IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"http://www.techmeme.com/26072",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive's (RIVN) \"Neutral\" Rating Reaffirmed at Cantor Fitzgerald - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcThlSEtQZURoSE5xWlVyb0FXZVpSOGtjTk51X1V0cHNsS0M1YkJUOGxfOGFITW1ISk82M2RHYU5zVl9SOHJaTDZmbzJQMV8xRkYyUzc2ZnFVVHozQnBrck5VT2tPNEpQOXR6QkUyVEtreGotWnhoVUUtZHMxQjFKY3ZDc216cHNnOTFHNV9Eck4yM1duakxHZENPUFNZSGUzSlN3YjFKbnE0SFNxdWh2NmRFbGpDS1k5U1JnXy1hZ0VoQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 28 Jul 2026 12:40:01 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive's (RIVN) \"Neutral\" Rating Reaffirmed at Cantor Fitzgerald - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Cantor Fitzgerald Raises Estimates for Rivian Automotive Inc (RIVN), Reiterates Neutral Rating - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRjlLaTBaejF4NVg5alNVWmVWNmhESjZKOUlrN2xfZmtVd3lBM3FKNEpubXNaRTV3NW12dW0wblU2SjUtUE1pazFRRFVqTEZZdjZ6U1JoSGNWbzd2MVBrR3RKOE55NTNMbFJMaGdGRHVsUHhZVTV2YmYwRGV5bGtnR1p3RkFxVERobG9OZzBVNm1PZWlCUzVtN2V0aUIyWEFuQVZnbmxtNTZvNm9KZ0p3TDlQMmZ0amVyR29lVWg1dDBiLWxNREFEOWQwdjFOU3ZNcjhmb3Yzc1B3WFkxSm5jWlp5eVFURXo5dndNZlJGNlIzTm8?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 28 Jul 2026 13:49:14 GMT",
+        "score": 0,
+        "snippet": "Cantor Fitzgerald Raises Estimates for Rivian Automotive Inc (RIVN), Reiterates Neutral Rating - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mrpl2hmm4c2j",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T13:59:55.284Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Better get into Rivian stock before their earnings call This Thursday. Big repor",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mrpf74h3hs2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T12:15:08.173Z",
+        "score": 0,
+        "snippet": "Better get into Rivian stock before their earnings call This Thursday. Big report big stock moves. Let\u2019s go!",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): www.fool.com/investing/20...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mrpf5dbljk2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T12:14:10.074Z",
+        "score": 0,
+        "snippet": "www.fool.com/investing/20...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Today, Rivian was awarded a patent for \"bidirectional vehicle to load charging c",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mrpdxlw4r22b",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T11:53:03.079Z",
+        "score": 4,
+        "snippet": "Today, Rivian was awarded a patent for \"bidirectional vehicle to load charging communication\".  \ud83d\udc40",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@okeefeirl.bsky.social (Bluesky): Buy a Rivian for so many reasons....",
+        "url": "https://bsky.app/profile/did:plc:kegppdckhjh3cbn5hsmkid7w/post/3mrpdg7y4c22u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T11:43:20.072Z",
+        "score": 0,
+        "snippet": "Buy a Rivian for so many reasons....",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ismaeldelacruz.bsky.social (Bluesky): Mucha demanda con las acciones de SpaceX. Pero mirando las grandes empresas que ",
+        "url": "https://bsky.app/profile/did:plc:5bzwwctapyd7qy62poof4lcd/post/3mrpargi5ak2k",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T10:55:53.571Z",
+        "score": 0,
+        "snippet": "Mucha demanda con las acciones de SpaceX. Pero mirando las grandes empresas que salieron a Bolsa, tras 12 meses, no siempre se triunfa. Palantir (153%) y Arms (125%) s\u00ed, pero otras no, como Rivian Aut",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bgrcom.bsky.social (Bluesky): When it comes to the 2026 EV of the year, you can forget about options from Tesl",
+        "url": "https://bsky.app/profile/did:plc:gubs5bxxp3nblzedqsil2hfh/post/3mrp7gsfpgm2e",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T10:32:03.970Z",
+        "score": 0,
+        "snippet": "When it comes to the 2026 EV of the year, you can forget about options from Tesla and Rivian, and look to the affordable Chevy Bolt instead.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@kursors.lv (Bluesky): Divi \u201cVolkswagen\u201d in\u017eenieri arest\u0113ti par iek\u0161\u0113j\u0101s inform\u0101cijas izmanto\u0161anu savt\u012b",
+        "url": "https://bsky.app/profile/did:plc:hazpjswid5xp743woxo4jib4/post/3mrp76dxxts2c",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T10:27:36.369Z",
+        "score": 0,
+        "snippet": "Divi \u201cVolkswagen\u201d in\u017eenieri arest\u0113ti par iek\u0161\u0113j\u0101s inform\u0101cijas izmanto\u0161anu savt\u012bgos nol\u016bkos",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@johnlothiannews.bsky.social (Bluesky): securitiesdocket.beehiiv.com/p/sdny-charg...",
+        "url": "https://bsky.app/profile/did:plc:rmxmnyzdstrk4bkpnuxgpco6/post/3mrp6gfukok2s",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T10:14:00.974Z",
+        "score": 0,
+        "snippet": "securitiesdocket.beehiiv.com/p/sdny-charg...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "\u200bAmazon\u2019s Future Spied On Highway! \u26a1\u200b#Amazon #Rivian #Trucking #EVs #Shorts",
+        "url": "https://youtube.com/watch?v=1_1WWx4fybQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T12:29:51Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R3X: Why This Retro Electric Crossover is Winning Over Outdoor Enthusiasts",
+        "url": "https://youtube.com/watch?v=Yf0FrXG1gwI",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T12:15:23Z",
+        "score": 0,
+        "snippet": "2026 Rivian R3X: Why This Retro Electric Crossover is Winning Over Outdoor Enthusiasts We bypass the typical aerodynamic ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Skilladoe x Dj Rivian Mixtape - Moomoo Osama",
+        "url": "https://youtube.com/watch?v=mxvU7qHy7lM",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T11:02:03Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Inc ($RIVN) Q4 2024 Earnings Call",
+        "url": "https://youtube.com/watch?v=Jwo7Elj5eKY",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T08:57:21Z",
+        "score": 0,
+        "snippet": "",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
