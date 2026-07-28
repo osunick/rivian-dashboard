@@ -83339,5 +83339,88 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-28T14:39:28.066038Z",
+    "timestamp": "2026-07-28T14:39:28.066038Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Vehicle Demand"
+    ],
+    "summary": "2 signals across Autonomy (1), Vehicles (1); watch Autonomy, Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 28, 2026 \u2014 2:39 PM PT \u2014 2 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 2 Rivian signals clustered around Autonomy (1), Vehicles (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Autonomy, Vehicle Demand.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 How close is Rivian to Tesla\u2019s self-driving capabilities?\n  https://www.reddit.com/r/Rivian/comments/1v90avs/how_close_is_rivian_to_teslas_selfdriving/\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (1)* \u2022 New EVs keep getting better! The Rivian R2 looks incredible already. The Model YL fixes the third row. \u200d This year is huge for ...\n  https://youtube.com/watch?v=gXj9cmPg2NE\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "How close is Rivian to Tesla\u2019s self-driving capabilities?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v90avs/how_close_is_rivian_to_teslas_selfdriving/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T14:35:10.129Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "New EVs Coming Out This Year \ud83e\udd29",
+        "url": "https://youtube.com/watch?v=gXj9cmPg2NE",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T14:23:24Z",
+        "score": 0,
+        "snippet": "New EVs keep getting better! The Rivian R2 looks incredible already. The Model YL fixes the third row. \u200d   This year is huge for ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
