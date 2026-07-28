@@ -84101,5 +84101,424 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-28T22:03:26.039149Z",
+    "timestamp": "2026-07-28T22:03:26.039149Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 80,
+      "negative": 11
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "26 signals across Vehicles (15), Business (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 28, 2026 \u2014 10:03 PM PT \u2014 26 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 20 Rivian signals clustered around Vehicles (15), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Forget rideshare. How seniors are using Teslas for transportation - The Detroit News\n  https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeThvWEJfWHN5RjQ4dFFHcTBORkZZS0drS3NLZTByU1Jncm9kTGdMYmlxeEI0MHVHYmZyUFFZbThoOEExN05SV05CUElVLXh6VlRCcmNpVkxoa3M3b0p6NkxYejVkOXhNS3J2amJCZ0YteDJaQWF4MGpZUVVvMnJaSDdySnNJVnE4dUl1aWIzMWVIaEp3d1U1V1FnMnZ2WGFOQndhdGprZ3pyaG5xWllYRmdIWU9DZ0dlRkJpZ19mbkFHMnVnQjBqUU5YTEtoUXhLemctdw?oc=5\n\u2022 *Competitive Threats:* San Francisco mayor backs national robotaxi rules after Waymo meltdowns - Politico\n  https://news.google.com/rss/articles/CBMihwFBVV95cUxNejdFYmh6bDZacy1Gd3BQc21Qa05TWndRRkF6SC1YaDc3a083U2FtQnhuWll4c05pdFJBZEtDR2ZDamRCNmhYRVVpRVJfYmhXZk5UWlNQOTVZanZRREhUZWJ0d0hrZFA1WUFkOFRVN3B4MjRHRTVmWV82UEV4SkhLRmMxS2pnTWM?oc=5\n\u2022 *Competitive Threats:* Waymo, robotaxi operators face fresh scrutiny over emergency response failures - TechCrunch\n  https://news.google.com/rss/articles/CBMisgFBVV95cUxQN29hRWNERVplZkc0T0dWMnVmTUUzZC1iaVVaRlRWdUdudDEzODdkcERHX3k1dzE5RWJGcWVaTHhudnNnQ3N3WTN4Y2pGcmtiampVMVlHVE1NMXUzbHpvZnpxdWZDQ1B0OEV1SkN2RmJvSXdJNnVpTzZocWRUaVlzN09mSEhkRnpQdm9OaGhWbm9DaWc5VFMyQzVCcDdVUWZMSGNNXzJCeldxNGF6NnBST2Fn?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 Delayed, Delayed, Delayed. DENVER RIVIAN\n  https://www.reddit.com/r/Rivian/comments/1v9b400/delayed_delayed_delayed_denver_rivian/\n*Business (3)* \u2022 Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock Back to $10? - 24/7 Wall St.\n  https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX1FDdElQX3pmcDUtRi04TG1Za2FtVWZTd2w2bU5QbUNjem96VlB3b2VBcFhCVzU0RFJJc2Zmb0Yyc1dERFVTb0p2UXh5Y005SE9XOGd3OF9obDNDX0s2YmtTSFVhMm1qVW1XUzR6RV9HVFU4ZFlUbDVyemRuWUNvQXBNMnYweElrb19xbGU2TEwwZWVOQ01aZ3Jlem04UGx0VlMtNlJ4YVFXYVlGbTBDMFZtekhEaTNRM2hxM3RjMTRLQjJmRjNMNWQyODBNMGM5UDVpN3J6NmN5dzZJZUpqUXhiN0hiMUU?oc=5\n*Software (1)* \u2022 Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...\n  https://youtube.com/watch?v=KCYeWV5ijK0\n*Community (1)* \u2022 A LOT of \u2014and by that I mean nearly all of\u2014 CCS1 -> NACS adapters peak at 500A or less capacity.. others at 250kW. people pulling 600a through one is going to be um _interesting_ Oh look, it\u2019s alr\n  https://bsky.app/profile/did:plc:freazjuu5y7ubozbduhpedlk/post/3mrq4zjzmks2p\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Delayed, Delayed, Delayed. DENVER RIVIAN",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9b400/delayed_delayed_delayed_denver_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T21:02:26.563Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Delayed, Delayed, Delayed. DENVER RIVIAN",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v9b3nr/delayed_delayed_delayed_denver_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T21:02:26.563Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How bad is this?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v99221/how_bad_is_this/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T19:45:12.323Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Not parked yet after brake pad replacement",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v97w3e/not_parked_yet_after_brake_pad_replacement/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T19:03:56.497Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Test drive thoughts",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1v97w6e/test_drive_thoughts/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-28T19:04:00.783Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.3% - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1pFdW1MUFR4WVlOc1VCR1JWTVVCZHZQaWtGaGN0LUk3aHcxQW0wSEFDZ2d1VjRZZVpNd09yc2sxVl84LURmenpXay1URFhTT05lVnJFS2ItaFo5NEE4bENYbV9zNWRwSk5Gb3lkV2R6YUUxNlFLRDR5TlNpdzFxVmIwdFdhNzJ2V1F2ZVRhVFctUUFOcHoxWmRTUDVDNzdtZTVpUjZ5Ri04Zlk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 28 Jul 2026 22:01:12 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.3% - Time to Buy? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock Back to $10? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX1FDdElQX3pmcDUtRi04TG1Za2FtVWZTd2w2bU5QbUNjem96VlB3b2VBcFhCVzU0RFJJc2Zmb0Yyc1dERFVTb0p2UXh5Y005SE9XOGd3OF9obDNDX0s2YmtTSFVhMm1qVW1XUzR6RV9HVFU4ZFlUbDVyemRuWUNvQXBNMnYweElrb19xbGU2TEwwZWVOQ01aZ3Jlem04UGx0VlMtNlJ4YVFXYVlGbTBDMFZtekhEaTNRM2hxM3RjMTRLQjJmRjNMNWQyODBNMGM5UDVpN3J6NmN5dzZJZUpqUXhiN0hiMUU?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 28 Jul 2026 19:07:04 GMT",
+        "score": 0,
+        "snippet": "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock Back to $10? - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Forget rideshare. How seniors are using Teslas for transportation - The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeThvWEJfWHN5RjQ4dFFHcTBORkZZS0drS3NLZTByU1Jncm9kTGdMYmlxeEI0MHVHYmZyUFFZbThoOEExN05SV05CUElVLXh6VlRCcmNpVkxoa3M3b0p6NkxYejVkOXhNS3J2amJCZ0YteDJaQWF4MGpZUVVvMnJaSDdySnNJVnE4dUl1aWIzMWVIaEp3d1U1V1FnMnZ2WGFOQndhdGprZ3pyaG5xWllYRmdIWU9DZ0dlRkJpZ19mbkFHMnVnQjBqUU5YTEtoUXhLemctdw?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Tue, 28 Jul 2026 17:35:00 GMT",
+        "score": 0,
+        "snippet": "Forget rideshare. How seniors are using Teslas for transportation - The Detroit News",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "San Francisco mayor backs national robotaxi rules after Waymo meltdowns - Politico",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejdFYmh6bDZacy1Gd3BQc21Qa05TWndRRkF6SC1YaDc3a083U2FtQnhuWll4c05pdFJBZEtDR2ZDamRCNmhYRVVpRVJfYmhXZk5UWlNQOTVZanZRREhUZWJ0d0hrZFA1WUFkOFRVN3B4MjRHRTVmWV82UEV4SkhLRmMxS2pnTWM?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 28 Jul 2026 12:05:00 GMT",
+        "score": 0,
+        "snippet": "San Francisco mayor backs national robotaxi rules after Waymo meltdowns - Politico",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN29hRWNERVplZkc0T0dWMnVmTUUzZC1iaVVaRlRWdUdudDEzODdkcERHX3k1dzE5RWJGcWVaTHhudnNnQ3N3WTN4Y2pGcmtiampVMVlHVE1NMXUzbHpvZnpxdWZDQ1B0OEV1SkN2RmJvSXdJNnVpTzZocWRUaVlzN09mSEhkRnpQdm9OaGhWbm9DaWc5VFMyQzVCcDdVUWZMSGNNXzJCeldxNGF6NnBST2Fn?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 28 Jul 2026 19:06:33 GMT",
+        "score": 0,
+        "snippet": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures - TechCrunch",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): \ud83d\udc47\ud83c\udffc btw this offer applies to anyone. Fwiw I've really enjoyed my first few month",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3mrqf5zhnt22o",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T21:47:11.581Z",
+        "score": 2,
+        "snippet": "\ud83d\udc47\ud83c\udffc btw this offer applies to anyone. Fwiw I've really enjoyed my first few months at Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hrdbmw.bsky.social (Bluesky): ...and come home with enough plywood that can build a small barn, or haul a camp",
+        "url": "https://bsky.app/profile/did:plc:jmaj3r2fp5pt3olmjexdkym7/post/3mrqcsal3y22q",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T21:04:47.764Z",
+        "score": 0,
+        "snippet": "...and come home with enough plywood that can build a small barn, or haul a camper big enough to sleep 4.\n\nRivian would probably be a better choice, but not sure the Rivian is as good at self driving ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Archer Aviation vs. Rivian Automotive: Which EV Vehicle Stock Is a Better Buy in",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mrqcjxedad2f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T21:00:10.272Z",
+        "score": 0,
+        "snippet": "Archer Aviation vs. Rivian Automotive: Which EV Vehicle Stock Is a Better Buy in 2026?\n\nhttps://www.evshift.com/499249/archer-aviation-vs-rivian-automotive-which-ev-vehicle-stock-is-a-better-buy-in-20",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@tempus.bsky.social (Bluesky): A LOT of \u2014and by that I mean nearly all of\u2014 CCS1 -> NACS adapters peak at 500A o",
+        "url": "https://bsky.app/profile/did:plc:freazjuu5y7ubozbduhpedlk/post/3mrq4zjzmks2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T19:21:35.279Z",
+        "score": 0,
+        "snippet": "A LOT of \u2014and by that I mean nearly all of\u2014 CCS1 -> NACS adapters peak at 500A or less capacity..  others at 250kW.   people pulling 600a through one is going to be um _interesting_\n\nOh look, it\u2019s alr",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@snazzylabs.com (Bluesky): My Rivian R2 has arrived and it\u2019s PERFECT!",
+        "url": "https://bsky.app/profile/did:plc:z5npjj4ngqdqpntfbvpjht4w/post/3mrq44eo2ts2a",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T19:05:26.180Z",
+        "score": 49,
+        "snippet": "My Rivian R2 has arrived and it\u2019s PERFECT!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bradporcellato.bsky.social (Bluesky): \n\nArcher Aviation vs. Rivian Automotive: Which EV Vehicle Stock Is a Better Buy ",
+        "url": "https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mrq2zgrmg22u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T18:45:39.776Z",
+        "score": 0,
+        "snippet": "\n\nArcher Aviation vs. Rivian Automotive: Which EV Vehicle Stock Is a Better Buy in 2026? https://t.co/y9pQACfgT3\n\n  \u2014 The Right News, Right Now. (@BradPorcellato)\n  Jul 28, 2026\n\nJuly 28, 2026 at 11:4",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@vesaversa.bsky.social (Bluesky): Lexus,GM , Ford ,Rivian etc there are several EV car factories on the Market now",
+        "url": "https://bsky.app/profile/did:plc:dcje7ewupgmphb3yp7i2xs5h/post/3mrq2ymrj5c23",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T18:45:14.481Z",
+        "score": 1,
+        "snippet": "Lexus,GM , Ford ,Rivian etc there are several EV car factories on the Market now .But thanks",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "July 14th in Shenandoah Texas, we drove through a good amount of water! #flood #rivian #automobile",
+        "url": "https://youtube.com/watch?v=bViA0gMSQ8c",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T21:15:22Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "PL011275 2022 Rivian R1T Adventure",
+        "url": "https://youtube.com/watch?v=UUMBc5-GKAk",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T20:53:32Z",
+        "score": 0,
+        "snippet": "PL011275 2022 Rivian R1T Adventure.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R3 Official Breakdown \u2014 Shocking Range &amp; Battery Secrets Exposed!",
+        "url": "https://youtube.com/watch?v=rmQ5QxrHOk4",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T20:45:18Z",
+        "score": 0,
+        "snippet": "Rivian R3 Official Breakdown \u2014 Shocking Range & Battery Secrets Exposed! \u26a1  ** Is the **Rivian R3** about to become the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Before you confirm your Rivian R2\u2026 watch this",
+        "url": "https://youtube.com/watch?v=KCYeWV5ijK0",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T20:25:12Z",
+        "score": 0,
+        "snippet": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Saying Goodbye to my Rivian R1T - The Best Truck I Never Owned (I Leased)",
+        "url": "https://youtube.com/watch?v=UQ8xaz5zpTI",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T19:56:26Z",
+        "score": 0,
+        "snippet": "A video I wanted to make to pay tribute to my truck I leased for 2 years. If anyone is looking to buy a Rivian R1 vehicle and would ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Save $20,000 with a Rivian R2",
+        "url": "https://youtube.com/watch?v=qXuxjB_-_4I",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T19:44:03Z",
+        "score": 0,
+        "snippet": "You can save $20000 with a Rivian R2! I could not because I need the R1 We got you if you need Rivian wheels! Call us at: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Help Me Name My Rivian R2!",
+        "url": "https://youtube.com/watch?v=gvWe8Gg7bys",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T19:24:52Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why The Rivian Truck Is Unique ?",
+        "url": "https://youtube.com/watch?v=RilwOrnxVXI",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T19:00:06Z",
+        "score": 0,
+        "snippet": "Clips from various podcasts for educational and entertainment purposes. Contact: smith.dexterboss@gmail.com.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN MCQEEN JUMP TEST  #beamngdrive #crashdrive #beamng #reels #shorts",
+        "url": "https://youtube.com/watch?v=HRsoR6_E6aM",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T18:13:07Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
