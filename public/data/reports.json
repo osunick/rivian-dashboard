@@ -84036,5 +84036,70 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-28T18:39:39.657774Z",
+    "timestamp": "2026-07-28T18:39:39.657774Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "youtube": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Vehicle Demand"
+    ],
+    "summary": "1 signal across Vehicles (1); watch Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 28, 2026 \u2014 6:39 PM PT \u2014 1 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 1 Rivian signal clustered around Vehicles (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (1)* \u2022 Only 9000 miles in 3 years? This Rivian is basically brand new! The perfect low-mile family EV. #rivian #ev #lowmileage ...\n  https://youtube.com/watch?v=XPOGSjYZ5ug\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "This \u201923 Rivian ONLY Has 9K Miles \ud83e\udd2f",
+        "url": "https://youtube.com/watch?v=XPOGSjYZ5ug",
+        "source": "youtube",
+        "publishedAt": "2026-07-28T18:17:22Z",
+        "score": 0,
+        "snippet": "Only 9000 miles in 3 years? This Rivian is basically brand new! The perfect low-mile family EV. #rivian #ev #lowmileage ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
