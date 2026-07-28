@@ -83874,5 +83874,70 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-28T18:13:31.468632Z",
+    "timestamp": "2026-07-28T18:13:31.468632Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats"
+    ],
+    "summary": "1 signal across Competitive (1); watch Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, July 28, 2026 \u2014 6:13 PM PT \u2014 1 signals \u00b7 0 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* No material Rivian product, market, or community signal surfaced in this run.\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Lurie welcomes federal regulation of Waymo and robotaxi industry - The San Francisco Standard\n  https://news.google.com/rss/articles/CBMilwFBVV95cUxPTktNR2h6NUdCd3NZMmNaLTl2NWhlNEI3NEtWQzdqX2JPcjMyOHdGLUJQV2VLQUVOTEcweTJVZ0tQeGRhU3dqby1UWXJOSml3V0xidHBFeFNLZl9MUkZMNThhby1oVGM3c2RtUTZYR2R2RHFJUUV1LVprQXhpb1l2MVNtdEx2eldxV1k0dUhKZi0yVlFFV1U0?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (0)* \u2022 No signals\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Lurie welcomes federal regulation of Waymo and robotaxi industry - The San Francisco Standard",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTktNR2h6NUdCd3NZMmNaLTl2NWhlNEI3NEtWQzdqX2JPcjMyOHdGLUJQV2VLQUVOTEcweTJVZ0tQeGRhU3dqby1UWXJOSml3V0xidHBFeFNLZl9MUkZMNThhby1oVGM3c2RtUTZYR2R2RHFJUUV1LVprQXhpb1l2MVNtdEx2eldxV1k0dUhKZi0yVlFFV1U0?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 28 Jul 2026 15:46:18 GMT",
+        "score": 0,
+        "snippet": "Lurie welcomes federal regulation of Waymo and robotaxi industry - The San Francisco Standard",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      }
+    ]
   }
 ]
