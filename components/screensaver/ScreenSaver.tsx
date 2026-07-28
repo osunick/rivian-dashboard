@@ -272,10 +272,10 @@ export default function ScreenSaver({
                 <div className="font-mono-num text-sm uppercase tracking-[0.22em] text-white/45">Publish Tempo</div>
                 <div className="font-mono-num text-sm text-[#70e4ff]">{latestTrendTotal} latest</div>
               </div>
-              <div className="mt-5 flex h-full min-h-0 items-end gap-4 pb-7">
+              <div className="mt-5 flex h-full min-h-0 items-stretch gap-4 pb-7">
                 {trend.map(point => (
                   <div key={point.label} className="flex h-full flex-1 flex-col justify-end gap-2">
-                    <div className="relative min-h-2 overflow-hidden bg-white/8">
+                    <div className="relative min-h-0 flex-1 overflow-hidden bg-white/8">
                       <div
                         className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#ff6b57] via-[#ffd166] to-[#42f59b]"
                         style={{ height: `${Math.max(8, (point.total / maxTrendTotal) * 100)}%` }}
