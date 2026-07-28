@@ -141,6 +141,17 @@ export default function ScreenSaver({
   const totalSignals = signals.length;
   const latestTrendTotal = trend[trend.length - 1]?.total ?? 0;
   const maxTrendTotal = Math.max(...trend.map(point => point.total), 1);
+  const [activeSignalIndex, setActiveSignalIndex] = useState(0);
+
+  useEffect(() => {
+    if (featured.length <= 1) return;
+
+    const interval = window.setInterval(() => {
+      setActiveSignalIndex(current => (current + 1) % featured.length);
+    }, 8000);
+
+    return () => window.clearInterval(interval);
+  }, [featured.length]);
 
   return (
     <main className="ambient-screen h-screen overflow-hidden bg-[#05070b] text-white">
@@ -176,8 +187,7 @@ export default function ScreenSaver({
               {featured.map((signal, index) => (
                 <article
                   key={`${signal.url}-${index}`}
-                  className="signal-slide grid min-h-0 grid-cols-[minmax(0,1fr)_minmax(22rem,0.46fr)] gap-7"
-                  style={{ animationDelay: `${index * 8}s` }}
+                  className={`signal-slide grid min-h-0 grid-cols-[minmax(0,1fr)_minmax(22rem,0.46fr)] gap-7 ${index === activeSignalIndex ? 'is-active' : ''}`}
                 >
                   <div className="min-w-0">
                     <div className="flex items-center gap-3">
@@ -190,7 +200,14 @@ export default function ScreenSaver({
                       <span className="font-mono-num text-sm text-white/40">{formatSignalDate(signal.publishedAt)}</span>
                     </div>
                     <h2 className="mt-5 max-w-[22ch] text-[clamp(2rem,3vw,4.1rem)] font-black uppercase leading-[0.92] tracking-normal text-white">
-                      {signal.title}
+                      <a
+                        href={signal.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="transition-colors hover:text-[#70e4ff] focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
+                      >
+                        {signal.title}
+                      </a>
                     </h2>
                     <p className="mt-6 max-w-5xl text-[clamp(1.45rem,1.85vw,2.45rem)] font-semibold leading-[1.06] text-white/84">
                       {signalReadout(signal)}
@@ -199,9 +216,14 @@ export default function ScreenSaver({
                       {signalContext(signal)}
                     </p>
                     <div className="mt-6 flex flex-wrap gap-3">
-                      <span className="border border-white/14 bg-white/8 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-white/70">
+                      <a
+                        href={signal.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="border border-white/14 bg-white/8 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-white/70 transition-colors hover:border-[#70e4ff]/55 hover:text-[#70e4ff] focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
+                      >
                         {signal.source}
-                      </span>
+                      </a>
                       {signal.themes.map(theme => (
                         <span key={theme} className="border border-[#70e4ff]/25 bg-[#70e4ff]/10 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-[#b8f4ff]">
                           {theme}
@@ -270,11 +292,17 @@ export default function ScreenSaver({
         <footer className="overflow-hidden border-y border-white/12 bg-black/46 py-3 backdrop-blur-md">
           <div className="ticker-track flex whitespace-nowrap font-mono-num text-xl uppercase tracking-[0.08em] text-white/78">
             {[...tickerSignals, ...tickerSignals].map((signal, index) => (
-              <span key={`${signal.title}-${index}`} className="mx-8">
+              <a
+                key={`${signal.title}-${index}`}
+                href={signal.url || '#'}
+                target={signal.url ? '_blank' : undefined}
+                rel={signal.url ? 'noreferrer' : undefined}
+                className="mx-8 transition-colors hover:text-[#70e4ff] focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
+              >
                 <span className="text-[#70e4ff]">{signal.source}</span>
                 <span className="mx-4 text-white/28">/</span>
                 {signal.title}
-              </span>
+              </a>
             ))}
           </div>
         </footer>
@@ -333,29 +361,20 @@ export default function ScreenSaver({
           inset: 0;
           opacity: 0;
           transform: translateY(28px) scale(0.985);
-          animation: signal-cycle 48s ease-in-out infinite;
+          pointer-events: none;
+          transition: opacity 900ms ease, transform 900ms ease;
         }
 
-        .signal-slide:first-child {
+        .signal-slide.is-active {
           opacity: 1;
+          pointer-events: auto;
+          transform: translateY(0) scale(1);
+          z-index: 1;
         }
 
         .ticker-track {
           width: max-content;
           animation: ticker-scroll 80s linear infinite;
-        }
-
-        @keyframes signal-cycle {
-          0%,
-          13% {
-            opacity: 1;
-            transform: translateY(0) scale(1);
-          }
-          18%,
-          100% {
-            opacity: 0;
-            transform: translateY(-26px) scale(1.012);
-          }
         }
 
         @keyframes ticker-scroll {
@@ -454,7 +473,12 @@ function AmbientImage({ signal }: { signal: AmbientSignal }) {
 
   if (state.status === 'image') {
     return (
-      <div className="signal-image relative h-full min-h-0 overflow-hidden border border-white/12 bg-black/30 shadow-2xl shadow-black/45">
+      <a
+        href={signal.url}
+        target="_blank"
+        rel="noreferrer"
+        className="signal-image relative block h-full min-h-0 overflow-hidden border border-white/12 bg-black/30 shadow-2xl shadow-black/45 transition-colors hover:border-[#70e4ff]/55 focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
+      >
         <img
           src={state.imageUrl}
           alt=""
@@ -465,12 +489,17 @@ function AmbientImage({ signal }: { signal: AmbientSignal }) {
           <div className="font-mono-num text-xs uppercase tracking-[0.18em] text-white/58">Visual Source</div>
           <div className="mt-1 truncate text-2xl font-semibold text-white">{signal.source}</div>
         </div>
-      </div>
+      </a>
     );
   }
 
   return (
-    <div className="signal-image signal-image-fallback relative h-full min-h-0 overflow-hidden border border-white/12 bg-black/30 shadow-2xl shadow-black/45">
+    <a
+      href={signal.url}
+      target="_blank"
+      rel="noreferrer"
+      className="signal-image signal-image-fallback relative block h-full min-h-0 overflow-hidden border border-white/12 bg-black/30 shadow-2xl shadow-black/45 transition-colors hover:border-[#70e4ff]/55 focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
+    >
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_32%_28%,rgba(112,228,255,0.35),transparent_28%),radial-gradient(circle_at_74%_70%,rgba(255,209,102,0.22),transparent_34%),linear-gradient(135deg,rgba(255,255,255,0.08),rgba(255,255,255,0))]" />
       <div className="absolute inset-6 border border-white/14" />
       <div className="absolute inset-x-0 bottom-0 p-6">
@@ -479,7 +508,7 @@ function AmbientImage({ signal }: { signal: AmbientSignal }) {
         </div>
         <div className="mt-2 text-2xl font-black uppercase leading-tight text-white">{signal.category}</div>
       </div>
-    </div>
+    </a>
   );
 }
 
