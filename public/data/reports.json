@@ -84787,5 +84787,551 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-29T18:24:49.095952Z",
+    "timestamp": "2026-07-29T18:24:49.095952Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 74,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 5,
+        "sentiment": null
+      },
+      "software": {
+        "found": 5,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Service Experience",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "35 signals across Vehicles (20), Business (5); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, July 29, 2026 \u2014 6:24 PM PT \u2014 35 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 31 Rivian signals clustered around Vehicles (20), Business (5).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Business, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* If Medrano's account holds up, Tesla's safety validation numbers may understate the severity of its deployment woes. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/new-lawsuit-alleges-teslas-houston-test-fleet-was-unsafe/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 Swapping out OEM Pirellis on the Rivian R1S for Hankook iON HTs! Initial thoughts on how they look and what I hope to gain!\n  https://youtube.com/watch?v=nmRpoeIR0BQ\n*Vehicles (20)* \u2022 Consumer Reports says R1T is the worst!\n  https://www.reddit.com/r/Rivian/comments/1va3131/consumer_reports_says_r1t_is_the_worst/\n*Business (5)* \u2022 Rivian Will Report Q2 Earnings Tomorrow. Options Traders Expect a 10% Move in RIVN Stock - TipRanks\n  https://news.google.com/rss/articles/CBMitwFBVV95cUxPblY4X3RQcEdKU2EtcGdna2t1OTVudldOeVVXVjVwdlh4MjByQ0FOeDU3SkR1QUVYbDh3aElHUWJCTHBSVzdDMUFzUVdUMnpvYkI1a2QyZ0tTZlRXSzFZM0RVZVJjcW4tT0lDVEp3YmxmdEI2MWFzSURXYW1JV0ZyYUQ2NjlxUFpfUThXM1pic1piMmYwOFBiNENjbDNhaTVsRmxfbGV6SlZ6OHdoTzFDQXdwaGlWUWM?oc=5\n*Software (5)* \u2022 Uber Agrees to Invest up to $1.2 Billion in Rivian and Purchase up to 50,000 R2s. Here's Why Rivian May Be a Sneaky Robotaxi Winner. - fool.com\n  https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWRDZlJidEE3dGstcTNOTWt1SVdhQjN1TUR1RWpzXzVlU0JVTFNQbTMzamxneVJOTWhaWEJxWUpDVHdNOFA3emFWQ3BmQnZMQXVZWmhKT2hoOF9fWDhZSWo0bzNlcjlHdW9XVW1vejBaNmppNnpZRVhYeWZoeFdxVndFY3ZfLWlFMGw3SGhIdjkxWVlpQUE?oc=5\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Consumer Reports says R1T is the worst!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1va3131/consumer_reports_says_r1t_is_the_worst/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T17:31:59.105Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Albuquerque Rivian Owners",
+        "url": "https://www.reddit.com/r/Rivian/comments/1va2cwh/albuquerque_rivian_owners/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T17:08:43.170Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "What is the average insurance cost for R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1va0sgj/what_is_the_average_insurance_cost_for_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T16:14:32.485Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs Tesla Model Y 70-MPH Highway Range Test by OOS",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9y4ax/rivian_r2_vs_tesla_model_y_70mph_highway_range/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T14:40:01.010Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R3X rally",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9reph/r3x_rally/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T09:43:18.586Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Connect + Trial Ended.. but sound quality is better",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9n6n2/connect_trial_ended_but_sound_quality_is_better/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T05:48:22.183Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R1T Bed (gen 2) Outlet/Inverter Repair Without Removing a Permanently Mounted Camper?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9lhre/r1t_bed_gen_2_outletinverter_repair_without/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T04:22:26.725Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Here\u2019s what changed in the second Fed statement under Warsh",
+        "url": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "New lawsuit alleges Tesla\u2019s Houston test fleet was unsafe",
+        "url": "https://www.automotiveworld.com/news/new-lawsuit-alleges-teslas-houston-test-fleet-was-unsafe/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 29 Jul 2026 09:09:22 +0000",
+        "score": 0,
+        "snippet": "<p>If Medrano's account holds up, Tesla's safety validation numbers may understate the severity of its deployment woes. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.com/news",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Will Report Q2 Earnings Tomorrow. Options Traders Expect a 10% Move in RIVN Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblY4X3RQcEdKU2EtcGdna2t1OTVudldOeVVXVjVwdlh4MjByQ0FOeDU3SkR1QUVYbDh3aElHUWJCTHBSVzdDMUFzUVdUMnpvYkI1a2QyZ0tTZlRXSzFZM0RVZVJjcW4tT0lDVEp3YmxmdEI2MWFzSURXYW1JV0ZyYUQ2NjlxUFpfUThXM1pic1piMmYwOFBiNENjbDNhaTVsRmxfbGV6SlZ6OHdoTzFDQXdwaGlWUWM?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 29 Jul 2026 08:02:01 GMT",
+        "score": 0,
+        "snippet": "Rivian Will Report Q2 Earnings Tomorrow. Options Traders Expect a 10% Move in RIVN Stock - TipRanks",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Q2 Earnings: What To Expect - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnhtMDBmSnM4Q2x3Z2F1WjdERFF0SUQzLXVxaVJxa0MxLVN5M1RCeUtBY2p0Mk1tQ2oxUEp3MHRMMDhTUDQ0MXRBc1BPZks2OTNSTVFpTEx3Q21OTnktTWZ4VjVkdmNwNjQyVTBlOTIzdEJtdzBNT0taNnJFUTY1b25tNFIyYndOTVJjaEZoY3BJMzV4ZG5qTjRBNA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 29 Jul 2026 16:21:02 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Q2 Earnings: What To Expect - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian earnings in focus after strong Q2 deliveries and guidance boost - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmUyNmZ6T3JQNlZuRE80NlEyU1lyUS1jSnNlYllMaW56aVUxRUFVbFJmTmdDMVE2cm5oNzh1UHNaQ3hseEtsUkMwYXBkTFc3Qk5XUU9MYWtaVl9SMngyazNlWlZRaUdub0hKSkRMeVNRbFdPM3dNSWY2bWFrbElvRTh0MzhGaUdkU0dHR2lrNFZIMDhwWXowSFRLUjlBVjNSNDZxb1F2R3VJUnh3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 29 Jul 2026 14:30:12 GMT",
+        "score": 0,
+        "snippet": "Rivian earnings in focus after strong Q2 deliveries and guidance boost - Seeking Alpha",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Piper Sandler turns heads with bold Rivian stock prediction - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXQ0QjhEbFNYbFJ2WmxJc2gtRktqZXUxT1VmZjZDOEszMzc3ay1uR3I4blhSNU1yVzZ0ZHJUNnZ6YWlGeFJPelFlZlRmcmZELUFELVNJejdzZlcxMjZMSUhFN1VuZi1Cb1REWU9Fb01yeEF3VmFkZ1l5eWt2ZXdiUFVfMWRBOU4tVlZFV1dfcHpaRWc4MG82cWsxc1hYcVhhNXJxZUxWMWI?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 29 Jul 2026 15:33:00 GMT",
+        "score": 0,
+        "snippet": "Piper Sandler turns heads with bold Rivian stock prediction - thestreet.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Uber Agrees to Invest up to $1.2 Billion in Rivian and Purchase up to 50,000 R2s. Here's Why Rivian May Be a Sneaky Robotaxi Winner. - fool.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWRDZlJidEE3dGstcTNOTWt1SVdhQjN1TUR1RWpzXzVlU0JVTFNQbTMzamxneVJOTWhaWEJxWUpDVHdNOFA3emFWQ3BmQnZMQXVZWmhKT2hoOF9fWDhZSWo0bzNlcjlHdW9XVW1vejBaNmppNnpZRVhYeWZoeFdxVndFY3ZfLWlFMGw3SGhIdjkxWVlpQUE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 29 Jul 2026 17:58:52 GMT",
+        "score": 0,
+        "snippet": "Uber Agrees to Invest up to $1.2 Billion in Rivian and Purchase up to 50,000 R2s. Here's Why Rivian May Be a Sneaky Robotaxi Winner. - fool.com",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "New Rivian R2 Specs: How a Standard Heat Pump Pushed Range to 335 Miles - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMZVdFV2JXaE5IWEg3dGxScVE3STNVUWRwOHUzejJBbFJYVmluNzRrNXBiRWpGNXNvOG1qamlCTTB2SVJMamhnbjNTOVdTdjVyXzVxQmk3SFZxOG1BcHRaTklJZWRCbU1aT2s1dHJFYlRULTQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 29 Jul 2026 09:01:28 GMT",
+        "score": 0,
+        "snippet": "New Rivian R2 Specs: How a Standard Heat Pump Pushed Range to 335 Miles - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bradporcellato.bsky.social (Bluesky): \n\nUber Agrees to Invest up to $1.2 Billion in Rivian and Purchase up to 50,000 R",
+        "url": "https://bsky.app/profile/did:plc:drwh37ctfbbgpduog3dnkphr/post/3mrsjjaauos2u",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T18:10:21.678Z",
+        "score": 0,
+        "snippet": "\n\nUber Agrees to Invest up to $1.2 Billion in Rivian and Purchase up to 50,000 R2s. Here's Why Rivian May Be a Sneaky Robotaxi Winner. https://t.co/jEFw6nfggY\n\n  \u2014 The Right News, Right Now. (@BradPor",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@aaronblackshear.bsky.social (Bluesky): If you ever see a white lady driving a light blue Rivian in Minneapolis, tell he",
+        "url": "https://bsky.app/profile/did:plc:s2hapmitimysnnzd6ew62eiz/post/3mrsj3n54ns2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T18:02:45.679Z",
+        "score": 1,
+        "snippet": "If you ever see a white lady driving a light blue Rivian in Minneapolis, tell her to meet my sister at Boom Island park",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@aaronblackshear.bsky.social (Bluesky): One of these days I\u2019m going to find that lady in the light blue Rivian who hit m",
+        "url": "https://bsky.app/profile/did:plc:s2hapmitimysnnzd6ew62eiz/post/3mrsiwsdxok2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T18:00:06.063Z",
+        "score": 1,
+        "snippet": "One of these days I\u2019m going to find that lady in the light blue Rivian who hit me and took off, and I\u2019m going to introduce her to my sister",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@unxpctdisvry.bsky.social (Bluesky): One of my friends has a Bolt and loves it (they've had it for a while - over fiv",
+        "url": "https://bsky.app/profile/did:plc:3kvdmvxdbv4d5vaw5sj7sfzw/post/3mrsbl6u5cc26",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T15:48:17.872Z",
+        "score": 1,
+        "snippet": "One of my friends has a Bolt and loves it (they've had it for a while - over five years) . They recently got a great deal on a Polestar and love it too. We've also been looking at a Rivian R2 - it's t",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@barb4rian.bsky.social (Bluesky): Been watching yours and OOS\u2019s coverage, I\u2019m curious about something. - I have a ",
+        "url": "https://bsky.app/profile/did:plc:ki7u7xed6l2vnbjuyb5lrs43/post/3mrsbkw5ch227",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T15:48:08.677Z",
+        "score": 0,
+        "snippet": "Been watching yours and OOS\u2019s coverage, I\u2019m curious about something. - I have a Volvo EX30. Shortly after I got the car, Volvo with an OTA improved my efficiency in a way that added about 20 miles to ",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Doesn\u2019t seem like the Rivian R2 is a good road tripping car.\n\n70mph test got 253",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mrsa4ltwbs2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T15:22:15.180Z",
+        "score": 2,
+        "snippet": "Doesn\u2019t seem like the Rivian R2 is a good road tripping car.\n\n70mph test got 253 miles.\n\nTesla Model Y got 317 miles.\n\nyoutu.be/9Ar417CfeuA?...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@swirlosquirrel.bsky.social (Bluesky): Ultimately, people need to stop pricing other companies that have nothing to do ",
+        "url": "https://bsky.app/profile/did:plc:2z2zpbtmeauaytpdv7vzgffz/post/3mrs7b44nhk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T15:06:51.879Z",
+        "score": 0,
+        "snippet": "Ultimately, people need to stop pricing other companies that have nothing to do with Elon\u2019s idiocy, according to his idiocy. \n\nRivian > Tesla\n\nRocketLab > SpaceX\n\nBoth have better products and more st",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): R2 Performance. 330-mile EPA rating. 253 miles in a real 70 mph test. Let me exp",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mrs6nrd42c2p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T14:56:05.763Z",
+        "score": 6,
+        "snippet": "R2 Performance. 330-mile EPA rating. 253 miles in a real 70 mph test. Let me explain.\n\nriviantrackr.com/news/the-r2-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Big contract with Rivian and Amazon coming tomorrow for smaller edvs for amazons",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mrs2kn45c22g",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T13:42:46.275Z",
+        "score": 2,
+        "snippet": "Big contract with Rivian and Amazon coming tomorrow for smaller edvs for amazons new logistics business lets g o!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mrrwu4ngrk2n",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T12:36:26.368Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs Tesla Model Y CO)MPARISON: which electric SUV actually wins?",
+        "url": "https://youtube.com/watch?v=GSj0C2pkric",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T17:45:05Z",
+        "score": 0,
+        "snippet": "Rivian R2 vs Tesla Model Y CO)MPARISON: which electric SUV actually wins? The Rivian R2 and Tesla Model Y target similar ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Service Update pt. 2",
+        "url": "https://youtube.com/watch?v=8c7f3Gkz830",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T16:45:02Z",
+        "score": 0,
+        "snippet": "Update part 2.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Service Experience",
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R2 Service Update pt. 1",
+        "url": "https://youtube.com/watch?v=wRpblVYoGc4",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T16:42:19Z",
+        "score": 0,
+        "snippet": "Just sharing a quick update! Thanks to everyone for being so supportive.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Service Experience",
+          "Software"
+        ]
+      },
+      {
+        "title": "Most Rivian Owners Don&#39;t Know This About Their Year #rivian #shorts #truck",
+        "url": "https://youtube.com/watch?v=wMUJcFtmm-8",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T15:00:39Z",
+        "score": 0,
+        "snippet": "SERENITY EV: NEXT GEN CARE FOR THE NEXT GEN CAR We are a factory trained, independent electric vehicle repair shop ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is EV infrastructure good enough for road trips? #evs #tesla #teslamodely #rivian #kiaev6 #kiaev9",
+        "url": "https://youtube.com/watch?v=fW5Fpg_lpxw",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T14:45:15Z",
+        "score": 0,
+        "snippet": "In answer to a listener question, America on the Road Radio hosts Jack Nerad and Chris Teague discuss the current state of the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs Tesla Model Y 70-MPH Highway Range Test! How Is This Even Possible?",
+        "url": "https://youtube.com/watch?v=9Ar417CfeuA",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T14:00:09Z",
+        "score": 0,
+        "snippet": "Go to https://bit.ly/EVraffleOutofSpec for your chance to win a Rivian, Lucid, or Porsche EV up to $115000 - YOU CHOOSE!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "\ud83d\ude98Amazing DIY Cardboard Rivian R1T Pickup Truck Build! \ud83d\udce6Watch Every Piece Turn Into a Hyper-Realistic",
+        "url": "https://youtube.com/watch?v=Eu4dfdJnMQc",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T13:17:36Z",
+        "score": 0,
+        "snippet": "Amazing DIY Cardboard Rivian R1T Pickup Truck Build! Watch Every Piece Turn Into a Hyper-Realistic Masterpiece ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "World&#39;s Most Satisfying Mini Rivian R1T Assembly! \ud83d\ude0d #shorts #viral #rocketcar #usa",
+        "url": "https://youtube.com/watch?v=3F5OjHKoydM",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T13:00:34Z",
+        "score": 0,
+        "snippet": "World's Most Satisfying Mini Rivian R1T Assembly! #shorts #viral #rocketcar #usa Watch a hyper-realistic miniature Rivian R1T ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=S4TPFhKtLAs",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T12:08:39Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R1S Hankook Tires: Better Than Pirelli? Initial Thoughts!",
+        "url": "https://youtube.com/watch?v=nmRpoeIR0BQ",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T11:54:16Z",
+        "score": 0,
+        "snippet": "Swapping out OEM Pirellis on the Rivian R1S for Hankook iON HTs! Initial thoughts on how they look and what I hope to gain!",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      }
+    ]
   }
 ]
