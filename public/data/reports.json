@@ -84520,5 +84520,272 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-29T02:03:00.767686Z",
+    "timestamp": "2026-07-29T02:03:00.767686Z",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 60,
+      "negative": 33
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "15 signals across Vehicles (8), Business (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, July 29, 2026 \u2014 2:03 AM PT \u2014 15 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 12 Rivian signals clustered around Vehicles (8), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe0 ELEVATED with 5 negative signals; watch Vehicle Demand, Business, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Waymo Establishes South Korean Subsidiary 'Waymo Korea,' Signaling Entry into Autonomous Driving Market - finance.biggo.com\n  https://news.google.com/rss/articles/CBMidkFVX3lxTFBqdmhDTWVPSHBKWXBkTnpNNy11VnN6SHlYUUd4RmJqN2RLbUNBUHJuNUpBNm9XT1E1Qy1SbUlyNml0eFFoaWYzd2dxZm1Gazl6ZTIzSFpCMjg0c3BlMXBZVVRJbFRDU210UHlwQkJyRDRWcDVsSFE?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (8)* \u2022 R2 charging speeds are ridiculous.\n  https://www.reddit.com/r/Rivian/comments/1v9hdow/r2_charging_speeds_are_ridiculous/\n*Business (3)* \u2022 Rivian (RIVN) Stock Looks Weak On Returns Yet Rich On Sales - Yahoo Finance UK\n  https://news.google.com/rss/articles/CBMigwFBVV95cUxQS1cwMmQ5ZEliSlNjYnJkbkhoV19scGNFQ1NXaXlpbGh2R2FVWlhyNTFKTTNHa3djNUhwMmtBUW5tQWtKQm9jUDgxLTZVT2xRTmJBdHV4SlZ6VDlON09VREFlTUppSmd3Z0Y3dTlOS3NuQzEwZ0F6cDBRWUpxSFhhTVBLdw?oc=5\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 In the real world most charging is 400V. 800V sounds great till you get the actual 120kw derated charging when plugged in to 400V Thank you @travisketchum.bsky.social youtu.be/9vjppWc0rtY?...\n  https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mrqg2euva22f\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe0 ELEVATED_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R2 charging speeds are ridiculous.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9hdow/r2_charging_speeds_are_ridiculous/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T01:13:23.415Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Cloud Interior",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9h2xn/cloud_interior/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T01:00:17.927Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian R2 Performance Drifting (Tire Falls Apart)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9gnbg/rivian_r2_performance_drifting_tire_falls_apart/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T00:20:22.120Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Performance Drifting (Tire Falls Apart)",
+        "url": "https://www.reddit.com/r/Drifting/comments/1v9g5jp/rivian_r2_performance_drifting_tire_falls_apart/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-29T00:20:22.120Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Second 12v failure in 3 years",
+        "url": "https://www.reddit.com/r/Rivian/comments/1v9dm76/second_12v_failure_in_3_years/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-28T22:37:08.848Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Stock Looks Weak On Returns Yet Rich On Sales - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS1cwMmQ5ZEliSlNjYnJkbkhoV19scGNFQ1NXaXlpbGh2R2FVWlhyNTFKTTNHa3djNUhwMmtBUW5tQWtKQm9jUDgxLTZVT2xRTmJBdHV4SlZ6VDlON09VREFlTUppSmd3Z0Y3dTlOS3NuQzEwZ0F6cDBRWUpxSFhhTVBLdw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 28 Jul 2026 16:09:42 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Stock Looks Weak On Returns Yet Rich On Sales - Yahoo Finance UK",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Stock Looks Rich On Sales But Weaker Returns Raise Questions - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYS1SZHNJaEpGdDE0eEhyRGctZlgtZ1RkVXNIQTlfaWpLMkNBU3otWEJsYm95ZktDdUxSblBjMnRRMjJjX1NZQVd1aUhELTZVMEh0dkx5clJBdW1Nd2FUSGh1NE02WTVTZWJYNU16c1J5Y29Tclg0VmpxeS1kZzZhdm9UN1QwaVhrdzFkZWVubV9CZ013cWtTZ3V6aUZOMUJHeFlaMnJEdFhrWWsyV3p4WVNxWWdJNlphbjdtM0prRlQ3V3pTdHc4cm1wVVQ1M0lnV0Uwdnh0dk5ibnfSAdsBQVVfeXFMTWEtUmRzSWhKRnQxNHhIckRnLWZYLWdUZFVzSEE5X2lqSzJDQVN6LVhCbGJveWZLQ3VMUm5QYzJ0UTIyY19TWUFXdWlIRC02VTBIdHZMeXJSQXVtTXdhVEhodTRNNlk1U2ViWDVNenNSeWNvU3JYNFZqcXktZGc2YXZvVDdUMGlYa3cxZGVlbm1fQmdNd3FrU2d1emlGTjFCR3hZWjJyRHRYa1lrMld6eFlTcVlnSTZaYW43bTNKa0ZUN1d6U3R3OHJtcFVUNTNJZ1dFMHZ4dHZOYm53?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 28 Jul 2026 22:41:50 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Stock Looks Rich On Sales But Weaker Returns Raise Questions - simplywall.st",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ: RIVN) Positioned To Outpace Tesla Over The Next Three Years, Analysts Say - foreignpolicyjournal.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUN6dTBPejBXNDRHX3dvUlpyUTY4R3drM3FoVkF1N0o1RDViTV91RUFGUUlCemdNLUxuREpzdXZ6Q0Jaa2FWWlllelRlNHhaUnllRWFKRXBNN3NIQVJTX3k3M0dyLTRLSjdLbFRBVkZoSEtaREo0Q3BWNy1nUjF6bGx1RFI2Vlc1WGg1NEZ6eTBCQ0gya0FDTkdsYy1OSzlxYlJ0Z2VFZl9BVVdpbnB2a05hTjRJbHlEV1FKdEpDZTdBcWRHbHdibU5pc1Z5TTRvbkVmTVBRVUJzTHFfbGc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 28 Jul 2026 23:58:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ: RIVN) Positioned To Outpace Tesla Over The Next Three Years, Analysts Say - foreignpolicyjournal.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo Establishes South Korean Subsidiary 'Waymo Korea,' Signaling Entry into Autonomous Driving Market - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqdmhDTWVPSHBKWXBkTnpNNy11VnN6SHlYUUd4RmJqN2RLbUNBUHJuNUpBNm9XT1E1Qy1SbUlyNml0eFFoaWYzd2dxZm1Gazl6ZTIzSFpCMjg0c3BlMXBZVVRJbFRDU210UHlwQkJyRDRWcDVsSFE?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 28 Jul 2026 21:35:00 GMT",
+        "score": 0,
+        "snippet": "Waymo Establishes South Korean Subsidiary 'Waymo Korea,' Signaling Entry into Autonomous Driving Market - finance.biggo.com",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): FACT\n\nWave back rate doubles with a MEVCO Rivian R1T.",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mrqsrzzvc62w",
+        "source": "bluesky",
+        "publishedAt": "2026-07-29T01:51:03.365Z",
+        "score": 0,
+        "snippet": "FACT\n\nWave back rate doubles with a MEVCO Rivian R1T.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Ta",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mrqi4xycx42p",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T22:40:17.681Z",
+        "score": 0,
+        "snippet": "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock Back to $10?\n\nhttps://www.evshift.com/499306/lucid-is-now-up-33-in-a-month-easily-beating-tesla-and",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): In the real world most charging is 400V. \n\n800V sounds great till you get the ac",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mrqg2euva22f",
+        "source": "bluesky",
+        "publishedAt": "2026-07-28T22:03:06.166Z",
+        "score": 2,
+        "snippet": "In the real world most charging is 400V. \n\n800V sounds great till you get the actual 120kw derated charging when plugged in to 400V\n\nThank you @travisketchum.bsky.social \n\nyoutu.be/9vjppWc0rtY?...",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Rivian R2 interior #rivianr2",
+        "url": "https://youtube.com/watch?v=Q86Ex5gt0yY",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T01:57:57Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Amazon Rivian Van: 652384",
+        "url": "https://youtube.com/watch?v=XjiBI-btcJo",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T00:35:54Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The @RivianRS1 tinted in @XPELinc CS carnon! #rivian #electrical #tint #xpel #car #carbon",
+        "url": "https://youtube.com/watch?v=rRlNsU-RuAs",
+        "source": "youtube",
+        "publishedAt": "2026-07-29T00:14:18Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
