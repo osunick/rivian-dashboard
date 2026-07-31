@@ -19,7 +19,7 @@ import DrillDown, { DrillDownItem } from '@/components/DrillDown';
 export const dynamic = 'force-dynamic';
 
 const THREAT_STYLES = {
-  high: { label: 'Critical', tone: 'bg-[#FDE8E6] text-[#B42318] border-[#F0A8A1]' },
+  high: { label: 'High', tone: 'bg-[#FDE8E6] text-[#B42318] border-[#F0A8A1]' },
   elevated: { label: 'Elevated', tone: 'bg-[#FFF5D6] text-[#8A5B00] border-[#E9C766]' },
   medium: { label: 'Monitoring', tone: 'bg-[#E8F0FF] text-[#0F5BD7] border-[#AFC8F6]' },
   low: { label: 'Clear', tone: 'bg-[#E6F6EF] text-[#087047] border-[#A8DCC4]' },

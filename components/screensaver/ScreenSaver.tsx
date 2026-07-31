@@ -38,7 +38,7 @@ interface ScreenSaverProps {
 }
 
 const threatCopy = {
-  high: 'Critical',
+  high: '',
   elevated: 'Elevated',
   medium: 'Monitoring',
   low: 'Clear',
