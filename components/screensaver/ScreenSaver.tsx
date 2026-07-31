@@ -169,9 +169,11 @@ export default function ScreenSaver({
           <div className="min-w-[18rem] border border-white/15 bg-black/30 px-5 py-3 text-right backdrop-blur-md">
             <div className="font-mono-num text-xs uppercase tracking-[0.2em] text-white/45">Last Scan</div>
             <div className="mt-2 text-2xl font-semibold text-white">{generatedAt}</div>
-            <div className={`mt-4 inline-flex border px-3 py-1 font-mono-num text-sm uppercase tracking-[0.16em] ${sentimentTone[threatLevel === 'low' ? 'positive' : threatLevel === 'medium' ? 'neutral' : 'negative']}`}>
-              {threatCopy[threatLevel]}
-            </div>
+            {threatLevel !== 'high' ? (
+              <div className={`mt-4 inline-flex border px-3 py-1 font-mono-num text-sm uppercase tracking-[0.16em] ${sentimentTone[threatLevel === 'low' ? 'positive' : threatLevel === 'medium' ? 'neutral' : 'negative']}`}>
+                {threatCopy[threatLevel]}
+              </div>
+            ) : null}
           </div>
         </header>
 

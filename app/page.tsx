@@ -563,9 +563,11 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
               <div className="flex flex-wrap items-center gap-2.5">
                 <span className="marvel-chip rounded-[3px] px-2 py-1 text-[12px] leading-none">GAMEFILM</span>
                 <span className="font-mono-num text-[10px] uppercase tracking-[0.28em] text-claude-muted">Strategic Intelligence Unit</span>
-                <span className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide ${threatStyle.tone}`}>
-                  {threatStyle.label}
-                </span>
+                {threatLevel !== 'high' ? (
+                  <span className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide ${threatStyle.tone}`}>
+                    {threatStyle.label}
+                  </span>
+                ) : null}
               </div>
               <h1 className="poster-mark mt-3 text-5xl text-claude-text sm:text-6xl">
                 EXECUTIVE <span className="text-claude-accent">BRIEF</span>
