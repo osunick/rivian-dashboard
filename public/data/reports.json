@@ -88079,5 +88079,537 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-01T02:03:13.605292Z",
+    "timestamp": "2026-08-01T02:03:13.605292Z",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 77,
+      "negative": 17
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 8,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "35 signals across Vehicles (20), Business (8); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, August 01, 2026 \u2014 2:03 AM PT \u2014 35 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 32 Rivian signals clustered around Vehicles (20), Business (8).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 6 negative signals; watch Vehicle Demand, Business, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 The 2026 Q2 @Rivian investor autonomy timeline is subject to change.\n  https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mrybq4p7wi2z\n*Demo & Test Drives (1)* \u2022 The journey begins for real today, picking up Rocky. There are a ton of menus to get through, so I have a few suggestions to make ...\n  https://youtube.com/watch?v=YL-WRrbMd-w\n*Vehicles (20)* \u2022 CD: R2 Review (TLDR: went further at higher speed than that other video...)\n  https://www.reddit.com/r/Rivian/comments/1vc8y9h/cd_r2_review_tldr_went_further_at_higher_speed/\n*Business (8)* \u2022 Stock Traders Buy Large Volume of Rivian Automotive Call Options (NASDAQ:RIVN) - MarketBeat\n  https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYk5YR0NZS2xoRzQ3eVBITnhyeUx5dGdERUZ1VmFBZjNCWGozdkdsZkxuaFFaVXFQUHFPUHNIMlFLNmx6aGhOV2FyS0tmV0hwdnIyNVM4Zk5EdU1LZVZkdFFqMDE1UTlnMDJ5akN5bE9TbFdvNjJXVWpLdllIZWpET0pzTWtFUXRkWG9LQ1NpSndKNGtSaUNzSEdKb1FwNk9kaGpnZEtzUk8wRUtmSDVWV2JOVjF3M3NaV0VZNnlsYzcyb0NnYVk1aQ?oc=5\n*Software (2)* \u2022 R1 Rivian Software Update 2026.23\n  https://www.reddit.com/r/Rivian/comments/1vc7jqv/r1_rivian_software_update_202623/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "CD: R2 Review (TLDR: went further at higher speed than that other video...)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vc8y9h/cd_r2_review_tldr_went_further_at_higher_speed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-01T00:55:11.438Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "CD: R2 Review (TLDR: went further at higher speed than that other video...)",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vc8ui4/cd_r2_review_tldr_went_further_at_higher_speed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-01T00:55:11.438Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "$661 for R1T Tire Alignment?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vc8m2f/661_for_r1t_tire_alignment/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-01T00:44:23.664Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1 Rivian Software Update 2026.23",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vc7jqv/r1_rivian_software_update_202623/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-31T23:58:33.045Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "They didn\u2019t need to kill Alexa.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vc7i1s/they_didnt_need_to_kill_alexa/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-31T23:56:23.754Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Gen 1 \u2014\u2014> Gen 2 R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vc7f5b/gen_1_gen_2_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-31T23:52:52.375Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Auto Lane Change",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vc6aw6/auto_lane_change/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-07-31T23:05:09.662Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "2025 Pre-owned R1S vs. R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vc846e/2025_preowned_r1s_vs_r2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-01T00:22:09.183Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Delivery Day - Setup Tips & First Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vc83k7/delivery_day_setup_tips_first_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-01T00:21:25.209Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Gaithersburg, MD service center demo drives",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vc76vd/gaithersburg_md_service_center_demo_drives/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-07-31T23:42:50.312Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Down 9.6% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3RyalJ5bjJCNGM0U3FYLW80dTZwTmxCWUVKd1RwT0cxcXBEdHo4TEVwN1hjRktHQVBuZmVEdE9ualdtX25KNkV6RUVncGFtUFg0RXFQODdfY1hxa052ZDJrS0c5X0RGcndSaElRdFUwX0hramt0eTd0b2ExNncwd1AzSFQ5YWszaWg5QWphVDdKU19wMjdKRXNybWhKY1FuLTB1cU16bG55bnZy?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 31 Jul 2026 21:54:32 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Down 9.6% - Here's Why - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian reported strong Q2 results, lifts guidance as R2 ramps up. - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaXMzX3A4Zml1TVRMd1p0LXpwVFlSQmhWamJZZjdBS3drVmp5N0MzMmlXSUtWSkhtbzZHWlZGTVJvRjBOMUdfYTZiQTA3WU41VGlta1ZOR294T3ptTkhycEQ4ZGdtSmV6RWFpM1cyTF9WODdWWUVDcHRGeTFncXlCYVlVMUM5RS1QQUstUjlmNUNWTG9JckJkSXVsRkp4RGl2NTJIWm85cnlTREZkSGxYRXJycmlKekdPaWdsYTFiMHpLR1Z4bWZkOWVTZ0RTaDg1eU1iYlFMR3FiR3A3cGNCQmhaUlJhNUZYdHprRU1BRjVkQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 31 Jul 2026 15:03:17 GMT",
+        "score": 0,
+        "snippet": "Rivian reported strong Q2 results, lifts guidance as R2 ramps up. - finance.yahoo.com",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Stock Traders Buy Large Volume of Rivian Automotive Call Options (NASDAQ:RIVN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYk5YR0NZS2xoRzQ3eVBITnhyeUx5dGdERUZ1VmFBZjNCWGozdkdsZkxuaFFaVXFQUHFPUHNIMlFLNmx6aGhOV2FyS0tmV0hwdnIyNVM4Zk5EdU1LZVZkdFFqMDE1UTlnMDJ5akN5bE9TbFdvNjJXVWpLdllIZWpET0pzTWtFUXRkWG9LQ1NpSndKNGtSaUNzSEdKb1FwNk9kaGpnZEtzUk8wRUtmSDVWV2JOVjF3M3NaV0VZNnlsYzcyb0NnYVk1aQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 31 Jul 2026 19:44:29 GMT",
+        "score": 0,
+        "snippet": "Stock Traders Buy Large Volume of Rivian Automotive Call Options (NASDAQ:RIVN) - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Q2 Earnings Call Highlights - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBpczl0cm51NDZzODQzdUo2RVZPNHVKdmN5dWc1dFpTMVhfeWV6MnBDaHpXNjZyWktmQTNlR1VXRXFyblJFeGVtdmtRZHY4TW5UMmJhSm45Z242TlBBUUJkU0xNRnBUWEZLZHdTcVozT05xVWFxZ3RTUnRXaE12dFV5Q0VWNDdUMlllWUNycjBFTVgtRWMwZ3U4WS1jTG5U?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 01 Aug 2026 01:02:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Q2 Earnings Call Highlights - finance.yahoo.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMS0yQUlvTEVVRzNBa2tJZTJOS0NpQzd6QnhYQndYaDNWTzNtOTJodDZvd3llZ01QWm9LcUpuYjI5VkVTbVM0UkpLMDZPTWFGNFJKUEx2YTA5Z1N3NG9oYXRac3UtZ1dWQ0dJRU1YSXRqdTVaZmZBV2I5ZGV2TWFTbzhzamVWSFdidi02aG5BcEdEWGotS0xITF9Dd0hYY0FqUmZDYnRXM19zTHY1OFc5WXczdFJ2ZS1qcWZtM19FcXhFMGR3STAtbGJtdWloM20zcWRnTElmemRoZS1xYW5la1BCSjJBS3dLQ3Nmei1aZVVIRFBJaTRuYl9aODBtY3ZiMjFTeEJtYWE4dUlfcVNFSGU0X0s0Zw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 31 Jul 2026 21:35:10 GMT",
+        "score": 0,
+        "snippet": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock - The Globe and Mail",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Price Expected to Rise, Morgan Stanley Analyst Says - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcTdvaGZqQTY3Zl8ya2MxQUR4dHVkYlFoVHNHUlJRdU9mYWRBRllqSzgwblh4VXNFcWZBc2Y1dDRwUWRsYXMyb3F0MjdYQnRVOG9DM1NRdjB0N2JkRVpwbXVOd2EyY25LNWczcTBMM0VBd2Z2RUYxaC1lUTlSVnZzR1VnX1o1dGZBVk9MdVJWVGNsSEVHRWltdG9kSFB6M3ZTa0liTEdfWnZfVUVZUFdHcWVpbTZHb0Fmdi1oc09jRmNzcXlYamRFY1loaUNjZW9HajJuWVpn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 31 Jul 2026 17:17:22 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Price Expected to Rise, Morgan Stanley Analyst Says - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN.US) reported second quarter revenue of $1.658 billion, exceeding the market expectation of $1.507 billion. - Bitget",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CZ01PZnBkM1VzVU9uZVl2aFV5dnhuWEprN1h5TVFheGpUWGU1QnN5R3dhTjZGdFhLT2g5eVRadW5aTlZIWU1OVXRsRGJzdmRfRm44U21TOWExNDdyMXByWHpoZzFOQzJEbWfSAWpBVV95cUxPQmdNT2ZwZDNVc1VPbmVZdmhVeXZ4blhKazdYeU1RYXhqVFhlNUJzeUd3YU42RnRYS09oOXlUWnVuWk5WSFlNTlV0bERic3ZkX0ZuOFNtUzlhMTQ3cjFwclh6aGcxTkMyRG1n?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 31 Jul 2026 14:54:18 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN.US) reported second quarter revenue of $1.658 billion, exceeding the market expectation of $1.507 billion. - Bitget",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian narrows its losses in Q2 as consolidated revenue jumps 27% YoY - WardsAuto",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUN0dTZKTHcxZnMzX0JTNDlMNFd2MVhfTC1tVjBlT19MNzNRSWpuY19qX3BUeFNPVnhNN2JVamtVVTI5OFJZcUpxVjlxenV5N0pSdmVMZ0ZSeFBnbFp5MUZ0VTlldEJYQ1N6ZlJUY2I0azJKQVdXYVhqMTFlMVlKYUdZY1dBZXM3djB6X2xROGpZYTE3X3NScTA4ZWpMLUh0RnU0ZWpNZlRoSFk?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 31 Jul 2026 21:27:53 GMT",
+        "score": 0,
+        "snippet": "Rivian narrows its losses in Q2 as consolidated revenue jumps 27% YoY - WardsAuto",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Rivian camp speaker put to use!",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mryegu2ygc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T01:56:01.867Z",
+        "score": 0,
+        "snippet": "Rivian camp speaker put to use!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gokawiil.com (Bluesky): Rivian's spin-off Also's move into e-bikes marks a strategic diversification, ta",
+        "url": "https://bsky.app/profile/did:plc:hamyv2adk766bvrjxi3jnc56/post/3mrybr23evy2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T01:07:32.176Z",
+        "score": 0,
+        "snippet": "Rivian's spin-off Also's move into e-bikes marks a strategic diversification, tapping into the growing e-mobility market. Supply chain hurdles delayed launches, but shipping now signals renewed moment",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): The 2026 Q2 @Rivian investor autonomy timeline is subject to change.",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mrybq4p7wi2z",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T01:07:03.571Z",
+        "score": 1,
+        "snippet": "The 2026 Q2 @Rivian investor autonomy timeline is subject to change.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian narrows its losses in Q2 as consolidated revenue jumps 27% YoY\n\nhttps://w",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mrya7xrvns2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T00:40:05.979Z",
+        "score": 0,
+        "snippet": "Rivian narrows its losses in Q2 as consolidated revenue jumps 27% YoY\n\nhttps://www.evshift.com/501286/rivian-narrows-its-losses-in-q2-as-consolidated-revenue-jumps-27-yoy/\n\nListen to the article 4 min",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): So much for everyone saying Rivian was ignoring R1 vehicles in favor of R2. If o",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mry7y2xbz22x",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T00:35:40.672Z",
+        "score": 0,
+        "snippet": "So much for everyone saying Rivian was ignoring R1 vehicles in favor of R2. If only we could get lame on command in Gen1.\n\nLots of Apple Music improvements that I'll only believe when I see them also.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mndonotpanic.bsky.social (Bluesky): Rivian spinoff Also to start delivering e-bikes after months of delays | Also be",
+        "url": "https://bsky.app/profile/did:plc:crkzgr2oz4hn46d7rg267dth/post/3mry7uc4ln22r",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T00:33:36.164Z",
+        "score": 1,
+        "snippet": "Rivian spinoff Also to start delivering e-bikes after months of delays | Also began as a skunkworks project inside Rivian in 2022, after CEO RJ Scaringe started looking into e-bike to complement his p",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ed3500.bsky.social (Bluesky): The Rivian is massive!",
+        "url": "https://bsky.app/profile/did:plc:qv3e5swzslbrnrl2ehhuxnme/post/3mry6t2onms2y",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T00:14:59.375Z",
+        "score": 0,
+        "snippet": "The Rivian is massive!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@peoriaconnected.bsky.social (Bluesky): Rivian to add second shift in Normal to boost R2 production",
+        "url": "https://bsky.app/profile/did:plc:ka5ll5mmwnag2oxkqoir65qw/post/3mry63wllaq23",
+        "source": "bluesky",
+        "publishedAt": "2026-08-01T00:02:03.070Z",
+        "score": 0,
+        "snippet": "Rivian to add second shift in Normal to boost R2 production",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@turtlesatwd.bsky.social (Bluesky): Both with Rivian and Also things work fine without the optional service. If you ",
+        "url": "https://bsky.app/profile/did:plc:ueozexyxjevyv7fz6jz3r6bv/post/3mry5vkej5s2m",
+        "source": "bluesky",
+        "publishedAt": "2026-07-31T23:58:29.168Z",
+        "score": 1,
+        "snippet": "Both with Rivian and Also things work fine without the optional service. If you want \u201cmore\u201d features  you can choose to pay more. For the bike it is for tracking for anti-theft. You can still connect ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian software 2026.23 details are here. Gen 2 R1T and R1S get Lane Change on C",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mry5mupqns2y",
+        "source": "bluesky",
+        "publishedAt": "2026-07-31T23:53:39.973Z",
+        "score": 10,
+        "snippet": "Rivian software 2026.23 details are here. Gen 2 R1T and R1S get Lane Change on Command on more than just freeways, and both Gen 1 and Gen 2 get Rivian Assistant memory, improved charger search, and th",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Ascend Quad Motor MO Nixa, Springfield, Ozark, Branson, Joplin",
+        "url": "https://youtube.com/watch?v=-cief9yISeo",
+        "source": "youtube",
+        "publishedAt": "2026-08-01T01:47:24Z",
+        "score": 0,
+        "snippet": "Pre-Owned 2026 Rivian R1T Ascend Quad Motor available at Modern Motorcars located in 1856 N Deffer Dr, Nixa, MO, 65714.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "4 cars, 6 years and still counting , We appreciate  a returning customer \u2764\ufe0f\u200d\ud83d\udd25",
+        "url": "https://youtube.com/watch?v=xo4K3jOHoAU",
+        "source": "youtube",
+        "publishedAt": "2026-08-01T00:30:13Z",
+        "score": 0,
+        "snippet": "We trearted this 2026 Rivian R1T with Xpel XR Black Series Ceramic Tint install. elevating this ride to the next level.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian RIVN Stock Prediction: Huge Crash or Time to Buy the Dip?",
+        "url": "https://youtube.com/watch?v=6YteOZzXP3I",
+        "source": "youtube",
+        "publishedAt": "2026-07-31T23:50:47Z",
+        "score": 0,
+        "snippet": "RIVN stock suffered a sharp 9.57% plunge to $15.22 following its latest Q2 financial results. Despite beating revenue expectations ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 Range Test: This Changed Everything!",
+        "url": "https://youtube.com/watch?v=KygUKJuTc4w",
+        "source": "youtube",
+        "publishedAt": "2026-07-31T23:30:17Z",
+        "score": 0,
+        "snippet": "The results of the Rivian R2 Range Test are shocking! The results are making me second guess my Rivian R2 reservation.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Delivery Day Setup Tips and First Drive",
+        "url": "https://youtube.com/watch?v=YL-WRrbMd-w",
+        "source": "youtube",
+        "publishedAt": "2026-07-31T23:28:00Z",
+        "score": 0,
+        "snippet": "The journey begins for real today, picking up Rocky. There are a ton of menus to get through, so I have a few suggestions to make ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian announces adding second shift got R2 production",
+        "url": "https://youtube.com/watch?v=eCxgqMkemD0",
+        "source": "youtube",
+        "publishedAt": "2026-07-31T22:29:40Z",
+        "score": 0,
+        "snippet": "Rivian announces adding second shift got R2 production.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian \uc2a4\ud540\uc624\ud504 Also, 4,500\ub2ec\ub7ec \uc804\uae30\uc790\uc804\uac70 \ub4dc\ub514\uc5b4 \ucd9c\ud558",
+        "url": "https://youtube.com/watch?v=vkYri4ceqWI",
+        "source": "youtube",
+        "publishedAt": "2026-07-31T22:15:27Z",
+        "score": 0,
+        "snippet": "Rivian\uc5d0\uc11c \ubd84\uc0ac\ud55c \uc2a4\ud0c0\ud2b8\uc5c5 Also\uac00 \ub2e4\uc74c \uc8fc\ubd80\ud130 \uc804\uae30\uc790\uc804\uac70 TM-B \ucd9c\ud558\ub97c \uc2dc\uc791\ud569\ub2c8\ub2e4. 4500\ub2ec\ub7ec \ub7f0\uce58 \uc5d0\ub514\uc158\uc740 8~9\uc6d4 \uc0ac\uc774 \uc778\ub3c4\uac00 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
