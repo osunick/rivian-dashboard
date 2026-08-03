@@ -90618,5 +90618,508 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-03T14:04:43.485206Z",
+    "timestamp": "2026-08-03T14:04:43.485206Z",
+    "sentiment": {
+      "positive": 31,
+      "neutral": 50,
+      "negative": 18
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 5,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "32 signals across Vehicles (20), Competitive (6); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, August 03, 2026 \u2014 2:04 PM PT \u2014 32 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 25 Rivian signals clustered around Vehicles (20), Business (5).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 6 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Competitive Threats:* Audio, AC, Fan vents, for anyone concerned.\n  https://www.reddit.com/r/RivianR2/comments/1ve4h8a/audio_ac_fan_vents_for_anyone_concerned/\n\u2022 *Competitive Threats:* Many wonder whether a merger is ahead\n  https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger\n\u2022 *Competitive Threats:* Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.\n  https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html\n\u2022 *Competitive Threats:* WeRide, like virtually all other Chinese robotaxi players, is leaning heavily on local partners for market access.. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/weride-expands-into-denmark-amid-rapid-european-push/\n\u2022 *Competitive Threats:* BYD is outperforming the higher end of its overseas growth targets, but local weakness means five million total cars sold in 2026 is unlikely. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/byd-sales-jump-in-july-but-full-year-2026-target-slips-away/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (20)* \u2022 R1 Gen 3 Wishlist items\n  https://www.reddit.com/r/Rivian/comments/1vedh5i/r1_gen_3_wishlist_items/\n*Business (5)* \u2022 Rivian Tesla rival trims spending plans despite revenue beat | RIVN - thestreet.com\n  https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzY0YVNjdEVRTExZbXdBUmx2ZmhScG5SZUo3RE9xSGJBc2EwREhWeVhSNlNhU0otTG1fNkhUOHk5NUs5cHBISUIzSFNTX3ZxYmtqdGw1VmR6SWQwakZET0FHUTFlZEoxa1VQbk9RZWd1c0NGNTV4VXZWdDl1WkhfbFNXUkItQ3JSdEc4ZGFTRC1yaWU4WVRYdkQtbWdYY2R5WWZF?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "UHF Edge Case-highway safety barriers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vedxss/uhf_edge_casehighway_safety_barriers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T13:47:30.037Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R1 Gen 3 Wishlist items",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vedh5i/r1_gen_3_wishlist_items/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T13:29:26.362Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T charging",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ve42hn/rivian_r1t_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T05:11:50.592Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Audio, AC, Fan vents, for anyone concerned.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ve4h8a/audio_ac_fan_vents_for_anyone_concerned/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-03T05:34:41.380Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "SpaceX Investors Want to Quiz Elon Musk About a Potential Tesla Merger",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger",
+        "source": "bloomberg_tech",
+        "publishedAt": "Mon, 03 Aug 2026 11:02:01 GMT",
+        "score": 0,
+        "snippet": "Many wonder whether a merger is ahead",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+        "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+        "source": "cnbc_top",
+        "publishedAt": "Mon, 03 Aug 2026 13:45:02 GMT",
+        "score": 0,
+        "snippet": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "WeRide expands into Denmark amid rapid European push",
+        "url": "https://www.automotiveworld.com/news/weride-expands-into-denmark-amid-rapid-european-push/",
+        "source": "automotive_world",
+        "publishedAt": "Mon, 03 Aug 2026 12:36:26 +0000",
+        "score": 0,
+        "snippet": "<p>WeRide, like virtually all other Chinese robotaxi players, is leaning heavily on local partners for market access.. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.com/news/",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD sales jump in July, but full-year 2026 target slips away",
+        "url": "https://www.automotiveworld.com/news/byd-sales-jump-in-july-but-full-year-2026-target-slips-away/",
+        "source": "automotive_world",
+        "publishedAt": "Mon, 03 Aug 2026 07:16:19 +0000",
+        "score": 0,
+        "snippet": "<p>BYD is outperforming the higher end of its overseas growth targets, but local weakness means five million total cars sold in 2026 is unlikely. By Stewart Burnett</p>\n<p>The post <a href=\"https://ww",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Tesla rival trims spending plans despite revenue beat | RIVN - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzY0YVNjdEVRTExZbXdBUmx2ZmhScG5SZUo3RE9xSGJBc2EwREhWeVhSNlNhU0otTG1fNkhUOHk5NUs5cHBISUIzSFNTX3ZxYmtqdGw1VmR6SWQwakZET0FHUTFlZEoxa1VQbk9RZWd1c0NGNTV4VXZWdDl1WkhfbFNXUkItQ3JSdEc4ZGFTRC1yaWU4WVRYdkQtbWdYY2R5WWZF?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 03 Aug 2026 13:41:53 GMT",
+        "score": 0,
+        "snippet": "Rivian Tesla rival trims spending plans despite revenue beat | RIVN - thestreet.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Stock Asks The Market\u2019s Price For Sales That Do Not Yet Pay - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRkdPNnBBZjdXNUdveEk3SVJ6N2FIMHB5VGZUalhUcjF3aFNoWUZxeFFleGVIay16WEpSbjZ4Ml9SbzY0c0VOdGJTMGJKZkpEbldOdjhMNTg5bWNCa2xRLTVwdG9IbGEzY1JqN0FkR1hTOThTOFozNmpsVk1vYXlRYXZhbDRhNEJJVHpRTTFXbjU3Y1Q5b2JtN0VuUDl0NUVPX050XzBjcHdCVlEzbFRZS1VGYl9VRUZra01NZ0JBbVNJMklvd1l3bVBYS2FDVEhSam1j?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 03 Aug 2026 13:24:39 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Stock Asks The Market\u2019s Price For Sales That Do Not Yet Pay - Trefis",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Faces Production Challenge as Strong Demand for New R2 SUV Tests Supply Chain - International Supermarket News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWlpV1hJRHNteENZaTVub24xT19RRHFqTzE4YkxSbXBKXzlxd1hHQTNZOTRPRzVyQ1dZeXRNNjVjSEtTYU9LbEl1a29GbFZRXzZlZVpsak0tY0JIR0huV2dQSWQ1eFMySXZjcmRTcjgxdlU1ZkZwMk81R1hRYVROTV9ZSFBZU3dURnllUmhOMDExVWwycTFHUHRmMTFLbUlUazd2LUR4MlBkcHpON1RLZUhYTk0wbW9PNkdXT2l3VEFxSTE3?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 03 Aug 2026 12:26:07 GMT",
+        "score": 0,
+        "snippet": "Rivian Faces Production Challenge as Strong Demand for New R2 SUV Tests Supply Chain - International Supermarket News",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Affordable R2 Is Fueling a New Race in the Electric Vehicle Industry - International Supermarket News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjhwZDN5dVpkeEFmeTNnS0cxWnRuYzFZT0ZCWmhWUVEwZ29BbkZvb25rZGZFaFFrWjVPdjlYNmVnSTZWdGlpNjRaTDl0SEtSRlNvZ3k0N2g0WlE1UWhSTXkzVjVjeDVjdjdYUTV4ZTZHWUNFTnR6M1FJbW42bVVPQlV0OXJmMTQ3b3FaZ05yeU5Wb1ZkQmVWdE5tMU1uX3h4OEdKaF82VzFZWE5rRUdCZnV3cVFic1Y0WkE?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 03 Aug 2026 12:28:22 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Affordable R2 Is Fueling a New Race in the Electric Vehicle Industry - International Supermarket News",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@crackedwindscreen.bsky.social (Bluesky): As long as Rivian hit certain criteria at set dates!",
+        "url": "https://bsky.app/profile/did:plc:veuqma4fngi64kiy7d232ego/post/3ms6kway6hk2d",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T13:07:30.070Z",
+        "score": 1,
+        "snippet": "As long as Rivian hit certain criteria at set dates!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@lmhinh.bsky.social (Bluesky): The big 3 are becoming irrelevant. Rivian is a US Auto company. If Aptera ever g",
+        "url": "https://bsky.app/profile/did:plc:beuafbzsl63t4seqots65ntz/post/3ms6kfetnxs2q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:58:03.067Z",
+        "score": 0,
+        "snippet": "The big 3 are becoming irrelevant. Rivian is a US Auto company. If Aptera ever gets to market, also a US company.\n\n(Lucid is becoming more Saudi owned each year)",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@pdolby.bsky.social (Bluesky): Husband drives a Rivian and loves it, no issues at all",
+        "url": "https://bsky.app/profile/did:plc:g6oj34adhtfml2phmbd27e6e/post/3ms6k72chjs2d",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:54:30.978Z",
+        "score": 1,
+        "snippet": "Husband drives a Rivian and loves it, no issues at all",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mkg.bsky.social (Bluesky): I\u2019m a fan, but the option would be nice. \ud83d\ude0a \n\nRivian needs to show a path to prof",
+        "url": "https://bsky.app/profile/did:plc:5khbqn76lpb7dr7kpmyxna5s/post/3ms6jxriyps2c",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:50:27.467Z",
+        "score": 0,
+        "snippet": "I\u2019m a fan, but the option would be nice. \ud83d\ude0a \n\nRivian needs to show a path to profit. The R2 numbers will hopefully be huge. \n\nLucid I fear for because of their funding sources. They can dry up in the b",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@pepperoni-dogfart.bsky.social (Bluesky): Well Rivian and Lucid are both completely American so it would be hard to protec",
+        "url": "https://bsky.app/profile/did:plc:sjn7ysbufsdxg7ueedw5z5cz/post/3ms6jmcear22w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:43:59.765Z",
+        "score": 1,
+        "snippet": "Well Rivian and Lucid are both completely American so it would be hard to protectionism them out of the market. Lucid makes amazing cars but their quality is having a minute. Rivian I like, the R2 wil",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@srichgtr.bsky.social (Bluesky): Dunno but Rivian is kind of cool and their cars are at least distinctive. Not su",
+        "url": "https://bsky.app/profile/did:plc:m6ftouun7wzjjxdjsyqw7yyf/post/3ms6jf4uvhc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:40:02.564Z",
+        "score": 2,
+        "snippet": "Dunno but Rivian is kind of cool and their cars are at least distinctive. Not sure about the reliability. I know Lucid have had issues as that Youtube engineering chap had one and they had to buy it b",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@crackedwindscreen.bsky.social (Bluesky): Yeah, this is how a viable company runs....\n\nEven with \u00a2308 million in revenue j",
+        "url": "https://bsky.app/profile/did:plc:veuqma4fngi64kiy7d232ego/post/3ms6j6krsrs2j",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:36:25.366Z",
+        "score": 3,
+        "snippet": "Yeah, this is how a viable company runs....\n\nEven with \u00a2308 million in revenue just from VW, its at a loss of $837M, without it they would've beaten same time last year which was -$1.143 billion. \n\nHo",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@lmhinh.bsky.social (Bluesky): Rivian HQ is in SoCal, even if they\u2019re plant is in Indiana.",
+        "url": "https://bsky.app/profile/did:plc:beuafbzsl63t4seqots65ntz/post/3ms6j6bultc2q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:36:11.766Z",
+        "score": 0,
+        "snippet": "Rivian HQ is in SoCal, even if they\u2019re plant is in Indiana.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mkg.bsky.social (Bluesky): I have huge hopes for companies like Slate, even Rivian and Lucid. I just hope t",
+        "url": "https://bsky.app/profile/did:plc:5khbqn76lpb7dr7kpmyxna5s/post/3ms6j462x4k2c",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:35:00.566Z",
+        "score": 0,
+        "snippet": "I have huge hopes for companies like Slate, even Rivian and Lucid. I just hope the people \u201cin charge\u201d don\u2019t decide to Polestar them.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@profchildermass.bsky.social (Bluesky): Really hope Rivian succeeds, and if do it will be because of the R2. They've got",
+        "url": "https://bsky.app/profile/did:plc:pkismkbiuishuxj3uppwowkm/post/3ms6ijc6aik2q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T12:24:27.171Z",
+        "score": 0,
+        "snippet": "Really hope Rivian succeeds, and if do it will be because of the R2. They've gotten the cost way down, and made a smaller SUV. They're also all in on autonomous driving, although you'll have to wait f",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S Miniature ASMR Unboxing | Ultra Realistic Diecast SUV in 4K #shorts",
+        "url": "https://youtube.com/watch?v=VR5ScDWcu9w",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T13:33:34Z",
+        "score": 0,
+        "snippet": "Discover the incredible details of a Rivian R1S die-cast miniature in this ultra-realistic ASMR unboxing experience. From opening ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Spinoff Also to Deliver E-Bikes #Shorts",
+        "url": "https://youtube.com/watch?v=s7iM8VJzlfA",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T13:09:01Z",
+        "score": 0,
+        "snippet": "Breakthrough or Overhyped? Also, a Rivian spinoff, is set to deliver e-bikes after months of delays. The company plans to make ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Drops 10% Amid Production Worries",
+        "url": "https://youtube.com/watch?v=17Sf1zbqyqQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T12:45:48Z",
+        "score": 0,
+        "snippet": "Rivian's EV hype meets reality as production challenges and cash burn spook investors. #stocks #investing #shorts #stocksbrew.",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 Full Send Until The Tires Explode! This Is The Most Fun EV I\u2019ve Driven",
+        "url": "https://youtube.com/watch?v=bMxVKOSwTcI",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T12:07:04Z",
+        "score": 0,
+        "snippet": "Kyle, Tijmen, and Jose from @riviantrackr take a Rivian R2 Performance to the Out of Spec Track, put Rally Mode to the test, and ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1X #automobile #luxurycarshub #edit #exclusiveluxury #needforspeed #bestluxury",
+        "url": "https://youtube.com/watch?v=q9o2wTlv0yY",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T11:52:24Z",
+        "score": 0,
+        "snippet": "Rivian R1X #automobile #luxurycarshub #edit #exclusiveluxury #needforspeed #bestluxury.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1X  #automobile #luxurycarshub #edit #exclusiveluxury #needforspeed #bestluxury",
+        "url": "https://youtube.com/watch?v=dGrvlC0DRAg",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T11:50:00Z",
+        "score": 0,
+        "snippet": "Rivian R1X #automobile #luxurycarshub #edit #exclusiveluxury #needforspeed #bestluxury Welcome to Royal Auto City.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1X  #luxurycarshub #exclusiveluxury #needforspeed #bestluxury #cartok #compactluxury #luxury",
+        "url": "https://youtube.com/watch?v=zMrvgAhrgfk",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T11:51:10Z",
+        "score": 0,
+        "snippet": "Rivian R1X #automobile #luxurycarshub #edit #exclusiveluxury #needforspeed #bestluxury Welcome to Royal Auto City.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Board Deck in an Hour | Rivian style!",
+        "url": "https://youtube.com/watch?v=H_anxKEMPWA",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T11:45:24Z",
+        "score": 0,
+        "snippet": "A board deck in one hour. That same deck would normally take me 3\u20134 days. I gave my Codex agent: \u2022 A product plan \u2022 Financial ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "#Rivian #R2 Day/Night Challenge, in 6am darkness ,does it hoot or chirp? #nextcar #soulelectrified",
+        "url": "https://youtube.com/watch?v=TygyH5PSZYA",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T10:22:34Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83d\udcde 3\ufe0f\u20e38\ufe0f\u20e30\ufe0f\u20e39\ufe0f\u20e35\ufe0f\u20e36\ufe0f\u20e31\ufe0f\u20e30\ufe0f\u20e33\ufe0f\u20e33\ufe0f\u20e30\ufe0f\u20e31\ufe0f\u20e3 #\u0430\u0432\u0442\u043e\u0437\u0441\u0448\u0430 #\u0432\u0441\u0435\u0430\u0432\u0442\u043e",
+        "url": "https://youtube.com/watch?v=9izJHfQoRxs",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T10:08:58Z",
+        "score": 0,
+        "snippet": "3\ufe0f\u20e38\ufe0f\u20e30\ufe0f\u20e39\ufe0f\u20e35\ufe0f\u20e36\ufe0f\u20e31\ufe0f\u20e30\ufe0f\u20e33\ufe0f\u20e33\ufe0f\u20e30\ufe0f\u20e31\ufe0f\u20e3 - \u041c\u0430\u043a\u0441\u0438\u043c #Rivian #RivianR1T #RivianR1S #ElectricTruck ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
