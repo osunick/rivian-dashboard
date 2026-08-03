@@ -91121,5 +91121,337 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-03T18:05:34.484516Z",
+    "timestamp": "2026-08-03T18:05:34.484516Z",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 90,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_chinese": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (14), Community (3); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, August 03, 2026 \u2014 6:05 PM PT \u2014 20 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (14), Community (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Community Signals, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* BYD Shines While Nio, Li Auto, and XPeng Stocks Fall on Mixed July Deliveries - TipRanks\n  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWJjb3puS29SaTVubXdyd2RvOWRBTzZBRWtMUWxZWWNkZEtmLXNrcUNPbEE3c25ZM3lidW1icDZ0OURNSXBnRFUxdGNjejNNTWpLUFdNcTk0a0k4OGJLWDlKVlM0MGJtOTZLMm1LdFd1WDZkdTVqWWNQdkVqVGstbUJURlN3aXprc0d0NnBXY2MtRnFyTUVvMzV2UmkxeHNtS3Vob3lyZEw?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (14)* \u2022 Carmax Rivian and MaxCare?\n  https://www.reddit.com/r/Rivian/comments/1vej5o7/carmax_rivian_and_maxcare/\n*Business (1)* \u2022 Rivian posted $1.658B in Q2 revenue \u2014 a 27% jump \u2014 alongside its first meaningful gross profit, representing a $385M swing from a year ago.\n  https://bsky.app/profile/did:plc:iipowqhztticiguaxkwgtiwt/post/3ms73bnfijo26\n*Software (0)* \u2022 No signals\n*Community (3)* \u2022 youtube.com/shorts/ZjGpy...\n  https://bsky.app/profile/did:plc:czx5rc6a3vrjp5sjvp7v5kpe/post/3ms6yak4jvk25\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Carmax Rivian and MaxCare?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vej5o7/carmax_rivian_and_maxcare/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T16:58:08.695Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is my truck a lemon?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1veid8y/is_my_truck_a_lemon/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T16:29:53.406Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "UHF development velocity",
+        "url": "https://www.reddit.com/r/Rivian/comments/1veh1cg/uhf_development_velocity/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T15:42:35.715Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "What sensor does Rivian use to tell your hands are full?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vefjuh/what_sensor_does_rivian_use_to_tell_your_hands/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T14:48:13.757Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rate my R2 wrap idea",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vefahg/rate_my_r2_wrap_idea/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T14:38:27.966Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Tested: This One Is for the Masses",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1veel2l/2027_rivian_r2_tested_this_one_is_for_the_masses/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-08-03T14:12:18.498Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "BYD Shines While Nio, Li Auto, and XPeng Stocks Fall on Mixed July Deliveries - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWJjb3puS29SaTVubXdyd2RvOWRBTzZBRWtMUWxZWWNkZEtmLXNrcUNPbEE3c25ZM3lidW1icDZ0OURNSXBnRFUxdGNjejNNTWpLUFdNcTk0a0k4OGJLWDlKVlM0MGJtOTZLMm1LdFd1WDZkdTVqWWNQdkVqVGstbUJURlN3aXprc0d0NnBXY2MtRnFyTUVvMzV2UmkxeHNtS3Vob3lyZEw?oc=5",
+        "source": "google_news_chinese",
+        "publishedAt": "Mon, 03 Aug 2026 11:17:17 GMT",
+        "score": 0,
+        "snippet": "BYD Shines While Nio, Li Auto, and XPeng Stocks Fall on Mixed July Deliveries - TipRanks",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@ownfeed.bsky.social (Bluesky): Rivian posted $1.658B in Q2 revenue \u2014 a 27% jump \u2014 alongside its first meaningfu",
+        "url": "https://bsky.app/profile/did:plc:iipowqhztticiguaxkwgtiwt/post/3ms73bnfijo26",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T18:00:11.775Z",
+        "score": 0,
+        "snippet": "Rivian posted $1.658B in Q2 revenue \u2014 a 27% jump \u2014 alongside its first meaningful gross profit, representing a $385M swing from a year ago.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@carltonliam96.bsky.social (Bluesky): youtube.com/shorts/ZjGpy...",
+        "url": "https://bsky.app/profile/did:plc:czx5rc6a3vrjp5sjvp7v5kpe/post/3ms6yak4jvk25",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T17:06:09.765Z",
+        "score": 0,
+        "snippet": "youtube.com/shorts/ZjGpy...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): \ud83d\udea8  Rivian Pre-Owned Sales:  Texas \ud83d\udea8 \n\nYou can now buy pre-owned vehicles from Ri",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3ms6xj2kss22k",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T16:52:45.473Z",
+        "score": 0,
+        "snippet": "\ud83d\udea8  Rivian Pre-Owned Sales:  Texas \ud83d\udea8 \n\nYou can now buy pre-owned vehicles from Rivian in the state of Texas!\n\nPre-Owned Inventory:  rivian.com/configuratio...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@andytseng.bsky.social (Bluesky): Yep I've been looking into EV as well, and definitely big no to Tesla. Also like",
+        "url": "https://bsky.app/profile/did:plc:6rhn23d2ltm3juc5m3xqcu2w/post/3ms6vjvnutc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T16:17:26.267Z",
+        "score": 1,
+        "snippet": "Yep I've been looking into EV as well, and definitely big no to Tesla. Also like the retro look of Rivian as well.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3ms6v62uds72v",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T16:10:48.670Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@smartdeels.bsky.social (Bluesky): NYC's Eric Adams might just trade his mayoral car for an e-bike, who's next? #eb",
+        "url": "https://bsky.app/profile/did:plc:zfcl7uxckfeqk2ijtxymknab/post/3ms6uodb6gx23",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T16:02:01.468Z",
+        "score": 0,
+        "snippet": "NYC's Eric Adams might just trade his mayoral car for an e-bike, who's next? #ebikes #sustainability",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): 2027 Rivian R2 Tested: This One Is for the Masses\n\nhttps://www.evshift.com/50262",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3ms6sdrzvow2j",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T15:20:20.167Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2 Tested: This One Is for the Masses\n\nhttps://www.evshift.com/502622/2027-rivian-r2-tested-this-one-is-for-the-masses/\n\n2027 Rivian R2 Tested: This One Is for the Masses by DonkeyFuel",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cojo21.bsky.social (Bluesky): He\u2019s terrible.  I was once a supporter but dropped all that support and now acti",
+        "url": "https://bsky.app/profile/did:plc:xy6cjes2jfshoe4e7bq5evaa/post/3ms6qswe3yk2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T14:53:00.870Z",
+        "score": 2,
+        "snippet": "He\u2019s terrible.  I was once a supporter but dropped all that support and now actively recommend all other products (hello Rivian!)\n\nHe\u2019s been bad for a long time, but the salute was just jaw-dropping f",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pierde 3% de bater\u00eda al d\u00eda estando estacionada \ud83d\ude06\u2026",
+        "url": "https://youtube.com/watch?v=TCTuYfc68Q4",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T17:39:02Z",
+        "score": 0,
+        "snippet": "Dicen que una Rivian pierde m\u00ednimo un 3% de bater\u00eda al d\u00eda estando estacionada \u2026 #Rivian #AutosElectricos ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 and Tesla Model Y Real-World Energy Consumption #tesla #modely #rivian #r2 #efficiency",
+        "url": "https://youtube.com/watch?v=1Ui0qlhsLG0",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T17:30:20Z",
+        "score": 0,
+        "snippet": "Real-world testing reveals the Tesla Model Y still has a significant efficiency advantage over the Rivian R2, even though both ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u274c VS \u2705 \u2014 RIVIAN \ud83d\udd11\ud83d\ude31",
+        "url": "https://youtube.com/watch?v=iGzFYK5CmF8",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T17:22:25Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why Rivian might be the first major EV maker to fail \ud83d\ude97",
+        "url": "https://youtube.com/watch?v=a7JmPRHJhw4",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T16:00:35Z",
+        "score": 0,
+        "snippet": "This EV brand could go bankrupt #EV #Rivian #ElectricCars #CarNews #Automotive #Shorts.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S Suspension Suddenly Collapsed Overnight \ud83d\ude31",
+        "url": "https://youtube.com/watch?v=8CXm-NwuUtY",
+        "source": "youtube",
+        "publishedAt": "2026-08-03T14:23:22Z",
+        "score": 0,
+        "snippet": "This 2023 Rivian R1S came in with a strange air suspension problem. Was it caused by the summer heat, or is it going to cost a lot ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
