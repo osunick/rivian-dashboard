@@ -297,7 +297,8 @@ def build_report(target: date, items):
         }
         for key in pipeline.CATEGORY_ORDER
     }
-    full_report = pipeline.compose_brief_llm(items, sentiment, ts) or pipeline.compose_brief(items, sentiment, ts)
+    compose_llm = getattr(pipeline, "compose_brief_llm", None)
+    full_report = (compose_llm(items, sentiment, ts) if compose_llm else None) or pipeline.compose_brief(items, sentiment, ts)
     return {
         "id": ts,
         "timestamp": ts,
