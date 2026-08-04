@@ -91865,5 +91865,264 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-04T02:04:32.656338Z",
+    "timestamp": "2026-08-04T02:04:32.656338Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 85,
+      "negative": 14
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (5), Other (3); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, August 04, 2026 \u2014 2:04 AM PT \u2014 14 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 9 Rivian signals clustered around Vehicles (5), Demo & Test Drives (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Rivian Mentions, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Looking to switch from Tesla\n  https://www.reddit.com/r/Rivian/comments/1vetscj/looking_to_switch_from_tesla/\n\u2022 *Competitive Threats:* Tesla Full Self-Driving insurance program with heavy discount expands - Teslarati\n  https://news.google.com/rss/articles/CBMilgFBVV95cUxQVENnZ2haOGJrS0lFZFZrbkJYY1NPa3RjR0pEcXYzcU53UERadkFlV3I4NGM2dThnWWFMVXhIT0hQcTcyeE9RY0ZnV3JZcjJNc2tKQkJzbnRsS0hHbGlpd21YZFVKUFJORHJURzJoRkY2c183ckVVa213SXhZS3lFS2lWWk9ybVdCRDZyS0xCdHZtamh2elE?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 Just finished my R2 demo drive in SF\u2026 I think I\u2019m sold \ud83d\ude05 First-time car & EV buyer though\n  https://www.reddit.com/r/RivianR2/comments/1veokhd/just_finished_my_r2_demo_drive_in_sf_i_think_im/\n*Vehicles (5)* \u2022 12v battery swap cost right before trading in for R2...ugh\n  https://www.reddit.com/r/Rivian/comments/1vetfvr/12v_battery_swap_cost_right_before_trading_in_for/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Ok but what I really really want is a cheap electric version of my 4wd 2-door 2002 Toyota Tacoma. To back up my Rivian R1S carrying boats, messy loads, etc. Preferably before my old taco is no longer\n  https://bsky.app/profile/did:plc:7l2inobmjf2wbdmx4m5xb6uk/post/3ms7snmjtik2a\n*Community (1)* \u2022 Well, the US might at least get this? www.caranddriver.com/telo/mt1\n  https://bsky.app/profile/did:plc:w2nw52yygxzjzsj4wlx5ti3m/post/3ms7l46g7hc2n\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Camera issue",
+        "url": "https://www.reddit.com/r/Rivian/comments/1veuoxy/camera_issue/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-04T00:17:12.195Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Looking to switch from Tesla",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vetscj/looking_to_switch_from_tesla/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T23:38:58.430Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lease Deals Pretty Bad Right Now",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vetnma/lease_deals_pretty_bad_right_now/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T23:33:20.467Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "12v battery swap cost right before trading in for R2...ugh",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vetfvr/12v_battery_swap_cost_right_before_trading_in_for/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T23:24:01.970Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Mobile Service tending to a Demo R2 at Rivian Space Chicago",
+        "url": "https://www.reddit.com/r/Rivian/comments/1verqe5/mobile_service_tending_to_a_demo_r2_at_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-03T22:13:25.515Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How are cup holders holding up?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vepr1x/how_are_cup_holders_holding_up/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-03T20:57:22.126Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Just finished my R2 demo drive in SF\u2026 I think I\u2019m sold \ud83d\ude05 First-time car & EV buyer though",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1veokhd/just_finished_my_r2_demo_drive_in_sf_i_think_im/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-03T20:13:26.497Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Test drove R2 yesterday ,  was not super impressed",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1venl6i/test_drove_r2_yesterday_was_not_super_impressed/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-03T19:37:33.097Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Will Let You Drift Like Chris Harris Until the Tires Blow Up - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwam1nOWtMV0cxV09rU2lrb045QTR2WU01SVhqbWJ1cVRRVWVYUWcwRm9Vek00TUg4OXFSb0ZjYW1RaXhDX3pwUGYyNmlJQWkxMUFaZ2VEby1veTdlZnpJVXhRZTBJM25yUjhuTmg2bFdmdw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 03 Aug 2026 21:06:00 GMT",
+        "score": 0,
+        "snippet": "The Rivian R2 Will Let You Drift Like Chris Harris Until the Tires Blow Up - InsideEVs",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Full Self-Driving insurance program with heavy discount expands - Teslarati",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVENnZ2haOGJrS0lFZFZrbkJYY1NPa3RjR0pEcXYzcU53UERadkFlV3I4NGM2dThnWWFMVXhIT0hQcTcyeE9RY0ZnV3JZcjJNc2tKQkJzbnRsS0hHbGlpd21YZFVKUFJORHJURzJoRkY2c183ckVVa213SXhZS3lFS2lWWk9ybVdCRDZyS0xCdHZtamh2elE?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Mon, 03 Aug 2026 20:38:03 GMT",
+        "score": 0,
+        "snippet": "Tesla Full Self-Driving insurance program with heavy discount expands - Teslarati",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): This is an *actual* game changer EV\n\nKia sold more than 2x as many EV3 last year",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3ms7ubwdg7227",
+        "source": "bluesky",
+        "publishedAt": "2026-08-04T01:27:44.768Z",
+        "score": 0,
+        "snippet": "This is an *actual* game changer EV\n\nKia sold more than 2x as many EV3 last year as Rivian did\u2026 everything.\n\nActual affordable, innovative EVs are the real game changers.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@wildcat-russell.bsky.social (Bluesky): Ok but what I really really want is a cheap electric version of my 4wd 2-door 20",
+        "url": "https://bsky.app/profile/did:plc:7l2inobmjf2wbdmx4m5xb6uk/post/3ms7snmjtik2a",
+        "source": "bluesky",
+        "publishedAt": "2026-08-04T00:58:29.371Z",
+        "score": 3,
+        "snippet": "Ok but what I really really want is a cheap electric version of my 4wd 2-door 2002 Toyota Tacoma. To back up my Rivian R1S carrying boats, messy loads, etc. Preferably before my old taco is no longer ",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian\u2019s Also E-Bike Kicks Off Deliveries Soon\n\nhttps://www.evshift.com/502904/r",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3ms7rmx3pcg22",
+        "source": "bluesky",
+        "publishedAt": "2026-08-04T00:40:12.768Z",
+        "score": 0,
+        "snippet": "Rivian\u2019s Also E-Bike Kicks Off Deliveries Soon\n\nhttps://www.evshift.com/502904/rivians-also-e-bike-kicks-off-deliveries-soon/\n\nRivian spinoff company Also is set to deliver its first e-bikes this week",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@superturbo.bsky.social (Bluesky): Well, the US might at least get this?\n\nwww.caranddriver.com/telo/mt1",
+        "url": "https://bsky.app/profile/did:plc:w2nw52yygxzjzsj4wlx5ti3m/post/3ms7l46g7hc2n",
+        "source": "bluesky",
+        "publishedAt": "2026-08-03T22:43:26.468Z",
+        "score": 0,
+        "snippet": "Well, the US might at least get this?\n\nwww.caranddriver.com/telo/mt1",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
