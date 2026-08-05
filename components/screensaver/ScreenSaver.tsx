@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { ComponentPropsWithoutRef, ElementType, ReactNode, createElement, useEffect, useRef, useState } from 'react';
 
 export interface AmbientSignal {
   title: string;
@@ -55,6 +55,7 @@ type PreviewState =
   | { status: 'image'; imageUrl: string };
 
 const previewCache = new Map<string, PreviewState>();
+const overflowSummaryCache = new Map<string, string>();
 
 function parseYouTubeId(url: string) {
   try {
@@ -79,6 +80,20 @@ function firstSentence(value: string) {
   const normalized = value.replace(/\s+/g, ' ').trim();
   const match = normalized.match(/^(.{80,220}?[.!?])\s/);
   return match?.[1] ?? normalized.slice(0, 220);
+}
+
+function localFallbackSummary(text: string, maxChars: number) {
+  const normalized = text.replace(/\s+/g, ' ').trim();
+  if (normalized.length <= maxChars) return normalized;
+
+  const sentences = normalized
+    .split(/(?<=[.!?])\s+/)
+    .filter(Boolean);
+  const sentence = sentences.find(item => item.length <= maxChars && item.length >= Math.min(44, maxChars));
+  if (sentence) return sentence;
+
+  const clipped = normalized.slice(0, Math.max(24, maxChars - 3)).trim();
+  return `${clipped.replace(/[,\s;:.-]+$/, '')}...`;
 }
 
 function signalReadout(signal: AmbientSignal) {
@@ -142,6 +157,7 @@ export default function ScreenSaver({
   const latestTrendTotal = trend[trend.length - 1]?.total ?? 0;
   const maxTrendTotal = Math.max(...trend.map(point => point.total), 1);
   const [activeSignalIndex, setActiveSignalIndex] = useState(0);
+  const [localClock, setLocalClock] = useState('');
 
   useEffect(() => {
     if (featured.length <= 1) return;
@@ -152,6 +168,24 @@ export default function ScreenSaver({
 
     return () => window.clearInterval(interval);
   }, [featured.length]);
+
+  useEffect(() => {
+    const updateClock = () => {
+      const now = new Date();
+      setLocalClock(now.toLocaleString(undefined, {
+        weekday: 'short',
+        month: 'short',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        second: '2-digit',
+      }));
+    };
+
+    updateClock();
+    const interval = window.setInterval(updateClock, 1000);
+    return () => window.clearInterval(interval);
+  }, []);
 
   return (
     <main className="ambient-screen h-screen overflow-hidden bg-[#05070b] text-white">
@@ -166,21 +200,39 @@ export default function ScreenSaver({
               Rivian Watch
             </h1>
           </div>
-          <div className="min-w-[18rem] border border-white/15 bg-black/30 px-5 py-3 text-right backdrop-blur-md">
-            <div className="font-mono-num text-xs uppercase tracking-[0.2em] text-white/45">Last Scan</div>
-            <div className="mt-2 text-2xl font-semibold text-white">{generatedAt}</div>
-            {threatLevel !== 'high' ? (
-              <div className={`mt-4 inline-flex border px-3 py-1 font-mono-num text-sm uppercase tracking-[0.16em] ${sentimentTone[threatLevel === 'low' ? 'positive' : threatLevel === 'medium' ? 'neutral' : 'negative']}`}>
-                {threatCopy[threatLevel]}
-              </div>
-            ) : null}
+          <div className="grid min-w-[18rem] grid-cols-2 border border-white/15 bg-black/30 text-right backdrop-blur-md">
+            <div className="border-r border-white/10 px-5 py-3">
+              <div className="font-mono-num text-xs uppercase tracking-[0.2em] text-white/45">Local Time</div>
+              <OverflowSummaryText
+                as="div"
+                text={localClock || 'Resolving time'}
+                context="clock"
+                maxChars={42}
+                className="mt-2 text-2xl font-semibold text-white"
+              />
+            </div>
+            <div className="px-5 py-3">
+              <div className="font-mono-num text-xs uppercase tracking-[0.2em] text-white/45">Last Scan</div>
+              <OverflowSummaryText
+                as="div"
+                text={generatedAt}
+                context="scan timestamp"
+                maxChars={36}
+                className="mt-2 text-2xl font-semibold text-white"
+              />
+              {threatLevel !== 'high' ? (
+                <div className={`mt-4 inline-flex border px-3 py-1 font-mono-num text-sm uppercase tracking-[0.16em] ${sentimentTone[threatLevel === 'low' ? 'positive' : threatLevel === 'medium' ? 'neutral' : 'negative']}`}>
+                  {threatCopy[threatLevel]}
+                </div>
+              ) : null}
+            </div>
           </div>
         </header>
 
-        <div className="grid min-h-0 grid-cols-[1.18fr_0.82fr] gap-7 py-6">
-          <section className="relative min-h-0 overflow-hidden border border-white/12 bg-white/[0.035] p-6 shadow-2xl shadow-black/40 backdrop-blur-md">
+        <div className="ambient-content-grid grid min-h-0 grid-cols-[1.18fr_0.82fr] gap-7 py-6">
+          <section className="ambient-primary-panel relative min-h-0 overflow-hidden border border-white/12 bg-white/[0.035] p-6 shadow-2xl shadow-black/40 backdrop-blur-md">
             <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-[#70e4ff] to-transparent" />
-            <div className="flex items-center justify-between gap-5">
+            <div className="ambient-panel-header flex items-center justify-between gap-5">
               <div className="font-mono-num text-sm uppercase tracking-[0.24em] text-white/50">Seven Day Intelligence Loop</div>
               <div className="font-mono-num text-sm text-white/55">{totalSignals} signals</div>
             </div>
@@ -192,7 +244,7 @@ export default function ScreenSaver({
                   className={`signal-slide grid min-h-0 grid-cols-[minmax(0,1fr)_minmax(22rem,0.46fr)] gap-7 ${index === activeSignalIndex ? 'is-active' : ''}`}
                 >
                   <div className="min-w-0">
-                    <div className="flex items-center gap-3">
+                    <div className="flex flex-wrap items-center gap-3">
                       <span className={`border px-3 py-1 font-mono-num text-xs uppercase tracking-[0.18em] ${sentimentTone[signal.sentiment]}`}>
                         {signal.sentiment}
                       </span>
@@ -202,21 +254,31 @@ export default function ScreenSaver({
                       <span className="font-mono-num text-sm text-white/40">{formatSignalDate(signal.publishedAt)}</span>
                     </div>
                     <h2 className="mt-5 max-w-[22ch] text-[clamp(2rem,3vw,4.1rem)] font-black uppercase leading-[0.92] tracking-normal text-white">
-                      <a
+                      <OverflowSummaryText
+                        as="a"
+                        text={signal.title}
+                        context="signal headline"
+                        maxChars={58}
                         href={signal.url}
                         target="_blank"
                         rel="noreferrer"
-                        className="transition-colors hover:text-[#70e4ff] focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
-                      >
-                        {signal.title}
-                      </a>
+                        className="block transition-colors hover:text-[#70e4ff] focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
+                      />
                     </h2>
-                    <p className="mt-6 max-w-5xl text-[clamp(1.45rem,1.85vw,2.45rem)] font-semibold leading-[1.06] text-white/84">
-                      {signalReadout(signal)}
-                    </p>
-                    <p className="mt-5 max-w-4xl border-l-2 border-[#70e4ff]/55 pl-5 text-[clamp(1rem,1.1vw,1.25rem)] leading-snug text-white/62">
-                      {signalContext(signal)}
-                    </p>
+                    <OverflowSummaryText
+                      as="p"
+                      text={signalReadout(signal)}
+                      context="signal readout"
+                      maxChars={145}
+                      className="mt-6 max-w-5xl text-[clamp(1.45rem,1.85vw,2.45rem)] font-semibold leading-[1.06] text-white/84"
+                    />
+                    <OverflowSummaryText
+                      as="p"
+                      text={signalContext(signal)}
+                      context="signal context"
+                      maxChars={105}
+                      className="mt-5 max-w-4xl border-l-2 border-[#70e4ff]/55 pl-5 text-[clamp(1rem,1.1vw,1.25rem)] leading-snug text-white/62"
+                    />
                     <div className="mt-6 flex flex-wrap gap-3">
                       <a
                         href={signal.url}
@@ -227,9 +289,14 @@ export default function ScreenSaver({
                         {signal.source}
                       </a>
                       {signal.themes.map(theme => (
-                        <span key={theme} className="border border-[#70e4ff]/25 bg-[#70e4ff]/10 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-[#b8f4ff]">
-                          {theme}
-                        </span>
+                        <OverflowSummaryText
+                          key={theme}
+                          as="span"
+                          text={theme}
+                          context="theme label"
+                          maxChars={22}
+                          className="border border-[#70e4ff]/25 bg-[#70e4ff]/10 px-4 py-2 font-mono-num text-sm uppercase tracking-[0.16em] text-[#b8f4ff]"
+                        />
                       ))}
                     </div>
                   </div>
@@ -242,11 +309,21 @@ export default function ScreenSaver({
           <aside className="grid min-h-0 grid-rows-[auto_auto_minmax(0,1fr)] gap-5">
             <section className="border border-white/12 bg-black/34 p-5 backdrop-blur-md">
               <div className="font-mono-num text-sm uppercase tracking-[0.22em] text-white/45">Executive Read</div>
-              <p className="mt-3 text-[clamp(1.25rem,1.55vw,1.85rem)] font-semibold leading-tight text-white">
-                {firstSentence(summary)}
-              </p>
+              <OverflowSummaryText
+                as="p"
+                text={firstSentence(summary)}
+                context="executive read"
+                maxChars={155}
+                className="mt-3 text-[clamp(1.25rem,1.55vw,1.85rem)] font-semibold leading-tight text-white"
+              />
               {competitiveContext ? (
-                <p className="mt-4 text-lg leading-snug text-white/62">{firstSentence(competitiveContext)}</p>
+                <OverflowSummaryText
+                  as="p"
+                  text={firstSentence(competitiveContext)}
+                  context="competitive context"
+                  maxChars={125}
+                  className="mt-4 text-lg leading-snug text-white/62"
+                />
               ) : null}
             </section>
 
@@ -413,7 +490,7 @@ export default function ScreenSaver({
             grid-template-rows: auto auto auto;
           }
 
-          .ambient-screen .grid.min-h-0.grid-cols-\\[1\\.18fr_0\\.82fr\\] {
+          .ambient-content-grid {
             grid-template-columns: 1fr;
           }
 
@@ -421,9 +498,203 @@ export default function ScreenSaver({
             min-height: 58vh;
           }
         }
+
+        @media (max-width: 700px) {
+          .ambient-screen section.relative.z-10 {
+            padding: 1rem;
+          }
+
+          .ambient-screen header {
+            display: grid;
+            gap: 1rem;
+          }
+
+          .ambient-screen header h1 {
+            font-size: clamp(3.2rem, 18vw, 5rem) !important;
+          }
+
+          .ambient-screen header > div:last-child {
+            min-width: 0;
+            width: 100%;
+          }
+
+          .ambient-screen header > div:last-child > div {
+            padding: 0.75rem;
+          }
+
+          .ambient-content-grid {
+            display: block;
+            gap: 1rem;
+            height: 100%;
+            padding-block: 1rem;
+          }
+
+          .ambient-screen aside {
+            display: none;
+          }
+
+          .ambient-screen footer {
+            display: none;
+          }
+
+          .ambient-primary-panel {
+            height: 100%;
+            padding: 1rem;
+          }
+
+          .ambient-panel-header {
+            display: none;
+          }
+
+          .signal-stage {
+            min-height: 0;
+            height: 100%;
+            margin-top: 0;
+          }
+
+          .signal-slide {
+            grid-template-columns: minmax(0, 1fr) !important;
+            gap: 0;
+          }
+
+          .signal-slide h2 {
+            margin-top: 1rem !important;
+            font-size: clamp(1.45rem, 7.8vw, 2.25rem) !important;
+          }
+
+          .signal-slide p {
+            margin-top: 0.8rem !important;
+            font-size: clamp(0.95rem, 4.6vw, 1.25rem) !important;
+            line-height: 1.1 !important;
+          }
+
+          .signal-slide p:not(.border-l-2) {
+            max-height: 3.3em;
+            overflow: hidden;
+          }
+
+          .signal-slide p.border-l-2,
+          .signal-slide .mt-6.flex.flex-wrap.gap-3 {
+            display: none !important;
+          }
+
+          .signal-image {
+            display: none !important;
+          }
+
+          .ticker-track {
+            font-size: 1rem;
+          }
+        }
       `}</style>
     </main>
   );
+}
+
+type OverflowSummaryTextProps<T extends ElementType> = {
+  as: T;
+  text: string;
+  context: string;
+  maxChars: number;
+  className?: string;
+  children?: ReactNode;
+} & Omit<ComponentPropsWithoutRef<T>, 'as' | 'children' | 'className'>;
+
+function OverflowSummaryText<T extends ElementType>({
+  as,
+  text,
+  context,
+  maxChars,
+  className,
+  children,
+  ...props
+}: OverflowSummaryTextProps<T>) {
+  const Component = as;
+  const ref = useRef<HTMLElement | null>(null);
+  const [displayText, setDisplayText] = useState(text);
+
+  useEffect(() => {
+    setDisplayText(text);
+  }, [text]);
+
+  useEffect(() => {
+    const element = ref.current;
+    if (!element || !text.trim()) return;
+
+    let cancelled = false;
+    let timeoutId: number | null = null;
+
+    const measure = () => {
+      if (cancelled || !element.isConnected) return;
+
+      const overflows =
+        element.scrollHeight > element.clientHeight + 1 ||
+        element.scrollWidth > element.clientWidth + 1;
+
+      if (!overflows) return;
+
+      const heightRatio = element.clientHeight > 0 ? element.scrollHeight / element.clientHeight : 1;
+      const widthRatio = element.clientWidth > 0 ? element.scrollWidth / element.clientWidth : 1;
+      const overflowRatio = Math.max(heightRatio, widthRatio, 1);
+      const measuredMaxChars = Math.max(24, Math.floor((maxChars / overflowRatio) * 0.82));
+
+      if (displayText !== text) {
+        const nextMax = Math.max(24, Math.floor(displayText.length * 0.55));
+        const clipped = displayText.slice(0, Math.max(24, nextMax - 3)).trim();
+        const tighter = `${clipped.replace(/[,\s;:.-]+$/, '')}...`;
+        if (tighter !== displayText) setDisplayText(tighter);
+        return;
+      }
+
+      const cacheKey = `${context}:${measuredMaxChars}:${text}`;
+      const cached = overflowSummaryCache.get(cacheKey);
+      if (cached) {
+        setDisplayText(cached);
+        return;
+      }
+
+      fetch('/api/screencatcher/summarize-overflow', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text, context, maxChars: measuredMaxChars }),
+      })
+        .then(res => (res.ok ? res.json() : Promise.reject(new Error('summary failed'))))
+        .then(data => {
+          if (cancelled) return;
+          const summary = typeof data.summary === 'string' && data.summary.trim()
+            ? data.summary.trim()
+            : localFallbackSummary(text, maxChars);
+          overflowSummaryCache.set(cacheKey, summary);
+          setDisplayText(summary);
+        })
+        .catch(() => {
+          if (cancelled) return;
+          const summary = localFallbackSummary(text, maxChars);
+          overflowSummaryCache.set(cacheKey, summary);
+          setDisplayText(summary);
+        });
+    };
+
+    const scheduleMeasure = () => {
+      if (timeoutId) window.clearTimeout(timeoutId);
+      timeoutId = window.setTimeout(() => {
+        window.requestAnimationFrame(() => window.requestAnimationFrame(measure));
+      }, 80);
+    };
+
+    scheduleMeasure();
+
+    const resizeObserver = new ResizeObserver(scheduleMeasure);
+    resizeObserver.observe(element);
+
+    return () => {
+      cancelled = true;
+      if (timeoutId) window.clearTimeout(timeoutId);
+      resizeObserver.disconnect();
+    };
+  }, [context, displayText, maxChars, text]);
+
+  return createElement(Component, { ref, className, ...props }, children ?? displayText);
 }
 
 function AmbientImage({ signal }: { signal: AmbientSignal }) {
