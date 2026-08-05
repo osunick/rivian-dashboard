@@ -93890,5 +93890,463 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-05T22:05:53.414272Z",
+    "timestamp": "2026-08-05T22:05:53.414272Z",
+    "sentiment": {
+      "positive": 14,
+      "neutral": 75,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "RIVN Stock",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "28 signals across Vehicles (16), Other (5); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, August 05, 2026 \u2014 10:05 PM PT \u2014 28 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 20 Rivian signals clustered around Vehicles (16), Software (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Rivian Mentions, EV Market.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* For longer trips, do you use RAN or Tesla chargers if there's plenty of either?\n  https://www.reddit.com/r/Rivian/comments/1vgg6wn/for_longer_trips_do_you_use_ran_or_tesla_chargers/\n\u2022 *Competitive Threats:* Bloomberg\u2019s Ed Ludlow breaks down SpaceX's first earnings which revealed massive AI spending, an ambitious Starlink expansion and Elon Musk's latest bold prediction: a $100 billion annual revenue run\n  https://www.bloomberg.com/news/videos/2026-08-05/bloomberg-tech-8-5-2026-video\n\u2022 *Competitive Threats:* SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.\n  https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (16)* \u2022 Rivian has published site plans and renderings of the new Georgia Factory: Adds Museum, Trails and Cabins\n  https://www.reddit.com/r/Rivian/comments/1vgk5dk/rivian_has_published_site_plans_and_renderings_of/\n*Business (1)* \u2022 RIVN Stock Rises Overnight: Analyst Urges Bears To Test Drive R2 Before Betting Against Rivian - Stocktwits\n  https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUItX05vY2gwZEFsTFZQOUVTa0RTc1I4VzFQTnJUREF4Zl83OVFRWFZDcDlQSlRQSzJoakNhM2tVN0hDbVZ6MktJWXh1NWNScGE1NVhxVmh3Zm0wUkF2cXFZYjVMbnRFaTN6Y2lfdnRHLWxhdVJFOGRLdFQzRDNFXzNMLVlrSGNBZmFGX2RMZ0FTYkx3eGZKUndJWjJ4UTBadjBXZQ?oc=5\n*Software (3)* \u2022 Rivian (RIVN) Warns Chinese EV Costs Could Bite As Uber Robotaxi Plan Advances - Yahoo Finance Australia\n  https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0lGeXdLTE4yVEl3Qk45UVFvRHA3YVNNaGVEYy10ZVpPX3QzVEYtWnREQkRyNTBXM05ydE0tWkN5SlNvUGtYa1FSeWxsMDRZcEFiVzVlQkRYTHI5U0lxM1FUaEhvTFM1TDNHQlY3emJrWEREQk1NRUZSNkJ6bVA2S3Nadw?oc=5\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 RIVN Stock\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "My service center is fantastic!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgkn8y/my_service_center_is_fantastic/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-05T21:29:49.502Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian has published site plans and renderings of the new Georgia Factory: Adds Museum, Trails and Cabins",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgk5dk/rivian_has_published_site_plans_and_renderings_of/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-05T21:10:50.115Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Order timing advice",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgk286/order_timing_advice/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-05T21:07:21.678Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Shiftly 1.6 Released, stop guessing at degradation from the range estimate",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgjdmv/shiftly_16_released_stop_guessing_at_degradation/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-05T20:41:33.283Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "For longer trips, do you use RAN or Tesla chargers if there's plenty of either?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgg6wn/for_longer_trips_do_you_use_ran_or_tesla_chargers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-05T18:47:30.343Z",
+        "score": 0,
+        "snippet": "",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Who is planning to keep the Gen2 Dual Standard after lease end?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgfqzx/who_is_planning_to_keep_the_gen2_dual_standard/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-05T18:31:47.956Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Props to the Gaithersburg, MD sales/demo team",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vgf84t/props_to_the_gaithersburg_md_salesdemo_team/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-05T18:13:04.820Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "SpaceX's AI Push, Uber's Next Move and Zoox's Milestone | Bloomberg Tech 8/5/2026",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-05/bloomberg-tech-8-5-2026-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 05 Aug 2026 18:07:00 GMT",
+        "score": 0,
+        "snippet": "Bloomberg\u2019s Ed Ludlow breaks down SpaceX's first earnings which revealed massive AI spending, an ambitious Starlink expansion and Elon Musk's latest bold prediction: a $100 billion annual revenue run ",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
+        "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
+        "source": "cnbc_top",
+        "publishedAt": "Wed, 05 Aug 2026 21:32:34 GMT",
+        "score": 0,
+        "snippet": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "RIVN Stock Rises Overnight: Analyst Urges Bears To Test Drive R2 Before Betting Against Rivian - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUItX05vY2gwZEFsTFZQOUVTa0RTc1I4VzFQTnJUREF4Zl83OVFRWFZDcDlQSlRQSzJoakNhM2tVN0hDbVZ6MktJWXh1NWNScGE1NVhxVmh3Zm0wUkF2cXFZYjVMbnRFaTN6Y2lfdnRHLWxhdVJFOGRLdFQzRDNFXzNMLVlrSGNBZmFGX2RMZ0FTYkx3eGZKUndJWjJ4UTBadjBXZQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 05 Aug 2026 16:52:10 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Rises Overnight: Analyst Urges Bears To Test Drive R2 Before Betting Against Rivian - Stocktwits",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "RIVN Stock"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Warns Chinese EV Costs Could Bite As Uber Robotaxi Plan Advances - Yahoo Finance Australia",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0lGeXdLTE4yVEl3Qk45UVFvRHA3YVNNaGVEYy10ZVpPX3QzVEYtWnREQkRyNTBXM05ydE0tWkN5SlNvUGtYa1FSeWxsMDRZcEFiVzVlQkRYTHI5U0lxM1FUaEhvTFM1TDNHQlY3emJrWEREQk1NRUZSNkJ6bVA2S3Nadw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 05 Aug 2026 16:12:20 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Warns Chinese EV Costs Could Bite As Uber Robotaxi Plan Advances - Yahoo Finance Australia",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "Software",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@sarahchadd.bsky.social (Bluesky): No, wasn't trying to imply that. We have a Volvo EV. When it was brand new five ",
+        "url": "https://bsky.app/profile/did:plc:5vvbkcjacj3vm6zmmxrsb276/post/3msejntsu4c2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T22:00:51.769Z",
+        "score": 0,
+        "snippet": "No, wasn't trying to imply that. We have a Volvo EV. When it was brand new five years ago the tabs were around $900. It's now down to $600ish \ud83e\udee0. \n\nI recently left a note on a Rivian R1S with tabs expi",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@beyondlink.bsky.social (Bluesky): Rivian Could Be a Surprise Robotaxi Winner After Scoring a $1.25 Billion Partner",
+        "url": "https://bsky.app/profile/did:plc:joxpffdd3w44tpol34fkx3rk/post/3msehnptuwz2n",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T21:25:00.076Z",
+        "score": 0,
+        "snippet": "Rivian Could Be a Surprise Robotaxi Winner After Scoring a $1.25 Billion Partnership With Uber",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msed2w5iwk2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T20:02:53.972Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msed2iuwyk2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T20:02:40.070Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msecw53z7c2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T20:00:13.565Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msecvvcfvk2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T20:00:05.384Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msecvf2o2s2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T19:59:48.467Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian just released new site plans for its $5B Georgia factory. Buildings go ve",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3msebs5ocpc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T19:40:09.170Z",
+        "score": 9,
+        "snippet": "Rivian just released new site plans for its $5B Georgia factory. Buildings go vertical in 2027, production in 2028.\n\nriviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): For many people (those who just commute and take occasional road trips), I\u2019d arg",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mseb5avqds2s",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T19:28:25.167Z",
+        "score": 2,
+        "snippet": "For many people (those who just commute and take occasional road trips), I\u2019d argue this Toyota EV at $45K is a much better purchase than the Rivian R2",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Software",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@woolie.meowmeow.city (Bluesky): The Rivian R3 is supposedly aiming for this, we'll see.",
+        "url": "https://bsky.app/profile/did:plc:36wiakvykxakpnipbe5kitni/post/3mseae5m5ak2s",
+        "source": "bluesky",
+        "publishedAt": "2026-08-05T19:14:23.179Z",
+        "score": 1,
+        "snippet": "The Rivian R3 is supposedly aiming for this, we'll see.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Model Y vs Rivian R2 #rivian #rivianr2  #r2 #tesla #modely #teslamodely  #ev #electricsuv",
+        "url": "https://youtube.com/watch?v=SHJG_4zf0Uc",
+        "source": "youtube",
+        "publishedAt": "2026-08-05T22:00:33Z",
+        "score": 0,
+        "snippet": "The Rivian R2 and Tesla Model Y are nearly the same size \u2014 but they're built for completely different lives. The R2 is the rugged ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Rivian R2 Real World 80%-10% Range Test: Road Trip Simulation",
+        "url": "https://youtube.com/watch?v=xOgCwYedje0",
+        "source": "youtube",
+        "publishedAt": "2026-08-05T20:57:46Z",
+        "score": 0,
+        "snippet": "In this video, I drive the Rivian R2 from 80%-10% (well, a little lower than that in reality) to find out how much typical range you can ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u274c LOCKED VS \u2705 UNLOCKED \u2014 WHO GETS THE RIVIAN?",
+        "url": "https://youtube.com/watch?v=YAL4F1SWSAs",
+        "source": "youtube",
+        "publishedAt": "2026-08-05T20:13:36Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2024 Rivian RCV500   332408",
+        "url": "https://youtube.com/watch?v=vdXY49WW-RE",
+        "source": "youtube",
+        "publishedAt": "2026-08-05T20:10:14Z",
+        "score": 0,
+        "snippet": "Interested in this vehicle? Call us at (302) 656-3160 or visit https://bayshoretrucks.com.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Adventure..... best camping car??? #rivian #electricvehicle",
+        "url": "https://youtube.com/watch?v=Z0x4VfaRt6k",
+        "source": "youtube",
+        "publishedAt": "2026-08-05T20:00:33Z",
+        "score": 0,
+        "snippet": "Interested in the YouTube special discount? See if this vehicles is available at www.dicksautogroup.com If you find the vehicle, ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "NEW 2027 Rivian R2 \u2013 Stunning Design &amp; Features You Must See!",
+        "url": "https://youtube.com/watch?v=hqFcMs01PAw",
+        "source": "youtube",
+        "publishedAt": "2026-08-05T18:59:35Z",
+        "score": 0,
+        "snippet": "The all-new 2027 Rivian R2 is here, and it's ready to redefine the compact electric SUV segment. In this video, we take a detailed ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Standard Spotted!",
+        "url": "https://youtube.com/watch?v=xM8AxHN7zLo",
+        "source": "youtube",
+        "publishedAt": "2026-08-05T18:30:08Z",
+        "score": 0,
+        "snippet": "Tesla Referral \u2013 Get $2500 OFF https://linktr.ee/Denniscw Save $200 on customizable EV coverage for your Tesla or other EV ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      }
+    ]
   }
 ]
