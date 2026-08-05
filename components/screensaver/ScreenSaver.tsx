@@ -82,6 +82,12 @@ function firstSentence(value: string) {
   return match?.[1] ?? normalized.slice(0, 220);
 }
 
+function displaySignalTitle(title: string) {
+  const normalized = title.replace(/\s+/g, ' ').trim();
+  const withoutHashtagTail = normalized.replace(/(?:\s+#\S+){2,}\s*$/, '').trim();
+  return withoutHashtagTail.length >= 12 ? withoutHashtagTail : normalized;
+}
+
 function localFallbackSummary(text: string, maxChars: number) {
   const normalized = text.replace(/\s+/g, ' ').trim();
   if (normalized.length <= maxChars) return normalized;
@@ -256,10 +262,11 @@ export default function ScreenSaver({
                     <h2 className="mt-5 max-w-[22ch] text-[clamp(2rem,3vw,4.1rem)] font-black uppercase leading-[0.92] tracking-normal text-white">
                       <OverflowSummaryText
                         as="a"
-                        text={signal.title}
+                        text={displaySignalTitle(signal.title)}
                         context="signal headline"
-                        maxChars={58}
+                        maxChars={125}
                         href={signal.url}
+                        title={signal.title}
                         target="_blank"
                         rel="noreferrer"
                         className="block transition-colors hover:text-[#70e4ff] focus:outline-none focus:ring-2 focus:ring-[#70e4ff]/70"
@@ -269,7 +276,7 @@ export default function ScreenSaver({
                       as="p"
                       text={signalReadout(signal)}
                       context="signal readout"
-                      maxChars={145}
+                      maxChars={105}
                       className="mt-6 max-w-5xl text-[clamp(1.45rem,1.85vw,2.45rem)] font-semibold leading-[1.06] text-white/84"
                     />
                     <OverflowSummaryText
@@ -569,8 +576,7 @@ export default function ScreenSaver({
           }
 
           .signal-slide p:not(.border-l-2) {
-            max-height: 3.3em;
-            overflow: hidden;
+            display: none !important;
           }
 
           .signal-slide p.border-l-2,
@@ -628,8 +634,8 @@ function OverflowSummaryText<T extends ElementType>({
       if (cancelled || !element.isConnected) return;
 
       const overflows =
-        element.scrollHeight > element.clientHeight + 1 ||
-        element.scrollWidth > element.clientWidth + 1;
+        element.scrollHeight > element.clientHeight + 6 ||
+        element.scrollWidth > element.clientWidth + 6;
 
       if (!overflows) return;
 
