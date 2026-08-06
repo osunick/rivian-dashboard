@@ -94775,5 +94775,371 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-06T14:02:56.896367Z",
+    "timestamp": "2026-08-06T14:02:56.896367Z",
+    "sentiment": {
+      "positive": 9,
+      "neutral": 86,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 5,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "22 signals across Vehicles (10), Competitive (5); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, August 06, 2026 \u2014 2:02 PM PT \u2014 22 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 5 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 14 Rivian signals clustered around Vehicles (10), Software (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (5)\n\u2022 *Competitive Threats:* It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.\n  https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html\n\u2022 *Competitive Threats:* Tesla's pressure on RDW continues a well-established pattern, but it is less clear why RDW is playing along. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/eu-regulators-puzzlingly-silent-on-teslas-fsd-data-secrecy/\n\u2022 *Competitive Threats:* Amazon\u2019s blank-sheet robotaxi has to prove itself commercially for the first time, and rides are not cheap. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/zoox-moves-from-free-rides-to-paid-service-in-las-vegas/\n\u2022 *Competitive Threats:* Spreading robotaxi bets across three dozen partners is Uber's practical answer to winning the race without its prize horse. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/uber-pledges-10bn-to-robotaxis-waymo-still-important/\n\u2022 *Competitive Threats:* Honda\u2019s Q1 financials show no continued impact of the huge losses from EV impairments in the last quarter of FY2025/26. By Ian Henry The post <a href=\"\n  https://www.automotiveworld.com/analysis/honda-resilient-despite-last-years-ev-related-losses/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (10)* \u2022 Rivian Care vs. XCare (VA)\n  https://www.reddit.com/r/Rivian/comments/1vh3n91/rivian_care_vs_xcare_va/\n*Business (0)* \u2022 No signals\n*Software (3)* \u2022 Uber Commits $10 Billion to Deploy 120,000 Autonomous Vehicles in Global Robotaxi Push #balajiKrishnamurthy #daraKhosrowshahi #deliveryHero #fordMustangMach-e #lucid #rivian #transportForLondon #uberT\n  https://bsky.app/profile/did:plc:ogid5z2qp6jsifmirvbn23nz/post/3msg6l26ila2f\n*Community (1)* \u2022 finance.yahoo.com/markets/stoc...\n  https://bsky.app/profile/did:plc:4e3npuhdiipd3274a3awhimu/post/3msg6cwozfs2g\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian Care vs. XCare (VA)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vh3n91/rivian_care_vs_xcare_va/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T13:02:31.830Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Efficiency on Road Trip",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vh2e4o/r2_efficiency_on_road_trip/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T11:21:53.385Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Efficiency on Road Trip",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vh1fsb/r2_efficiency_on_road_trip/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T11:21:53.385Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The stealth ppf is the bomb B",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgt5ij/the_stealth_ppf_is_the_bomb_b/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T03:42:31.152Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R2 fit/finish vs R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vgrnlh/r2_fitfinish_vs_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T02:30:08.787Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I hate to do this, but here goes \ud83e\udee3 Color help",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vgssxk/i_hate_to_do_this_but_here_goes_color_help/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-06T03:24:55.225Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
+        "url": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
+        "source": "cnbc_top",
+        "publishedAt": "Thu, 06 Aug 2026 13:29:39 GMT",
+        "score": 0,
+        "snippet": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "EU regulators puzzlingly silent on Tesla\u2019s FSD data secrecy",
+        "url": "https://www.automotiveworld.com/news/eu-regulators-puzzlingly-silent-on-teslas-fsd-data-secrecy/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 06 Aug 2026 12:43:58 +0000",
+        "score": 0,
+        "snippet": "<p>Tesla's pressure on RDW continues a well-established pattern, but it is less clear why RDW is playing along. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.com/news/eu-regu",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Zoox moves from free rides to paid service in Las Vegas",
+        "url": "https://www.automotiveworld.com/news/zoox-moves-from-free-rides-to-paid-service-in-las-vegas/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 06 Aug 2026 11:13:33 +0000",
+        "score": 0,
+        "snippet": "<p>Amazon\u2019s blank-sheet robotaxi has to prove itself commercially for the first time, and rides are not cheap. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.com/news/zoox-mov",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Uber pledges $10bn to robotaxis, Waymo still \u201cimportant\u201d",
+        "url": "https://www.automotiveworld.com/news/uber-pledges-10bn-to-robotaxis-waymo-still-important/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 06 Aug 2026 08:45:32 +0000",
+        "score": 0,
+        "snippet": "<p>Spreading robotaxi bets across three dozen partners is Uber's practical answer to winning the race without its prize horse. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.c",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Honda resilient despite last year\u2019s EV-related losses",
+        "url": "https://www.automotiveworld.com/analysis/honda-resilient-despite-last-years-ev-related-losses/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 06 Aug 2026 07:24:48 +0000",
+        "score": 0,
+        "snippet": "<p>Honda\u2019s Q1 financials show no continued impact of the huge losses from EV impairments in the last quarter of FY2025/26. By Ian Henry</p>\n<p>The post <a href=\"https://www.automotiveworld.com/analysi",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@frontiertony.bsky.social (Bluesky): Absolutely. We wrote about direct sales issue a while back. Rivian and Slate see",
+        "url": "https://bsky.app/profile/did:plc:pj2vu4tn3kdgysj4gwb7qpnw/post/3msg6rirruk2y",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T13:51:21.573Z",
+        "score": 1,
+        "snippet": "Absolutely. We wrote about direct sales issue a while back. Rivian and Slate seem to be following the same direct sales model, though Hyundai/Kia seem to be doing OK using the traditional model.  fron",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@nile11.bsky.social (Bluesky): Uber Commits $10 Billion to Deploy 120,000 Autonomous Vehicles in Global Robotax",
+        "url": "https://bsky.app/profile/did:plc:ogid5z2qp6jsifmirvbn23nz/post/3msg6l26ila2f",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T13:47:46.878Z",
+        "score": 0,
+        "snippet": "Uber Commits $10 Billion to Deploy 120,000 Autonomous Vehicles in Global Robotaxi Push\n#balajiKrishnamurthy #daraKhosrowshahi #deliveryHero #fordMustangMach-e #lucid #rivian #transportForLondon #uberT",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@chws65.bsky.social (Bluesky): finance.yahoo.com/markets/stoc...",
+        "url": "https://bsky.app/profile/did:plc:4e3npuhdiipd3274a3awhimu/post/3msg6cwozfs2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T13:43:16.771Z",
+        "score": 0,
+        "snippet": "finance.yahoo.com/markets/stoc...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@horadam.bsky.social (Bluesky): Closing moves of EV 2.5 (2026-2027)\n\n1. Final big writedowns and resets\n2. 30D/4",
+        "url": "https://bsky.app/profile/did:plc:rp4rgamibrblojq7f7pgmuxc/post/3msg5rsg5uc2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T13:33:39.473Z",
+        "score": 2,
+        "snippet": "Closing moves of EV 2.5 (2026-2027)\n\n1. Final big writedowns and resets\n2. 30D/45W hangover ends\n3. Rivian R2 launch and ramp\n4. Toyota begins next-gen EV product blitz\n5. BMW Neue Klasse\n6. First ERE",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Software",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): www.fool.com/investing/20...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3msg2rpvp4s2a",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T12:39:58.469Z",
+        "score": 1,
+        "snippet": "www.fool.com/investing/20...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Mini Rivian R2 Build in 30 Seconds! \ud83e\udd2f Ultra Realistic ASMR #shorts",
+        "url": "https://youtube.com/watch?v=i5AyvelZAYE",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T14:00:49Z",
+        "score": 0,
+        "snippet": "Mini Rivian R2 Build in 30 Seconds! Ultra Realistic ASMR #shorts Experience the ultra-realistic ASMR assembly of a miniature ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Edv 700/500 Amazon Van Driver Side Mirror",
+        "url": "https://youtube.com/watch?v=UDJvTLCRYvA",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T12:57:55Z",
+        "score": 0,
+        "snippet": "Pretty easy to change and it beats paying techs 1000 bucks when you can buy the part for 600. I would start with taking off that ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "esta m\u00fasica e fiz para a minha esposa Rivian Carla.",
+        "url": "https://youtube.com/watch?v=v8pYYPsbCG0",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T12:49:11Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 weird battery thermal behavior",
+        "url": "https://youtube.com/watch?v=HVaQ8JloxUY",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T12:41:29Z",
+        "score": 0,
+        "snippet": "Just a short showing a clip where the Rivian R2 throws the kitchen sink at the battery to cool it, when at 106 and low state of ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u2705RIVIAN INCENTIVE UPDATE \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=vt-TKKovuMU",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T08:30:36Z",
+        "score": 0,
+        "snippet": "RIVIAN INCENTIVE UPDATE \u26a1\ufe0f save $2500 link in bio \u26a1\ufe0f TESLA REFERRAL CODE LINK | Receive $1000 OFF Your Next ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Lucid Motors, elektrikli otomobil d\u00fcnyas\u0131nda en ula\u015f\u0131labilir modelini tan\u0131tmaya haz\u0131rlan\u0131yor! \ud83d\udea8",
+        "url": "https://youtube.com/watch?v=uEIv-2puAkI",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T07:23:09Z",
+        "score": 0,
+        "snippet": "Lucid Motors, elektrikli otomobil d\u00fcnyas\u0131nda kartlar\u0131 yeniden da\u011f\u0131tacak en ula\u015f\u0131labilir modelini tan\u0131tmaya haz\u0131rlan\u0131yor!",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      }
+    ]
   }
 ]
