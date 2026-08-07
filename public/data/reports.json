@@ -95578,5 +95578,570 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-07T02:02:18.109371Z",
+    "timestamp": "2026-08-07T02:02:18.109371Z",
+    "sentiment": {
+      "positive": 13,
+      "neutral": 75,
+      "negative": 11
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "positive"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 7,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Charging",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "36 signals across Vehicles (19), Business (7); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, August 07, 2026 \u2014 2:02 AM PT \u2014 36 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 29 Rivian signals clustered around Vehicles (19), Business (7).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 4 negative signals; watch Vehicle Demand, Business, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Waymo opens fully autonomous robotaxi service to all Dallas residents after delay - The Business Journals\n  https://news.google.com/rss/articles/CBMilAFBVV95cUxPWnVFeXB2T296NEVTZHZiZ3ljakg1Y2hfc0tlSUVrOUdLakloWEptQWVTSDdQbkh6R0sxWEh6UnlHTHdoVTBBWEd6WjlIQnZUc3pFd1pRREF6Q1QyWmE4NGhheGNybnBCbHJyMzRGWlJUa3RuMUlPTVQ1bkU0WVR0V0cxeWtPOXp3RmhZQ3hTRDlQZVBN?oc=5\n\u2022 *Competitive Threats:* Zoox Begins Charging for Las Vegas Robotaxi Rides Starting This Sunday - Tech Times\n  https://news.google.com/rss/articles/CBMivgFBVV95cUxNRENWSTNZQ3hHWWRTMzFBNzJ2SjFSSkloTmg2cUhRWkZZSG1tTmMtaVBDZ0cxbldlMXctRFVWU21MalhMYVpIcll2Nm01Ykd4VmgwaV9ueGtlZUt4VVJuU2MzVnprN1VicDJlSmdfc25pNHdRUVg1UHgtaWtVOEZ0dnJVZzJIXzdLaHI1cHE3WjNSZ21OMHU2dkkyZHUzZ3RhNEdLZE5ZbTFQOUxKQ2ZibVN3NU5ES3BpY3UyejBn?oc=5\n\u2022 *Competitive Threats:* We bought a Tesla in late 2024 despite Elon. I was really interested in the Hyundai Ioniq 5 but the two Portland area Hyundai dealers we visited in Dec 2024 were so egregiously horrible and Tesla was\n  https://bsky.app/profile/did:plc:ar4m3xiu43lhhimqi7vnor5z/post/3msh6yerh2226\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Ca\n  https://www.techmeme.com/260806/p57#a260806p57\n*Demo & Test Drives (1)* \u2022 Rivian R2 Demo Drive\n  https://www.reddit.com/r/RivianR2/comments/1vhj14t/rivian_r2_demo_drive/\n*Vehicles (19)* \u2022 Coming from a Tesla and switching to R2, what are the best charging stations that aren\u2019t Tesla Superchargers?\n  https://www.reddit.com/r/Rivian/comments/1vhlaoc/coming_from_a_tesla_and_switching_to_r2_what_are/\n*Business (7)* \u2022 RIVN Stock Edges Up After-Hours \u2014 EV Maker Narrows Full Year Guidance And Tempers Spending Plans - Stocktwits\n  https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZkd1TUh6QzFoYjR4UkxiSjc2Q091QzAtb3Ixd3R0MHl3MEhhWjJ5ZzEzN1E3YWJQalFtMU41dkdRbXFVTXlNVHF0WW9xekN2bEZmN3U4VW15SXd2VkZPNWVmVGJ5VTJOWGdGenNnV1hjdTZTOVJ6MlpBUGJfb1oxN1ZTYXhjWlFlTmU5Vk5VYm5nTzRNYzRBbkZMZmRkd1p5MHU2UWF4aHZOTmctRlZoQ2ltbjdmajFTWVNTbDdCbVB6UGlYSE5BSXJha3RSU19YaUFuWHpQNU15bTNVaUVwYzFBYlg5VThWd2tXZFZQUQ?oc=5\n*Software (1)* \u2022 Double release day! Rivian Software Update 2026.23 has begun rolling out to R1 vehicles. rivianroamer.com/software-up...\n  https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3msgyygkl5q2a\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Charging\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Coming from a Tesla and switching to R2, what are the best charging stations that aren\u2019t Tesla Superchargers?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhlaoc/coming_from_a_tesla_and_switching_to_r2_what_are/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T00:14:03.516Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Coming from a Tesla and switching to R2, what are the best charging stations that aren\u2019t Tesla Superchargers?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vhl9qq/coming_from_a_tesla_and_switching_to_r2_what_are/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T00:14:03.516Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Water intrusion and trim separation on a 2023 R1S just outside mileage warranty",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhkb3u/water_intrusion_and_trim_separation_on_a_2023_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T23:32:17.675Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Batter Capacity - Real World Expectation.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhjda1/batter_capacity_real_world_expectation/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T22:52:52.088Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "2026.23 dropped from Rivian Roamer Dashboard.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhi4z7/202623_dropped_from_rivian_roamer_dashboard/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T22:01:34.625Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone at Kingsville TX willing to help?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhgva4/anyone_at_kingsville_tx_willing_to_help/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T21:11:13.363Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Part Diagrams for 2025 R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhflxh/part_diagrams_for_2025_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T20:22:22.989Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "For those buying used from dealerships \u2014 are you considering a third-party extended warranty?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhfipr/for_those_buying_used_from_dealerships_are_you/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-06T20:19:14.491Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian R2 Demo Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vhj14t/rivian_r2_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-06T22:38:33.277Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Iran\u2019s chief negotiator accuses Trump of \u2018theater diplomacy\u2019 with Hormuz traffic near standstill",
+        "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "An interview with Replit CEO Amjad Masad on why \"vibe coding\" is never about coding, the SaaS apocalypse, building a \"self-driving company\", and more (Casey Newton/Platformer)",
+        "url": "https://www.techmeme.com/260806/p57#a260806p57",
+        "source": "techmeme",
+        "publishedAt": "Thu, 06 Aug 2026 21:35:01 -0400",
+        "score": 0,
+        "snippet": "<P><A HREF=\"https://www.techmeme.com/260806/p57#a260806p57\" TITLE=\"Techmeme permalink\"><IMG WIDTH=11 HEIGHT=12 SRC=\"http://www.techmeme.com/img/pml.png\" STYLE=\"border:none;padding:0;margin:0;\"></A> Ca",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Narrowing Losses And R2 Momentum Might Change The Case For Investing In Rivian Automotive (RIVN) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWdOR0pOdkZqaU1JQXU5SmZXeVV2SjNzLWJjZVl4UjlQM3Jha3dxdVo1MzU4U0tDcTVnTDJSa1VNSXBvellLWHE3MjRGUTZ4aHhRdDBuOWpRUW0xdXBiOXBRX2VvcmRjS0ViRzZoWXMySzNVc2tqbGllZG8tVk9VbVMyWTRaUko4LWg4aExYYTFmVk5JbFFqT1RKUWZZaDRBT1VUS2VjbUtxU09lSXEyMEpfVEFUSVZHQjEwVHRRTmswajBaYnl0ci0yeW9VUGQzbWM4Vkl2ZjNaSnPSAdsBQVVfeXFMUFlnTkdKTnZGamlNSUF1OUpmV3lVdkozcy1iY2VZeFI5UDNyYWt3cXVaNTM1OFNLQ3E1Z0wyUmtVTUlwb3pZS1hxNzI0RlE2eGh4UXQwbjlqUVFtMXVwYjlwUV9lb3JkY0tFYkc2aFlzMkszVXNramxpZWRvLVZPVW1TMlk0WlJKOC1oOGhMWGExZlZOSWxRak9USlFmWWg0QU9VVEtlY21LcVNPZUlxMjBKX1RBVElWR0IxMFR0UU5rMGowWmJ5dHItMnlvVVBkM21jOFZJdmYzWkpz?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 06 Aug 2026 21:00:05 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Narrowing Losses And R2 Momentum Might Change The Case For Investing In Rivian Automotive (RIVN) - simplywall.st",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN Stock Edges Up After-Hours \u2014 EV Maker Narrows Full Year Guidance And Tempers Spending Plans - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZkd1TUh6QzFoYjR4UkxiSjc2Q091QzAtb3Ixd3R0MHl3MEhhWjJ5ZzEzN1E3YWJQalFtMU41dkdRbXFVTXlNVHF0WW9xekN2bEZmN3U4VW15SXd2VkZPNWVmVGJ5VTJOWGdGenNnV1hjdTZTOVJ6MlpBUGJfb1oxN1ZTYXhjWlFlTmU5Vk5VYm5nTzRNYzRBbkZMZmRkd1p5MHU2UWF4aHZOTmctRlZoQ2ltbjdmajFTWVNTbDdCbVB6UGlYSE5BSXJha3RSU19YaUFuWHpQNU15bTNVaUVwYzFBYlg5VThWd2tXZFZQUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 07 Aug 2026 00:43:37 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Edges Up After-Hours \u2014 EV Maker Narrows Full Year Guidance And Tempers Spending Plans - Stocktwits",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "The Price of Progress for Rivian Automotive Stock - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcDl5WUF4SEhMNnBUVm9MUHMtYzZtNU05UGV3dmFpOVBTbFJwaUN0RU5Vb29qRF92YTZYdFZGS0pfQ1hhQWJ1Ulk0ZHdKUm9va2hOWTFNSXN5SDl1bTl6aUtWdHhTeldTUlZJNVdlNDlfSEc5eEdyd0tleHRKc1RyWmZNTUdITHNLZ2Fqcl9KR3hTbmxwMDBwVTltajJibDZjMnRHV1B5LW9WNzF6c1lCbFRldkNXeTRiUFZ3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 06 Aug 2026 18:33:54 GMT",
+        "score": 0,
+        "snippet": "The Price of Progress for Rivian Automotive Stock - Trefis",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 Falls 20% Short of EPA Range in Testing - Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2U0VWRJb2F0MHBkY1pUZzd3RldGdE01QmcxdmwzSVkwNkpzTUtnamFhaUJTR2J5T2Q2RTdJODJVYkpSbTQzencyTTlOSzhldFNjQ0xWbnN6TXcxYTEzY0kyeDlRandMVDcwbmpvU1NtNkJjb2tqQlptck4tZy15YVNaWEx2Wnl5bmxud0N6OG5sa0VMM1E?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 06 Aug 2026 22:11:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Falls 20% Short of EPA Range in Testing - Yahoo Autos",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo opens fully autonomous robotaxi service to all Dallas residents after delay - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWnVFeXB2T296NEVTZHZiZ3ljakg1Y2hfc0tlSUVrOUdLakloWEptQWVTSDdQbkh6R0sxWEh6UnlHTHdoVTBBWEd6WjlIQnZUc3pFd1pRREF6Q1QyWmE4NGhheGNybnBCbHJyMzRGWlJUa3RuMUlPTVQ1bkU0WVR0V0cxeWtPOXp3RmhZQ3hTRDlQZVBN?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 06 Aug 2026 19:38:00 GMT",
+        "score": 0,
+        "snippet": "Waymo opens fully autonomous robotaxi service to all Dallas residents after delay - The Business Journals",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Zoox Begins Charging for Las Vegas Robotaxi Rides Starting This Sunday - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRENWSTNZQ3hHWWRTMzFBNzJ2SjFSSkloTmg2cUhRWkZZSG1tTmMtaVBDZ0cxbldlMXctRFVWU21MalhMYVpIcll2Nm01Ykd4VmgwaV9ueGtlZUt4VVJuU2MzVnprN1VicDJlSmdfc25pNHdRUVg1UHgtaWtVOEZ0dnJVZzJIXzdLaHI1cHE3WjNSZ21OMHU2dkkyZHUzZ3RhNEdLZE5ZbTFQOUxKQ2ZibVN3NU5ES3BpY3UyejBn?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 06 Aug 2026 20:19:13 GMT",
+        "score": 0,
+        "snippet": "Zoox Begins Charging for Las Vegas Robotaxi Rides Starting This Sunday - Tech Times",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83d\udce6 Removed from the Rivian Gear Shop: DECKED Drawer System for R1T",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mshgk5cex227",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T01:43:05.498Z",
+        "score": 1,
+        "snippet": "\ud83d\udce6 Removed from the Rivian Gear Shop: DECKED Drawer System for R1T",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): You guys, there are lots of Rivian apologists out there. They must love $rivn st",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3mshepnvtgk2h",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T01:10:23.664Z",
+        "score": 0,
+        "snippet": "You guys, there are lots of Rivian apologists out there. They must love $rivn stock or something",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mshd75jjtc2a",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T00:43:15.665Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@camasonian.bsky.social (Bluesky): We bought a Tesla in late 2024 despite Elon.\n\nI was really interested in the Hyu",
+        "url": "https://bsky.app/profile/did:plc:ar4m3xiu43lhhimqi7vnor5z/post/3msh6yerh2226",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T23:27:53.771Z",
+        "score": 1,
+        "snippet": "We bought a Tesla in late 2024 despite Elon.\n\nI was really interested in the Hyundai Ioniq 5 but the two Portland area Hyundai dealers we visited in Dec 2024 were so egregiously horrible and Tesla was",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@malars.bsky.social (Bluesky): Do you foresee Rivian ever updating the mapped roads for Connect+ for R1 Gen 1 o",
+        "url": "https://bsky.app/profile/did:plc:43qelaqepjjxze6wivlsd65v/post/3msh5gjhotipo",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T23:00:00.476Z",
+        "score": 0,
+        "snippet": "Do you foresee Rivian ever updating the mapped roads for Connect+ for R1 Gen 1 owners? It is basically unusable for me several months in my area. It shows as available, lets me engage it, then immedia",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bardenp.bsky.social (Bluesky): if rivian goes belly up or lucid or ...\n\nwhat happens to the cars?  does the com",
+        "url": "https://bsky.app/profile/did:plc:dguqlnj4mdiatitnjceayl7f/post/3msh344kbpx27",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T22:18:24.500Z",
+        "score": 0,
+        "snippet": "if rivian goes belly up or lucid or ...\n\nwhat happens to the cars?  does the company that takes them over keep the servers running?  do the cars stop working if they can't reach their servers?\n\nwill t",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@punt1.bsky.social (Bluesky): tesla and rivian seem to do fine without them",
+        "url": "https://bsky.app/profile/did:plc:l6kjcmdee6p645hx3yfxsdyf/post/3msgzkjwbmk2l",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T21:50:40.667Z",
+        "score": 0,
+        "snippet": "tesla and rivian seem to do fine without them",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@punt1.bsky.social (Bluesky): it's funny how even blue states like CA or MA haven't really done much about the",
+        "url": "https://bsky.app/profile/did:plc:l6kjcmdee6p645hx3yfxsdyf/post/3msgzbgv4522f",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T21:45:35.476Z",
+        "score": 0,
+        "snippet": "it's funny how even blue states like CA or MA haven't really done much about these. some of them sort of stumbled into letting tesla and rivian do it and that's about it, for some reason",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Double release day! Rivian Software Update 2026.23 has begun rolling out to R1 v",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3msgyygkl5q2a",
+        "source": "bluesky",
+        "publishedAt": "2026-08-06T21:40:33.067Z",
+        "score": 5,
+        "snippet": "Double release day! Rivian Software Update 2026.23 has begun rolling out to R1 vehicles.\n\nrivianroamer.com/software-up...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "These Lifeguard Vehicles Are Insanely Cool #rivian #lifeguards",
+        "url": "https://youtube.com/watch?v=dErXYu_iN8c",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T02:00:01Z",
+        "score": 0,
+        "snippet": "Fire Trucks and Police Car Videos! BUY ME A COFFEE - HELP SUPPORT THE CHANNEL \u2713https://buymeacoffee.com/hotj ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "#edit #automobile #cartok #bmwmmotorsport #bmwm #srt # #electriccars #rivian #famous #shorts",
+        "url": "https://youtube.com/watch?v=PjYOg18qbhc",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T00:49:47Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian posts record Q2 profits while expanding software licensing #rivian #q22026 #electricvehicles",
+        "url": "https://youtube.com/watch?v=d97SR_NGeA8",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T00:06:45Z",
+        "score": 0,
+        "snippet": "Rivian posted record profits for Q2 2026 while ramping production of its new R2 vehicle. A major driver of this success is Rivian's ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 Performance Locked | 656 HP Launch Package",
+        "url": "https://youtube.com/watch?v=tdnRqeJPjhM",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T23:00:21Z",
+        "score": 0,
+        "snippet": "The CARSXHOOKS database scanned Rivian's adventure lineup and locked onto the R2 Performance with Launch Package.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Who can STOP IN TIME? I Rivan vs Cybertruck #beamngdrive #crashdrive #rivian #cybertruck",
+        "url": "https://youtube.com/watch?v=ZclIoLl8chw",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T22:00:14Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Can a GMC Sierra EV Use Rivian Chargers? 302 kW Adventure Network Test",
+        "url": "https://youtube.com/watch?v=LMpwWkDXxTg",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T22:00:34Z",
+        "score": 0,
+        "snippet": "Can a GMC Sierra EV charge on the Rivian Adventure Network? I tested my GMC Sierra EV Extended Range from 10% state of ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1S Adventure MEDIA SCREEN NAVIGATION SYSTEM BACK-UP CAMERA #Carvision",
+        "url": "https://youtube.com/watch?v=0UjxtmtddS0",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T21:10:10Z",
+        "score": 0,
+        "snippet": "STOCK# 015930C 2023 Rivian R1S Adventure Green CARFAX One-Owner. Clean CARFAX. Odometer is 7000 miles below ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 REAL Range Test SHOCKS Everyone! The Truth After 182 Miles of Real Driving",
+        "url": "https://youtube.com/watch?v=HdsCtmy_620",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T20:45:32Z",
+        "score": 0,
+        "snippet": "Rivian R2 REAL Range Test SHOCKS Everyone! The Truth After 182 Miles of Real Driving** Is the **Rivian R2's real-world ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2025 Rivian R1T Crew Cab",
+        "url": "https://youtube.com/watch?v=OnwLWvRLNn0",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T19:32:12Z",
+        "score": 0,
+        "snippet": "2025 Rivian R1T Crew Cab - Stock Number: PT0284 - VIN: 7FCTGBAA2SN036171. Give us a call (408) 533-1488 or visit our ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian and Lucid Aren&#39;t Hot Anymore",
+        "url": "https://youtube.com/watch?v=yO66KIKea7E",
+        "source": "youtube",
+        "publishedAt": "2026-08-06T19:18:26Z",
+        "score": 0,
+        "snippet": "Rivian and Lucid were the hottest stocks of 2021 and now barely anyone thinks about them. Ram Ahluwalia uses that fade to ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
