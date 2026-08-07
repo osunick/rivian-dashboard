@@ -96537,5 +96537,478 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-07T22:02:33.283572Z",
+    "timestamp": "2026-08-07T22:02:33.283572Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 86,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Charging",
+      "Commercial Vans",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "RIVN Stock",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "30 signals across Vehicles (17), Other (4); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, August 07, 2026 \u2014 10:02 PM PT \u2014 30 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 25 Rivian signals clustered around Vehicles (17), Community (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Rivian Mentions, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Lyft CEO David Risher discusses the company's growth compared to Waymo, its plans to expand internationally and where Lyft is focused internally. He speaks with Ed Ludlow on \"Bloomberg Tech.\" (Source:\n  https://www.bloomberg.com/news/videos/2026-08-07/lyft-is-transforming-into-a-global-brand-ceo-says-video\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 We finally got behind the wheel of the Rivian R2 \u2014 and instead of treating this like a traditional car review or comparing ...\n  https://youtube.com/watch?v=OH03iw0cMEU\n*Vehicles (17)* \u2022 R1T 2024 Suspension\n  https://www.reddit.com/r/Rivian/comments/1vi830e/r1t_2024_suspension/\n*Business (2)* \u2022 Rivian Automotive (NASDAQ:RIVN) stock watched as software and commercial vans advance - Kalkine Media\n  https://news.google.com/rss/articles/CBMixwFBVV95cUxQUU02Y1F2aVRaMzYxWU83RkNJQ29wQlEydUVqaklGcEVWWVZOdzRMRXdBVVhzeU5TcVdLN29VUENmTXVreC1iaEVoeFdLWUplNkxyNWN5M1hlMjgxX2ZQVVVGMVZUZWg2SXV2VnlENXVpT25heEU3V0tKUTlWQnJiaTB2dEtHc3pZem5BN0FtOGtZcFlEdVIyMDFiNktsaWcwTEl1MU81aWpsZkxsVXRWSWRUaXo4N2VnNWNmdlFONnhiZWtmSDN3?oc=5\n*Software (2)* \u2022 Cracked Wheel *Update*\n  https://www.reddit.com/r/Rivian/comments/1vi2u7j/cracked_wheel_update/\n*Community (3)* \u2022 American multimillionaires/billionaires love big cars so much (because of the loopholes) and spend billions to brainwash Americans into both liking them and thinking they\u2019re necessary. And these same\n  https://bsky.app/profile/did:plc:kxbd32ilfvrz2bvu7qm4dnwg/post/3msjiyuz3xs2u\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Charging\n\u2022 Commercial Vans\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Parking Lot Hit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi84fz/parking_lot_hit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T18:09:07.172Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R1T 2024 Suspension",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi830e/r1t_2024_suspension/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T18:07:36.837Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Original Rivian Wall Charger",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi72a3/original_rivian_wall_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T17:29:50.033Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Original Rivian Wall Charger",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vi71se/original_rivian_wall_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T17:29:50.033Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Connect+",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi6tva/connect/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T17:21:33.929Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Is this normal?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi6g9k/is_this_normal/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T17:07:33.816Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Lease Buyback Question...hold my 2025 Tri? Splurge on a 2026 or 2027? Something in between?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi4ff6/lease_buyback_questionhold_my_2025_tri_splurge_on/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T15:53:29.400Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Cracked Wheel *Update*",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi2u7j/cracked_wheel_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T14:53:46.106Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Lyft Is Transforming Into a Global Brand, CEO Says",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-07/lyft-is-transforming-into-a-global-brand-ceo-says-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Fri, 07 Aug 2026 16:02:42 GMT",
+        "score": 0,
+        "snippet": "Lyft CEO David Risher discusses the company's growth compared to Waymo, its plans to expand internationally and where Lyft is focused internally. He speaks with Ed Ludlow on \"Bloomberg Tech.\" (Source:",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) stock watched as software and commercial vans advance - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUU02Y1F2aVRaMzYxWU83RkNJQ29wQlEydUVqaklGcEVWWVZOdzRMRXdBVVhzeU5TcVdLN29VUENmTXVreC1iaEVoeFdLWUplNkxyNWN5M1hlMjgxX2ZQVVVGMVZUZWg2SXV2VnlENXVpT25heEU3V0tKUTlWQnJiaTB2dEtHc3pZem5BN0FtOGtZcFlEdVIyMDFiNktsaWcwTEl1MU81aWpsZkxsVXRWSWRUaXo4N2VnNWNmdlFONnhiZWtmSDN3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 07 Aug 2026 16:29:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) stock watched as software and commercial vans advance - Kalkine Media",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Commercial Vans",
+          "Software"
+        ]
+      },
+      {
+        "title": "@vera-atkins.bsky.social (Bluesky): American multimillionaires/billionaires love big cars so much (because of the lo",
+        "url": "https://bsky.app/profile/did:plc:kxbd32ilfvrz2bvu7qm4dnwg/post/3msjiyuz3xs2u",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T21:32:27.473Z",
+        "score": 0,
+        "snippet": "American multimillionaires/billionaires love big cars so much (because of the loopholes) and spend billions to brainwash Americans into both liking them and thinking they\u2019re necessary.\n\nAnd these same",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@undercodenews.bsky.social (Bluesky): CarPlay Is Still Missing From Tesla, Rivian, and GM \u2014 And Drivers Are Paying the",
+        "url": "https://bsky.app/profile/did:plc:p464uedvuxtzckhrm4pfwxa5/post/3msji4wnukc22",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T21:16:49.671Z",
+        "score": 0,
+        "snippet": "CarPlay Is Still Missing From Tesla, Rivian, and GM \u2014 And Drivers Are Paying the Price +\u00a0Video\n\nThe CarPlay Divide Is Becoming Impossible to Ignore For millions of drivers, Apple CarPlay has quietly b",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tiltedtimes.org (Bluesky): Rivian R2 review: the compact electric SUV that could tempt Tesla Model Y buyers",
+        "url": "https://bsky.app/profile/did:plc:i26lajrgw7a4265yarkxj3ke/post/3msjflrp5j422",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T20:31:26.479Z",
+        "score": 0,
+        "snippet": "Rivian R2 review: the compact electric SUV that could tempt Tesla Model Y buyers\n\nRivian\u2019s R2 mixes rugged style, clever storage, fast charging and family-friendly space. Here\u2019s how it stacks u...\n\n#T",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3msjdvvlfe32i",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T20:01:18.271Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@9to5mac.com (Bluesky): These automakers still don\u2019t support CarPlay, here\u2019s why",
+        "url": "https://bsky.app/profile/did:plc:bgakgsp7rz6ioyaqbvd7p7ew/post/3msjc6plsic2b",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T19:30:26.470Z",
+        "score": 8,
+        "snippet": "These automakers still don\u2019t support CarPlay, here\u2019s why",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@thedailytechfeed.com (Bluesky): Tesla, Rivian, and GM resist Apple CarPlay, focusing on proprietary infotainment",
+        "url": "https://bsky.app/profile/did:plc:mht5ub4ykjuoxpux77hikixt/post/3msjbzk6y652a",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T19:27:33.967Z",
+        "score": 0,
+        "snippet": "Tesla, Rivian, and GM resist Apple CarPlay, focusing on proprietary infotainment systems for unique user experiences and data control. #Tesla #Rivian #GM #CarPlay #Infotainment #AutomotiveTech https:/",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@herbertthecorgi.bsky.social (Bluesky): Oof, they don't even have an option for one? At least Rivian gives you the optio",
+        "url": "https://bsky.app/profile/did:plc:mtugkkejen4xcei7nlpadwes/post/3msjbmof3qk23",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T19:20:20.373Z",
+        "score": 2,
+        "snippet": "Oof, they don't even have an option for one? At least Rivian gives you the option to slot in a compact donut (although have a spare as a paid option on a 45k+ vehicle is dumb). Human has a reservation",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): R2 Coastal Cloud interior and Forest Green in August. Borealis in September. All",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3msjbgyal2c2c",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T19:17:14.784Z",
+        "score": 5,
+        "snippet": "R2 Coastal Cloud interior and Forest Green in August. Borealis in September. All three on the Launch Package.\n\nriviantrackr.com/news/r2-coas...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cityofatlantaga.bsky.social (Bluesky): atl.direct/rivian-opens...",
+        "url": "https://bsky.app/profile/did:plc:2xqbuhrijhpfcjhbak5j6aon/post/3msj7tcesis2q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T18:48:18.476Z",
+        "score": 0,
+        "snippet": "atl.direct/rivian-opens...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@edmunds.com (Bluesky): The Rivian R2 is an absolutely fantastic new electric SUV and a worthy competito",
+        "url": "https://bsky.app/profile/did:plc:pke5yygqvucnadlhfwc5ccqf/post/3msj5zen5yc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T18:15:54.266Z",
+        "score": 2,
+        "snippet": "The Rivian R2 is an absolutely fantastic new electric SUV and a worthy competitor to the Model Y",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A GMC Sierra EV Hit 301.97 kW on a Rivian Charger?! #Shorts",
+        "url": "https://youtube.com/watch?v=VW8_aZiLcVc",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T22:00:04Z",
+        "score": 0,
+        "snippet": "A non-Rivian GMC Sierra EV reached a 301.97 kW peak through a NACS adapter on the Rivian Adventure Network. Watch the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Driving the Rivian R2",
+        "url": "https://youtube.com/watch?v=CT0P99Ofs28",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T22:00:24Z",
+        "score": 0,
+        "snippet": "We're testing the new 2027 Rivian R2. What's it's really like to drive? We take the R2 around our test track to let you know. #rivian ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "So are you Team Tesla for $96K or Team Rivian for $106K? #luxurycars #cars #tesla #fyp #foryou",
+        "url": "https://youtube.com/watch?v=7BfL-X95ZA0",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T21:18:16Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Efficiency EXPOSED! Why Real Drivers Are Getting Completely Different Numbers",
+        "url": "https://youtube.com/watch?v=UBUkAOuCWZg",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T20:45:04Z",
+        "score": 0,
+        "snippet": "Rivian R2 Efficiency EXPOSED! Why Real Drivers Are Getting Completely Different Numbers** Is the Rivian R2 really as efficient ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Top Upgrades for Rivian R1T / R1S: Paint Protection Film, Running Boards, Aftermarket Forged Wheels!",
+        "url": "https://youtube.com/watch?v=w-XX3Z18jSg",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T20:25:50Z",
+        "score": 0,
+        "snippet": "Subscribe to EV Sportline for the best in electric vehicle upgrades \u26a1\ufe0f Click     'Show More' for links EV Sportline website: ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The R2 Is How Fast?",
+        "url": "https://youtube.com/watch?v=zg9g_c3pBi4",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T19:00:39Z",
+        "score": 0,
+        "snippet": "We're testing the new 2027 Rivian R2. With so much horsepower, how fast is the Rivian R2 from 0-60 mph? And does it have any ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2: The $40K SUV That Could Change Everything! \ud83d\ude99\u26a1",
+        "url": "https://youtube.com/watch?v=8hYBe5iV8uE",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T18:21:17Z",
+        "score": 0,
+        "snippet": "Hi, this is MAM from NextGear by MAM! \u2728 Rivian R2: The $40K SUV That Could Change Everything! \u26a1 The Rivian R2 could ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1T Adventure Santa Rosa  Rohnert Park  Petaluma  Sebastopol  Windsor  Cotati",
+        "url": "https://youtube.com/watch?v=bJskykxl12M",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T18:02:05Z",
+        "score": 0,
+        "snippet": "2023 Rivian R1T Adventure Stock Number: BU42574 Vin:7FCTGAAA5PN021472. Hansel BMW is proudly serving our friends and ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "We Drove the Rivian R2. Could It Replace Our Gas SUV?",
+        "url": "https://youtube.com/watch?v=OH03iw0cMEU",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T18:00:09Z",
+        "score": 0,
+        "snippet": "We finally got behind the wheel of the Rivian R2 \u2014 and instead of treating this like a traditional car review or comparing ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian R2 Settings Walkthrough - Watch This Before You Take Delivery!",
+        "url": "https://youtube.com/watch?v=GjazY6awWBo",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T17:44:52Z",
+        "score": 0,
+        "snippet": "In this video, I walk through all of the various Rivian R2 vehicle settings menus. I give my perspective from using these settings for ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
