@@ -96143,5 +96143,399 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-07T14:02:08.522175Z",
+    "timestamp": "2026-08-07T14:02:08.522175Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 87,
+      "negative": 12
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Audio System",
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "24 signals across Vehicles (15), Other (3); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, August 07, 2026 \u2014 2:02 PM PT \u2014 24 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 19 Rivian signals clustered around Vehicles (15), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Rivian Mentions, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* BYD's automotive business is consuming nearly everything its battery unit produces, leaving little to sell externally. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/catl-and-byds-battery-growth-pulls-in-opposite-directions/\n\u2022 *Competitive Threats:* The financial and geographical details of Terafab are now clear, but viability remains reliant on Musk\u2019s more outlandish bets paying off. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/tesla-puts-terafab-in-texas-for-us16bn-but-plan-still-vague/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 Edmunds :R2 test\n  https://www.reddit.com/r/Rivian/comments/1vi0euu/edmunds_r2_test/\n*Business (1)* \u2022 More revenue for Rivian begins. finance.yahoo.com/technology/a...\n  https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3msijjjasy22t\n*Software (1)* \u2022 In this video, I do a walk through of Rivian latest software update 2026.24.41. We go through all the things and give our take on ...\n  https://youtube.com/watch?v=OWyYTzli9Ng\n*Community (2)* \u2022 As more EVs hit the road, will we have the mechanics to keep them running? In this issue of our environmental newsletter, we look at the challenge of training enough mechanics to service the growing\n  https://bsky.app/profile/did:plc:bnk5d72upa2mfzwglo6ynbs3/post/3msijmffg3n2q\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Audio System\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Edmunds :R2 test",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vi0euu/edmunds_r2_test/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T13:17:50.651Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 buyers: service still sucks. If you have kids, it's worse.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhzprd/r2_buyers_service_still_sucks_if_you_have_kids/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T12:48:19.023Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "What's going in your R2 trunk/frunk kit?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhyopn/whats_going_in_your_r2_trunkfrunk_kit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T12:01:42.289Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Echo when using phone??",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhsox2/echo_when_using_phone/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T06:22:04.364Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "California Central Coast adventuring in new (to me) R1S Tri Max",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhqudp/california_central_coast_adventuring_in_new_to_me/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T04:41:02.577Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hit and Run",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhqqde/hit_and_run/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T04:35:07.127Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Am I screwed?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vhq7kk/am_i_screwed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-07T04:08:18.989Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "CATL and BYD\u2019s battery growth pulls in opposite directions",
+        "url": "https://www.automotiveworld.com/news/catl-and-byds-battery-growth-pulls-in-opposite-directions/",
+        "source": "automotive_world",
+        "publishedAt": "Fri, 07 Aug 2026 12:10:56 +0000",
+        "score": 0,
+        "snippet": "<p>BYD's automotive business is consuming nearly everything its battery unit produces, leaving little to sell externally. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.automotiveworld.com/ne",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla puts Terafab in Texas for US$16bn, but plan still vague",
+        "url": "https://www.automotiveworld.com/news/tesla-puts-terafab-in-texas-for-us16bn-but-plan-still-vague/",
+        "source": "automotive_world",
+        "publishedAt": "Fri, 07 Aug 2026 09:41:38 +0000",
+        "score": 0,
+        "snippet": "<p>The financial and geographical details of Terafab are now clear, but viability remains reliant on Musk\u2019s more outlandish bets paying off. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.aut",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Discover Rivian\u2019s Journey: Electric Dreams & Bold Innovations Await! - Phemex",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wTGcwQ3lkTEFEY2xOVkRvLWFHWHctVFdsNUJFY2dSZDN6MHV5UHJIT2J6bXEzYzFEc0t1ZnNLVzZubnZwOWpSWjY2VzlNUkJGWXdkaWRMNHhEcjJsamRPWVhrOXB5Y0lJYll1bHBHZHFwdkJwWVNrRVlzcEw4Zw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 07 Aug 2026 07:37:51 GMT",
+        "score": 0,
+        "snippet": "Discover Rivian\u2019s Journey: Electric Dreams & Bold Innovations Await! - Phemex",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Prediction: This Crucial Rivian Metric Will Turn Positive by Year-End - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcklwajQ1cHlFTDlTSlE0cEhkSldYZUliY3dUbzZmTWs5Tl9TQU0wa0R0Z1hWYUVaLS1SX2p5LXFzZkQ5RU9RTXZHSEhaZWNBS2ZfTk9JWm94TUZ4UXdfc2hjbVJmYkN1ZnROaG9LNHhyNTZyQkZ2dllMb0M3dlRBQ1hDd2FYZW5UTXJTSU9rbGNGdml0bFVacw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 07 Aug 2026 07:05:00 GMT",
+        "score": 0,
+        "snippet": "Prediction: This Crucial Rivian Metric Will Turn Positive by Year-End - The Motley Fool",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is the 2027 Rivian R2 a Good Mid-Size SUV? 6 Pros, 2 Cons - Cars.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGxxWi1JN083c2ZRbUl6ZVVtRy0tMVZaVVZHRHlUckYyNy1aWDNqeFA2d0dCMDhCVzRIVmJWa2ljVl9IRllLcC01M1ItZGsyd0JDdjQyRjJRVlI1Y2ZiVnZHLXdtZ3dHeF9VNXZKMVJTZEg5TzJPZjFkVTdRZGJWdTNkcElJU0ZCUExhNGRib19Mc1liYzJ1bw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 07 Aug 2026 11:05:43 GMT",
+        "score": 0,
+        "snippet": "Is the 2027 Rivian R2 a Good Mid-Size SUV? 6 Pros, 2 Cons - Cars.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gingerjet.net (Bluesky): They didn\u2019t get an \u201cexemption\u201d. The state changed their laws to allow it so in m",
+        "url": "https://bsky.app/profile/did:plc:vy6o7yemm3w4nzy4pxnvwnm2/post/3msioxmas422y",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T13:46:27.264Z",
+        "score": 1,
+        "snippet": "They didn\u2019t get an \u201cexemption\u201d. The state changed their laws to allow it so in most cases any company can take advantage of it. Such as Rivian. Rivian also hired away the people from Tesla that origin",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@scrubfire84.bsky.social (Bluesky): As more EVs hit the road, will we have the mechanics to keep them running?\n\nIn t",
+        "url": "https://bsky.app/profile/did:plc:bnk5d72upa2mfzwglo6ynbs3/post/3msijmffg3n2q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T12:10:42.267Z",
+        "score": 0,
+        "snippet": "As more EVs hit the road, will we have the mechanics to keep them running?\n\nIn this issue of our environmental newsletter, we look at the challenge of training enough mechanics to service the growing ",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): More revenue for Rivian begins. finance.yahoo.com/technology/a...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3msijjjasy22t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T12:09:09.568Z",
+        "score": 0,
+        "snippet": "More revenue for Rivian begins. finance.yahoo.com/technology/a...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@schmidtisblog.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3mshyqxwgiu2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-07T07:09:05.693Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Rivian Software 2026.24.41 Walk Through.... is Climate finally better?",
+        "url": "https://youtube.com/watch?v=OWyYTzli9Ng",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T14:00:17Z",
+        "score": 0,
+        "snippet": "In this video, I do a walk through of Rivian latest software update 2026.24.41. We go through all the things and give our take on ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "L\u1ea7n \u0110\u1ea7u S\u1ea1c \u0110i\u1ec7n Xe Rivian \u1ede Tr\u1ea1m S\u1ea1c Tesla #tesla #Rivian #SuperCharger #XeDien #roadtrip",
+        "url": "https://youtube.com/watch?v=KMyn_C9Qs_c",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T13:32:38Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "FULLY TESTED: 2027 Rivian R2",
+        "url": "https://youtube.com/watch?v=I5zMrb8VSk4",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T13:00:05Z",
+        "score": 0,
+        "snippet": "Is the 2027 Rivian R2 the ultimate electric SUV? We put its 0-60 mph acceleration, 60-0 braking, the Rivian R2's range to the test ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian: Georgia\u2019s Controversial $5 BILLION Rivian Plant Site | 4K Drive",
+        "url": "https://youtube.com/watch?v=CUnfpphe5qU",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T11:54:26Z",
+        "score": 0,
+        "snippet": "Take a full 4K drive around the future Rivian manufacturing plant outside Social Circle, Georgia. We start at the Rivian signage ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Previous Livestream - I Wash my Rivian R2 and Chat",
+        "url": "https://youtube.com/watch?v=z9RTOIzXYw4",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T11:53:40Z",
+        "score": 0,
+        "snippet": "Just a live stream where I washed my Rivian R2 and chatted a bit. Sorry about the audio issues at the start, didn't realize my mic ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Audio System",
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "Rivian R2 2027 \u2013 The Electric SUV Everyone Is Waiting For! \u26a1",
+        "url": "https://youtube.com/watch?v=_Pjhi2mW-y4",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T10:50:12Z",
+        "score": 0,
+        "snippet": "Meet the Rivian R2 \u2014 a new-generation electric SUV designed to bring Rivian's adventure-focused experience to a wider ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2: Challenger",
+        "url": "https://youtube.com/watch?v=6qn5OlEJfEU",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T09:23:26Z",
+        "score": 0,
+        "snippet": "The Rivian R2 is the highly anticipated mid-sized electric SUV designed to bring Rivian's signature \"adventure\" brand to the mass ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 \u2013 The Future of Electric Adventure \u26a1\ud83d\udd25",
+        "url": "https://youtube.com/watch?v=ENcA5prV518",
+        "source": "youtube",
+        "publishedAt": "2026-08-07T07:09:53Z",
+        "score": 0,
+        "snippet": "Experience the all-new 2027 Rivian R2 in this cinematic AI-made YouTube Short. From rugged off-road capability to futuristic ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
