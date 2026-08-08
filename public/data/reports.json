@@ -97463,5 +97463,389 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-08T18:01:32.562187Z",
+    "timestamp": "2026-08-08T18:01:32.562187Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 79,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Charging",
+      "EV Market",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "24 signals across Vehicles (17), Other (3); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, August 08, 2026 \u2014 6:01 PM PT \u2014 24 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 21 Rivian signals clustered around Vehicles (17), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Rivian Mentions, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (17)* \u2022 Something to keep in mind when purchasing your R2\n  https://www.reddit.com/r/Rivian/comments/1viyu62/something_to_keep_in_mind_when_purchasing_your_r2/\n*Business (2)* \u2022 What Rivian And Lucid\u2019s Latest Earnings Say About The EV Startup Race Five years ago, Rivian and\n  https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mslbcrdpgj25\n*Software (2)* \u2022 Bug in 2026.30.0: Prompts announced in metric instead of imperial\n  https://www.reddit.com/r/Rivian/comments/1vizall/bug_in_2026300_prompts_announced_in_metric/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Charging\n\u2022 EV Market\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Seat Restore Not Working",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vj230u/seat_restore_not_working/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T17:38:45.956Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Amazon Music is gone. WTF?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vj06rl/amazon_music_is_gone_wtf/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T16:22:26.351Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Bug in 2026.30.0: Prompts announced in metric instead of imperial",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vizall/bug_in_2026300_prompts_announced_in_metric/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T15:46:01.691Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Something to keep in mind when purchasing your R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1viyu62/something_to_keep_in_mind_when_purchasing_your_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T15:15:54.283Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Something to keep in mind when purchasing your R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1viykm9/something_to_keep_in_mind_when_purchasing_your_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T15:15:54.283Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Front plate holder for R1/R2 plate holder update.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1viynat/front_plate_holder_for_r1r2_plate_holder_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T15:18:56.841Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "R2 Camp Kitchen Progress \ud83c\udf73",
+        "url": "https://www.reddit.com/r/Rivian/comments/1viykwe/r2_camp_kitchen_progress/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T15:16:14.017Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Wish Rivian would bring back the Black Mountain + Dark Ash interior option",
+        "url": "https://www.reddit.com/r/Rivian/comments/1viyeex/wish_rivian_would_bring_back_the_black_mountain/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-08T15:08:43.683Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 review",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vj1fl0/r2_review/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-08T17:10:55.243Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 review",
+        "url": "https://www.reddit.com/r/RIVNstock/comments/1vj1dzq/r2_review/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-08T17:10:55.243Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Going with Forest Green.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vj10rw/going_with_forest_green/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-08T16:56:12.446Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "@barycentric.bsky.social (Bluesky): Pollutizon. I guess they figured they would offset the gains by that Rivian ev f",
+        "url": "https://bsky.app/profile/did:plc:rlskulqd43i7dfu3ymavk2wk/post/3mslkrnangc26",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T17:09:31.080Z",
+        "score": 0,
+        "snippet": "Pollutizon. I guess they figured they would offset the gains by that Rivian ev fleet of delivery trucks they brought.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rogernoden.com (Bluesky): Rivian already support plug & charge with a number of different providers. So do",
+        "url": "https://bsky.app/profile/did:plc:s5gyvg5lfkydqw5lo4exs6qp/post/3msljknfvak2n",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T16:47:42.877Z",
+        "score": 0,
+        "snippet": "Rivian already support plug & charge with a number of different providers. So does Ford. GM is late to the show.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): Rivian\u2019s make-or-break R2 midsize EV delivers: Road test\n\nhttps://www.evshift.co",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mslhzas5d32z",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T16:20:05.881Z",
+        "score": 0,
+        "snippet": "Rivian\u2019s make-or-break R2 midsize EV delivers: Road test\n\nhttps://www.evshift.com/505662/rivians-make-or-break-r2-midsize-ev-delivers-road-test/\n\nThe Rivian R2 is, frankly, the most important vehicle ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newscoulomb.bsky.social (Bluesky): Yes, the exemption was specifically for Lucid and Rivian, two California headqua",
+        "url": "https://bsky.app/profile/did:plc:4jzjwkjkluizx6j5lpbf6ezp/post/3mslgrjuyfk23",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T15:57:53.871Z",
+        "score": 0,
+        "snippet": "Yes, the exemption was specifically for Lucid and Rivian, two California headquartered EV automakers that don't currently offer any EV models that are cheaper than $50,000.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@roberee.bsky.social (Bluesky): $RIVN exciting progress, best of luck to Rivian\n\nRivian reveals its newly comple",
+        "url": "https://bsky.app/profile/did:plc:4472wuka2ntw3bq6bdtavkn7/post/3mslfofkgwc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T15:38:16.769Z",
+        "score": 1,
+        "snippet": "$RIVN exciting progress, best of luck to Rivian\n\nRivian reveals its newly completed East Coast Headquarters\nstories.rivian.com/atlanta-geor...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jeremydunworth.bsky.social (Bluesky): Rivian : The Tesla of Trucks.",
+        "url": "https://bsky.app/profile/did:plc:zwwcuzjwmrdlhr2t3sfui4jv/post/3mslf22kcyk2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T15:26:52.271Z",
+        "score": 1,
+        "snippet": "Rivian : The Tesla of Trucks.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@yahoofinance.com (Bluesky): Rivian's make-or-break R2 midsize EV delivers: Road test",
+        "url": "https://bsky.app/profile/did:plc:sqbswn3lalcc2dlh2k7zdpuw/post/3msldv3u63b2j",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T15:06:11.073Z",
+        "score": 1,
+        "snippet": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@insaniabd.bsky.social (Bluesky): Why?  Well, for one, why do they all have to look so ridiculous?  Cybertrucks, E",
+        "url": "https://bsky.app/profile/did:plc:qdee7ygl3fhqlizq6tnhsriq/post/3mslblsoa4k2r",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T14:25:11.870Z",
+        "score": 0,
+        "snippet": "Why?  Well, for one, why do they all have to look so ridiculous?  Cybertrucks, E-trons, Rivian...or that terrible Slate?\n\nBut as it came to a truck, I simply hadn't a viable EV option compared to the ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@deebloo.bsky.social (Bluesky): After a few months of owning it, my Rivian is my favorite vehicle I have ever ow",
+        "url": "https://bsky.app/profile/did:plc:giyymvrv6yjipdxvlatenrnd/post/3mslbdps3ds2i",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T14:20:41.576Z",
+        "score": 2,
+        "snippet": "After a few months of owning it, my Rivian is my favorite vehicle I have ever owned. It is the first one that I actually want to drive. I like being in it, I like looking at it. I'll probably own an E",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evshift.bsky.social (Bluesky): What Rivian And Lucid\u2019s Latest Earnings Say About The EV Startup Race\n\nhttps://w",
+        "url": "https://bsky.app/profile/did:plc:7dzisek6r5umenig45favjer/post/3mslbcrdpgj25",
+        "source": "bluesky",
+        "publishedAt": "2026-08-08T14:20:08.972Z",
+        "score": 0,
+        "snippet": "What Rivian And Lucid\u2019s Latest Earnings Say About The EV Startup Race\n\nhttps://www.evshift.com/505608/what-rivian-and-lucids-latest-earnings-say-about-the-ev-startup-race/\n\nFive years ago, Rivian and ",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R1S AI \ud83d\ude31\ud83d\ude99 | This SUV Looks 100% Real! \ud83d\udd25 8K Cinematic #Shorts #RivianR1S #Rivian #R1S #AICar",
+        "url": "https://youtube.com/watch?v=h8KdBHm7-zI",
+        "source": "youtube",
+        "publishedAt": "2026-08-08T17:11:00Z",
+        "score": 0,
+        "snippet": "Rivian R1S AI Cinematic Video! \u2728 AI \u0915\u0940 \u092e\u0926\u0926 \u0938\u0947 \u092c\u0928\u093e\u0908 \u0917\u0908 \u092f\u0939 Ultra Realistic Rivian R1S \u0926\u0947\u0916\u0915\u0930 \u0906\u092a \u092d\u0940 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Hotspot hates the Hollers @dianewallaceEVs ",
+        "url": "https://youtube.com/watch?v=XgKSqULYsig",
+        "source": "youtube",
+        "publishedAt": "2026-08-08T15:58:12Z",
+        "score": 0,
+        "snippet": "Rivian R1T trip to Jersey Shore from Winston-Salem, North Carolina #evs #tesla #rivian #fishing #Wawa #royalfarms #evcharging ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Charging",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Rivian vs. Lucid: EV Startup Showdown After Latest Earnings!",
+        "url": "https://youtube.com/watch?v=xSkFe9vN9yc",
+        "source": "youtube",
+        "publishedAt": "2026-08-08T15:48:26Z",
+        "score": 0,
+        "snippet": "Explore the latest earnings reports from Rivian and Lucid to uncover the state of the EV startup race. Discover how Rivian's R2 ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
