@@ -97847,5 +97847,492 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-09T18:02:09.510441Z",
+    "timestamp": "2026-08-09T18:02:09.510441Z",
+    "sentiment": {
+      "positive": 15,
+      "neutral": 78,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 25,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "32 signals across Vehicles (25), Business (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, August 09, 2026 \u2014 6:02 PM PT \u2014 32 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (25), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Business, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (25)* \u2022 Rivian R2 wheel options - 20 AT vs 21 AS\n  https://www.reddit.com/r/Rivian/comments/1vjuvdg/rivian_r2_wheel_options_20_at_vs_21_as/\n*Business (3)* \u2022 Rivian Automotive (RIVN) Could Be 15% Undervalued As Earnings Show Narrowing Losses - simplywall.st\n  https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnVfZVh5aV9ibnVFNUlXTkdHZ203VWlEZVJtb0pWZ29ZMDE4SEdTYm1BcTBDUk5CSjAyYnNlXzUxbjlpcUk3R083Q0JqV1FfRXJIZ19BQXQxT3hfaTZrdTQwSmd2cEV5Nm9JbFpPNGNtaFVZeG9hZGFNVjBIdmZaeFE0V0RVZ0tJYVl3ckltZ1kyMW8zT2YyYXRPdjF3enZHRzExcmJxdmRQc3g1X2FKVnl6YU4tYkNiT3RtdVBrZTJyX0tvMXIzRmx4TVRtWlk3QWNJemd30gHbAUFVX3lxTFBZdGNpWEQwb0tLRkdDbnkyaFpzYWdnZ0p3M2ZpTTlYRWpOUy0zVTVvVjFmYUFfanNQb1lwOUxmem5GT1IwSmJYOUc2WVVzSVJSSS1RcXQyUGh0UmZrNXBkcGs2X3hiMkZyNV9palpmcG1fUDhyak44SWJPcThfWmRXTXk1YUt0dWlEUmJWdGxVdGNiWTNBNS1fcDA0aEpZNUw2cUVjOUl2cDdQTE1UVnlMcUlYSlBLY2p1a2xXbWpfaHBDalZqNlVaSVJWbEU2NnlJX1pxeE9IdFh1aw?oc=5\n*Software (2)* \u2022 Update = series of errors?\n  https://www.reddit.com/r/Rivian/comments/1vjraqd/update_series_of_errors/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian R2 wheel options - 20 AT vs 21 AS",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vjuvdg/rivian_r2_wheel_options_20_at_vs_21_as/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T16:50:27.021Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 wheel options - 20 AT vs 21 AS",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vjutlz/rivian_r2_wheel_options_20_at_vs_21_as/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T16:50:27.021Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Assistant Text Messaging and My Wife",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vjtfhy/rivian_assistant_text_messaging_and_my_wife/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T15:55:09.391Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Update = series of errors?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vjraqd/update_series_of_errors/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T14:28:33.541Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Not impressed - booked a demo about a month ago. Whole family was excited to see it.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vjqcei/not_impressed_booked_a_demo_about_a_month_ago/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T13:47:58.255Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Why Rivian?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vjpg9u/why_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T13:07:34.111Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hot Battery driving to Vegas from SoCal",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vjjbso/hot_battery_driving_to_vegas_from_socal/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T07:22:21.298Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Best dashboard shade for R1S?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vjevvj/best_dashboard_shade_for_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-09T03:17:08.764Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Short R2 review from a Model S owner.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vjczqy/short_r2_review_from_a_model_s_owner/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-09T01:39:49.087Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Could Be 15% Undervalued As Earnings Show Narrowing Losses - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnVfZVh5aV9ibnVFNUlXTkdHZ203VWlEZVJtb0pWZ29ZMDE4SEdTYm1BcTBDUk5CSjAyYnNlXzUxbjlpcUk3R083Q0JqV1FfRXJIZ19BQXQxT3hfaTZrdTQwSmd2cEV5Nm9JbFpPNGNtaFVZeG9hZGFNVjBIdmZaeFE0V0RVZ0tJYVl3ckltZ1kyMW8zT2YyYXRPdjF3enZHRzExcmJxdmRQc3g1X2FKVnl6YU4tYkNiT3RtdVBrZTJyX0tvMXIzRmx4TVRtWlk3QWNJemd30gHbAUFVX3lxTFBZdGNpWEQwb0tLRkdDbnkyaFpzYWdnZ0p3M2ZpTTlYRWpOUy0zVTVvVjFmYUFfanNQb1lwOUxmem5GT1IwSmJYOUc2WVVzSVJSSS1RcXQyUGh0UmZrNXBkcGs2X3hiMkZyNV9palpmcG1fUDhyak44SWJPcThfWmRXTXk1YUt0dWlEUmJWdGxVdGNiWTNBNS1fcDA0aEpZNUw2cUVjOUl2cDdQTE1UVnlMcUlYSlBLY2p1a2xXbWpfaHBDalZqNlVaSVJWbEU2NnlJX1pxeE9IdFh1aw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 09 Aug 2026 13:40:12 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Could Be 15% Undervalued As Earnings Show Narrowing Losses - simplywall.st",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian: Successful EV Story With More Cash Burn Ahead - Reiterate Buy (NASDAQ:RIVN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEFaQ0tDMEdQeThVYTdCYUp0Zy1xX3Bsc1psWHRFZm9VbkZVUmNoUm8yTk5lTlNfZUgtajNSaTRxWmRZb2FGOUhBSlQzSjB2U2hJRUV1U1h1RTNVVElqVGl2VkxmN3lPdVozM2NSWTBoMmFITzRheDFlQzhmNmVybVNOb1NrUC1BQUl4ZmtwNVdUR0g5cFlfOEZhU0wtUzA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 09 Aug 2026 10:28:26 GMT",
+        "score": 0,
+        "snippet": "Rivian: Successful EV Story With More Cash Burn Ahead - Reiterate Buy (NASDAQ:RIVN) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) recovery meets critical R2 shipment benchmark - TechStock\u00b2",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndvZnAwV0hkMExKQ3d5Rlc2YU5EMmM1d1JMbW84VVdsbTJQRHpOeXp4LTg1RkZ0VnZZRzZzRHVLXzBheXVkNlN2MjhWS3FkTTRZVmdnMW1NQlJWTjZDd0YxV1U1YVpCdWV1QWZkREVBTWgtS1BFVTlQdmU3RDBtb2pKNXR2NmFTOFAxbHE1RF9yX0NET2NUeE5yYw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 09 Aug 2026 15:30:18 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) recovery meets critical R2 shipment benchmark - TechStock\u00b2",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@beyondlink.bsky.social (Bluesky): Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in",
+        "url": "https://bsky.app/profile/did:plc:joxpffdd3w44tpol34fkx3rk/post/3mso3xu6pse2b",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T17:22:32.675Z",
+        "score": 0,
+        "snippet": "Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in 3 Years?",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@jbvta.bsky.social (Bluesky): I have Rivian and it rules. \nBut yes it\u2019s insane that this dementia riddled clow",
+        "url": "https://bsky.app/profile/did:plc:o4j5cjvnmtsjsikfxggu7dnv/post/3mso2nuj5o22r",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:59:03.872Z",
+        "score": 0,
+        "snippet": "I have Rivian and it rules. \nBut yes it\u2019s insane that this dementia riddled clown is trying to block further development and a better charging infrastructure.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnzd7buis2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:35:12.679Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnzb5pwpk2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:34:03.970Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnzaeucqs2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:33:38.073Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Yup!\ud83d\udc47\ud83c\udffd #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnz7sqc7c2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:33:19.463Z",
+        "score": 0,
+        "snippet": "Yup!\ud83d\udc47\ud83c\udffd #Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnz6lvwds2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:32:38.366Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnz65ybm22m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:32:23.567Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Hooray!! #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnyzktvn22m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:29:49.665Z",
+        "score": 1,
+        "snippet": "Hooray!! #Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3msnyz6pgxs2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-09T16:29:36.563Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Subscribe To Win a Brand New Truck!",
+        "url": "https://youtube.com/watch?v=IXWFI1SAXrg",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T17:30:11Z",
+        "score": 0,
+        "snippet": "Huge thank you to Rivian for making these incredible trucks available. #rivian #partner.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\ud83d\ude97 UNBOXING REVEAL#car#shorts#viral",
+        "url": "https://youtube.com/watch?v=myfkhQResXI",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T17:30:27Z",
+        "score": 0,
+        "snippet": "Rivian   UNBOXING REVEAL#car#shorts#viral Experience the world's fastest and most luxurious supercars in amazing 4K ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "EV Off-Road Battle! Rivian R1T vs GMC Hummer EV | Forza Horizon 6 \u2b50",
+        "url": "https://youtube.com/watch?v=U4I5BazFcj0",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T16:00:05Z",
+        "score": 0,
+        "snippet": "This one deserves a title that's clean, searchable, and curiosity-driven. Title Options 1. EV Off-Road Battle! Rivian R1T vs GMC ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Real World Range Revealed",
+        "url": "https://youtube.com/watch?v=-UKK_cPnYPI",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T14:59:57Z",
+        "score": 0,
+        "snippet": "Tesla Referral \u2013 Get $2500 OFF https://linktr.ee/Denniscw Save $200 on customizable EV coverage for your Tesla or other EV ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "He Quit Engineering For Trade School. Now He&#39;s At Rivian.",
+        "url": "https://youtube.com/watch?v=FsXr7T1BGOQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T15:00:37Z",
+        "score": 0,
+        "snippet": "Two years into a mechanical engineering degree, first in his family to go to college, already in debt and in a panic. He wanted to ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Universal Hands Free in an Absolute Downpour",
+        "url": "https://youtube.com/watch?v=7zgajzLZSQo",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T14:58:25Z",
+        "score": 0,
+        "snippet": "We were out driving and it started pouring, so we decided to catch some footage of how UHF behaved in heavy rain and standing ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R1T vs Hummer EV Tug of War Challenge #pickuptruck #RivianR1T #HummerEV #tugofwar #automobile",
+        "url": "https://youtube.com/watch?v=r0vvNuT9T7c",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T14:05:16Z",
+        "score": 0,
+        "snippet": "Rivian R1T vs Hummer EV Tug of War Challenge #pickuptruck #RivianR1T #HummerEV #tugofwar #automobile #today #offroad ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T vs Giant Industrial Shredder \ud83d\udd25 | Can a Mega Shredder Crush This Rivian R1T? #Shorts",
+        "url": "https://youtube.com/watch?v=RqRjHn6vJL0",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T14:00:05Z",
+        "score": 0,
+        "snippet": "Shorts #RivianR1T #IndustrialShredder Watch the \"Rivian R1T\" get pulled directly into a massive industrial twin-shaft shredder in ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Stuck Off-Road in a Rivian? #testing #trucks",
+        "url": "https://youtube.com/watch?v=cAwAfcT9Rao",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T13:30:39Z",
+        "score": 0,
+        "snippet": "Not even close. Despite its weight, the amount of technology and features available on this truck make this extremely capable ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why do you think I bought this?",
+        "url": "https://youtube.com/watch?v=wI0lorDp11E",
+        "source": "youtube",
+        "publishedAt": "2026-08-09T13:08:59Z",
+        "score": 0,
+        "snippet": "Drop a comment below with your honest take on why you think people are buying electric vehicles right now\u2014am I crazy for ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
