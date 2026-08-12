@@ -99253,5 +99253,585 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-12T18:03:47.471518Z",
+    "timestamp": "2026-08-12T18:03:47.471518Z",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 89,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "38 signals across Vehicles (21), Other (8); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, August 12, 2026 \u2014 6:03 PM PT \u2014 38 signals \u00b7 6 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (21), Demo & Test Drives (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Rivian Mentions, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Anyone else think the \u201cautonomy display\u201d is a bit too buggy?\n  https://www.reddit.com/r/Rivian/comments/1vmjum8/anyone_else_think_the_autonomy_display_is_a_bit/\n*Demo & Test Drives (3)* \u2022 Test drove an R2 on Saturday and got hooked from that experience alone\n  https://www.reddit.com/r/RivianR2/comments/1vmi139/test_drove_an_r2_on_saturday_and_got_hooked_from/\n*Vehicles (21)* \u2022 R1S Auto Brake Issue\n  https://www.reddit.com/r/Rivian/comments/1vmktql/r1s_auto_brake_issue/\n*Business (1)* \u2022 The Factory Math That Could Power Rivian Automotive Stock Higher - Trefis\n  https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaWstS09VMUdIdl96Qkc0MlhKbDBLLUJaSVMzTmVMTHQ0R3VRUnRnR01PT1JHSWtaTmVPbjUzMmNtcFk2Q19xOE5DSG5CU1N5ZExHRDdLQ2w4RDdsUVlMWjdreGZXczcxaEpWd1NtWkNxekxuRnotZmw0UzFEQkF2NTgyZndCd2pkVWxfVFhaNWh2bkV3TXVnX1hvek01MERFeUlHZllMaEF2VkMwSHBUaTBrbmx4T3R5dE9TTEYyNWkwV3M?oc=5\n*Software (3)* \u2022 Rivian R1 software update 2026.23 has now reached 83% of Connect+ subscribers. Hopefully that means the rest get it today with non-Connect+ following. rivianroamer.com/software-up...\n  https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3msvg76hudf24\n*Community (1)* \u2022 4Runner owner first impressions\n  https://www.reddit.com/r/RivianR2/comments/1vluf43/4runner_owner_first_impressions/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R1S Auto Brake Issue",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vmktql/r1s_auto_brake_issue/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-12T17:32:00.770Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone else think the \u201cautonomy display\u201d is a bit too buggy?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vmjum8/anyone_else_think_the_autonomy_display_is_a_bit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-12T16:58:21.633Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "negative",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "R2 Invite - Tire Question",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vmjlxi/r2_invite_tire_question/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-12T16:49:44.321Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Also Office In Seattle?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vmj6la/also_office_in_seattle/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-12T16:34:41.812Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Purchasing question - What's the outlook for the R1S Tri over the next 10 years?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vmisuv/purchasing_question_whats_the_outlook_for_the_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-12T16:21:16.049Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Max Battery R2?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vmhyev/max_battery_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-12T15:50:38.051Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Did Rivian Over Promise?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vmfyte/did_rivian_over_promise/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-12T14:38:01.369Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Test drove an R2 on Saturday and got hooked from that experience alone",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vmi139/test_drove_an_r2_on_saturday_and_got_hooked_from/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-12T15:53:22.345Z",
+        "score": 0,
+        "snippet": "",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Can't help but feel frustrated with reservation system",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vlxxte/cant_help_but_feel_frustrated_with_reservation/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-11T23:43:31.144Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Day 1 Reservation, Three Demo Drives, Aug/Sept Order Window, August 11 Order Invite",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vlww8j/day_1_reservation_three_demo_drives_augsept_order/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-11T22:59:20.814Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "4Runner owner first impressions",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vluf43/4runner_owner_first_impressions/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-11T21:20:32.693Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Rear Headrest Removable?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vls0m9/rear_headrest_removable/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-11T19:51:26.923Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Order Invite Received \u2014 Sept/Oct 2026 Window",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vlruny/order_invite_received_septoct_2026_window/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-11T19:45:18.566Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian's Money-Saving Strategy Involves Reusing Old Batteries",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1vme9lt/rivians_moneysaving_strategy_involves_reusing_old/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-08-12T13:32:15.367Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Chinese EVs are at a different level",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1vmarpz/chinese_evs_are_at_a_different_level/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-08-12T10:52:32.035Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Weak infrastructure complicates Nigeria\u2019s EV ambitions",
+        "url": "https://www.automotiveworld.com/news/weak-infrastructure-complicates-nigerias-ev-ambitions/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 12 Aug 2026 10:46:13 +0000",
+        "score": 0,
+        "snippet": "<p>Nigeria\u2019s electrification incentives favour fossil fuel-hungry cars, but two- and three-wheelers may present a more viable path to 2050. By Stewart Burnett</p>\n<p>The post <a href=\"https://www.auto",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "The Factory Math That Could Power Rivian Automotive Stock Higher - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaWstS09VMUdIdl96Qkc0MlhKbDBLLUJaSVMzTmVMTHQ0R3VRUnRnR01PT1JHSWtaTmVPbjUzMmNtcFk2Q19xOE5DSG5CU1N5ZExHRDdLQ2w4RDdsUVlMWjdreGZXczcxaEpWd1NtWkNxekxuRnotZmw0UzFEQkF2NTgyZndCd2pkVWxfVFhaNWh2bkV3TXVnX1hvek01MERFeUlHZllMaEF2VkMwSHBUaTBrbmx4T3R5dE9TTEYyNWkwV3M?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 12 Aug 2026 14:15:50 GMT",
+        "score": 0,
+        "snippet": "The Factory Math That Could Power Rivian Automotive Stock Higher - Trefis",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian's own configurator and EPA data show how little the $26,000 premium buys ",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3msvoebitvy25",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T17:40:15.467Z",
+        "score": 0,
+        "snippet": "Rivian's own configurator and EPA data show how little the $26,000 premium buys in power, acceleration and range.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hoon.bsky.social (Bluesky): Soooo, I\u2019m basically getting a new front door, covered by Rivian\u2019s warranty.\n\nTh",
+        "url": "https://bsky.app/profile/did:plc:keibepgn3i4tqyjbdbwy43ue/post/3msvne6mr7s2v",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T17:22:22.166Z",
+        "score": 1,
+        "snippet": "Soooo, I\u2019m basically getting a new front door, covered by Rivian\u2019s warranty.\n\nThe cause was galvanic corrosion from the door handle bolt. Needless to say, it shouldn\u2019t have happened in the first place",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): But, guys, the U.S. blogs and YouTubers are hyper focused on Rivian maybe sellin",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3msvjvltapc25",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T16:20:27.370Z",
+        "score": 2,
+        "snippet": "But, guys, the U.S. blogs and YouTubers are hyper focused on Rivian maybe selling 25,000 R2's this year \ud83d\ude02",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): 886 days after reserving, we took factory delivery of our Launch Edition Rivian ",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3msviwzzwvc27",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T16:03:23.073Z",
+        "score": 1,
+        "snippet": "886 days after reserving, we took factory delivery of our Launch Edition Rivian R2 in Catalina Cove! \u26a1\ufe0f\n\n\u200bCheck out our full walkaround, interior tech impressions, and first drive before heading back ",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian R1T vs Ford F-150 Lightning: comparing price, range, towing, and charging",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3msvgjwka3c2f",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T15:20:15.365Z",
+        "score": 0,
+        "snippet": "Rivian R1T vs Ford F-150 Lightning: comparing price, range, towing, and charging, plus what Ford ending Lightning production means for buyers.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Rivian R1 software update 2026.23 has now reached 83% of Connect+ subscribers. H",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3msvg76hudf24",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T15:14:14.976Z",
+        "score": 2,
+        "snippet": "Rivian R1 software update 2026.23 has now reached 83% of Connect+ subscribers. Hopefully that means the rest get it today with non-Connect+ following.\n\nrivianroamer.com/software-up...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian expands R1S and R1T recall over faulty turn signals",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3msvecxs34x2d",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T14:40:34.466Z",
+        "score": 0,
+        "snippet": "Rivian expands R1S and R1T recall over faulty turn signals",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@batteriesincluded.bsky.social (Bluesky): Fresh episode of Battery Bargains!\n\u2022 Home charger recommendation for cold weathe",
+        "url": "https://bsky.app/profile/did:plc:slwacrbq5xb6hy5gszprghfu/post/3msvdn4gfmc2s",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T14:28:23.174Z",
+        "score": 1,
+        "snippet": "Fresh episode of Battery Bargains!\n\u2022 Home charger recommendation for cold weather \n\u2022 Replacing a Toyota RAV4 hybrid with a Volvo EX40\n\u2022 Swapping a Rivian R1T for an Audi Q6 e-tron\n\u2022 Choosing between a",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@pdolby.bsky.social (Bluesky): I absolutely loathe the Audi service in Glenwood springs co. My lease is relativ",
+        "url": "https://bsky.app/profile/did:plc:g6oj34adhtfml2phmbd27e6e/post/3msvcm744zk2y",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T14:09:56.177Z",
+        "score": 1,
+        "snippet": "I absolutely loathe the Audi service in Glenwood springs co. My lease is relatively new on my Q6 etron and I\u2019d love to swap it for the Rivian R2. Any thought on how I could do it?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hansdorsch.social.cologne.ap.brid.gy (Bluesky): Das Also TM-B ist kein besseres E-Bike. Es ist ein Elektroauto auf zwei R\u00e4dern.\n",
+        "url": "https://bsky.app/profile/did:plc:buib7omrabey5kmu4lgxfesf/post/3msvc2xg2zzp2",
+        "source": "bluesky",
+        "publishedAt": "2026-08-12T14:00:21.579Z",
+        "score": 0,
+        "snippet": "Das Also TM-B ist kein besseres E-Bike. Es ist ein Elektroauto auf zwei R\u00e4dern.\n\nAlso, eine Tochter des E-Autoherstellers Rivian, versucht mit dem Fahrzeug, die typischen Fragen von E-Bike-Neulingen z",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Camper: THIS Changes Electric Camping Forever!",
+        "url": "https://youtube.com/watch?v=1S0B4zNY4no",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T17:40:40Z",
+        "score": 0,
+        "snippet": "2026 Rivian R1T Camper Motorhome \u2014 The Electric Adventure Truck That Could Change Road Trips! Welcome back to USA ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83d\udd35 Rivian R1T Quad-Motor | Rivian Blue Electric Beast \u26a1\ud83d\udd25 #shorts",
+        "url": "https://youtube.com/watch?v=WY1UNCEpHjQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T17:31:57Z",
+        "score": 0,
+        "snippet": "This car deserves the spotlight! Which one would you choose? Watch till the end and tell me your favorite! Luxury cars ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "VOZ Camp Kitchen: Self-Sufficient Outdoor Cooking Made in USA",
+        "url": "https://youtube.com/watch?v=RBFJTPXQs8Q",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T17:12:37Z",
+        "score": 0,
+        "snippet": "VOZ Camp Kitchen features a built-in water tank, electric tap, and weatherproof design. No connections needed for the ultimate ...",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Official Comedy Promotional Video long version",
+        "url": "https://youtube.com/watch?v=6T3i15GNhbM",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T17:02:53Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Official Comedy Promotional Video",
+        "url": "https://youtube.com/watch?v=JOYl2WjGnzs",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T16:57:14Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83c\udfce\ufe0f Building a Rivian R1T \u26a1\ud83d\udd25 #asmr #animation #satisfying #viral #aiart #cute #stopmotion #miniature",
+        "url": "https://youtube.com/watch?v=36d7m3J4ZMk",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T16:03:37Z",
+        "score": 0,
+        "snippet": "From tiny EV components to a futuristic electric off-road truck with quad motors, massive all-terrain tires, and a rising air ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83d\udd35 Rivian R1T Quad-Motor | Rivian Blue Electric Beast \u26a1\ud83d\udd25 #shorts",
+        "url": "https://youtube.com/watch?v=r6we0UeXzDU",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T15:32:12Z",
+        "score": 0,
+        "snippet": "Rivian R1T Quad-Motor in stunning Rivian Blue \u2014 an insane electric pickup built for adventure! \u26a1   Rivian R1T, Rivian R1T ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2",
+        "url": "https://youtube.com/watch?v=Mm1oK5pHhCQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T15:19:44Z",
+        "score": 0,
+        "snippet": "2026 @Rivian R2 came to AP3 in Atlanta for @XPELinc Ceramic Window Tint. AP3 Paint Protection is Atlanta's trusted shop for ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83d\ude97 Building a Rivian from Wood in 10 Seconds \ud83e\udd2f | Miniature Workshop #shorts",
+        "url": "https://youtube.com/watch?v=Ms-n6k59ny4",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T14:30:08Z",
+        "score": 0,
+        "snippet": "Welcome to WoodCar Studio! Watch luxury cars come to life as handcrafted wooden masterpieces in satisfying miniature AI ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Took Factory Delivery of my Launch Edition Rivian R2! (Factory Pickup + First Drive)",
+        "url": "https://youtube.com/watch?v=-h6sSs6MXUM",
+        "source": "youtube",
+        "publishedAt": "2026-08-12T14:30:24Z",
+        "score": 0,
+        "snippet": "I flew out to Normal, Illinois to take Factory Delivery of our brand-new Launch Edition Rivian R2 in Catalina Cove! Join me as I ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Gen 1 2022 R1T - and a Comma 4 - my experience",
+        "url": "https://www.rivianforums.com/forum/threads/gen-1-2022-r1t-and-a-comma-4-my-experience.62578/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Gen 1 2022 R1T - and a Comma 4 - my experience",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
