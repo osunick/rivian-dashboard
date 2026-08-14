@@ -100801,5 +100801,366 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-14T02:02:13.870868Z",
+    "timestamp": "2026-08-14T02:02:13.870868Z",
+    "sentiment": {
+      "positive": 9,
+      "neutral": 81,
+      "negative": 9
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "22 signals across Vehicles (15), Other (4); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, August 14, 2026 \u2014 2:02 AM PT \u2014 22 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 16 Rivian signals clustered around Vehicles (15), Software (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Rivian Mentions, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Pony AI Inc. said it plans to deploy more than 2,000 robotaxis across Europe in partnership with Uber Technologies Inc., accelerating the race to commercialize autonomous-mobility in the region.\n  https://www.bloomberg.com/news/articles/2026-08-14/uber-and-china-s-pony-ai-to-deploy-2-000-robotaxis-in-europe\n\u2022 *Competitive Threats:* The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.\n  https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 Anyone less than thrilled with Rivian\u2019s Service Center?\n  https://www.reddit.com/r/Rivian/comments/1vntjlx/anyone_less_than_thrilled_with_rivians_service/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 I get it for something cool like a Porsche, Rivian, Lotus, or a vintage Land Rover, but a V8 Pickup isn't special. You can get a 12-year-old V8 Toyota Tundra or Dodge Ram for <$10k if you really want\n  https://bsky.app/profile/did:plc:ilte3c2tgic2rs6spnyoe2oc/post/3msyxfglvis2i\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Did they \u201cget rid\u201d of the Tri for 2027?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vnto58/did_they_get_rid_of_the_tri_for_2027/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-14T01:35:24.039Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Anyone less than thrilled with Rivian\u2019s Service Center?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vntjlx/anyone_less_than_thrilled_with_rivians_service/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-14T01:29:29.398Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Our new R2\u2026",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vntd2p/our_new_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-14T01:18:44.339Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Our new R2\u2026",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vntbcr/our_new_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-14T01:18:44.339Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Just got my vin today and the 10th letter is a V",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vnrv4u/just_got_my_vin_today_and_the_10th_letter_is_a_v/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-14T00:12:38.517Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "R1T and R2: EV Fleet Complete",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vnrfd2/r1t_and_r2_ev_fleet_complete/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-13T23:54:02.115Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Replacing Tires",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vnpoo2/replacing_tires/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-13T22:38:56.076Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Does Rivian take Credit Union Preapproval Checks during delivery?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vnp3fy/does_rivian_take_credit_union_preapproval_checks/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-13T22:15:10.712Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: An \u2018indefinite\u2019 war, and a record-breaking rally",
+        "url": "https://www.cnbc.com/2026/08/14/us-iran-war-hormuz-ai-south-korea-openai-anthropic-meta-.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Uber and China\u2019s Pony AI to Deploy 2,000 Robotaxis in Europe",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-14/uber-and-china-s-pony-ai-to-deploy-2-000-robotaxis-in-europe",
+        "source": "bloomberg_markets",
+        "publishedAt": "Fri, 14 Aug 2026 01:00:00 GMT",
+        "score": 0,
+        "snippet": "Pony AI Inc. said it plans to deploy more than 2,000 robotaxis across Europe in partnership with Uber Technologies Inc., accelerating the race to commercialize autonomous-mobility in the region.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+        "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
+        "source": "cnbc_top",
+        "publishedAt": "Fri, 14 Aug 2026 01:02:39 GMT",
+        "score": 0,
+        "snippet": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@woodhaus-co.com (Bluesky): I get it for something cool like a Porsche, Rivian, Lotus, or a vintage Land Rov",
+        "url": "https://bsky.app/profile/did:plc:ilte3c2tgic2rs6spnyoe2oc/post/3msyxfglvis2i",
+        "source": "bluesky",
+        "publishedAt": "2026-08-14T00:59:58.065Z",
+        "score": 1,
+        "snippet": "I get it for something cool like a Porsche, Rivian, Lotus, or a vintage Land Rover, but a V8 Pickup isn't special. You can get a 12-year-old V8 Toyota Tundra or Dodge Ram for <$10k if you really want ",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@tiredbit.ch (Bluesky): Rivian etching a land acknowledgement into the door of their showroom seems like",
+        "url": "https://bsky.app/profile/did:plc:rvdndaeg5aicsrx676w4ooz7/post/3msyx4kaqnk2w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-14T00:54:59.166Z",
+        "score": 0,
+        "snippet": "Rivian etching a land acknowledgement into the door of their showroom seems like the kind of performance of progressiveness that is on the outs with the type of people who can afford a Rivian these da",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Hopefully Rivian didn't forget to order basic materials again",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3msyswo7bek2w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-13T23:40:06.996Z",
+        "score": 1,
+        "snippet": "Hopefully Rivian didn't forget to order basic materials again",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): The R1S finally offers second-row captain's chairs, and the trim lineup is no lo",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3msyqpjcybr2k",
+        "source": "bluesky",
+        "publishedAt": "2026-08-13T23:00:19.877Z",
+        "score": 1,
+        "snippet": "The R1S finally offers second-row captain's chairs, and the trim lineup is no longer mind-boggling.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@drmikeregan.bsky.social (Bluesky): stories.rivian.com/2027-r1s-r1t...",
+        "url": "https://bsky.app/profile/did:plc:4fbhw2tg662a6qt35f4iggg7/post/3msypchutws2i",
+        "source": "bluesky",
+        "publishedAt": "2026-08-13T22:35:08.465Z",
+        "score": 1,
+        "snippet": "stories.rivian.com/2027-r1s-r1t...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2S First Look \u2013 Price, Range, Performance &amp; Features #hondaindia #newhondacity ",
+        "url": "https://youtube.com/watch?v=Z7CZ3oF5LZ8",
+        "source": "youtube",
+        "publishedAt": "2026-08-14T01:54:54Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian R2S is expected to bring Rivian's adventure-focused design into a more practical and accessible SUV package.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1T Launch Edition Silver Springs, Chevy Chase, Bethesda, Wheaton, College Park MD",
+        "url": "https://youtube.com/watch?v=_3hnpwR3utk",
+        "source": "youtube",
+        "publishedAt": "2026-08-14T00:37:45Z",
+        "score": 0,
+        "snippet": "Pre-Owned 2023 Rivian R1T Launch Edition available at Koons Ford Mazda located in 3111 Automobile Blvd #1, Silver Spring, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Extreme Off-Roading with this RC Rivian R1S! \ud83e\udd2f#endfield",
+        "url": "https://youtube.com/watch?v=D_Dj21JRvQc",
+        "source": "youtube",
+        "publishedAt": "2026-08-14T00:30:39Z",
+        "score": 0,
+        "snippet": "Extreme Off-Roading with this RC Rivian R1S! #endfield Watch the ultimate unboxing and extreme off-road test of this detailed ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83c\udf32\ud83d\udd0b 2027 Rivian R2 \u2014 The Ultimate Electric Adventure SUV? \ud83d\ude0d",
+        "url": "https://youtube.com/watch?v=WXV4jfaAuGQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-14T00:00:02Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2: The Electric SUV That Changes Everything! 2027 Rivian R2 \u2014 The Ultimate Electric Adventure SUV?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u26a1 2027 Rivian R3X First Look \u2014 Rivian\u2019s Most Exciting EV Yet!",
+        "url": "https://youtube.com/watch?v=-DWalOiPU-w",
+        "source": "youtube",
+        "publishedAt": "2026-08-14T00:00:32Z",
+        "score": 0,
+        "snippet": "2027 Rivian R3X \u2014 The Electric SUV That Changes Everything! \u26a1 2027 Rivian R3X First Look \u2014 Rivian's Most Exciting EV Yet!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Real Sierra EV Charging Curve on Rivian #Shorts",
+        "url": "https://youtube.com/watch?v=Tcy-O2kJm58",
+        "source": "youtube",
+        "publishedAt": "2026-08-13T22:00:03Z",
+        "score": 0,
+        "snippet": "The Sierra EV held 293-295 kW around 32%, fell to roughly 232 kW at 50%, and was still above 200 kW at 53%. See the complete ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
