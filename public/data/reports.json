@@ -102151,5 +102151,536 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-15T18:02:11.616689Z",
+    "timestamp": "2026-08-15T18:02:11.616689Z",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 94,
+      "negative": 2
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_autonomy": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 8,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "34 signals across Vehicles (17), Autonomy (8); watch Vehicle Demand, Autonomy",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, August 15, 2026 \u2014 6:02 PM PT \u2014 34 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (17), Autonomy (8).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Autonomy, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (8)* \u2022 I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare\n  https://www.reddit.com/r/Rivian/comments/1vp1p3i/i_drove_tesla_fsd_rivian_autonomy_handsfree/\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (17)* \u2022 Will Rivian continue to develop R1 like Tesla did with Model S?\n  https://www.reddit.com/r/Rivian/comments/1vp2v0s/will_rivian_continue_to_develop_r1_like_tesla_did/\n*Business (1)* \u2022 If Rivian does not announce some good news soon this stock will get destroyed and go back to the bottom of the 4 year channel between 12-16. Really is a good company just sad how management doesn\u2019t gi\n  https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mt4wgtlgcc2c\n*Software (2)* \u2022 2026.30 Software Response is awesome\n  https://www.reddit.com/r/Rivian/comments/1vp5xbz/202630_software_response_is_awesome/\n*Community (2)* \u2022 @notebookchat.com.web.brid.gy (Bluesky):\n  https://bsky.app/profile/did:plc:7kaxh3xzdasqkeofuooaa6pc/post/3mt55fkql7ke2\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "2026.30 Software Response is awesome",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vp5xbz/202630_software_response_is_awesome/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T15:36:32.691Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rear AC auto on when occupied?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vp5oh6/rear_ac_auto_on_when_occupied/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T15:26:27.485Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Will Rivian continue to develop R1 like Tesla did with Model S?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vp2v0s/will_rivian_continue_to_develop_r1_like_tesla_did/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T13:26:26.870Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Trim Falling Off",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vp2p47/trim_falling_off/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T13:19:09.640Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "[MEGATHREAD] Saturday Switchers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vp2as2/megathread_saturday_switchers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T13:01:00.440Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vp1p3i/i_drove_tesla_fsd_rivian_autonomy_handsfree/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T12:32:17.979Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+        "url": "https://www.reddit.com/r/RIVNstock/comments/1vp1opm/i_drove_tesla_fsd_rivian_autonomy_handsfree/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T12:32:17.979Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "R2 vs Model Y closest comparisons",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vos8w2/r2_vs_model_y_closest_comparisons/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T03:20:36.783Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R1T and R1S gain premium, performance and quad trims with price hikes in tow",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1vp69it/2027_rivian_r1t_and_r1s_gain_premium_performance/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-08-15T15:50:20.757Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video",
+        "source": "bloomberg_markets",
+        "publishedAt": "Sat, 15 Aug 2026 15:05:42 GMT",
+        "score": 0,
+        "snippet": "Bloomberg News Cyber Security & Tech Reporter Katrina Manson got a firsthand look at autonomous drone-swarm technology that allows multiple aircrafts to coordinate and strike targets even when communi",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+        "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+        "source": "cnbc_top",
+        "publishedAt": "Sat, 15 Aug 2026 12:00:01 GMT",
+        "score": 0,
+        "snippet": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Motorheadline: Rivian\u2019s R2 aims at King Tesla - The Augusta Press",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sRDVjTm1hZG9kaXZmaHl4RUJYYUpvUEJwLWJjV0RSX1dTOFF6WUJmUkZhc1MySkc0WGpIOUpmRVZUclQ0ZkFRcXREb091RGdqVmxjQ3YwTXE5MmtaYnRCLUozVzJINHV4YlZfbm9HNGtQRUlSUHpkZjBjbms?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sat, 15 Aug 2026 12:29:54 GMT",
+        "score": 0,
+        "snippet": "Motorheadline: Rivian\u2019s R2 aims at King Tesla - The Augusta Press",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KbVhOZTdMZ3JvdEtrVHJ3cFJub0hZYUxSaFV1VG1SRWE4TDk4QU5rLWhZalRBbVE2OVAzU2lNUTl0NGRIM1NleWZSb1h5ZnJjbzZuclZGRE1SOXZaaUVYYnpxYldCSjRkVmxrcE5JV0FFNlliLWRucW5Pa9IBgAFBVV95cUxOOTEwc2xkYktsR3Q3XzMzMV9QdHZsUmFkTXNaSlNuU21NalpMU185UW5hNmtCWWt5RGdCUHJaR0Z2cVREak1jdGpJY2F5RV9wSUp5ZWZ4RXIyRVNPZjQtWGZ6SlZsX1FEa2FkS2k1Tmp0bjlWZTNIRUdGSDVKMWFDOA?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Sat, 15 Aug 2026 12:00:01 GMT",
+        "score": 0,
+        "snippet": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare - CNBC",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@canhenha.bsky.social (Bluesky): Rivian's R2 and R3 models. stories.rivian.com/meet-r2-and-r3 #productdesign #car",
+        "url": "https://bsky.app/profile/did:plc:avzlx4i5m6wpdkfwhs2ozvhe/post/3mt576fakqk24",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T17:29:51.264Z",
+        "score": 2,
+        "snippet": "Rivian's R2 and R3 models. stories.rivian.com/meet-r2-and-r3 #productdesign #cars #electric #design",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@primereports.bsky.social (Bluesky): Here\u2019s how Tesla FSD, Rivian \u2018hands-free\u2019 driving systems\u00a0compare\n\nRivian's in-v",
+        "url": "https://bsky.app/profile/did:plc:6z3quguxzoondmckkj3l2c5l/post/3mt55r2vk3525",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T17:04:29.466Z",
+        "score": 0,
+        "snippet": "Here\u2019s how Tesla FSD, Rivian \u2018hands-free\u2019 driving systems\u00a0compare\n\nRivian's in-vehicle AI assistant launched in its vehicles on May 12, 2026. Michael Wayland / CNBC\u2026...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@leverageonheroes.bsky.social (Bluesky): I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how the",
+        "url": "https://bsky.app/profile/did:plc:7t7fnrrotwbwx24wgibbx3ap/post/3mt54jt6qyo2d",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T16:42:32.070Z",
+        "score": 0,
+        "snippet": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare\n\nA comparative road test of Tesla Full Self-Driving and Rivian Autonomy+ reveals how two leading automakers ap",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@riderpestilence.kinkycats.org.ap.brid.gy (Bluesky): It's cool that #FreightFate has deliveries to the Rivian plant in Illinois. Now ",
+        "url": "https://bsky.app/profile/did:plc:gjljjk6h4nzcz7ngru5cbxud/post/3mt52zpoukgx2",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T16:15:46.166Z",
+        "score": 0,
+        "snippet": "It's cool that #FreightFate has deliveries to the Rivian plant in Illinois. Now they just need to add all the various Tesla and SpaceX locations. Would be fun to haul rocket fuel down to Texas for a w",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@curiouscats.ai (Bluesky): \"That's the next step,\" said James Philbin, Rivian's SVP of autonomy and AI. \"Te",
+        "url": "https://bsky.app/profile/did:plc:phpdl2guuggtrhphskksmikk/post/3mt4zzrnswq2v",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T15:57:46.567Z",
+        "score": 0,
+        "snippet": "\"That's the next step,\" said James Philbin, Rivian's SVP of autonomy and AI. \"Tesla's system you use is a point-to-point system. So that that's the next big leap for us in a \u2026\n\nhttps://curiouscats.ai/",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@notebookchat.com.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:7kaxh3xzdasqkeofuooaa6pc/post/3mt55fkql7ke2",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T17:01:24.564Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@evgeek.bsky.social (Bluesky): Rivian FINALLY Fixes the R1S! Here\u2019s What\u2019s New for 2027 | The Friday Charge EP9",
+        "url": "https://bsky.app/profile/did:plc:uz3svuwsetmqsiwwvtfudkb3/post/3mt4xx6pda22r",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T15:20:32.966Z",
+        "score": 0,
+        "snippet": "Rivian FINALLY Fixes the R1S! Here\u2019s What\u2019s New for 2027 | The Friday Charge EP98\nyoutu.be/x29rOp0ZfXY",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@delaneymoss.bsky.social (Bluesky): I've been trying to find a list of EV companies with CEOs that aren't trash. Any",
+        "url": "https://bsky.app/profile/did:plc:ga6tgam3tikba6ju7efh6qn2/post/3mt4wz3b4t22q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T15:03:41.475Z",
+        "score": 1,
+        "snippet": "I've been trying to find a list of EV companies with CEOs that aren't trash. Any suggestions? Folks say the Rivian CEO is OK...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): If Rivian does not announce some good news soon this stock will get destroyed an",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mt4wgtlgcc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T14:53:29.365Z",
+        "score": 0,
+        "snippet": "If Rivian does not announce some good news soon this stock will get destroyed and go back to the bottom of the 4 year channel between 12-16. Really is a good company just sad how management doesn\u2019t gi",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): 800V only matters below 30% state of charge, (cell limitation), I rarely go belo",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mt4vuea4fk2w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T14:43:10.369Z",
+        "score": 0,
+        "snippet": "800V only matters below 30% state of charge, (cell limitation), I rarely go below 20% state of charge (wife limitation).  \n\nNot seeing a big Chinese advantage here. \n\n~30 min. \n\nyoutu.be/6euRRUFeXBc?.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Rivian R1S Assembly | Future Car Factory Concept #AutoEvolution #FutureCars #VehicleTransformation",
+        "url": "https://youtube.com/watch?v=ryvOdlbXSgg",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T18:00:02Z",
+        "score": 0,
+        "snippet": "Welcome to Auto Evolution \u2014 where machines transform into legends. Experience the future of automotive innovation with ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s Georgia site seems to actually... FINALLY... be underway and that means we&#39;re closer to R3X",
+        "url": "https://youtube.com/watch?v=FcC3-Iv08J4",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T17:06:06Z",
+        "score": 0,
+        "snippet": "Looking to buy a Rivian? Use my Rivian referral: https://rivian.com/configurations/list?reprCode=ISAIAH12382513 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This Is Why People LOST Everything in RIVN \ud83d\ude31 #Shorts",
+        "url": "https://youtube.com/watch?v=8UJdO8Ra7HI",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T16:32:41Z",
+        "score": 0,
+        "snippet": "invested in Rivian (RIVN): Starting value: $10000 Ending value: $6326 Total loss: -36.7% This is why diversification matters.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Chess, money and two Rivians  \u0428\u0410\u0425\u0418, \u0413\u0420\u041e\u0428\u0406 \u0414\u0412\u0410 \u0420\u0406\u0412\u0406\u0410\u041d\u0410 @Rivian",
+        "url": "https://youtube.com/watch?v=UL-pz6-SnbY",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T16:28:24Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2024 Rivian RCV500   332410",
+        "url": "https://youtube.com/watch?v=Du9obhV25-8",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T16:26:23Z",
+        "score": 0,
+        "snippet": "Interested in this vehicle? Call us at (302) 656-3160 or visit https://bayshoretrucks.com.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2024 Rivian RCV500   332654",
+        "url": "https://youtube.com/watch?v=_mVWfrgvX3E",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T16:23:08Z",
+        "score": 0,
+        "snippet": "Interested in this vehicle? Call us at (302) 656-3160 or visit https://bayshoretrucks.com.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why I Don&#39;t Think the Tesla Model Y &amp; Rivian R2 Are Competitors",
+        "url": "https://youtube.com/watch?v=PHEtMKsRSXY",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T16:00:28Z",
+        "score": 0,
+        "snippet": "Eric reviews his personal 2026 Tesla Model Y vs the 2027 Rivian R2 and walks away arguing these two shouldn't even be ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ford&#39;s new electric truck #ford #fordtrucks #fordf150 #rivian #rivianr1t #rivianr2 #tesla #lucid",
+        "url": "https://youtube.com/watch?v=ZQpAeHq_fpM",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T15:45:00Z",
+        "score": 0,
+        "snippet": "Ford just announced it will introduce an all-new, low-priced battery-electric truck it calls the Ford Fathom. America on the Road ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla FSD vs Rivian Autonomy+: Hands-Free Systems Compared #shorts",
+        "url": "https://youtube.com/watch?v=7jHSqW147ag",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T15:02:08Z",
+        "score": 0,
+        "snippet": "When Tesla's Full Self-Driving goes head-to-head with Rivian's brand-new Autonomy Plus, the comparison reveals something ...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian R2 Gets a CRAZY Red Makeover! \ud83d\ude31",
+        "url": "https://youtube.com/watch?v=EuoZVNBqQYM",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T13:27:02Z",
+        "score": 0,
+        "snippet": "Watch the Rivian R2 transform from pristine white into a stunning high-gloss red inside a futuristic automated paint factory!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "P2P Self Driving in Gen 2 Vehicles",
+        "url": "https://www.rivianforums.com/forum/threads/p2p-self-driving-in-gen-2-vehicles.62733/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "P2P Self Driving in Gen 2 Vehicles",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
