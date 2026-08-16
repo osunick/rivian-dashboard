@@ -103169,5 +103169,377 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-16T14:02:12.748785Z",
+    "timestamp": "2026-08-16T14:02:12.748785Z",
+    "sentiment": {
+      "positive": 8,
+      "neutral": 78,
+      "negative": 13
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "23 signals across Vehicles (15), Business (2); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, August 16, 2026 \u2014 2:02 PM PT \u2014 23 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 20 Rivian signals clustered around Vehicles (15), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Business, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy - Seeking Alpha\n  https://news.google.com/rss/articles/CBMiugFBVV95cUxNVElveGR3aTRJc09kUi1EaTV3LU9pVzFTRGN1VXZxQmlsOUYzc01SeUxCS1NEWE0wQy1Gd3E4UjNYeTMtN0hzTGxKdmp0bGI1ZzJBSkFuSmMyYTdQd3lCcUlmRXhRYWZNUTFVblYwaGQ0QlhYRHp2SUw5cTRrQnFLRFU2eWxiNFY0QlFVbnRNX21kaUNHSVF4b1BFakdiM2JtcWVOY0FFMTVGVlp3TnAzdTVCSjREeUVtOHc?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 R1S after bad wreck of my MYP\n  https://www.reddit.com/r/Rivian/comments/1vpo7bu/r1s_after_bad_wreck_of_my_myp/\n*Business (2)* \u2022 Join this channel to get access to perks: Disclaimer This is ...\n  https://youtube.com/watch?v=uHKyPmxsilQ\n*Software (2)* \u2022 UPDATE: R1S Water Intrusion\n  https://www.reddit.com/r/Rivian/comments/1vpw3kd/update_r1s_water_intrusion/\n*Community (1)* \u2022 ChargeNet appears to be struggling now, but they started out doing many of the things Ionna is doing. Electric Era has faster deployment times, more consistent implementations, and dare I say it...\n  https://bsky.app/profile/did:plc:4jzjwkjkluizx6j5lpbf6ezp/post/3mt73bfpsck2g\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "UPDATE: R1S Water Intrusion",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpw3kd/update_r1s_water_intrusion/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T12:43:37.270Z",
+        "score": 0,
+        "snippet": "",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "R1S after bad wreck of my MYP",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpo7bu/r1s_after_bad_wreck_of_my_myp/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T05:13:31.813Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Another Episode of Name That Fluid!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpm7sc/another_episode_of_name_that_fluid/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T03:28:38.243Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Beach Day",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vplmsd/beach_day/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T02:58:44.756Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Can Rivian Automotive (NASDAQ:RIVN) Navigate Rising EV Competition? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczF4MVN4Nm84cUpMbEdWcFNocVhjOERlaVVYWXNBTzVXVkN5SUtqbjBiSmtPSDktRzVzV2hqcGdqXzk2OEFLbWE1Vmc3U1RDNDFkbUlxS3phaVZFUmp0cktUX0YxbHhQWGFQTVRub1lEQ2NuMWNZa1MyZlUtdUNza2ZJaDZpNDkxSXBscFRRdnNaWTlHMTFybW9nSFZGWWdJQ0pXaFVieUVmRkE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 16 Aug 2026 07:00:00 GMT",
+        "score": 0,
+        "snippet": "Can Rivian Automotive (NASDAQ:RIVN) Navigate Rising EV Competition? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVElveGR3aTRJc09kUi1EaTV3LU9pVzFTRGN1VXZxQmlsOUYzc01SeUxCS1NEWE0wQy1Gd3E4UjNYeTMtN0hzTGxKdmp0bGI1ZzJBSkFuSmMyYTdQd3lCcUlmRXhRYWZNUTFVblYwaGQ0QlhYRHp2SUw5cTRrQnFLRFU2eWxiNFY0QlFVbnRNX21kaUNHSVF4b1BFakdiM2JtcWVOY0FFMTVGVlp3TnAzdTVCSjREeUVtOHc?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Sun, 16 Aug 2026 13:13:40 GMT",
+        "score": 0,
+        "snippet": "Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy - Seeking Alpha",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): riviantrackr.com/news/rivian-...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mt77ojdub22y",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T12:44:13.481Z",
+        "score": 0,
+        "snippet": "riviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@propcazhpm.bsky.social (Bluesky): Rivian is a great company too.",
+        "url": "https://bsky.app/profile/did:plc:yg2ph6ezf2l5dktucvjbpoz2/post/3mt762dalos2u",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T12:15:00.065Z",
+        "score": 3,
+        "snippet": "Rivian is a great company too.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@johnvoelcker.bsky.social (Bluesky): I've never ONCE seen a canopy at a single EVgo, EA, or ChargePoint site. Haven't",
+        "url": "https://bsky.app/profile/did:plc:wtrz3qngarf7ifus4r7ij6il/post/3mt74bgc6ek2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T11:43:10.170Z",
+        "score": 0,
+        "snippet": "I've never ONCE seen a canopy at a single EVgo, EA, or ChargePoint site. Haven't used Benz yet, would like to. Only used one Rivian station: no canopy.\n\nNone of the above had anything like trash cans,",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newscoulomb.bsky.social (Bluesky): ChargeNet appears to be struggling now, but they started out doing many of the t",
+        "url": "https://bsky.app/profile/did:plc:4jzjwkjkluizx6j5lpbf6ezp/post/3mt73bfpsck2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T11:25:15.473Z",
+        "score": 0,
+        "snippet": "ChargeNet appears to be struggling now, but they started out doing many of the things Ionna is doing. \n\nElectric Era has faster deployment times, more consistent implementations, and dare I say it... ",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@oletros.xyz (Bluesky): En la estaci\u00f3n de Torrent hab\u00eda un Rivian R1, un xpeng G6, una id Buzz y un Seal",
+        "url": "https://bsky.app/profile/did:plc:366fzquccmcwexgi4jxketrv/post/3mt6yitlhz22g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T10:35:43.277Z",
+        "score": 0,
+        "snippet": "En la estaci\u00f3n de Torrent hab\u00eda un Rivian R1, un xpeng G6, una id Buzz y un Seal U",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@stfuelon.bsky.social (Bluesky): Explains why Rivian posting 20% growth while apparatus still ordering components",
+        "url": "https://bsky.app/profile/did:plc:cqiuu6mdd5jpu2ufpqwto5sv/post/3mt6wq6nm242x",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T10:04:02.390Z",
+        "score": 0,
+        "snippet": "Explains why Rivian posting 20% growth while apparatus still ordering components for 344-year lifespan requirements.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@stfuelon.bsky.social (Bluesky): **SOFTWARE LONGEVITY / RIVIAN COMPETITIVE THREAT / APPARATUS ORDERS MARS-SPEC TI",
+        "url": "https://bsky.app/profile/did:plc:cqiuu6mdd5jpu2ufpqwto5sv/post/3mt6wq5obb62h",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T10:04:01.069Z",
+        "score": 0,
+        "snippet": "**SOFTWARE LONGEVITY / RIVIAN COMPETITIVE THREAT / APPARATUS ORDERS MARS-SPEC TIRES**",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@paoblog.mastodon.uno.ap.brid.gy (Bluesky): Seconda vita per le batterie?\n\nLeggo su Quotidiano Motori che: \"Rivian ha instal",
+        "url": "https://bsky.app/profile/did:plc:zy6mv5suzsvkatxnip7mwnhu/post/3mt6panwh6kh2",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T07:50:16.871Z",
+        "score": 0,
+        "snippet": "Seconda vita per le batterie?\n\nLeggo su Quotidiano Motori che: \"Rivian ha installato nello stabilimento di Normal, in Illinois, un sistema di accumulo che riutilizza oltre 100 moduli batteria dismessi",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@akw.bsky.social (Bluesky): My friend / former co-worker has a rivian, like first generation and it's sooooo",
+        "url": "https://bsky.app/profile/did:plc:5dzecy4cffuup6frxogizdxt/post/3mt6ntb62yc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T07:24:44.067Z",
+        "score": 0,
+        "snippet": "My friend / former co-worker has a rivian, like first generation and it's sooooo cool",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I&#39;m Selling My Rivian R1T \u2014 Followers Get First Shot Before Carvana",
+        "url": "https://youtube.com/watch?v=HzvopMS5LGU",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T14:00:04Z",
+        "score": 0,
+        "snippet": "I've made a big decision \u2014 I'm selling my Rivian R1T Quad Motor. Before I take any offers from Carvana or CarMax, I want to give ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ud83e\udd2b ASMR Die-Cast Rivian R1T Unboxing | Ultra Realistic 1:18 Scale \ud83d\udee0\ufe0f #shorts",
+        "url": "https://youtube.com/watch?v=xoL3fSTD6Ak",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T14:00:00Z",
+        "score": 0,
+        "snippet": "ASMR Die-Cast Rivian R1T Unboxing | Ultra Realistic 1:18 Scale \ud83d\udee0\ufe0fSit back, wear your headphones, and enjoy this ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 la reina de los SUV el\u00e9ctricos!",
+        "url": "https://youtube.com/watch?v=1xWoVmFn37w",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T13:18:49Z",
+        "score": 0,
+        "snippet": "Podr\u00e1 competir directamente contra Tesla Model Y, Chevrolet Equinox, Chevrolet Blazer y las dem\u00e1s marcas el\u00e9ctricas?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "[FREE] Bear1Boss Type Beat - &quot;Rivian Stomp&quot; | Pluggnb Beat 2026",
+        "url": "https://youtube.com/watch?v=Zw5XmCf6dwo",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T13:11:49Z",
+        "score": 0,
+        "snippet": "[FREE] Bear1Boss Type Beat 2026 - \"Rivian Stomp\" | Pluggnb Instrumental GET THIS BEAT: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Confirms Point to Point This Year, All Owners in 2027 - RivianTrackr | NEWS-MONSTER",
+        "url": "https://youtube.com/watch?v=PaiNxkzZ7i8",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T12:37:44Z",
+        "score": 0,
+        "snippet": "Rivian Confirms Point to Point This Year, All Owners in 2027 - RivianTrackr | NEWS-MONSTER Source: Slashdot.org #rivian ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Stock CRASHED 85%\u2026 Is This the Biggest EV Opportunity of 2026?\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=uHKyPmxsilQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T12:30:11Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "\ud83d\udea8PROS AND CONS FOR RIVIAN R2 \u26a1\ufe0f save $2,500 \ud83d\udccc link in bio",
+        "url": "https://youtube.com/watch?v=M4QxtzxIPfo",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T08:30:11Z",
+        "score": 0,
+        "snippet": "PROS AND CONS FOR RIVIAN R2 \u26a1\ufe0f save $2500 link in bio \u2713 Tesla Referral \u2013 Get $2500 OFF ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Q2 2026 Earnings Call | Kilowatt: A Podcast about Electric Vehicles",
+        "url": "https://youtube.com/watch?v=pl-Wxvv83tw",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T07:42:11Z",
+        "score": 0,
+        "snippet": "Rivian's second-quarter 2026 earnings call puts the R2 front and center as production ramps in Normal and the company ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
