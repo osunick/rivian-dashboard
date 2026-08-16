@@ -103541,5 +103541,271 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-16T18:02:54.161136Z",
+    "timestamp": "2026-08-16T18:02:54.161136Z",
+    "sentiment": {
+      "positive": 31,
+      "neutral": 68,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "16 signals across Vehicles (13), Autonomy (2); watch Vehicle Demand, Autonomy",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, August 16, 2026 \u2014 6:02 PM PT \u2014 16 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 15 Rivian signals clustered around Vehicles (13), Autonomy (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Autonomy, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (2)* \u2022 Rivian vs Tesla: A New Era in Autonomous Driving | Celloraa News In this video, we explore Rivian's Autonomy+ and its ...\n  https://youtube.com/watch?v=NTZCJu-pvFM\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (13)* \u2022 How many of you have a 2 Rivian garage?\n  https://www.reddit.com/r/Rivian/comments/1vq3ud8/how_many_of_you_have_a_2_rivian_garage/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "How many of you have a 2 Rivian garage?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vq3ud8/how_many_of_you_have_a_2_rivian_garage/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T17:59:06.300Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 R1S glove box?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vq393r/2027_r1s_glove_box/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T17:36:33.991Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New to the R1S Dual Max Family",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vq1enc/new_to_the_r1s_dual_max_family/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T16:24:37.676Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Unable to charge R2 on any DC fast charger",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vq0yqh/unable_to_charge_r2_on_any_dc_fast_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T16:06:36.972Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Unable to charge R2 on any DC fast charger",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vq0y1g/unable_to_charge_r2_on_any_dc_fast_charger/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T16:06:36.972Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Evsportline Atlanta - Bad Experience",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpzs5x/evsportline_atlanta_bad_experience/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T15:20:37.163Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "2023 R1S Quad Motor \u2013 Rear oil/fluid leak. Drive unit or hydraulic suspension?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpzcwz/2023_r1s_quad_motor_rear_oilfluid_leak_drive_unit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T15:03:48.365Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Gear Guard Gary Video on R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpyip0/rivian_gear_guard_gary_video_on_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T14:29:50.534Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian vs Tesla: A New Era in Autonomous Driving | Celloraa News",
+        "url": "https://youtube.com/watch?v=NTZCJu-pvFM",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T17:20:26Z",
+        "score": 0,
+        "snippet": "Rivian vs Tesla: A New Era in Autonomous Driving | Celloraa News In this video, we explore Rivian's Autonomy+ and its ...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Quick shots of matte ppf launch green Rivian R2",
+        "url": "https://youtube.com/watch?v=XRQNVnH2qKM",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T16:52:52Z",
+        "score": 0,
+        "snippet": "Matte launch green.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Size Difference with Sedans!",
+        "url": "https://youtube.com/watch?v=RTmQRD0U8C8",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T16:47:02Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian vs Tesla: Who Wins the Hands-Free Battle? #Shorts",
+        "url": "https://youtube.com/watch?v=6NoyDzWEdKA",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T16:10:51Z",
+        "score": 0,
+        "snippet": "Rivian's Guardrails Challenge Tesla's FSD Dominance! \u25b8 Rivian's Autonomy+ offers enhanced safety features for drivers.",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Like a glove \ud83e\udde4 \ud83d\ude01 #towlife #viral #rivian #bluecollar #kansas",
+        "url": "https://youtube.com/watch?v=VWxVz6Egq9U",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T15:49:27Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1s. My car \ud83d\udc96",
+        "url": "https://youtube.com/watch?v=9l1yAZfkBSA",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T15:41:20Z",
+        "score": 0,
+        "snippet": "Best car ever #rivian #shorts.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Rocks \ud83c\udfb8",
+        "url": "https://youtube.com/watch?v=-z3CBcW9gSc",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T15:00:18Z",
+        "score": 0,
+        "snippet": "The Rivian R2 is a 2 row electric SUV to compete against the Tesla Model Y. Would you choose it over a Tesla?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Taking the Rivian R2 to DIY Wrap Club to get Matte PPF",
+        "url": "https://youtube.com/watch?v=l1DQhoEYNUY",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T14:22:29Z",
+        "score": 0,
+        "snippet": "I drive the Rivian R2 to @diywrapclub in Chattanooga, TN for some product research and get a beautiful matte PPF wrap on my ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
