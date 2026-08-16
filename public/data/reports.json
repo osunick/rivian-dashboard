@@ -102682,5 +102682,492 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-16T02:02:15.882565Z",
+    "timestamp": "2026-08-16T02:02:15.882565Z",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 80,
+      "negative": 16
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Charging",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "31 signals across Vehicles (21), Other (3); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, August 16, 2026 \u2014 2:02 AM PT \u2014 31 signals \u00b7 6 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 26 Rivian signals clustered around Vehicles (21), Autonomy (1).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 5 negative signals; watch Vehicle Demand, Rivian Mentions, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Waymo Wins California Approval to Expand Robotaxi Service to 18 Counties - finance.biggo.com\n  https://news.google.com/rss/articles/CBMidkFVX3lxTFBKS0NPXzYwM19MdXluNmNyUXExc2pXNzhqTzNSbFVNY0Vxc25wNUl2bXpqTzh1VWdsX0JEZkJqUEk1M081OTVqWWl0aTk0RVJsSDNDYzVQa29tcjdvTTlmTEc4V3ZwZ2twS2dDOFBSLTdxbndfNWc?oc=5\n\u2022 *Competitive Threats:* Waymo CPUC Approval Clears Sacramento and San Diego Rides - Tech My Money\n  https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHh1UVNJdjBIMlZBRUtiaS1lMjd0SXdoYjZoLV8yYlhPSnZuR0JCS2pPSGJWblB1RFJ0anMwUWxuWENrbUlJSVAxUGtlZmYxajluZFVRVmFBQlJUYkYzNTdBNzF2emV5aks4TnNLYUpFb1F2VHFPbnNwaGtnSGxGaDdEYmE5c1A2WlF1OW5BVWkxX3puZXVHWtIBmAFBVV95cUxNMHh1UVNJdjBIMlZBRUtiaS1lMjd0SXdoYjZoLV8yYlhPSnZuR0JCS2pPSGJWblB1RFJ0anMwUWxuWENrbUlJSVAxUGtlZmYxajluZFVRVmFBQlJUYkYzNTdBNzF2emV5aks4TnNLYUpFb1F2VHFPbnNwaGtnSGxGaDdEYmE5c1A2WlF1OW5BVWkxX3puZXVHWg?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare\n  https://www.reddit.com/r/Rivian/comments/1vpi2uv/tesla_fsd_rivian_autonomy_handsfree_driving/\n*Demo & Test Drives (1)* \u2022 Going to test drive the Rivian R2 next weekend.\n  https://bsky.app/profile/did:plc:bxzxbo7az6q3vglzpnso5iu5/post/3mt5szvf4pc27\n*Vehicles (21)* \u2022 Where can I get the Rivian 1:18 model without paying a scalper?\n  https://www.reddit.com/r/Rivian/comments/1vpiuhu/where_can_i_get_the_rivian_118_model_without/\n*Business (1)* \u2022 Rivian (RIVN) Stock Looks Stretched On Sales Despite Weaker 3 Year Returns - simplywall.st\n  https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeS1Xb2dYNWp0dHlGWW5vMGcxM19aSG5kbUc4VE8wYVhDZEpIY19oTVlqZHVZdTNUbXc4TkdwOXFCX1VXOExaSHB5RFBRV1VxWms4NTJuMHBfRmRndDQyTDFDQThXODg0UEFGSW4zb2RsTno2d09ycEhDWDZXaExVbldhRTctTW9UMzBvTzI1ZVBuUktieWw3UWx4SmFOMWpDNkFRZ2hYc3VCZDRudjFDOWJ1Z0RTY2ZHT2tPNnZ3OHNzU2lGaGJEWlR6OXdnR1owTFNON9IB2gFBVV95cUxNd0l6WG9lTjNfWVNERXZQc0tJRmJwTFFyNWtQRWlVXzNfdXFEbS1kSC1oT2F6Njl4a1dyMjl5SmpyckNEcnBMb1lFMW15R1pla2ZXY0RRcWY5X3lWLTktOUI4Q2VBRFIwWGI2VVRfZUF0bnpnSjI2SlNqSXB3T0hhQzFOb251Rkd6UGIwWEVwa2tkWkhvNjU5VldKT0kzcUpKM3IzSmdJc2dkRExNdE1PTTFpeVdMakNSajlDVG1PczRucTZwVnoyUTBnc003S3c4R3AwbEdwSnotZw?oc=5\n*Software (1)* \u2022 I just keep it simple with manufacturer stated times. When companies like Rivian and GM refuse to provide *actual* times and go with \"add 100 miles in xx minutes\" or \"under 30 min\" like Toyota, it's\n  https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mt5wmelfyc2k\n*Community (1)* \u2022 Any owners from Maui or other islands in Hawai\u2019i want to comment about the service experience?\n  https://www.reddit.com/r/Rivian/comments/1vphoe8/any_owners_from_maui_or_other_islands_in_hawaii/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Charging\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Where can I get the Rivian 1:18 model without paying a scalper?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpiuhu/where_can_i_get_the_rivian_118_model_without/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T00:39:43.197Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpi2uv/tesla_fsd_rivian_autonomy_handsfree_driving/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-16T00:03:09.724Z",
+        "score": 0,
+        "snippet": "",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Any owners from Maui or other islands in Hawai\u2019i want to comment about the service experience?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vphoe8/any_owners_from_maui_or_other_islands_in_hawaii/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T23:44:45.563Z",
+        "score": 0,
+        "snippet": "",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Phone key issues - driving only",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vphbo4/phone_key_issues_driving_only/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T23:28:02.835Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "2024 R1S tail paint chipping",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpgw0w/2024_r1s_tail_paint_chipping/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T23:07:56.724Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "PSA- R1T tailgate void",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpf3a6/psa_r1t_tailgate_void/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T21:46:27.638Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Auto Hide Toolbar",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vpcehj/auto_hide_toolbar/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-15T19:54:20.118Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Demo Drive Issues - Regen Nausea and Second Guessing",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vp9jn2/demo_drive_issues_regen_nausea_and_second_guessing/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-15T18:00:07.421Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Stock Looks Stretched On Sales Despite Weaker 3 Year Returns - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeS1Xb2dYNWp0dHlGWW5vMGcxM19aSG5kbUc4VE8wYVhDZEpIY19oTVlqZHVZdTNUbXc4TkdwOXFCX1VXOExaSHB5RFBRV1VxWms4NTJuMHBfRmRndDQyTDFDQThXODg0UEFGSW4zb2RsTno2d09ycEhDWDZXaExVbldhRTctTW9UMzBvTzI1ZVBuUktieWw3UWx4SmFOMWpDNkFRZ2hYc3VCZDRudjFDOWJ1Z0RTY2ZHT2tPNnZ3OHNzU2lGaGJEWlR6OXdnR1owTFNON9IB2gFBVV95cUxNd0l6WG9lTjNfWVNERXZQc0tJRmJwTFFyNWtQRWlVXzNfdXFEbS1kSC1oT2F6Njl4a1dyMjl5SmpyckNEcnBMb1lFMW15R1pla2ZXY0RRcWY5X3lWLTktOUI4Q2VBRFIwWGI2VVRfZUF0bnpnSjI2SlNqSXB3T0hhQzFOb251Rkd6UGIwWEVwa2tkWkhvNjU5VldKT0kzcUpKM3IzSmdJc2dkRExNdE1PTTFpeVdMakNSajlDVG1PczRucTZwVnoyUTBnc003S3c4R3AwbEdwSnotZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 15 Aug 2026 20:27:48 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Stock Looks Stretched On Sales Despite Weaker 3 Year Returns - simplywall.st",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Waymo Wins California Approval to Expand Robotaxi Service to 18 Counties - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKS0NPXzYwM19MdXluNmNyUXExc2pXNzhqTzNSbFVNY0Vxc25wNUl2bXpqTzh1VWdsX0JEZkJqUEk1M081OTVqWWl0aTk0RVJsSDNDYzVQa29tcjdvTTlmTEc4V3ZwZ2twS2dDOFBSLTdxbndfNWc?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Sat, 15 Aug 2026 18:19:00 GMT",
+        "score": 0,
+        "snippet": "Waymo Wins California Approval to Expand Robotaxi Service to 18 Counties - finance.biggo.com",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo CPUC Approval Clears Sacramento and San Diego Rides - Tech My Money",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHh1UVNJdjBIMlZBRUtiaS1lMjd0SXdoYjZoLV8yYlhPSnZuR0JCS2pPSGJWblB1RFJ0anMwUWxuWENrbUlJSVAxUGtlZmYxajluZFVRVmFBQlJUYkYzNTdBNzF2emV5aks4TnNLYUpFb1F2VHFPbnNwaGtnSGxGaDdEYmE5c1A2WlF1OW5BVWkxX3puZXVHWtIBmAFBVV95cUxNMHh1UVNJdjBIMlZBRUtiaS1lMjd0SXdoYjZoLV8yYlhPSnZuR0JCS2pPSGJWblB1RFJ0anMwUWxuWENrbUlJSVAxUGtlZmYxajluZFVRVmFBQlJUYkYzNTdBNzF2emV5aks4TnNLYUpFb1F2VHFPbnNwaGtnSGxGaDdEYmE5c1A2WlF1OW5BVWkxX3puZXVHWg?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Sat, 15 Aug 2026 09:45:49 GMT",
+        "score": 0,
+        "snippet": "Waymo CPUC Approval Clears Sacramento and San Diego Rides - Tech My Money",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@darmato.bsky.social (Bluesky): Are all of the Rivian locations unlocked now, or still just some of them?",
+        "url": "https://bsky.app/profile/did:plc:7fqnualpkexx4f5dqngvxblj/post/3mt622j7qkc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T01:30:50.563Z",
+        "score": 0,
+        "snippet": "Are all of the Rivian locations unlocked now, or still just some of them?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): I just keep it simple with manufacturer stated times.\n\nWhen companies like Rivia",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mt5wmelfyc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T00:29:14.667Z",
+        "score": 1,
+        "snippet": "I just keep it simple with manufacturer stated times.\n\nWhen companies like Rivian and GM refuse to provide *actual* times and go with \"add 100 miles in xx minutes\" or \"under 30 min\" like Toyota, it's ",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@newsarea.bsky.social (Bluesky): How the auto industry is trying to make software-defined vehicles\u00a0last\n\nSoftware",
+        "url": "https://bsky.app/profile/did:plc:kqj4vuyjvmtnptvvdt2xijtk/post/3mt5wkkgnqo2l",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T00:28:13.865Z",
+        "score": 0,
+        "snippet": "How the auto industry is trying to make software-defined vehicles\u00a0last\n\nSoftware-defined vehicles offer advantages their analog rivals can\u2018t compete with. But the hardware and software in them needs t",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@moose-penis.bsky.social (Bluesky): I\u2019m thinking the problem was we should have recorded the Tiktok in our Rivian on",
+        "url": "https://bsky.app/profile/did:plc:ywwy2gcx2mdzspueq44mmioq/post/3mt5vt7d6y225",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T00:15:10.175Z",
+        "score": 0,
+        "snippet": "I\u2019m thinking the problem was we should have recorded the Tiktok in our Rivian on the way home from Cheesecake Factory.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mt5v3z3ic226",
+        "source": "bluesky",
+        "publishedAt": "2026-08-16T00:02:12.465Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): 2026 IONIQ 5, 84 kWh, 10-80% 20 min *800V*\n2027 BMW iX3, 108 kWh, 10-80% 21 min ",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mt5usq26ek2k",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T23:57:00.774Z",
+        "score": 1,
+        "snippet": "2026 IONIQ 5, 84 kWh, 10-80% 20 min *800V*\n2027 BMW iX3, 108 kWh, 10-80% 21 min *800V*\n2026 IONIQ 9, 110 kWh, 10-80% 24 min *800V*\n\n2026 Rivian R2, 88 kWh, 10-80% \"Under 30 min\" *400V*",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Save Big Money @Menards\n\nAnyone user the small fogger for their @Rivian frunk fo",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mt5u5dos3v2b",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T23:45:03.470Z",
+        "score": 0,
+        "snippet": "Save Big Money @Menards\n\nAnyone user the small fogger for their @Rivian frunk for Halloween?  Wondering if a gallon of fog fluid is enough to really send enough fog to overflow the frunk sides of the ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Hear me out... Red Canyon with Ocean Coast and Captain's Chairs.\n\nrivianroamer.c",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mt5tad7qhv2q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T23:28:49.568Z",
+        "score": 3,
+        "snippet": "Hear me out... Red Canyon with Ocean Coast and Captain's Chairs.\n\nrivianroamer.com/inventory/6...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@berfield.com (Bluesky): Going to test drive the Rivian R2 next weekend.",
+        "url": "https://bsky.app/profile/did:plc:bxzxbo7az6q3vglzpnso5iu5/post/3mt5szvf4pc27",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T23:25:13.764Z",
+        "score": 1,
+        "snippet": "Going to test drive the Rivian R2 next weekend.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@goopypanther.bsky.social (Bluesky): old coworker took us all for a drive in his rivian and he floored it on an empty",
+        "url": "https://bsky.app/profile/did:plc:hj47kgijaujf7r33y3sxdjjl/post/3mt5svafbg22b",
+        "source": "bluesky",
+        "publishedAt": "2026-08-15T23:22:37.467Z",
+        "score": 5,
+        "snippet": "old coworker took us all for a drive in his rivian and he floored it on an empty road it was just immediately obvious that it should be illegal for cars to just do that straight out of the lot",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "rivian r1t 2026: This SUV has way more features than you\u2019d expect\u2026 #rivian",
+        "url": "https://youtube.com/watch?v=OzBNiX8piR8",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T01:40:03Z",
+        "score": 0,
+        "snippet": "video credit: IG:mays.nose.knows.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u26a1 2022 Rivian R1T \ud83e\udd2f | Futuristic Electric Pickup Unboxing ASMR | AUTO X AI #Shorts",
+        "url": "https://youtube.com/watch?v=dUfSJLGQRz0",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T01:30:16Z",
+        "score": 0,
+        "snippet": "The 2022 Rivian R1T is revealed from a futuristic electric-adventure vault. \u26a1 Watch the protective film removal, Gear Tunnel ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "You Won\u2019t Believe This Is An EV \ud83e\udd2f\u26a1Rivian R1T Electric #trending #shorts",
+        "url": "https://youtube.com/watch?v=S8H35Pa_Xpw",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T01:11:45Z",
+        "score": 0,
+        "snippet": "Rivian R1T Electric #RivianR1T #Rivian #ElectricTruck #EVAdventure #ElectricVehicles #FutureOfDriving #OffRoadAdventure ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S Cargo Third Row #carreview #electricsuv #2026rivian",
+        "url": "https://youtube.com/watch?v=iZoZybzXpvw",
+        "source": "youtube",
+        "publishedAt": "2026-08-16T00:14:28Z",
+        "score": 0,
+        "snippet": "With room for everything and everyone, every detail of the R1S was considered to maximize space, level up comfort and elevate ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Is Better Than Tesla Model Y in Some BIG Ways\u2026 But Tesla Still Wins Here",
+        "url": "https://youtube.com/watch?v=f2L06QX7PPs",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T20:45:06Z",
+        "score": 0,
+        "snippet": "The Rivian R2 is finally here \u2014 and after spending real time living with it, one thing became clear: Rivian may have created a ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The First Rivian R2 We\u2019ve Got at EV Auto \ud83d\ude31",
+        "url": "https://youtube.com/watch?v=aA6QscwnwZU",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T20:40:47Z",
+        "score": 0,
+        "snippet": "The Rivian R2 is finally here! And it packs serious performance... Native NACS makes charging much easier. #rivian #ev ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "rivian off raod test (i was to lazy to edit this lol)",
+        "url": "https://youtube.com/watch?v=DcsABEKdjw8",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T20:23:50Z",
+        "score": 0,
+        "snippet": "off raod test of the rivian.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Charging a Rivian With A Tesla Universal Wall Connector at 48A 11.2 kW",
+        "url": "https://youtube.com/watch?v=aZoaZtmUt24",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T19:06:53Z",
+        "score": 0,
+        "snippet": "Demonstrating the versatility of the Tesla Universal Wall Connector! Watch as I engage the built-in Magic Dock to deploy the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 SHOCKER: These Features Just Got QUIETLY Removed Before Production!",
+        "url": "https://youtube.com/watch?v=1pBAggiiSFQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T19:00:06Z",
+        "score": 0,
+        "snippet": "Rivian just made a major move with the R2 \u2014 and it's changing everything fans thought they knew about the upcoming electric ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "90% Verlust mit Rivian Aktien! Tesla im Vorsprung",
+        "url": "https://youtube.com/watch?v=FW1Y9Qc92k0",
+        "source": "youtube",
+        "publishedAt": "2026-08-15T18:34:59Z",
+        "score": 0,
+        "snippet": "F im Chat f\u00fcr alle Rivian Investoren. #rivian #tesla #electroauto #aktien.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
