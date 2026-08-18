@@ -105529,5 +105529,405 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-18T22:02:27.104636Z",
+    "timestamp": "2026-08-18T22:02:27.104636Z",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 88,
+      "negative": 8
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 4,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "25 signals across Vehicles (18), Other (4); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, August 18, 2026 \u2014 10:02 PM PT \u2014 25 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 20 Rivian signals clustered around Vehicles (18), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Rivian Mentions, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* After five years of reign (2021-2025), the Tesla Supercharging network is no longer the #1. evchargingstations.com/chargingnews...\n  https://bsky.app/profile/did:plc:wvln7i4aflavtxau3h2ol6ib/post/3mteup7lbqk2i\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (18)* \u2022 Rented an Airstream and Towed with my Gen1 R1T Quad in the Rockies\n  https://www.reddit.com/r/Rivian/comments/1vrzcco/rented_an_airstream_and_towed_with_my_gen1_r1t/\n*Business (2)* \u2022 Rivian (NASDAQ: RIVN) insider moves to sell more shares - Stock Titan\n  https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmU5Vms4eXBUbWNGa2QtLVhsXzMtelJmaG4xRmRiTWpiN2pHVEhpYXoyeTd1dHA1cy13RUlLWEw4Unp1aWxzQno3dGczQndQSlNjbW13SFg2dWo4MC1KeVVXWU42QkdMMTJrcXFSNWVUdWp6dm1sNS1oUVFiN3gxekNoSTc0YUlwSHc4NXoyNUJySEZFYlpLeXl1c1pnbmlFNTFr?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "how do we suggest additions to the map?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vs2j19/how_do_we_suggest_additions_to_the_map/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T21:25:15.639Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Auto wipers no longer working",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vs0vzp/auto_wipers_no_longer_working/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T20:23:50.286Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Randomly got this message. Anybody know what it\u2019s about?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vs0o67/randomly_got_this_message_anybody_know_what_its/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T20:15:45.799Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Has anybody had an issue with the side view mirrors auto tilting when shifting into reverse?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrzm9g/has_anybody_had_an_issue_with_the_side_view/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T19:38:13.327Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rented an Airstream and Towed with my Gen1 R1T Quad in the Rockies",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrzcco/rented_an_airstream_and_towed_with_my_gen1_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T19:28:23.154Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My 2023 R1T is heading back to the shop again, and I'm mad there's still nothing else I want more...",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vry57q/my_2023_r1t_is_heading_back_to_the_shop_again_and/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T18:46:18.111Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Lease Buy Out to get ready for R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrxtzu/lease_buy_out_to_get_ready_for_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T18:35:24.304Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Color Thoughts",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vs1bvq/r2_color_thoughts/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-18T20:40:00.366Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian (NASDAQ: RIVN) insider moves to sell more shares - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmU5Vms4eXBUbWNGa2QtLVhsXzMtelJmaG4xRmRiTWpiN2pHVEhpYXoyeTd1dHA1cy13RUlLWEw4Unp1aWxzQno3dGczQndQSlNjbW13SFg2dWo4MC1KeVVXWU42QkdMMTJrcXFSNWVUdWp6dm1sNS1oUVFiN3gxekNoSTc0YUlwSHc4NXoyNUJySEZFYlpLeXl1c1pnbmlFNTFr?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 18 Aug 2026 20:05:24 GMT",
+        "score": 0,
+        "snippet": "Rivian (NASDAQ: RIVN) insider moves to sell more shares - Stock Titan",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian (NASDAQ: RIVN) CAO sees 20K shares withheld for taxes - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOenpQeVd6VHlRYjMzMjU1dFMzSFRyemhqcW03UHVtV3hRUmJVX0JmQTZlZjIwYmxMclVab1Zxal81a0Nsc1Y5YWNSTzJLVl9NOTVTVDh4TDhvbE1ud3RXXzYzVUpyVmk5U1JjcWN1WDUyQnV4NUJZWjN1bDlQbDB3TnJEelZxMEFrV25PSGtiUU1acGJrcVdEeW1YZkMwZDh6eEFtczJVTlo0RHNNMzNLM0FLcmVUQ3pwMUE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 18 Aug 2026 21:24:38 GMT",
+        "score": 0,
+        "snippet": "Rivian (NASDAQ: RIVN) CAO sees 20K shares withheld for taxes - Stock Titan",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Is Coming To The UK - Here\u2019s Why You Should Care - Car Throttle",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGRMY2RGVDZpVTg4cEZaNm5oM3ZCa05QME5yQzVOaWtkLURxOWQ2dVJnTWlRQ29rczQyYjN2SXpYc2RfYlJ1THlHUUxEQU5nbTZkX1hodXEwdXJzOHgzUng1aVlUcXgxRVNfbHZPVi1xREJaRm40MWh4TmkzS3RxMA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 18 Aug 2026 13:51:31 GMT",
+        "score": 0,
+        "snippet": "Rivian Is Coming To The UK - Here\u2019s Why You Should Care - Car Throttle",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@coolhand.bsky.social (Bluesky): is there an EV I can buy without feeding the beast \n\nLike a year ago I was looki",
+        "url": "https://bsky.app/profile/did:plc:muhesxre7yfcuqi5ss2fskjc/post/3mtf7ebf7wk2w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T21:54:24.971Z",
+        "score": 0,
+        "snippet": "is there an EV I can buy without feeding the beast \n\nLike a year ago I was looking at Rivian and didn\u2019t realize Amazon was involved",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mtf6d2po722p",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T21:35:50.477Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mtf6bzemos2p",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T21:35:15.668Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@profmiloarty.bsky.social (Bluesky): It might just be me but having Rivian big Tonka truck HQ on the Beltline, which ",
+        "url": "https://bsky.app/profile/did:plc:4x7ooipmzsofdjx2bvnagylt/post/3mtf2xtxt6s2a",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T20:35:53.270Z",
+        "score": 1,
+        "snippet": "It might just be me but having Rivian big Tonka truck HQ on the Beltline, which STILL has no movement on Beltline Rail because of shady actions, feels a bit... antithetical. \n\"Come to the Beltline to ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bsidesvi.bsky.social (Bluesky): \ud83c\udf99\ufe0f Speaker Spotlight: Alan Ilicic\n\nStaff Android App/OS Developer at Rivian, Ala",
+        "url": "https://bsky.app/profile/did:plc:dpmwlesjodhle7ss5227yvvg/post/3mtexc45e2x2d",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T19:30:02.372Z",
+        "score": 0,
+        "snippet": "\ud83c\udf99\ufe0f Speaker Spotlight: Alan Ilicic\n\nStaff Android App/OS Developer at Rivian, Alan brings expertise in reactive architectures, security, and performance optimization with a unique background.\n\nJoin us ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@alloutdoorsnews.bsky.social (Bluesky): iKamper and Rivian today announced the Rivian x iKamper Skycamp 4.0 DLX, expandi",
+        "url": "https://bsky.app/profile/did:plc:dynocrcf7ixhrx55ev5jzzsf/post/3mtews222tw2w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T19:21:04.072Z",
+        "score": 0,
+        "snippet": "iKamper and Rivian today announced the Rivian x iKamper Skycamp 4.0 DLX, expanding their collaboration with a new generation of rooftop tents for the Rivian vehicle lineup.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): If you've been waiting for Forest Green and / or Coastal Cloud on your R2, looks",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mtewf6piqs2u",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T19:13:51.670Z",
+        "score": 2,
+        "snippet": "If you've been waiting for Forest Green and / or Coastal Cloud on your R2, looks like you have the option now and won't have to wait much longer. I figured this was coming since Rivian had a FG R2 on ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@matt.evil.gay (Bluesky): I want a Rivian R3",
+        "url": "https://bsky.app/profile/did:plc:tas6hj2xjrqben5653v5kohk/post/3mtew3cujvk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T19:08:21.265Z",
+        "score": 11,
+        "snippet": "I want a Rivian R3",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evchargingstations.bsky.social (Bluesky): After five years of reign (2021-2025), the Tesla Supercharging network is no lon",
+        "url": "https://bsky.app/profile/did:plc:wvln7i4aflavtxau3h2ol6ib/post/3mteup7lbqk2i",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T18:43:42.776Z",
+        "score": 2,
+        "snippet": "After five years of reign (2021-2025), the Tesla Supercharging network is no longer the #1.\n\nevchargingstations.com/chargingnews...",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): R2 Forest Green and Coastal Cloud Signature interior are starting to show up in ",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mteujxse3c2k",
+        "source": "bluesky",
+        "publishedAt": "2026-08-18T18:40:45.963Z",
+        "score": 10,
+        "snippet": "R2 Forest Green and Coastal Cloud Signature interior are starting to show up in orders.\n\nOwners are reporting successful configs with 8-12 week delivery estimates.\n\nriviantrackr.com/news/r2-fore...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T. No soft straps no problem!",
+        "url": "https://youtube.com/watch?v=8r26aJZzEiQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T21:35:14Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Amazon\u2019s $100,000 Van Can FIX ITSELF?! \ud83d\ude33 #amazon #rivian #delivery #drivertips #new #tips #2026",
+        "url": "https://youtube.com/watch?v=1Fst4ZRl7l8",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T21:03:54Z",
+        "score": 0,
+        "snippet": "What happens when the A/C suddenly stops working in Amazon's $100000 electric delivery van? In this video, I'm showing ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Is Better Than the R1S in One HUGE Way\u2026 And Rivian Employees Know It",
+        "url": "https://youtube.com/watch?v=H4O6QNSEmxA",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T20:45:02Z",
+        "score": 0,
+        "snippet": "RIVIAN R2 vs R1S \u2014 Is the R2 Actually BETTER?** The Rivian R2 is finally showing why it could become one of Rivian's most ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Window won\u2019t close in your Rivian R2? Try This.",
+        "url": "https://youtube.com/watch?v=QwAJvp1v98M",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T19:51:27Z",
+        "score": 0,
+        "snippet": "We probably could have done a full restart but tried this first since we found it in the owner's manual. This happened in my friend's ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
