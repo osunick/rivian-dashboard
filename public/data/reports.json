@@ -104861,5 +104861,289 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-18T14:02:00.203757Z",
+    "timestamp": "2026-08-18T14:02:00.203757Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 93,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Competitive Threats",
+      "RIVN Stock",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "16 signals across Vehicles (11), Competitive (2); watch Vehicle Demand, Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, August 18, 2026 \u2014 2:02 PM PT \u2014 16 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Autonomy, Competitive Threats.\n\u2022 *Rivian posture:* 12 Rivian signals clustered around Vehicles (11), Software (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Rivian Mentions, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Pony AI Inc.\u2019s robotaxi sales reached a quarterly high, now accounting for a third of total revenue, with overseas momentum continuing to accelerate.\n  https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69\n\u2022 *Rivn Stock:* Tesla Has 'Effectively' Achieved Level 4 Autonomy, Says Piper Sandler Analyst \u2013 How A Trip To Minneapolis Strengthened His Conviction - Stocktwits\n  https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmJZM1dfUEtwZ29oTk9IUEJlNjVuX3FEZnlsSWxnUkNORTRNTTdwSk9nYVprUTk2bHE3NjJCM0VZMkR0d3RKLUFBdlphSGJ2YWN2M3ZaLWNIU2lzMXVscnVMTjVCUFMzaVA3blJzY0M1R1gtclVqeGd2cE14Q253OVRxaVRaX3RPcVFUQnUwWXFvUDBfQXhtSmZsMXBhZ21wWW9iS0ptVDgwOHFqMGVkUkwxOTBaazNkQlBxWU1jSWZPTlI3T2QyODdsX18ybE0?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (11)* \u2022 Rivian Assistant - a Useful Prompt for Local Weather (in the US)\n  https://www.reddit.com/r/Rivian/comments/1vrpykf/rivian_assistant_a_useful_prompt_for_local/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Your car may physically last nearly 13 years, but its software, servers, cellular modem, and repair permissions may age out much ...\n  https://youtube.com/watch?v=WCCsfSlja4E\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Competitive Threats\n\u2022 RIVN Stock\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian Assistant - a Useful Prompt for Local Weather (in the US)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrpykf/rivian_assistant_a_useful_prompt_for_local/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T13:58:18.981Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 with a confusing roof rack",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrep8i/rivian_r2_with_a_confusing_roof_rack/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T04:14:34.212Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1S Strange clunking noise",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrdqud/r1s_strange_clunking_noise/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T03:27:05.473Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian - don\u2019t make me come in for a service appointment if you don\u2019t have the part!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrdc9s/rivian_dont_make_me_come_in_for_a_service/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T03:07:57.091Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Left Thumbwheel to Text?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrckzt/left_thumbwheel_to_text/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T02:32:37.454Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Signs of a 12v battery failing?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vrais9/signs_of_a_12v_battery_failing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-18T00:58:35.795Z",
+        "score": 0,
+        "snippet": "",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Snagged a R1S Tri max",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vr89gq/snagged_a_r1s_tri_max/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-17T23:20:41.185Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Mark Cuban-Backed \u2018Physical AI\u2019 Startup Nears $500 Million SPAC Deal",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal",
+        "source": "bloomberg_tech",
+        "publishedAt": "Tue, 18 Aug 2026 10:00:25 GMT",
+        "score": 0,
+        "snippet": "A startup backed by Mark Cuban that makes hardware and software used to more safely control and operate autonomous robots plans to go public via a blank-check vehicle in a deal valuing it at $500 mill",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pony AI\u2019s Robotaxi Revenue Reaches Record as Sales Jump 69%",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
+        "source": "bloomberg_tech",
+        "publishedAt": "Tue, 18 Aug 2026 09:47:26 GMT",
+        "score": 0,
+        "snippet": "Pony AI Inc.\u2019s robotaxi sales reached a quarterly high, now accounting for a third of total revenue, with overseas momentum continuing to accelerate.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Why Is Rivian Automotive (NASDAQ:RIVN) in Focus as Electric Trucks and Vans Frame the Sector Story? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQajNLQmsyYkVwVFJwN2lLWUJUQ0JVdmF5R0cyVnBGbzFJeFZHUFBpb2Y3RVZmZU9xZzZ5V291RkN0bTl4SDY0WmpyZ0x4NXdpcFNYYnhvUWNLckFEaDdETkhEbHA0RmNvUW9uN1lMbmZwNXMtRVFBdHRYb1I1WW1MNlN5OE9IRGtSdGhWMUhXTTBKa09rQl9QRnRLQ0VZWUFaT0NQNnh2QTYxcmdkUnRGNy1oZnNGWjAtY3J2VTVFMXljSE53bE5tc3BJVWdqam1COHhMeGxTejg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 18 Aug 2026 07:06:00 GMT",
+        "score": 0,
+        "snippet": "Why Is Rivian Automotive (NASDAQ:RIVN) in Focus as Electric Trucks and Vans Frame the Sector Story? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Has 'Effectively' Achieved Level 4 Autonomy, Says Piper Sandler Analyst \u2013 How A Trip To Minneapolis Strengthened His Conviction - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmJZM1dfUEtwZ29oTk9IUEJlNjVuX3FEZnlsSWxnUkNORTRNTTdwSk9nYVprUTk2bHE3NjJCM0VZMkR0d3RKLUFBdlphSGJ2YWN2M3ZaLWNIU2lzMXVscnVMTjVCUFMzaVA3blJzY0M1R1gtclVqeGd2cE14Q253OVRxaVRaX3RPcVFUQnUwWXFvUDBfQXhtSmZsMXBhZ21wWW9iS0ptVDgwOHFqMGVkUkwxOTBaazNkQlBxWU1jSWZPTlI3T2QyODdsX18ybE0?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Tue, 18 Aug 2026 07:36:18 GMT",
+        "score": 0,
+        "snippet": "Tesla Has 'Effectively' Achieved Level 4 Autonomy, Says Piper Sandler Analyst \u2013 How A Trip To Minneapolis Strengthened His Conviction - Stocktwits",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Autonomy",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Why would Rivian intentionally lose money on every truck it sells?",
+        "url": "https://youtube.com/watch?v=tJJ1KwwDX-I",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T14:00:14Z",
+        "score": 0,
+        "snippet": "Rivian is losing money on every truck. And it may be part of the plan.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why would Rivian intentionally lose money on every truck it sells?",
+        "url": "https://youtube.com/watch?v=cyUKr8uUWt4",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T14:00:03Z",
+        "score": 0,
+        "snippet": "Rivian is losing money on every truck. And it may be part of the plan.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Empezara en $44.000 \ud83d\ude0e",
+        "url": "https://youtube.com/watch?v=zfobf2trQk4",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T13:40:21Z",
+        "score": 0,
+        "snippet": "La Rivian R2 Performance ser\u00e1 la nueva reina de los SUV el\u00e9ctricos? #RivianR2 #RivianPerformance #AutosElectricos ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "DAILY ROUNDUP | AUG 18 | Cars 12.8 Years, Rivian 7-10, Mustang 784 HP, Cherokee U.S.",
+        "url": "https://youtube.com/watch?v=WCCsfSlja4E",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T09:30:15Z",
+        "score": 0,
+        "snippet": "Your car may physically last nearly 13 years, but its software, servers, cellular modem, and repair permissions may age out much ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "The Rivian R2 Performance is an excellent combination between a Honda Passport and a Tesla Model Y",
+        "url": "https://youtube.com/watch?v=qXT2EPRMuD0",
+        "source": "youtube",
+        "publishedAt": "2026-08-18T07:00:39Z",
+        "score": 0,
+        "snippet": "",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
