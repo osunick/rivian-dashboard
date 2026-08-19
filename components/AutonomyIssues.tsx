@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { SOURCE_LABELS, SourceKey } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 
 interface RivianAutonomyIssue {
   title: string;
@@ -9,6 +10,7 @@ interface RivianAutonomyIssue {
   source: string;
   sentiment: string;
   snippet: string;
+  summary?: string;
   category?: string;
   publishedAt?: string | null;
   reportTimestamp: string;
@@ -83,11 +85,11 @@ function IssueCard({ issue }: { issue: RivianAutonomyIssue }) {
         >
           {issue.title}
         </a>
-        {expanded && issue.snippet && (
-          <p className="text-[#9CA3AF] text-xs mt-1.5 leading-relaxed line-clamp-4">{issue.snippet}</p>
+        {expanded && (
+          <p className="text-[#9CA3AF] text-xs mt-1.5 leading-relaxed line-clamp-4">{getItemSummary(issue)}</p>
         )}
         {!expanded && (
-          <p className="text-[#4B5563] text-[10px] font-mono mt-1 line-clamp-1">{issue.snippet}</p>
+          <p className="text-[#4B5563] text-[10px] font-mono mt-1 line-clamp-1">{getItemSummary(issue)}</p>
         )}
       </div>
     </div>

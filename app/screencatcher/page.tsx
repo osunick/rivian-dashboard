@@ -4,6 +4,7 @@ import {
   getScopeReports,
   getSentimentByPublishDate,
 } from '@/lib/data';
+import { getItemSummary } from '@/lib/item-summary';
 import { CATEGORY_LABELS, SOURCE_LABELS } from '@/lib/types';
 
 
@@ -73,7 +74,7 @@ function buildSignals(): AmbientSignal[] {
 
   return signals.map(item => ({
     title: decodeHTMLEntities(item.title),
-    snippet: decodeHTMLEntities(item.snippet),
+    snippet: decodeHTMLEntities(getItemSummary(item)),
     url: item.url,
     source: SOURCE_LABELS[item.source] ?? item.source,
     category: item.category ? cleanLabel(CATEGORY_LABELS[item.category] ?? item.category) : 'Signal',

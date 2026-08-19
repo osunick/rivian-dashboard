@@ -11,6 +11,7 @@ export interface SearchResult {
   sourceLabel: string;
   sentiment: string;
   snippet: string;
+  summary?: string;
   category?: string;
   categoryLabel?: string;
   themes?: string[];
@@ -56,6 +57,7 @@ export async function GET(req: NextRequest) {
       if (terms.length > 0) {
         const haystack = [
           item.title,
+          item.summary,
           item.snippet,
           ...(item.themes ?? []),
           item.source,
@@ -74,6 +76,7 @@ export async function GET(req: NextRequest) {
         sourceLabel: SOURCE_LABELS[item.source as SourceKey] ?? item.source,
         sentiment: item.sentiment,
         snippet: item.snippet,
+        summary: item.summary,
         category: item.category,
         categoryLabel: item.category ? CATEGORY_LABELS[item.category as CategoryKey] : undefined,
         themes: item.themes,

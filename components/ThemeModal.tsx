@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
 import { SOURCE_LABELS, SourceKey } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 import MediaPreview from './MediaPreview';
 
 interface Item {
@@ -12,6 +13,7 @@ interface Item {
   sentiment: string;
   publishedAt?: string | null;
   snippet?: string;
+  summary?: string;
   reportTimestamp: string;
 }
 
@@ -134,9 +136,7 @@ export default function ThemeModal({
                     </div>
                   )}
 
-                  {item.snippet && (
-                    <p className="mt-1.5 text-[13px] leading-6 text-claude-muted">{item.snippet}</p>
-                  )}
+                  <p className="mt-1.5 text-[13px] leading-6 text-claude-muted">{getItemSummary(item)}</p>
 
                   {item.url && (
                     <>

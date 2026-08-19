@@ -39,6 +39,23 @@ def clean_snippet(text):
     text = re.sub(r'\s+', ' ', text).strip()
     return text[:200] or '—'
 
+def item_summary(item):
+    """Return a short, always-present summary for dashboard feed items."""
+    snippet = clean_snippet(item.get('summary') or item.get('snippet'))
+    if snippet != '—':
+        return snippet
+    title = clean_snippet(item.get('title'))
+    source = clean_snippet(item.get('source'))
+    if title != '—' and source != '—':
+        return f"{source} signal: {title}"[:200]
+    return title if title != '—' else 'No summary is available for this item yet.'
+
+def ensure_item_summaries(items):
+    for item in items:
+        summary = item_summary(item)
+        item['summary'] = summary
+        item['snippet'] = summary
+
 def format_date(iso_str):
     try:
         dt = datetime.fromisoformat(iso_str.replace('Z','+00:00'))
@@ -397,6 +414,7 @@ def main():
 
     # Analyze and save if new items
     if items:
+        ensure_item_summaries(items)
         for item in items:
             # Always re-classify — category from fetch may be stale
             item['category'] = guess_category(item)

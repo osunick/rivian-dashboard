@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { createPortal } from 'react-dom';
 import { CATEGORY_KEYS, CATEGORY_LABELS, SOURCE_KEYS, SOURCE_LABELS } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 import MediaPreview from './MediaPreview';
 
 interface SearchResult {
@@ -12,6 +13,7 @@ interface SearchResult {
   sourceLabel: string;
   sentiment: string;
   snippet: string;
+  summary?: string;
   category?: string;
   categoryLabel?: string;
   themes?: string[];
@@ -288,9 +290,7 @@ export default function SearchModal({ onClose }: Props) {
                   {highlightText(item.title, query)}
                 </a>
 
-                {item.snippet && (
-                  <p className="mt-2 text-sm leading-6 text-[#5d584d]">{highlightText(item.snippet, query)}</p>
-                )}
+                <p className="mt-2 text-sm leading-6 text-[#5d584d]">{highlightText(getItemSummary(item), query)}</p>
 
                 <MediaPreview url={item.url} title={item.title} />
 

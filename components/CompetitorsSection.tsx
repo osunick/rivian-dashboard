@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import ThemeModal from './ThemeModal';
 import { CompetitorProfile, ThreatLevel } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 
 type CompetitorItem = {
   title: string;
@@ -10,6 +11,7 @@ type CompetitorItem = {
   source: string;
   sentiment: string;
   snippet?: string;
+  summary?: string;
   publishedAt?: string | null;
   reportTimestamp: string;
 };
@@ -55,14 +57,19 @@ export default function CompetitorsSection({ competitors, threatStyles }: Props)
 
             <div className="mt-2">
               {latestItem ? (
-                <a
-                  href={latestItem.url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-[13px] leading-5 text-claude-muted hover:text-claude-accent transition-colors"
-                >
-                  {latestItem.title}
-                </a>
+                <>
+                  <a
+                    href={latestItem.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="text-[13px] leading-5 text-claude-muted hover:text-claude-accent transition-colors"
+                  >
+                    {latestItem.title}
+                  </a>
+                  <p className="mt-1.5 text-[12px] leading-5 text-claude-muted/75 line-clamp-2">
+                    {getItemSummary(latestItem)}
+                  </p>
+                </>
               ) : (
                 <div className="text-[13px] leading-5 text-claude-muted/70">No recent matched items.</div>
               )}

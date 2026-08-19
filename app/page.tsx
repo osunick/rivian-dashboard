@@ -9,6 +9,7 @@ import {
   getSentimentByPublishDate,
 } from '@/lib/data';
 import { CATEGORY_KEYS, CATEGORY_LABELS, COMPETITORS, SOURCE_KEYS, SOURCE_LABELS, SentimentLabel } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 import SearchButton from '@/components/SearchButton';
 import ChatButton from '@/components/ChatButton';
 import SummarySentimentBars from '@/components/SummarySentimentBars';
@@ -724,11 +725,9 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                     <div className="text-[14px] font-medium leading-snug text-claude-text group-hover:text-claude-accent">
                       {item.title}
                     </div>
-                    {item.snippet && (
-                      <div className="mt-2 text-[13px] leading-relaxed text-claude-muted line-clamp-2">
-                        {item.snippet}
-                      </div>
-                    )}
+                    <div className="mt-2 text-[13px] leading-relaxed text-claude-muted line-clamp-2">
+                      {getItemSummary(item)}
+                    </div>
                   </a>
                 ))}
               </div>
@@ -755,7 +754,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                         {item.title}
                       </h3>
                     </a>
-                    <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{item.snippet}</p>
+                    <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{getItemSummary(item)}</p>
                   </div>
                 ))}
               </div>
@@ -830,7 +829,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                       {item.title}
                     </h3>
                   </a>
-                  <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{item.snippet}</p>
+                  <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{getItemSummary(item)}</p>
                 </div>
               ))}
             </div>
@@ -860,7 +859,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
                       {issue.title}
                     </h3>
                   </a>
-                  <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{issue.snippet}</p>
+                  <p className="mt-1.5 text-[13px] leading-relaxed text-claude-text/70 line-clamp-2">{getItemSummary(issue)}</p>
                 </div>
               ))}
             </div>

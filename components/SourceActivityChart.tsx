@@ -1,5 +1,6 @@
 // Intentionally NOT 'use client' — pure HTML, no JS needed
 import { SOURCE_LABELS, SourceKey, SentimentLabel, SOURCE_KEYS } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 
 interface SourceEntry {
   source: string;
@@ -94,11 +95,9 @@ export default function SourceActivityChart({ data, itemsMap }: Props) {
                       style={{ color: '#F5F5F5', fontSize: '12px', fontWeight: 600, textDecoration: 'none', display: 'block', lineHeight: 1.4 }}>
                       {item.title} ↗
                     </a>
-                    {item.snippet && (
-                      <p style={{ color: '#6B7280', fontSize: '11px', lineHeight: 1.6, margin: '4px 0 0' }}>
-                        {item.snippet}
-                      </p>
-                    )}
+                    <p style={{ color: '#6B7280', fontSize: '11px', lineHeight: 1.6, margin: '4px 0 0' }}>
+                      {getItemSummary(item)}
+                    </p>
                   </div>
                 ))}
                 {items.length > 10 && (

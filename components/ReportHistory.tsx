@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { Report } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 
 interface Props {
   reports: Report[];
@@ -191,7 +192,7 @@ function ReportRow({ report, index }: { report: Report; index: number }) {
                         >
                           {item.title} ↗
                         </a>
-                        <p className="text-[#6B7280] text-[11px] leading-relaxed">{item.snippet}</p>
+                        <p className="text-[#6B7280] text-[11px] leading-relaxed">{getItemSummary(item)}</p>
                         <span className="text-[#374151] text-[10px] font-mono break-all">{item.url}</span>
                       </div>
                     </div>

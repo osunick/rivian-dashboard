@@ -6,6 +6,7 @@ import {
 } from 'recharts';
 import type { PublishTrendPoint, PublishTrendItem } from '@/lib/data';
 import { SOURCE_LABELS } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 
 interface Props {
   data: PublishTrendPoint[];
@@ -115,9 +116,7 @@ function DrillDownPanel({ point, filter, onClose }: { point: PublishTrendPoint; 
                   >
                     {item.title} ↗
                   </a>
-                  {item.snippet && (
-                    <p className="mt-0.5 text-[11px] leading-relaxed text-claude-muted">{item.snippet}</p>
-                  )}
+                  <p className="mt-0.5 text-[11px] leading-relaxed text-claude-muted">{getItemSummary(item)}</p>
                 </div>
               </div>
             </div>

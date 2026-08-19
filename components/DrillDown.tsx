@@ -10,6 +10,7 @@ export interface DrillDownItem {
   sentiment: string;
   publishedAt?: string | null;
   snippet?: string;
+  summary?: string;
   reportTimestamp: string;
 }
 

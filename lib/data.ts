@@ -448,6 +448,7 @@ export interface PublishTrendItem {
   source: string;
   sentiment: 'positive' | 'neutral' | 'negative';
   snippet: string;
+  summary?: string;
   publishedAt?: string | null;
 }
 
@@ -488,6 +489,7 @@ export function getSentimentByPublishDate(days = 21): PublishTrendPoint[] {
         source: item.source,
         sentiment,
         snippet: item.snippet,
+        summary: item.summary,
         publishedAt: item.publishedAt ?? null,
       });
       buckets.set(key, b);

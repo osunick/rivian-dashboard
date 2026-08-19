@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { COMPETITORS, CompetitorProfile, ThreatLevel, VehicleComparison } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 
 type ReportItemWithTimestamp = {
   title: string;
@@ -9,6 +10,7 @@ type ReportItemWithTimestamp = {
   source: string;
   sentiment: string;
   snippet: string;
+  summary?: string;
   category?: string;
   publishedAt?: string | null;
   reportTimestamp: string;
@@ -110,7 +112,7 @@ function CompetitorCard({ competitor, intel }: { competitor: CompetitorProfile; 
               {latestItem.title}
             </a>
             {expanded && (
-              <p className="text-[#6B7280] text-xs mt-1.5 leading-relaxed">{latestItem.snippet}</p>
+              <p className="text-[#6B7280] text-xs mt-1.5 leading-relaxed">{getItemSummary(latestItem)}</p>
             )}
           </div>
         ) : (

@@ -7,6 +7,7 @@ import {
 } from 'recharts';
 import { Report, ReportItem } from '@/lib/types';
 import { SOURCE_LABELS } from '@/lib/types';
+import { getItemSummary } from '@/lib/item-summary';
 
 interface Props {
   data: Report[];
@@ -142,7 +143,7 @@ function DrillDownPanel({ report, onClose }: { report: Report; onClose: () => vo
                   </a>
                   {/* Snippet */}
                   <p className="text-[#6B7280] text-[11px] mt-0.5 leading-relaxed">
-                    {item.snippet}
+                    {getItemSummary(item)}
                   </p>
                   {/* URL + published date */}
                   <div className="flex items-center gap-2 mt-0.5">
