@@ -105929,5 +105929,602 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-20T02:02:45.773346Z",
+    "timestamp": "2026-08-20T02:02:45.773346Z",
+    "sentiment": {
+      "positive": 19,
+      "neutral": 72,
+      "negative": 8
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 7,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "EV Market",
+      "RIVN Stock",
+      "Rivian Mentions",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "36 signals across Vehicles (22), Business (7); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, August 20, 2026 \u2014 2:02 AM PT \u2014 36 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (22), Business (7).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Pony.ai has demonstrated that its technology works across multiple regions, but will local regulators validate its business model? By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/pony-ais-overseas-pipeline-grows-past-4000-robotaxis/\n\u2022 *Competitive Threats:* Tesla continues its playbook, but any serious confidence about its robotaxi ambitions should be withheld until regulatory approval. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/tesla-preps-cybercabs-austin-launch-as-soon-as-this-month/\n\u2022 *Competitive Threats:* Concentrating 500 trucks on fixed corridors is exactly the density Tesla needs to justify its charging buildout. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/einride-tesla-semi-fleet-expands-to-500-trucks-for-amazon/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 \"He who controls the spice controls the universal hands free\" - Unknown In this video I attempt to show the various differences ...\n  https://youtube.com/watch?v=ybnjW4cIvCI\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (22)* \u2022 reddit_rivian signal: Ambient lighting turning on by itself\n  https://www.reddit.com/r/Rivian/comments/1vt4im4/ambient_lighting_turning_on_by_itself/\n*Business (7)* \u2022 Automobile Manufacturing Stocks Q2 Earnings: Rivian (NASDAQ:RIVN) Firing on All Cylinders - Yahoo Finance\n  https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUZyVU9rdDA5el9JNEo2RFFCUHRfci0yb0VmY0duMGpxdTk3NGNYbE8yTDBqQXVmREwtMklJMUJXLVlHLXpKZ08zb25tTHlRQmU0NHNBM0d1Sk0zcGVWYWN4cTVSVF90eUc3eVg3aGt1RzN2SVlyV2ZEZGRzQ3ZZd3RUR3gwU1U2a2pac0k3c21QeXRxdzdyRnlhMWpIWkdvcFg3eFNUUDEyb214?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 RIVN Stock\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Ambient lighting turning on by itself",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vt4im4/ambient_lighting_turning_on_by_itself/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-20T00:43:46.081Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Ambient lighting turning on by itself",
+        "summary": "reddit_rivian signal: Ambient lighting turning on by itself",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Apple Music is a joke",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vt3z9s/apple_music_is_a_joke/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-20T00:20:09.429Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Apple Music is a joke",
+        "summary": "reddit_rivian signal: Apple Music is a joke",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian's smart headlights outshine in the U.S.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vt2kqe/rivians_smart_headlights_outshine_in_the_us/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-19T23:20:46.760Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian's smart headlights outshine in the U.S.",
+        "summary": "reddit_rivian signal: Rivian's smart headlights outshine in the U.S.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Connect+",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vt0xm1/connect/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-19T22:14:24.304Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Connect+",
+        "summary": "reddit_rivian signal: Connect+",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Steering On-Center wandering since 2026.23?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vsxusz/steering_oncenter_wandering_since_202623/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-19T20:18:04.094Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Steering On-Center wandering since 2026.23?",
+        "summary": "reddit_rivian signal: Steering On-Center wandering since 2026.23?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 R1S Captain\u2019s Chair VIN?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vsxh8x/2027_r1s_captains_chair_vin/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-19T20:04:33.004Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 2027 R1S Captain\u2019s Chair VIN?",
+        "summary": "reddit_rivian signal: 2027 R1S Captain\u2019s Chair VIN?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian care for used buyers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vsx21e/rivian_care_for_used_buyers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-19T19:49:11.626Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian care for used buyers",
+        "summary": "reddit_rivian signal: Rivian care for used buyers",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Steering wheel",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vsvqag/steering_wheel/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-19T19:01:00.881Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Steering wheel",
+        "summary": "reddit_rivian_r2 signal: Steering wheel",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Order frustration",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vs5hg4/order_frustration/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-18T23:24:31.592Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Order frustration",
+        "summary": "reddit_rivian_r2 signal: Order frustration",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: Treasury attempts to rein in bond yields as U.S. debt swells past $40 trillion",
+        "url": "https://www.cnbc.com/2026/08/20/cnbc-daily-open-treasury-us-debt-moderna-cancer.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: CNBC Daily Open: Treasury attempts to rein in bond yields as U.S. debt swells past $40 trillion",
+        "summary": "cnbc signal: CNBC Daily Open: Treasury attempts to rein in bond yields as U.S. debt swells past $40 trillion",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Gravis Robotics CEO on Softbank Backing, Construction",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-19/gravis-robotics-ceo-on-softbank-backing-construction-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 19 Aug 2026 21:22:42 GMT",
+        "score": 0,
+        "snippet": "SoftBank has made a $200 million investment in Gravis Robotics, a construction technology startup specializing in retrofitting existing excavators and heavy machinery with autonomous and semi-autonomo",
+        "summary": "SoftBank has made a $200 million investment in Gravis Robotics, a construction technology startup specializing in retrofitting existing excavators and heavy machinery with autonomous and semi-autonomo",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Pony.ai\u2019s overseas pipeline grows past 4,000 robotaxis",
+        "url": "https://www.automotiveworld.com/news/pony-ais-overseas-pipeline-grows-past-4000-robotaxis/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 19 Aug 2026 14:38:39 +0000",
+        "score": 0,
+        "snippet": "Pony.ai has demonstrated that its technology works across multiple regions, but will local regulators validate its business model? By Stewart Burnett The post <a href=\"",
+        "summary": "Pony.ai has demonstrated that its technology works across multiple regions, but will local regulators validate its business model? By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla preps Cybercab\u2019s Austin launch as soon as this month",
+        "url": "https://www.automotiveworld.com/news/tesla-preps-cybercabs-austin-launch-as-soon-as-this-month/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 19 Aug 2026 08:56:14 +0000",
+        "score": 0,
+        "snippet": "Tesla continues its playbook, but any serious confidence about its robotaxi ambitions should be withheld until regulatory approval. By Stewart Burnett The post <a href=\"",
+        "summary": "Tesla continues its playbook, but any serious confidence about its robotaxi ambitions should be withheld until regulatory approval. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla lands Semi anchor customer via Einride\u2019s 500-truck order",
+        "url": "https://www.automotiveworld.com/news/einride-tesla-semi-fleet-expands-to-500-trucks-for-amazon/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 19 Aug 2026 08:20:46 +0000",
+        "score": 0,
+        "snippet": "Concentrating 500 trucks on fixed corridors is exactly the density Tesla needs to justify its charging buildout. By Stewart Burnett The post <a href=\"",
+        "summary": "Concentrating 500 trucks on fixed corridors is exactly the density Tesla needs to justify its charging buildout. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Automobile Manufacturing Stocks Q2 Earnings: Rivian (NASDAQ:RIVN) Firing on All Cylinders - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUZyVU9rdDA5el9JNEo2RFFCUHRfci0yb0VmY0duMGpxdTk3NGNYbE8yTDBqQXVmREwtMklJMUJXLVlHLXpKZ08zb25tTHlRQmU0NHNBM0d1Sk0zcGVWYWN4cTVSVF90eUc3eVg3aGt1RzN2SVlyV2ZEZGRzQ3ZZd3RUR3gwU1U2a2pac0k3c21QeXRxdzdyRnlhMWpIWkdvcFg3eFNUUDEyb214?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 18:22:02 GMT",
+        "score": 0,
+        "snippet": "Automobile Manufacturing Stocks Q2 Earnings: Rivian (NASDAQ:RIVN) Firing on All Cylinders - Yahoo Finance",
+        "summary": "Automobile Manufacturing Stocks Q2 Earnings: Rivian (NASDAQ:RIVN) Firing on All Cylinders - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian: Healthy R2 Indicators As Company Pushes For Profitability (NASDAQ:RIVN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUhXM2VtRWJqNVJndGNhbkJRVDVlTzY1eWIzT2JEZUNycEpURXdVTmdUbkpiV0JONVlXelZuWC1vby1DbjJuR1dpeHpRQ0hFVVBGMFBlbHNOYW5udHdBbklKWXl4YllybjBGY0pPWHdUanZ5cmN4QnZtaGJTc1N4bHZSTF9DSVYwdEpsbmVQQ0tZbU1kd2x5Z2tlTFpRcXItNnFIQVh4c3o?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 20:03:20 GMT",
+        "score": 0,
+        "snippet": "Rivian: Healthy R2 Indicators As Company Pushes For Profitability (NASDAQ:RIVN) - Seeking Alpha",
+        "summary": "Rivian: Healthy R2 Indicators As Company Pushes For Profitability (NASDAQ:RIVN) - Seeking Alpha",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Institutional Investors Added Over 70 Million RIVN Shares as AMZN, UBER Remain Key Holders - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVk1fSzZ5d1ZpM3dwS20yWjAtdF9OdGNralM2dDJNY1JuMTZwcTBzX182dTFKTmZyTTdCSk1JTmo4OVI0V2U3ZXBvejI2UXMyRjduZHhLLWZiNnZpc1ZxR3h2ck96UXpnTEpObFlFS1lzX3Vhb1VZbU9UcUdZcnV2RVpoUExudmQzd21LejNJd2xaQlpnekVBR1FfSUM4bm8zUEZENE9yU2ZQN1lrQnFFTEZ0amRKWC16OXJRN1l5a3puTnNqcmpiNVJJSFd2eWh6cFhMbUtKTDRHZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 09:18:56 GMT",
+        "score": 0,
+        "snippet": "Institutional Investors Added Over 70 Million RIVN Shares as AMZN, UBER Remain Key Holders - Benzinga",
+        "summary": "Institutional Investors Added Over 70 Million RIVN Shares as AMZN, UBER Remain Key Holders - Benzinga",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Should Rivian\u2019s First Gross Profit and R2 Ramp-Up Require Action From Rivian Automotive (RIVN) Investors? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcTVNaDFWdUN1d0t5Y0xEV3luTEtnTm9jMGdzTU9RQUlIRFFBazFlak9LM3JoM2VDYWpVb212UHFpYkQxSVREcTc5VUUzeTVnaEhGWHptaUx1RDUweGQtdDFxMWVXSjdTVWprQ3N4MDh5Yy1aWnk5eWJvV2tyNTl2T2gtazQ1VTYwSUxLV05RYVo4UERxT0hzb0UtM2cwc3k3VU45dTdMSTN1LTJPdHB3SnVKaVZnbTFOSjQ5bm1EeDlDOFJBd0ZrWXpjVHVQTHlYVWk1MHFR0gHbAUFVX3lxTE1RUElUM01sMDI4RU5KYjEwTzVzRG5tVUphM2FtbExPcjhpa09ZOGt3RS0xakJzLW83aGZ0STRuTEdCQVVKTWhYZ2FWdDdCcER4bnF6VTItUWdZYWUwellPZGZ0QkVmekhpbEp4Tlk2TGZWQWM4MnIzbjhRSzBwMDMxR0duWFBYbjh2SE5BLURpNG5zVTFiR1JyTmhkR28zNGo0dnhON3VabG5wNi1JZG53RkZSaUJCN3czU3VQOGd6Zml4N3d4RlU2VTAwS00xZkY3RWVYVG9JUDkzdw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 20 Aug 2026 01:42:33 GMT",
+        "score": 0,
+        "snippet": "Should Rivian\u2019s First Gross Profit and R2 Ramp-Up Require Action From Rivian Automotive (RIVN) Investors? - simplywall.st",
+        "summary": "Should Rivian\u2019s First Gross Profit and R2 Ramp-Up Require Action From Rivian Automotive (RIVN) Investors? - simplywall.st",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Stock (RIVN) Opinions on Q2 Earnings Beat and Delivery Guidance Raise - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2hNZHJweDY1dlJDc2UxOVhUZU5WY042VnNXRzZ2YnZZUWtQN2xtTHlGMkV3bnZjRjY5aUU2akhXRk56VHlUVU41V25zeXFyVmVHel9hQTVVbWNGZ0drcGRXUUVDbXBUQk1ZN3Bzb3B1cmQ2SFRVcWJTX3NUVlZRSWlmZjJzTTJPSXdRbzQ2YTZkWThudWF5Sm95R0VYVTJ6QXdUb1M5WU0zMHlET0VRNW1FdlhHc1lqVFVNVzFYWVlZUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 17:34:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Stock (RIVN) Opinions on Q2 Earnings Beat and Delivery Guidance Raise - Quiver Quantitative",
+        "summary": "Rivian Automotive Stock (RIVN) Opinions on Q2 Earnings Beat and Delivery Guidance Raise - Quiver Quantitative",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Stock Falls Hardest When Money Gets Expensive - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkxiR2NZb1Q1Tzl6QUk3UU1fU2JpVy1ULW1UWUx1aDBPQW05WmJrZDJkRGdCV1BvWVE0VEZDczJUTktpUHNUbDl2emZjenNTNUw1b29PZ3R1SXRTNHgzTDJsNFE2SjhaM2IzRzh0ZEJvV3psOWtVeEJJQ0ZGYVRFaVFZVGNOd1VRckhkajA0QTljSmxsdEFXbkxyYWw4Z1VvYjAtUnQ1WDNKU2wyOHZGbnk0eTU5b3Y4cEpEbEtEWUtWUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 13:15:35 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Stock Falls Hardest When Money Gets Expensive - Trefis",
+        "summary": "Rivian Automotive Stock Falls Hardest When Money Gets Expensive - Trefis",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Up 6.4% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdElKVTNkdnNBNkNadXBiNXNDUXpaU3h0M0sxZDFwYVd3Mnluc0Mwc1pneml5Q1ViMFBKN1hYYU94WGJTMDBzdlNGa3NEem9CQnMzamZIOEpXSEN2bHBJbG0zVkFwX2xFSUZ0MnVsYjliU08wZ3FPcno5WUc3N0J0VXlPVDRSejYyYlJvejVqd0Z3amlSS2lyZHlkOG5RQ2Y0eHlwU0J2eWIwUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 21:44:47 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Up 6.4% - Here's Why - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Trading Up 6.4% - Here's Why - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is Rivian Automotive Inc (RIVN) Overvalued After 6.4% Rally? GF - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa21ROGs5dWtycWQxOUI4VDZfeEo5NHg3OEJyNWJRSkxDejdUYUt4d05PZVNVUW1ZT2pTT01EeVRWWkxQX0huMGhUWUVIeEY1QmdHUlFkSVNDRHo0TlVCZGt1cGg2S2NQUlRSSjc3NnZwSmRpQmRocFhwUzE0a0ZtLVRhT1JqU2tsWlFFWDIzTk51ZHNGV0plbkdHZzg4YWgtTEhCMVFYTXZmYnRxaC01cWtmMFRTUUZGUzZN?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 23:33:53 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Automotive Inc (RIVN) Overvalued After 6.4% Rally? GF - GuruFocus",
+        "summary": "Is Rivian Automotive Inc (RIVN) Overvalued After 6.4% Rally? GF - GuruFocus",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1BiaWlPcGs2b2VPSThSUURfNmw5ZlpOa0Vfb2huSzJxbTBuVTZwTjRTYUpBU19tU0RuaGtpbXlvUDZtdDNWR0NrX1NLLVV3TC1vNDM3VUQyU1pORTBUcjQ1LThieFh0amgxUy1sNjVBZ0RJTXJXVXhneUhoN3ZDTTFPS0pYZDlDdHJvbHZIV05ZRm56clcyNjlRWlFJaFRMb01yOWcwSlVKbW45N0NDbHRGT3FQMmRQWGhieC1vWnh3SF9TNHIzM05uMlJGZkdHLTdJVHhSV2M?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 17:11:08 GMT",
+        "score": 0,
+        "snippet": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today? - 24/7 Wall St.",
+        "summary": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today? - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Could Rivian (NASDAQ:RIVN) R2 Launch Reshape Its Growth Story? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXF0RGw1d1JNbHM5S0l1REFVV2c0V1hPUUZkbFZSM21IOHIxTkpGcFQtYW80cVh2NTV0aENBU3BUSFl5WF9rYkZ6ejZZSzB6N3lmM2pOTkNTMW4zOVF2aml6a3VGV2hSYURSeWNrUGpudmZDUUs0T0M0NUpmcXNZNEpJOUFCbHl2dkxSVFRpSlgzVERndGVkTjVkVmdtRXA4eHkxbmpYbw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 19 Aug 2026 08:46:00 GMT",
+        "score": 0,
+        "snippet": "Could Rivian (NASDAQ:RIVN) R2 Launch Reshape Its Growth Story? - Kalkine Media",
+        "summary": "Could Rivian (NASDAQ:RIVN) R2 Launch Reshape Its Growth Story? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian's smart headlights outshine in the U.S. - Axios",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqeWYyeFN2ck9rWjVOU2JzNmR1b091c1N4emZnd3F5WERuOFo4RUprU01sMlRqQU10aEx2VklaYVI1WHVMdzNXQnhfWmdtQWdxYVdoMGpYc21YMTl5a3FFazEtWkVONEx3bWtGTnFQZ0Q?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 19 Aug 2026 16:46:27 GMT",
+        "score": 0,
+        "snippet": "Rivian's smart headlights outshine in the U.S. - Axios",
+        "summary": "Rivian's smart headlights outshine in the U.S. - Axios",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Sharing favorites! #rivian",
+        "url": "https://youtube.com/watch?v=mwtueFQWaZA",
+        "source": "youtube",
+        "publishedAt": "2026-08-20T01:30:17Z",
+        "score": 0,
+        "snippet": "Just sharing one of our favorite features on the Rivian-we use this daily!",
+        "summary": "Just sharing one of our favorite features on the Rivian-we use this daily!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Makes Bikes?  #automobile #shorts",
+        "url": "https://youtube.com/watch?v=VnPvXZqMrPg",
+        "source": "youtube",
+        "publishedAt": "2026-08-20T00:00:13Z",
+        "score": 0,
+        "snippet": "At EV WORLD NEWS, we are committed to providing educational resources and emerging trends to our audience. We feature ...",
+        "summary": "At EV WORLD NEWS, we are committed to providing educational resources and emerging trends to our audience. We feature ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why this Automaker has a Competitive Advantage #cars #technology",
+        "url": "https://youtube.com/watch?v=GQ4XKwd0Ivc",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T21:00:03Z",
+        "score": 0,
+        "snippet": "Why Rivian isn't competing with Tesla.",
+        "summary": "Why Rivian isn't competing with Tesla.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How to put in an Order for the Rivian R2",
+        "url": "https://youtube.com/watch?v=E3WxNx_-KMU",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T20:56:40Z",
+        "score": 0,
+        "snippet": "It is time! My order invite came in so here is how to put in the order for the Rivian R2.",
+        "summary": "It is time! My order invite came in so here is how to put in the order for the Rivian R2.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Switzerland Trail with the Rocky Mountain Rivian Club",
+        "url": "https://youtube.com/watch?v=axxsGM2l2Nk",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T20:55:45Z",
+        "score": 0,
+        "snippet": "What a beautiful place near Boulder, Colorado. We had a fantastic time meeting other drivers and spending the day off-roading in ...",
+        "summary": "What a beautiful place near Boulder, Colorado. We had a fantastic time meeting other drivers and spending the day off-roading in ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Battery REVEALED: Just 768 Cells vs 7,777 in the R1\u2026 But There\u2019s a Catch!",
+        "url": "https://youtube.com/watch?v=ktmpnKNDn68",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T20:45:10Z",
+        "score": 0,
+        "snippet": "Rivian R2 is taking a radically different approach to battery engineering \u2014 and the numbers are shocking! \u26a1 The R2 battery ...",
+        "summary": "Rivian R2 is taking a radically different approach to battery engineering \u2014 and the numbers are shocking! \u26a1 The R2 battery ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hankook iON Tires on Rivian R1S: 1,300-Mile Real Review",
+        "url": "https://youtube.com/watch?v=ThA2Y0_LBqc",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T20:30:31Z",
+        "score": 0,
+        "snippet": "After putting 1300 miles on the new Hankook iON EV replacement tires on my Rivian R1S, here is my honest review tested in ...",
+        "summary": "After putting 1300 miles on the new Hankook iON EV replacement tires on my Rivian R1S, here is my honest review tested in ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian ME",
+        "url": "https://youtube.com/watch?v=5Nuk51c4tME",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T19:59:10Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian ME",
+        "summary": "youtube signal: Rivian ME",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Autonomy - Choose Your UHF Spice Level",
+        "url": "https://youtube.com/watch?v=ybnjW4cIvCI",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T19:47:23Z",
+        "score": 0,
+        "snippet": "\"He who controls the spice controls the universal hands free\" - Unknown In this video I attempt to show the various differences ...",
+        "summary": "\"He who controls the spice controls the universal hands free\" - Unknown In this video I attempt to show the various differences ...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Great Cars Lose Money | AWM Capital",
+        "url": "https://youtube.com/watch?v=IFCvQ6t_3fQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-19T19:00:30Z",
+        "score": 0,
+        "snippet": "Rivian makes phenomenal cars. At the IPO, everyone saw a company with amazing cars and wanted in. However, Rivian lost tens ...",
+        "summary": "Rivian makes phenomenal cars. At the IPO, everyone saw a company with amazing cars and wanted in. However, Rivian lost tens ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian OS 2",
+        "url": "https://xcancel.com/antibot/captcha",
+        "source": "hackernews",
+        "publishedAt": "2026-08-19T17:54:31Z",
+        "score": 1,
+        "snippet": "hackernews signal: Rivian OS 2",
+        "summary": "hackernews signal: Rivian OS 2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
