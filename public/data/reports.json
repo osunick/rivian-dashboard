@@ -107105,5 +107105,632 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-24T14:02:53.285126Z",
+    "timestamp": "2026-08-24T14:02:53.285126Z",
+    "sentiment": {
+      "positive": 2,
+      "neutral": 86,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "rivianforums": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 5,
+        "sentiment": null
+      },
+      "community": {
+        "found": 5,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Charging",
+      "Community Signals",
+      "Competitive Threats",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "38 signals across Vehicles (21), Community (5); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, August 24, 2026 \u2014 2:02 PM PT \u2014 38 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 34 Rivian signals clustered around Vehicles (21), Community (5).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 4 negative signals; watch Vehicle Demand, Community Signals, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* <IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\"\n  https://www.techmeme.com/260824/p9#a260824p9\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Horizontal traffic lights on Autonomy display\n  https://www.rivianforums.com/forum/threads/horizontal-traffic-lights-on-autonomy-display.63148/\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (21)* \u2022 reddit_rivian signal: Peeling interior on R1S\n  https://www.reddit.com/r/Rivian/comments/1vx3l4z/peeling_interior_on_r1s/\n*Business (2)* \u2022 Stifel reiterates Rivian stock rating on strong Q2 results By Investing.com - Investing.com Canada\n  https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkszazdiYW5Hb2RnYXZHSzhyb3RZcmI0WjRUQk5kUnQtUnNWZmZXT09jMU0zWkxWQ3pFbXM2MHRsd283cDgyM0tmTTkwYkhpRVFjWUtnVlFZWWE4ekdUVFZ3RUVhcFBObmEzZncwNzNRUVlYTGtjXzMtWXVfSXVvaXdnVm8xdFdqb1JwYVNTNDBoTW9QLVdVcEc1RXhxMk9jV2NTeTJLMWVjWDk4LW9WcVg3VEVqeTcyUjc4?oc=5\n*Software (5)* \u2022 reddit_rivian signal: 2026.28.0 Update?\n  https://www.reddit.com/r/Rivian/comments/1vws0xb/2026280_update/\n*Community (5)* \u2022 News story notes concerning apple.news/AIcNjvgjgSoe... 1. Yes, $0.61/kWh is a lot. Unfortunately, it\u2019s what the price is. Public charging should be done only for road trips or emergency supplements.\n  https://bsky.app/profile/did:plc:l2hdnev3aslrcwwgemwvwupg/post/3mttfzfqgts2z\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Charging\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Peeling interior on R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vx3l4z/peeling_interior_on_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T13:57:46.355Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Peeling interior on R1S",
+        "summary": "reddit_rivian signal: Peeling interior on R1S",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Smartphone Free Rivian Life",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vx17hx/smartphone_free_rivian_life/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T12:19:17.525Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Smartphone Free Rivian Life",
+        "summary": "reddit_rivian signal: Smartphone Free Rivian Life",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026.28.0 Update?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vws0xb/2026280_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T03:53:56.293Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 2026.28.0 Update?",
+        "summary": "reddit_rivian signal: 2026.28.0 Update?",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Pulling to the right after new tire\u2026 thoughts?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vwr5gu/pulling_to_the_right_after_new_tire_thoughts/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T03:09:47.669Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Pulling to the right after new tire\u2026 thoughts?",
+        "summary": "reddit_rivian signal: Pulling to the right after new tire\u2026 thoughts?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 12v accessory power source?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vwqmc6/r2_12v_accessory_power_source/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T02:44:20.845Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 12v accessory power source?",
+        "summary": "reddit_rivian signal: R2 12v accessory power source?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Care. Can\u2019t get a quote.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vwqmbh/rivian_care_cant_get_a_quote/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T02:44:18.602Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian Care. Can\u2019t get a quote.",
+        "summary": "reddit_rivian signal: Rivian Care. Can\u2019t get a quote.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 leasing",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vwvadz/r2_leasing/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-24T06:55:02.392Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 leasing",
+        "summary": "reddit_rivian_r2 signal: R2 leasing",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+        "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+        "summary": "cnbc signal: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Ukraine says Russia used an Nvidia Jetson Orin computing module in its autonomous AI-guided drones; Nvidia says they are widely available on resale markets (Andrew E. Kramer/New York Times)",
+        "url": "https://www.techmeme.com/260824/p11#a260824p11",
+        "source": "techmeme",
+        "publishedAt": "Mon, 24 Aug 2026 06:40:02 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia (New York Times)",
+        "url": "https://www.techmeme.com/260824/p10#a260824p10",
+        "source": "techmeme",
+        "publishedAt": "Mon, 24 Aug 2026 06:35:02 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIG",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIG",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Chinese EV maker XPeng says its robotics business raised $900M+ led by IDG and Gaorong Ventures at a $6.3B valuation, with Tencent and Alibaba participating (Reuters)",
+        "url": "https://www.techmeme.com/260824/p9#a260824p9",
+        "source": "techmeme",
+        "publishedAt": "Mon, 24 Aug 2026 06:10:00 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\"",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Sees Unusually High Options Volume (NASDAQ:RIVN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSERRSUxlYXowbmJzdWZ0VnFEUVFEY19sdHRacjZyMk1oRmZnNWdPNXB2QmthNWdaWjFCN2RwU2gwU0pqYm85OXpxLURyRzBhQmdvRi05clZqZ2dHMzBhTnBRb2tmWEhqMnhtTmVyQWVXZzJEVVFXOHRQeWZlaUdGU3dPZWlmQmJrLTdvcHBET2xQM0hDSXo4dHJ5RDRXQk1FcjY3NE9FejdTODM1b1JOTHV0ZFZyRGV3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 24 Aug 2026 11:11:04 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Sees Unusually High Options Volume (NASDAQ:RIVN) - MarketBeat",
+        "summary": "Rivian Automotive Sees Unusually High Options Volume (NASDAQ:RIVN) - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Reiterated at Buy by Stifel on Beat and Raise Q2 Results - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2h1M3cwdGtIM0IxYzZuMDM2aElrR3dldkdwS1VfNlhyWHlLLVVPZ0VPQmNDZFFGQ2x0RlAySnczeDIxbm1FaEpRcmotNHp0UnUzRl9ST1JGZnBSVFBiMWxQczhVZk1jUHFlSWVoVk14emtrZXJoaElZYkRxZzFMTk9wUTNySzVKTkVoUXF3Qm1Oem15RVBFaU1OSnhXU3NJa1lwdmp0Rmw4M1J0d3FVUEVFc0kwZnVNWG5HLWd2anJzU3g3QllYWnlZRzFHOTFLbUxRY09NOUloVVZzeXdB?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 24 Aug 2026 12:02:51 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Reiterated at Buy by Stifel on Beat and Raise Q2 Results - StreetInsider",
+        "summary": "Rivian Automotive (RIVN) Reiterated at Buy by Stifel on Beat and Raise Q2 Results - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Stifel reiterates Rivian stock rating on strong Q2 results By Investing.com - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkszazdiYW5Hb2RnYXZHSzhyb3RZcmI0WjRUQk5kUnQtUnNWZmZXT09jMU0zWkxWQ3pFbXM2MHRsd283cDgyM0tmTTkwYkhpRVFjWUtnVlFZWWE4ekdUVFZ3RUVhcFBObmEzZncwNzNRUVlYTGtjXzMtWXVfSXVvaXdnVm8xdFdqb1JwYVNTNDBoTW9QLVdVcEc1RXhxMk9jV2NTeTJLMWVjWDk4LW9WcVg3VEVqeTcyUjc4?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 24 Aug 2026 12:54:37 GMT",
+        "score": 0,
+        "snippet": "Stifel reiterates Rivian stock rating on strong Q2 results By Investing.com - Investing.com Canada",
+        "summary": "Stifel reiterates Rivian stock rating on strong Q2 results By Investing.com - Investing.com Canada",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "What Rising Delivery Forecasts Say About Rivian's Stock Prospects - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaE12LWdUeXRCYW12cVFueDgxVndQTlNuOVRZdzI2Y3h2WHU4XzZyZmJKQlR6TkR0OHdmSGE1MjhZQWNxOW42U2xUM0pHRkpTV0xaamFuNkt3QmRucndVN2FwelJLSmdvWkZOUHhhUkU2SGdFcmMzUlRmU3JmVDhhNWItRlIybzBqczNPaFVnWTZnWTJqZy03dllyQjZGQlJnNXhV?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 24 Aug 2026 12:35:19 GMT",
+        "score": 0,
+        "snippet": "What Rising Delivery Forecasts Say About Rivian's Stock Prospects - MarketBeat",
+        "summary": "What Rising Delivery Forecasts Say About Rivian's Stock Prospects - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "We Thoroughly Tested the 2027 Rivian R2 Performance. Does It Live Up to the Hype? - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lcEg0dy03cUMzUEtyVzdSQzJJTDFxVzJha3dRUWFPamxBS3FaQXoyS1hkbDd2VTBGUFRmdmh1bnlTdXA4WWV0RzRIbDd0a2YzTFR5V3FBRktlWE94elBJWEJPZWlrVXRvMzctVGJjMm1GVXQzWkpaUUFFcDY?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 24 Aug 2026 13:22:00 GMT",
+        "score": 0,
+        "snippet": "We Thoroughly Tested the 2027 Rivian R2 Performance. Does It Live Up to the Hype? - MotorTrend",
+        "summary": "We Thoroughly Tested the 2027 Rivian R2 Performance. Does It Live Up to the Hype? - MotorTrend",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Here's How Much You'll Pay For A Fully-Loaded 655-HP Rivian R2 Performance - CarBuzz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KcThpQVhBSlJXX3czNkpQNVRwV0pROVVLa2dYY2UzT2pYbTlWYXZFX2pzbGc4SnMtcWIySXhrNDRUbUtWQUh0OGpYZU5taFdTeWZTVWdwajdmX21pWHlxVHBqMmg5SjJ5aWF5MUNsMHVRcEtNcjBzSWN3?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 24 Aug 2026 11:16:11 GMT",
+        "score": 0,
+        "snippet": "Here's How Much You'll Pay For A Fully-Loaded 655-HP Rivian R2 Performance - CarBuzz",
+        "summary": "Here's How Much You'll Pay For A Fully-Loaded 655-HP Rivian R2 Performance - CarBuzz",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@lloydian.com (Bluesky): News story notes concerning apple.news/AIcNjvgjgSoe...\n\n1. Yes, $0.61/kWh is a l",
+        "url": "https://bsky.app/profile/did:plc:l2hdnev3aslrcwwgemwvwupg/post/3mttfzfqgts2z",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T13:30:54.071Z",
+        "score": 0,
+        "snippet": "News story notes concerning apple.news/AIcNjvgjgSoe... 1. Yes, $0.61/kWh is a lot. Unfortunately, it\u2019s what the price is. Public charging should be done only for road trips or emergency supplements.",
+        "summary": "News story notes concerning apple.news/AIcNjvgjgSoe... 1. Yes, $0.61/kWh is a lot. Unfortunately, it\u2019s what the price is. Public charging should be done only for road trips or emergency supplements.",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@mikekantorski.bsky.social (Bluesky): The Rivian R2 honeymoon phase is officially over.\n\nThings I love.\nThings I don\u2019t",
+        "url": "https://bsky.app/profile/did:plc:aabkgrsooxhbakpia27sw5gj/post/3mttfn6ek6e26",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T13:24:02.966Z",
+        "score": 0,
+        "snippet": "The Rivian R2 honeymoon phase is officially over. Things I love. Things I don\u2019t. And a few issues I definitely wasn\u2019t expecting. New video: youtu.be/tGZsmUz1O6Q",
+        "summary": "The Rivian R2 honeymoon phase is officially over. Things I love. Things I don\u2019t. And a few issues I definitely wasn\u2019t expecting. New video: youtu.be/tGZsmUz1O6Q",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@carbage.online (Bluesky): An issue with the R2s DC fast charging system reveals other quality control issu",
+        "url": "https://bsky.app/profile/did:plc:72663a7cb66grkp5fkiwaydy/post/3mttfbjk5qc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T13:17:30.172Z",
+        "score": 0,
+        "snippet": "An issue with the R2s DC fast charging system reveals other quality control issues at Rivian's plant.",
+        "summary": "An issue with the R2s DC fast charging system reveals other quality control issues at Rivian's plant.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "Vehicle Quality"
+        ]
+      },
+      {
+        "title": "@neilmitch.bsky.social (Bluesky): This is another reason @rivianofficial.bsky.social should allow Apple Car Play. ",
+        "url": "https://bsky.app/profile/did:plc:246ettiegwnfw4nc2ow5geg5/post/3mttdh2dofs2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T12:44:50.273Z",
+        "score": 0,
+        "snippet": "This is another reason @rivianofficial.bsky.social should allow Apple Car Play. I don\u2019t want Wyse incident reports. They are too numerous and inaccurate. It just adds noise not simplicity! insideevs.c",
+        "summary": "This is another reason @rivianofficial.bsky.social should allow Apple Car Play. I don\u2019t want Wyse incident reports. They are too numerous and inaccurate. It just adds noise not simplicity! insideevs.c",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@davefoose.bsky.social (Bluesky): Rivian EVs Are Getting A Software Update That Makes It Easier To Dodge The Cops ",
+        "url": "https://bsky.app/profile/did:plc:37nkf4bl7g6kxtj4ic7gvktd/post/3mttcvxoyrs2h",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T12:35:16.965Z",
+        "score": 0,
+        "snippet": "Rivian EVs Are Getting A Software Update That Makes It Easier To Dodge The Cops insideevs.com/news/805826/...",
+        "summary": "Rivian EVs Are Getting A Software Update That Makes It Easier To Dodge The Cops insideevs.com/news/805826/...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@andrewinter.bsky.social (Bluesky): Eher nicht, Lvl 4 und 5 wird auch weiterhin nur in ganz genau kontrollierten Umg",
+        "url": "https://bsky.app/profile/did:plc:xo6xrq662jdd7uwnq4dkurlq/post/3mttcbffwqs2c",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T12:23:46.374Z",
+        "score": 0,
+        "snippet": "Eher nicht, Lvl 4 und 5 wird auch weiterhin nur in ganz genau kontrollierten Umgebungen so halbwegs funktionieren, was etwa 70% der Stra\u00dfen ausschlie\u00dft. Und VW und Rivian sind bei Software dabei Tesla",
+        "summary": "Eher nicht, Lvl 4 und 5 wird auch weiterhin nur in ganz genau kontrollierten Umgebungen so halbwegs funktionieren, was etwa 70% der Stra\u00dfen ausschlie\u00dft. Und VW und Rivian sind bei Software dabei Tesla",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@miamiherald.com (Bluesky): READ MORE: bit.ly/4qxDQGn",
+        "url": "https://bsky.app/profile/did:plc:7blh5fitc6pgieykmlugwtxo/post/3mtt7byyx7h2z",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T11:30:25.267Z",
+        "score": 0,
+        "snippet": "READ MORE: bit.ly/4qxDQGn",
+        "summary": "READ MORE: bit.ly/4qxDQGn",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@miamiherald.com (Bluesky): Automakers keep quiet about US inquiry into Chinese sensors",
+        "url": "https://bsky.app/profile/did:plc:7blh5fitc6pgieykmlugwtxo/post/3mtt7bxh2bt2t",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T11:30:23.665Z",
+        "score": 0,
+        "snippet": "Automakers keep quiet about US inquiry into Chinese sensors",
+        "summary": "Automakers keep quiet about US inquiry into Chinese sensors",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@bellinghamherald.com (Bluesky): READ MORE: bit.ly/4qSxwJP",
+        "url": "https://bsky.app/profile/did:plc:53zi7khtpw25gvvob743rlra/post/3mtt7bv2jna2w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T11:30:21.463Z",
+        "score": 0,
+        "snippet": "READ MORE: bit.ly/4qSxwJP",
+        "summary": "READ MORE: bit.ly/4qSxwJP",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@bellinghamherald.com (Bluesky): Automakers keep quiet about US inquiry into Chinese sensors",
+        "url": "https://bsky.app/profile/did:plc:53zi7khtpw25gvvob743rlra/post/3mtt7btn5462d",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T11:30:19.668Z",
+        "score": 0,
+        "snippet": "Automakers keep quiet about US inquiry into Chinese sensors",
+        "summary": "Automakers keep quiet about US inquiry into Chinese sensors",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Forgive me for missing more features, I only had it for 40 minutes \ud83d\ude2d#rivian #r1 #r2 #tesla #ev",
+        "url": "https://youtube.com/watch?v=kmiaHu5_g9E",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T13:53:21Z",
+        "score": 0,
+        "snippet": "youtube signal: Forgive me for missing more features, I only had it for 40 minutes \ud83d\ude2d#rivian #r1 #r2 #tesla #ev",
+        "summary": "youtube signal: Forgive me for missing more features, I only had it for 40 minutes \ud83d\ude2d#rivian #r1 #r2 #tesla #ev",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How Rivian Built Its In-Vehicle Voice Assistant with MongoDB | Build Fest San Francisco 2026",
+        "url": "https://youtube.com/watch?v=qxhhpq5NVzY",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T13:00:11Z",
+        "score": 0,
+        "snippet": "Subscribe to the MongoDB for Developers YouTube Channel: ...",
+        "summary": "Subscribe to the MongoDB for Developers YouTube Channel: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Software Roadmap + Wishlist - The Future is Bright!",
+        "url": "https://youtube.com/watch?v=VU9TXXEBK2c",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T12:59:09Z",
+        "score": 0,
+        "snippet": "In this video I discuss some of the software items on Rivian's roadmap for OS2.0 (and the R2 by extension). I also add some of my ...",
+        "summary": "In this video I discuss some of the software items on Rivian's roadmap for OS2.0 (and the R2 by extension). I also add some of my ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs Tesla Model Y \u2013 The Ultimate 2026 Compact Electric Adventure Shootout",
+        "url": "https://youtube.com/watch?v=VTvUCWA5iik",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T12:15:29Z",
+        "score": 0,
+        "snippet": "Rivian R2 vs Tesla Model Y \u2013 The Ultimate 2026 Compact Electric Adventure Shootout We pit the Rivian R2's rugged, ...",
+        "summary": "Rivian R2 vs Tesla Model Y \u2013 The Ultimate 2026 Compact Electric Adventure Shootout We pit the Rivian R2's rugged, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2&#39;s Shocking New Upgrade Just Changed EVERYTHING \u2014 Should You Cancel Your Order?",
+        "url": "https://youtube.com/watch?v=WfsRg2lQftQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T12:00:01Z",
+        "score": 0,
+        "snippet": "Rivian just dropped a MASSIVE update to the upcoming R2 \u2014 and it's got current reservation holders questioning everything.",
+        "summary": "Rivian just dropped a MASSIVE update to the upcoming R2 \u2014 and it's got current reservation holders questioning everything.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R2: Is this the FUTURE of Car Interiors?",
+        "url": "https://youtube.com/watch?v=cQy5VgPuvmU",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T11:02:37Z",
+        "score": 0,
+        "snippet": "Rivian's OS 2.0 on the R2 uses Unreal Engine 5 for stunning visuals. See how Haptic Halo Wheels & AI change driving. Click to ...",
+        "summary": "Rivian's OS 2.0 on the R2 uses Unreal Engine 5 for stunning visuals. See how Haptic Halo Wheels & AI change driving. Click to ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New Rivian R1S 2026 \u2013 The Ultimate Electric Adventure SUV Is Here!",
+        "url": "https://youtube.com/watch?v=RZIHyJ5rRXs",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T11:02:36Z",
+        "score": 0,
+        "snippet": "New Rivian R1S 2026 \u2013 The Ultimate Electric Adventure SUV Is Here! Description: The new Rivian R1S 2026 brings together ...",
+        "summary": "New Rivian R1S 2026 \u2013 The Ultimate Electric Adventure SUV Is Here! Description: The new Rivian R1S 2026 brings together ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN Is Trapping Traders Again",
+        "url": "https://youtube.com/watch?v=Rn8GGkB6GXs",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T10:24:29Z",
+        "score": 0,
+        "snippet": "Rivian keeps giving traders those little glimpses of hope\u2014then getting rejected and falling back into the range. If RIVN climbs ...",
+        "summary": "Rivian keeps giving traders those little glimpses of hope\u2014then getting rejected and falling back into the range. If RIVN climbs ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Lucid Gravity vs Rivian R1S? #rivian #tesla #lucidmotors",
+        "url": "https://youtube.com/watch?v=9iMridcAWAk",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T10:15:34Z",
+        "score": 0,
+        "snippet": "Looking to buy a Rivian? Use my Rivian referral: ...",
+        "summary": "Looking to buy a Rivian? Use my Rivian referral: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Towing Capacity Explained! \ud83d\ude99\ud83d\udca8",
+        "url": "https://youtube.com/watch?v=YJMpdyRCKMw",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T07:42:48Z",
+        "score": 0,
+        "snippet": "Wondering if the new compact electric SUV, the Rivian R2, can handle your gear? With up to 4400 lbs of towing capacity, it packs ...",
+        "summary": "Wondering if the new compact electric SUV, the Rivian R2, can handle your gear? With up to 4400 lbs of towing capacity, it packs ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Horizontal traffic lights on Autonomy display",
+        "url": "https://www.rivianforums.com/forum/threads/horizontal-traffic-lights-on-autonomy-display.63148/",
+        "source": "rivianforums",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "Horizontal traffic lights on Autonomy display",
+        "summary": "Horizontal traffic lights on Autonomy display",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      }
+    ]
   }
 ]
