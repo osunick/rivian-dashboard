@@ -107732,5 +107732,396 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-24T18:01:28.258558Z",
+    "timestamp": "2026-08-24T18:01:28.258558Z",
+    "sentiment": {
+      "positive": 18,
+      "neutral": 81,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "22 signals across Vehicles (16), Software (2); watch Vehicle Demand, Autonomy",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, August 24, 2026 \u2014 6:01 PM PT \u2014 22 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 21 Rivian signals clustered around Vehicles (16), Software (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Autonomy, EV Market.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Tesla FSD V14 Lite Driving Over a Log Shows That New Features on Decrepit Hardware Are Dangerous - autoevolution\n  https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2FiNUZYazhJVmRWcGIyMnZQM1pXM0VEVEJFTlJta3Y2YXd3dkpTZ1JDY3BpVWZxVG5JQmpQRE9qR3dLZ2JVRC12MVd0Vm9HaGNlZ1hIQ2lqLXQ5ME03NGtmbkhfRnRDdWRSc05JWHMtMkN1QnJnb0tIZzBSYVZyYXltNDFTVzNJMHUtTEprWUlUVmhFWTF3cEE3Vy12cFJiaXZtYkxrRkJraHEwd3FsbUJPXzdmYlpzQ2U4SGV1Y1I0M2JmcUE0SU5OQUV0ekdXclAxV3BjbW1VZk0?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 These two SUVs feel completely different.. The R2 looks bigger and tougher. But FSD could be the biggest difference. The R2 and ...\n  https://youtube.com/watch?v=WkVk8KjN-jI\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Two test drives, I liked everything but the driver's seat\n  https://www.reddit.com/r/RivianR2/comments/1vx3syq/two_test_drives_i_liked_everything_but_the/\n*Vehicles (16)* \u2022 reddit_rivian signal: Tire efficiency versus tread durability\n  https://www.reddit.com/r/Rivian/comments/1vx8hp6/tire_efficiency_versus_tread_durability/\n*Business (1)* \u2022 Tesla Referral \u2013 Get $2500 OFF Save $200 on customizable EV coverage for your Tesla or other EV ...\n  https://youtube.com/watch?v=Niylmfw5XSg\n*Software (2)* \u2022 Rivian R1 & R2 to receive live Waze alerts (police, speed cameras) with 2026.31 update. #Rivian #Waze #EV #RealTimeAlerts #Navigation #TechNews thedailytechfeed.com/rivian-r1-r2...\n  https://bsky.app/profile/did:plc:mht5ub4ykjuoxpux77hikixt/post/3mttolsm4kj2y\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Tire efficiency versus tread durability",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vx8hp6/tire_efficiency_versus_tread_durability/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T16:57:44.361Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Tire efficiency versus tread durability",
+        "summary": "reddit_rivian signal: Tire efficiency versus tread durability",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New R1 front seat ventilation/heating mode unlocked?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vx7mck/new_r1_front_seat_ventilationheating_mode_unlocked/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T16:26:16.039Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: New R1 front seat ventilation/heating mode unlocked?",
+        "summary": "reddit_rivian signal: New R1 front seat ventilation/heating mode unlocked?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Lease vs. Buy",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vx5cov/lease_vs_buy/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T15:03:56.473Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Lease vs. Buy",
+        "summary": "reddit_rivian signal: Lease vs. Buy",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Need advise on R1S Dual Max",
+        "url": "https://www.reddit.com/r/Rivian/comments/1vx3y2g/need_advise_on_r1s_dual_max/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-24T14:11:03.089Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Need advise on R1S Dual Max",
+        "summary": "reddit_rivian signal: Need advise on R1S Dual Max",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Sound System....",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vx8h9x/r2_sound_system/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-24T16:57:18.379Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 Sound System....",
+        "summary": "reddit_rivian_r2 signal: R2 Sound System....",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Two test drives, I liked everything but the driver's seat",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1vx3syq/two_test_drives_i_liked_everything_but_the/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-24T14:05:31.040Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Two test drives, I liked everything but the driver's seat",
+        "summary": "reddit_rivian_r2 signal: Two test drives, I liked everything but the driver's seat",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian (NASDAQ:RIVN) Options Activity Sparks Fresh Curiosity - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlhuYjE3MFB2M3VlX2puSnpNbVBnc1kwNTBhUFVRZlpxcFNXbmh2R0NBbk9GUlVtS0l0Mms5cTMzM1VGVGw1bU85YUNLVVU5TXFyRXhpNWV2MlRCb3o3Qy11MHdUZ2dseEN0MkJMZFlLcE91TzZZRnhVLS1aaFhTMDNXS1pEbmVYUXlwWHQxY29SeGd4UmQ5XzcwdnlQOGpTM0Jz?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 24 Aug 2026 17:04:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (NASDAQ:RIVN) Options Activity Sparks Fresh Curiosity - Kalkine Media",
+        "summary": "Rivian (NASDAQ:RIVN) Options Activity Sparks Fresh Curiosity - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla FSD V14 Lite Driving Over a Log Shows That New Features on Decrepit Hardware Are Dangerous - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2FiNUZYazhJVmRWcGIyMnZQM1pXM0VEVEJFTlJta3Y2YXd3dkpTZ1JDY3BpVWZxVG5JQmpQRE9qR3dLZ2JVRC12MVd0Vm9HaGNlZ1hIQ2lqLXQ5ME03NGtmbkhfRnRDdWRSc05JWHMtMkN1QnJnb0tIZzBSYVZyYXltNDFTVzNJMHUtTEprWUlUVmhFWTF3cEE3Vy12cFJiaXZtYkxrRkJraHEwd3FsbUJPXzdmYlpzQ2U4SGV1Y1I0M2JmcUE0SU5OQUV0ekdXclAxV3BjbW1VZk0?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Mon, 24 Aug 2026 17:36:59 GMT",
+        "score": 0,
+        "snippet": "Tesla FSD V14 Lite Driving Over a Log Shows That New Features on Decrepit Hardware Are Dangerous - autoevolution",
+        "summary": "Tesla FSD V14 Lite Driving Over a Log Shows That New Features on Decrepit Hardware Are Dangerous - autoevolution",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian Adding Waze Integration, Something Tesla Owners Have Wanted for Years [20",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mttusgcfa42f",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T17:55:24.774Z",
+        "score": 0,
+        "snippet": "Rivian Adding Waze Integration, Something Tesla Owners Have Wanted for Years [2026.31]",
+        "summary": "Rivian Adding Waze Integration, Something Tesla Owners Have Wanted for Years [2026.31]",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sparkyomatic.bsky.social (Bluesky): I think if people really looked into EVs there might be a change of heart. Maybe",
+        "url": "https://bsky.app/profile/did:plc:pn3yjtajmrjl6dvhisvimbol/post/3mtttetbbxc24",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T17:29:54.973Z",
+        "score": 1,
+        "snippet": "I think if people really looked into EVs there might be a change of heart. Maybe I\u2019m wrong!. My nephew has Rivian truck and loves it.",
+        "summary": "I think if people really looked into EVs there might be a change of heart. Maybe I\u2019m wrong!. My nephew has Rivian truck and loves it.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@9to5google.com (Bluesky): Waze alerts are coming to navigation in Rivian\u2019s electric vehicles",
+        "url": "https://bsky.app/profile/did:plc:4z4m44eu62tzlmkqxfkkhagt/post/3mttpjlsfsw2k",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T16:21:00.966Z",
+        "score": 2,
+        "snippet": "Waze alerts are coming to navigation in Rivian\u2019s electric vehicles",
+        "summary": "Waze alerts are coming to navigation in Rivian\u2019s electric vehicles",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thedailytechfeed.com (Bluesky): Rivian R1 & R2 to receive live Waze alerts (police, speed cameras) with 2026.31 ",
+        "url": "https://bsky.app/profile/did:plc:mht5ub4ykjuoxpux77hikixt/post/3mttolsm4kj2y",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T16:04:20.272Z",
+        "score": 0,
+        "snippet": "Rivian R1 & R2 to receive live Waze alerts (police, speed cameras) with 2026.31 update. #Rivian #Waze #EV #RealTimeAlerts #Navigation #TechNews thedailytechfeed.com/rivian-r1-r2...",
+        "summary": "Rivian R1 & R2 to receive live Waze alerts (police, speed cameras) with 2026.31 update. #Rivian #Waze #EV #RealTimeAlerts #Navigation #TechNews thedailytechfeed.com/rivian-r1-r2...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Software",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@ryanlcooper.com (Bluesky): plenty in that segment--Bolt, Ioniq 5, EV6, or Rivian R2, LYRIQ if you need even",
+        "url": "https://bsky.app/profile/did:plc:p5yoii26kayabauhkym3vtms/post/3mttmthtz4k2q",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T15:32:49.475Z",
+        "score": 1,
+        "snippet": "plenty in that segment--Bolt, Ioniq 5, EV6, or Rivian R2, LYRIQ if you need even more range. I have a Kona and it is not that good for road trips, though it can do it",
+        "summary": "plenty in that segment--Bolt, Ioniq 5, EV6, or Rivian R2, LYRIQ if you need even more range. I have a Kona and it is not that good for road trips, though it can do it",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@frandroid.com (Bluesky): Rivian en Europe : le rival de Tesla repousse l\u2019arriv\u00e9e de ses SUV \u00e9lectriques c",
+        "url": "https://bsky.app/profile/did:plc:vbhvpqudswo72vskdfr34idm/post/3mttmioqgbv2e",
+        "source": "bluesky",
+        "publishedAt": "2026-08-24T15:26:47.949Z",
+        "score": 0,
+        "snippet": "Rivian en Europe : le rival de Tesla repousse l\u2019arriv\u00e9e de ses SUV \u00e9lectriques chez nous \ud83d\udc49",
+        "summary": "Rivian en Europe : le rival de Tesla repousse l\u2019arriv\u00e9e de ses SUV \u00e9lectriques chez nous \ud83d\udc49",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Got my First Rivian R2 Accessory \ud83d\udc40\ud83d\ude33",
+        "url": "https://youtube.com/watch?v=lCYPVmQ65GI",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T17:49:16Z",
+        "score": 0,
+        "snippet": "rivian #rivianr2 #rivianaccessories #floormats #evflex.",
+        "summary": "rivian #rivianr2 #rivianaccessories #floormats #evflex.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 &amp; R1S - Half Moon Grey and Limestone #rivian #rivianr1s #rivianr2",
+        "url": "https://youtube.com/watch?v=FvuLUUiUL_A",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T17:15:53Z",
+        "score": 0,
+        "snippet": "Rivian R2 in half moon grey and Rivian R1S in limestone.",
+        "summary": "Rivian R2 in half moon grey and Rivian R1S in limestone.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Gets Mud Flaps! Aerodynamic Spec Carbon Fiber Bolt-on Side Protection &amp; Good Looks",
+        "url": "https://youtube.com/watch?v=3tdCkI9KSgM",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T17:10:00Z",
+        "score": 0,
+        "snippet": "Subscribe to EV Sportline for the best in electric vehicle upgrades \u26a1\ufe0f Click 'Show More' for links EV Sportline website: ...",
+        "summary": "Subscribe to EV Sportline for the best in electric vehicle upgrades \u26a1\ufe0f Click 'Show More' for links EV Sportline website: ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Wildly Capable Electric Family Hauler! | 2026 Rivian R1S Quad Review",
+        "url": "https://youtube.com/watch?v=ZWxc1xk8mxI",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T17:07:10Z",
+        "score": 0,
+        "snippet": "Jordan takes you through the full experience of living with the Rivian R1S. Driving, off-roading, software, mobile app, charging, ...",
+        "summary": "Jordan takes you through the full experience of living with the Rivian R1S. Driving, off-roading, software, mobile app, charging, ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "R2 Sold for Profit at 74k and Rivian CEO gives preview of Autonomy+ (FSD)",
+        "url": "https://youtube.com/watch?v=Niylmfw5XSg",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T17:00:01Z",
+        "score": 0,
+        "snippet": "Tesla Referral \u2013 Get $2500 OFF Save $200 on customizable EV coverage for your Tesla or other EV ...",
+        "summary": "Tesla Referral \u2013 Get $2500 OFF Save $200 on customizable EV coverage for your Tesla or other EV ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Subscribe To Win a Brand New Truck Product picks by Mark Rober#rivian #partner",
+        "url": "https://youtube.com/watch?v=7zaxTT68XfI",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T14:26:04Z",
+        "score": 0,
+        "snippet": "Subscribe To Win a Brand New Truck! 1.4m Likes 44526258 Views 2024 13 Nov Product picks by Mark Rober : Creative Kit Ages ...",
+        "summary": "Subscribe To Win a Brand New Truck! 1.4m Likes 44526258 Views 2024 13 Nov Product picks by Mark Rober : Creative Kit Ages ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 vs. Tesla Model Y \ud83e\udd2f",
+        "url": "https://youtube.com/watch?v=WkVk8KjN-jI",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T14:23:29Z",
+        "score": 0,
+        "snippet": "These two SUVs feel completely different.. The R2 looks bigger and tougher. But FSD could be the biggest difference. The R2 and ...",
+        "summary": "These two SUVs feel completely different.. The R2 looks bigger and tougher. But FSD could be the biggest difference. The R2 and ...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "2027 Blue Rivian R2",
+        "url": "https://youtube.com/watch?v=TnAXLcmwJ88",
+        "source": "youtube",
+        "publishedAt": "2026-08-24T14:01:59Z",
+        "score": 0,
+        "snippet": "2027 @Rivian R2 came to AP3 in Atlanta for @XPELinc Stealth PPF and Ceramic Window Tint & Ceramic Coating. AP3 Paint ...",
+        "summary": "2027 @Rivian R2 came to AP3 in Atlanta for @XPELinc Stealth PPF and Ceramic Window Tint & Ceramic Coating. AP3 Paint ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
