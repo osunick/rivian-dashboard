@@ -115296,5 +115296,366 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-31T14:02:32.346226Z",
+    "timestamp": "2026-08-31T14:02:32.346226Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 95,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Charging",
+      "Community Signals",
+      "Competitive Threats",
+      "EV Market",
+      "R2 Launch",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (15), Business (2); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, August 31, 2026 \u2014 2:02 PM PT \u2014 20 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 19 Rivian signals clustered around Vehicles (15), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Business, Charging.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Saudi Arabia\u2019s Humain is partnering with Applied Intuition Inc. to deploy self-driving trucks by 2030, as the kingdom\u2019s leading artificial intelligence firm looks to find practical uses for the techno\n  https://www.bloomberg.com/news/articles/2026-08-31/saudi-ai-firm-humain-applied-intuition-partner-on-self-driving-trucks\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 reddit_rivian signal: Tested and Surprised\n  https://www.reddit.com/r/Rivian/comments/1w34ipa/tested_and_surprised/\n*Business (2)* \u2022 Rivian Shares Slip 4.4% After $1.19 Billion Cash Burn Leaves Stock Near Post-Offering Level - TechStock\u00b2\n  https://news.google.com/rss/articles/CBMingFBVV95cUxPREdfS3QyMldLckxCU1Rhd3pLR2N6VjFPM2lpZWZUM0tVQzNEaXNsZ04xOUdCenhsZjN0YUZwZnNCaVZYWmY0RkJ5dWFJVmdieVB1RU1wU3VqOER0WjAwb0tkdUpSb1FHNnhqN1ZjS05mSzhUVVl1NUJmRHRyVTNpOE0ycHdjUFhKbDQ1QnZISFYtRnluRENPaFBQUTJ6Zw?oc=5\n*Software (1)* \u2022 2027 Rivian R1S vs Toyota Sequoia \u2014 Which SUV Should You Buy?** The **2027 Rivian R1S** and **2027 Toyota Sequoia** ...\n  https://youtube.com/watch?v=48vSc7Jr36w\n*Community (1)* \u2022 youtube signal: strict game\n  https://youtube.com/watch?v=5C51bry1VN0\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Charging\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Tested and Surprised",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w34ipa/tested_and_surprised/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T05:34:10.183Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Tested and Surprised",
+        "summary": "reddit_rivian signal: Tested and Surprised",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Navi sent us on the Rubicon Trail. It was awesome.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w33sqd/rivian_navi_sent_us_on_the_rubicon_trail_it_was/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T04:56:22.491Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian Navi sent us on the Rubicon Trail. It was awesome.",
+        "summary": "reddit_rivian signal: Rivian Navi sent us on the Rubicon Trail. It was awesome.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Saudi AI Firm Humain, Applied Intuition Partner on Self-Driving Trucks",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/saudi-ai-firm-humain-applied-intuition-partner-on-self-driving-trucks",
+        "source": "bloomberg_tech",
+        "publishedAt": "Mon, 31 Aug 2026 11:45:11 GMT",
+        "score": 0,
+        "snippet": "Saudi Arabia\u2019s Humain is partnering with Applied Intuition Inc. to deploy self-driving trucks by 2030, as the kingdom\u2019s leading artificial intelligence firm looks to find practical uses for the techno",
+        "summary": "Saudi Arabia\u2019s Humain is partnering with Applied Intuition Inc. to deploy self-driving trucks by 2030, as the kingdom\u2019s leading artificial intelligence firm looks to find practical uses for the techno",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Shares Slip 4.4% After $1.19 Billion Cash Burn Leaves Stock Near Post-Offering Level - TechStock\u00b2",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREdfS3QyMldLckxCU1Rhd3pLR2N6VjFPM2lpZWZUM0tVQzNEaXNsZ04xOUdCenhsZjN0YUZwZnNCaVZYWmY0RkJ5dWFJVmdieVB1RU1wU3VqOER0WjAwb0tkdUpSb1FHNnhqN1ZjS05mSzhUVVl1NUJmRHRyVTNpOE0ycHdjUFhKbDQ1QnZISFYtRnluRENPaFBQUTJ6Zw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 31 Aug 2026 13:24:40 GMT",
+        "score": 0,
+        "snippet": "Rivian Shares Slip 4.4% After $1.19 Billion Cash Burn Leaves Stock Near Post-Offering Level - TechStock\u00b2",
+        "summary": "Rivian Shares Slip 4.4% After $1.19 Billion Cash Burn Leaves Stock Near Post-Offering Level - TechStock\u00b2",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Can the R-Two Carry Rivian Automotive (NASDAQ:RIVN) Into a New Phase? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkpkSkhVcHQ2alN1YmRHTy1lOVBUWkNBaVJMNjZtaHJOU2I0NkJqdFFNQU4yem9jVFdFWWVqejlTeVN3WDl2RzUyY09GUzYzUlZmYkk1Y0NfYk9uRVVka0lSd01EMnBvNGlaS2g3dG9Sa2tDLUFWX09zWjVvVWZHakR1LTRULUdHTjlKMjJ4ZkZTOE1Yc2NQZHBibWZVeXpCOEZDcVpncVlxbTB5dUlwdg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 31 Aug 2026 09:54:00 GMT",
+        "score": 0,
+        "snippet": "Can the R-Two Carry Rivian Automotive (NASDAQ:RIVN) Into a New Phase? - Kalkine Media",
+        "summary": "Can the R-Two Carry Rivian Automotive (NASDAQ:RIVN) Into a New Phase? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Home Charging Adds 38 Miles Hourly - The EV Report",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFWDhFVjZPY0xPcUZTMzFRbFlEVGR2Y2pVSDNtaTgzTWxic3lwVmx4Nkg0Q2lpelVUb2tZUWtLWl9BVm41VjRPQkxnTjJZRjdESmZqZU9FZy1xNDQzTGJMX241N0loazBzNlhJRg?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 31 Aug 2026 11:39:51 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Home Charging Adds 38 Miles Hourly - The EV Report",
+        "summary": "Rivian R2 Home Charging Adds 38 Miles Hourly - The EV Report",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@newestcarsusa.bsky.social (Bluesky): Rivian 2027 R1 Lineup Gets New Trims and Seating Options",
+        "url": "https://bsky.app/profile/did:plc:njbouatmwhny5654vy2hghtg/post/3muf25ud67y2w",
+        "source": "bluesky",
+        "publishedAt": "2026-08-31T13:46:33.107Z",
+        "score": 0,
+        "snippet": "Rivian 2027 R1 Lineup Gets New Trims and Seating Options",
+        "summary": "Rivian 2027 R1 Lineup Gets New Trims and Seating Options",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@pyramidhead76.bsky.social (Bluesky): There's a guy here with a Rivian water bottle. #Edgy",
+        "url": "https://bsky.app/profile/did:plc:5vxqnnqvyfupffdkwcyk4fey/post/3mueq45mers2m",
+        "source": "bluesky",
+        "publishedAt": "2026-08-31T10:46:38.405Z",
+        "score": 2,
+        "snippet": "There's a guy here with a Rivian water bottle. #Edgy",
+        "summary": "There's a guy here with a Rivian water bottle. #Edgy",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3muee55dly22l",
+        "source": "bluesky",
+        "publishedAt": "2026-08-31T07:12:26.200Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "summary": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3muee4djpbc2l",
+        "source": "bluesky",
+        "publishedAt": "2026-08-31T07:11:59.806Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3muedzn7dr22l",
+        "source": "bluesky",
+        "publishedAt": "2026-08-31T07:10:28.606Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "One Engine, Many Surfaces: Scaling Rivian\u2019s In-Vehicle &amp; Web Experiences | Unreal Fest Chicago 2026",
+        "url": "https://youtube.com/watch?v=t40YAN8It5g",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T14:00:22Z",
+        "score": 0,
+        "snippet": "What does it take to run a single Unreal Engine 5 foundation across multiple in-vehicle and web surfaces across automotive ...",
+        "summary": "What does it take to run a single Unreal Engine 5 foundation across multiple in-vehicle and web surfaces across automotive ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 UHF pedestrian response - do not try this at home",
+        "url": "https://youtube.com/watch?v=9Ud2rnTKY10",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T13:06:52Z",
+        "score": 0,
+        "snippet": "My wife was a good sport.",
+        "summary": "My wife was a good sport.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S 360\u00b0 Luxury Showcase | White Studio Cinematic 4K #shorts",
+        "url": "https://youtube.com/watch?v=70xO1T-jx0M",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T12:33:16Z",
+        "score": 0,
+        "snippet": "Rivian #R1S #ElectricSUV #LuxuryCars #EV #CarShorts #Cinematic #4KHDR #Automotive #LuxuryLifestyle #YouTubeShorts ...",
+        "summary": "Rivian #R1S #ElectricSUV #LuxuryCars #EV #CarShorts #Cinematic #4KHDR #Automotive #LuxuryLifestyle #YouTubeShorts ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Pickup Truck Build - Miniature Model ASMR \ud83d\udc9b",
+        "url": "https://youtube.com/watch?v=ovjg5Jc90CQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T12:00:22Z",
+        "score": 0,
+        "snippet": "Adventure meets electric power. Watch the Rivian R1T come to life, piece by piece. #asmr #rivianr1t #rivian ...",
+        "summary": "Adventure meets electric power. Watch the Rivian R1T come to life, piece by piece. #asmr #rivianr1t #rivian ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R1S vs Toyota Sequoia: Which SUV Should You Buy in 2027?",
+        "url": "https://youtube.com/watch?v=48vSc7Jr36w",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T11:52:40Z",
+        "score": 0,
+        "snippet": "2027 Rivian R1S vs Toyota Sequoia \u2014 Which SUV Should You Buy?** The **2027 Rivian R1S** and **2027 Toyota Sequoia** ...",
+        "summary": "2027 Rivian R1S vs Toyota Sequoia \u2014 Which SUV Should You Buy?** The **2027 Rivian R1S** and **2027 Toyota Sequoia** ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian Stock: Is the $45,000 R2 About to Change Everything??\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=HZOoYANi4OQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T11:28:11Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: Disclaimer This is ...",
+        "summary": "Join this channel to get access to perks: Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian motorway night drive #funnyshorts #motorwaydrive #video",
+        "url": "https://youtube.com/watch?v=yHgui_9fjWg",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T09:36:55Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian motorway night drive #funnyshorts #motorwaydrive #video",
+        "summary": "youtube signal: Rivian motorway night drive #funnyshorts #motorwaydrive #video",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "strict game",
+        "url": "https://youtube.com/watch?v=5C51bry1VN0",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T08:51:46Z",
+        "score": 0,
+        "snippet": "youtube signal: strict game",
+        "summary": "youtube signal: strict game",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Rivian aalzahra maman bapa riza\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70",
+        "url": "https://youtube.com/watch?v=l4s7W9SCC-o",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T08:40:26Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian aalzahra maman bapa riza\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70",
+        "summary": "youtube signal: Rivian aalzahra maman bapa riza\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
