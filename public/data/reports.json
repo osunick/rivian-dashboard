@@ -115657,5 +115657,402 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-31T22:02:20.160244Z",
+    "timestamp": "2026-08-31T22:02:20.160244Z",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 91,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "marketwatch": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 20,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Demo Drives",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "23 signals across Vehicles (20), Competitive (1); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, August 31, 2026 \u2014 10:02 PM PT \u2014 23 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 22 Rivian signals clustered around Vehicles (20), Demo & Test Drives (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals.\n  https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian signal: R2 & r1s back to back test drive?\n  https://www.reddit.com/r/Rivian/comments/1w3rmp2/r2_r1s_back_to_back_test_drive/\n*Vehicles (20)* \u2022 reddit_rivian signal: Gen 2 R1T driver side mirror\n  https://www.reddit.com/r/Rivian/comments/1w3s6fs/gen_2_r1t_driver_side_mirror/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 reddit_rivian signal: I still think this HVAC behavior is a bug\n  https://www.reddit.com/r/Rivian/comments/1w3kvvi/i_still_think_this_hvac_behavior_is_a_bug/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Gen 2 R1T driver side mirror",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w3s6fs/gen_2_r1t_driver_side_mirror/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T21:48:19.086Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Gen 2 R1T driver side mirror",
+        "summary": "reddit_rivian signal: Gen 2 R1T driver side mirror",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 & r1s back to back test drive?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w3rmp2/r2_r1s_back_to_back_test_drive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T21:28:26.065Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 & r1s back to back test drive?",
+        "summary": "reddit_rivian signal: R2 & r1s back to back test drive?",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Waiting for delivery  Question about Tesla vs Rivian Insurance",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w3qshb/waiting_for_delivery_question_about_tesla_vs/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T20:57:50.525Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Waiting for delivery Question about Tesla vs Rivian Insurance",
+        "summary": "reddit_rivian signal: Waiting for delivery Question about Tesla vs Rivian Insurance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waiting for delivery  Question about Tesla vs Rivian Insurance",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w3qrxk/waiting_for_delivery_question_about_tesla_vs/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T20:57:50.525Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Waiting for delivery Question about Tesla vs Rivian Insurance",
+        "summary": "reddit_rivian signal: Waiting for delivery Question about Tesla vs Rivian Insurance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I built a slide out camp kitchen for my R1T with 2 induction cooktops, fridge and water supply.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w3lkx9/i_built_a_slide_out_camp_kitchen_for_my_r1t_with/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T18:01:03.928Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: I built a slide out camp kitchen for my R1T with 2 induction cooktops, fridge and water supply.",
+        "summary": "reddit_rivian signal: I built a slide out camp kitchen for my R1T with 2 induction cooktops, fridge and water supply.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "HVAC vents not remembering correct position",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w3l4df/hvac_vents_not_remembering_correct_position/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T17:46:02.075Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: HVAC vents not remembering correct position",
+        "summary": "reddit_rivian signal: HVAC vents not remembering correct position",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I still think this HVAC behavior is a bug",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w3kvvi/i_still_think_this_hvac_behavior_is_a_bug/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T17:38:19.762Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: I still think this HVAC behavior is a bug",
+        "summary": "reddit_rivian signal: I still think this HVAC behavior is a bug",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Banging/knocking suspension noise on my '22 Quad R1T is back despite having almost all components replaced \u2013 should I just accept this as normal and move on?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w3k2cq/bangingknocking_suspension_noise_on_my_22_quad/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T17:10:42.072Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Banging/knocking suspension noise on my '22 Quad R1T is back despite having almost all components replaced \u2013 should I just accept this as normal and move on?",
+        "summary": "reddit_rivian signal: Banging/knocking suspension noise on my '22 Quad R1T is back despite having almost all components replaced \u2013 should I just accept this as normal and move on?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Text Messaging",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w3gvyc/text_messaging/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-08-31T15:20:24.129Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Text Messaging",
+        "summary": "reddit_rivian_r2 signal: Text Messaging",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The 1025 Horsepower Rivian R1S Quad Motor Is A Phenomenal Rock-Crawler, But Not For The Reason You Think",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1w3gpa0/the_1025_horsepower_rivian_r1s_quad_motor_is_a/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-08-31T15:13:41.565Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: The 1025 Horsepower Rivian R1S Quad Motor Is A Phenomenal Rock-Crawler, But Not For The Reason You Think",
+        "summary": "reddit_electricvehicles signal: The 1025 Horsepower Rivian R1S Quad Motor Is A Phenomenal Rock-Crawler, But Not For The Reason You Think",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "PSA Lucid has additional discounts available not on their website",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1w3fak3/psa_lucid_has_additional_discounts_available_not/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-08-31T14:23:05.725Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: PSA Lucid has additional discounts available not on their website",
+        "summary": "reddit_electricvehicles signal: PSA Lucid has additional discounts available not on their website",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s stock among S&P 500\u2019s top gainers as investors prepare for a Cybercab launch",
+        "url": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
+        "source": "marketwatch",
+        "publishedAt": "Mon, 31 Aug 2026 21:01:00 GMT",
+        "score": 0,
+        "snippet": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals.",
+        "summary": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) CFO steps down for GE Vernova amid critical R2 ramp - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hWc2RKcWlQZWxhbFhPS1h3c0liMjBTMXZ1a1d6dUlMLUx1dHZxRVd4SnNJNGZMN19KYWZ6VEdZVXFPWjNCaUpsU0ZMbVlQYTJ3N1otNVo1MVJ5TkROVnpHU2JYbW1EMk5lQ1pKb1BPM0hlSUQ0Vmg0cjdjaTR5cFY1VDJrUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 31 Aug 2026 15:23:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) CFO steps down for GE Vernova amid critical R2 ramp - Electrek",
+        "summary": "Rivian (RIVN) CFO steps down for GE Vernova amid critical R2 ramp - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Who&#39;s lying, Rivian or the testers?",
+        "url": "https://youtube.com/watch?v=v7-MnnNXTPQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T22:00:33Z",
+        "score": 0,
+        "snippet": "330 miles advertised. About 260 on the highway. The reality is nobody's lying. Full breakdown: ...",
+        "summary": "330 miles advertised. About 260 on the highway. The reality is nobody's lying. Full breakdown: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is This The Best Electric Truck? | 2026 Rivian R1T Quad | Detailed Review",
+        "url": "https://youtube.com/watch?v=4_r4fwXszps",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T22:00:14Z",
+        "score": 0,
+        "snippet": "Rivian was the first brand to bring the market a fully electric truck in the form of the #RivianR1T, first introduced in late 2021.",
+        "summary": "Rivian was the first brand to bring the market a fully electric truck in the form of the #RivianR1T, first introduced in late 2021.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Did Rivian &amp; BMW Just Beat Tesla&#39;s 4680 Battery?",
+        "url": "https://youtube.com/watch?v=JdRkebPGSmY",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T21:52:19Z",
+        "score": 0,
+        "snippet": "Rivian and BMW are now shipping 46mm cylindrical cells in vehicles you can buy today. Almost six years after Battery Day, has ...",
+        "summary": "Rivian and BMW are now shipping 46mm cylindrical cells in vehicles you can buy today. Almost six years after Battery Day, has ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 FINALLY Revealed! The Dual-Motor Launch Changes Everything We Thought We Knew",
+        "url": "https://youtube.com/watch?v=vxG7TO75Ef0",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T20:45:27Z",
+        "score": 0,
+        "snippet": "RIVIAN R2 IS FINALLY TAKING SHAPE \u2014 AND THERE'S A BIG SURPRISE!** Rivian's R2 is getting closer, but the biggest ...",
+        "summary": "RIVIAN R2 IS FINALLY TAKING SHAPE \u2014 AND THERE'S A BIG SURPRISE!** Rivian's R2 is getting closer, but the biggest ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "HInson #015194 R1S",
+        "url": "https://youtube.com/watch?v=jKh0_UJU84U",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T20:00:36Z",
+        "score": 0,
+        "snippet": "Step into the ultimate electric adventure with this stunning Green 2023 Rivian R1S Adventure, featuring a pristine CARFAX ...",
+        "summary": "Step into the ultimate electric adventure with this stunning Green 2023 Rivian R1S Adventure, featuring a pristine CARFAX ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "From Tiny Parts to a Rivian R1T \u26a1",
+        "url": "https://youtube.com/watch?v=iI9qyOvubws",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T20:00:04Z",
+        "score": 0,
+        "snippet": "Watch this electric pickup come together piece by piece \u2014 battery, motors, wheels and final reveal. \u2699\ufe0f #Rivian #Miniature ...",
+        "summary": "Watch this electric pickup come together piece by piece \u2014 battery, motors, wheels and final reveal. \u2699\ufe0f #Rivian #Miniature ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "ACURA \ud83c\udd9a RIVIAN #shorts #fh6",
+        "url": "https://youtube.com/watch?v=1oGY1hbYaFo",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T19:11:21Z",
+        "score": 0,
+        "snippet": "shorts #automobile #gamingvideos #forzahorizon6 #eliminator #battleroyale #gaming #racing #fh6 #fh6clips #sim #simracing ...",
+        "summary": "shorts #automobile #gamingvideos #forzahorizon6 #eliminator #battleroyale #gaming #racing #fh6 #fh6clips #sim #simracing ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The 2027 Rivian R3X Is the EV Hot Hatch We Needed",
+        "url": "https://youtube.com/watch?v=EXrdb311tAo",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T18:30:06Z",
+        "score": 0,
+        "snippet": "The 2027 Rivian R3X Is the EV Hot Hatch We Needed The **Rivian R3X** could be one of the most exciting performance EVs in ...",
+        "summary": "The 2027 Rivian R3X Is the EV Hot Hatch We Needed The **Rivian R3X** could be one of the most exciting performance EVs in ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Unboxing the Rivian R1T in Miniature | Rivian Blue",
+        "url": "https://youtube.com/watch?v=k1jAKXIqgoA",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T18:00:17Z",
+        "score": 0,
+        "snippet": "Watch a hyper-detailed miniature Rivian R1T revealed piece by piece in true Rivian Blue. TinyMotion Builds creates cinematic, ...",
+        "summary": "Watch a hyper-detailed miniature Rivian R1T revealed piece by piece in true Rivian Blue. TinyMotion Builds creates cinematic, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Owner Adventures | Rivian",
+        "url": "https://youtube.com/watch?v=D6HXe7uPPlQ",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T17:53:28Z",
+        "score": 0,
+        "snippet": "Life is full of adventures. We're honored to be a part of so many of yours.",
+        "summary": "Life is full of adventures. We're honored to be a part of so many of yours.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
