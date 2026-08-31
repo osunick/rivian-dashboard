@@ -114869,5 +114869,432 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-31T02:02:26.460540Z",
+    "timestamp": "2026-08-31T02:02:26.460540Z",
+    "sentiment": {
+      "positive": 16,
+      "neutral": 80,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Service Experience",
+      "Vehicle Demand"
+    ],
+    "summary": "25 signals across Vehicles (17), Business (2); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, August 31, 2026 \u2014 2:02 AM PT \u2014 25 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 22 Rivian signals clustered around Vehicles (17), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Business, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* It\u2019s A Lot This week Robbie has the GMC Hummer EV SUV and Sam has the Kia Telluride X-Pro SX Prestige. In the news, Hyundai announces at its investor day that the Santa Fe will be its first EREV and\n  https://bsky.app/profile/did:plc:vo3enzm4jg6iwrxt6xfjbd6d/post/3mud3e2c3ou2g\n\u2022 *Competitive Threats:* It\u2019s A Lot This week Robbie has the GMC Hummer EV SUV and Sam has the Kia Telluride X-Pro SX Prestige. In the news, Hyundai announces at its investor day that the Santa Fe will be its first EREV and\n  https://bsky.app/profile/did:plc:rbd5m676xylfqi777bpvm75n/post/3mud3dw7x732x\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 After waiting 3 full years for the Rivian R2, we finally took it for an in-person test drive at the St. Louis service center\u2014and walked ...\n  https://youtube.com/watch?v=_IAG3DckJhE\n*Vehicles (17)* \u2022 reddit_rivian signal: Fixing rattle in front dash speaker\n  https://www.reddit.com/r/Rivian/comments/1w2xoov/fixing_rattle_in_front_dash_speaker/\n*Business (2)* \u2022 Rivian Shares Drop 4.4% With $1.1 Billion Wiped Out as CFO Departure Raises Questions for R2 Launch - TechStock\u00b2\n  https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2xoVmx1RWxyNFVSVEVuUDBMRmZVeHRFaWJHNXhBcFJOR3pQLXFCZGJ4QTVOVEVvUjdqZDFWRkthbVpjRzBuODhKZFNwTl9sTzNnaG1xMzhQLU4tWlBKNWNoZlRUYTJzX0Mzdm9pVHhZbVBnQlpYdXp1TkxqUEZ6Y1hFMXlzaWM0UlU4aHllX21oV3c?oc=5\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 Trying to get through a part of the suburbs where there's a soccer tournament going on and I've decided that \"Chicago western suburb parents of kids in expensive travel soccer clubs\" has got to be the\n  https://bsky.app/profile/did:plc:vhpfn5roq5y3za72f55ocydu/post/3mudc53cf3c2f\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Fixing rattle in front dash speaker",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w2xoov/fixing_rattle_in_front_dash_speaker/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-31T00:05:47.423Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Fixing rattle in front dash speaker",
+        "summary": "reddit_rivian signal: Fixing rattle in front dash speaker",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 has been added to CarSized for all your size comparison needs!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w2x48s/r2_has_been_added_to_carsized_for_all_your_size/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-30T23:40:57.696Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 has been added to CarSized for all your size comparison needs!",
+        "summary": "reddit_rivian signal: R2 has been added to CarSized for all your size comparison needs!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Glamping action.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w2wkr4/glamping_action/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-30T23:17:20.657Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Glamping action.",
+        "summary": "reddit_rivian signal: Glamping action.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "China\u2019s factory activity shrinks for second straight month, contracting less than expected",
+        "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: China\u2019s factory activity shrinks for second straight month, contracting less than expected",
+        "summary": "cnbc signal: China\u2019s factory activity shrinks for second straight month, contracting less than expected",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Shares Drop 4.4% With $1.1 Billion Wiped Out as CFO Departure Raises Questions for R2 Launch - TechStock\u00b2",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2xoVmx1RWxyNFVSVEVuUDBMRmZVeHRFaWJHNXhBcFJOR3pQLXFCZGJ4QTVOVEVvUjdqZDFWRkthbVpjRzBuODhKZFNwTl9sTzNnaG1xMzhQLU4tWlBKNWNoZlRUYTJzX0Mzdm9pVHhZbVBnQlpYdXp1TkxqUEZ6Y1hFMXlzaWM0UlU4aHllX21oV3c?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 30 Aug 2026 19:47:05 GMT",
+        "score": 0,
+        "snippet": "Rivian Shares Drop 4.4% With $1.1 Billion Wiped Out as CFO Departure Raises Questions for R2 Launch - TechStock\u00b2",
+        "summary": "Rivian Shares Drop 4.4% With $1.1 Billion Wiped Out as CFO Departure Raises Questions for R2 Launch - TechStock\u00b2",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@automatka.trade (Bluesky): Rivian Automotive $RIVN toys with its weekly moving average support cluster, whi",
+        "url": "https://bsky.app/profile/did:plc:djo74ravtncsifeywm3qmiow/post/3mudfi6h3jc2s",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T22:03:53.370Z",
+        "score": 0,
+        "snippet": "Rivian Automotive $RIVN toys with its weekly moving average support cluster, which is slowly and consistently ascending.",
+        "summary": "Rivian Automotive $RIVN toys with its weekly moving average support cluster, which is slowly and consistently ascending.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jcs61.bsky.social (Bluesky): Unfortunately it will take a tragedy to get carmakers to use mechanical door lat",
+        "url": "https://bsky.app/profile/did:plc:v4zhv5vrl6pzze4emutw4qx2/post/3mudezqxc6k2u",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T21:55:46.267Z",
+        "score": 0,
+        "snippet": "Unfortunately it will take a tragedy to get carmakers to use mechanical door latches. One major legal judgment will turn the tide. It is unfathomable how financially fragile carmakers like Rivian don",
+        "summary": "Unfortunately it will take a tragedy to get carmakers to use mechanical door latches. One major legal judgment will turn the tide. It is unfathomable how financially fragile carmakers like Rivian don",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@pumpkinpal.bsky.social (Bluesky): Trying to get through a part of the suburbs where there's a soccer tournament go",
+        "url": "https://bsky.app/profile/did:plc:vhpfn5roq5y3za72f55ocydu/post/3mudc53cf3c2f",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T21:03:56.476Z",
+        "score": 5,
+        "snippet": "Trying to get through a part of the suburbs where there's a soccer tournament going on and I've decided that \"Chicago western suburb parents of kids in expensive travel soccer clubs\" has got to be the",
+        "summary": "Trying to get through a part of the suburbs where there's a soccer tournament going on and I've decided that \"Chicago western suburb parents of kids in expensive travel soccer clubs\" has got to be the",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): lnkd.in/p/epHMyymb",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mud6ogjp3c27",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T20:02:05.471Z",
+        "score": 0,
+        "snippet": "lnkd.in/p/epHMyymb",
+        "summary": "lnkd.in/p/epHMyymb",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): lnkd.in/p/eJKBJsJf",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mud6e4wu2k27",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T19:56:20.379Z",
+        "score": 0,
+        "snippet": "lnkd.in/p/eJKBJsJf",
+        "summary": "lnkd.in/p/eJKBJsJf",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Again, Rivian for the win! lnkd.in/p/g299R58v",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mud6boobl227",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T19:54:58.963Z",
+        "score": 1,
+        "snippet": "Again, Rivian for the win! lnkd.in/p/g299R58v",
+        "summary": "Again, Rivian for the win! lnkd.in/p/g299R58v",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sam.abuelsamid.com (Bluesky): It\u2019s A Lot\n\nThis week Robbie has the GMC Hummer EV SUV and Sam has the Kia Tellu",
+        "url": "https://bsky.app/profile/did:plc:vo3enzm4jg6iwrxt6xfjbd6d/post/3mud3e2c3ou2g",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T19:02:34.570Z",
+        "score": 0,
+        "snippet": "It\u2019s A Lot This week Robbie has the GMC Hummer EV SUV and Sam has the Kia Telluride X-Pro SX Prestige. In the news, Hyundai announces at its investor day that the Santa Fe will be its first EREV and",
+        "summary": "It\u2019s A Lot This week Robbie has the GMC Hummer EV SUV and Sam has the Kia Telluride X-Pro SX Prestige. In the news, Hyundai announces at its investor day that the Santa Fe will be its first EREV and",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@wheelbearings.media (Bluesky): It\u2019s A Lot\n\nThis week Robbie has the GMC Hummer EV SUV and Sam has the Kia Tellu",
+        "url": "https://bsky.app/profile/did:plc:rbd5m676xylfqi777bpvm75n/post/3mud3dw7x732x",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T19:02:30.469Z",
+        "score": 0,
+        "snippet": "It\u2019s A Lot This week Robbie has the GMC Hummer EV SUV and Sam has the Kia Telluride X-Pro SX Prestige. In the news, Hyundai announces at its investor day that the Santa Fe will be its first EREV and",
+        "summary": "It\u2019s A Lot This week Robbie has the GMC Hummer EV SUV and Sam has the Kia Telluride X-Pro SX Prestige. In the news, Hyundai announces at its investor day that the Santa Fe will be its first EREV and",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@itselizalee123.bsky.social (Bluesky): Kentucky Rivian owners are more\u2026reddy roosevelt about their environmentalism but",
+        "url": "https://bsky.app/profile/did:plc:gswpv2wu2mb7ynno6echsbqh/post/3mucznhv5bc2b",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T18:32:06.663Z",
+        "score": 1,
+        "snippet": "Kentucky Rivian owners are more\u2026reddy roosevelt about their environmentalism but point well taken.",
+        "summary": "Kentucky Rivian owners are more\u2026reddy roosevelt about their environmentalism but point well taken.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sifu.tweety.fish (Bluesky): the rivian chargers in w lebanon are great, yeah, especially because you can hit",
+        "url": "https://bsky.app/profile/did:plc:tbig7qnx4o5ylp5v23w577vl/post/3mucyzvj6222d",
+        "source": "bluesky",
+        "publishedAt": "2026-08-30T18:21:06.168Z",
+        "score": 1,
+        "snippet": "the rivian chargers in w lebanon are great, yeah, especially because you can hit the supermarket and its bathrooms while you wait",
+        "summary": "the rivian chargers in w lebanon are great, yeah, especially because you can hit the supermarket and its bathrooms while you wait",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Passed on the Rivian R2\u2026 Is Ford\u2019s $30K EV the Smarter Buy?",
+        "url": "https://youtube.com/watch?v=BdlqHKFT1AY",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T01:35:01Z",
+        "score": 0,
+        "snippet": "I passed on my Rivian R2 order, but that decision got me thinking even more about what my next EV should be\u2014and whether ...",
+        "summary": "I passed on my Rivian R2 order, but that decision got me thinking even more about what my next EV should be\u2014and whether ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Drove the Rivian R2 \u2014 Here\u2019s What Surprised Me",
+        "url": "https://youtube.com/watch?v=Bs9_3knoVb8",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T00:23:18Z",
+        "score": 0,
+        "snippet": "Today we have a brief ride in the new Rivian R2. With all the hype surrounding the car, is there anything not to like? After a short ...",
+        "summary": "Today we have a brief ride in the new Rivian R2. With all the hype surrounding the car, is there anything not to like? After a short ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian vs Lucid: The Electric Prestige Duel",
+        "url": "https://youtube.com/watch?v=gKknHPM_vmk",
+        "source": "youtube",
+        "publishedAt": "2026-08-31T00:00:34Z",
+        "score": 0,
+        "snippet": "An analytical look at how Rivian and Lucid chart radically different paths toward electric prestige, revealing strategy, tech, and ...",
+        "summary": "An analytical look at how Rivian and Lucid chart radically different paths toward electric prestige, revealing strategy, tech, and ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Full Electric \u26a1\ufe0f \ud83c\udf31\ud83e\udd47\ud83d\udd1d\ud83c\udf40",
+        "url": "https://youtube.com/watch?v=hfHRa5S7WBA",
+        "source": "youtube",
+        "publishedAt": "2026-08-30T23:41:09Z",
+        "score": 0,
+        "snippet": "youtube signal: 2027 Rivian R2 Full Electric \u26a1\ufe0f \ud83c\udf31\ud83e\udd47\ud83d\udd1d\ud83c\udf40",
+        "summary": "youtube signal: 2027 Rivian R2 Full Electric \u26a1\ufe0f \ud83c\udf31\ud83e\udd47\ud83d\udd1d\ud83c\udf40",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Electric Car ASMR \ud83d\ude99\u26a1 | Instant Acceleration &amp; Futuristic Road Sounds",
+        "url": "https://youtube.com/watch?v=Dar5T7JUwZA",
+        "source": "youtube",
+        "publishedAt": "2026-08-30T21:30:26Z",
+        "score": 0,
+        "snippet": "Rivian- Experience Rivian electric power with instant acceleration, futuristic design, and satisfying road sounds creating an ...",
+        "summary": "Rivian- Experience Rivian electric power with instant acceleration, futuristic design, and satisfying road sounds creating an ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The best window tinting shop in tampa bay #windowtinting #trend #viral #trending #viral #trending",
+        "url": "https://youtube.com/watch?v=bLK43bTFUF8",
+        "source": "youtube",
+        "publishedAt": "2026-08-30T21:25:11Z",
+        "score": 0,
+        "snippet": "Nano Ceramic Film by Madico on a Rivian.",
+        "summary": "Nano Ceramic Film by Madico on a Rivian.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian  The EV Contender Challenging Tesla&#39;s Reign!",
+        "url": "https://youtube.com/watch?v=vXgej1i1XnA",
+        "source": "youtube",
+        "publishedAt": "2026-08-30T21:11:33Z",
+        "score": 0,
+        "snippet": "Elon Musk's $100 Billion War Against Rivian! \u26a1\ufe0f Tesla claims Rivian poached key engineers and stole confidential battery ...",
+        "summary": "Elon Musk's $100 Billion War Against Rivian! \u26a1\ufe0f Tesla claims Rivian poached key engineers and stole confidential battery ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Goes WILD! 650+ HP, Rally Mode &amp; Tire-Shredding Madness Nobody Expected",
+        "url": "https://youtube.com/watch?v=OSvZK5zCyEg",
+        "source": "youtube",
+        "publishedAt": "2026-08-30T20:45:17Z",
+        "score": 0,
+        "snippet": "Rivian R2 Goes WILD! 650+ HP, Rally Mode & Tire-Shredding Madness Nobody Expected! \u26a1** The Rivian R2 is supposed to ...",
+        "summary": "Rivian R2 Goes WILD! 650+ HP, Rally Mode & Tire-Shredding Madness Nobody Expected! \u26a1** The Rivian R2 is supposed to ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026\u202f\u0433.",
+        "url": "https://youtube.com/watch?v=KZZrPRMkWTY",
+        "source": "youtube",
+        "publishedAt": "2026-08-30T20:37:39Z",
+        "score": 0,
+        "snippet": "youtube signal: 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "summary": "youtube signal: 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "I Test Drove the Rivian R2... and Cancelled My Order.",
+        "url": "https://youtube.com/watch?v=_IAG3DckJhE",
+        "source": "youtube",
+        "publishedAt": "2026-08-30T20:24:28Z",
+        "score": 0,
+        "snippet": "After waiting 3 full years for the Rivian R2, we finally took it for an in-person test drive at the St. Louis service center\u2014and walked ...",
+        "summary": "After waiting 3 full years for the Rivian R2, we finally took it for an in-person test drive at the St. Louis service center\u2014and walked ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Service Experience"
+        ]
+      }
+    ]
   }
 ]
