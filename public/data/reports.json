@@ -118098,5 +118098,651 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-03T18:11:03.017204Z",
+    "timestamp": "2026-09-03T18:11:03.017204Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 82,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "marketwatch": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 26,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 8,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "Service Experience",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "39 signals across Vehicles (26), Competitive (8); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, September 03, 2026 \u2014 6:11 PM PT \u2014 39 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 8 rival signals surfaced, led by Competitive Threats, Autonomy.\n\u2022 *Rivian posture:* 31 Rivian signals clustered around Vehicles (26), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 4 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (8)\n\u2022 *Demo Drives:* Self-driving startup Wayve is launching robotaxi rides with Uber in London, initially with safety drivers behind the wheel. CEO Alex Kendall discusses the path to fully driverless service, plans to ex\n  https://www.bloomberg.com/news/videos/2026-09-03/wayve-uber-bring-robotaxi-rides-to-london-video\n\u2022 *Competitive Threats:* Uber now lets you book a robotaxi in London \u2014 but you'll still be joined by a human in the front seat. Olivia Solon explains why. (Source: Bloomberg)\n  https://www.bloomberg.com/news/videos/2026-09-03/uber-wayve-unleash-supervised-robotaxis-in-london-video\n\u2022 *Competitive Threats:* Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.\n  https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html\n\u2022 *Competitive Threats:* Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.\n  https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html\n\u2022 *Competitive Threats:* Elon Musk\u2019s electric-vehicle company will hold a launch event for the Cybercab autonomous vehicle on Thursday.\n  https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Wayve tackles London\u2019s dense, old-fashioned road systems with an approach that eschews geofencing in favour of generalised AI. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/londons-first-self-driving-taxis-hit-the-road-with-wayve/\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (26)* \u2022 reddit_rivian signal: A good use of Rivian Assistant- music search\n  https://www.reddit.com/r/Rivian/comments/1w6ee8l/a_good_use_of_rivian_assistant_music_search/\n*Business (3)* \u2022 Bloomberg\u2019s Ed Ludlow breaks down what earnings from Broadcom, Snowflake, and HPE tell us about the strength of the AI boom. Plus, Hugging Face co-founder Thomas Wolf joins to discuss Nvidia's $13 bil\n  https://www.bloomberg.com/news/videos/2026-09-03/bloomberg-tech-9-03-2026-video\n*Software (1)* \u2022 Rivian has released an updated mobile app to Google Play \ud83d\udc40\n  https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mumya2f3l52w\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Service Experience\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "A good use of Rivian Assistant- music search",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w6ee8l/a_good_use_of_rivian_assistant_music_search/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-03T17:42:33.844Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: A good use of Rivian Assistant- music search",
+        "summary": "reddit_rivian signal: A good use of Rivian Assistant- music search",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hidden regen setting?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w6dvco/hidden_regen_setting/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-03T17:24:11.534Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Hidden regen setting?",
+        "summary": "reddit_rivian signal: Hidden regen setting?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hot (not hot) take: The gen2 R1 frunk is too small.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w6d48s/hot_not_hot_take_the_gen2_r1_frunk_is_too_small/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-03T16:57:39.879Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Hot (not hot) take: The gen2 R1 frunk is too small.",
+        "summary": "reddit_rivian signal: Hot (not hot) take: The gen2 R1 frunk is too small.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Commercial Insurance for R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w63wem/commercial_insurance_for_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-03T10:47:50.607Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Commercial Insurance for R1S",
+        "summary": "reddit_rivian signal: Commercial Insurance for R1S",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Delivery Day",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w5vjra/r2_delivery_day/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-03T03:04:46.347Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 Delivery Day",
+        "summary": "reddit_rivian signal: R2 Delivery Day",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Acknowledging a Rivian on the Road",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w5swxv/acknowledging_a_rivian_on_the_road/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-03T01:01:44.683Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Acknowledging a Rivian on the Road",
+        "summary": "reddit_rivian signal: Acknowledging a Rivian on the Road",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone want to guess the repair estimate?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w5sls2/anyone_want_to_guess_the_repair_estimate/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-03T00:47:41.937Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Anyone want to guess the repair estimate?",
+        "summary": "reddit_rivian signal: Anyone want to guess the repair estimate?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pick-up Day",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w5vp7m/pickup_day/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-03T03:12:21.627Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Pick-up Day",
+        "summary": "reddit_rivian_r2 signal: Pick-up Day",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Do you seek out a specific charging station, or just use whatever's most conveniently located?",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1w66eha/do_you_seek_out_a_specific_charging_station_or/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-03T12:46:32.246Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Do you seek out a specific charging station, or just use whatever's most conveniently located?",
+        "summary": "reddit_electricvehicles signal: Do you seek out a specific charging station, or just use whatever's most conveniently located?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "AI Spending Ripples Across Tech Stack; Nvidia Acquires Hugging Face | Bloomberg Tech 9/03/2026",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-03/bloomberg-tech-9-03-2026-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Thu, 03 Sep 2026 17:28:41 GMT",
+        "score": 0,
+        "snippet": "Bloomberg\u2019s Ed Ludlow breaks down what earnings from Broadcom, Snowflake, and HPE tell us about the strength of the AI boom. Plus, Hugging Face co-founder Thomas Wolf joins to discuss Nvidia's $13 bil",
+        "summary": "Bloomberg\u2019s Ed Ludlow breaks down what earnings from Broadcom, Snowflake, and HPE tell us about the strength of the AI boom. Plus, Hugging Face co-founder Thomas Wolf joins to discuss Nvidia's $13 bil",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Wayve, Uber Bring Robotaxi Rides to London",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-03/wayve-uber-bring-robotaxi-rides-to-london-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Thu, 03 Sep 2026 17:21:02 GMT",
+        "score": 0,
+        "snippet": "Self-driving startup Wayve is launching robotaxi rides with Uber in London, initially with safety drivers behind the wheel. CEO Alex Kendall discusses the path to fully driverless service, plans to ex",
+        "summary": "Self-driving startup Wayve is launching robotaxi rides with Uber in London, initially with safety drivers behind the wheel. CEO Alex Kendall discusses the path to fully driverless service, plans to ex",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives",
+          "Service Experience",
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Uber, Wayve Unleash Supervised Robotaxis in London",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-03/uber-wayve-unleash-supervised-robotaxis-in-london-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Thu, 03 Sep 2026 14:54:14 GMT",
+        "score": 0,
+        "snippet": "Uber now lets you book a robotaxi in London \u2014 but you'll still be joined by a human in the front seat. Olivia Solon explains why. (Source: Bloomberg)",
+        "summary": "Uber now lets you book a robotaxi in London \u2014 but you'll still be joined by a human in the front seat. Olivia Solon explains why. (Source: Bloomberg)",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+        "url": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
+        "source": "cnbc_top",
+        "publishedAt": "Thu, 03 Sep 2026 17:56:53 GMT",
+        "score": 0,
+        "snippet": "Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.",
+        "summary": "Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
+        "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+        "source": "cnbc_top",
+        "publishedAt": "Thu, 03 Sep 2026 17:33:35 GMT",
+        "score": 0,
+        "snippet": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
+        "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s stock is rallying as investors prepare for a \u2018storm of Cybercabs\u2019",
+        "url": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+        "source": "marketwatch",
+        "publishedAt": "Thu, 03 Sep 2026 16:50:00 GMT",
+        "score": 0,
+        "snippet": "Elon Musk\u2019s electric-vehicle company will hold a launch event for the Cybercab autonomous vehicle on Thursday.",
+        "summary": "Elon Musk\u2019s electric-vehicle company will hold a launch event for the Cybercab autonomous vehicle on Thursday.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "London\u2019s first self-driving taxis hit the road with Wayve",
+        "url": "https://www.automotiveworld.com/news/londons-first-self-driving-taxis-hit-the-road-with-wayve/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 03 Sep 2026 11:30:20 +0000",
+        "score": 0,
+        "snippet": "Wayve tackles London\u2019s dense, old-fashioned road systems with an approach that eschews geofencing in favour of generalised AI. By Stewart Burnett The post <a href=\"",
+        "summary": "Wayve tackles London\u2019s dense, old-fashioned road systems with an approach that eschews geofencing in favour of generalised AI. By Stewart Burnett The post <a href=\"",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Better Stock: Lucid vs. Rivian? (Hint: Unit Economics and Gross Profits Are Key.) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFlfUTFnekpRZUhIcUswRmp1T0R1VUVZZURENEkzTTRmQW1ZQjlrT01EOUhMZ1VzWXBiekNjSzBhWkZXaFFJZzJWQllEal95NkxZemlHaWs2eFJ0MkI0ZU14aVFHc3JSRzZ6bk9vSm9Ha29nNEdRV2NXaC1uMUs1ZmhtaFRWLXY5bFltOVRyQ3N5TW41cXI1Yw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 03 Sep 2026 12:50:00 GMT",
+        "score": 0,
+        "snippet": "Better Stock: Lucid vs. Rivian? (Hint: Unit Economics and Gross Profits Are Key.) - Yahoo Finance",
+        "summary": "Better Stock: Lucid vs. Rivian? (Hint: Unit Economics and Gross Profits Are Key.) - Yahoo Finance",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "What Is Putting Rivian (NASDAQ:RIVN) in Nasdaq Focus? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcERJNF9EOG1oREF0Y3NWVXZNT3BMdHVCN2NDZWIxWmMyQXJHd1IxeTYwVTFhMzNQV3dvcmotZmQzV0NBaFdSVk1Hb2tERGNyNGNQSEdSTFprbjlYWTFwWUp2bkVPWXBHWEhVcVJzYjRfa0JqaTktV3NzWW5Td280RDZuaEp6TmZ0QzRlemxUbWhLNEFKc0gtNUw3MA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 03 Sep 2026 07:34:00 GMT",
+        "score": 0,
+        "snippet": "What Is Putting Rivian (NASDAQ:RIVN) in Nasdaq Focus? - Kalkine Media",
+        "summary": "What Is Putting Rivian (NASDAQ:RIVN) in Nasdaq Focus? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Uber and Big Taxi unite in battle against Waymo - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUndsUFRYbXREanRTWThHWGlQck5JOWxRWnI3bUc1RGZUMnZKSTZ4RC1PZkN0RXYyMWpRYTJpNUZUbFpJQUgwR0Vqa2VIeUZZYWw3czV2a2otLThDX1FtejQxS2pNeWhSdkQ2N0dld1BfSXFDN3JQUVpJRHh4ZXRRN2F2X2c?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 03 Sep 2026 08:32:47 GMT",
+        "score": 0,
+        "snippet": "Uber and Big Taxi unite in battle against Waymo - Financial Times",
+        "summary": "Uber and Big Taxi unite in battle against Waymo - Financial Times",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo Test Vehicle Seen in Collision With Tesla Near Tower Bridge in London - dmnews.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSl9CNWwwX3hrOVFFd3gyTFBqUjJnLUtvOUhKUGVJYTZSWkhEa3RMSHVrUjhVQmZFQk1iSHBBNF9mdjVyWUhadWtQSVI0WEc3eG5yWTFZd19FcGRKS0hNWjFuYWxXVTdjUVZ4VlJUV2NnS2hTSGpRdVQtU3ZyWmZaT21hQmZKZk5pMEtVODU2SFJRLU5mdkhoV3NzN3pNd2R3?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 03 Sep 2026 07:54:41 GMT",
+        "score": 0,
+        "snippet": "Waymo Test Vehicle Seen in Collision With Tesla Near Tower Bridge in London - dmnews.co.uk",
+        "summary": "Waymo Test Vehicle Seen in Collision With Tesla Near Tower Bridge in London - dmnews.co.uk",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian has released mobile app 3.16.0 which includes the ability to see mobile l",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mumynptg4s2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T17:40:59.066Z",
+        "score": 3,
+        "snippet": "Rivian has released mobile app 3.16.0 which includes the ability to see mobile live trips and iOS critical alerts. Safe to say that 2026.31 is imminent.",
+        "summary": "Rivian has released mobile app 3.16.0 which includes the ability to see mobile live trips and iOS critical alerts. Safe to say that 2026.31 is imminent.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has released an updated mobile app to Google Play \ud83d\udc40",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mumya2f3l52w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T17:33:16.774Z",
+        "score": 3,
+        "snippet": "Rivian has released an updated mobile app to Google Play \ud83d\udc40",
+        "summary": "Rivian has released an updated mobile app to Google Play \ud83d\udc40",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83c\udd95 New at the Rivian Gear Shop: Interior Care Kit Refills https://gearshop.rivian",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mumx3p3tnx2f",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T17:12:56.361Z",
+        "score": 5,
+        "snippet": "\ud83c\udd95 New at the Rivian Gear Shop: Interior Care Kit Refills",
+        "summary": "\ud83c\udd95 New at the Rivian Gear Shop: Interior Care Kit Refills",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Shipped Tire Guide 2.0 today. Four things in it.\n\nStarting with the one people w",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mumw2f6isk2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T16:54:21.387Z",
+        "score": 6,
+        "snippet": "Shipped Tire Guide 2.0 today. Four things in it. Starting with the one people will use most, a \"Help me choose\" button that turns three questions into three real tire picks. riviantrackr.com/news/ri",
+        "summary": "Shipped Tire Guide 2.0 today. Four things in it. Starting with the one people will use most, a \"Help me choose\" button that turns three questions into three real tire picks. riviantrackr.com/news/ri",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tamerlaneblog.bsky.social (Bluesky): Morning commute:\n\n\u2022 Diesel at $8.09. It\u2019s climbing!\n\u2022 Saw my first Rivian R2. It",
+        "url": "https://bsky.app/profile/did:plc:dcvjfscy47ifcgekky4ysvgy/post/3mumsonrq3k2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T15:54:07.307Z",
+        "score": 3,
+        "snippet": "Morning commute: \u2022 Diesel at $8.09. It\u2019s climbing! \u2022 Saw my first Rivian R2. It\u2019s just a smaller R1.",
+        "summary": "Morning commute: \u2022 Diesel at $8.09. It\u2019s climbing! \u2022 Saw my first Rivian R2. It\u2019s just a smaller R1.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@idioma-chapurreada.bsky.social (Bluesky): Oooh and Volkswagen invests in Rivian so there\u2019s hope",
+        "url": "https://bsky.app/profile/did:plc:dbes3zfvw43zq7w676mlmi2g/post/3mumrt2bbdk2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T15:38:38.001Z",
+        "score": 0,
+        "snippet": "Oooh and Volkswagen invests in Rivian so there\u2019s hope",
+        "summary": "Oooh and Volkswagen invests in Rivian so there\u2019s hope",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@outsidemag.bsky.social (Bluesky): With hands-free highway driving for the commute and up to 656 horsepower for the",
+        "url": "https://bsky.app/profile/did:plc:vgmf5ae6dzgoi6p5tlakpvwp/post/3mumr44uwyr2o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T15:25:49.413Z",
+        "score": 1,
+        "snippet": "With hands-free highway driving for the commute and up to 656 horsepower for the trail, the new Rivian R2 blends futuristic tech with old-school dirt-road thrills.",
+        "summary": "With hands-free highway driving for the commute and up to 656 horsepower for the trail, the new Rivian R2 blends futuristic tech with old-school dirt-road thrills.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bikepedantic.bsky.social (Bluesky): ALSO \"...expands its business beyond pedal-assist electric bikes and commercial ",
+        "url": "https://bsky.app/profile/did:plc:lfgml77nbpvhijgcv6n7phzh/post/3mumo46tt6s2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T14:32:10.700Z",
+        "score": 4,
+        "snippet": "ALSO \"...expands its business beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles\" before it actually transacts any business in pedal-assist ebikes. Big \"Tes",
+        "summary": "ALSO \"...expands its business beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles\" before it actually transacts any business in pedal-assist ebikes. Big \"Tes",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Rivian\u2019s futuristic ALSO e-bike may be at its ultimate delay",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mumnrwewrm26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-03T14:26:24.711Z",
+        "score": 4,
+        "snippet": "Rivian\u2019s futuristic ALSO e-bike may be at its ultimate delay",
+        "summary": "Rivian\u2019s futuristic ALSO e-bike may be at its ultimate delay",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R1T Review: Performance, Technology &amp; Everything You Need to Know",
+        "url": "https://youtube.com/watch?v=8meydL12_ZI",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T18:00:35Z",
+        "score": 0,
+        "snippet": "The 2027 Rivian R1T is set to redefine the electric truck segment, and in this in-depth review, we break down everything that ...",
+        "summary": "The 2027 Rivian R1T is set to redefine the electric truck segment, and in this in-depth review, we break down everything that ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Don&#39;t Get Left Behind: The Future of Branding is Frankenstein \ud83d\ude80 #futureofmarketing #brandingtips",
+        "url": "https://youtube.com/watch?v=jPb8BcG_kzo",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T18:00:20Z",
+        "score": 0,
+        "snippet": "How do you build a brand identity that captures multiple audiences? We analyze the business strategy behind Yamaha ...",
+        "summary": "How do you build a brand identity that captures multiple audiences? We analyze the business strategy behind Yamaha ...",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Best Seatbelt Chime?\u26a1\ufe0f\ud83c\udfb6",
+        "url": "https://youtube.com/watch?v=ayP9u0WUWYU",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T16:12:53Z",
+        "score": 0,
+        "snippet": "Which vehicle has the BEST seatbelt chime? Audi, Tesla Cyberbeast, Rivian, Lexus, or Ford \u2014 which one are you picking?",
+        "summary": "Which vehicle has the BEST seatbelt chime? Audi, Tesla Cyberbeast, Rivian, Lexus, or Ford \u2014 which one are you picking?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 2026 \ud83d\udd25 | New Electric SUV That Everyone Is Talking About#shorts",
+        "url": "https://youtube.com/watch?v=K_HLpNRmsWA",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T15:59:38Z",
+        "score": 0,
+        "snippet": "Your queries.............. Bilkul. 50-second script ko 8\u20138 second ke cinematic video prompts mein divide kar raha hoon. Last scene ko ...",
+        "summary": "Your queries.............. Bilkul. 50-second script ko 8\u20138 second ke cinematic video prompts mein divide kar raha hoon. Last scene ko ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "USED 2022 RIVIAN R1T Adventure Package AWD at Don Mealey Chevrolet (USED) #TNN014014",
+        "url": "https://youtube.com/watch?v=6nqZiO0n46Q",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T15:59:48Z",
+        "score": 0,
+        "snippet": "This is a USED 2022 RIVIAN R1T Adventure Package AWD offered in Clermont Florida by Don Mealey Chevrolet (USED) located ...",
+        "summary": "This is a USED 2022 RIVIAN R1T Adventure Package AWD offered in Clermont Florida by Don Mealey Chevrolet (USED) located ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R1S Review: The Ultimate Electric Adventure SUV? ( wheel wise ) new model 2027",
+        "url": "https://youtube.com/watch?v=DdtvC71Ol8M",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T16:00:02Z",
+        "score": 0,
+        "snippet": "2027 Rivian R1S Review: The Ultimate Electric Adventure SUV? ( wheel wise ) new model 2027 YouTube search terms..... 2027 ...",
+        "summary": "2027 Rivian R1S Review: The Ultimate Electric Adventure SUV? ( wheel wise ) new model 2027 YouTube search terms..... 2027 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian EDV Amazon damage.",
+        "url": "https://youtube.com/watch?v=MKVwQqDm7H4",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T15:53:46Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian EDV Amazon damage.",
+        "summary": "youtube signal: Rivian EDV Amazon damage.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2022 Rivian R1T Adventure MEDIA SCREEN NAVIGATION SYSTEM BACK-UP CAMERA #Carvision",
+        "url": "https://youtube.com/watch?v=scX-MrIy38Q",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T15:51:29Z",
+        "score": 0,
+        "snippet": "STOCK# 012774SD 2022 Rivian R1T Adventure Gray Clean CARFAX. Odometer is 22955 miles below market average!",
+        "summary": "STOCK# 012774SD 2022 Rivian R1T Adventure Gray Clean CARFAX. Odometer is 22955 miles below market average!",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "2024 Rivian RCV500   332958",
+        "url": "https://youtube.com/watch?v=0MS94DVurzc",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T15:44:57Z",
+        "score": 0,
+        "snippet": "Interested in this vehicle? Call us at (302) 656-3160 or visit",
+        "summary": "Interested in this vehicle? Call us at (302) 656-3160 or visit",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Saw The 2027 Rivian R2 In Person: Don&#39;t Buy An EV Until You Watch This Video!",
+        "url": "https://youtube.com/watch?v=qjBNL2iQ3aQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-03T15:30:02Z",
+        "score": 0,
+        "snippet": "RivianR2 #RivianR2InPerson#Rivian2027 #ElectricSUV I saw the highly anticipated 2027 Rivian R2 in person and it completely ...",
+        "summary": "RivianR2 #RivianR2InPerson#Rivian2027 #ElectricSUV I saw the highly anticipated 2027 Rivian R2 in person and it completely ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
