@@ -119295,5 +119295,526 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-04T18:02:29.253786Z",
+    "timestamp": "2026-09-04T18:02:29.253786Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 73,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "nytimes_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "nytimes_business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "techmeme": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 19,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "RIVN Stock",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "30 signals across Vehicles (19), Competitive (6); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, September 04, 2026 \u2014 6:02 PM PT \u2014 30 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats, RIVN Stock.\n\u2022 *Rivian posture:* 22 Rivian signals clustered around Vehicles (19), Demo & Test Drives (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Competitive Threats:* The National Highway Traffic Safety Administration said it would examine whether the company\u2019s new self-driving taxi, which has no steering wheel, meets federal auto regulations.\n  https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html\n\u2022 *Competitive Threats:* The new Cybercab embodies Elon Musk\u2019s vision of cars that drive themselves, but it is not clear when the vehicle will be widely available.\n  https://www.nytimes.com/2026/09/03/business/tesla-cybercab-robotaxi-rides.html\n\u2022 *Rivn Stock:* Tesla's long-awaited Cybercab update failed to dazzle investors.\n  https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html\n\u2022 *Competitive Threats:* The strategist at YieldMaxETFs breaks down how a bullish bet on Tesla could pay off for options traders.\n  https://www.cnbc.com/2026/09/04/cybercabs-are-a-game-changer-says-mike-khouw-heres-how-hes-trading-tesla.html\n\u2022 *Competitive Threats:* techmeme signal: The NHTSA opens a probe into Tesla's decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals (Sean O'Kane/TechCrunch)\n  https://www.techmeme.com/260904/p13#a260904p13\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 reddit_rivian_r2 signal: Demo Drive This Morning\n  https://www.reddit.com/r/RivianR2/comments/1w7bn6e/demo_drive_this_morning/\n*Vehicles (19)* \u2022 reddit_rivian signal: (RivianTrackr) RivianOS 2.0 Is Finally Here for the R1, Full 2026.31 Walkthrough\n  https://www.reddit.com/r/Rivian/comments/1w7bjcc/riviantrackr_rivianos_20_is_finally_here_for_the/\n*Business (1)* \u2022 Why did Rivian stock fall so dramatically from its all-time high\u2014and what would need to happen for investors to become bullish ...\n  https://youtube.com/watch?v=pgKMeUdLmVE\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 RIVN Stock\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "(RivianTrackr) RivianOS 2.0 Is Finally Here for the R1, Full 2026.31 Walkthrough",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7bjcc/riviantrackr_rivianos_20_is_finally_here_for_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T17:51:07.388Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: (RivianTrackr) RivianOS 2.0 Is Finally Here for the R1, Full 2026.31 Walkthrough",
+        "summary": "reddit_rivian signal: (RivianTrackr) RivianOS 2.0 Is Finally Here for the R1, Full 2026.31 Walkthrough",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Camp Courtesy Problem",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7abpk/camp_courtesy_problem/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T17:07:20.677Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Camp Courtesy Problem",
+        "summary": "reddit_rivian signal: Camp Courtesy Problem",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Feature Suggestion",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w79346/feature_suggestion/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T16:23:30.285Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Feature Suggestion",
+        "summary": "reddit_rivian signal: Feature Suggestion",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian-branded window shades incoming? \ud83d\udc40",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w78o7c/rivianbranded_window_shades_incoming/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T16:08:47.454Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian-branded window shades incoming? \ud83d\udc40",
+        "summary": "reddit_rivian signal: Rivian-branded window shades incoming? \ud83d\udc40",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Wassym on X: \"Rivian OS 2 starts rolling out on R1 today. Rebuilt from the ground up with new design language.\"",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w77eq8/wassym_on_x_rivian_os_2_starts_rolling_out_on_r1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T15:22:30.193Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Wassym on X: \"Rivian OS 2 starts rolling out on R1 today. Rebuilt from the ground up with new design language.\"",
+        "summary": "reddit_rivian signal: Wassym on X: \"Rivian OS 2 starts rolling out on R1 today. Rebuilt from the ground up with new design language.\"",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Heads up. Rivian won\u2019t let you get Rivian Care extended warranty if it\u2019s registered under an LLC.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w76l87/heads_up_rivian_wont_let_you_get_rivian_care/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T14:52:01.863Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Heads up. Rivian won\u2019t let you get Rivian Care extended warranty if it\u2019s registered under an LLC.",
+        "summary": "reddit_rivian signal: Heads up. Rivian won\u2019t let you get Rivian Care extended warranty if it\u2019s registered under an LLC.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 owners - how long did it take to get the car after getting the order email ?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w73n4m/r2_owners_how_long_did_it_take_to_get_the_car/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-30T01:11:44.791Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 owners - how long did it take to get the car after getting the order email ?",
+        "summary": "reddit_rivian signal: R2 owners - how long did it take to get the car after getting the order email ?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 owners - how long did it take to get the car after getting the order email ?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w23n5f/r2_owners_how_long_did_it_take_to_get_the_car/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-30T01:11:44.791Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 owners - how long did it take to get the car after getting the order email ?",
+        "summary": "reddit_rivian signal: R2 owners - how long did it take to get the car after getting the order email ?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Demo Drive This Morning",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w7bn6e/demo_drive_this_morning/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-04T17:55:07.115Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Demo Drive This Morning",
+        "summary": "reddit_rivian_r2 signal: Demo Drive This Morning",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Test Drive: 20\" v 21\"",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w6rbe0/test_drive_20_v_21/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-04T02:09:36.293Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test Drive: 20\" v 21\"",
+        "summary": "reddit_rivian_r2 signal: Test Drive: 20\" v 21\"",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s Cybercab Is Being Investigated by Federal Regulators",
+        "url": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
+        "source": "nytimes_tech",
+        "publishedAt": "Fri, 04 Sep 2026 15:29:53 +0000",
+        "score": 0,
+        "snippet": "The National Highway Traffic Safety Administration said it would examine whether the company\u2019s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
+        "summary": "The National Highway Traffic Safety Administration said it would examine whether the company\u2019s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Begins Offering Rides in a Car Without a Steering Wheel",
+        "url": "https://www.nytimes.com/2026/09/03/business/tesla-cybercab-robotaxi-rides.html",
+        "source": "nytimes_business",
+        "publishedAt": "Fri, 04 Sep 2026 12:25:40 +0000",
+        "score": 0,
+        "snippet": "The new Cybercab embodies Elon Musk\u2019s vision of cars that drive themselves, but it is not clear when the vehicle will be widely available.",
+        "summary": "The new Cybercab embodies Elon Musk\u2019s vision of cars that drive themselves, but it is not clear when the vehicle will be widely available.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Wayve Autonomous Taxi Rides Debut on Uber in London",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-04/wayve-autonomous-taxi-rides-debut-on-uber-in-london",
+        "source": "bloomberg_tech",
+        "publishedAt": "Fri, 04 Sep 2026 10:29:01 GMT",
+        "score": 0,
+        "snippet": "Autonomous rides with hands still hovering over the steering wheel",
+        "summary": "Autonomous rides with hands still hovering over the steering wheel",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Tesla's stock drops as Cybercab update 'underwhelms' Wall Street",
+        "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+        "source": "cnbc_top",
+        "publishedAt": "Fri, 04 Sep 2026 17:33:08 GMT",
+        "score": 0,
+        "snippet": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
+        "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "RIVN Stock",
+          "Software",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Cybercabs are a game changer, says Mike Khouw. Here's how he's trading Tesla",
+        "url": "https://www.cnbc.com/2026/09/04/cybercabs-are-a-game-changer-says-mike-khouw-heres-how-hes-trading-tesla.html",
+        "source": "cnbc_top",
+        "publishedAt": "Fri, 04 Sep 2026 16:56:28 GMT",
+        "score": 0,
+        "snippet": "The strategist at YieldMaxETFs breaks down how a bullish bet on Tesla could pay off for options traders.",
+        "summary": "The strategist at YieldMaxETFs breaks down how a bullish bet on Tesla could pay off for options traders.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)",
+        "url": "https://www.techmeme.com/260904/p21#a260904p21",
+        "source": "techmeme",
+        "publishedAt": "Fri, 04 Sep 2026 11:40:00 -0400",
+        "score": 0,
+        "snippet": "<A HREF=\"",
+        "summary": "<A HREF=\"",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "The NHTSA opens a probe into Tesla's decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals (Sean O'Kane/TechCrunch)",
+        "url": "https://www.techmeme.com/260904/p13#a260904p13",
+        "source": "techmeme",
+        "publishedAt": "Fri, 04 Sep 2026 08:20:00 -0400",
+        "score": 0,
+        "snippet": "techmeme signal: The NHTSA opens a probe into Tesla's decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals (Sean O'Kane/TechCrunch)",
+        "summary": "techmeme signal: The NHTSA opens a probe into Tesla's decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals (Sean O'Kane/TechCrunch)",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Purchases New Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM2JEam4yR1o2QUxCMWt2UGRHb0trZTRjcDlFS2tPMnJ5cFZiS1k4Z05KN2dQcWVtNUx5MEJjWjM5V3B4MlRhVlRlVkhCS2JOUFhHeVBsemVadHZZbEhzQVFROUlCWGVQeTVfTFZSTVkyWFRobEdxQllkckpQNlhrWG81VDhOOXVwTlNTYW5fbFNOLU1iOElyZ2U1SG11SlU2TnAwczJTMk5GY3JZbERhdGdZSlNtVzZlVVZEUFdXNG81LVBVRl96U3l6OHRYVHI4anpKM0hxejZVNGJSRFdmY296N1RfUF9m?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 04 Sep 2026 08:59:18 GMT",
+        "score": 0,
+        "snippet": "Public Employees Retirement System of Ohio Purchases New Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "summary": "Public Employees Retirement System of Ohio Purchases New Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Order Invite Mentions Reportedly Surge 2.5x in August - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNW42Z3hya0ZjN20xNWhtOVlJUWVwaFZUWHlmVU90SFlhTzJEc1B6VFJVYW1FZzBTZFdrUUZEVkFWanVtOU1QM1VkZzZOQUF5VmFsZUx6SXozeHRTRjFySzJzNUNuNVprYlYySnhuRnZub1FUcDhEanRSSjRrTFdlRGdtZGFKU29IdUZRbU5TTVJkY1NVa1g0MVNqdDdUbnQxQnc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 04 Sep 2026 09:43:22 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Order Invite Mentions Reportedly Surge 2.5x in August - eletric-vehicles.com",
+        "summary": "Rivian R2 Order Invite Mentions Reportedly Surge 2.5x in August - eletric-vehicles.com",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla debuts the robotaxi of its anti-Waymo dreams - Morning Brew",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYi1rdTRMVElSQnRaaDZIMTN1ajk3VkFZbGUwZXphZURGTlJrWEN5NGRDWlhKM1lsOXNKa0JOS2M3c0p1RktCbWdtTjQ4Tm90SFdDdzdZRVdRb0NvWEZzelczU0dxU2pnYzZMZHBZdDJ6c2tMVXhYU0VfRklMOVJLanZhY0pJb3RtTFpmeEh5QQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Fri, 04 Sep 2026 13:06:53 GMT",
+        "score": 0,
+        "snippet": "Tesla debuts the robotaxi of its anti-Waymo dreams - Morning Brew",
+        "summary": "Tesla debuts the robotaxi of its anti-Waymo dreams - Morning Brew",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian R2 Gets an Aero-Optimized Crossbar Roof Rack! RMaxx Platform Cargo System",
+        "url": "https://youtube.com/watch?v=htNm4PfrBTA",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T17:46:04Z",
+        "score": 0,
+        "snippet": "Subscribe to EV Sportline for the best in electric vehicle upgrades \u26a1\ufe0f Click 'Show More' for links EV Sportline website: ...",
+        "summary": "Subscribe to EV Sportline for the best in electric vehicle upgrades \u26a1\ufe0f Click 'Show More' for links EV Sportline website: ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Spent $7,000 Protecting My Rivian R2\u2026 Here\u2019s What You Can Skip",
+        "url": "https://youtube.com/watch?v=qV7YT5en1aI",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T16:30:04Z",
+        "score": 0,
+        "snippet": "Got a new car? A Rivian R2? A Tesla? Should you spend on the money on paint protection film, ceramic coating, tint? I spoke to a ...",
+        "summary": "Got a new car? A Rivian R2? A Tesla? Should you spend on the money on paint protection film, ceramic coating, tint? I spoke to a ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why Rivian Stock Collapsed and What Could Make it Recover",
+        "url": "https://youtube.com/watch?v=pgKMeUdLmVE",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T16:00:19Z",
+        "score": 0,
+        "snippet": "Why did Rivian stock fall so dramatically from its all-time high\u2014and what would need to happen for investors to become bullish ...",
+        "summary": "Why did Rivian stock fall so dramatically from its all-time high\u2014and what would need to happen for investors to become bullish ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Full tint setup on this Rivian R1S.",
+        "url": "https://youtube.com/watch?v=jZUN4wvUaDs",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T15:07:40Z",
+        "score": 0,
+        "snippet": "Full tint setup on this Rivian R1S. We went with 70% on the windshield, 15% on the two front windows, and 50% on the rear ...",
+        "summary": "Full tint setup on this Rivian R1S. We went with 70% on the windshield, 15% on the two front windows, and 50% on the rear ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian camping fun from Gurle Creek Reservoir",
+        "url": "https://youtube.com/watch?v=PudlAKqZc2w",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T15:01:57Z",
+        "score": 0,
+        "snippet": "Just a quick little camping/cooking short from Gerle Creek Reservoir Campground, up in the California Sierras between ...",
+        "summary": "Just a quick little camping/cooking short from Gerle Creek Reservoir Campground, up in the California Sierras between ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian EDV parts Amazon Van delivery. what a joke #amazing #amazonfinds #amazon #rivian",
+        "url": "https://youtube.com/watch?v=Gv9-on0l6cI",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T14:28:06Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian EDV parts Amazon Van delivery. what a joke #amazing #amazonfinds #amazon #rivian",
+        "summary": "youtube signal: Rivian EDV parts Amazon Van delivery. what a joke #amazing #amazonfinds #amazon #rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Spent Time in the Rivian R1S - Here\u2019s What Happened",
+        "url": "https://youtube.com/watch?v=POP_f-oxfxs",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T12:50:30Z",
+        "score": 0,
+        "snippet": "I finally got the opportunity to experience the Rivian R1S in New York\u2014and now I'm sharing my honest reaction. The Rivian R1S ...",
+        "summary": "I finally got the opportunity to experience the Rivian R1S in New York\u2014and now I'm sharing my honest reaction. The Rivian R1S ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My Honest Review Of The Rivian R1S - Is it Worth Buying?",
+        "url": "https://youtube.com/watch?v=FAz-Vk4uwME",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T12:44:36Z",
+        "score": 0,
+        "snippet": "I finally got the opportunity to experience the Rivian R1S in New York\u2014and now I'm sharing my honest reaction. The Rivian R1S ...",
+        "summary": "I finally got the opportunity to experience the Rivian R1S in New York\u2014and now I'm sharing my honest reaction. The Rivian R1S ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R1S Experience: Is It Actually That Good?",
+        "url": "https://youtube.com/watch?v=Byi8mVU11SI",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T12:34:16Z",
+        "score": 0,
+        "snippet": "I finally got the opportunity to experience the Rivian R1S in New York\u2014and now I'm sharing my honest reaction. The Rivian R1S ...",
+        "summary": "I finally got the opportunity to experience the Rivian R1S in New York\u2014and now I'm sharing my honest reaction. The Rivian R1S ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "the GEAR TUNNEL #rivian #tesla",
+        "url": "https://youtube.com/watch?v=OFGPIAmtZpo",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T12:15:26Z",
+        "score": 0,
+        "snippet": "Looking to buy a Rivian? Use my Rivian referral: ...",
+        "summary": "Looking to buy a Rivian? Use my Rivian referral: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
