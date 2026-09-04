@@ -119816,5 +119816,426 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-04T22:01:29.332484Z",
+    "timestamp": "2026-09-04T22:01:29.332484Z",
+    "sentiment": {
+      "positive": 12,
+      "neutral": 84,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "marketwatch": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "hackernews": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 6,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "25 signals across Vehicles (16), Software (6); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, September 04, 2026 \u2014 10:01 PM PT \u2014 25 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 23 Rivian signals clustered around Vehicles (16), Software (6).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Software, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* The company\u2019s Cybercab rollout won\u2019t be as broad as some investors had hoped.\n  https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories\n\u2022 *Competitive Threats:* We've seen GM and Ford continue but pull back and kill off some really impressive models. Volkswagen and Volvo and Mercedes are all still committed as is I think BMW. And of course you have the su\n  https://bsky.app/profile/did:plc:dju7rgetkyq4hzeuhyzeqp47/post/3muplijimnc2i\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (16)* \u2022 reddit_rivian signal: G1 R1S new UI\n  https://www.reddit.com/r/Rivian/comments/1w7hhni/g1_r1s_new_ui/\n*Business (0)* \u2022 No signals\n*Software (6)* \u2022 Time for another @rivianofficial.bsky.social Recap. - 2026.31 starts rolling out to the fleet - R2 update has a few key things missing \ud83e\uddd0 - R2 crossbar differences - Road trip plans - September deals\n  https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3muprwnypy225\n*Community (1)* \u2022 bluesky signal: @schmidtisblog.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3muphedpy2a2z\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "G1 R1S new UI",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7hhni/g1_r1s_new_ui/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T21:28:43.901Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: G1 R1S new UI",
+        "summary": "reddit_rivian signal: G1 R1S new UI",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian OS2 on Gen2 R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7fn0c/rivian_os2_on_gen2_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T20:18:58.997Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian OS2 on Gen2 R1S",
+        "summary": "reddit_rivian signal: Rivian OS2 on Gen2 R1S",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian OS 2 - R1",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7ensu/rivian_os_2_r1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T19:43:40.708Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian OS 2 - R1",
+        "summary": "reddit_rivian signal: Rivian OS 2 - R1",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Drove Vivian 26 R1S TRI from JAX FL to Winter Park FL, 3.12 MI/KW",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7d72x/drove_vivian_26_r1s_tri_from_jax_fl_to_winter/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T18:50:27.126Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Drove Vivian 26 R1S TRI from JAX FL to Winter Park FL, 3.12 MI/KW",
+        "summary": "reddit_rivian signal: Drove Vivian 26 R1S TRI from JAX FL to Winter Park FL, 3.12 MI/KW",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Short drivers and UHF",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7cl0c/short_drivers_and_uhf/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T18:28:32.690Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Short drivers and UHF",
+        "summary": "reddit_rivian signal: Short drivers and UHF",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "IT'S HERE! Rivian OS 2 time!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7c7nb/its_here_rivian_os_2_time/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-04T18:15:21.309Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: IT'S HERE! Rivian OS 2 time!",
+        "summary": "reddit_rivian signal: IT'S HERE! Rivian OS 2 time!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s stock falls as Cybercab launch lands with a thud",
+        "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
+        "source": "marketwatch",
+        "publishedAt": "Fri, 04 Sep 2026 20:18:00 GMT",
+        "score": 0,
+        "snippet": "The company\u2019s Cybercab rollout won\u2019t be as broad as some investors had hoped.",
+        "summary": "The company\u2019s Cybercab rollout won\u2019t be as broad as some investors had hoped.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@ilschoolnet.bsky.social (Bluesky): Unit 5 seeks outside legal help in Rivian tax appeal",
+        "url": "https://bsky.app/profile/did:plc:gmtrem4vzlvguqlguitmvabe/post/3mupv3kevob2t",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T21:15:04.063Z",
+        "score": 0,
+        "snippet": "Unit 5 seeks outside legal help in Rivian tax appeal",
+        "summary": "Unit 5 seeks outside legal help in Rivian tax appeal",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian the only way to go.",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mupuxmrvv227",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T21:12:51.967Z",
+        "score": 0,
+        "snippet": "Rivian the only way to go.",
+        "summary": "Rivian the only way to go.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@travisketchum.bsky.social (Bluesky): Time for another @rivianofficial.bsky.social Recap.\n\n- 2026.31 starts rolling ou",
+        "url": "https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3muprwnypy225",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T20:18:39.470Z",
+        "score": 0,
+        "snippet": "Time for another @rivianofficial.bsky.social Recap. - 2026.31 starts rolling out to the fleet - R2 update has a few key things missing \ud83e\uddd0 - R2 crossbar differences - Road trip plans - September deals",
+        "summary": "Time for another @rivianofficial.bsky.social Recap. - 2026.31 starts rolling out to the fleet - R2 update has a few key things missing \ud83e\uddd0 - R2 crossbar differences - Road trip plans - September deals",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mupqsqykwc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T19:58:35.063Z",
+        "score": 0,
+        "snippet": "eletric-vehicles.com/rivian/rivia...",
+        "summary": "eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@adamgalas.bsky.social (Bluesky): Companies like rivian and lucid make great cars but those companies aren't expec",
+        "url": "https://bsky.app/profile/did:plc:dju7rgetkyq4hzeuhyzeqp47/post/3mupllrzirk2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T18:25:10.768Z",
+        "score": 0,
+        "snippet": "Companies like rivian and lucid make great cars but those companies aren't expected to break even until 2029 or 2031. My family is not going to risk spending $100,000 on a car whose manufacturer cou",
+        "summary": "Companies like rivian and lucid make great cars but those companies aren't expected to break even until 2029 or 2031. My family is not going to risk spending $100,000 on a car whose manufacturer cou",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@adamgalas.bsky.social (Bluesky): We've seen GM and Ford continue but pull back and kill off some really impressiv",
+        "url": "https://bsky.app/profile/did:plc:dju7rgetkyq4hzeuhyzeqp47/post/3muplijimnc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T18:23:21.461Z",
+        "score": 0,
+        "snippet": "We've seen GM and Ford continue but pull back and kill off some really impressive models. Volkswagen and Volvo and Mercedes are all still committed as is I think BMW. And of course you have the su",
+        "summary": "We've seen GM and Ford continue but pull back and kill off some really impressive models. Volkswagen and Volvo and Mercedes are all still committed as is I think BMW. And of course you have the su",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Video \u2013 Everything New in the Rivian R2 2026.31 Update\n\nriviantrackr.com/news/ri",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3muplhmelh22k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T18:22:55.162Z",
+        "score": 5,
+        "snippet": "Video \u2013 Everything New in the Rivian R2 2026.31 Update riviantrackr.com/news/rivian-...",
+        "summary": "Video \u2013 Everything New in the Rivian R2 2026.31 Update riviantrackr.com/news/rivian-...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@gigidagia.bsky.social (Bluesky): M\u011b dlouho \u0161tve, \u017ee SSP se zpo\u017e\u010fovalo, pomal\u00fd v\u00fdvoj a roky plno v\u011bci ignorovali. ",
+        "url": "https://bsky.app/profile/did:plc:73v62tfsazy53u3agpzcgrha/post/3mupk2m2njc27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T17:57:40.965Z",
+        "score": 1,
+        "snippet": "M\u011b dlouho \u0161tve, \u017ee SSP se zpo\u017e\u010fovalo, pomal\u00fd v\u00fdvoj a roky plno v\u011bci ignorovali. Snad to p\u016fjde dob\u0159e, maj\u00ed rozjet\u00fd Scout pro USA, Rivian pro SW na SSP, spolupr\u00e1ci v \u010c\u00edn\u011b a gamechanger (nov\u00e9 pojet\u00ed v\u00fdro",
+        "summary": "M\u011b dlouho \u0161tve, \u017ee SSP se zpo\u017e\u010fovalo, pomal\u00fd v\u00fdvoj a roky plno v\u011bci ignorovali. Snad to p\u016fjde dob\u0159e, maj\u00ed rozjet\u00fd Scout pro USA, Rivian pro SW na SSP, spolupr\u00e1ci v \u010c\u00edn\u011b a gamechanger (nov\u00e9 pojet\u00ed v\u00fdro",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angelogiganti.bsky.social (Bluesky): Now is a great time to buy a #Rivian",
+        "url": "https://bsky.app/profile/did:plc:l7zidxxfckv6mepubdxo7ch2/post/3mupi3oywdc2a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T17:22:29.567Z",
+        "score": 0,
+        "snippet": "Now is a great time to buy a #Rivian",
+        "summary": "Now is a great time to buy a #Rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@schmidtisblog.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3muphedpy2a2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-04T17:09:26.068Z",
+        "score": 0,
+        "snippet": "bluesky signal: @schmidtisblog.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @schmidtisblog.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "RivianOS 2 is HERE! First Look on Gen 2 R1S (Update 2026.31)",
+        "url": "https://youtube.com/watch?v=BQz2S4j4Qfc",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T21:28:24Z",
+        "score": 0,
+        "snippet": "RivianOS 2 (Software Update 2026.31) is officially rolling out, and we got it installed on our Gen 2 Rivian R1S! Here is a quick first ...",
+        "summary": "RivianOS 2 (Software Update 2026.31) is officially rolling out, and we got it installed on our Gen 2 Rivian R1S! Here is a quick first ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Inside the Rivian R1T Skateboard Chassis \u26a1 See Power to Every Wheel! #Shorts",
+        "url": "https://youtube.com/watch?v=7V3Lcr46xCI",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T21:00:28Z",
+        "score": 0,
+        "snippet": "Take an X-ray look inside the Rivian R1T skateboard chassis! \u26a1 Watch the battery cells and electric motors glow as electrical ...",
+        "summary": "Take an X-ray look inside the Rivian R1T skateboard chassis! \u26a1 Watch the battery cells and electric motors glow as electrical ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u00bfCabe una persona COMPLETA en el maletero delantero de una Rivian? \ud83d\udc80\ud83d\ude02",
+        "url": "https://youtube.com/watch?v=2XZgRu7uiWQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T20:26:45Z",
+        "score": 0,
+        "snippet": "Mi amigo decidi\u00f3 que la \u00fanica forma de comprobarlo era meti\u00e9ndose \u00e9l mismo\u2026 y para sorpresa de todos, s\u00ed entr\u00f3 completo.",
+        "summary": "Mi amigo decidi\u00f3 que la \u00fanica forma de comprobarlo era meti\u00e9ndose \u00e9l mismo\u2026 y para sorpresa de todos, s\u00ed entr\u00f3 completo.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My Name is Appearing on Every Rivian R2",
+        "url": "https://youtube.com/watch?v=vsLryfF_F_E",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T18:36:44Z",
+        "score": 0,
+        "snippet": "youtube signal: My Name is Appearing on Every Rivian R2",
+        "summary": "youtube signal: My Name is Appearing on Every Rivian R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Everything New in the Rivian R2 2026.31 Update",
+        "url": "https://youtube.com/watch?v=_LCZ4X5gLJg",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T18:16:22Z",
+        "score": 0,
+        "snippet": "Rivian pushed 2026.31 to the R2 on the same day as the R1, and since the R2 already runs Rivian OS 2.0, this one is smaller and ...",
+        "summary": "Rivian pushed 2026.31 to the R2 on the same day as the R1, and since the R2 already runs Rivian OS 2.0, this one is smaller and ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "RivianOS 2 | Rivian",
+        "url": "https://youtube.com/watch?v=Cz2iSDtEZ24",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T18:06:14Z",
+        "score": 0,
+        "snippet": "RivianOS 2 is now on every R1. \u26a1 Our AI-defined software platform brings a fresh design and lightning-fast user interface to both ...",
+        "summary": "RivianOS 2 is now on every R1. \u26a1 Our AI-defined software platform brings a fresh design and lightning-fast user interface to both ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "RivianOS 2 | Rivian",
+        "url": "https://youtube.com/watch?v=pDLCxm-Ic5E",
+        "source": "youtube",
+        "publishedAt": "2026-09-04T18:04:09Z",
+        "score": 0,
+        "snippet": "RivianOS 2 is now on every R1. \u26a1 Our AI-defined software platform brings a fresh design and lightning-fast user interface to both ...",
+        "summary": "RivianOS 2 is now on every R1. \u26a1 Our AI-defined software platform brings a fresh design and lightning-fast user interface to both ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Bringing RivianOS 2 to the R1 Lineup",
+        "url": "https://rivian.com/stories/new-software-rivianos-2",
+        "source": "hackernews",
+        "publishedAt": "2026-09-04T21:01:21Z",
+        "score": 2,
+        "snippet": "hackernews signal: Bringing RivianOS 2 to the R1 Lineup",
+        "summary": "hackernews signal: Bringing RivianOS 2 to the R1 Lineup",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
