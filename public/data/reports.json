@@ -120360,5 +120360,367 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-05T18:01:26.442386Z",
+    "timestamp": "2026-09-05T18:01:26.442386Z",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 90,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Competitive Threats",
+      "Demo Drives",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "21 signals across Vehicles (15), Software (3); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, September 05, 2026 \u2014 6:01 PM PT \u2014 21 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 20 Rivian signals clustered around Vehicles (15), Software (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Software, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* 'I feel safer around a Waymo.' Expansion of autonomous robotaxi service has supporters cheering - Los Angeles Times\n  https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVk9HRzNBcFFaZ3dWcjJvYnZaU1lzaklCMnVkTHZiR25tRnB0andZaDhXMHctNEs3WGlKaENLTmRMV1lLdXVCQXJxOERZaG94NnRmNUd5ZE9vejUyN25uVG1fS3hUdUJYejM2YkpuU3ZZQmlYTUQxRm5RQzAwdmYzVC1fZllFRkpuNThxQ1VBd3I2UHk4THI2Q3lhUXpTY1VEeDBlazAtbTl5Z3ZSMlZWallmSmJZaVpQU1A2VDdfazUtYjhpY0NiMnNUdWtGdDd4UWQxWA?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 reddit_rivian signal: Re-introduce speed-limit-matched cruise speed (opt-in)\n  https://www.reddit.com/r/Rivian/comments/1w7v4jt/reintroduce_speedlimitmatched_cruise_speed_optin/\n*Demo & Test Drives (1)* \u2022 I test drive the Rivian R2, and while they have a big screen for most things, it's really well laid out and you don't really need it for much when actually driving. They also have a week designed smal\n  https://bsky.app/profile/did:plc:bxzxbo7az6q3vglzpnso5iu5/post/3muryt2hosc22\n*Vehicles (15)* \u2022 reddit_rivian signal: RivianOS2 UX Thoughts\n  https://www.reddit.com/r/Rivian/comments/1w83uvt/rivianos2_ux_thoughts/\n*Business (0)* \u2022 No signals\n*Software (3)* \u2022 Rivian rolls out RivianOS 2, unifying software across R1 and R2. Software is one of the hardest parts of modern vehicles to get right. Rivian succeeds in doing that. electrek.co/2026/09/04/r...\n  https://bsky.app/profile/did:plc:prhg7e4i6rmbpzhxgb4vdc36/post/3murzvj7zec2a\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "RivianOS2 UX Thoughts",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w83uvt/rivianos2_ux_thoughts/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-05T15:32:28.237Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: RivianOS2 UX Thoughts",
+        "summary": "reddit_rivian signal: RivianOS2 UX Thoughts",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "OS 2 experience on \u201826 Gen 2 R1T Tri Max",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w80j8i/os_2_experience_on_26_gen_2_r1t_tri_max/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-05T13:17:19.997Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: OS 2 experience on \u201826 Gen 2 R1T Tri Max",
+        "summary": "reddit_rivian signal: OS 2 experience on \u201826 Gen 2 R1T Tri Max",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "[MEGATHREAD] Saturday Switchers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w805qd/megathread_saturday_switchers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-05T13:01:04.511Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: [MEGATHREAD] Saturday Switchers",
+        "summary": "reddit_rivian signal: [MEGATHREAD] Saturday Switchers",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian OS 2 Favorite Features",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7yt2i/rivian_os_2_favorite_features/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-05T11:58:12.762Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian OS 2 Favorite Features",
+        "summary": "reddit_rivian signal: Rivian OS 2 Favorite Features",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Think we'll ever get a saddle/orangeish interior color?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7yh35/think_well_ever_get_a_saddleorangeish_interior/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-05T06:23:21.955Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Think we'll ever get a saddle/orangeish interior color?",
+        "summary": "reddit_rivian signal: Think we'll ever get a saddle/orangeish interior color?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Think we'll ever get a saddle/orangeish interior color?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w7srb4/think_well_ever_get_a_saddleorangeish_interior/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-05T06:23:21.955Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Think we'll ever get a saddle/orangeish interior color?",
+        "summary": "reddit_rivian signal: Think we'll ever get a saddle/orangeish interior color?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Re-introduce speed-limit-matched cruise speed (opt-in)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w7v4jt/reintroduce_speedlimitmatched_cruise_speed_optin/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-05T08:37:14.714Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Re-introduce speed-limit-matched cruise speed (opt-in)",
+        "summary": "reddit_rivian signal: Re-introduce speed-limit-matched cruise speed (opt-in)",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "'I feel safer around a Waymo.' Expansion of autonomous robotaxi service has supporters cheering - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVk9HRzNBcFFaZ3dWcjJvYnZaU1lzaklCMnVkTHZiR25tRnB0andZaDhXMHctNEs3WGlKaENLTmRMV1lLdXVCQXJxOERZaG94NnRmNUd5ZE9vejUyN25uVG1fS3hUdUJYejM2YkpuU3ZZQmlYTUQxRm5RQzAwdmYzVC1fZllFRkpuNThxQ1VBd3I2UHk4THI2Q3lhUXpTY1VEeDBlazAtbTl5Z3ZSMlZWallmSmJZaVpQU1A2VDdfazUtYjhpY0NiMnNUdWtGdDd4UWQxWA?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Sat, 05 Sep 2026 13:30:00 GMT",
+        "score": 0,
+        "snippet": "'I feel safer around a Waymo.' Expansion of autonomous robotaxi service has supporters cheering - Los Angeles Times",
+        "summary": "'I feel safer around a Waymo.' Expansion of autonomous robotaxi service has supporters cheering - Los Angeles Times",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@solarab.bsky.social (Bluesky): Rivian rolls out RivianOS 2, unifying software across R1 and R2. Software is one",
+        "url": "https://bsky.app/profile/did:plc:prhg7e4i6rmbpzhxgb4vdc36/post/3murzvj7zec2a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T17:46:30.171Z",
+        "score": 0,
+        "snippet": "Rivian rolls out RivianOS 2, unifying software across R1 and R2. Software is one of the hardest parts of modern vehicles to get right. Rivian succeeds in doing that. electrek.co/2026/09/04/r...",
+        "summary": "Rivian rolls out RivianOS 2, unifying software across R1 and R2. Software is one of the hardest parts of modern vehicles to get right. Rivian succeeds in doing that. electrek.co/2026/09/04/r...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@berfield.com (Bluesky): I test drive the Rivian R2, and while they have a big screen for most things, it",
+        "url": "https://bsky.app/profile/did:plc:bxzxbo7az6q3vglzpnso5iu5/post/3muryt2hosc22",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T17:27:13.460Z",
+        "score": 0,
+        "snippet": "I test drive the Rivian R2, and while they have a big screen for most things, it's really well laid out and you don't really need it for much when actually driving. They also have a week designed smal",
+        "summary": "I test drive the Rivian R2, and while they have a big screen for most things, it's really well laid out and you don't really need it for much when actually driving. They also have a week designed smal",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Rivian Software Update 2026.31 is moving fast with almost 25% of the fleet flagg",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mury27eajj2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T17:13:18.761Z",
+        "score": 1,
+        "snippet": "Rivian Software Update 2026.31 is moving fast with almost 25% of the fleet flagged already. Some of my favorite parts for R1: - New stat card - Negative SOC arrival - Weather rivianroamer.com/softwa",
+        "summary": "Rivian Software Update 2026.31 is moving fast with almost 25% of the fleet flagged already. Some of my favorite parts for R1: - New stat card - Negative SOC arrival - Weather rivianroamer.com/softwa",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3murxv7ouek2o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T17:10:31.567Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3murxtwz44k2o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T17:09:48.967Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jafman.bsky.social (Bluesky): My number one comment to Rivian's \"new vehicle owner's survey\" was \"Please rever",
+        "url": "https://bsky.app/profile/did:plc:ockqrbmsnwvena4mjt2bepl2/post/3murxseqlhk24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T17:08:56.365Z",
+        "score": 0,
+        "snippet": "My number one comment to Rivian's \"new vehicle owner's survey\" was \"Please revert to manual control for the climate vents.\" Truly, an unnecessary design. I think Rivian was just trying to copy this sa",
+        "summary": "My number one comment to Rivian's \"new vehicle owner's survey\" was \"Please revert to manual control for the climate vents.\" Truly, an unnecessary design. I think Rivian was just trying to copy this sa",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@forevernever.bsky.social (Bluesky): Yeah, Rivian followed Tesla into touchscreen ridiculousness (not as extreme as T",
+        "url": "https://bsky.app/profile/did:plc:w4q5crn4whzxof2wkazkl4tt/post/3murvbvnzms2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T16:23:57.968Z",
+        "score": 2,
+        "snippet": "Yeah, Rivian followed Tesla into touchscreen ridiculousness (not as extreme as Tesla, but pretty close). Maybe they'll follow the trend and add more physical buttons in the coming years.",
+        "summary": "Yeah, Rivian followed Tesla into touchscreen ridiculousness (not as extreme as Tesla, but pretty close). Maybe they'll follow the trend and add more physical buttons in the coming years.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@forevernever.bsky.social (Bluesky): One of the reasons I can't stand my Rivian is that the *direction* of the vents ",
+        "url": "https://bsky.app/profile/did:plc:w4q5crn4whzxof2wkazkl4tt/post/3murtdfxq6c2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T15:49:00.662Z",
+        "score": 37,
+        "snippet": "One of the reasons I can't stand my Rivian is that the *direction* of the vents is controlled by the touchscreen. Why would they do that?? It's less precise and extremely annoying to use, and a huge d",
+        "summary": "One of the reasons I can't stand my Rivian is that the *direction* of the vents is controlled by the touchscreen. Why would they do that?? It's less precise and extremely annoying to use, and a huge d",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@outsidemag.bsky.social (Bluesky): With hands-free highway driving for the commute and up to 656 horsepower for the",
+        "url": "https://bsky.app/profile/did:plc:vgmf5ae6dzgoi6p5tlakpvwp/post/3mursbxgq4x2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T15:30:16.470Z",
+        "score": 1,
+        "snippet": "With hands-free highway driving for the commute and up to 656 horsepower for the trail, the new Rivian R2 blends futuristic tech with old-school dirt-road thrills.",
+        "summary": "With hands-free highway driving for the commute and up to 656 horsepower for the trail, the new Rivian R2 blends futuristic tech with old-school dirt-road thrills.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newestcarsusa.bsky.social (Bluesky): RivianOS 2 Update 2026.31 Expands to Older R1 Models",
+        "url": "https://bsky.app/profile/did:plc:njbouatmwhny5654vy2hghtg/post/3murn4a5zsz2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-05T13:57:35.871Z",
+        "score": 0,
+        "snippet": "RivianOS 2 Update 2026.31 Expands to Older R1 Models",
+        "summary": "RivianOS 2 Update 2026.31 Expands to Older R1 Models",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "The 2026 Rivian R1S Quad is a real-life ROCKET SHIP!",
+        "url": "https://youtube.com/watch?v=U1qpjMlx7Co",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T15:00:00Z",
+        "score": 0,
+        "snippet": "USE PROMO CODE: FALL26 FOR 15% OFF YOUR BARRETT'S AUTOMOTIVE ORDER TODAY THROUGH 9/30 Order Your ...",
+        "summary": "USE PROMO CODE: FALL26 FOR 15% OFF YOUR BARRETT'S AUTOMOTIVE ORDER TODAY THROUGH 9/30 Order Your ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T vs Tesla Cybertruc Tug of War Challenge #RivianR1T #tesla #cybertruck #tugofwar #tuglife",
+        "url": "https://youtube.com/watch?v=5cw6fokUh6s",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T14:51:13Z",
+        "score": 0,
+        "snippet": "Rivian R1T vs Tesla Cybertruc Tug of War Challenge #RivianR1T #tesla #cybertruck #tugofwar #automobile #today #offroad ...",
+        "summary": "Rivian R1T vs Tesla Cybertruc Tug of War Challenge #RivianR1T #tesla #cybertruck #tugofwar #automobile #today #offroad ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Building Adventure: How Rivian Turns Retail into Exploration (Highlight)",
+        "url": "https://youtube.com/watch?v=6Slyx4iroPQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T14:29:16Z",
+        "score": 0,
+        "snippet": "Rivian is building brand worlds, not just stores. Whether it's a serene EV \"outpost\" designed for vehicle and driver recharge or a ...",
+        "summary": "Rivian is building brand worlds, not just stores. Whether it's a serene EV \"outpost\" designed for vehicle and driver recharge or a ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
