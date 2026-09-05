@@ -120237,5 +120237,128 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-05T14:01:25.012832Z",
+    "timestamp": "2026-09-05T14:01:25.012832Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 80,
+      "negative": 20
+    },
+    "sources": {
+      "youtube": {
+        "found": 5,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Vehicle Demand"
+    ],
+    "summary": "5 signals across Vehicles (4), Business (1); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, September 05, 2026 \u2014 2:01 PM PT \u2014 5 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 5 Rivian signals clustered around Vehicles (4), Business (1).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 1 negative signal; watch Vehicle Demand, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (4)* \u2022 youtube signal: Rivian trucks: Amazon fleet and the range problem\n  https://youtube.com/watch?v=giAKmV9qohM\n*Business (1)* \u2022 Join this channel to get access to perks: Disclaimer This is ...\n  https://youtube.com/watch?v=ZGCraHkqF3o\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian trucks: Amazon fleet and the range problem",
+        "url": "https://youtube.com/watch?v=giAKmV9qohM",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T13:37:55Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian trucks: Amazon fleet and the range problem",
+        "summary": "youtube signal: Rivian trucks: Amazon fleet and the range problem",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Quad - Worth 2x the Price of an R2?",
+        "url": "https://youtube.com/watch?v=JchqkSqBcmU",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T13:30:30Z",
+        "score": 0,
+        "snippet": "In this video I talk about my loaner Gen 2 R1T Quad motor as it relates to my R2 in a few key areas. I talk about things like interior ...",
+        "summary": "In this video I talk about my loaner Gen 2 R1T Quad motor as it relates to my R2 in a few key areas. I talk about things like interior ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Stock: Is the $45,000 R2 About to Change Everything??\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=ZGCraHkqF3o",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T11:59:11Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: Disclaimer This is ...",
+        "summary": "Join this channel to get access to perks: Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Why Rivian R2 Looks Right",
+        "url": "https://youtube.com/watch?v=i00d2_SOm80",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T11:29:27Z",
+        "score": 0,
+        "snippet": "The R2 keeps the Rivian DNA while refining the proportions\u2014and delivering the experience at a fraction of the R1's cost. #Rivian ...",
+        "summary": "The R2 keeps the Rivian DNA while refining the proportions\u2014and delivering the experience at a fraction of the R1's cost. #Rivian ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Corvette Z06 vs Rivian R1T a deadly head-to-head race! Wait for the End!",
+        "url": "https://youtube.com/watch?v=ijqyXQfEmfs",
+        "source": "youtube",
+        "publishedAt": "2026-09-05T10:00:00Z",
+        "score": 0,
+        "snippet": "Corvette Z06 vs Rivian R1T a deadly head-to-head race! Wait for the End! #shorts #corvettez06 #rivianr1t #corvette #rivian #cars ...",
+        "summary": "Corvette Z06 vs Rivian R1T a deadly head-to-head race! Wait for the End! #shorts #corvettez06 #rivianr1t #corvette #rivian #cars ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
