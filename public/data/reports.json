@@ -121017,5 +121017,352 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-06T22:02:21.835883Z",
+    "timestamp": "2026-09-06T22:02:21.835883Z",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 95,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (17), Competitive (1); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, September 06, 2026 \u2014 10:02 PM PT \u2014 20 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (17), Demo & Test Drives (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Tesla FSD Has Big Lead, Despite Muted Cybercab Launch - Yahoo News UK\n  https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ3FXdU9BVkZmTXdWR01QaFJ3ZjM2dWEtNXFma2hfWlFfNlFyWFZFYnY4QVVqeXdfUkVVMUJKOUxaZGdZVll4TVl3ZkRrdEhUOTlWanE0WDVsTmVBejk0aDVZYlV6dkM2SGhMd25pRVJuSmF3UkE?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Demo drive thoughts and a couple hyper specific observations\n  https://www.reddit.com/r/RivianR2/comments/1w8lcp4/demo_drive_thoughts_and_a_couple_hyper_specific/\n*Vehicles (17)* \u2022 reddit_rivian signal: $332 to install a key fob is\u2026crazy right?\n  https://www.reddit.com/r/Rivian/comments/1w98zvz/332_to_install_a_key_fob_iscrazy_right/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "$332 to install a key fob is\u2026crazy right?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w98zvz/332_to_install_a_key_fob_iscrazy_right/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T21:35:31.472Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: $332 to install a key fob is\u2026crazy right?",
+        "summary": "reddit_rivian signal: $332 to install a key fob is\u2026crazy right?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "What happens to owned Rivians after Rivian goes bankrupt?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w98acd/what_happens_to_owned_rivians_after_rivian_goes/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T21:07:21.600Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: What happens to owned Rivians after Rivian goes bankrupt?",
+        "summary": "reddit_rivian signal: What happens to owned Rivians after Rivian goes bankrupt?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Nebraska Rivian New Car Pickup",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w960zc/nebraska_rivian_new_car_pickup/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T19:41:51.001Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Nebraska Rivian New Car Pickup",
+        "summary": "reddit_rivian signal: Nebraska Rivian New Car Pickup",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The 2026.31 rollout appears to be paused\u2026",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w95l3r/the_202631_rollout_appears_to_be_paused/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T19:25:19.046Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: The 2026.31 rollout appears to be paused\u2026",
+        "summary": "reddit_rivian signal: The 2026.31 rollout appears to be paused\u2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Jack for R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w946ce/jack_for_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T18:33:58.429Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Jack for R1T",
+        "summary": "reddit_rivian signal: Jack for R1T",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Just got my R1S",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w944qd/just_got_my_r1s/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T18:32:23.319Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Just got my R1S",
+        "summary": "reddit_rivian signal: Just got my R1S",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "OS 2 garage door labels truncated",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w92rrq/os_2_garage_door_labels_truncated/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T17:42:45.186Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: OS 2 garage door labels truncated",
+        "summary": "reddit_rivian signal: OS 2 garage door labels truncated",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Dealbreakers for R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w93itc/dealbreakers_for_r2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-06T18:10:09.864Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Dealbreakers for R2",
+        "summary": "reddit_rivian_r2 signal: Dealbreakers for R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Demo drive thoughts and a couple hyper specific observations",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w8lcp4/demo_drive_thoughts_and_a_couple_hyper_specific/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-06T03:49:58.832Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Demo drive thoughts and a couple hyper specific observations",
+        "summary": "reddit_rivian_r2 signal: Demo drive thoughts and a couple hyper specific observations",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Tesla FSD Has Big Lead, Despite Muted Cybercab Launch - Yahoo News UK",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ3FXdU9BVkZmTXdWR01QaFJ3ZjM2dWEtNXFma2hfWlFfNlFyWFZFYnY4QVVqeXdfUkVVMUJKOUxaZGdZVll4TVl3ZkRrdEhUOTlWanE0WDVsTmVBejk0aDVZYlV6dkM2SGhMd25pRVJuSmF3UkE?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Sun, 06 Sep 2026 15:36:27 GMT",
+        "score": 0,
+        "snippet": "Tesla FSD Has Big Lead, Despite Muted Cybercab Launch - Yahoo News UK",
+        "summary": "Tesla FSD Has Big Lead, Despite Muted Cybercab Launch - Yahoo News UK",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "FINISHING 1ST OUT OF 69 DRIVERS IN LEVEL 6 RIVIAN R1T! - Forza Horizon 6 | Eliminator",
+        "url": "https://youtube.com/watch?v=K1im8xyRuzg",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T22:00:32Z",
+        "score": 0,
+        "snippet": "My discord server:",
+        "summary": "My discord server:",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Okay, I know I&#39;m a little late with the reveal \ud83d\ude02",
+        "url": "https://youtube.com/watch?v=S2bPhsXYKg4",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T21:00:37Z",
+        "score": 0,
+        "snippet": "A lot of you loved Vivian, but Snow was always one of my favorites. Then someone suggested combining the two and...wait a ...",
+        "summary": "A lot of you loved Vivian, but Snow was always one of my favorites. Then someone suggested combining the two and...wait a ...",
+        "category": "other",
+        "sentiment": "positive",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian\u2026 #pdr #paintlessdentrepair #arizona #phoenix",
+        "url": "https://youtube.com/watch?v=CeLWuplreO8",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T20:54:08Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian\u2026 #pdr #paintlessdentrepair #arizona #phoenix",
+        "summary": "youtube signal: Rivian\u2026 #pdr #paintlessdentrepair #arizona #phoenix",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Just Built Its Own AI Brain \u2014 The RAP1 Chip Could Change How Its Cars Drive Forever",
+        "url": "https://youtube.com/watch?v=n6-m6XjvS-A",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T20:45:17Z",
+        "score": 0,
+        "snippet": "Rivian just made a move that could completely change the future of its vehicles \u2014 and it has nothing to do with a new exterior ...",
+        "summary": "Rivian just made a move that could completely change the future of its vehicles \u2014 and it has nothing to do with a new exterior ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Towing 1600lbs With An Electric Truck - Everything You Need to Know!",
+        "url": "https://youtube.com/watch?v=QXShIDU0TCk",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T19:00:14Z",
+        "score": 0,
+        "snippet": "Click the Like Button, Leave a Comment, Subscribe Dave came to the Show Me campout and we quiz him about towing ...",
+        "summary": "Click the Like Button, Leave a Comment, Subscribe Dave came to the Show Me campout and we quiz him about towing ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "5 Fastest Pickup Trucks, Raced Side by Side (0-60 MPH)",
+        "url": "https://youtube.com/watch?v=4nRYrVllaXk",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T18:47:30Z",
+        "score": 0,
+        "snippet": "Five of the quickest pickups in North America, raced side by side on one axis. The Rivian R1T reaches 60 mph two full seconds ...",
+        "summary": "Five of the quickest pickups in North America, raced side by side on one axis. The Rivian R1T reaches 60 mph two full seconds ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 liftgate hand pinch test (don\u2019t try this at home)",
+        "url": "https://youtube.com/watch?v=QzsmZ8S3z9o",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T18:37:42Z",
+        "score": 0,
+        "snippet": "This is dumb, don't do this Overall I don't think it would seriously injure anyone but I also don't think it would feel good for a child to ...",
+        "summary": "This is dumb, don't do this Overall I don't think it would seriously injure anyone but I also don't think it would feel good for a child to ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u201cRivian R2 \u2013 The EV SUV Everyone Is Talking About! \ud83d\ude33\u26a1\u201d",
+        "url": "https://youtube.com/watch?v=FFfjR2nzUj8",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T17:47:14Z",
+        "score": 0,
+        "snippet": "Meet the Rivian R2 \u2014 a new electric SUV bringing adventure, technology, and EV performance to a wider audience. \u26a1 Would ...",
+        "summary": "Meet the Rivian R2 \u2014 a new electric SUV bringing adventure, technology, and EV performance to a wider audience. \u26a1 Would ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Own Both - Rivian R2 vs Tesla Model Y (My Honest Buying Advice)",
+        "url": "https://youtube.com/watch?v=bpLka3a9ssU",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T17:00:36Z",
+        "score": 0,
+        "snippet": "This is a full comparison of the Rivian R2 and Tesla Model Y. Ekster's Labor Day Sale, up to 48% off through September 16th.",
+        "summary": "This is a full comparison of the Rivian R2 and Tesla Model Y. Ekster's Labor Day Sale, up to 48% off through September 16th.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Towing Efficiency With 1,000 Pound Jet Ski",
+        "url": "https://youtube.com/watch?v=uLR29k5y07M",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T16:51:28Z",
+        "score": 0,
+        "snippet": "Testing the Rivian R1T Towing Efficiency! \u26a1 We charged the Rivian R1T up to 90% to hit the road and test its towing ...",
+        "summary": "Testing the Rivian R1T Towing Efficiency! \u26a1 We charged the Rivian R1T up to 90% to hit the road and test its towing ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
