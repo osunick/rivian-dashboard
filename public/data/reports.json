@@ -122150,5 +122150,341 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-07T18:02:36.748716Z",
+    "timestamp": "2026-09-07T18:02:36.748716Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 84,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "19 signals across Vehicles (16), Software (2); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 07, 2026 \u2014 6:02 PM PT \u2014 19 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (16), Software (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Software, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Tesla is stepping up deployment of the Cybercab, but NHTSA has launched an audit to scrutinise its self-certification. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/analysis/cybercab-launches-to-muted-reception-and-a-federal-audit/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (16)* \u2022 reddit_rivian signal: Door check makes cracking noise\n  https://www.reddit.com/r/Rivian/comments/1w9yzs5/door_check_makes_cracking_noise/\n*Business (0)* \u2022 No signals\n*Software (2)* \u2022 Die News der Wall Street. VW, Rivian, Teslas (Cybercabs), Toyota, Meta, Intel, Deutz, Commerzbank... 00:00 Begr\u00fc\u00dfung ...\n  https://youtube.com/watch?v=ptDet7LOfK0\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Door check makes cracking noise",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9yzs5/door_check_makes_cracking_noise/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T17:44:55.653Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Door check makes cracking noise",
+        "summary": "reddit_rivian signal: Door check makes cracking noise",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1S Compact Spare with Cargo Area Bin?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9xjd5/r1s_compact_spare_with_cargo_area_bin/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T16:52:13.617Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1S Compact Spare with Cargo Area Bin?",
+        "summary": "reddit_rivian signal: R1S Compact Spare with Cargo Area Bin?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New R1S inbound - recommended settings / things to do?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9x45h/new_r1s_inbound_recommended_settings_things_to_do/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T16:36:15.905Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: New R1S inbound - recommended settings / things to do?",
+        "summary": "reddit_rivian signal: New R1S inbound - recommended settings / things to do?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Average cost for an alignment at a RSC?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9x0x6/average_cost_for_an_alignment_at_a_rsc/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T16:32:54.077Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Average cost for an alignment at a RSC?",
+        "summary": "reddit_rivian signal: Average cost for an alignment at a RSC?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1 Clock on the Driver Display",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9v6l6/r1_clock_on_the_driver_display/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T15:25:07.216Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1 Clock on the Driver Display",
+        "summary": "reddit_rivian signal: R1 Clock on the Driver Display",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Dashboard cloth material question",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w9ydmt/dashboard_cloth_material_question/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-07T17:22:45.823Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Dashboard cloth material question",
+        "summary": "reddit_rivian_r2 signal: Dashboard cloth material question",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Cybercab launches to muted reception and a federal audit",
+        "url": "https://www.automotiveworld.com/analysis/cybercab-launches-to-muted-reception-and-a-federal-audit/",
+        "source": "automotive_world",
+        "publishedAt": "Mon, 07 Sep 2026 14:02:20 +0000",
+        "score": 0,
+        "snippet": "Tesla is stepping up deployment of the Cybercab, but NHTSA has launched an audit to scrutinise its self-certification. By Stewart Burnett The post <a href=\"",
+        "summary": "Tesla is stepping up deployment of the Cybercab, but NHTSA has launched an audit to scrutinise its self-certification. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@narosenblum.bsky.social (Bluesky): Reading about the new Rivian and the abandonment of EVs by the Big Three, thinki",
+        "url": "https://bsky.app/profile/did:plc:y2tqoxl4zx7iuyh3rhbhdwv3/post/3mux2olabes2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T17:43:48.764Z",
+        "score": 5,
+        "snippet": "Reading about the new Rivian and the abandonment of EVs by the Big Three, thinking about how future Noah will probably be taxed to bail them out, again, when they go bankrupt in the next 15 years, or",
+        "summary": "Reading about the new Rivian and the abandonment of EVs by the Big Three, thinking about how future Noah will probably be taxed to bail them out, again, when they go bankrupt in the next 15 years, or",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@outsidemag.bsky.social (Bluesky): With hands-free highway driving for the commute and up to 656 horsepower for the",
+        "url": "https://bsky.app/profile/did:plc:vgmf5ae6dzgoi6p5tlakpvwp/post/3muwzwdquxi2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T17:30:15.268Z",
+        "score": 0,
+        "snippet": "With hands-free highway driving for the commute and up to 656 horsepower for the trail, the new Rivian R2 blends futuristic tech with old-school dirt-road thrills.",
+        "summary": "With hands-free highway driving for the commute and up to 656 horsepower for the trail, the new Rivian R2 blends futuristic tech with old-school dirt-road thrills.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@automatka.trade (Bluesky): Rivian Automotive's $RIVN price swings up and down, above and back to support, b",
+        "url": "https://bsky.app/profile/did:plc:djo74ravtncsifeywm3qmiow/post/3muwxnrjjpk2s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T16:49:46.861Z",
+        "score": 0,
+        "snippet": "Rivian Automotive's $RIVN price swings up and down, above and back to support, but that may be considered as noise, since zooming out, its weekly moving average support cluster keeps crawling up.",
+        "summary": "Rivian Automotive's $RIVN price swings up and down, above and back to support, but that may be considered as noise, since zooming out, its weekly moving average support cluster keeps crawling up.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ianrobo.bsky.social (Bluesky): exactly that Chris, they got Rivian onboard (well paid 5bn) improved the brought",
+        "url": "https://bsky.app/profile/did:plc:rzemulqalqwar2a6dud4hk5z/post/3muwwxrkvvz2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T16:37:22.076Z",
+        "score": 1,
+        "snippet": "exactly that Chris, they got Rivian onboard (well paid 5bn) improved the brought back knobs (as so many are doing) and strangely initial demand .. when introducing new tech if an old company use brand",
+        "summary": "exactly that Chris, they got Rivian onboard (well paid 5bn) improved the brought back knobs (as so many are doing) and strangely initial demand .. when introducing new tech if an old company use brand",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@usatoday.com (Bluesky): Can the 2027 Rivian R2 beat the best EVs out there?",
+        "url": "https://bsky.app/profile/did:plc:2h5oj7dfciesiknuazc3s3mo/post/3muwuvx62fe2c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T16:00:33.974Z",
+        "score": 1,
+        "snippet": "Can the 2027 Rivian R2 beat the best EVs out there?",
+        "summary": "Can the 2027 Rivian R2 beat the best EVs out there?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@intlguy56.bsky.social (Bluesky): Muskrat, watch out!!  I think Rivian is going to eat your lunch!!!\n\nwww.nytimes.",
+        "url": "https://bsky.app/profile/did:plc:3i4lwg7xk3njbf653omehl6u/post/3muwobl7odk27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T14:01:48.056Z",
+        "score": 1,
+        "snippet": "Muskrat, watch out!! I think Rivian is going to eat your lunch!!! www.nytimes.com/2026/09/07/b...",
+        "summary": "Muskrat, watch out!! I think Rivian is going to eat your lunch!!! www.nytimes.com/2026/09/07/b...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Meta-Aktie mit Delle. VW: 100.000 Stellen weg! Rivian, Tesla. Intel in Schw\u00e4che Commerzbank",
+        "url": "https://youtube.com/watch?v=ptDet7LOfK0",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T17:34:40Z",
+        "score": 0,
+        "snippet": "Die News der Wall Street. VW, Rivian, Teslas (Cybercabs), Toyota, Meta, Intel, Deutz, Commerzbank... 00:00 Begr\u00fc\u00dfung ...",
+        "summary": "Die News der Wall Street. VW, Rivian, Teslas (Cybercabs), Toyota, Meta, Intel, Deutz, Commerzbank... 00:00 Begr\u00fc\u00dfung ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Unboxing a 1:18 Rivian R1T | Electric Truck ASMR",
+        "url": "https://youtube.com/watch?v=WxFaLDLQbf4",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T17:30:25Z",
+        "score": 0,
+        "snippet": "The Rivian R1T brought electric power to the pickup truck world. This forest-green die-cast replica gets a full satisfying unboxing ...",
+        "summary": "The Rivian R1T brought electric power to the pickup truck world. This forest-green die-cast replica gets a full satisfying unboxing ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "It\u2019s here! Big update for Rivian R1 vehicles!",
+        "url": "https://youtube.com/watch?v=__1_-wZ7hRk",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T17:14:49Z",
+        "score": 0,
+        "snippet": "Rivian OS 2 is finally released to the public and rolling out to vehicles near you! Here's a very brief quick take away and look at ...",
+        "summary": "Rivian OS 2 is finally released to the public and rolling out to vehicles near you! Here's a very brief quick take away and look at ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "R2 Color: Catalina Cove #rivian #r2 #automobile #auto",
+        "url": "https://youtube.com/watch?v=r0q9Cv47s_A",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T17:04:12Z",
+        "score": 0,
+        "snippet": "Rivian Referral Code: ERYL4150576 #rivian #rivianr1s Get Three Months Charging and Gear Shop points: Rivian Referral Code: ...",
+        "summary": "Rivian Referral Code: ERYL4150576 #rivian #rivianr1s Get Three Months Charging and Gear Shop points: Rivian Referral Code: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The 2026 Rivian R1T Adventure Pickup. #Shorts",
+        "url": "https://youtube.com/watch?v=E98uL3_dblI",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T15:00:25Z",
+        "score": 0,
+        "snippet": "\"Unleash Your Wild Side! #RivianR1T #AdventureAwaits\"",
+        "summary": "\"Unleash Your Wild Side! #RivianR1T #AdventureAwaits\"",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The $57,990 Rivian R2 Just Killed The Tesla Model Y",
+        "url": "https://youtube.com/watch?v=IZG1UomFNBo",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T14:41:56Z",
+        "score": 0,
+        "snippet": "The 2026 Rivian R2 is FINALLY here! $57990 starting - 330 miles range - 656HP - 0-60 in 3.6 seconds This is the Performance ...",
+        "summary": "The 2026 Rivian R2 is FINALLY here! $57990 starting - 330 miles range - 656HP - 0-60 in 3.6 seconds This is the Performance ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
