@@ -121364,5 +121364,426 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-07T02:02:25.526426Z",
+    "timestamp": "2026-09-07T02:02:25.526426Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 76,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "25 signals across Vehicles (22), Business (1); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 07, 2026 \u2014 2:02 AM PT \u2014 25 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 24 Rivian signals clustered around Vehicles (22), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Go, the taxi booking app operator that pulled off Japan\u2019s biggest initial public offering this year, is eyeing ways to expand domestically and across Asia, and doesn't see competitors like Uber as a t\n  https://www.bloomberg.com/news/videos/2026-09-07/japan-s-go-president-eyes-expansion-in-asia-robotaxis-video\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (22)* \u2022 reddit_rivian signal: Windshield chipped on Loaner\n  https://www.reddit.com/r/Rivian/comments/1w9eb8j/windshield_chipped_on_loaner/\n*Business (1)* \u2022 Best Stock Charting Tool (Get $15 Off): --- Everyone thought the ...\n  https://youtube.com/watch?v=F2Y9o3jlef0\n*Software (1)* \u2022 I've owned the Rivian R1T, the R1S and the Cybertruck. Two are still in the driveway. The first third of this one is the comparison ...\n  https://youtube.com/watch?v=ZUcM8I0DxTo\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Windshield chipped on Loaner",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9eb8j/windshield_chipped_on_loaner/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T01:29:54.486Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Windshield chipped on Loaner",
+        "summary": "reddit_rivian signal: Windshield chipped on Loaner",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A thank you to the full sized spare",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9dpjp/a_thank_you_to_the_full_sized_spare/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T01:00:52.528Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: A thank you to the full sized spare",
+        "summary": "reddit_rivian signal: A thank you to the full sized spare",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Common Courtesy with Loaners for Pet Owners /Rant",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9dcia/common_courtesy_with_loaners_for_pet_owners_rant/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T00:43:52.668Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Common Courtesy with Loaners for Pet Owners /Rant",
+        "summary": "reddit_rivian signal: Common Courtesy with Loaners for Pet Owners /Rant",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Auto Ride Height for R1 dual finally fixed???",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9cy65/auto_ride_height_for_r1_dual_finally_fixed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T00:25:27.287Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Auto Ride Height for R1 dual finally fixed???",
+        "summary": "reddit_rivian signal: Auto Ride Height for R1 dual finally fixed???",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "EV Play for Rivian R2 - CarPlay, Android Auto and Potentially an AM/FM Radio",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9baq2/ev_play_for_rivian_r2_carplay_android_auto_and/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T23:10:48.730Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: EV Play for Rivian R2 - CarPlay, Android Auto and Potentially an AM/FM Radio",
+        "summary": "reddit_rivian signal: EV Play for Rivian R2 - CarPlay, Android Auto and Potentially an AM/FM Radio",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "EV Play for Rivian R2 - CarPlay, Android Auto and Potentially an AM/FM Radio",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w9b9xw/ev_play_for_rivian_r2_carplay_android_auto_and/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-06T23:10:48.730Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: EV Play for Rivian R2 - CarPlay, Android Auto and Potentially an AM/FM Radio",
+        "summary": "reddit_rivian signal: EV Play for Rivian R2 - CarPlay, Android Auto and Potentially an AM/FM Radio",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Japan's Go President Eyes Expansion in Asia, Robotaxis",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-07/japan-s-go-president-eyes-expansion-in-asia-robotaxis-video",
+        "source": "bloomberg_markets",
+        "publishedAt": "Mon, 07 Sep 2026 00:02:52 GMT",
+        "score": 0,
+        "snippet": "Go, the taxi booking app operator that pulled off Japan\u2019s biggest initial public offering this year, is eyeing ways to expand domestically and across Asia, and doesn't see competitors like Uber as a t",
+        "summary": "Go, the taxi booking app operator that pulled off Japan\u2019s biggest initial public offering this year, is eyeing ways to expand domestically and across Asia, and doesn't see competitors like Uber as a t",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Loses its CFO to GE Vernova (GEV) Right in the Middle of its Biggest Bet Yet - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkRmdlJVNGRET21jTzk2WTRGYm9OWGpIeFNfQjAtb0xjTGp1NzVPaEZOQ3A3Si1aRExtd25zOXdVTTh2NUU4WHNSX2NndHJleWhuaXRQbk1KVUhETkxjUldsMk8ybGVoZDd5OWVHNTU0TF82NTZBSjZNdW45NkFZMWhhNjl2WWVvZkt0di1hZ2dLQlk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 07 Sep 2026 00:15:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Loses its CFO to GE Vernova (GEV) Right in the Middle of its Biggest Bet Yet - finance.yahoo.com",
+        "summary": "Rivian (RIVN) Loses its CFO to GE Vernova (GEV) Right in the Middle of its Biggest Bet Yet - finance.yahoo.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@fichtner.us (Bluesky): Getting my Rivian R2 in a few days. So excited.",
+        "url": "https://bsky.app/profile/did:plc:wdtwps7eyerx7aaws6o53p6m/post/3muvflhoyds2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T01:53:36.663Z",
+        "score": 0,
+        "snippet": "Getting my Rivian R2 in a few days. So excited.",
+        "summary": "Getting my Rivian R2 in a few days. So excited.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Because you\u2019ve all asked (you didn\u2019t), I\u2019ll be recording my 1-month Rivian R2 ow",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3muvfaojai22k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T01:47:39.579Z",
+        "score": 2,
+        "snippet": "Because you\u2019ve all asked (you didn\u2019t), I\u2019ll be recording my 1-month Rivian R2 ownership experience tomorrow. Besides the usual good, bad, and ugly, post any questions you may have below and I\u2019ll answe",
+        "summary": "Because you\u2019ve all asked (you didn\u2019t), I\u2019ll be recording my 1-month Rivian R2 ownership experience tomorrow. Besides the usual good, bad, and ugly, post any questions you may have below and I\u2019ll answe",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): 2 years already!?\n\nThank you @RivianRoamer on the gotcha day email for our @Rivi",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3muv6zamis22p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T23:56:04.066Z",
+        "score": 2,
+        "snippet": "2 years already!? Thank you @RivianRoamer on the gotcha day email for our @Rivian 2025 R1S dual max. So many family vacations with Sterling!",
+        "summary": "2 years already!? Thank you @RivianRoamer on the gotcha day email for our @Rivian 2025 R1S dual max. So many family vacations with Sterling!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@theaologies.bsky.social (Bluesky): I still can\u2019t believe Rivian is from Rockledge and is named after the fucking In",
+        "url": "https://bsky.app/profile/did:plc:cgaxu3u2ihvyoam6eiqsrrbv/post/3muuvzl2jv226",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T21:15:09.667Z",
+        "score": 1,
+        "snippet": "I still can\u2019t believe Rivian is from Rockledge and is named after the fucking Indian River",
+        "summary": "I still can\u2019t believe Rivian is from Rockledge and is named after the fucking Indian River",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): There's a free 3D printable Rivian R2 Cargo Floor Pull Handle now available for ",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3muusqpxdl223",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T20:16:31.770Z",
+        "score": 2,
+        "snippet": "There's a free 3D printable Rivian R2 Cargo Floor Pull Handle now available for download. Link: buff.ly/PhmRNG5",
+        "summary": "There's a free 3D printable Rivian R2 Cargo Floor Pull Handle now available for download. Link: buff.ly/PhmRNG5",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): Although I'm leaning towards this purple for when I finally get an R2\nrivian.com",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3muuljjhj7s2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T18:07:14.100Z",
+        "score": 1,
+        "snippet": "Although I'm leaning towards this purple for when I finally get an R2 rivian.com/stories/art-...",
+        "summary": "Although I'm leaning towards this purple for when I finally get an R2 rivian.com/stories/art-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): \ud83e\udd14\nrivian.com/stories/pant...",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3muuljiiwpc2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T18:07:14.071Z",
+        "score": 0,
+        "snippet": "\ud83e\udd14 rivian.com/stories/pant...",
+        "summary": "\ud83e\udd14 rivian.com/stories/pant...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3muulgb3di227",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T18:05:24.561Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3muulesg77c27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T18:04:35.166Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3muulbqaaac27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-06T18:02:52.869Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian buddy saying hi#rivian",
+        "url": "https://youtube.com/watch?v=PUMknoLtYSQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T01:43:41Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian buddy saying hi#rivian",
+        "summary": "youtube signal: Rivian buddy saying hi#rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1 vs Cybertruck: Why I Kept Two of Three and September Updates",
+        "url": "https://youtube.com/watch?v=ZUcM8I0DxTo",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T01:00:09Z",
+        "score": 0,
+        "snippet": "I've owned the Rivian R1T, the R1S and the Cybertruck. Two are still in the driveway. The first third of this one is the comparison ...",
+        "summary": "I've owned the Rivian R1T, the R1S and the Cybertruck. Two are still in the driveway. The first third of this one is the comparison ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "10 Reasons why the Rivian R2 is the perfect vehicle\u2026almost. ",
+        "url": "https://youtube.com/watch?v=EeIPnPJHaT8",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T01:00:14Z",
+        "score": 0,
+        "snippet": "Here are ten reasons why the Rivian R2 is the perfect buy in 2026. It's not the best at everything but good at all the things you ...",
+        "summary": "Here are ten reasons why the Rivian R2 is the perfect buy in 2026. It's not the best at everything but good at all the things you ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Rivian R1S were sold so this car could walk in.",
+        "url": "https://youtube.com/watch?v=9bkhdOvg7i0",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T00:54:27Z",
+        "score": 0,
+        "snippet": "The #kiatelluride is a great car if you're wondering!",
+        "summary": "The #kiatelluride is a great car if you're wondering!",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How a boring car giant destroyed Rivian&#39;s $200 \ud83e\udd2f\ud83d\udc51",
+        "url": "https://youtube.com/watch?v=F2Y9o3jlef0",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T22:59:06Z",
+        "score": 0,
+        "snippet": "Best Stock Charting Tool (Get $15 Off): --- Everyone thought the ...",
+        "summary": "Best Stock Charting Tool (Get $15 Off): --- Everyone thought the ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Why I\u2019d choose the Rivian R2 over a Tesla #rivian #teslamodely #cartech",
+        "url": "https://youtube.com/watch?v=XaSleexMvPE",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T22:45:07Z",
+        "score": 0,
+        "snippet": "In this video, I'm sharing my thoughts on why I'd choose the Rivian R2 over a Tesla, specifically the Tesla Model Y. When it comes ...",
+        "summary": "In this video, I'm sharing my thoughts on why I'd choose the Rivian R2 over a Tesla, specifically the Tesla Model Y. When it comes ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This Rivian R2 Is Not Painted",
+        "url": "https://youtube.com/watch?v=xdHsvCkHfCQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-06T22:01:42Z",
+        "score": 0,
+        "snippet": "That is not paint. Printed vinyl, laid by hand, panel after panel. Now you know what to look for. #carwrap #vinylwrap #rivian.",
+        "summary": "That is not paint. Printed vinyl, laid by hand, panel after panel. Now you know what to look for. #carwrap #vinylwrap #rivian.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
