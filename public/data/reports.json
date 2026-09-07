@@ -122486,5 +122486,394 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-07T22:02:26.538080Z",
+    "timestamp": "2026-09-07T22:02:26.538080Z",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 81,
+      "negative": 13
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "22 signals across Vehicles (16), Software (3); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 07, 2026 \u2014 10:02 PM PT \u2014 22 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Autonomy, Demo Drives.\n\u2022 *Rivian posture:* 21 Rivian signals clustered around Vehicles (16), Software (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Software, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Demo Drives:* Waymo And Zoox Robotaxi Test Drivers Left Injured From Self-Driving Cars - bgr.com\n  https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXh5akNxWjdHNTk1MTZ5b1pSOXhTbjJoX0l4dkphaGkzZ3FGRVV1QnpGcHhJbTRpd1k3NDg5RktUZ3paWUZWU0luNlYydnN6bDZSZnRuYW9oWVB4VDVLNFZwdVhmUlFTNm9qWFVFdWJZeHM5TVV3YU5EWnF2M09fdEhB?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 reddit_rivian_r2 signal: Just did a test drive in NH\n  https://www.reddit.com/r/RivianR2/comments/1wa4y3z/just_did_a_test_drive_in_nh/\n*Vehicles (16)* \u2022 reddit_rivian signal: Camping Settings\n  https://www.reddit.com/r/Rivian/comments/1wa5j5q/camping_settings/\n*Business (0)* \u2022 No signals\n*Software (3)* \u2022 Just read this honest review on switching from a Toyota 4Runner to a Rivian R2. Really helpful if you're thinking about making the EV jump like I am!\n  https://bsky.app/profile/did:plc:zxqcchvw63nn7dh6a2cwmdsi/post/3muxiyqh2ae2b\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Camping Settings",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wa5j5q/camping_settings/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T21:48:11.555Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Camping Settings",
+        "summary": "reddit_rivian signal: Camping Settings",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Captain R1S coming quick",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wa5hg9/2027_captain_r1s_coming_quick/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T21:46:18.973Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 2027 Captain R1S coming quick",
+        "summary": "reddit_rivian signal: 2027 Captain R1S coming quick",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Power tonneau cover broken",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wa4sqv/power_tonneau_cover_broken/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T21:18:51.423Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Power tonneau cover broken",
+        "summary": "reddit_rivian signal: Power tonneau cover broken",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Advice from Florida (Orlando) or Hot Climate Rivian Owners?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wa21w8/advice_from_florida_orlando_or_hot_climate_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T19:35:06.111Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Advice from Florida (Orlando) or Hot Climate Rivian Owners?",
+        "summary": "reddit_rivian signal: Advice from Florida (Orlando) or Hot Climate Rivian Owners?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Windshield Wiper Fluid Issue",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wa10ux/windshield_wiper_fluid_issue/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T18:57:51.184Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Windshield Wiper Fluid Issue",
+        "summary": "reddit_rivian signal: Windshield Wiper Fluid Issue",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian vs Lucid",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wa0tyc/rivian_vs_lucid/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T18:50:59.766Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian vs Lucid",
+        "summary": "reddit_rivian signal: Rivian vs Lucid",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Welcome me brothers (and sisters). I will soon be one of you.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wa0me4/welcome_me_brothers_and_sisters_i_will_soon_be/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T18:43:25.960Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Welcome me brothers (and sisters). I will soon be one of you.",
+        "summary": "reddit_rivian signal: Welcome me brothers (and sisters). I will soon be one of you.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Just did a test drive in NH",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wa4y3z/just_did_a_test_drive_in_nh/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-07T21:24:52.349Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Just did a test drive in NH",
+        "summary": "reddit_rivian_r2 signal: Just did a test drive in NH",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Finally got demo drive in NC",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wa0ksq/finally_got_demo_drive_in_nc/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-07T18:41:48.005Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Finally got demo drive in NC",
+        "summary": "reddit_rivian_r2 signal: Finally got demo drive in NC",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "The 2027 Rivian R2 compact electric SUV is on sale now. - The Lufkin Daily News",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVEJUc1hKWGtZS1RaUWFOTm9JdXEtcG5NX2J3NWRWSFNzbUw3dVpzSFRVdHh6N1FXQzY0cEkyUkx4eTlFWG5udTV1aVVKbW1oQXJQYWFIMjNLUWM2NFdVMWpJRmxLODRJeHcyalZwY3VGdXhJamNVenFYMlJFMDBjcmFkS0E5SXdPUDRhRmhPTlBPcUVHSl9NNmtJVmd6ZlFxTjBic2JoQzc4d3Z5aWllY0o3NU5oUXBOREtxRkI4c0tTVi1OeU1xQWNJclJvS0VwY0R3NWNRMF81M0hndzhfbHBRNUFhckE?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 07 Sep 2026 19:17:49 GMT",
+        "score": 0,
+        "snippet": "The 2027 Rivian R2 compact electric SUV is on sale now. - The Lufkin Daily News",
+        "summary": "The 2027 Rivian R2 compact electric SUV is on sale now. - The Lufkin Daily News",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo And Zoox Robotaxi Test Drivers Left Injured From Self-Driving Cars - bgr.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXh5akNxWjdHNTk1MTZ5b1pSOXhTbjJoX0l4dkphaGkzZ3FGRVV1QnpGcHhJbTRpd1k3NDg5RktUZ3paWUZWU0luNlYydnN6bDZSZnRuYW9oWVB4VDVLNFZwdVhmUlFTNm9qWFVFdWJZeHM5TVV3YU5EWnF2M09fdEhB?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 07 Sep 2026 20:47:00 GMT",
+        "score": 0,
+        "snippet": "Waymo And Zoox Robotaxi Test Drivers Left Injured From Self-Driving Cars - bgr.com",
+        "summary": "Waymo And Zoox Robotaxi Test Drivers Left Injured From Self-Driving Cars - bgr.com",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives",
+          "Autonomy",
+          "Software"
+        ]
+      },
+      {
+        "title": "@michifinds.bsky.social (Bluesky): Just read this honest review on switching from a Toyota 4Runner to a Rivian R2. ",
+        "url": "https://bsky.app/profile/did:plc:zxqcchvw63nn7dh6a2cwmdsi/post/3muxiyqh2ae2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T22:00:02.367Z",
+        "score": 0,
+        "snippet": "Just read this honest review on switching from a Toyota 4Runner to a Rivian R2. Really helpful if you're thinking about making the EV jump like I am!",
+        "summary": "Just read this honest review on switching from a Toyota 4Runner to a Rivian R2. Really helpful if you're thinking about making the EV jump like I am!",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Software",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian Rolls Out RivianOS 2 to All R1 Vehicles in Major 2026.31 Update",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3muxbszyhse2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T19:51:34.857Z",
+        "score": 0,
+        "snippet": "Rivian Rolls Out RivianOS 2 to All R1 Vehicles in Major 2026.31 Update",
+        "summary": "Rivian Rolls Out RivianOS 2 to All R1 Vehicles in Major 2026.31 Update",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@lieven.bsky.social (Bluesky): Looks like Nike meets Rivian to me",
+        "url": "https://bsky.app/profile/did:plc:kext2gfu7ci5spkbovgj3v4m/post/3muxbhrhuds2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T19:45:14.461Z",
+        "score": 1,
+        "snippet": "Looks like Nike meets Rivian to me",
+        "summary": "Looks like Nike meets Rivian to me",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@fpatrick.bsky.social (Bluesky): Except from Stellantis, Ford, and GM...dragging their feet. They're main hope is",
+        "url": "https://bsky.app/profile/did:plc:xtuvaua64tx2tcigdqxm6fqm/post/3muxaqoakmk2s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T19:32:21.664Z",
+        "score": 0,
+        "snippet": "Except from Stellantis, Ford, and GM...dragging their feet. They're main hope is the next two years of Trump's protection. Tesla, Rivian, and Lucid will keep our country in the game. Maybe.",
+        "summary": "Except from Stellantis, Ford, and GM...dragging their feet. They're main hope is the next two years of Trump's protection. Tesla, Rivian, and Lucid will keep our country in the game. Maybe.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Skip the waiting list with this high-specification Rivian R2.",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mux6xkeayf2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T19:00:25.061Z",
+        "score": 0,
+        "snippet": "Skip the waiting list with this high-specification Rivian R2.",
+        "summary": "Skip the waiting list with this high-specification Rivian R2.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@1gregtodd.bsky.social (Bluesky): A Tidier Rivian (in Size and Price) Is Ready for the Suburbs \n\nRivian, after fou",
+        "url": "https://bsky.app/profile/did:plc:iohbateayghxus42enyazewi/post/3mux6opm2ps2s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T18:55:29.558Z",
+        "score": 0,
+        "snippet": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs Rivian, after four years selling its R1S, a hulking three-row electric S.U.V. that easily reaches six-figure prices, is making the leap i",
+        "summary": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs Rivian, after four years selling its R1S, a hulking three-row electric S.U.V. that easily reaches six-figure prices, is making the leap i",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Software 2026.31.40 Walk Through, Is HVAC finally dialed in?",
+        "url": "https://youtube.com/watch?v=nh9F-WpFpK8",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T21:30:13Z",
+        "score": 0,
+        "snippet": "Here is my Full walk through of Rivian Software update 2026.31.40. This is more of a polish update. brought a few new features ...",
+        "summary": "Here is my Full walk through of Rivian Software update 2026.31.40. This is more of a polish update. brought a few new features ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 Review \u2013 The New Electric SUV to Watch!",
+        "url": "https://youtube.com/watch?v=kU9pJ7bNOic",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T21:24:58Z",
+        "score": 0,
+        "snippet": "2026 Rivian R2 Review \u2013 The New Electric SUV to Watch! The 2026 Rivian R2 is a bold new electric SUV with a sleek design, ...",
+        "summary": "2026 Rivian R2 Review \u2013 The New Electric SUV to Watch! The 2026 Rivian R2 is a bold new electric SUV with a sleek design, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T tonneau cover issue",
+        "url": "https://youtube.com/watch?v=twa0LYlHxZI",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T20:31:08Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian R1T tonneau cover issue",
+        "summary": "youtube signal: Rivian R1T tonneau cover issue",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "No power tonneau cover? Congrats on owning the Rivian nobody wants. #Rivian #RivianR1T #cartok",
+        "url": "https://youtube.com/watch?v=KB4KM3CXnBI",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T20:04:21Z",
+        "score": 0,
+        "snippet": "No power tonneau cover? Congrats on owning the Rivian nobody wants. #AutoBay #Rivian #RivianR1T #cartok #electriccars.",
+        "summary": "No power tonneau cover? Congrats on owning the Rivian nobody wants. #AutoBay #Rivian #RivianR1T #cartok #electriccars.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T \u26a1\ud83d\udefb | 1,025 HP Electric Truck in GTA 5!",
+        "url": "https://youtube.com/watch?v=VzfAFXDi5yU",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T18:36:43Z",
+        "score": 0,
+        "snippet": "The Rivian R1T is one of the most impressive electric pickups in the USA. With quad-motor versions producing up to around 1025 ...",
+        "summary": "The Rivian R1T is one of the most impressive electric pickups in the USA. With quad-motor versions producing up to around 1025 ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
