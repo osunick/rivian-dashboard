@@ -121785,5 +121785,370 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-07T14:01:41.374379Z",
+    "timestamp": "2026-09-07T14:01:41.374379Z",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 80,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "nytimes_business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 3,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 14,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (14), Demo & Test Drives (2); watch Vehicle Demand, Demo Drives",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 07, 2026 \u2014 2:01 PM PT \u2014 20 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (14), Demo & Test Drives (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Demo Drives, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* This Shorts visualizes the latest EV maker buzz rankings (Sept 2025 \u2013 Aug 2026) from World Bank data. Tesla leads with 208824 ...\n  https://youtube.com/watch?v=uuT-_N_VIEY\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 reddit_rivian_r2 signal: Test drive of the Volvo EX60 and Rivian R2 back to back.\n  https://www.reddit.com/r/RivianR2/comments/1w9fy1f/test_drive_of_the_volvo_ex60_and_rivian_r2_back/\n*Vehicles (14)* \u2022 reddit_rivian signal: SOS button - what does it actually do and what\u2019s the criteria to use it?\n  https://www.reddit.com/r/Rivian/comments/1w9j3tf/sos_button_what_does_it_actually_do_and_whats_the/\n*Business (1)* \u2022 So basically your argument is SOME Chinese EV start ups are unprofitable. Cool. So is Rivian and Lucid.\n  https://bsky.app/profile/did:plc:lfge6toxaqfv4iwq7exbjapo/post/3muvz7mbva22g\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 bluesky signal: @anotherchillguy.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:yifqjfxwxpoqld3j72eucgym/post/3muwlkh4nkc2x\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "SOS button - what does it actually do and what\u2019s the criteria to use it?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9j3tf/sos_button_what_does_it_actually_do_and_whats_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T05:28:02.608Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: SOS button - what does it actually do and what\u2019s the criteria to use it?",
+        "summary": "reddit_rivian signal: SOS button - what does it actually do and what\u2019s the criteria to use it?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Where to sell R1S Gear?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1w9ft7u/where_to_sell_r1s_gear/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-07T02:42:31.981Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Where to sell R1S Gear?",
+        "summary": "reddit_rivian signal: Where to sell R1S Gear?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Test drive of the Volvo EX60 and Rivian R2 back to back.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w9fy1f/test_drive_of_the_volvo_ex60_and_rivian_r2_back/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-07T02:48:15.127Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test drive of the Volvo EX60 and Rivian R2 back to back.",
+        "summary": "reddit_rivian_r2 signal: Test drive of the Volvo EX60 and Rivian R2 back to back.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Test drive of the Volvo EX60 and Rivian R2 back to back.",
+        "url": "https://www.reddit.com/r/VolvoEX60/comments/1w9fxcp/test_drive_of_the_volvo_ex60_and_rivian_r2_back/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-07T02:48:15.127Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test drive of the Volvo EX60 and Rivian R2 back to back.",
+        "summary": "reddit_rivian_r2 signal: Test drive of the Volvo EX60 and Rivian R2 back to back.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rideflux, an autonomous AI software technology company, announced on the 7th that it has signed a memorandum of understanding (MOU) with commercial vehicle manufacturer Tata Daewoo to \"cooperate with ",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1w9iy77/rideflux_an_autonomous_ai_software_technology/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-09-07T05:19:48.151Z",
+        "score": 0,
+        "snippet": "reddit_selfdrivingcars signal: Rideflux, an autonomous AI software technology company, announced on the 7th that it has signed a memorandum of understanding (MOU) with commercial vehicle manufacturer ",
+        "summary": "reddit_selfdrivingcars signal: Rideflux, an autonomous AI software technology company, announced on the 7th that it has signed a memorandum of understanding (MOU) with commercial vehicle manufacturer ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
+        "url": "https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html",
+        "source": "nytimes_business",
+        "publishedAt": "Mon, 07 Sep 2026 09:03:29 +0000",
+        "score": 0,
+        "snippet": "The electric automaker\u2019s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind.",
+        "summary": "The electric automaker\u2019s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "ByteDance Founder Joins AI Elite in Race to Perfect World Models",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
+        "source": "bloomberg_tech",
+        "publishedAt": "Mon, 07 Sep 2026 12:25:45 GMT",
+        "score": 0,
+        "snippet": "ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc. in an arena with applications in robotics and autonomous systems.",
+        "summary": "ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc. in an arena with applications in robotics and autonomous systems.",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90U3ZVakJfZnlwU3R6QklZeGpaRE5uY1BydU02U2Z3eEtJWGFoeG03T1FCdWpqQ0RLQktvZDJSR0h5Y1FReTlaNFhHM3lYaTVadTg3NWRQMDVRTVdld1YxRGN1bmpEY2VuRHBiU0pIelpWenc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 07 Sep 2026 09:03:29 GMT",
+        "score": 0,
+        "snippet": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs - The New York Times",
+        "summary": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs - The New York Times",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ckcpottery.bsky.social (Bluesky): A Tidier Rivian (in Size and Price) Is Ready for the Suburbs. Or check out a Hyu",
+        "url": "https://bsky.app/profile/did:plc:dpz55vkkusy6pq2nn5sr2cfd/post/3muwmwpje6c2m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T13:37:50.461Z",
+        "score": 2,
+        "snippet": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs. Or check out a Hyundai Kona. Comfortable, cheaper than Rivian, responsive.",
+        "summary": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs. Or check out a Hyundai Kona. Comfortable, cheaper than Rivian, responsive.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@anotherchillguy.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:yifqjfxwxpoqld3j72eucgym/post/3muwlkh4nkc2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T13:13:05.874Z",
+        "score": 0,
+        "snippet": "bluesky signal: @anotherchillguy.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @anotherchillguy.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): A quad-motor 2024 Rivian R1S Adventure with 835 horsepower, measured against a d",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3muwcyy5jxb2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T10:40:07.858Z",
+        "score": 0,
+        "snippet": "A quad-motor 2024 Rivian R1S Adventure with 835 horsepower, measured against a depreciated EV market.",
+        "summary": "A quad-motor 2024 Rivian R1S Adventure with 835 horsepower, measured against a depreciated EV market.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@znouza.bsky.social (Bluesky): hele - treba v rivianu se mi to ale libilo. Ale spis proto, ze ty vydechy fyzick",
+        "url": "https://bsky.app/profile/did:plc:dc6ij3xmllfuisttrvt3kuyc/post/3muwcnuxkjc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T10:33:56.663Z",
+        "score": 0,
+        "snippet": "hele - treba v rivianu se mi to ale libilo. Ale spis proto, ze ty vydechy fyzicky spis nevidis a hlavne si muzes nastavit ruzny profily na klima a pak je jen prepinas. youtu.be/MAqFUXVCuBU?... docela",
+        "summary": "hele - treba v rivianu se mi to ale libilo. Ale spis proto, ze ty vydechy fyzicky spis nevidis a hlavne si muzes nastavit ruzny profily na klima a pak je jen prepinas. youtu.be/MAqFUXVCuBU?... docela",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@umlegacypress.com (Bluesky): Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the\u00a0Suburbs\n\nThe",
+        "url": "https://bsky.app/profile/did:plc:uf6566ur4zv2h7yl4les2ygh/post/3muwbm4hlyp2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T10:15:03.858Z",
+        "score": 0,
+        "snippet": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs The electric automaker\u2019s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mas",
+        "summary": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs The electric automaker\u2019s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mas",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@headline-feed.bsky.social (Bluesky): [NYT] RIVIAN R2 REVIEW: A TIDIER (IN SIZE AND PRICE) SUV IS READY FOR THE SUBURB",
+        "url": "https://bsky.app/profile/did:plc:642zd52d36yxdwshde6edydk/post/3muwbdi2ezb2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T10:10:12.556Z",
+        "score": 0,
+        "snippet": "[NYT] RIVIAN R2 REVIEW: A TIDIER (IN SIZE AND PRICE) SUV IS READY FOR THE SUBURBS",
+        "summary": "[NYT] RIVIAN R2 REVIEW: A TIDIER (IN SIZE AND PRICE) SUV IS READY FOR THE SUBURBS",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@toppnews.bsky.social (Bluesky): \n#Mass   #review   #Rivian\n\ud83c\udf10 www.newsmart.ch",
+        "url": "https://bsky.app/profile/did:plc:mhqnbglrgmwiuz3kgexbi7uf/post/3muw7gtal5p2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T09:36:18.060Z",
+        "score": 0,
+        "snippet": "#Mass #review #Rivian \ud83c\udf10 www.newsmart.ch",
+        "summary": "#Mass #review #Rivian \ud83c\udf10 www.newsmart.ch",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): ICYMI: The 10 best luxury trucks you can buy in 2026, ranked: From a Ram 1500 wi",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3muw6ncuvrx23",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T09:22:02.259Z",
+        "score": 0,
+        "snippet": "ICYMI: The 10 best luxury trucks you can buy in 2026, ranked: From a Ram 1500 with air suspension to a Rivian R1T with an interior rivaling German luxury, the best luxury trucks of 2026",
+        "summary": "ICYMI: The 10 best luxury trucks you can buy in 2026, ranked: From a Ram 1500 with air suspension to a Rivian R1T with an interior rivaling German luxury, the best luxury trucks of 2026",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@the-oc.bsky.social (Bluesky): So basically your argument is SOME Chinese EV start ups are unprofitable.\n\nCool.",
+        "url": "https://bsky.app/profile/did:plc:lfge6toxaqfv4iwq7exbjapo/post/3muvz7mbva22g",
+        "source": "bluesky",
+        "publishedAt": "2026-09-07T07:44:55.457Z",
+        "score": 2,
+        "snippet": "So basically your argument is SOME Chinese EV start ups are unprofitable. Cool. So is Rivian and Lucid.",
+        "summary": "So basically your argument is SOME Chinese EV start ups are unprofitable. Cool. So is Rivian and Lucid.",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "2027 Rivian R1T Review: The Ultimate Electric Adventure Truck?",
+        "url": "https://youtube.com/watch?v=0Ve75Dxv8mc",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T12:00:13Z",
+        "score": 0,
+        "snippet": "Get ready for an in-depth look at the 2027 Rivian R1T, one of the most exciting all-electric pickup trucks built for adventure.",
+        "summary": "Get ready for an in-depth look at the 2027 Rivian R1T, one of the most exciting all-electric pickup trucks built for adventure.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Best \ud83e\ude75\ud83d\ude98",
+        "url": "https://youtube.com/watch?v=NjqpBYDCZ78",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T10:28:06Z",
+        "score": 0,
+        "snippet": "Meet the Rivian R2 \u26a1 \u2014 a bold and futuristic electric SUV built for adventure. With its modern design, powerful performance, ...",
+        "summary": "Meet the Rivian R2 \u26a1 \u2014 a bold and futuristic electric SUV built for adventure. With its modern design, powerful performance, ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Who Leads EV Buzz? Tesla Still on Top (2026-08)",
+        "url": "https://youtube.com/watch?v=uuT-_N_VIEY",
+        "source": "youtube",
+        "publishedAt": "2026-09-07T08:04:56Z",
+        "score": 0,
+        "snippet": "This Shorts visualizes the latest EV maker buzz rankings (Sept 2025 \u2013 Aug 2026) from World Bank data. Tesla leads with 208824 ...",
+        "summary": "This Shorts visualizes the latest EV maker buzz rankings (Sept 2025 \u2013 Aug 2026) from World Bank data. Tesla leads with 208824 ...",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      }
+    ]
   }
 ]
