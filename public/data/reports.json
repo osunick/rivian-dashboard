@@ -122875,5 +122875,356 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-08T14:02:28.322662Z",
+    "timestamp": "2026-09-08T14:02:28.322662Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 80,
+      "negative": 20
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "nytimes_business": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (15), Competitive (3); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 08, 2026 \u2014 2:02 PM PT \u2014 20 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 17 Rivian signals clustered around Vehicles (15), Business (1).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 4 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* The latest batch of yacht-like vessels sailing in Europe, the Caribbean and beyond offer personalized experiences, great food and spacious suites.\n  https://www.nytimes.com/2026/09/08/travel/new-luxury-cruise-ships.html\n\u2022 *Competitive Threats:* BYD\u2019s ambitious 2027 target hinges less on demand and more on scaling overseas factories, shipping and logistics. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/byd-raises-2026-target-to-2-million-sets-2-5-million-for-2027/\n\u2022 *Competitive Threats:* Elon Musk Says \u2018Pretty Much\u2019 After Meme Mocks Waymo\u2019s Sensor-Packed Robotaxi, as Self-Driving Rivalry Heats Up - Benzinga\n  https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWt4Tnh1VTFYVDk0TUY5Wkh0aXhtZTZSdHdzeDc1cFhQM2VJSy1WQW5CVWlOVHh3cnpTZW0xMFd2cmZ1d0E2a2RDLXQ0N2ljdTY2djVCbDFuS19nQUFUcXc0M3o4WXFINWdIQ1AxQlNwVG9fM3J4cENGWEFSY0FLOHR5OVFrakd2Q2UwSF9wcFBkNEtWVHpBOTJEUW5NQ21sblZDSHJHMDVBRF9Oakg3Z3ZvYU1nSlpLUGtZQlN0Q3ZoSEF4OTdTbklISkJ0MmxNNWJTakExZ1h4VEd4ZWdUYjRoSXBUenJ2dmJveFRmRFg?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 reddit_rivian signal: I want to buy this so badly\n  https://www.reddit.com/r/Rivian/comments/1waohws/i_want_to_buy_this_so_badly/\n*Business (1)* \u2022 Join this channel to get access to perks: Disclaimer This is ...\n  https://youtube.com/watch?v=44yLrTEeTYo\n*Software (1)* \u2022 Rivian has officially begun rolling out software update 2026.31, bringing RivianOS 2 to all R1T, R1S, and R2 models. This major ...\n  https://youtube.com/watch?v=9iWq2jaWo7I\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "I want to buy this so badly",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waohws/i_want_to_buy_this_so_badly/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T13:31:17.569Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: I want to buy this so badly",
+        "summary": "reddit_rivian signal: I want to buy this so badly",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Maisto R1T 1:18 hidden compartment",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wao4mz/maisto_r1t_118_hidden_compartment/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T13:15:48.243Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Maisto R1T 1:18 hidden compartment",
+        "summary": "reddit_rivian signal: Maisto R1T 1:18 hidden compartment",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Move with Rivian to Canada - Warranty Voided?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wanhwy/move_with_rivian_to_canada_warranty_voided/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T12:48:43.330Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Move with Rivian to Canada - Warranty Voided?",
+        "summary": "reddit_rivian signal: Move with Rivian to Canada - Warranty Voided?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Took the Magic Schoolbus out to Yosemite",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wab397/took_the_magic_schoolbus_out_to_yosemite/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T01:51:24.108Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Took the Magic Schoolbus out to Yosemite",
+        "summary": "reddit_rivian signal: Took the Magic Schoolbus out to Yosemite",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Where to get tires mounted",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waanpg/where_to_get_tires_mounted/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T01:31:45.234Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Where to get tires mounted",
+        "summary": "reddit_rivian signal: Where to get tires mounted",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Delivery payment warning",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waa7t9/delivery_payment_warning/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T01:11:09.957Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Delivery payment warning",
+        "summary": "reddit_rivian signal: Delivery payment warning",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1T Deal: Take or Run?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waa73y/r1t_deal_take_or_run/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T01:10:16.119Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1T Deal: Take or Run?",
+        "summary": "reddit_rivian signal: R1T Deal: Take or Run?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "No Luxury Spared: New High-End Cruise Ships Set Sail",
+        "url": "https://www.nytimes.com/2026/09/08/travel/new-luxury-cruise-ships.html",
+        "source": "nytimes_business",
+        "publishedAt": "Tue, 08 Sep 2026 12:06:30 +0000",
+        "score": 0,
+        "snippet": "The latest batch of yacht-like vessels sailing in Europe, the Caribbean and beyond offer personalized experiences, great food and spacious suites.",
+        "summary": "The latest batch of yacht-like vessels sailing in Europe, the Caribbean and beyond offer personalized experiences, great food and spacious suites.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD sets 2.5 million export target for 2027",
+        "url": "https://www.automotiveworld.com/news/byd-raises-2026-target-to-2-million-sets-2-5-million-for-2027/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 08 Sep 2026 12:35:25 +0000",
+        "score": 0,
+        "snippet": "BYD\u2019s ambitious 2027 target hinges less on demand and more on scaling overseas factories, shipping and logistics. By Stewart Burnett The post <a href=\"",
+        "summary": "BYD\u2019s ambitious 2027 target hinges less on demand and more on scaling overseas factories, shipping and logistics. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Elon Musk Says \u2018Pretty Much\u2019 After Meme Mocks Waymo\u2019s Sensor-Packed Robotaxi, as Self-Driving Rivalry Heats Up - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWt4Tnh1VTFYVDk0TUY5Wkh0aXhtZTZSdHdzeDc1cFhQM2VJSy1WQW5CVWlOVHh3cnpTZW0xMFd2cmZ1d0E2a2RDLXQ0N2ljdTY2djVCbDFuS19nQUFUcXc0M3o4WXFINWdIQ1AxQlNwVG9fM3J4cENGWEFSY0FLOHR5OVFrakd2Q2UwSF9wcFBkNEtWVHpBOTJEUW5NQ21sblZDSHJHMDVBRF9Oakg3Z3ZvYU1nSlpLUGtZQlN0Q3ZoSEF4OTdTbklISkJ0MmxNNWJTakExZ1h4VEd4ZWdUYjRoSXBUenJ2dmJveFRmRFg?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 08 Sep 2026 09:35:19 GMT",
+        "score": 0,
+        "snippet": "Elon Musk Says \u2018Pretty Much\u2019 After Meme Mocks Waymo\u2019s Sensor-Packed Robotaxi, as Self-Driving Rivalry Heats Up - Benzinga",
+        "summary": "Elon Musk Says \u2018Pretty Much\u2019 After Meme Mocks Waymo\u2019s Sensor-Packed Robotaxi, as Self-Driving Rivalry Heats Up - Benzinga",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "2023 Rivian R1T Adventure - Gray!",
+        "url": "https://youtube.com/watch?v=oXI6euqI-Vw",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T13:57:08Z",
+        "score": 0,
+        "snippet": "2023 Rivian R1T Adventure - Gray! USED: $65350.00.",
+        "summary": "2023 Rivian R1T Adventure - Gray! USED: $65350.00.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Loose/shaking steering wheel issues repair.",
+        "url": "https://youtube.com/watch?v=EOrEG-Gfg5c",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T13:17:16Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian Loose/shaking steering wheel issues repair.",
+        "summary": "youtube signal: Rivian Loose/shaking steering wheel issues repair.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Inside Rivian&#39;s Outdoorsy, Reliable Fast-Charging Network with AJ Hatzis",
+        "url": "https://youtube.com/watch?v=BDhWd2E8lD0",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T13:13:27Z",
+        "score": 0,
+        "snippet": "Rivian is on a tear in 2026 with their affordable R2 SUV earning accolades and maxing out their American production capacity.",
+        "summary": "Rivian is on a tear in 2026 with their affordable R2 SUV earning accolades and maxing out their American production capacity.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RivianOS 2 Unifies R1 and R2 Vehicles On One Stack! \ud83d\ude80 #rivian #softwareengineering #devtools #tech",
+        "url": "https://youtube.com/watch?v=9iWq2jaWo7I",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T13:00:04Z",
+        "score": 0,
+        "snippet": "Rivian has officially begun rolling out software update 2026.31, bringing RivianOS 2 to all R1T, R1S, and R2 models. This major ...",
+        "summary": "Rivian has officially begun rolling out software update 2026.31, bringing RivianOS 2 to all R1T, R1S, and R2 models. This major ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "2027 Rivian R1S Finally Gets What Families Have Been Asking For!",
+        "url": "https://youtube.com/watch?v=HpfqeKwjDD4",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T12:22:31Z",
+        "score": 0,
+        "snippet": "rivian #r1s #rivianr1s #Rivian2027 #electricsuv #EV #electriccars #suv #ev2027 #RivianR1S2027.",
+        "summary": "rivian #r1s #rivianr1s #Rivian2027 #electricsuv #EV #electriccars #suv #ev2027 #RivianR1S2027.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "BCAP Crash &amp; Safety Tests of Rivian R1",
+        "url": "https://youtube.com/watch?v=ZgB57Wne3zQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T12:06:45Z",
+        "score": 0,
+        "snippet": "BCAP performs a series of crash and safety tests on car models: \u25b7 a frontal impact test where 30% of the width of the car strikes ...",
+        "summary": "BCAP performs a series of crash and safety tests on car models: \u25b7 a frontal impact test where 30% of the width of the car strikes ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian EDV Amazon Delivery Van with loose shaking steering wheel, how to fix?",
+        "url": "https://youtube.com/watch?v=yVN7QJ9SmW8",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T11:57:32Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian EDV Amazon Delivery Van with loose shaking steering wheel, how to fix?",
+        "summary": "youtube signal: Rivian EDV Amazon Delivery Van with loose shaking steering wheel, how to fix?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Stock: Is the $45,000 R2 About to Change Everything??\ud83d\ude31 #rivianstock #rivn #nasdaq",
+        "url": "https://youtube.com/watch?v=44yLrTEeTYo",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T11:39:59Z",
+        "score": 0,
+        "snippet": "Join this channel to get access to perks: Disclaimer This is ...",
+        "summary": "Join this channel to get access to perks: Disclaimer This is ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Mercedes and Rivian",
+        "url": "https://youtube.com/watch?v=WSGVvYQDrv8",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T10:27:15Z",
+        "score": 0,
+        "snippet": "youtube signal: Mercedes and Rivian",
+        "summary": "youtube signal: Mercedes and Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Old Craftsman Builds a FULL-SIZE Wooden Rivian R2 \ud83d\ude31\ud83d\udd25#shorts",
+        "url": "https://youtube.com/watch?v=8nz3tyKSkcQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T07:08:16Z",
+        "score": 0,
+        "snippet": "They laughed when the old craftsman started building a Rivian R2 from wood\u2026 but the final result shocked everyone!",
+        "summary": "They laughed when the old craftsman started building a Rivian R2 from wood\u2026 but the final result shocked everyone!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
