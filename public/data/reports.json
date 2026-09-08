@@ -123226,5 +123226,542 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-08T18:02:27.388827Z",
+    "timestamp": "2026-09-08T18:02:27.388827Z",
+    "sentiment": {
+      "positive": 18,
+      "neutral": 75,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 23,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 6,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Community Signals",
+      "R2 Launch",
+      "RIVN Stock",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "33 signals across Vehicles (23), Software (6); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 08, 2026 \u2014 6:02 PM PT \u2014 33 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 33 Rivian signals clustered around Vehicles (23), Software (6).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Software, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (2)* \u2022 Rivian chases full self-driving vision Rivian's Autonomy+ system, reported to provide point-to-point self-driving in the US/Canada, debuts on the R2 by late 2026 for $49.99/month.\n  https://bsky.app/profile/did:plc:lt5wownz67tnarqhdgr7vhcm/post/3muzh6h67wc2r\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (23)* \u2022 reddit_rivian signal: Kings Canyon and Sequoia NP Adventures\n  https://www.reddit.com/r/Rivian/comments/1wauvwc/kings_canyon_and_sequoia_np_adventures/\n*Business (1)* \u2022 Rivian has rolled out RivianOS 2 to R1 vehicles, putting R1 and R2 on a common software direction. The investor question is ...\n  https://youtube.com/watch?v=y5Jqd6NDT5o\n*Software (6)* \u2022 How Rivian's (NASDAQ:RIVN) Newest Update Reshapes the Owner Experience - Kalkine Media\n  https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGRsU2VaUmJUcEJtM3BZOTFZRDQ3YlRQelN0TXJEV2hRbjN1azU5Y2xVRnoxUWdvay0tc0JZbkI1WTFaRVJFZ1h5R3FBcDBEMGJmRndYZXBkSElUVEp1bVU5enpMOHFRNWlBalNVSVBpZl9HTU1GUFFvTVhHTTltZnJGMWQtUW80NkNmeXVMcE1ua2d1eloyTDJMLVhHcFVWT08zZXRKLXk0VUxyVlNaMFpn?oc=5\n*Community (1)* \u2022 bluesky signal: @spectrum.ieee.org.web.brid.gy (Bluesky):\n  https://bsky.app/profile/did:plc:k5pd62odhosxknrvmwrqfjn6/post/3muz45hboxxy2\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Community Signals\n\u2022 R2 Launch\n\u2022 RIVN Stock\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Kings Canyon and Sequoia NP Adventures",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wauvwc/kings_canyon_and_sequoia_np_adventures/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T17:25:48.821Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Kings Canyon and Sequoia NP Adventures",
+        "summary": "reddit_rivian signal: Kings Canyon and Sequoia NP Adventures",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026.31 R1 G2 Rollout",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wata51/202631_r1_g2_rollout/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T16:29:20.622Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 2026.31 R1 G2 Rollout",
+        "summary": "reddit_rivian signal: 2026.31 R1 G2 Rollout",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "LTE unstable on my (OS1) 2023 R1T since OS2 rollout began",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wasjzu/lte_unstable_on_my_os1_2023_r1t_since_os2_rollout/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T16:03:14.176Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: LTE unstable on my (OS1) 2023 R1T since OS2 rollout began",
+        "summary": "reddit_rivian signal: LTE unstable on my (OS1) 2023 R1T since OS2 rollout began",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "EV Play Launches For R2 \u2014 CarPlay, Android Auto, Google Play Store, HDMI & More \ud83d\udcf2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waruf7/ev_play_launches_for_r2_carplay_android_auto/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T15:37:31.646Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: EV Play Launches For R2 \u2014 CarPlay, Android Auto, Google Play Store, HDMI & More \ud83d\udcf2",
+        "summary": "reddit_rivian signal: EV Play Launches For R2 \u2014 CarPlay, Android Auto, Google Play Store, HDMI & More \ud83d\udcf2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rear glass replacement taking over a month. Is this normal? Any alternatives?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waru41/rear_glass_replacement_taking_over_a_month_is/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T15:37:12.328Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rear glass replacement taking over a month. Is this normal? Any alternatives?",
+        "summary": "reddit_rivian signal: Rear glass replacement taking over a month. Is this normal? Any alternatives?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tire Service Settings Help",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waqvbd/tire_service_settings_help/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T15:01:54.950Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Tire Service Settings Help",
+        "summary": "reddit_rivian signal: Tire Service Settings Help",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian through Carvana",
+        "url": "https://www.reddit.com/r/Rivian/comments/1waq973/rivian_through_carvana/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-08T14:39:39.557Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian through Carvana",
+        "summary": "reddit_rivian signal: Rivian through Carvana",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Invitation to order! 7 days since reservation!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wave2q/invitation_to_order_7_days_since_reservation/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-08T17:43:31.012Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Invitation to order! 7 days since reservation!",
+        "summary": "reddit_rivian_r2 signal: Invitation to order! 7 days since reservation!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "White on White order is in! Multiple EV houshold",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wau6v6/white_on_white_order_is_in_multiple_ev_houshold/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-08T17:01:43.407Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: White on White order is in! Multiple EV houshold",
+        "summary": "reddit_rivian_r2 signal: White on White order is in! Multiple EV houshold",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Invite coming soon",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1was2m0/invite_coming_soon/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-08T15:46:01.256Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Invite coming soon",
+        "summary": "reddit_rivian_r2 signal: Invite coming soon",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Invite coming soon...",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1waruan/invite_coming_soon/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-08T15:37:24.588Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Invite coming soon...",
+        "summary": "reddit_rivian_r2 signal: Invite coming soon...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "At Last! I've Placed My Order!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1waqbwg/at_last_ive_placed_my_order/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-08T14:42:22.496Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: At Last! I've Placed My Order!",
+        "summary": "reddit_rivian_r2 signal: At Last! I've Placed My Order!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How Rivian's (NASDAQ:RIVN) Newest Update Reshapes the Owner Experience - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGRsU2VaUmJUcEJtM3BZOTFZRDQ3YlRQelN0TXJEV2hRbjN1azU5Y2xVRnoxUWdvay0tc0JZbkI1WTFaRVJFZ1h5R3FBcDBEMGJmRndYZXBkSElUVEp1bVU5enpMOHFRNWlBalNVSVBpZl9HTU1GUFFvTVhHTTltZnJGMWQtUW80NkNmeXVMcE1ua2d1eloyTDJMLVhHcFVWT08zZXRKLXk0VUxyVlNaMFpn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 08 Sep 2026 17:35:00 GMT",
+        "score": 0,
+        "snippet": "How Rivian's (NASDAQ:RIVN) Newest Update Reshapes the Owner Experience - Kalkine Media",
+        "summary": "How Rivian's (NASDAQ:RIVN) Newest Update Reshapes the Owner Experience - Kalkine Media",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@pmadridb.bsky.social (Bluesky): \ud83d\ude31 you ditched the rivian?",
+        "url": "https://bsky.app/profile/did:plc:fodeykyvasq4a4fv5khyxdfb/post/3muzlnbzx422t",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T17:52:38.759Z",
+        "score": 0,
+        "snippet": "\ud83d\ude31 you ditched the rivian?",
+        "summary": "\ud83d\ude31 you ditched the rivian?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): You can now filter Rivian Software release notes by vehicle model and generation",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3muzksi5lyf2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T17:37:39.756Z",
+        "score": 2,
+        "snippet": "You can now filter Rivian Software release notes by vehicle model and generation. If you have linked accounts you can also select those to only see notes relevant to you. Release notes are auto-merged",
+        "summary": "You can now filter Rivian Software release notes by vehicle model and generation. If you have linked accounts you can also select those to only see notes relevant to you. Release notes are auto-merged",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): Huh, clustering multiple chips to scale inference? I hope someone has some exper",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3muzjderqnc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T17:11:18.166Z",
+        "score": 1,
+        "snippet": "Huh, clustering multiple chips to scale inference? I hope someone has some experience with RDMA networking.... spectrum.ieee.org/rivian-self-...",
+        "summary": "Huh, clustering multiple chips to scale inference? I hope someone has some experience with RDMA networking.... spectrum.ieee.org/rivian-self-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@five-oclick-tech.bsky.social (Bluesky): Rivian chases full self-driving vision\n\nRivian's Autonomy+ system, reported to p",
+        "url": "https://bsky.app/profile/did:plc:lt5wownz67tnarqhdgr7vhcm/post/3muzh6h67wc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T16:32:46.565Z",
+        "score": 5,
+        "snippet": "Rivian chases full self-driving vision Rivian's Autonomy+ system, reported to provide point-to-point self-driving in the US/Canada, debuts on the R2 by late 2026 for $49.99/month.",
+        "summary": "Rivian chases full self-driving vision Rivian's Autonomy+ system, reported to provide point-to-point self-driving in the US/Canada, debuts on the R2 by late 2026 for $49.99/month.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): I expect we'll see 2026.31 to continue to roll out to Connect+ subscribers today",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3muzfvtd34c2h",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T16:10:03.271Z",
+        "score": 1,
+        "snippet": "I expect we'll see 2026.31 to continue to roll out to Connect+ subscribers today. Rivian generally starts waves around noon pacific time. rivianroamer.com/software-up...",
+        "summary": "I expect we'll see 2026.31 to continue to roll out to Connect+ subscribers today. Rivian generally starts waves around noon pacific time. rivianroamer.com/software-up...",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): PSA: How Rivian Software Updates Roll Out to Your Vehicle\n\nriviantrackr.com/news",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3muzafwhjoc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T14:31:43.058Z",
+        "score": 6,
+        "snippet": "PSA: How Rivian Software Updates Roll Out to Your Vehicle riviantrackr.com/news/rivian-...",
+        "summary": "PSA: How Rivian Software Updates Roll Out to Your Vehicle riviantrackr.com/news/rivian-...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@philipp-raasch.bsky.social (Bluesky): Volkswagen has decided to stop building its own car technology. It is cutting it",
+        "url": "https://bsky.app/profile/did:plc:tykki3pplyg6os6ivrmwy25g/post/3muz4nmjzvv24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T13:24:23.770Z",
+        "score": 0,
+        "snippet": "Volkswagen has decided to stop building its own car technology. It is cutting its own engineering by 35% to 50%. Software comes from Rivian and XPENG now, the AI that drives the car from XPENG. So VW",
+        "summary": "Volkswagen has decided to stop building its own car technology. It is cutting its own engineering by 35% to 50%. Software comes from Rivian and XPENG now, the AI that drives the car from XPENG. So VW",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@infobites-info.libera.site.ap.brid.gy (Bluesky): #^Rivian chce s autonomn\u00edm \u0159\u00edzen\u00edm dohnat Teslu i Waymo\n\n\n\nRivian pl\u00e1nuje nab\u00eddn",
+        "url": "https://bsky.app/profile/did:plc:aguolnfphktybtg5qss2ybux/post/3muz3fhnaxfr2",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T13:02:00.269Z",
+        "score": 0,
+        "snippet": "#^Rivian chce s autonomn\u00edm \u0159\u00edzen\u00edm dohnat Teslu i Waymo Rivian pl\u00e1nuje nab\u00eddnout syst\u00e9m Autonomy+ pro j\u00edzdu od adresy k adrese, nejprve v nov\u00e9m SUV R2 a n\u00e1sledn\u011b aktualizacemi pro nejnov\u011bj\u0161\u00ed modely",
+        "summary": "#^Rivian chce s autonomn\u00edm \u0159\u00edzen\u00edm dohnat Teslu i Waymo Rivian pl\u00e1nuje nab\u00eddnout syst\u00e9m Autonomy+ pro j\u00edzdu od adresy k adrese, nejprve v nov\u00e9m SUV R2 a n\u00e1sledn\u011b aktualizacemi pro nejnov\u011bj\u0161\u00ed modely",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@spectrum.ieee.org.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:k5pd62odhosxknrvmwrqfjn6/post/3muz45hboxxy2",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T13:15:31.474Z",
+        "score": 0,
+        "snippet": "bluesky signal: @spectrum.ieee.org.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @spectrum.ieee.org.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@warhorse498.bsky.social (Bluesky): A Tidier Rivian (in Size and Price) Is Ready for the Suburbs www.nytimes.com/202",
+        "url": "https://bsky.app/profile/did:plc:vxtgtn2iid5xdqsizrfippkn/post/3muyzabnyq22c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-08T12:23:17.257Z",
+        "score": 0,
+        "snippet": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs www.nytimes.com/2026/09/07/b...",
+        "summary": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs www.nytimes.com/2026/09/07/b...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian",
+        "url": "https://youtube.com/watch?v=TRcygYWVTl0",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T17:56:38Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian",
+        "summary": "youtube signal: Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "B Pillar \u2013 PPF for Rivian R2 - Instructional Guide",
+        "url": "https://youtube.com/watch?v=Ix7yGAEcGps",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T17:54:47Z",
+        "score": 0,
+        "snippet": "Protect the b pillars of your Rivian R2 against daily damage. Our DIY PPF kit offers exceptional protection from scratches and ...",
+        "summary": "Protect the b pillars of your Rivian R2 against daily damage. Our DIY PPF kit offers exceptional protection from scratches and ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Door Kicker \u2013 PPF for Rivian R2 - Instructional Guide",
+        "url": "https://youtube.com/watch?v=jJKV2x21UcQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T17:51:28Z",
+        "score": 0,
+        "snippet": "Protect the front door kickers of your Rivian R2 against daily damage. Our DIY PPF kit offers exceptional protection from scratches ...",
+        "summary": "Protect the front door kickers of your Rivian R2 against daily damage. Our DIY PPF kit offers exceptional protection from scratches ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Trunk Ledge \u2013 PPF for Rivian R2 - Instructional Guide",
+        "url": "https://youtube.com/watch?v=jKSI5b7bI_o",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T17:51:02Z",
+        "score": 0,
+        "snippet": "Protect the rear bumper (lower fascia) of your Rivian R2 against daily damage. Our DIY PPF kit offers exceptional protection from ...",
+        "summary": "Protect the rear bumper (lower fascia) of your Rivian R2 against daily damage. Our DIY PPF kit offers exceptional protection from ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Has Built a Great EV but NOT a Viable Car Company",
+        "url": "https://youtube.com/watch?v=NjT0S5NEzy8",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T17:00:06Z",
+        "score": 0,
+        "snippet": "Rivian has built impressive electric vehicles, a strong brand, and valuable software. But after consuming tens of billions of dollars, ...",
+        "summary": "Rivian has built impressive electric vehicles, a strong brand, and valuable software. But after consuming tens of billions of dollars, ...",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R2 in the Wild",
+        "url": "https://youtube.com/watch?v=ia8XtMMFI30",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T16:43:36Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian R2 in the Wild",
+        "summary": "youtube signal: Rivian R2 in the Wild",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RivianOS 2 Looks Smart\u2014But RIVN Still Has a Cash Test #Shorts #NASDAQRIVN #StockMarket #Technology",
+        "url": "https://youtube.com/watch?v=y5Jqd6NDT5o",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T16:21:20Z",
+        "score": 0,
+        "snippet": "Rivian has rolled out RivianOS 2 to R1 vehicles, putting R1 and R2 on a common software direction. The investor question is ...",
+        "summary": "Rivian has rolled out RivianOS 2 to R1 vehicles, putting R1 and R2 on a common software direction. The investor question is ...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "RIVN Stock",
+          "Software"
+        ]
+      },
+      {
+        "title": "RIVIAN SELF DRIVE UPGRADE FROM COMMA AI - SELF DRIVE ADDED TO YOUR RIVIAN REALLY IS THIS EASY!",
+        "url": "https://youtube.com/watch?v=rFv8jpMqogY",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T16:01:37Z",
+        "score": 0,
+        "snippet": "Rivian R1S + Comma AI Self Drive Upgrade \u26a1 This Rivian R1S came into Saint Nordic Custom Autoworks for a serious ...",
+        "summary": "Rivian R1S + Comma AI Self Drive Upgrade \u26a1 This Rivian R1S came into Saint Nordic Custom Autoworks for a serious ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tough build. Rough test. Hell&#39;s Gate.And yeah...  sometimes we break stuff.#rivianr1t #moab #rivian",
+        "url": "https://youtube.com/watch?v=TDY16fZ-KEo",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T15:31:10Z",
+        "score": 0,
+        "snippet": "youtube signal: Tough build. Rough test. Hell&#39;s Gate.And yeah... sometimes we break stuff.#rivianr1t #moab #rivian",
+        "summary": "youtube signal: Tough build. Rough test. Hell&#39;s Gate.And yeah... sometimes we break stuff.#rivianr1t #moab #rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s Collapse: What a $100 Billion Company Got So Wrong",
+        "url": "https://youtube.com/watch?v=Egs18MwKKME",
+        "source": "youtube",
+        "publishedAt": "2026-09-08T15:05:53Z",
+        "score": 0,
+        "snippet": "Rivian's collapse turned a $100 billion valuation into one of the biggest falls in EV history. Backed by Amazon and Ford and hailed ...",
+        "summary": "Rivian's collapse turned a $100 billion valuation into one of the biggest falls in EV history. Backed by Amazon and Ford and hailed ...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
