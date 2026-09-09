@@ -124542,5 +124542,368 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-09T18:03:07.750462Z",
+    "timestamp": "2026-09-09T18:03:07.750462Z",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 95,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Audio System",
+      "Autonomy",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Rivian Mentions",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (15), Autonomy (1); watch Vehicle Demand, R2 Launch",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 09, 2026 \u2014 6:03 PM PT \u2014 20 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (15), Autonomy (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, R2 Launch, Tesla Competition.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Lyft riders can now hail Waymo robotaxis in Nashville - Los Angeles Times\n  https://news.google.com/rss/articles/CBMitgFBVV95cUxORzE2VU80ZlMwRUZyRFNpbTc2bkY0SjFLQmg0UEJSMWp1UllpTjVZR2xSR0RoQzdJTVZlNHlvSTY0S1lOcUViN2NtTDlDaURfdHBBemt2TmFqZWYwaXlkVVRYV01aSzkzWnhBdm44d2xKMVY0V1dVck42cmNkRG4wZTZpNllXM0UwdG1yVDh4S09FWk9CU0xwcEpZZWg5UVBoU2F3WTA3TkVfeEd1dUQxU1hhVU15QQ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 We take the new Rivian R2 Performance on a real Nashville-to-Chattanooga road trip, testing Autonomy Plus, comfort, controls, ...\n  https://youtube.com/watch?v=F2IQGrs8SMQ\n*Demo & Test Drives (1)* \u2022 Get behind the wheel of the Rivian R2 Performance in this real-world POV Night Drive. Price (as tested) : $57990 Powertrain ...\n  https://youtube.com/watch?v=hUF-Ecyw4_o\n*Vehicles (15)* \u2022 reddit_rivian signal: OS2 backup camera\n  https://www.reddit.com/r/Rivian/comments/1wbskwv/os2_backup_camera/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 reddit_rivian signal: \u201cRandom\u201d Updates\n  https://www.reddit.com/r/Rivian/comments/1wbqgqa/random_updates/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Audio System\n\u2022 Autonomy\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "OS2 backup camera",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbskwv/os2_backup_camera/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T17:43:51.241Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: OS2 backup camera",
+        "summary": "reddit_rivian signal: OS2 backup camera",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone else feel that OS2 UX is worse than OS1?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbs37d/anyone_else_feel_that_os2_ux_is_worse_than_os1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T17:26:15.527Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Anyone else feel that OS2 UX is worse than OS1?",
+        "summary": "reddit_rivian signal: Anyone else feel that OS2 UX is worse than OS1?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Proactive Safety Features?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbri52/proactive_safety_features/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T17:05:31.048Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Proactive Safety Features?",
+        "summary": "reddit_rivian signal: Proactive Safety Features?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Proactive Safety Features?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbrgl5/proactive_safety_features/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T17:04:03.897Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Proactive Safety Features?",
+        "summary": "reddit_rivian signal: Proactive Safety Features?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "What\u2019s you experience going off-road with the 20\u201d OEM wheels? Pros/cons?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbren3/whats_you_experience_going_offroad_with_the_20/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T17:02:10.410Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: What\u2019s you experience going off-road with the 20\u201d OEM wheels? Pros/cons?",
+        "summary": "reddit_rivian signal: What\u2019s you experience going off-road with the 20\u201d OEM wheels? Pros/cons?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u201cRandom\u201d Updates",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbqgqa/random_updates/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T16:28:42.463Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: \u201cRandom\u201d Updates",
+        "summary": "reddit_rivian signal: \u201cRandom\u201d Updates",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R2 Cincinnati",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wboufu/rivian_r2_cincinnati/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-28T01:21:35.287Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian R2 Cincinnati",
+        "summary": "reddit_rivian signal: Rivian R2 Cincinnati",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Cincinnati",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1w0co0f/rivian_r2_cincinnati/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-08-28T01:21:35.287Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian R2 Cincinnati",
+        "summary": "reddit_rivian signal: Rivian R2 Cincinnati",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Defense Tech Startup Covenant Emerges From Stealth",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/defense-tech-startup-covenant-emerges-from-stealth-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 09 Sep 2026 17:18:01 GMT",
+        "score": 0,
+        "snippet": "Covenant, a defense tech startup backed by Andreessen Horowitz, is emerging from stealth after raising over $250 million over three funding rounds. The firm has already signed military contracts acros",
+        "summary": "Covenant, a defense tech startup backed by Andreessen Horowitz, is emerging from stealth after raising over $250 million over three funding rounds. The firm has already signed military contracts acros",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian's R2 Production Ramp Is the Whole Thesis Now. Here's The Math Behind the Numbers. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmsweFcxYVlfTl9zWFFNUVo4WTV3eWVQYzY2djlQQXczamRVbEZXZVN0OVB6SjdPbmNCcS1GV2taRDgxTG9rTWdsMGowZTZ5ZUM5VEowQ3Y1akV0U0JkVDlMRmp6QzJYQlctbVl3M1RwWTk1dWxoSmowa3JHMTlNOXJZYmNnQmZFdGlvMDJIVmYxRU95YzBONlczMmR2Zw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 09 Sep 2026 13:20:00 GMT",
+        "score": 0,
+        "snippet": "Rivian's R2 Production Ramp Is the Whole Thesis Now. Here's The Math Behind the Numbers. - Yahoo Finance",
+        "summary": "Rivian's R2 Production Ramp Is the Whole Thesis Now. Here's The Math Behind the Numbers. - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Lyft riders can now hail Waymo robotaxis in Nashville - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzE2VU80ZlMwRUZyRFNpbTc2bkY0SjFLQmg0UEJSMWp1UllpTjVZR2xSR0RoQzdJTVZlNHlvSTY0S1lOcUViN2NtTDlDaURfdHBBemt2TmFqZWYwaXlkVVRYV01aSzkzWnhBdm44d2xKMVY0V1dVck42cmNkRG4wZTZpNllXM0UwdG1yVDh4S09FWk9CU0xwcEpZZWg5UVBoU2F3WTA3TkVfeEd1dUQxU1hhVU15QQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Wed, 09 Sep 2026 14:38:23 GMT",
+        "score": 0,
+        "snippet": "Lyft riders can now hail Waymo robotaxis in Nashville - Los Angeles Times",
+        "summary": "Lyft riders can now hail Waymo robotaxis in Nashville - Los Angeles Times",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "2025 Rivian R1S | How To Turn On Auto Unlock In Park",
+        "url": "https://youtube.com/watch?v=oNQqwILaL6Y",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T17:43:58Z",
+        "score": 0,
+        "snippet": "2025 Rivian R1S | How To Turn On Auto Unlock In Park Affiliate links to my favorite products I actually use: ...",
+        "summary": "2025 Rivian R1S | How To Turn On Auto Unlock In Park Affiliate links to my favorite products I actually use: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Forest Green | R2 | Rivian",
+        "url": "https://youtube.com/watch?v=kBrX-DQ_oa0",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T17:30:28Z",
+        "score": 0,
+        "snippet": "Forest Green for R2 is here. Our design team crafted the color to have the same play of shadow and light you find walking in the ...",
+        "summary": "Forest Green for R2 is here. Our design team crafted the color to have the same play of shadow and light you find walking in the ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Fastest Rivian R2 Launch Control 0-60",
+        "url": "https://youtube.com/watch?v=UkhrV79ppnA",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T16:32:28Z",
+        "score": 0,
+        "snippet": "3.25 0-60 in new 2026 Rivian R2 performance.",
+        "summary": "3.25 0-60 in new 2026 Rivian R2 performance.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN R1S 2027 : CE SUV VA VOUS SURPRENDRE !",
+        "url": "https://youtube.com/watch?v=hdFVpK8km54",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T16:30:09Z",
+        "score": 0,
+        "snippet": "RIVIAN R1S 2027 : CE SUV VA VOUS SURPRENDRE ! DESCRIPTION D\u00e9couvrez le Rivian R1S 2027 dans cette pr\u00e9sentation ...",
+        "summary": "RIVIAN R1S 2027 : CE SUV VA VOUS SURPRENDRE ! DESCRIPTION D\u00e9couvrez le Rivian R1S 2027 dans cette pr\u00e9sentation ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R2 Performance POV Night Drive (3D Audio) (ASMR)",
+        "url": "https://youtube.com/watch?v=hUF-Ecyw4_o",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T16:00:15Z",
+        "score": 0,
+        "snippet": "Get behind the wheel of the Rivian R2 Performance in this real-world POV Night Drive. Price (as tested) : $57990 Powertrain ...",
+        "summary": "Get behind the wheel of the Rivian R2 Performance in this real-world POV Night Drive. Price (as tested) : $57990 Powertrain ...",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Audio System"
+        ]
+      },
+      {
+        "title": "I Road Tripped with the Rivian R2 as a Tesla Owner\u2026 Should I Buy One?",
+        "url": "https://youtube.com/watch?v=F2IQGrs8SMQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T16:00:07Z",
+        "score": 0,
+        "snippet": "We take the new Rivian R2 Performance on a real Nashville-to-Chattanooga road trip, testing Autonomy Plus, comfort, controls, ...",
+        "summary": "We take the new Rivian R2 Performance on a real Nashville-to-Chattanooga road trip, testing Autonomy Plus, comfort, controls, ...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Autonomy",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Drag Race! Rivian R2 vs Tesla Model Y",
+        "url": "https://youtube.com/watch?v=k6Aq5cz0Ips",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T15:00:19Z",
+        "score": 0,
+        "snippet": "We took the new 2026 Tesla Model Y Performance and Jose's Rivian R2 Performance to the track for a straight-up drag shootout ...",
+        "summary": "We took the new 2026 Tesla Model Y Performance and Jose's Rivian R2 Performance to the track for a straight-up drag shootout ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Ultimate Rivian For California \ud83d\ude0e",
+        "url": "https://youtube.com/watch?v=_hH2IFbAOak",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T14:23:00Z",
+        "score": 0,
+        "snippet": "Dropping $4000 extra for a desert paint job and a spare tire you'll literally never change yourself? Sounds like peak Venice Beach ...",
+        "summary": "Dropping $4000 extra for a desert paint job and a spare tire you'll literally never change yourself? Sounds like peak Venice Beach ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Bets on Cybercab, Rivian Leans on R2, Lucid Expands, Scout Preps Launch, Slate EV Pickup",
+        "url": "https://youtube.com/watch?v=COx9T0eqqSc",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T13:59:55Z",
+        "score": 0,
+        "snippet": "Automotive News reporters Laurence Iliff and Jack Walsworth break down what's ahead for Tesla, Rivian, Lucid, Scout and Slate.",
+        "summary": "Automotive News reporters Laurence Iliff and Jack Walsworth break down what's ahead for Tesla, Rivian, Lucid, Scout and Slate.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      }
+    ]
   }
 ]
