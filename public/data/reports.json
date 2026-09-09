@@ -124184,5 +124184,363 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-09T14:02:13.101054Z",
+    "timestamp": "2026-09-09T14:02:13.101054Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 85,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "negative"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "nytimes_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (13), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 09, 2026 \u2014 2:02 PM PT \u2014 20 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 16 Rivian signals clustered around Vehicles (13), Software (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.\n  https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html\n\u2022 *Competitive Threats:* Lyft Inc. is starting to offer Waymo robotaxi rides in Nashville, marking the second US city where it\u2019s providing driverless trips as it plays catch-up with rival Uber Technologies Inc.\n  https://www.bloomberg.com/news/articles/2026-09-09/lyft-begins-offering-waymo-robotaxi-rides-on-its-app-in-nashville\n\u2022 *Competitive Threats:* <IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"\n  https://www.techmeme.com/260909/p8#a260909p8\n\u2022 *Competitive Threats:* Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville - bloomberg.com\n  https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3RJcEEtNkpUUkstUFY0VmJhSlVFSTg2WlBLeFJVQzdKZHVoR05jbUFYcVNjSG1BNm5Udks1cS14M0pLVW5rUlVpeERCZjEyVzJITU5Ha0tCWU1SV1k2dE1aeXl0LVllWWd0bzVhZkFZTzhpaTR0OUNrLWJWSHlKcjVQV0d2R3psbjhhNEY4dWtzZkUzQkZHZ3lOY2lZaGZFZV9sLW1vb3NJV2RhajZGcXl1N0FjZUU?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (13)* \u2022 reddit_rivian signal: R1T roofshades back in shop.\n  https://www.reddit.com/r/Rivian/comments/1wbjumq/r1t_roofshades_back_in_shop/\n*Business (0)* \u2022 No signals\n*Software (3)* \u2022 reddit_rivian signal: OS2 Problems/Bugs on R1S gen2\n  https://www.reddit.com/r/Rivian/comments/1wbl9eo/os2_problemsbugs_on_r1s_gen2/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "OS2 Problems/Bugs on R1S gen2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbl9eo/os2_problemsbugs_on_r1s_gen2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T13:14:20.448Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: OS2 Problems/Bugs on R1S gen2",
+        "summary": "reddit_rivian signal: OS2 Problems/Bugs on R1S gen2",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "R1T roofshades back in shop.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbjumq/r1t_roofshades_back_in_shop/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T12:12:34.701Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1T roofshades back in shop.",
+        "summary": "reddit_rivian signal: R1T roofshades back in shop.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Front Lower Control Arm Bushings torn, worth the $3000 repair?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbj2tj/front_lower_control_arm_bushings_torn_worth_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T11:36:29.202Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Front Lower Control Arm Bushings torn, worth the $3000 repair?",
+        "summary": "reddit_rivian signal: Front Lower Control Arm Bushings torn, worth the $3000 repair?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Does Rivian \"detail\" new vehicles before delivery?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbapwr/does_rivian_detail_new_vehicles_before_delivery/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T03:55:23.021Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Does Rivian \"detail\" new vehicles before delivery?",
+        "summary": "reddit_rivian signal: Does Rivian \"detail\" new vehicles before delivery?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Affordable toys?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbalqc/affordable_toys/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T03:49:41.840Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Affordable toys?",
+        "summary": "reddit_rivian signal: Affordable toys?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Trapped without car indefinite backorder quarter panel",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbacux/trapped_without_car_indefinite_backorder_quarter/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T03:37:25.069Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Trapped without car indefinite backorder quarter panel",
+        "summary": "reddit_rivian signal: Trapped without car indefinite backorder quarter panel",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RivianOS 2 Changes EVERYTHING (Update 2026.31)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wb80md/rivianos_2_changes_everything_update_202631/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T01:49:15.572Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: RivianOS 2 Changes EVERYTHING (Update 2026.31)",
+        "summary": "reddit_rivian signal: RivianOS 2 Changes EVERYTHING (Update 2026.31)",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Wheel Shakes w/ HVAC",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wb98dt/wheel_shakes_w_hvac/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-09T02:43:59.091Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Wheel Shakes w/ HVAC",
+        "summary": "reddit_rivian_r2 signal: Wheel Shakes w/ HVAC",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Delivery Location",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wb5mc7/r2_delivery_location/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-09T00:03:59.066Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 Delivery Location",
+        "summary": "reddit_rivian_r2 signal: R2 Delivery Location",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Finally Getting My First EV!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wb5cd6/finally_getting_my_first_ev/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-08T23:52:51.272Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Finally Getting My First EV!",
+        "summary": "reddit_rivian_r2 signal: Finally Getting My First EV!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Demo Question",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wb44s1/demo_question/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-08T23:01:15.868Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Demo Question",
+        "summary": "reddit_rivian_r2 signal: Demo Question",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How Amazon\u2019s Zoox Is Taking On Waymo in San Francisco",
+        "url": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
+        "source": "nytimes_tech",
+        "publishedAt": "Wed, 09 Sep 2026 09:02:45 +0000",
+        "score": 0,
+        "snippet": "The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.",
+        "summary": "The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/lyft-begins-offering-waymo-robotaxi-rides-on-its-app-in-nashville",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 09 Sep 2026 10:00:05 GMT",
+        "score": 0,
+        "snippet": "Lyft Inc. is starting to offer Waymo robotaxi rides in Nashville, marking the second US city where it\u2019s providing driverless trips as it plays catch-up with rival Uber Technologies Inc.",
+        "summary": "Lyft Inc. is starting to offer Waymo robotaxi rides in Nashville, marking the second US city where it\u2019s providing driverless trips as it plays catch-up with rival Uber Technologies Inc.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lyft begins to offer Waymo rides in Nashville at no additional cost, the second city where it is offering robotaxi trips, as it plays catch up with Uber (Natalie Lung/Bloomberg)",
+        "url": "https://www.techmeme.com/260909/p8#a260909p8",
+        "source": "techmeme",
+        "publishedAt": "Wed, 09 Sep 2026 07:25:00 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville - bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3RJcEEtNkpUUkstUFY0VmJhSlVFSTg2WlBLeFJVQzdKZHVoR05jbUFYcVNjSG1BNm5Udks1cS14M0pLVW5rUlVpeERCZjEyVzJITU5Ha0tCWU1SV1k2dE1aeXl0LVllWWd0bzVhZkFZTzhpaTR0OUNrLWJWSHlKcjVQV0d2R3psbjhhNEY4dWtzZkUzQkZHZ3lOY2lZaGZFZV9sLW1vb3NJV2RhajZGcXl1N0FjZUU?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Wed, 09 Sep 2026 10:00:05 GMT",
+        "score": 0,
+        "snippet": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville - bloomberg.com",
+        "summary": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville - bloomberg.com",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Essential Rivian R2 Accessories + Big BestEVMod Giveaway!",
+        "url": "https://youtube.com/watch?v=m1_i1SIwSf8",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T13:30:02Z",
+        "score": 0,
+        "snippet": "Today we're taking a close look at a few brand-new Rivian R2 accessories from BestEVMod! We're testing out both the Black and ...",
+        "summary": "Today we're taking a close look at a few brand-new Rivian R2 accessories from BestEVMod! We're testing out both the Black and ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian produces great cars but is a broken business #rivian #electricvehicle #business #investing",
+        "url": "https://youtube.com/watch?v=XMdg0HfMohY",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T10:21:26Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian produces great cars but is a broken business #rivian #electricvehicle #business #investing",
+        "summary": "youtube signal: Rivian produces great cars but is a broken business #rivian #electricvehicle #business #investing",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2025 Rivian  Apex Ceramic Window Tint  Tampa, FL #windowtint #ceramictint",
+        "url": "https://youtube.com/watch?v=bVm5GZNhgnM",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T10:13:39Z",
+        "score": 0,
+        "snippet": "2025 Rivian with Apex Ceramic Tint all around. 70% windshield & roof | 20% front | 15% rear SS Wraps & Tints | Tampa, ...",
+        "summary": "2025 Rivian with Apex Ceramic Tint all around. 70% windshield & roof | 20% front | 15% rear SS Wraps & Tints | Tampa, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "OpenAI Math Milestones, ChatGPT Sketch, and Rivian E-Bike Updates",
+        "url": "https://youtube.com/watch?v=EsRRh30Pnag",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T07:44:56Z",
+        "score": 0,
+        "snippet": "From drama swirling around OpenAI's legendary mathematical milestone and their new ChatGPT Sketch tool that turns bad ...",
+        "summary": "From drama swirling around OpenAI's legendary mathematical milestone and their new ChatGPT Sketch tool that turns bad ...",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian R1T, Adventure 2024 | 7FCTGBAA9RN031298",
+        "url": "https://youtube.com/watch?v=PnupZ5Xkb4k",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T07:10:55Z",
+        "score": 0,
+        "snippet": "2024 Rivian R1T, Adventure | VIN: 7FCTGBAA9RN031298 This video showcases auction images of a **2024 Rivian R1T, ...",
+        "summary": "2024 Rivian R1T, Adventure | VIN: 7FCTGBAA9RN031298 This video showcases auction images of a **2024 Rivian R1T, ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
