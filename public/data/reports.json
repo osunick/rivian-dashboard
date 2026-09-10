@@ -124905,5 +124905,531 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-10T02:02:42.901563Z",
+    "timestamp": "2026-09-10T02:02:42.901563Z",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 87,
+      "negative": 9
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "negative"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 2,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 5,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "32 signals across Vehicles (21), Software (5); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, September 10, 2026 \u2014 2:02 AM PT \u2014 32 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (21), Software (5).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Software, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Integrated Robotaxi Networks: Lyft Integrates Waymo Vehicles into Its Nashville Rideshare\u2026 - Trend Hunter\n  https://news.google.com/rss/articles/CBMicEFVX3lxTE1TUm9NdGpTX3NQaTBZQ3d1ZFJBUEM2dkMwdFljeC1lWDkwdEkxRzVLQlk1MFJ1aG5GTmpLMFRDYjVtWUVXdDc1bjExSFhOMkt2aWpITmViS2w4c1duYTBGd1g2RW5fQldzYS1pNC1RUlE?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (2)* \u2022 Ride along with AMCI Testing for a real-world test of the 2026 Rivian R2 and its Autonomy+ hands-free driving technology.\n  https://youtube.com/watch?v=9PzZm_7nkaA\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (21)* \u2022 reddit_rivian signal: Biggest inconvenience: Lock/unlock\n  https://www.reddit.com/r/Rivian/comments/1wc4rdw/biggest_inconvenience_lockunlock/\n*Business (1)* \u2022 Rivian Automotive (NASDAQ:RIVN) Stock Price Down 1.1% - Here's Why - MarketBeat\n  https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGlaOC1pVHFEdktIRVZzQmVkWklaNFMwQWZCSVhzLWcya1llSEFDeGlyZ2VMc0RZb2ZnRGQ5RGxaLWp4SEM1c1NoMDBGTUdhNjlsVDUzbVBTS203MzM5c196QkFDSkMydU0wcnlDQXlEaHMwSlowQkFUOTMwQ2NXTnJqM0YyWEp4UjZ6dmVURE41RWRDUFRrT3U0bW9GN2tjZTIyS1pFWGNEbWVWaE93Ujlvay1XaEFkeGlV?oc=5\n*Software (5)* \u2022 reddit_rivian signal: POLICE!!!! Why doesn\u2019t the new update to navigation verbally or have an audio that state warnings - police, object in road, accident, etc?\n  https://www.reddit.com/r/Rivian/comments/1wbymes/police_why_doesnt_the_new_update_to_navigation/\n*Community (1)* \u2022 bluesky signal: @blueresearch.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mv42wjrfnx2i\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Biggest inconvenience: Lock/unlock",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wc4rdw/biggest_inconvenience_lockunlock/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T01:26:14.512Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Biggest inconvenience: Lock/unlock",
+        "summary": "reddit_rivian signal: Biggest inconvenience: Lock/unlock",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Backup camera view  - 2026.23.0 vs 2026.31.0",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wc4o6r/backup_camera_view_2026230_vs_2026310/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T01:22:23.350Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Backup camera view - 2026.23.0 vs 2026.31.0",
+        "summary": "reddit_rivian signal: Backup camera view - 2026.23.0 vs 2026.31.0",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Dometic CFX5 35L",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wc30be/dometic_cfx5_35l/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T00:09:30.621Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Dometic CFX5 35L",
+        "summary": "reddit_rivian signal: Dometic CFX5 35L",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Please can we customize the \u2018menu\u2019 location in OS2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wc27c9/please_can_we_customize_the_menu_location_in_os2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T23:36:08.543Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Please can we customize the \u2018menu\u2019 location in OS2",
+        "summary": "reddit_rivian signal: Please can we customize the \u2018menu\u2019 location in OS2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian OS 2, R1T gen 2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wc04ey/rivian_os_2_r1t_gen_2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T22:12:35.678Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian OS 2, R1T gen 2",
+        "summary": "reddit_rivian signal: Rivian OS 2, R1T gen 2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "POLICE!!!! Why doesn\u2019t the new update to navigation verbally or have an audio that state warnings - police, object in road, accident, etc?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbymes/police_why_doesnt_the_new_update_to_navigation/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T21:16:22.745Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: POLICE!!!! Why doesn\u2019t the new update to navigation verbally or have an audio that state warnings - police, object in road, accident, etc?",
+        "summary": "reddit_rivian signal: POLICE!!!! Why doesn\u2019t the new update to navigation verbally or have an audio that state warnings - police, object in road, accident, etc?",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Used Market",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wbxbmy/used_market/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-09T20:28:43.933Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Used Market",
+        "summary": "reddit_rivian signal: Used Market",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: Apple\u2019s new iPhone bends. Bond vigilantes, not so much",
+        "url": "https://www.cnbc.com/2026/09/10/cnbc-daily-open-apple-new-iphone-duo-treasury-bonds-oil-trump.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: CNBC Daily Open: Apple\u2019s new iPhone bends. Bond vigilantes, not so much",
+        "summary": "cnbc signal: CNBC Daily Open: Apple\u2019s new iPhone bends. Bond vigilantes, not so much",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Why Rivian Automotive (RIVN) Dipped More Than Broader Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3hDbDFvRHNJdWpLVjNsOU5uVjJtMElYZjZaNVRxMzhhZUlKcTVKcjZLaU9yZXZOR2NHQm1JWlU1bGotSktZUGFDZS1Xakh6NURxT3dZZkloUGVSZ1k1UGJXajFrWlBTSTBrR29lQ3F0cnczYWo0UXlGempnRUcyMFlyRVp1cTN0SGdhMmJwZFk4UWtJbFBwcTlDRTg1R0k?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 09 Sep 2026 21:50:05 GMT",
+        "score": 0,
+        "snippet": "Why Rivian Automotive (RIVN) Dipped More Than Broader Market Today - Yahoo Finance",
+        "summary": "Why Rivian Automotive (RIVN) Dipped More Than Broader Market Today - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Brings Large Format 3D Printing Onto The Factory Floor - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWE1nYWhIMFJlY2tHSFhGTjdZQUhwWER5ZEs3RnFTcE1QNnlHMHVvV0llYmktd0JOQ1QzaWhyWlBwb285NXYyZk52dmhJRklIQVgzMVpnSlFFNmlBMFkyZGJXeXFKdnRiX2JJYmM3M1Z2eDQ4eW1sLXU0dHZSSlIwQWtqQW9heWZ4YTRVUEdOb2pHWHdBZk81cnctS0R3elUta3dwWUFtY1lFaFltd000V3J1RFl1YklVbDhnT29iaWFwdW1SVV8yeDZLLXE0akRFMXlBcdIB2gFBVV95cUxPVF9BUXJjRFJObnV3T1NQbXNOUkR3cWRBbGhJU1dvb1NHWXlSZHR1aFNheUc4M2l1MnhYRDZaaUhKSFpadWJGU2NsWkQwZ0xQdndudFdvTmc1MEl3VmpVeWNwbkxaZmxSNV96V3l3NFhHbUNGWUhMQWN3TV93bTliWVZERXEtWmtzOXlUcDZZOEp0Q2VLR1ZNSGRyS0JWci03MG9LVnowaFU0LXd5M0hhZk9Kb3o2NkZRQ3VVUUlqRUJLbEc4QkdtU2hXSHFrSzc3UWZpUWVyX3ktUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 10 Sep 2026 01:23:51 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Brings Large Format 3D Printing Onto The Factory Floor - simplywall.st",
+        "summary": "Rivian Automotive (RIVN) Brings Large Format 3D Printing Onto The Factory Floor - simplywall.st",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 1.1% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGlaOC1pVHFEdktIRVZzQmVkWklaNFMwQWZCSVhzLWcya1llSEFDeGlyZ2VMc0RZb2ZnRGQ5RGxaLWp4SEM1c1NoMDBGTUdhNjlsVDUzbVBTS203MzM5c196QkFDSkMydU0wcnlDQXlEaHMwSlowQkFUOTMwQ2NXTnJqM0YyWEp4UjZ6dmVURE41RWRDUFRrT3U0bW9GN2tjZTIyS1pFWGNEbWVWaE93Ujlvay1XaEFkeGlV?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 09 Sep 2026 21:44:13 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 1.1% - Here's Why - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 1.1% - Here's Why - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Integrated Robotaxi Networks: Lyft Integrates Waymo Vehicles into Its Nashville Rideshare\u2026 - Trend Hunter",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TUm9NdGpTX3NQaTBZQ3d1ZFJBUEM2dkMwdFljeC1lWDkwdEkxRzVLQlk1MFJ1aG5GTmpLMFRDYjVtWUVXdDc1bjExSFhOMkt2aWpITmViS2w4c1duYTBGd1g2RW5fQldzYS1pNC1RUlE?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Wed, 09 Sep 2026 21:15:06 GMT",
+        "score": 0,
+        "snippet": "Integrated Robotaxi Networks: Lyft Integrates Waymo Vehicles into Its Nashville Rideshare\u2026 - Trend Hunter",
+        "summary": "Integrated Robotaxi Networks: Lyft Integrates Waymo Vehicles into Its Nashville Rideshare\u2026 - Trend Hunter",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@borgdad.bsky.social (Bluesky): For some reason Rivian thought releasing this laughable \"preview\" traffic/signal",
+        "url": "https://bsky.app/profile/did:plc:rybvey7es7bkltiskkyo67ze/post/3mv4rkb7csk2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T00:16:19.867Z",
+        "score": 3,
+        "snippet": "For some reason Rivian thought releasing this laughable \"preview\" traffic/signal visualization was a good idea. Not seen here: lights glitching between red and green. Not even Tesla, at its worst eve",
+        "summary": "For some reason Rivian thought releasing this laughable \"preview\" traffic/signal visualization was a good idea. Not seen here: lights glitching between red and green. Not even Tesla, at its worst eve",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mcleanconnected.bsky.social (Bluesky): Unit 5 hires law firm to stop Rivian from lowering its property value",
+        "url": "https://bsky.app/profile/did:plc:plel7skiqdeb33lks4zwidbt/post/3mv4nj2quv52z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T23:04:03.570Z",
+        "score": 0,
+        "snippet": "Unit 5 hires law firm to stop Rivian from lowering its property value",
+        "summary": "Unit 5 hires law firm to stop Rivian from lowering its property value",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ilschoolnet.bsky.social (Bluesky): Unit 5 hires law firm to stop Rivian from lowering its property value",
+        "url": "https://bsky.app/profile/did:plc:gmtrem4vzlvguqlguitmvabe/post/3mv4n2qavmc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T22:56:02.963Z",
+        "score": 0,
+        "snippet": "Unit 5 hires law firm to stop Rivian from lowering its property value",
+        "summary": "Unit 5 hires law firm to stop Rivian from lowering its property value",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83c\udd95 New at the Rivian Gear Shop: NACS DC Adapter https://gearshop.rivian.com/produ",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mv4knnq7jw2w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T22:12:56.273Z",
+        "score": 1,
+        "snippet": "\ud83c\udd95 New at the Rivian Gear Shop: NACS DC Adapter",
+        "summary": "\ud83c\udd95 New at the Rivian Gear Shop: NACS DC Adapter",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mcleanconnected.bsky.social (Bluesky): McLean County Unit 5 files request to intervene in Rivian appeal",
+        "url": "https://bsky.app/profile/did:plc:plel7skiqdeb33lks4zwidbt/post/3mv4gshlryv26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T21:04:03.560Z",
+        "score": 0,
+        "snippet": "McLean County Unit 5 files request to intervene in Rivian appeal",
+        "summary": "McLean County Unit 5 files request to intervene in Rivian appeal",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): The best electric SUV of 2026 scored higher than anything else Edmunds tested. H",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mv4fs5iyb72p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T20:45:59.073Z",
+        "score": 0,
+        "snippet": "The best electric SUV of 2026 scored higher than anything else Edmunds tested. Here's the full ranking: A three-row family SUV that beat every luxury model on the list, a tie for first place between a",
+        "summary": "The best electric SUV of 2026 scored higher than anything else Edmunds tested. Here's the full ranking: A three-row family SUV that beat every luxury model on the list, a tie for first place between a",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Another wave of 2026.31 is headed out to Connect+ subscribers. If patterns hold,",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mv4bvxan7t27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T19:36:30.863Z",
+        "score": 1,
+        "snippet": "Another wave of 2026.31 is headed out to Connect+ subscribers. If patterns hold, this should be the final wave before the rest of the fleet is flagged. rivianroamer.com/software-up...",
+        "summary": "Another wave of 2026.31 is headed out to Connect+ subscribers. If patterns hold, this should be the final wave before the rest of the fleet is flagged. rivianroamer.com/software-up...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@techconnectify.bsky.social (Bluesky): Yes, essentially. That's the controversy here.\n\nTesla and Rivian have never both",
+        "url": "https://bsky.app/profile/did:plc:dr6cavavqbbtzeknnl76tp54/post/3mv465gjkdk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T18:29:06.866Z",
+        "score": 21,
+        "snippet": "Yes, essentially. That's the controversy here. Tesla and Rivian have never bothered to support it because they believe their software experience is \"better\" so hard they won't give their customers th",
+        "summary": "Yes, essentially. That's the controversy here. Tesla and Rivian have never bothered to support it because they believe their software experience is \"better\" so hard they won't give their customers th",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@iamjensee.bsky.social (Bluesky): Lots of people here who have the means shifted real quick from Tesla to Rivian. ",
+        "url": "https://bsky.app/profile/did:plc:wrq4ygjpdybd77fgulhkfvy2/post/3mv43bqo7qc2d",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T17:37:50.767Z",
+        "score": 3,
+        "snippet": "Lots of people here who have the means shifted real quick from Tesla to Rivian. They're really popular here.",
+        "summary": "Lots of people here who have the means shifted real quick from Tesla to Rivian. They're really popular here.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mv42wjrfnx2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-09T17:31:33.963Z",
+        "score": 0,
+        "snippet": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "I Found an ABANDONED Rivian R1T and Restored It in 30 Seconds #viral #memes #aivideo",
+        "url": "https://youtube.com/watch?v=dxkw03vHzLs",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T01:42:21Z",
+        "score": 0,
+        "snippet": "This abandoned 1:18 Rivian R1T was covered in dust, sand, dried mud and grime after being left in an old desert service yard.",
+        "summary": "This abandoned 1:18 Rivian R1T was covered in dust, sand, dried mud and grime after being left in an old desert service yard.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian: Flaws and Glory- a comprehensive 2 year review",
+        "url": "https://youtube.com/watch?v=_lw5Qh0srmQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T01:15:33Z",
+        "score": 0,
+        "snippet": "Was buying an early Gen2 R1S Dual Standard a huge mistake or a pleasant surprise? This video goes over it all in detail and ...",
+        "summary": "Was buying an early Gen2 R1S Dual Standard a huge mistake or a pleasant surprise? This video goes over it all in detail and ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "$153 Miliar Menguap! Bagaimana \u2018Tesla Killer\u2019 Rivian Membuat Sahamnya Anjlok 90%?",
+        "url": "https://youtube.com/watch?v=6qoWnMucjf8",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T00:30:23Z",
+        "score": 0,
+        "snippet": "miliar. Itulah nilai pasar Rivian yang pernah membuat perusahaan mobil listrik ini disebut sebagai salah satu calon \u201cTesla Killer\u201d ...",
+        "summary": "miliar. Itulah nilai pasar Rivian yang pernah membuat perusahaan mobil listrik ini disebut sebagai salah satu calon \u201cTesla Killer\u201d ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Autonomy+ : Is It Even Close?",
+        "url": "https://youtube.com/watch?v=9PzZm_7nkaA",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T23:49:33Z",
+        "score": 0,
+        "snippet": "Ride along with AMCI Testing for a real-world test of the 2026 Rivian R2 and its Autonomy+ hands-free driving technology.",
+        "summary": "Ride along with AMCI Testing for a real-world test of the 2026 Rivian R2 and its Autonomy+ hands-free driving technology.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian&#39;s HUGE Software Update: Your EV Just Got Smarter!",
+        "url": "https://youtube.com/watch?v=-KHhW8_3HWI",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T23:47:07Z",
+        "score": 0,
+        "snippet": "Rivian just dropped its biggest software update EVER. Your older Rivian now gets the latest SUV's tech! See what's new.",
+        "summary": "Rivian just dropped its biggest software update EVER. Your older Rivian now gets the latest SUV's tech! See what's new.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Stratasys Launches F870: Toyota &amp; Rivian&#39;s New 3D Printer",
+        "url": "https://youtube.com/watch?v=cEiK36UtabI",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T23:02:36Z",
+        "score": 0,
+        "snippet": "The new Stratasys F870 FDM 3D printer is redefining industrial additive manufacturing, with Toyota and Rivian already adopting it ...",
+        "summary": "The new Stratasys F870 FDM 3D printer is redefining industrial additive manufacturing, with Toyota and Rivian already adopting it ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "\u0634\u0631\u0643\u0629 Rivian \u062a\u0631\u0627\u0647\u0646 \u0639\u0644\u0649 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0627\u0644\u0643\u0627\u0645\u0644\u0629 | Rivian\u2019s Gambit for Full Autonomy",
+        "url": "https://youtube.com/watch?v=Q9DD3BqOrVQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T22:40:21Z",
+        "score": 0,
+        "snippet": "\u0634\u0631\u0643\u0629 Rivian \u062a\u0631\u0627\u0647\u0646 \u0639\u0644\u0649 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u062a\u0639\u0644\u0646 \u0634\u0631\u0643\u0629 Rivian \u0639\u0646 \u062a\u0648\u062c\u0647 \u0637\u0645\u0648\u062d \u0646\u062d\u0648 \u062f\u0645\u062c \u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u0641\u064a \u0645\u0631\u0643\u0628\u0627\u062a\u0647\u0627 ...",
+        "summary": "\u0634\u0631\u0643\u0629 Rivian \u062a\u0631\u0627\u0647\u0646 \u0639\u0644\u0649 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u062a\u0639\u0644\u0646 \u0634\u0631\u0643\u0629 Rivian \u0639\u0646 \u062a\u0648\u062c\u0647 \u0637\u0645\u0648\u062d \u0646\u062d\u0648 \u062f\u0645\u062c \u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u0641\u064a \u0645\u0631\u0643\u0628\u0627\u062a\u0647\u0627 ...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian R2 Order Timeline: VIN Assigned Ready for Purchase",
+        "url": "https://youtube.com/watch?v=3ctF83dHwWY",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T22:40:20Z",
+        "score": 0,
+        "snippet": "I have been waiting for this - After placing an order for the Rivian R2, I waited and Waited. Finally I have a car assigned and I can ...",
+        "summary": "I have been waiting for this - After placing an order for the Rivian R2, I waited and Waited. Finally I have a car assigned and I can ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Unit 5 hires law firm to stop Rivian from lowering its property value",
+        "url": "https://youtube.com/watch?v=q0je2-IKqtQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T22:14:13Z",
+        "score": 0,
+        "snippet": "Unit 5 hires law firm to stop Rivian from lowering its property value.",
+        "summary": "Unit 5 hires law firm to stop Rivian from lowering its property value.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T #rivian #asmr #diecast",
+        "url": "https://youtube.com/watch?v=wIUZOPr8Ty4",
+        "source": "youtube",
+        "publishedAt": "2026-09-09T22:00:03Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian R1T #rivian #asmr #diecast",
+        "summary": "youtube signal: Rivian R1T #rivian #asmr #diecast",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
