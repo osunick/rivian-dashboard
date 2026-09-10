@@ -125431,5 +125431,468 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-10T14:02:10.118546Z",
+    "timestamp": "2026-09-10T14:02:10.118546Z",
+    "sentiment": {
+      "positive": 14,
+      "neutral": 82,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "positive"
+      },
+      "youtube": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 25,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "28 signals across Vehicles (25), Business (1); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, September 10, 2026 \u2014 2:02 PM PT \u2014 28 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 26 Rivian signals clustered around Vehicles (25), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* A company burning cash this fast shouldn\u2019t be able to afford a second miscalculation in a market it calls central to survival. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/vinfast-plans-two-new-evs-built-specifically-for-india/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (25)* \u2022 reddit_rivian signal: Rivian or Tesla?\n  https://www.reddit.com/r/Rivian/comments/1wcjuun/rivian_or_tesla/\n*Business (1)* \u2022 Rivian stock will be in the 30s very soon. Don\u2019t wait for confirmation\u2026. x.com/Rivian_DD/st...\n  https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mv5zcxch7s2j\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian or Tesla?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcjuun/rivian_or_tesla/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T13:52:46.786Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian or Tesla?",
+        "summary": "reddit_rivian signal: Rivian or Tesla?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New OS, no \u201cPlay next\u201d on Spotify?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcjlpy/new_os_no_play_next_on_spotify/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T13:42:55.967Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: New OS, no \u201cPlay next\u201d on Spotify?",
+        "summary": "reddit_rivian signal: New OS, no \u201cPlay next\u201d on Spotify?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone else annoyed with the garage buttons on the new OS?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcje3u/anyone_else_annoyed_with_the_garage_buttons_on/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T13:34:36.779Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Anyone else annoyed with the garage buttons on the new OS?",
+        "summary": "reddit_rivian signal: Anyone else annoyed with the garage buttons on the new OS?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone want/need the 3MF file for a Hitch Cover (R1-R2) Removal Tool? Can make STL as well.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcj5et/anyone_wantneed_the_3mf_file_for_a_hitch_cover/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T13:25:08.215Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Anyone want/need the 3MF file for a Hitch Cover (R1-R2) Removal Tool? Can make STL as well.",
+        "summary": "reddit_rivian signal: Anyone want/need the 3MF file for a Hitch Cover (R1-R2) Removal Tool? Can make STL as well.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Music visualizer",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcj0tk/music_visualizer/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T13:19:58.443Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Music visualizer",
+        "summary": "reddit_rivian signal: Music visualizer",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Garage door not on quick launch!?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wci5xz/garage_door_not_on_quick_launch/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T12:44:23.015Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Garage door not on quick launch!?",
+        "summary": "reddit_rivian signal: Garage door not on quick launch!?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1S Gen2 Mirror issue with OS 2 (2026.31.0) not fixed, it's actually getting worse.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wchswq/r1s_gen2_mirror_issue_with_os_2_2026310_not_fixed/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T12:28:55.857Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1S Gen2 Mirror issue with OS 2 (2026.31.0) not fixed, it's actually getting worse.",
+        "summary": "reddit_rivian signal: R1S Gen2 Mirror issue with OS 2 (2026.31.0) not fixed, it's actually getting worse.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Skyworth Auto to bring five-vehicle lineup and global Z9 premiere to IAA",
+        "url": "https://www.automotiveworld.com/topics/commercial-vehicle/skyworth-auto-to-bring-five-vehicle-lineup-and-global-z9-premiere-to-iaa/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 10 Sep 2026 13:46:45 +0000",
+        "score": 0,
+        "snippet": "Skyworth Auto will make its first appearance at IAA Transportation with a five-vehicle lineup and the global premiere of its Z9 autonomous heavy truck, marking a new stage in the brand\u2019s push into",
+        "summary": "Skyworth Auto will make its first appearance at IAA Transportation with a five-vehicle lineup and the global premiere of its Z9 autonomous heavy truck, marking a new stage in the brand\u2019s push into",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "VinFast plans two new EVs built specifically for India",
+        "url": "https://www.automotiveworld.com/news/vinfast-plans-two-new-evs-built-specifically-for-india/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 10 Sep 2026 13:45:37 +0000",
+        "score": 0,
+        "snippet": "A company burning cash this fast shouldn\u2019t be able to afford a second miscalculation in a market it calls central to survival. By Stewart Burnett The post <a href=\"",
+        "summary": "A company burning cash this fast shouldn\u2019t be able to afford a second miscalculation in a market it calls central to survival. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Senator claims Trump may let Chinese EVs into US",
+        "url": "https://www.automotiveworld.com/news/senator-claims-trump-may-let-chinese-evs-into-us/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 10 Sep 2026 12:11:48 +0000",
+        "score": 0,
+        "snippet": "Senator Slotkin\u2019s remarks are unsubstantiated and run contrary to the Trump administration\u2019s broad positioning on China. By Stewart Burnett The post <a href=\"",
+        "summary": "Senator Slotkin\u2019s remarks are unsubstantiated and run contrary to the Trump administration\u2019s broad positioning on China. By Stewart Burnett The post <a href=\"",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Baird Reiterates Outperform Rating on Rivian Automotive Inc (RIVN) - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjc1YVZ3Wl9BcDBqVFRZZzR3aHVKZ3NLRi00d2dIU3FuQjVNQ0NLLVRsbFNlclBOeGZtVVA4amNFUmxvcG4wX2JsQW9xNktDaWVmakVXaU50Mi1uQk5uZElLbHhmRWRMYzY4WVZKZ3pBRnpWY2Y1QW5Qc2lfZ3A5QlV0UnhHTTRFbHpjaURNY2xvWU5mN3BlNUt6Qmg2RnY3R1QxTmhTUHBhY1Q2Y3N6RmJpZU9Tcjh5S1RQMmk5bHh6c011UWZkeFlrdw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 10 Sep 2026 10:21:28 GMT",
+        "score": 0,
+        "snippet": "Baird Reiterates Outperform Rating on Rivian Automotive Inc (RIVN) - StreetInsider",
+        "summary": "Baird Reiterates Outperform Rating on Rivian Automotive Inc (RIVN) - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@johnkelly.bsky.social (Bluesky): Was excited Rivian spun out ALSO, but not surprised that their e-bikes are way t",
+        "url": "https://bsky.app/profile/did:plc:gpqpomp7hkwdqurauyjpgcmz/post/3mv67hcrdrk23",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T13:57:51.660Z",
+        "score": 1,
+        "snippet": "Was excited Rivian spun out ALSO, but not surprised that their e-bikes are way too over engineered to have mass market appeal.",
+        "summary": "Was excited Rivian spun out ALSO, but not surprised that their e-bikes are way too over engineered to have mass market appeal.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mv65s34gr22d",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T13:28:05.165Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bestdealssnews.bsky.social (Bluesky): Rivian makes the iconic American car \u2014 but that may not be\u00a0enough\n\nTheThe storm ",
+        "url": "https://bsky.app/profile/did:plc:auk4xklydfg2s6o6olr2pyus/post/3mv63nbylmg2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T12:49:37.558Z",
+        "score": 0,
+        "snippet": "Rivian makes the iconic American car \u2014 but that may not be enough TheThe storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell,",
+        "summary": "Rivian makes the iconic American car \u2014 but that may not be enough TheThe storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell,",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mv63dfahzk2q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T12:44:08.057Z",
+        "score": 1,
+        "snippet": "eletric-vehicles.com/rivian/rivia...",
+        "summary": "eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): price-target.com/2026/09/10/1...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mv637hy6fk2q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T12:41:55.070Z",
+        "score": 0,
+        "snippet": "price-target.com/2026/09/10/1...",
+        "summary": "price-target.com/2026/09/10/1...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@w0ger.woof.group.ap.brid.gy (Bluesky): Best vehicle I\u2019ve ever owned! I also love the adventurous nature of the company.",
+        "url": "https://bsky.app/profile/did:plc:cob5f56d45uu4k7olg3hupxz/post/3mv6364nv7b52",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T12:41:18.567Z",
+        "score": 1,
+        "snippet": "Best vehicle I\u2019ve ever owned! I also love the adventurous nature of the company. #rivian #ri1 #offroad #camping",
+        "summary": "Best vehicle I\u2019ve ever owned! I also love the adventurous nature of the company. #rivian #ri1 #offroad #camping",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian stock will be in the 30s very soon. Don\u2019t wait for confirmation\u2026. x.com/R",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mv5zcxch7s2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T12:08:12.464Z",
+        "score": 1,
+        "snippet": "Rivian stock will be in the 30s very soon. Don\u2019t wait for confirmation\u2026. x.com/Rivian_DD/st...",
+        "summary": "Rivian stock will be in the 30s very soon. Don\u2019t wait for confirmation\u2026. x.com/Rivian_DD/st...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2: The $45K Electric SUV That Could Change Everything! \u26a1\ud83d\udd25@USAcarnation-1",
+        "url": "https://youtube.com/watch?v=7FR-pjeDijA",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T14:00:38Z",
+        "score": 0,
+        "snippet": "Rivian R2: The $45K Electric SUV That Could Change Everything! \u26a1 @USAcarnation-1 Description The Rivian R2 could be ...",
+        "summary": "Rivian R2: The $45K Electric SUV That Could Change Everything! \u26a1 @USAcarnation-1 Description The Rivian R2 could be ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2 Rivian EDV Amazon Delivery Vans same customer Same damage, Wild!",
+        "url": "https://youtube.com/watch?v=zksNPzA47pQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T11:51:00Z",
+        "score": 0,
+        "snippet": "youtube signal: 2 Rivian EDV Amazon Delivery Vans same customer Same damage, Wild!",
+        "summary": "youtube signal: 2 Rivian EDV Amazon Delivery Vans same customer Same damage, Wild!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ub9ac\ube44\uc548 R2, \ub4dc\ub514\uc5b4 \uacf5\uac1c\ub41c \uc2e0\uaddc \uc635\uc158! &#39;\ucf54\uc2a4\ud0c8 \ud074\ub77c\uc6b0\ub4dc&#39; \uc778\ud14c\ub9ac\uc5b4 \ucd1d\uc815\ub9ac",
+        "url": "https://youtube.com/watch?v=2bmz9XSOL1M",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T10:00:05Z",
+        "score": 0,
+        "snippet": "\uc804\uae30\ucc28 \uc2dc\uc7a5\uc758 \uae30\ub300\uc8fc \ub9ac\ube44\uc548(Rivian)\uc774 R2 \ubaa8\ub378\uc758 \uc0c8\ub85c\uc6b4 \uc635\uc158\uc744 \uc804\uaca9 \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \ub9ce\uc740 \uc774\ub4e4\uc774 \uae30\ub2e4\ub824\uc628 '\ucf54\uc2a4\ud0c8 ...",
+        "summary": "\uc804\uae30\ucc28 \uc2dc\uc7a5\uc758 \uae30\ub300\uc8fc \ub9ac\ube44\uc548(Rivian)\uc774 R2 \ubaa8\ub378\uc758 \uc0c8\ub85c\uc6b4 \uc635\uc158\uc744 \uc804\uaca9 \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \ub9ce\uc740 \uc774\ub4e4\uc774 \uae30\ub2e4\ub824\uc628 '\ucf54\uc2a4\ud0c8 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\u200bRivian x iKamper Skycamp 4.0 DLX Duo Rooftop Tent Walkthrough #zbbranstore #usa #ikamper #skycam",
+        "url": "https://youtube.com/watch?v=P5yvWkof8K4",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T10:00:05Z",
+        "score": 0,
+        "snippet": "Looking for the ultimate overlanding and camping setup? Watch how these premium rooftop tents transform any vehicle into an ...",
+        "summary": "Looking for the ultimate overlanding and camping setup? Watch how these premium rooftop tents transform any vehicle into an ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "\ub9ac\ube44\uc548(Rivian)\uc758 \uc6b4\uba85\uc744 \ubc14\uafc0 R2! 2028\ub144 20\ub9cc \ub300 \ud310\ub9e4\uc640 \ud751\uc790 \uc804\ud658 \uac00\ub2a5\ud560\uae4c?",
+        "url": "https://youtube.com/watch?v=t5m8N4cnjgc",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T09:45:26Z",
+        "score": 0,
+        "snippet": "\ubbf8\uad6d \uc804\uae30\ucc28 \uc2a4\ud0c0\ud2b8\uc5c5 \ub9ac\ube44\uc548(Rivian)\uc758 \uc6b4\uba85\uc744 \uacb0\uc815\uc9c0\uc744 \ud575\uc2ec \uce74\ub4dc, 'R2'\uac00 \ub4dc\ub514\uc5b4 \ubcf8\uaca9\uc801\uc778 \uace0\uac1d \uc778\ub3c4\ub97c \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4! \uae30\uc874 R1 ...",
+        "summary": "\ubbf8\uad6d \uc804\uae30\ucc28 \uc2a4\ud0c0\ud2b8\uc5c5 \ub9ac\ube44\uc548(Rivian)\uc758 \uc6b4\uba85\uc744 \uacb0\uc815\uc9c0\uc744 \ud575\uc2ec \uce74\ub4dc, 'R2'\uac00 \ub4dc\ub514\uc5b4 \ubcf8\uaca9\uc801\uc778 \uace0\uac1d \uc778\ub3c4\ub97c \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4! \uae30\uc874 R1 ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian x iKamper Skycamp 4.0 DLX Trio Setup | Ultimate Overland Rig #zbbrandstore #ikamper #rivian",
+        "url": "https://youtube.com/watch?v=VSYy5quayA0",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T09:00:31Z",
+        "score": 0,
+        "snippet": "Looking for the ultimate overlanding and camping setup? Watch how these premium rooftop tents transform any vehicle into an ...",
+        "summary": "Looking for the ultimate overlanding and camping setup? Watch how these premium rooftop tents transform any vehicle into an ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Cold Is Killing the Battery ... Can the Rivian Escape",
+        "url": "https://youtube.com/watch?v=1l300EK2ZFo",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T07:25:41Z",
+        "score": 0,
+        "snippet": "The Cold Is Killing the Battery ... Can the Rivian Escape The 2026 Rivian R1T \u2014 \"The Innovator\" faces one of its toughest winter ...",
+        "summary": "The Cold Is Killing the Battery ... Can the Rivian Escape The 2026 Rivian R1T \u2014 \"The Innovator\" faces one of its toughest winter ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Dune Is Collapsing ... Can the Rivian Escape \ud83d\ude31",
+        "url": "https://youtube.com/watch?v=4Abliih21Zs",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T07:25:41Z",
+        "score": 0,
+        "snippet": "The Dune Is Collapsing ... Can the Rivian Escape \u26a0\ufe0f Disclaimer: All vehicles, scenes, and driving sequences shown in this ...",
+        "summary": "The Dune Is Collapsing ... Can the Rivian Escape \u26a0\ufe0f Disclaimer: All vehicles, scenes, and driving sequences shown in this ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2026 Rivian R1T Adjusts Torque in Deep Sand! \ud83d\ude31\u26a1\ud83c\udfdc\ufe0f",
+        "url": "https://youtube.com/watch?v=Zz0OMrKRTXw",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T07:25:41Z",
+        "score": 0,
+        "snippet": "2026 Rivian R1T vs The Final Mountain Climb! \u26a1 The 2026 Rivian R1T makes it to the summit\u2026 but suddenly stops!",
+        "summary": "2026 Rivian R1T vs The Final Mountain Climb! \u26a1 The 2026 Rivian R1T makes it to the summit\u2026 but suddenly stops!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T Reaches the Summit\u2026 THEN STOPS! \ud83d\ude31\u26f0\ufe0f",
+        "url": "https://youtube.com/watch?v=67gKQPJw7s8",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T07:25:42Z",
+        "score": 0,
+        "snippet": "2026 Rivian R1T vs The Final Mountain Climb! \u26a1 \u26a0\ufe0f Disclaimer: All vehicles, scenes, and driving sequences shown in this ...",
+        "summary": "2026 Rivian R1T vs The Final Mountain Climb! \u26a1 \u26a0\ufe0f Disclaimer: All vehicles, scenes, and driving sequences shown in this ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
