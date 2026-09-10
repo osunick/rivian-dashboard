@@ -125894,5 +125894,390 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-10T18:02:39.266935Z",
+    "timestamp": "2026-09-10T18:02:39.266935Z",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 81,
+      "negative": 13
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "22 signals across Vehicles (16), Community (2); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, September 10, 2026 \u2014 6:02 PM PT \u2014 22 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 21 Rivian signals clustered around Vehicles (16), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Community Signals, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Founder and CEO @hamzaderbas has assembled a team with 200+ years of combined experience across AI, robotics, engineering, and autonomous systems, including work at Apple, Tesla, Rivian, Cruise, Zoox,\n  https://bsky.app/profile/did:plc:iipowqhztticiguaxkwgtiwt/post/3mv6elcagor2g\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Demo Drive - Chicago\n  https://www.reddit.com/r/RivianR2/comments/1wcmth9/demo_drive_chicago/\n*Vehicles (16)* \u2022 reddit_rivian signal: My 1 year anniversary (ownership)\n  https://www.reddit.com/r/Rivian/comments/1wcpxi1/my_1_year_anniversary_ownership/\n*Business (1)* \u2022 Rivian's Q2 2026 earnings call reveals a strong quarter with $1.66 billion revenue, driven by the successful launch and ramp of ...\n  https://youtube.com/watch?v=5oZLGUOsiyo\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 open.substack.com/pub/autopren...\n  https://bsky.app/profile/did:plc:kmine5ajxma366dpo3p5qekc/post/3mv6cj27omc2l\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "My 1 year anniversary (ownership)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcpxi1/my_1_year_anniversary_ownership/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T17:34:10.346Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: My 1 year anniversary (ownership)",
+        "summary": "reddit_rivian signal: My 1 year anniversary (ownership)",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 vs R1T",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcozax/r2_vs_r1t/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T17:01:05.993Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 vs R1T",
+        "summary": "reddit_rivian signal: R2 vs R1T",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian SUV + Sport Mode = Speed Racer",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcoyyp/rivian_suv_sport_mode_speed_racer/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T17:00:49.195Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian SUV + Sport Mode = Speed Racer",
+        "summary": "reddit_rivian signal: Rivian SUV + Sport Mode = Speed Racer",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How much range am I losing? \ud83d\ude05",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcow2y/how_much_range_am_i_losing/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T16:58:06.544Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: How much range am I losing? \ud83d\ude05",
+        "summary": "reddit_rivian signal: How much range am I losing? \ud83d\ude05",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Do not disturb for texts",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wco3t2/do_not_disturb_for_texts/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T16:29:34.154Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Do not disturb for texts",
+        "summary": "reddit_rivian signal: Do not disturb for texts",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How to get rid of the silly card on the new Rivian OS",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcnfw6/how_to_get_rid_of_the_silly_card_on_the_new/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T16:05:37.416Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: How to get rid of the silly card on the new Rivian OS",
+        "summary": "reddit_rivian signal: How to get rid of the silly card on the new Rivian OS",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Temperature down \u201cbutton\u201d stuck",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcmab4/temperature_down_button_stuck/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T15:23:25.506Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Temperature down \u201cbutton\u201d stuck",
+        "summary": "reddit_rivian signal: Temperature down \u201cbutton\u201d stuck",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone switching to Recon\u2026?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wcnc07/anyone_switching_to_recon/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-10T16:01:43.577Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Anyone switching to Recon\u2026?",
+        "summary": "reddit_rivian_r2 signal: Anyone switching to Recon\u2026?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Demo Drive - Chicago",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wcmth9/demo_drive_chicago/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-10T15:43:19.553Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Demo Drive - Chicago",
+        "summary": "reddit_rivian_r2 signal: Demo Drive - Chicago",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Thailand moves to tax imported EVs above local models",
+        "url": "https://www.automotiveworld.com/news/thailand-moves-to-tax-imported-evs-above-local-models/",
+        "source": "automotive_world",
+        "publishedAt": "Thu, 10 Sep 2026 15:11:39 +0000",
+        "score": 0,
+        "snippet": "Chinese automakers exploited a grace period to gain 89% EV market share, and may duck the new system via local assembly too. By Stewart Burnett The post <a href=\"",
+        "summary": "Chinese automakers exploited a grace period to gain 89% EV market share, and may duck the new system via local assembly too. By Stewart Burnett The post <a href=\"",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Senator Warns Trump May Open U.S. Market To Chinese EVs In Xi Deal, Threatening Tesla (NASDAQ: TSLA) And Rivian (NASDAQ: RIVN) - foreignpolicyjournal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWF96NG5MUzlvbGFiRDh0UjZkMFpoZmdzOENSVlMyVEhTOGVQVnJKdXBCc0oyZk1Dc3BwX19Wa2tsMFJTbF9xX0VPZG5LVTBiejRPTV9jaTdQVWFYWHpTYi1mcTJ4RXdvTzRwcGJiQ2V2X3Q3T2tfQmlGc3g4RnZ0QTFmSFg0V1ZUT0NKQ1NpQV9hanMwUFBERmk1SThxaTBVbVlsZ0lrcldzc01KSGdhMG4yUXI3ZEZFVEZLdjBONTRkNVY0aTJFZWZBMWlWc1huX3NrX2xVamkxQS1WVnpMa3o2ZUdyTHBaZE5FRHVZamQ1R0g3WVQ2VHdvdw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 10 Sep 2026 14:23:00 GMT",
+        "score": 0,
+        "snippet": "Senator Warns Trump May Open U.S. Market To Chinese EVs In Xi Deal, Threatening Tesla (NASDAQ: TSLA) And Rivian (NASDAQ: RIVN) - foreignpolicyjournal.com",
+        "summary": "Senator Warns Trump May Open U.S. Market To Chinese EVs In Xi Deal, Threatening Tesla (NASDAQ: TSLA) And Rivian (NASDAQ: RIVN) - foreignpolicyjournal.com",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ettorethechef.bsky.social (Bluesky): Happy Rivian guy here",
+        "url": "https://bsky.app/profile/did:plc:6evyrqlvvq63gjgylbkmzy2x/post/3mv6m3shy7s2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T17:44:03.061Z",
+        "score": 3,
+        "snippet": "Happy Rivian guy here",
+        "summary": "Happy Rivian guy here",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): R2 VINs are past 11,000 \ud83d\udc40\n\nUp about 2,000 in under two weeks. Doesn't mean 11k h",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mv6gmbuzls2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T16:05:55.962Z",
+        "score": 8,
+        "snippet": "R2 VINs are past 11,000 \ud83d\udc40 Up about 2,000 in under two weeks. Doesn't mean 11k have been built, but the pace is picking up ahead of Rivian's second shift. Data courtesy of @rivianroamer.com riviantr",
+        "summary": "R2 VINs are past 11,000 \ud83d\udc40 Up about 2,000 in under two weeks. Doesn't mean 11k have been built, but the pace is picking up ahead of Rivian's second shift. Data courtesy of @rivianroamer.com riviantr",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@citizenptnewsca.bsky.social (Bluesky): San Dimas City Council just approved a groundbreaking ordinance paving the way f",
+        "url": "https://bsky.app/profile/did:plc:ln64ikjg6qe4wf2hcoykfgae/post/3mv6euqsnnj24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T15:34:51.264Z",
+        "score": 0,
+        "snippet": "San Dimas City Council just approved a groundbreaking ordinance paving the way for Rivian's innovative sales and service facility, promising 30-50 new jobs and cutting-edge EV technology! Click to r",
+        "summary": "San Dimas City Council just approved a groundbreaking ordinance paving the way for Rivian's innovative sales and service facility, promising 30-50 new jobs and cutting-edge EV technology! Click to r",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ownfeed.bsky.social (Bluesky): Founder and CEO @hamzaderbas has assembled a team with 200+ years of combined ex",
+        "url": "https://bsky.app/profile/did:plc:iipowqhztticiguaxkwgtiwt/post/3mv6elcagor2g",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T15:29:33.977Z",
+        "score": 0,
+        "snippet": "Founder and CEO @hamzaderbas has assembled a team with 200+ years of combined experience across AI, robotics, engineering, and autonomous systems, including work at Apple, Tesla, Rivian, Cruise, Zoox,",
+        "summary": "Founder and CEO @hamzaderbas has assembled a team with 200+ years of combined experience across AI, robotics, engineering, and autonomous systems, including work at Apple, Tesla, Rivian, Cruise, Zoox,",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@alexv78.bsky.social (Bluesky): open.substack.com/pub/autopren...",
+        "url": "https://bsky.app/profile/did:plc:kmine5ajxma366dpo3p5qekc/post/3mv6cj27omc2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T14:52:36.859Z",
+        "score": 0,
+        "snippet": "open.substack.com/pub/autopren...",
+        "summary": "open.substack.com/pub/autopren...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@jasonbryanball.com (Bluesky): American auto manufactures are about to get a devastating lesson in the failure ",
+        "url": "https://bsky.app/profile/did:plc:2hrwikobbjy5qjdyizmmvfg4/post/3mv6bkyqmpk2n",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T14:35:44.567Z",
+        "score": 0,
+        "snippet": "American auto manufactures are about to get a devastating lesson in the failure to adapt and evolve. China has low cost EV's that are self driving, the US has giant coal rollers. finance.yahoo.com/",
+        "summary": "American auto manufactures are about to get a devastating lesson in the failure to adapt and evolve. China has low cost EV's that are self driving, the US has giant coal rollers. finance.yahoo.com/",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "My Rivian R2 Finally Has Shade! Kammok Crosswing Install",
+        "url": "https://youtube.com/watch?v=wYT7i4_Gs_o",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T17:00:37Z",
+        "score": 0,
+        "snippet": "Welcome back everyone! Here, we take a close look at the Rivian Kammok Crosswing Awning and fully install it on my Rivian R2!",
+        "summary": "Welcome back everyone! Here, we take a close look at the Rivian Kammok Crosswing Awning and fully install it on my Rivian R2!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian suv rare sighting, l hear they have issues but look great and are fast",
+        "url": "https://youtube.com/watch?v=V5XdzSpn6nY",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T16:36:05Z",
+        "score": 0,
+        "snippet": "Always cool to see Rivian SUV and not at a soccer field go figure, maybe they are headed that way lololo.",
+        "summary": "Always cool to see Rivian SUV and not at a soccer field go figure, maybe they are headed that way lololo.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Amazon Rivian AC vs. USPS Truck",
+        "url": "https://youtube.com/watch?v=ndNCsraifyA",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T16:22:16Z",
+        "score": 0,
+        "snippet": "youtube signal: Amazon Rivian AC vs. USPS Truck",
+        "summary": "youtube signal: Amazon Rivian AC vs. USPS Truck",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How to change the regenerative breaking setting on a Rivian R1 S",
+        "url": "https://youtube.com/watch?v=OvIPYduUuYA",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T15:25:53Z",
+        "score": 0,
+        "snippet": "FUN STUFF: Affiliate links to my favorite products I actually use: ...",
+        "summary": "FUN STUFF: Affiliate links to my favorite products I actually use: ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Q2 2026 Earnings: R2 Launch, Autonomy+ &amp; Growth Outlook",
+        "url": "https://youtube.com/watch?v=5oZLGUOsiyo",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T14:43:42Z",
+        "score": 0,
+        "snippet": "Rivian's Q2 2026 earnings call reveals a strong quarter with $1.66 billion revenue, driven by the successful launch and ramp of ...",
+        "summary": "Rivian's Q2 2026 earnings call reveals a strong quarter with $1.66 billion revenue, driven by the successful launch and ramp of ...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
