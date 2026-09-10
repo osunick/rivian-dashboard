@@ -126279,5 +126279,336 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-10T22:02:29.469411Z",
+    "timestamp": "2026-09-10T22:02:29.469411Z",
+    "sentiment": {
+      "positive": 16,
+      "neutral": 83,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 6,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "18 signals across Vehicles (13), Software (3); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, September 10, 2026 \u2014 10:02 PM PT \u2014 18 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 17 Rivian signals clustered around Vehicles (13), Software (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Software, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* reddit_electricvehicles signal: Test driving the Zeekr 7x in Panama\n  https://www.reddit.com/r/electricvehicles/comments/1wcs4ph/test_driving_the_zeekr_7x_in_panama/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Ordered yesterday. Test drive sold me.\n  https://www.reddit.com/r/RivianR2/comments/1wct5jl/ordered_yesterday_test_drive_sold_me/\n*Vehicles (13)* \u2022 reddit_rivian signal: Rivian V2H Capability\n  https://www.reddit.com/r/Rivian/comments/1wcv485/rivian_v2h_capability/\n*Business (0)* \u2022 No signals\n*Software (3)* \u2022 Rivian has shared updated Owner's Guides for R1S/R1T with the new 2026.31 software update. R1S (Model Year 2022-2024): buff.ly/xnGSfxs R1S (Model Year 2025-2027): buff.ly/pvJeBjK R1T (Model Yea\n  https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mv6zqv6ypq2v\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian V2H Capability",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcv485/rivian_v2h_capability/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T20:38:17.313Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian V2H Capability",
+        "summary": "reddit_rivian signal: Rivian V2H Capability",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Trade in with expired registration?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wcrgmm/trade_in_with_expired_registration/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-10T18:27:41.809Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Trade in with expired registration?",
+        "summary": "reddit_rivian signal: Trade in with expired registration?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Adjustable trunk (boot) height",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wcu742/adjustable_trunk_boot_height/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-10T20:04:27.443Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Adjustable trunk (boot) height",
+        "summary": "reddit_rivian_r2 signal: Adjustable trunk (boot) height",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ordered yesterday. Test drive sold me.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wct5jl/ordered_yesterday_test_drive_sold_me/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-10T19:26:48.870Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Ordered yesterday. Test drive sold me.",
+        "summary": "reddit_rivian_r2 signal: Ordered yesterday. Test drive sold me.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Test driving the Zeekr 7x in Panama",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wcs4ph/test_driving_the_zeekr_7x_in_panama/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-10T18:51:11.953Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Test driving the Zeekr 7x in Panama",
+        "summary": "reddit_electricvehicles signal: Test driving the Zeekr 7x in Panama",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian (NASDAQ:RIVN): Why Raised Its Delivery Guidance Even As Costs Climb? - kalkinemedia.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2hvVVhGbGVzbEwzRjgzV0sxLUpBTDE2SGhyTG1XT1JRTFpSdXEwUlNyWjJzcTdjQmo0aFdnZ1ExMDZUX0Eydi1ScVZNY0tSSkZTVm5Fd0FvWDZWazVqQjJEckZiX3o3bHJ3bEVIOElHdkl1MGZCMk0xZ2FJM3Z0NUlIRTBjWHU4ZDRFYTMzQXV1Sjl2UTBLQnhscWVSQnZPMWlabUVTS0Z2SnpaRm82NHBOX3o0Wjg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 10 Sep 2026 18:34:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (NASDAQ:RIVN): Why Raised Its Delivery Guidance Even As Costs Climb? - kalkinemedia.com",
+        "summary": "Rivian (NASDAQ:RIVN): Why Raised Its Delivery Guidance Even As Costs Climb? - kalkinemedia.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has shared updated Owner's Guides for R1S/R1T with the new 2026.31 softwa",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mv6zqv6ypq2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T21:48:31.267Z",
+        "score": 0,
+        "snippet": "Rivian has shared updated Owner's Guides for R1S/R1T with the new 2026.31 software update. R1S (Model Year 2022-2024): buff.ly/xnGSfxs R1S (Model Year 2025-2027): buff.ly/pvJeBjK R1T (Model Yea",
+        "summary": "Rivian has shared updated Owner's Guides for R1S/R1T with the new 2026.31 software update. R1S (Model Year 2022-2024): buff.ly/xnGSfxs R1S (Model Year 2025-2027): buff.ly/pvJeBjK R1T (Model Yea",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): ICYMI: The best electric SUV of 2026 scored higher than anything else Edmunds te",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mv6wcnpr5c2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T20:46:51.560Z",
+        "score": 0,
+        "snippet": "ICYMI: The best electric SUV of 2026 scored higher than anything else Edmunds tested. Here's the full ranking: A three-row family SUV that beat every luxury model on the list, a tie for first place be",
+        "summary": "ICYMI: The best electric SUV of 2026 scored higher than anything else Edmunds tested. Here's the full ranking: A three-row family SUV that beat every luxury model on the list, a tie for first place be",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@brownkuma.dad (Bluesky): Caltrans has a rivian truck fleet now?!",
+        "url": "https://bsky.app/profile/did:plc:66ha7i7qipeic326q7tcfjd5/post/3mv6uhfcfa22g",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T20:13:43.267Z",
+        "score": 1,
+        "snippet": "Caltrans has a rivian truck fleet now?!",
+        "summary": "Caltrans has a rivian truck fleet now?!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@stephenpurvisfilms.bsky.social (Bluesky): Rivian R2 - A New Electric SUV Starts at $45,000 next year. \nIts federal mileage",
+        "url": "https://bsky.app/profile/did:plc:26g26mffzba6q6qyymi3tvyk/post/3mv6qfxu3gk2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T19:01:22.458Z",
+        "score": 0,
+        "snippet": "Rivian R2 - A New Electric SUV Starts at $45,000 next year. Its federal mileage on a full charge ranges from 275 to 345... www.nytimes.com/2026/09/07/b...",
+        "summary": "Rivian R2 - A New Electric SUV Starts at $45,000 next year. Its federal mileage on a full charge ranges from 275 to 345... www.nytimes.com/2026/09/07/b...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): New in the RivianTrackr Tire Guide: tires for wheel sizes Rivian doesn't sell. R",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mv6otliqnk2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T18:33:15.271Z",
+        "score": 6,
+        "snippet": "New in the RivianTrackr Tire Guide: tires for wheel sizes Rivian doesn't sell. R2 on 18s? Now searchable. Every one is tagged \"3rd-party wheels\" with a fitment note, so you know what you're getting in",
+        "summary": "New in the RivianTrackr Tire Guide: tires for wheel sizes Rivian doesn't sell. R2 on 18s? Now searchable. Every one is tagged \"3rd-party wheels\" with a fitment note, so you know what you're getting in",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Forest Green \u2705\nCoastal Cloud \u2705\nBorealis \ud83d\udd1c\n\nriviantrackr.com/news/r2-bore...",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mv6nlqihbk2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-10T18:10:54.959Z",
+        "score": 9,
+        "snippet": "Forest Green \u2705 Coastal Cloud \u2705 Borealis \ud83d\udd1c riviantrackr.com/news/r2-bore...",
+        "summary": "Forest Green \u2705 Coastal Cloud \u2705 Borealis \ud83d\udd1c riviantrackr.com/news/r2-bore...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I Lived With the 1000HP Rivian R1S Quad - My Honest Thoughts",
+        "url": "https://youtube.com/watch?v=N6XRXw3U-kE",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T21:09:27Z",
+        "score": 0,
+        "snippet": "Rivian as a brand has truly done something amazing in only a few years. To create a brand new car company is no easy feat, and ...",
+        "summary": "Rivian as a brand has truly done something amazing in only a few years. To create a brand new car company is no easy feat, and ...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Amazon\u2019s Electric Delivery Van is Seriously Cool #amazon #rivian #electricvan",
+        "url": "https://youtube.com/watch?v=m5tRa2JwAi8",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T21:01:58Z",
+        "score": 0,
+        "snippet": "Look at this little baby! Amazon's Rivian electric delivery van is honestly looking way too cute for a delivery vehicle.",
+        "summary": "Look at this little baby! Amazon's Rivian electric delivery van is honestly looking way too cute for a delivery vehicle.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 day one update!  #automobile #rivian #rivianr2 #shorts",
+        "url": "https://youtube.com/watch?v=h7bn3mUqpVc",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T19:59:20Z",
+        "score": 0,
+        "snippet": "Day one update on driving our new Rivian R2! We expected some gremlins and we are definitely getting some. Hopefully one day ...",
+        "summary": "Day one update on driving our new Rivian R2! We expected some gremlins and we are definitely getting some. Hopefully one day ...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "#rivian OS2 makes it easy for driver and passenger to access car controls. Is that good or bad?",
+        "url": "https://youtube.com/watch?v=73RMp610F9g",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T19:20:33Z",
+        "score": 0,
+        "snippet": "youtube signal: #rivian OS2 makes it easy for driver and passenger to access car controls. Is that good or bad?",
+        "summary": "youtube signal: #rivian OS2 makes it easy for driver and passenger to access car controls. Is that good or bad?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How to Reset Rear Cargo Latch on an Amazon Rivian EDV 700 if rear door does not latch closed",
+        "url": "https://youtube.com/watch?v=rJumtmvpOMI",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T18:31:59Z",
+        "score": 0,
+        "snippet": "youtube signal: How to Reset Rear Cargo Latch on an Amazon Rivian EDV 700 if rear door does not latch closed",
+        "summary": "youtube signal: How to Reset Rear Cargo Latch on an Amazon Rivian EDV 700 if rear door does not latch closed",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Demand SURGES \u2502 Autonomy, Custom Silicon &amp; Uber Robotaxi Breakdown",
+        "url": "https://youtube.com/watch?v=2U3r2Mb3TbY",
+        "source": "youtube",
+        "publishedAt": "2026-09-10T18:15:32Z",
+        "score": 0,
+        "snippet": "Rivian R2 demand, autonomy progress, custom silicon & Uber robotaxi updates Join my Patreon to unlock exclusive BUY ...",
+        "summary": "Rivian R2 demand, autonomy progress, custom silicon & Uber robotaxi updates Join my Patreon to unlock exclusive BUY ...",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "Autonomy",
+          "Software"
+        ]
+      }
+    ]
   }
 ]
