@@ -126610,5 +126610,350 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-11T14:01:28.677485Z",
+    "timestamp": "2026-09-11T14:01:28.677485Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 94,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Demo Drives",
+      "EV Market",
+      "RIVN Stock",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "19 signals across Vehicles (15), Software (2); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, September 11, 2026 \u2014 2:01 PM PT \u2014 19 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by EV Market, RIVN Stock.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (15), Software (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Software, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Rivn Stock:* For a decade and a half, Tesla Inc. offered the only public market bet on Elon Musk. But since SpaceX began trading in June, the electric vehicle giant has had to share its special sauce as it tests i\n  https://www.bloomberg.com/news/articles/2026-09-11/tesla-shares-suffer-slow-summer-after-spacex-ipo-earnings-rout\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Private Test Drive in Madison, WI?\n  https://www.reddit.com/r/RivianR2/comments/1wcxsed/private_test_drive_in_madison_wi/\n*Vehicles (15)* \u2022 reddit_rivian signal: Purchased a Gen1 2022 R1S Launch Edition with 27k miles\n  https://www.reddit.com/r/Rivian/comments/1wdf50q/purchased_a_gen1_2022_r1s_launch_edition_with_27k/\n*Business (0)* \u2022 No signals\n*Software (2)* \u2022 reddit_rivian signal: Disappearing update?\n  https://www.reddit.com/r/Rivian/comments/1wd7uju/disappearing_update/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 RIVN Stock\n\u2022 Software\n\u2022 Tesla Competition\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Purchased a Gen1 2022 R1S Launch Edition with 27k miles",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wdf50q/purchased_a_gen1_2022_r1s_launch_edition_with_27k/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-11T12:39:11.978Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Purchased a Gen1 2022 R1S Launch Edition with 27k miles",
+        "summary": "reddit_rivian signal: Purchased a Gen1 2022 R1S Launch Edition with 27k miles",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Borealis Color",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wdf3rq/borealis_color/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-11T12:37:49.074Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Borealis Color",
+        "summary": "reddit_rivian signal: Borealis Color",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I . . Um. . . Don\u2019t like Riv 2.0",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wdcqb7/i_um_dont_like_riv_20/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-11T10:46:36.675Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: I . . Um. . . Don\u2019t like Riv 2.0",
+        "summary": "reddit_rivian signal: I . . Um. . . Don\u2019t like Riv 2.0",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Disappearing update?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wd7uju/disappearing_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-11T06:07:37.200Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Disappearing update?",
+        "summary": "reddit_rivian signal: Disappearing update?",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "2026 R1T garage software issue",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wd5tnk/2026_r1t_garage_software_issue/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-11T04:18:48.564Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 2026 R1T garage software issue",
+        "summary": "reddit_rivian signal: 2026 R1T garage software issue",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "HVAC Very Loud While L2 Charging",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wd3dvd/hvac_very_loud_while_l2_charging/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-09-11T02:22:53.468Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: HVAC Very Loud While L2 Charging",
+        "summary": "reddit_rivian signal: HVAC Very Loud While L2 Charging",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Our R1S repair experience has us rethinking our R2 preorder",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wd5w1c/our_r1s_repair_experience_has_us_rethinking_our/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-11T04:22:09.849Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Our R1S repair experience has us rethinking our R2 preorder",
+        "summary": "reddit_rivian_r2 signal: Our R1S repair experience has us rethinking our R2 preorder",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Showroom Etiquette",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wd0fxx/showroom_etiquette/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-11T00:11:44.138Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Showroom Etiquette",
+        "summary": "reddit_rivian_r2 signal: Showroom Etiquette",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Private Test Drive in Madison, WI?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wcxsed/private_test_drive_in_madison_wi/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-10T22:20:53.564Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Private Test Drive in Madison, WI?",
+        "summary": "reddit_rivian_r2 signal: Private Test Drive in Madison, WI?",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Why do I want an EV truck so badly?",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wcv8b1/why_do_i_want_an_ev_truck_so_badly/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-10T20:42:26.142Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Why do I want an EV truck so badly?",
+        "summary": "reddit_electricvehicles signal: Why do I want an EV truck so badly?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Shares Suffer Slow Summer After SpaceX IPO, Earnings Rout",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-11/tesla-shares-suffer-slow-summer-after-spacex-ipo-earnings-rout",
+        "source": "bloomberg_markets",
+        "publishedAt": "Fri, 11 Sep 2026 13:15:50 GMT",
+        "score": 0,
+        "snippet": "For a decade and a half, Tesla Inc. offered the only public market bet on Elon Musk. But since SpaceX began trading in June, the electric vehicle giant has had to share its special sauce as it tests i",
+        "summary": "For a decade and a half, Tesla Inc. offered the only public market bet on Elon Musk. But since SpaceX began trading in June, the electric vehicle giant has had to share its special sauce as it tests i",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "RIVN Stock",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Rivian Automotive, Inc. (RIVN) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUpIOVJxOUZpemZrVGU4WHpYQjFQbzVXOUhJV1hWZmhOb1VGU2RjbVVwNFlURTMza0JHUEpYZGE5RXQ1SWFmOU81ZWVmaDRkaW9nXzRzY0dtWGtJVGF3bklvdGtnRTB4ZzRkeTRKZEFSS1pPTjRuYWlYUlFCdFNneGlhd2lSem50dTlXUTBEd1Rzc2FlWkxRZk8tTXQ3ckZwMzNreg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 11 Sep 2026 13:00:07 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive, Inc. (RIVN) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "summary": "Rivian Automotive, Inc. (RIVN) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Can the $45k Rivian R2 Beat Big Brother? R1S vs R2 Head-to-Head Road Trip",
+        "url": "https://youtube.com/watch?v=Hb7LLziLSFE",
+        "source": "youtube",
+        "publishedAt": "2026-09-11T13:30:08Z",
+        "score": 0,
+        "snippet": "We took the Rivian R1S and the all-new Rivian R2 on an 500+ mile head-to-head road trip from New Jersey up to Vermont and ...",
+        "summary": "We took the Rivian R1S and the all-new Rivian R2 on an 500+ mile head-to-head road trip from New Jersey up to Vermont and ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 \u2013 The NEW Electric SUV Is Here! ",
+        "url": "https://youtube.com/watch?v=kscIU6bV8wQ",
+        "source": "youtube",
+        "publishedAt": "2026-09-11T13:16:53Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2 could be one of the most exciting electric SUVs of the future! \u26a1 In this video, we take a closer look at the Rivian ...",
+        "summary": "2027 Rivian R2 could be one of the most exciting electric SUVs of the future! \u26a1 In this video, we take a closer look at the Rivian ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why The Rivian R2 Could Be America\u2019s Most Important Electric SUV",
+        "url": "https://youtube.com/watch?v=7AlvdZwZHqM",
+        "source": "youtube",
+        "publishedAt": "2026-09-11T13:00:10Z",
+        "score": 0,
+        "snippet": "The Rivian R2 could be one of the most important electric SUVs coming from America \u2014 and there's a lot more to this compact ...",
+        "summary": "The Rivian R2 could be one of the most important electric SUVs coming from America \u2014 and there's a lot more to this compact ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN RIT 2023 | 7FCTGAAA1PN023249",
+        "url": "https://youtube.com/watch?v=JPPWB_IgITI",
+        "source": "youtube",
+        "publishedAt": "2026-09-11T12:35:54Z",
+        "score": 0,
+        "snippet": "2023 RIVIAN RIT | VIN: 7FCTGAAA1PN023249 This video showcases auction images of a **2023 RIVIAN RIT**, highlighting its ...",
+        "summary": "2023 RIVIAN RIT | VIN: 7FCTGAAA1PN023249 This video showcases auction images of a **2023 RIVIAN RIT**, highlighting its ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVIAN R1S 2027 : LE SUV \u00c9LECTRIQUE QUI VA \u00c9CRASER LA CONCURRENCE ! ",
+        "url": "https://youtube.com/watch?v=YVBd6gwHqkM",
+        "source": "youtube",
+        "publishedAt": "2026-09-11T12:00:06Z",
+        "score": 0,
+        "snippet": "RIVIAN R1S 2027 : LE SUV \u00c9LECTRIQUE QUI VA \u00c9CRASER LA CONCURRENCE ! Description \u26a1 **RIVIAN R1S 2027 : LE ...",
+        "summary": "RIVIAN R1S 2027 : LE SUV \u00c9LECTRIQUE QUI VA \u00c9CRASER LA CONCURRENCE ! Description \u26a1 **RIVIAN R1S 2027 : LE ...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "PDR performed on a Rivian at a Penthouse\ud83d\ude0e #houston",
+        "url": "https://youtube.com/watch?v=d_z2ukF4Hug",
+        "source": "youtube",
+        "publishedAt": "2026-09-11T11:21:58Z",
+        "score": 0,
+        "snippet": "youtube signal: PDR performed on a Rivian at a Penthouse\ud83d\ude0e #houston",
+        "summary": "youtube signal: PDR performed on a Rivian at a Penthouse\ud83d\ude0e #houston",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1T #Rivian #RivianR1T #ElectricTruck #ModelKit #ASMR #Satisfying #Unboxing #YouTubeShorts",
+        "url": "https://youtube.com/watch?v=unXd-tbYqug",
+        "source": "youtube",
+        "publishedAt": "2026-09-11T10:51:59Z",
+        "score": 0,
+        "snippet": "youtube signal: Rivian R1T #Rivian #RivianR1T #ElectricTruck #ModelKit #ASMR #Satisfying #Unboxing #YouTubeShorts",
+        "summary": "youtube signal: Rivian R1T #Rivian #RivianR1T #ElectricTruck #ModelKit #ASMR #Satisfying #Unboxing #YouTubeShorts",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
