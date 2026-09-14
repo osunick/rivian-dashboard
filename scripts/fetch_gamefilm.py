@@ -17,7 +17,7 @@ Usage:
   python3 scripts/fetch_gamefilm.py > /tmp/gamefilm_raw.json
 """
 
-import json, sys, os, time, urllib.request, urllib.error, subprocess
+import json, sys, os, time, urllib.request, urllib.error, subprocess, re
 from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
@@ -460,6 +460,83 @@ YT_SUMMARY_MODEL = 'claude-haiku-4-5'
 YT_SUMMARY_CAP = 6          # max videos to summarize per run (bounds runtime/cost)
 YT_TRANSCRIPT_MAXCHARS = 8000
 YT_TRANSCRIPT_DELAY = 2.0   # seconds between transcript fetches (avoid YouTube IP throttling)
+YT_REVIEW_FILE = '/tmp/gamefilm_youtube_review.json'
+
+# YouTube search is saturated with AI narration and recycled renders.  GameFilm
+# therefore starts from a deliberately conservative roster of outlets that
+# publish original road tests, reporting, or first-party material.  New
+# channels can be added after a human review instead of silently entering the
+# executive feed.
+TRUSTED_YOUTUBE_CHANNELS = {
+    'rivian', 'out of spec reviews', 'out of spec motoring', 'the fast lane car',
+    'tflnow', 'tfloffroad', 'insideevs us', 'insideevs', 'motortrend channel',
+    'car and driver', 'edmunds cars', 'autotrader', 'kelley blue book',
+    'savagegeese', 'throttle house', 'the straight pipes', 'alex on autos',
+    'doug demuro', 'munro live', 'jerryrigeverything', 'marques brownlee',
+    'transport evolved', 'electrify expo', 'riviantrackr', 'the ioniq guy',
+}
+YT_SLOP_TERMS = re.compile(
+    r'\b(ai|concept|render|cgi|fan[- ]?made|imagined|what they (?:don.t|don’t) tell you|'
+    r'could change everything|could challenge|game.?changer|shocking|must see|'
+    r'you won.t believe|secret revealed|officially revealed|leaked design)\b', re.I,
+)
+YT_EVIDENCE_TERMS = re.compile(
+    r'\b(first drive|test drive|road test|review|walkaround|owner|ownership|delivery|'
+    r'behind the wheel|hands[- ]?on|software update|ota|range test|towing)\b', re.I,
+)
+
+def youtube_duration_seconds(value):
+    """Parse YouTube's PT#H#M#S duration without another dependency."""
+    match = re.fullmatch(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', value or '')
+    if not match:
+        return 0
+    hours, minutes, seconds = (int(part or 0) for part in match.groups())
+    return hours * 3600 + minutes * 60 + seconds
+
+def score_youtube_video(video):
+    """Return (score, reasons, rejection_reason). Scores are intentionally explainable."""
+    snippet = video.get('snippet', {})
+    title = snippet.get('title', '')
+    description = snippet.get('description', '')
+    channel = snippet.get('channelTitle', '').strip().lower()
+    text = f'{title} {description}'
+    reasons = []
+
+    if YT_SLOP_TERMS.search(text):
+        return 0, reasons, 'synthetic or sensational title/description pattern'
+    if re.search(r'\b20(?:2[8-9]|[3-9]\d)\b', title):
+        return 0, reasons, 'unverifiable future-model framing'
+    if '#shorts' in text.lower() or youtube_duration_seconds(video.get('contentDetails', {}).get('duration')) < 90:
+        return 0, reasons, 'short-form clip without enough evidence'
+
+    score = 0
+    if channel in TRUSTED_YOUTUBE_CHANNELS:
+        score += 8
+        reasons.append('trusted channel')
+    if YT_EVIDENCE_TERMS.search(text):
+        score += 2
+        reasons.append('original-reporting signal')
+    if re.search(r'\b(\d{2,4}\s*(?:mi|miles|mph|kwh|kw|%|minutes?|hours?)|20(?:2[0-7]))\b', text, re.I):
+        score += 1
+        reasons.append('concrete detail')
+    if youtube_duration_seconds(video.get('contentDetails', {}).get('duration')) >= 300:
+        score += 1
+        reasons.append('substantive runtime')
+    try:
+        if int(video.get('statistics', {}).get('viewCount', 0)) >= 5000:
+            score += 1
+            reasons.append('established audience')
+    except (TypeError, ValueError):
+        pass
+
+    return score, reasons, None
+
+def write_youtube_review_queue(entries):
+    try:
+        with open(YT_REVIEW_FILE, 'w') as f:
+            json.dump({'generatedAt': datetime.now(timezone.utc).isoformat(), 'items': entries}, f, indent=2)
+    except Exception as e:
+        print(f"[fetch_gamefilm] YouTube: could not write review queue: {e}", file=sys.stderr)
 
 def get_youtube_api_key():
     api_key = os.environ.get('YOUTUBE_API_KEY')
@@ -523,6 +600,7 @@ def summarize_youtube_video(video_id, title):
 
 def fetch_youtube():
     items = []
+    review_queue = []
     api_key = get_youtube_api_key()
     if not api_key:
         print("[fetch_gamefilm] YouTube: API key not configured — skipping", file=sys.stderr)
@@ -542,13 +620,43 @@ def fetch_youtube():
         req = urllib.request.Request(url, headers={'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read())
-            for item in (data.get('items') or []):
-                snippet = item.get('snippet', {})
+            search_items = data.get('items') or []
+            video_ids = [entry.get('id', {}).get('videoId', '') for entry in search_items]
+            video_ids = [video_id for video_id in video_ids if video_id]
+            details_by_id = {}
+            if video_ids:
+                detail_params = urllib.parse.urlencode({
+                    'part': 'snippet,contentDetails,statistics',
+                    'id': ','.join(video_ids),
+                    'key': api_key,
+                })
+                detail_url = f'https://www.googleapis.com/youtube/v3/videos?{detail_params}'
+                detail_req = urllib.request.Request(detail_url, headers={'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0'})
+                with urllib.request.urlopen(detail_req, timeout=15) as detail_resp:
+                    details_by_id = {entry.get('id'): entry for entry in (json.loads(detail_resp.read()).get('items') or [])}
+
+            for item in search_items:
                 vid = item.get('id', {}).get('videoId', '')
                 if not vid:
                     continue
+                video = details_by_id.get(vid, item)
+                snippet = video.get('snippet', item.get('snippet', {}))
                 title = snippet.get('title', '')
                 if not title:
+                    continue
+                confidence, reasons, rejection = score_youtube_video(video)
+                queue_entry = {
+                    'title': title,
+                    'url': f'https://youtube.com/watch?v={vid}',
+                    'channel': snippet.get('channelTitle', ''),
+                    'confidence': confidence,
+                    'reasons': reasons,
+                    'rejection': rejection,
+                }
+                # High-confidence videos alone enter the executive signal feed.
+                # Everything else remains visible only in the local review queue.
+                if rejection or confidence < 8:
+                    review_queue.append(queue_entry)
                     continue
                 pub = snippet.get('publishedAt', '')
                 items.append({
@@ -558,6 +666,9 @@ def fetch_youtube():
                     'publishedAt': pub if pub else None,
                     'score': 0,
                     'snippet': snippet.get('description', '')[:300] or '',
+                    'youtubeChannel': snippet.get('channelTitle', ''),
+                    'youtubeConfidence': confidence,
+                    'youtubeEvidence': reasons,
                 })
     except Exception as e:
         print(f"[fetch_gamefilm] YouTube fetch error: {e}", file=sys.stderr)
@@ -570,7 +681,8 @@ def fetch_youtube():
         if dt and dt.date() != TODAY_PT:
             continue
         today_items.append(item)
-    print(f"[fetch_gamefilm] YouTube: {len(items)} total, {len(today_items)} today", file=sys.stderr)
+    write_youtube_review_queue(review_queue)
+    print(f"[fetch_gamefilm] YouTube: {len(items)} approved, {len(review_queue)} held for review, {len(today_items)} approved today", file=sys.stderr)
 
     # Enrich today's videos with AI transcript summaries (best-effort, capped).
     # Sleep between calls to avoid YouTube IP throttling; bail on a hard IP block.
