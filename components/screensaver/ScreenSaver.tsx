@@ -1,6 +1,7 @@
 'use client';
 
 import { ComponentPropsWithoutRef, ElementType, ReactNode, createElement, useEffect, useRef, useState } from 'react';
+import StockTicker from '@/components/StockTicker';
 
 export interface AmbientSignal {
   title: string;
@@ -198,7 +199,7 @@ export default function ScreenSaver({
       <div className="ambient-backdrop" />
       <div className="scanlines" />
 
-      <section className="relative z-10 grid h-screen grid-rows-[auto_minmax(0,1fr)_auto] px-7 py-6 lg:px-10 lg:py-7">
+      <section className="relative z-10 grid h-screen grid-rows-[auto_auto_minmax(0,1fr)_auto] px-7 py-6 lg:px-10 lg:py-7">
         <header className="flex items-start justify-between gap-8">
           <div>
             <div className="font-mono-num text-sm uppercase tracking-[0.26em] text-[#70e4ff]">GameFilm Ambient</div>
@@ -234,6 +235,10 @@ export default function ScreenSaver({
             </div>
           </div>
         </header>
+
+        <div className="mt-4">
+          <StockTicker ambient />
+        </div>
 
         <div className="ambient-content-grid grid min-h-0 grid-cols-[1.18fr_0.82fr] gap-7 py-6">
           <section className="ambient-primary-panel relative min-h-0 overflow-hidden border border-white/12 bg-white/[0.035] p-6 shadow-2xl shadow-black/40 backdrop-blur-md">
@@ -494,7 +499,7 @@ export default function ScreenSaver({
 
         @media (max-width: 1100px) {
           .ambient-screen section.relative.z-10 {
-            grid-template-rows: auto auto auto;
+            grid-template-rows: auto auto minmax(0, 1fr) auto;
           }
 
           .ambient-content-grid {

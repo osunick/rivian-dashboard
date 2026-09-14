@@ -16,6 +16,7 @@ import SummarySentimentBars from '@/components/SummarySentimentBars';
 import CompetitorsSection from '@/components/CompetitorsSection';
 import PublishSentimentTrend from '@/components/PublishSentimentTrend';
 import DrillDown, { DrillDownItem } from '@/components/DrillDown';
+import StockTicker from '@/components/StockTicker';
 
 export const dynamic = 'force-dynamic';
 
@@ -593,6 +594,10 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
               <SearchButton />
               <ChatButton />
             </div>
+          </div>
+
+          <div className="relative border-t border-claude-border px-5 py-2.5 sm:px-7">
+            <StockTicker />
           </div>
 
           <div className="relative grid grid-cols-2 gap-px border-t border-claude-border bg-claude-border sm:grid-cols-3 xl:grid-cols-7">
