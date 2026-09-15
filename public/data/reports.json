@@ -130548,5 +130548,159 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-15T14:23:14.184343Z",
+    "timestamp": "2026-09-15T14:23:14.184343Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 83,
+      "negative": 16
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Demo Drives"
+    ],
+    "summary": "6 signals across Competitive (4), Business (1); watch Competitive Threats, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 15, 2026 \u2014 2:23 PM PT \u2014 6 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 2 Rivian signals clustered around Business (1), Demo & Test Drives (1).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 1 negative signal; watch Competitive Threats, Business, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* Elon Musk again teased the idea of his AI and rocket firm SpaceX combining with electric-car maker Tesla Inc., noting the extensive cooperation between the two companies he leads as chief executive of\n  https://www.bloomberg.com/news/articles/2026-09-15/why-are-tesla-and-spacex-separate-musk-says-great-question\n\u2022 *Competitive Threats:* Tokyo, London and Munich all have testing behind them, but none has carried a single paying driverless passenger yet. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/waymo-targets-a-2027-tokyo-launch-with-two-local-partners/\n\u2022 *Competitive Threats:* Pre-empting tariffs with local production indicates that BYD takes its aspirations as a \u201cEuropean company\u201d seriously. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/byd-plans-to-build-trucks-in-europe-to-dodge-tariffs/\n\u2022 *Competitive Threats:* Waymo Robotaxi Stops Armed Teens and Calls Police - hi-tech.ua\n  https://news.google.com/rss/articles/CBMifEFVX3lxTE9QRHVzQUFOWXliUHVOYm95enAycmdsYUh5cVoyV0Jnc0RNVU1YLXE1UF9sTlVwV1drU3F4QXA0LU50Rk9jMFYtMmpKcjJmR0lJVWtGejhQMWw4c2FabFFWVVRvQUttbEszS181cGR5SzFiSnJJSkpfaldmVWM?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Test drove R2 twice but couldn't get comfortable in the driver's seat\n  https://www.reddit.com/r/RivianR2/comments/1wgprpb/test_drove_r2_twice_but_couldnt_get_comfortable/\n*Vehicles (0)* \u2022 No signals\n*Business (1)* \u2022 Rivian Automotive, Inc. $RIVN Shares Bought by Baird Financial Group Inc. - marketbeat.com\n  https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFk4eXZha0w1eThpT0c5ZUNodDdQVEJFdDBIcllKYjN3MzBjeGRnbVFDa2E2VGV0aVFpSHFvVFQ2Q1d3OVoyTTI5VDh6NjAtam1Pc2NLVHFqd3RrMWJCbllvb1N4Vkg4ckprYmFNa1VVckduazNvclYwYVUtQ3lZZ2ZHaUgwc0dlWVVMWFh4Qk02SFFLb1psZEEydklHYjFGdTF1UUhPX3ZlUmVPbzE5SlNVOGtmazNTX3o2MzVTalhJY0x6NTEzUXRn?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Test drove R2 twice but couldn't get comfortable in the driver's seat",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wgprpb/test_drove_r2_twice_but_couldnt_get_comfortable/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-15T04:08:34.950Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test drove R2 twice but couldn't get comfortable in the driver's seat",
+        "summary": "reddit_rivian_r2 signal: Test drove R2 twice but couldn't get comfortable in the driver's seat",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Why Are Tesla and SpaceX Separate? Musk Says \u2018Great Question\u2019",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/why-are-tesla-and-spacex-separate-musk-says-great-question",
+        "source": "bloomberg_tech",
+        "publishedAt": "Tue, 15 Sep 2026 13:24:14 GMT",
+        "score": 0,
+        "snippet": "Elon Musk again teased the idea of his AI and rocket firm SpaceX combining with electric-car maker Tesla Inc., noting the extensive cooperation between the two companies he leads as chief executive of",
+        "summary": "Elon Musk again teased the idea of his AI and rocket firm SpaceX combining with electric-car maker Tesla Inc., noting the extensive cooperation between the two companies he leads as chief executive of",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo targets a 2027 Tokyo launch with two local partners",
+        "url": "https://www.automotiveworld.com/news/waymo-targets-a-2027-tokyo-launch-with-two-local-partners/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 15 Sep 2026 14:06:10 +0000",
+        "score": 0,
+        "snippet": "Tokyo, London and Munich all have testing behind them, but none has carried a single paying driverless passenger yet. By Stewart Burnett The post <a href=\"",
+        "summary": "Tokyo, London and Munich all have testing behind them, but none has carried a single paying driverless passenger yet. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD plans to build trucks in Europe to dodge tariffs",
+        "url": "https://www.automotiveworld.com/news/byd-plans-to-build-trucks-in-europe-to-dodge-tariffs/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 15 Sep 2026 09:53:31 +0000",
+        "score": 0,
+        "snippet": "Pre-empting tariffs with local production indicates that BYD takes its aspirations as a \u201cEuropean company\u201d seriously. By Stewart Burnett The post <a href=\"",
+        "summary": "Pre-empting tariffs with local production indicates that BYD takes its aspirations as a \u201cEuropean company\u201d seriously. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive, Inc. $RIVN Shares Bought by Baird Financial Group Inc. - marketbeat.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFk4eXZha0w1eThpT0c5ZUNodDdQVEJFdDBIcllKYjN3MzBjeGRnbVFDa2E2VGV0aVFpSHFvVFQ2Q1d3OVoyTTI5VDh6NjAtam1Pc2NLVHFqd3RrMWJCbllvb1N4Vkg4ckprYmFNa1VVckduazNvclYwYVUtQ3lZZ2ZHaUgwc0dlWVVMWFh4Qk02SFFLb1psZEEydklHYjFGdTF1UUhPX3ZlUmVPbzE5SlNVOGtmazNTX3o2MzVTalhJY0x6NTEzUXRn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 15 Sep 2026 07:22:27 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive, Inc. $RIVN Shares Bought by Baird Financial Group Inc. - marketbeat.com",
+        "summary": "Rivian Automotive, Inc. $RIVN Shares Bought by Baird Financial Group Inc. - marketbeat.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Waymo Robotaxi Stops Armed Teens and Calls Police - hi-tech.ua",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QRHVzQUFOWXliUHVOYm95enAycmdsYUh5cVoyV0Jnc0RNVU1YLXE1UF9sTlVwV1drU3F4QXA0LU50Rk9jMFYtMmpKcjJmR0lJVWtGejhQMWw4c2FabFFWVVRvQUttbEszS181cGR5SzFiSnJJSkpfaldmVWM?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 15 Sep 2026 10:09:35 GMT",
+        "score": 0,
+        "snippet": "Waymo Robotaxi Stops Armed Teens and Calls Police - hi-tech.ua",
+        "summary": "Waymo Robotaxi Stops Armed Teens and Calls Police - hi-tech.ua",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      }
+    ]
   }
 ]
