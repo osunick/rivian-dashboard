@@ -130702,5 +130702,282 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-15T18:01:31.323630Z",
+    "timestamp": "2026-09-15T18:01:31.323630Z",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 93,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "15 signals across Vehicles (11), Software (2); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 15, 2026 \u2014 6:01 PM PT \u2014 15 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 14 Rivian signals clustered around Vehicles (11), Software (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Software, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Da\n  https://www.techmeme.com/260915/p29#a260915p29\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (11)* \u2022 reddit_rivian_r2 signal: St. Louis Color Options\n  https://www.reddit.com/r/RivianR2/comments/1wh6rl3/st_louis_color_options/\n*Business (0)* \u2022 No signals\n*Software (2)* \u2022 Rivian R2 Height Adjustable Tailgate Coming in Next OTA riviantrackr.com/news/r2-heig...\n  https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mvl744vrs22r\n*Community (1)* \u2022 \ud83d\udcf0 #Finance\n  https://bsky.app/profile/did:plc:4aeinxjwao74le6dktiiyxg4/post/3mvl2nlxn4x2v\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "St. Louis Color Options",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wh6rl3/st_louis_color_options/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-15T17:24:49.286Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: St. Louis Color Options",
+        "summary": "reddit_rivian_r2 signal: St. Louis Color Options",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Caught off guard: invited to order",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wh1ud4/caught_off_guard_invited_to_order/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-15T14:23:56.671Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Caught off guard: invited to order",
+        "summary": "reddit_rivian_r2 signal: Caught off guard: invited to order",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "GM plans to add Apple CarPlay and Android Auto to its latest infotainment system, three years after upsetting some consumers by removing them from its EVs (David Welch/Bloomberg)",
+        "url": "https://www.techmeme.com/260915/p29#a260915p29",
+        "source": "techmeme",
+        "publishedAt": "Tue, 15 Sep 2026 11:00:45 -0400",
+        "score": 0,
+        "snippet": "Da",
+        "summary": "Da",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Can Rivian meet R2 production targets? -- Citi Research (RIVN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnExcU5xT1ViLUl1ZFpYb0gzZzc2YjhPdzFBVjBIXzFTWUgzbW84QnFZX3k5YlBFOW5fdktNay1JZ0dTMno3c1ZUcllTd3EtbHktMUNCc0F2VzJ0V2FPdl9aVEN5VXhJekVNSXBHYk8yNEt5STl6WlVUblNBMmhIbU1VYjYxeFFXbnhTVG9JemJ4NWQxZ0E?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 15 Sep 2026 15:58:49 GMT",
+        "score": 0,
+        "snippet": "Can Rivian meet R2 production targets? -- Citi Research (RIVN:NASDAQ) - Seeking Alpha",
+        "summary": "Can Rivian meet R2 production targets? -- Citi Research (RIVN:NASDAQ) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Citigroup Initiates Rivian Automotive at Neutral With $18 Price Target - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEYzVnN3VjY1QlhUYVRJdkJReEpDa1BGd2JfblpHWHAwMlZBNks0MFQ2YWowMTRFQ3pvTFpUV1dsQ05PUzQwU2VLRnI0MG1GVjI0Q01FSi1PMmVaN1dwNjRUeEJhclhMUmg2MV8xZ2JiMjNfa2hhenJDc2VnVWI0X0JRYlBsU0FBZVNUalpGNlZocFdTZEpSNHRMVWtGRWxfNVZPS1ZRd1dfREZaNi02OVN1QjlTUm5kZkR5OFBzNA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 15 Sep 2026 10:49:15 GMT",
+        "score": 0,
+        "snippet": "Citigroup Initiates Rivian Automotive at Neutral With $18 Price Target - marketscreener.com",
+        "summary": "Citigroup Initiates Rivian Automotive at Neutral With $18 Price Target - marketscreener.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian R2 Height Adjustable Tailgate Coming in Next OTA\n\nriviantrackr.com/news/r",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mvl744vrs22r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T17:56:15.476Z",
+        "score": 0,
+        "snippet": "Rivian R2 Height Adjustable Tailgate Coming in Next OTA riviantrackr.com/news/r2-heig...",
+        "summary": "Rivian R2 Height Adjustable Tailgate Coming in Next OTA riviantrackr.com/news/r2-heig...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@bytevyte.com (Bluesky): AIBeats: Rivian Robotaxi Self-Certification in Texas Turns Uber's $1.25B Into Re",
+        "url": "https://bsky.app/profile/did:plc:4qd3sfnprszx4sqgipk35ghd/post/3mvl56i2iwx2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T17:21:44.261Z",
+        "score": 0,
+        "snippet": "AIBeats: Rivian Robotaxi Self-Certification in Texas Turns Uber's $1.25B Into Regulatory Optionality [AI-generated]",
+        "summary": "AIBeats: Rivian Robotaxi Self-Certification in Texas Turns Uber's $1.25B Into Regulatory Optionality [AI-generated]",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@smut-one.bsky.social (Bluesky): We went up to Northern Maine this weekend. Coming back there was a charger on ro",
+        "url": "https://bsky.app/profile/did:plc:axktmcssywv7ghpgq6d2tlnx/post/3mvl4yw7wxk2c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T17:18:37.965Z",
+        "score": 0,
+        "snippet": "We went up to Northern Maine this weekend. Coming back there was a charger on route with 2 bays. Get to it and there was a Rivian and another car. Rivian had been there for 5hrs! Nearest chargers we",
+        "summary": "We went up to Northern Maine this weekend. Coming back there was a charger on route with 2 bays. Get to it and there was a Rivian and another car. Rivian had been there for 5hrs! Nearest chargers we",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83c\udd95 New at the Rivian Gear Shop: R1S All-Weather Floor & Cargo Mat Bundle https://",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mvl4rb5u5g26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T17:14:20.760Z",
+        "score": 1,
+        "snippet": "\ud83c\udd95 New at the Rivian Gear Shop: R1S All-Weather Floor & Cargo Mat Bundle",
+        "summary": "\ud83c\udd95 New at the Rivian Gear Shop: R1S All-Weather Floor & Cargo Mat Bundle",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83c\udd95 New at the Rivian Gear Shop: R1S All-Weather Cargo Mat https://gearshop.rivian",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mvl4rafnyv2q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T17:14:20.260Z",
+        "score": 1,
+        "snippet": "\ud83c\udd95 New at the Rivian Gear Shop: R1S All-Weather Cargo Mat",
+        "summary": "\ud83c\udd95 New at the Rivian Gear Shop: R1S All-Weather Cargo Mat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@giedzinski.com (Bluesky): they\u2019re mostly fake but i can confirm from terrifying passenger experience that ",
+        "url": "https://bsky.app/profile/did:plc:aacyzze3p6ncaxtqpga35rps/post/3mvl4q4ouwc24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T17:13:43.468Z",
+        "score": 1,
+        "snippet": "they\u2019re mostly fake but i can confirm from terrifying passenger experience that the quad motors of a rivian r1s with 1000+ horsepower did make a cool noise when the driver (guess who) floored it",
+        "summary": "they\u2019re mostly fake but i can confirm from terrifying passenger experience that the quad motors of a rivian r1s with 1000+ horsepower did make a cool noise when the driver (guess who) floored it",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian now offers a R1S All-Weather Cargo Mat.  Also available in a bundle.\n\nLin",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mvl2tmjbs32w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T16:39:53.057Z",
+        "score": 0,
+        "snippet": "Rivian now offers a R1S All-Weather Cargo Mat. Also available in a bundle. Link: buff.ly/tqApC9d",
+        "summary": "Rivian now offers a R1S All-Weather Cargo Mat. Also available in a bundle. Link: buff.ly/tqApC9d",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@marketwire.bsky.social (Bluesky): \ud83d\udcf0 #Finance",
+        "url": "https://bsky.app/profile/did:plc:4aeinxjwao74le6dktiiyxg4/post/3mvl2nlxn4x2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T16:36:30.374Z",
+        "score": 0,
+        "snippet": "\ud83d\udcf0 #Finance",
+        "summary": "\ud83d\udcf0 #Finance",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@flameduck.bsky.social (Bluesky): Fair. Godt valg i \u00f8vrigt. Ville \u00f8nske jeg kunne det samme, men Rivian R1 kan ikk",
+        "url": "https://bsky.app/profile/did:plc:zzohidjrtelxasipzrls7iwy/post/3mvkzzbwjqs25",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T16:25:09.257Z",
+        "score": 1,
+        "snippet": "Fair. Godt valg i \u00f8vrigt. Ville \u00f8nske jeg kunne det samme, men Rivian R1 kan ikke f\u00e5es i Danmark, og R2 ligner desv\u00e6rre mere en \"Chelsea Tractor\" end noget nadet.",
+        "summary": "Fair. Godt valg i \u00f8vrigt. Ville \u00f8nske jeg kunne det samme, men Rivian R1 kan ikke f\u00e5es i Danmark, og R2 ligner desv\u00e6rre mere en \"Chelsea Tractor\" end noget nadet.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@careycuprisin.bsky.social (Bluesky): File under: Rivian dog bed",
+        "url": "https://bsky.app/profile/did:plc:nmh3macedoi3p34tw3xdjqkq/post/3mvkzezr36s27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T16:13:49.461Z",
+        "score": 0,
+        "snippet": "File under: Rivian dog bed",
+        "summary": "File under: Rivian dog bed",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
