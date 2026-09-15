@@ -130482,5 +130482,71 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-15T02:12:28.221612Z",
+    "timestamp": "2026-09-15T02:12:28.221612Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 100
+    },
+    "sources": {
+      "cnbc": {
+        "found": 1,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 0,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Rivian Mentions"
+    ],
+    "summary": "1 signal across Other (1); watch Rivian Mentions",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 15, 2026 \u2014 2:12 AM PT \u2014 1 signals \u00b7 0 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* No material Rivian product, market, or community signal surfaced in this run.\n\u2022 *Risk posture:* \ud83d\udd34 HIGH with 1 negative signal; watch Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (0)* \u2022 No signals\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Rivian Mentions\n\n_Threat: \ud83d\udd34 HIGH_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "China\u2019s August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+        "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: China\u2019s August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+        "summary": "cnbc signal: China\u2019s August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      }
+    ]
   }
 ]
