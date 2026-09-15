@@ -130979,5 +130979,236 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-15T22:01:27.428873Z",
+    "timestamp": "2026-09-15T22:01:27.428873Z",
+    "sentiment": {
+      "positive": 25,
+      "neutral": 66,
+      "negative": 8
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 9,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Vehicle Demand"
+    ],
+    "summary": "12 signals across Vehicles (9), Business (1); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 15, 2026 \u2014 10:01 PM PT \u2014 12 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 11 Rivian signals clustered around Vehicles (9), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Business, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* youtu.be/rnUD-NgQrGM\n  https://bsky.app/profile/did:plc:wkt64sbip5f5keu3y7w4ahr2/post/3mvlk7kzijc2q\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (9)* \u2022 reddit_rivian_r2 signal: Today!!!\n  https://www.reddit.com/r/RivianR2/comments/1wh99vx/today/\n*Business (1)* \u2022 SWI: EV Market: BEST PICK - RIVIAN (NASDAQ: $RIVN ) #RIVN stockwatchindex.com/untitled-178...\n  https://bsky.app/profile/did:plc:uyuvloxyqckkdl7b355x6yhz/post/3mvllk3yyxc23\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 This Friday, Sept. 18, join the UC Irvine Muscle Center and CureDuchenne for a free screening of \u201cThe Remarkable Life of Ibelin,\u201d an award-winning documentary about a young man with Duchenne muscular\n  https://bsky.app/profile/did:plc:fszgbpzirhlg3d3be7iniv3k/post/3mvlhyhfwwk26\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Today!!!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wh99vx/today/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-15T18:53:28.672Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Today!!!",
+        "summary": "reddit_rivian_r2 signal: Today!!!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3laMUcwNmhKcTFiRGtlZlFlSDItdUFQLVB4eVd6THdOWjJQc0lJSG5XZkRBWTlnOVVEUllTNnJKSlliakNrYVhCak1Qa3dGZnlxbUFFeHA0NEhtX2tMUW55enpoVkszYkF6QzYtdjhXdDEyRHh6bFZiVjdidGY3TXFseXpNOXc1Rk5FNXlRSmZDVzVWRmY4RW0yRnZKZmEzX0RpaG9XRjlzZ0FicnJrZEdTbkdTVm9H?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 15 Sep 2026 21:27:43 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2% - Time to Sell? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2% - Time to Sell? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Could Higher Costs Reshape Rivian Automotive (NASDAQ:RIVN) EV Story? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3F2akVUY1NOS2IyNGZSYVhPZmZ1TUQ2Z1VDQ3dNMGJMdjIzVEZYcGNPRllBRTN2Qk1CbG8xYnVSenJiYnZ0SkJvbE9ud3RWd3V2OVlkLWtpSklZYkVFUTVJbXd6ZThLSmhGNk85Z0RiX3I5RUUtMWFLMVpkdWlwV0NDeTd5U1lwQXRiaDBFRmVIRzFQa1Jna2N5UGZhOWZ2elhLM2ZhczREMUc5Q080?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 15 Sep 2026 20:50:00 GMT",
+        "score": 0,
+        "snippet": "Could Higher Costs Reshape Rivian Automotive (NASDAQ:RIVN) EV Story? - Kalkine Media",
+        "summary": "Could Higher Costs Reshape Rivian Automotive (NASDAQ:RIVN) EV Story? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@averagepenny.bsky.social (Bluesky): SWI: EV Market: BEST PICK - RIVIAN (NASDAQ: $RIVN ) #RIVN\n\nstockwatchindex.com/u",
+        "url": "https://bsky.app/profile/did:plc:uyuvloxyqckkdl7b355x6yhz/post/3mvllk3yyxc23",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T21:38:47.563Z",
+        "score": 0,
+        "snippet": "SWI: EV Market: BEST PICK - RIVIAN (NASDAQ: $RIVN ) #RIVN stockwatchindex.com/untitled-178...",
+        "summary": "SWI: EV Market: BEST PICK - RIVIAN (NASDAQ: $RIVN ) #RIVN stockwatchindex.com/untitled-178...",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@apgodshall.bsky.social (Bluesky): youtu.be/rnUD-NgQrGM",
+        "url": "https://bsky.app/profile/did:plc:wkt64sbip5f5keu3y7w4ahr2/post/3mvlk7kzijc2q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T21:15:00.965Z",
+        "score": 1,
+        "snippet": "youtu.be/rnUD-NgQrGM",
+        "summary": "youtu.be/rnUD-NgQrGM",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@ucirvinemedschool.bsky.social (Bluesky): This Friday, Sept. 18, join the UC Irvine Muscle Center and CureDuchenne for a f",
+        "url": "https://bsky.app/profile/did:plc:fszgbpzirhlg3d3be7iniv3k/post/3mvlhyhfwwk26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T20:35:14.875Z",
+        "score": 0,
+        "snippet": "This Friday, Sept. 18, join the UC Irvine Muscle Center and CureDuchenne for a free screening of \u201cThe Remarkable Life of Ibelin,\u201d an award-winning documentary about a young man with Duchenne muscular",
+        "summary": "This Friday, Sept. 18, join the UC Irvine Muscle Center and CureDuchenne for a free screening of \u201cThe Remarkable Life of Ibelin,\u201d an award-winning documentary about a young man with Duchenne muscular",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@wraithe.bsky.social (Bluesky): Like\u2026almost _all_ of the other electric trucks weigh less than that. \ud83d\ude02\n\nThe only",
+        "url": "https://bsky.app/profile/did:plc:fbqdq37i5vftrcgowyyjlc64/post/3mvleycc4a22a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T19:41:26.972Z",
+        "score": 3,
+        "snippet": "Like\u2026almost _all_ of the other electric trucks weigh less than that. \ud83d\ude02 The only one that\u2019s heavier than the Cybertruck (that I know of) is the Hummer EV, and that\u2019s just batso. Even the Rivian R1T i",
+        "summary": "Like\u2026almost _all_ of the other electric trucks weigh less than that. \ud83d\ude02 The only one that\u2019s heavier than the Cybertruck (that I know of) is the Hummer EV, and that\u2019s just batso. Even the Rivian R1T i",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ampshade.bsky.social (Bluesky): silverado - discontinued after this generation. lightning - already discontinued",
+        "url": "https://bsky.app/profile/did:plc:zz2oquhdlax6cjjve6hougfx/post/3mvldsdmf6c22",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T19:20:13.465Z",
+        "score": 0,
+        "snippet": "silverado - discontinued after this generation. lightning - already discontinued (future EREV coming out as well as the much smaller fathom though). rivian - near the bottom of consumer reports reliab",
+        "summary": "silverado - discontinued after this generation. lightning - already discontinued (future EREV coming out as well as the much smaller fathom though). rivian - near the bottom of consumer reports reliab",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dadontherunblog.com (Bluesky): The number one Rivian R2 feature people have been worried and asking me about is",
+        "url": "https://bsky.app/profile/did:plc:3fd6sgiguxdpr2wp5p4gmh2j/post/3mvldl3wovc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T19:16:10.267Z",
+        "score": 0,
+        "snippet": "The number one Rivian R2 feature people have been worried and asking me about is right around the corner.",
+        "summary": "The number one Rivian R2 feature people have been worried and asking me about is right around the corner.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jalopnik.bsky.social (Bluesky): The 2022 GMC Hummer EV has lost about half of its value over the past four years",
+        "url": "https://bsky.app/profile/did:plc:jkx2jmb32wbdan4plaltva62/post/3mvldd44zao2c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T19:11:43.268Z",
+        "score": 2,
+        "snippet": "The 2022 GMC Hummer EV has lost about half of its value over the past four years. Here's how it holds up against rivals such as the Rivian R1T.",
+        "summary": "The 2022 GMC Hummer EV has lost about half of its value over the past four years. Here's how it holds up against rivals such as the Rivian R1T.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dpointinmylife.bsky.social (Bluesky): The Rivian seems to do well in the snow from what I've seen living and working i",
+        "url": "https://bsky.app/profile/did:plc:zdfqzedolfyfud6kdr7kqr7e/post/3mvldbkjhq222",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T19:10:50.960Z",
+        "score": 1,
+        "snippet": "The Rivian seems to do well in the snow from what I've seen living and working in the Sierra Nevada. The Space Karen Shuttle on the other hand: youtube.com/shorts/oQl-I...",
+        "summary": "The Rivian seems to do well in the snow from what I've seen living and working in the Sierra Nevada. The Space Karen Shuttle on the other hand: youtube.com/shorts/oQl-I...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tourswag.bsky.social (Bluesky): the Rivian is also a heavyweight, known for crashing through highway safety barr",
+        "url": "https://bsky.app/profile/did:plc:exgcnu3hzvjcpuouznt36a5r/post/3mvlcy3v5c22q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T19:05:38.963Z",
+        "score": 0,
+        "snippet": "the Rivian is also a heavyweight, known for crashing through highway safety barriers which are designed for the \"normal' passenger car US safety regulations for light trucks are not as rigid as for p",
+        "summary": "the Rivian is also a heavyweight, known for crashing through highway safety barriers which are designed for the \"normal' passenger car US safety regulations for light trucks are not as rigid as for p",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
