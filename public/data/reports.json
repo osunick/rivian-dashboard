@@ -130055,5 +130055,347 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-15T00:45:18.164774Z",
+    "timestamp": "2026-09-15T00:45:18.164774Z",
+    "sentiment": {
+      "positive": 10,
+      "neutral": 84,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_oems": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Service Experience",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "19 signals across Vehicles (12), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 15, 2026 \u2014 12:45 AM PT \u2014 19 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats, Service Experience.\n\u2022 *Rivian posture:* 15 Rivian signals clustered around Vehicles (12), Demo & Test Drives (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* Vegas, Deal Us In! We\u2019re welcoming riders today - Waymo\n  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fMHphLXhhcktHc242UDBRWF93ejZ1WlRvVFlzU3BXcDhvb0o5LWU5UHFhdF9GdVc1M1o5LU1CMF85NkRqeHZmTVRtTGJPekxBX1FhTTVOb2gxUmhY?oc=5\n\u2022 *Competitive Threats:* Waymo Expands Driverless Commercial Robotaxi Operations to Las Vegas and Clark County - Nevada Globe\n  https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHUxNjU4bnVEWEZYNjBnbFVTdXhGNU85Vm9zclNvODFjRE1ZODRGd29CX0ViZmpxQ25OTUpKVW9OUEJhc0gxdUJmVGhnSkJINUNwbmhDUFZuQlo3SHM0ZURvNXZLZ0pES0VyZVJwOEtycXB0REp4OHFRSGtITGVtME1NZm1qbFBXX2IyaWU3bXdNMlVHdzFqQzNHdjhGclZ5RTFDc01YcU1XTEE0MzZHeEdIQ1lGMVJXS1VyRHFWVQ?oc=5\n\u2022 *Service Experience:* Waymo Launches Driverless Robotaxi Service in Las Vegas - driveteslacanada.ca\n  https://news.google.com/rss/articles/CBMijwFBVV95cUxNemtGUnhqbFllZmlKbi1xUElpWUpTdHhmdWlheG5xVDRYb0NsWVdMZTZrUG8wMk13ZkFMSHM1b19vYmpwX0hQY1lDYVU1ajZLT3huT3RxOUozbGZtOTl4Z0hwU0hGZkg0TWVGOEV5dTQycTRmTU9iaXdpVktsSk1FQ1otWWhKWWIyS25hUDhnRQ?oc=5\n\u2022 *Competitive Threats:* The Chevy Silverado EV is now America\u2019s most affordable full-size electric pickup - Electrek\n  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRTRaeFZ3WndCY19MQXV0Nm9RcnltbmlIMy1qaF9JNjczaFM2T3Z2ZTZYWFoyNW5OWEVCZnRUYUhBem9XQ1dHaFN1NWJmSVlTRlFzcGQ5clNYSkM0U0EybFdKTW5EMGtPVVptVmN2NXdjZWtLbFFORFNIMm1RVUlhQzFyRVFtZFZEM25ZRkY5MTVocktFMVF0S1VEejRZMDZHNDFOY24tWDhQQQ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 reddit_rivian_r2 signal: Volvo EX60 vs Rivian R2: I test drove both, and the R2 won for me\n  https://www.reddit.com/r/RivianR2/comments/1wgkgki/volvo_ex60_vs_rivian_r2_i_test_drove_both_and_the/\n*Vehicles (12)* \u2022 Rivian Automotive (NASDAQ:RIVN) Trading Down 1.1% - Here's Why - MarketBeat\n  https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEduSi1rNDhsTEJDWWcxQzU3U29ZSkhuUjlKZTRQcVRNUkxtZmp4Rm1HaFdOSWlZcnRNWUoyY0tBMThTZDdydXZ5OWtBZ0tiSk10TUp0T0VkOEFXWFdnWkpnQU51emRVVlF6VWZ1aFRqa0dwS21ZNkNlZUY1TVJRYUgzWVc0anJ2NVl6TkEydHNYMTJETXAyWlpUUE40S1N0aFZxYlBhQTQyQnpOV2VydmUzWUVhQQ?oc=5\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 bluesky signal: @blueresearch.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mviwpopsvp2w\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Service Experience\n\u2022 Software\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Volvo EX60 vs Rivian R2: I test drove both, and the R2 won for me",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wgkgki/volvo_ex60_vs_rivian_r2_i_test_drove_both_and_the/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-15T00:02:28.861Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Volvo EX60 vs Rivian R2: I test drove both, and the R2 won for me",
+        "summary": "reddit_rivian_r2 signal: Volvo EX60 vs Rivian R2: I test drove both, and the R2 won for me",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Down 1.1% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEduSi1rNDhsTEJDWWcxQzU3U29ZSkhuUjlKZTRQcVRNUkxtZmp4Rm1HaFdOSWlZcnRNWUoyY0tBMThTZDdydXZ5OWtBZ0tiSk10TUp0T0VkOEFXWFdnWkpnQU51emRVVlF6VWZ1aFRqa0dwS21ZNkNlZUY1TVJRYUgzWVc0anJ2NVl6TkEydHNYMTJETXAyWlpUUE40S1N0aFZxYlBhQTQyQnpOV2VydmUzWUVhQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 14 Sep 2026 21:55:43 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Down 1.1% - Here's Why - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Trading Down 1.1% - Here's Why - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is Rivian Automotive (NASDAQ:RIVN) Turning A Corner? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXp6c0xWMTBCbGVUd3BrQ3lwd01Pb29KX1hsWlJNMG5Sb21LRGJuY01mRnNhT1drV1NOXzY1UEZvZ3pnQXdTTjd2dTRTS3h1WnplUGs1dGdYaGt5aFZFTkduanRRQTVpWGpZM0pPajYtSXY2VzZjX3ZNLXdxZlBCUnFfREt1dElLQnBaYVY4VElsUmlqU3RaM0NR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 14 Sep 2026 22:58:00 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Automotive (NASDAQ:RIVN) Turning A Corner? - Kalkine Media",
+        "summary": "Is Rivian Automotive (NASDAQ:RIVN) Turning A Corner? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Now Covered by Analysts at Citigroup - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFVfQzlnc2hDLVRJWGZTLWEyOHpnM2haMHNkLVFfSE1xcHRQUHZJYm5MVnh5TkJXcVczY2FMVVdnNHB0WjhyQzBBV19VeThsN3pCaWc0cWJqTUpmeEhQcDMydzhQNFlOdXZKWFRkelcyaWozNEVZWkUweGU4YktOX0ttLW00b1NWajUwUlZFRTNiR05FSUVwaFcyUUlJb0pCUERjNlQ0VFFaYnVqM3E5aHdWSFRqd2JJNlV5a2VpcF9ISkgzRXFB?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 14 Sep 2026 21:21:26 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Now Covered by Analysts at Citigroup - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Now Covered by Analysts at Citigroup - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Citi initiates Rivian coverage with neutral rating, $18 target - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXRvQUhEaHpZZjJEaHVEcWd4YkxKT1dSSjZyMFJndWkzeHN3WFpLdkxsRUxSNm50SHluOHA4MXZ2RW5iTDNhcWRvRXVudlVZc01oTTJjbEkxVV9RbEdweXpQTklnWDJmVmlDYTZjMmx6N3Y1M29rZDFQQ0pnS0Y0eVV2dzNYbmlydnRGZExFSU1rclhGSzJNeFFzWDJfb2gxRHd6UVh2RXpuQUNEdzg4TGV0ajZnRGVWbkpBTURHZVpuUUJWOWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 14 Sep 2026 20:10:20 GMT",
+        "score": 0,
+        "snippet": "Citi initiates Rivian coverage with neutral rating, $18 target - StreetInsider",
+        "summary": "Citi initiates Rivian coverage with neutral rating, $18 target - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Vegas, Deal Us In! We\u2019re welcoming riders today - Waymo",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fMHphLXhhcktHc242UDBRWF93ejZ1WlRvVFlzU3BXcDhvb0o5LWU5UHFhdF9GdVc1M1o5LU1CMF85NkRqeHZmTVRtTGJPekxBX1FhTTVOb2gxUmhY?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 14 Sep 2026 18:01:58 GMT",
+        "score": 0,
+        "snippet": "Vegas, Deal Us In! We\u2019re welcoming riders today - Waymo",
+        "summary": "Vegas, Deal Us In! We\u2019re welcoming riders today - Waymo",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo Expands Driverless Commercial Robotaxi Operations to Las Vegas and Clark County - Nevada Globe",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHUxNjU4bnVEWEZYNjBnbFVTdXhGNU85Vm9zclNvODFjRE1ZODRGd29CX0ViZmpxQ25OTUpKVW9OUEJhc0gxdUJmVGhnSkJINUNwbmhDUFZuQlo3SHM0ZURvNXZLZ0pES0VyZVJwOEtycXB0REp4OHFRSGtITGVtME1NZm1qbFBXX2IyaWU3bXdNMlVHdzFqQzNHdjhGclZ5RTFDc01YcU1XTEE0MzZHeEdIQ1lGMVJXS1VyRHFWVQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 14 Sep 2026 20:51:42 GMT",
+        "score": 0,
+        "snippet": "Waymo Expands Driverless Commercial Robotaxi Operations to Las Vegas and Clark County - Nevada Globe",
+        "summary": "Waymo Expands Driverless Commercial Robotaxi Operations to Las Vegas and Clark County - Nevada Globe",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo Launches Driverless Robotaxi Service in Las Vegas - driveteslacanada.ca",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemtGUnhqbFllZmlKbi1xUElpWUpTdHhmdWlheG5xVDRYb0NsWVdMZTZrUG8wMk13ZkFMSHM1b19vYmpwX0hQY1lDYVU1ajZLT3huT3RxOUozbGZtOTl4Z0hwU0hGZkg0TWVGOEV5dTQycTRmTU9iaXdpVktsSk1FQ1otWWhKWWIyS25hUDhnRQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 14 Sep 2026 21:23:19 GMT",
+        "score": 0,
+        "snippet": "Waymo Launches Driverless Robotaxi Service in Las Vegas - driveteslacanada.ca",
+        "summary": "Waymo Launches Driverless Robotaxi Service in Las Vegas - driveteslacanada.ca",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Service Experience",
+          "Software",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "The Chevy Silverado EV is now America\u2019s most affordable full-size electric pickup - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRTRaeFZ3WndCY19MQXV0Nm9RcnltbmlIMy1qaF9JNjczaFM2T3Z2ZTZYWFoyNW5OWEVCZnRUYUhBem9XQ1dHaFN1NWJmSVlTRlFzcGQ5clNYSkM0U0EybFdKTW5EMGtPVVptVmN2NXdjZWtLbFFORFNIMm1RVUlhQzFyRVFtZFZEM25ZRkY5MTVocktFMVF0S1VEejRZMDZHNDFOY24tWDhQQQ?oc=5",
+        "source": "google_news_oems",
+        "publishedAt": "Mon, 14 Sep 2026 18:09:00 GMT",
+        "score": 0,
+        "snippet": "The Chevy Silverado EV is now America\u2019s most affordable full-size electric pickup - Electrek",
+        "summary": "The Chevy Silverado EV is now America\u2019s most affordable full-size electric pickup - Electrek",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): When you take the @Rivian to the car wash and it STILL oozes Nevada demo truck h",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mvjamnsrxz2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T23:18:03.058Z",
+        "score": 1,
+        "snippet": "When you take the @Rivian to the car wash and it STILL oozes Nevada demo truck history. Will this red dirt ever stop haunting me!?",
+        "summary": "When you take the @Rivian to the car wash and it STILL oozes Nevada demo truck history. Will this red dirt ever stop haunting me!?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jaimev2.bsky.social (Bluesky): The purple color on the Rivian R2 is named Borealis.",
+        "url": "https://bsky.app/profile/did:plc:ea2ncqk6tz57j26wwr2dvvsx/post/3mvj7cuoth22g",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T22:54:41.061Z",
+        "score": 2,
+        "snippet": "The purple color on the Rivian R2 is named Borealis.",
+        "summary": "The purple color on the Rivian R2 is named Borealis.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@destinationwestorg.bsky.social (Bluesky): Talked to the Jeep dealer today about the new Jeep EV. He test drove one at an o",
+        "url": "https://bsky.app/profile/did:plc:jyfzgrw4raietzndf4xcs5ci/post/3mvj5yydxn22q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T22:31:14.863Z",
+        "score": 3,
+        "snippet": "Talked to the Jeep dealer today about the new Jeep EV. He test drove one at an off road demo. He said it is definitely worth the wait. Officially trail rated high ground clearance (unlike Rivian) plus",
+        "summary": "Talked to the Jeep dealer today about the new Jeep EV. He test drove one at an off road demo. He said it is definitely worth the wait. Officially trail rated high ground clearance (unlike Rivian) plus",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@tkmedia.bsky.social (Bluesky): \u26a1\ud83d\udd0c Just changed address of upcoming Valencia, CA Rivian Adventure Network at 281",
+        "url": "https://bsky.app/profile/did:plc:nmf2e2g27xb6kxoxyiyxusgb/post/3mvj57q34tc27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T22:17:08.267Z",
+        "score": 2,
+        "snippet": "\u26a1\ud83d\udd0c Just changed address of upcoming Valencia, CA Rivian Adventure Network at 28150 Newhall Ranch Rd, Santa Clarita, CA 91355. Changed it to 28125 Smyth Dr, Santa Clarita, CA 91350. Same place differen",
+        "summary": "\u26a1\ud83d\udd0c Just changed address of upcoming Valencia, CA Rivian Adventure Network at 28150 Newhall Ranch Rd, Santa Clarita, CA 91355. Changed it to 28125 Smyth Dr, Santa Clarita, CA 91350. Same place differen",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@unknownsoldier.bsky.social (Bluesky): Rivian just asked me for a deposit and invited me to configure my R2",
+        "url": "https://bsky.app/profile/did:plc:empakw3wx5nnvupoanqofhpv/post/3mvj4uh3ods26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T22:10:49.861Z",
+        "score": 2,
+        "snippet": "Rivian just asked me for a deposit and invited me to configure my R2",
+        "summary": "Rivian just asked me for a deposit and invited me to configure my R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@skiier27.bsky.social (Bluesky): Rivian is such a thoughtfully designed vehicle but can\u2019t get their shit together",
+        "url": "https://bsky.app/profile/did:plc:d3bfsfxhsgbpgiixwlf7whzb/post/3mviypetbfs27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T20:56:23.758Z",
+        "score": 1,
+        "snippet": "Rivian is such a thoughtfully designed vehicle but can\u2019t get their shit together in terms of reliability and the simple stuff like car play. Had a R1T for about 3 minutes. Loved it till I couldn\u2019t tru",
+        "summary": "Rivian is such a thoughtfully designed vehicle but can\u2019t get their shit together in terms of reliability and the simple stuff like car play. Had a R1T for about 3 minutes. Loved it till I couldn\u2019t tru",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Notice anything?  \n\nYup.\n\nNot a Tesla on the list.\nNot a Ford on the list.\nNot a",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mvixd5mzas26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T20:31:39.460Z",
+        "score": 4,
+        "snippet": "Notice anything? Yup. Not a Tesla on the list. Not a Ford on the list. Not a GM on the list. Not a Rivian on the list. Not a Lucid on the list. Not a Slate, Apterra, Fisker, Canoo, Lordstown Motor",
+        "summary": "Notice anything? Yup. Not a Tesla on the list. Not a Ford on the list. Not a GM on the list. Not a Rivian on the list. Not a Lucid on the list. Not a Slate, Apterra, Fisker, Canoo, Lordstown Motor",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): This is one of the most-asked questions in my inbox and DMs, so here's the answe",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mvixbrwt2s2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T20:30:55.660Z",
+        "score": 6,
+        "snippet": "This is one of the most-asked questions in my inbox and DMs, so here's the answer in one place. Rivian Plug and Charge works on exactly four networks: Adventure Network, Tesla Superchargers, Electrif",
+        "summary": "This is one of the most-asked questions in my inbox and DMs, so here's the answer in one place. Rivian Plug and Charge works on exactly four networks: Adventure Network, Tesla Superchargers, Electrif",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mviwpopsvp2w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T20:20:45.962Z",
+        "score": 0,
+        "snippet": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@harpaa01.mastodon.social.ap.brid.gy (Bluesky): Rivian finally made a vehicle whose lack of CarPlay doesn't bother me.",
+        "url": "https://bsky.app/profile/did:plc:amoxtyvmcftfreyte7vrz73g/post/3mvitmarrj4p2",
+        "source": "bluesky",
+        "publishedAt": "2026-09-14T19:25:11.365Z",
+        "score": 1,
+        "snippet": "Rivian finally made a vehicle whose lack of CarPlay doesn't bother me.",
+        "summary": "Rivian finally made a vehicle whose lack of CarPlay doesn't bother me.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
