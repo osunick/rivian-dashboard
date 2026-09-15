@@ -130397,5 +130397,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-15T02:06:10.890845Z",
+    "timestamp": "2026-09-15T02:06:10.890845Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Vehicle Demand"
+    ],
+    "summary": "2 signals across Competitive (1), Vehicles (1); watch Competitive Threats, Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 15, 2026 \u2014 2:06 AM PT \u2014 2 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 1 Rivian signal clustered around Vehicles (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Competitive Threats, Vehicle Demand.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Waymo launches robotaxi service in Las Vegas - FOX5 Vegas\n  https://news.google.com/rss/articles/CBMihgFBVV95cUxON21UZUI5SHRzRlF6Y0F0V3NQUGY4YTBWRUVicWtpOHh3UG9tVkltV09DUEE4bXo4UWlYQjh0dUhVRFZzWUZJLThoSnJQVWdBZ1JXQlNFcHAtSmdZaVo3SjMtS1NzNElIWWh4RHV1N0JpMXQ5aE9haXZOeTFBdGxMellFN0xCQdIBmgFBVV95cUxOOWw1RjBtS25FSW5EQ19iY055Rnc4M3RtVktwWFJoN3pfeld2Y1ZRZ0VfUUR0UVFENWRLVXJjdVhmWWxqbms0TVZQall3REVOVmVhWnpHelFrVldGc0lFM2wzclpiWUpGOUx6a1BHQlJHS0k3b2F5LWxINktFQng1OF9lRnkxWkw5eFprdDVhdHVvVEtiWlZrYVhB?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (1)* \u2022 reddit_rivian_r2 signal: Houston Catalina shipment\n  https://www.reddit.com/r/RivianR2/comments/1wgmawf/houston_catalina_shipment/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Houston Catalina shipment",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wgmawf/houston_catalina_shipment/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-15T01:24:03.705Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Houston Catalina shipment",
+        "summary": "reddit_rivian_r2 signal: Houston Catalina shipment",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo launches robotaxi service in Las Vegas - FOX5 Vegas",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON21UZUI5SHRzRlF6Y0F0V3NQUGY4YTBWRUVicWtpOHh3UG9tVkltV09DUEE4bXo4UWlYQjh0dUhVRFZzWUZJLThoSnJQVWdBZ1JXQlNFcHAtSmdZaVo3SjMtS1NzNElIWWh4RHV1N0JpMXQ5aE9haXZOeTFBdGxMellFN0xCQdIBmgFBVV95cUxOOWw1RjBtS25FSW5EQ19iY055Rnc4M3RtVktwWFJoN3pfeld2Y1ZRZ0VfUUR0UVFENWRLVXJjdVhmWWxqbms0TVZQall3REVOVmVhWnpHelFrVldGc0lFM2wzclpiWUpGOUx6a1BHQlJHS0k3b2F5LWxINktFQng1OF9lRnkxWkw5eFprdDVhdHVvVEtiWlZrYVhB?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 14 Sep 2026 17:46:00 GMT",
+        "score": 0,
+        "snippet": "Waymo launches robotaxi service in Las Vegas - FOX5 Vegas",
+        "summary": "Waymo launches robotaxi service in Las Vegas - FOX5 Vegas",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      }
+    ]
   }
 ]
