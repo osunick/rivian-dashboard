@@ -131404,5 +131404,461 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-16T22:01:31.577703Z",
+    "timestamp": "2026-09-16T22:01:31.577703Z",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 88,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 4,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 5,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "EV Market",
+      "RIVN Stock",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "26 signals across Vehicles (16), Competitive (5); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 16, 2026 \u2014 10:01 PM PT \u2014 26 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 5 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 21 Rivian signals clustered around Vehicles (16), Business (4).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (5)\n\u2022 *Competitive Threats:* UN Secretary-General Antonio Guterres said the world is \u201cnow dangerously close to crossing a moral red line.\u201d\n  https://www.bloomberg.com/news/newsletters/2026-09-16/at-un-nations-wrestle-with-the-rise-of-autonomous-weapons\n\u2022 *Competitive Threats:* Zoox's own exemption already covers the exact standards NHTSA is now asking Tesla to justify meeting without one. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/nhtsa-orders-tesla-to-defend-cybercab-certification/\n\u2022 *Competitive Threats:* Tesla Autonomous Driving Navigates Hill Traffic; User Says 'Real-World AI': Video - NDTV\n  https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0pCdnhfUmxXRmpxTFB6ZW9JUVB3QlpwdWUwR0RhYzVEcUdNelJZdkkxOS1XQTJzaVNsd1NndHJXejVmc3oyQnhfd0FNbFlDU0k3VEZDTkk2c3pjejVoMmVEaXFhWnE4ZTRfMFBzaHNvRTFfQTJPOEMxZ1RFY0VBT3VSczF5MDVucmswZXFBOU1sYjZoMlBFYVNiZHBnbTNtQlpjbU9fMWFhNWxza2xYNWtEXzZaYW_SAb8BQVVfeXFMTkNBb1dVQ2RTd0NHV2hyX1hveEI2ZG1DbnBDNUNST0ZUeGFRYVl2aGVEN3dXR2FwUGNySkFnZDgyWUZPdGdaN0Q5clI4ZXdNN3p0QUU3RW9wVEdXSkc2MzNyM0Y4TTkyV0NVNlpIaDdOVjExR3VDM1NmZWRSZENDVlZEZVltOGFLS2tsT0RxdDJCeDJMWU5ySVpDVVBrRWt2Qi1HRElmLTVPdGl1ZXBmZVBVcGN4QUpUN2I1Skk0Qjg?oc=5\n\u2022 *Competitive Threats:* Congressma\u00adn seeks Tesla Autopilot probe - PressReader\n  https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlJ2cTRoaGFyd0NQc1hweUtzc3VFRk9SUWxabTdUdGNscGNVdmhqVHFpVkwwdVBEMGRCdUpLSFdrcXo0RHo3cGUtdzhkSWlHOEVka3pQUms5ck1tN1hGbzJIZ2dWb1JvcEpvVE9RcUtnc3ktZkFNS21PQ25iTkhsUFlkWQ?oc=5\n\u2022 *Competitive Threats:* Waymo to launch Tokyo robotaxi service in 2027 as Asia expansion begins - Travel Tomorrow\n  https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnc0YXZaekwzTlFCNFBodXVKRUQ1WlQwdk9RbTNaQ2VvQm54MERnR2V6MDNQaHZXY0xydnNaWUs3QzF3a3c5QlNQLXlkdllFOU1DT1ZwVHdBbkd1aTdKZmF4TnlxSWdzSFJMVlkzNnZzSERjZE51SHBqczNqMUxWalBXZUhSd1Q4MzVuei1SazJTV3dMTG5XaDVkWTZGMzlZ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 <\n  https://www.techmeme.com/260916/p42#a260916p42\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (16)* \u2022 reddit_rivian_r2 signal: Order Window\n  https://www.reddit.com/r/RivianR2/comments/1wi4j24/order_window/\n*Business (4)* \u2022 RIVN Stock Continues To Slide On Ramp Concerns For Rivian\u2019s Mass-Market EV - Stocktwits\n  https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWxhN05FYkUzc1JWMHJmS0VtMzFrM3lpam9Xa3hYVWt2eTJ4RmpWdkpIa09UUGdxUmlDRHFTRm5MZlZmYmhmUWh5UHl4emp2MEItYWFQQzltTEJTYVBuZDlMc05XV1dFWUN4cXR2MmFZbE1zUlU3LWp5bmxMQzRaZVQwa2hmVkRtOHh1dEFENnJ5dzVRN0p3TUVKLWRJTVk2eDNDQUtYeGw0Vnc5SG5CMVJXYUs1d2JoOUlDaG4xS2lWd3JaOWFFYTVIZXhUbjVwOVgxbg?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 RIVN Stock\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Order Window",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wi4j24/order_window/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-16T17:54:21.416Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Order Window",
+        "summary": "reddit_rivian_r2 signal: Order Window",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "At UN, Nations Wrestle With the Rise of Autonomous Weapons",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-16/at-un-nations-wrestle-with-the-rise-of-autonomous-weapons",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 16 Sep 2026 17:04:16 GMT",
+        "score": 0,
+        "snippet": "UN Secretary-General Antonio Guterres said the world is \u201cnow dangerously close to crossing a moral red line.\u201d",
+        "summary": "UN Secretary-General Antonio Guterres said the world is \u201cnow dangerously close to crossing a moral red line.\u201d",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "NHTSA orders Tesla to defend Cybercab certification",
+        "url": "https://www.automotiveworld.com/news/nhtsa-orders-tesla-to-defend-cybercab-certification/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 16 Sep 2026 10:39:01 +0000",
+        "score": 0,
+        "snippet": "Zoox's own exemption already covers the exact standards NHTSA is now asking Tesla to justify meeting without one. By Stewart Burnett The post <a href=\"",
+        "summary": "Zoox's own exemption already covers the exact standards NHTSA is now asking Tesla to justify meeting without one. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Skyworth Auto showcases five electric and intelligent commercial vehicles at IAA, led by L4 autonomous Z9",
+        "url": "https://www.automotiveworld.com/topics/commercial-vehicle/skyworth-auto-showcases-five-electric-and-intelligent-commercial-vehicles-at-iaa-led-by-l4-autonomous-z9/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 16 Sep 2026 09:06:08 +0000",
+        "score": 0,
+        "snippet": "Skyworth Auto has unveiled its Z9 L4 autonomous electric heavy truck at IAA Transportation, alongside four other electric and intelligent commercial vehicles spanning logistics, sanitation and pass",
+        "summary": "Skyworth Auto has unveiled its Z9 L4 autonomous electric heavy truck at IAA Transportation, alongside four other electric and intelligent commercial vehicles spanning logistics, sanitation and pass",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Self-driving tech company May Mobility plans to go public via a SPAC merger at a $1.4B pro forma enterprise value and raise up to $337M in gross proceeds (Joann Muller/Axios)",
+        "url": "https://www.techmeme.com/260916/p42#a260916p42",
+        "source": "techmeme",
+        "publishedAt": "Wed, 16 Sep 2026 15:05:01 -0400",
+        "score": 0,
+        "snippet": "<",
+        "summary": "<",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian: Thank You, Demos! (NASDAQ:RIVN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53UjhaaUpwZWhRUzZrYnJqOUdrMVpsYms2SjhGaHJnb3N5RTMyV3ZfZXFfX0VCS3R1LXEzQXBoekVxXzBGYjBnQTY5V1VGc2pRdTZwclVvckE5eFFKcmpDQlNZVmcwT3NKalo3a0xFd0E?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 16 Sep 2026 14:58:26 GMT",
+        "score": 0,
+        "snippet": "Rivian: Thank You, Demos! (NASDAQ:RIVN) - Seeking Alpha",
+        "summary": "Rivian: Thank You, Demos! (NASDAQ:RIVN) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN Stock Continues To Slide On Ramp Concerns For Rivian\u2019s Mass-Market EV - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWxhN05FYkUzc1JWMHJmS0VtMzFrM3lpam9Xa3hYVWt2eTJ4RmpWdkpIa09UUGdxUmlDRHFTRm5MZlZmYmhmUWh5UHl4emp2MEItYWFQQzltTEJTYVBuZDlMc05XV1dFWUN4cXR2MmFZbE1zUlU3LWp5bmxMQzRaZVQwa2hmVkRtOHh1dEFENnJ5dzVRN0p3TUVKLWRJTVk2eDNDQUtYeGw0Vnc5SG5CMVJXYUs1d2JoOUlDaG4xS2lWd3JaOWFFYTVIZXhUbjVwOVgxbg?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 16 Sep 2026 19:06:11 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Continues To Slide On Ramp Concerns For Rivian\u2019s Mass-Market EV - Stocktwits",
+        "summary": "RIVN Stock Continues To Slide On Ramp Concerns For Rivian\u2019s Mass-Market EV - Stocktwits",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Quality",
+          "RIVN Stock",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2% on Insider Selling - marketbeat.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVhqdUhacEZXT3phMXJXYUt4djB1NFNUOExQSmRmdDNxRExVQ1E2aHlNTWxsbUVMTUE3SjBaQXcyTFI5Si1tbkxrMkI2UEdhNldJV1RKLWMwSDAzZ1lneHN5dk52bVB1NlpUTGM4S1BEeEtQVlp3ek5veEVTam9SWm83cE9wclFPTWNPMzhyY0xjM1pzV2VaeEZmeEJ5dXhiNXlPTEdLLWhqSlFPd1BpMDI2WUQxNjVqTXpseFQtbUw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 16 Sep 2026 21:03:59 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2% on Insider Selling - marketbeat.com",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2% on Insider Selling - marketbeat.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A Rivian Insider Sells 15,000 Shares for $244,000 Amid a CFO Transition - theglobeandmail.com",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPekJDVGtHRFpMcEtQNTA1ZUoyM0NoLWlkQ2VDMG1uaHFDV0FZUlF2NFJNZnRVbEtKMGFCUk0tUl9SUlVtMTJSSTJGUG4xOTQ3c3VkemNBSG8yTURiRUQ3ODFQZm55cWF2M3VlSVkxVHY3WGE4MEd5U2p1QlVpc3FTaVBpNXBlWFh2dmJETXpmMkVXYV80YmtPMU9COVphZUZmM3hvQXFUNnVyWjdXZjVIUGxENW1aQmcwRThqTEJub1RCSkNXczZaeUJROFhPTUR1dWZfMG5jM3p0aHBkaHB3QzU3dWVDenFqa0hsczhn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 16 Sep 2026 18:13:53 GMT",
+        "score": 0,
+        "snippet": "A Rivian Insider Sells 15,000 Shares for $244,000 Amid a CFO Transition - theglobeandmail.com",
+        "summary": "A Rivian Insider Sells 15,000 Shares for $244,000 Amid a CFO Transition - theglobeandmail.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Insider Sells $244,350.00 in Stock - marketbeat.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkdlYUZJa0Zmak1iOGdxMTU5X3VyV0VlaDB6T1dMbUF4QkpVbWtJemE5S2RUQlpndFBjd1BvNi1TVXpqM0N3LWxzOTBBeUhtVGdtMkt0aWVlSGhtTVlwWGJRekhySnFpQUtvRDg2SWJpQW1ncFU1THRETS0wbkNYV19DWnZBSkVuVHNmZWVNZ05STEhuWEZSYzlNZHpaSXlWRGNTeGZZbUN1ZnRBLVdSYkpnMFgyT2dJX2ZzY0NFWS0?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 16 Sep 2026 11:15:17 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Insider Sells $244,350.00 in Stock - marketbeat.com",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Insider Sells $244,350.00 in Stock - marketbeat.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive CAO Michael Callahan Sells 15,000 Shares via Rule 10b5-1 Plan - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTdjY2t0NmliMEw4Y3NpbDNNbm41T2tpMVNqWUx5UGZ2amJpeDdUQjM2dkFXREpUcU4zdGp2Qk00bmppOFJiTUpFZzExLTU3ZXltSEJyNHl0dklFcFR5elBCT1g2UVlvQU5KRFR5M0FCT3haRE5CbWt2N0J2cGY1Ml9RaHJZTFBZMjF2dWJjYXdsZ3Z4MGliXzJHbEtWbzhXUkxtdHNuaWltYm1IMEpqVXk0SlMzc2RJZ20wbm85SHRpTFU?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 16 Sep 2026 14:07:13 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive CAO Michael Callahan Sells 15,000 Shares via Rule 10b5-1 Plan - Kalkine Media",
+        "summary": "Rivian Automotive CAO Michael Callahan Sells 15,000 Shares via Rule 10b5-1 Plan - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian chief administrative officer Callahan sells $244,390 stock By Investing.com - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkQyZG5aVk9uM2dpaERPWlp4TVJJME5neXJOYTdwbXlCVWZvY0xhMjZOZ2NpZnRwMU5jUm1ac0lFWGhwdDliR3gzaHl1RS1JdW5OdnRuWlI5cmFTQkk5cTRBR2l0WndSV0IxUU5pMEV4UEdjVGpsbzUxQWYzVE93Ykk5NzM0WHJuQk51U1loU0pjUHlSUUd0ajE5czdLVWZFS3RhTGhMUkw2YjB6djNoRFhvb2VBWHp5cFZwVTFjamFZdw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 16 Sep 2026 11:29:06 GMT",
+        "score": 0,
+        "snippet": "Rivian chief administrative officer Callahan sells $244,390 stock By Investing.com - Investing.com Canada",
+        "summary": "Rivian chief administrative officer Callahan sells $244,390 stock By Investing.com - Investing.com Canada",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRXlQZ0dtWmIyT2FlVHN6am91bXNNZ0tqRThYVHZGNVZXZERYU054RjRDX3otakZTOUZvR0xybHEyVHZ4WmNGUkV4anRnUTFpZVZLWXNsSTd6RjZSTjdDT2JB?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 16 Sep 2026 17:00:11 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+        "summary": "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Autonomous Driving Navigates Hill Traffic; User Says 'Real-World AI': Video - NDTV",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0pCdnhfUmxXRmpxTFB6ZW9JUVB3QlpwdWUwR0RhYzVEcUdNelJZdkkxOS1XQTJzaVNsd1NndHJXejVmc3oyQnhfd0FNbFlDU0k3VEZDTkk2c3pjejVoMmVEaXFhWnE4ZTRfMFBzaHNvRTFfQTJPOEMxZ1RFY0VBT3VSczF5MDVucmswZXFBOU1sYjZoMlBFYVNiZHBnbTNtQlpjbU9fMWFhNWxza2xYNWtEXzZaYW_SAb8BQVVfeXFMTkNBb1dVQ2RTd0NHV2hyX1hveEI2ZG1DbnBDNUNST0ZUeGFRYVl2aGVEN3dXR2FwUGNySkFnZDgyWUZPdGdaN0Q5clI4ZXdNN3p0QUU3RW9wVEdXSkc2MzNyM0Y4TTkyV0NVNlpIaDdOVjExR3VDM1NmZWRSZENDVlZEZVltOGFLS2tsT0RxdDJCeDJMWU5ySVpDVVBrRWt2Qi1HRElmLTVPdGl1ZXBmZVBVcGN4QUpUN2I1Skk0Qjg?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Wed, 16 Sep 2026 10:14:21 GMT",
+        "score": 0,
+        "snippet": "Tesla Autonomous Driving Navigates Hill Traffic; User Says 'Real-World AI': Video - NDTV",
+        "summary": "Tesla Autonomous Driving Navigates Hill Traffic; User Says 'Real-World AI': Video - NDTV",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Congressma\u00adn seeks Tesla Autopilot probe - PressReader",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlJ2cTRoaGFyd0NQc1hweUtzc3VFRk9SUWxabTdUdGNscGNVdmhqVHFpVkwwdVBEMGRCdUpLSFdrcXo0RHo3cGUtdzhkSWlHOEVka3pQUms5ck1tN1hGbzJIZ2dWb1JvcEpvVE9RcUtnc3ktZkFNS21PQ25iTkhsUFlkWQ?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Wed, 16 Sep 2026 09:38:48 GMT",
+        "score": 0,
+        "snippet": "Congressma\u00adn seeks Tesla Autopilot probe - PressReader",
+        "summary": "Congressma\u00adn seeks Tesla Autopilot probe - PressReader",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo to launch Tokyo robotaxi service in 2027 as Asia expansion begins - Travel Tomorrow",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnc0YXZaekwzTlFCNFBodXVKRUQ1WlQwdk9RbTNaQ2VvQm54MERnR2V6MDNQaHZXY0xydnNaWUs3QzF3a3c5QlNQLXlkdllFOU1DT1ZwVHdBbkd1aTdKZmF4TnlxSWdzSFJMVlkzNnZzSERjZE51SHBqczNqMUxWalBXZUhSd1Q4MzVuei1SazJTV3dMTG5XaDVkWTZGMzlZ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Wed, 16 Sep 2026 15:00:25 GMT",
+        "score": 0,
+        "snippet": "Waymo to launch Tokyo robotaxi service in 2027 as Asia expansion begins - Travel Tomorrow",
+        "summary": "Waymo to launch Tokyo robotaxi service in 2027 as Asia expansion begins - Travel Tomorrow",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@sirgeekalot.bsky.social (Bluesky): LOL. Nope. But I don\u2019t have his money. If I did I would just park the Corvette f",
+        "url": "https://bsky.app/profile/did:plc:uxpp7rt64inekapcdnifusk7/post/3mvnzhkvizk2m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T20:53:14.056Z",
+        "score": 0,
+        "snippet": "LOL. Nope. But I don\u2019t have his money. If I did I would just park the Corvette forever to take it out of the system and buy nice EV. Probably a Rivian. A friend of mine has one and I\u2019ve ridden in it.",
+        "summary": "LOL. Nope. But I don\u2019t have his money. If I did I would just park the Corvette forever to take it out of the system and buy nice EV. Probably a Rivian. A friend of mine has one and I\u2019ve ridden in it.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dezroyb.bsky.social (Bluesky): A Closer Look at the New #Rivian #R1S Captain\u2019s Chairs share.google/9mEbjjbJRSAR",
+        "url": "https://bsky.app/profile/did:plc:jol4kpq3hvffv67mlvujkye5/post/3mvnzbhgrns2s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T20:49:50.965Z",
+        "score": 0,
+        "snippet": "A Closer Look at the New #Rivian #R1S Captain\u2019s Chairs share.google/9mEbjjbJRSAR...",
+        "summary": "A Closer Look at the New #Rivian #R1S Captain\u2019s Chairs share.google/9mEbjjbJRSAR...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@fixingnorthamerica.bsky.social (Bluesky): Also, as driving gets easier and more prioritized, people are gonna own more car",
+        "url": "https://bsky.app/profile/did:plc:tqscscskobkext5euwt4z66u/post/3mvnx5a4zkk2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T20:11:39.680Z",
+        "score": 1,
+        "snippet": "Also, as driving gets easier and more prioritized, people are gonna own more cars and therefore cause more traffic. I believe it was the CEO of Rivian who said something about \"your car running errand",
+        "summary": "Also, as driving gets easier and more prioritized, people are gonna own more cars and therefore cause more traffic. I believe it was the CEO of Rivian who said something about \"your car running errand",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@paulross.bsky.social (Bluesky): And that\u2019s one of the reasons you drive a Rivian \ud83e\udd23",
+        "url": "https://bsky.app/profile/did:plc:y3zawx4mbbpfjx52xhvgtzqn/post/3mvnofmgidk2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T17:35:17.264Z",
+        "score": 0,
+        "snippet": "And that\u2019s one of the reasons you drive a Rivian \ud83e\udd23",
+        "summary": "And that\u2019s one of the reasons you drive a Rivian \ud83e\udd23",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): 2022 Rivian R1T Adventure for Sale With 66,600 Miles.\n\nRead more: bit.ly/3UMEkwz",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mvnnkneuyh2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T17:20:14.164Z",
+        "score": 1,
+        "snippet": "2022 Rivian R1T Adventure for Sale With 66,600 Miles. Read more: bit.ly/3UMEkwz",
+        "summary": "2022 Rivian R1T Adventure for Sale With 66,600 Miles. Read more: bit.ly/3UMEkwz",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@larryhussey.bsky.social (Bluesky): I just bought a few shares of Rivian symbol RIVN as a turnaround story in electr",
+        "url": "https://bsky.app/profile/did:plc:wsgskjmqinftdmp7cgudmsbb/post/3mvnmzpss622y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T17:10:45.757Z",
+        "score": 0,
+        "snippet": "I just bought a few shares of Rivian symbol RIVN as a turnaround story in electric vehicles. It trades around $15 per share. #rivn #rivian #turnaroundstock \ud83d\ude9a",
+        "summary": "I just bought a few shares of Rivian symbol RIVN as a turnaround story in electric vehicles. It trades around $15 per share. #rivn #rivian #turnaroundstock \ud83d\ude9a",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@thesunglasskid.bsky.social (Bluesky): What\u2019s the Rivian population look like?",
+        "url": "https://bsky.app/profile/did:plc:yyj3tuma2iadz2cmji3qib2w/post/3mvnmjpuqlc26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T17:01:47.760Z",
+        "score": 0,
+        "snippet": "What\u2019s the Rivian population look like?",
+        "summary": "What\u2019s the Rivian population look like?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvnlbr3k2s2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T16:39:29.460Z",
+        "score": 1,
+        "snippet": "eletric-vehicles.com/rivian/rivia...",
+        "summary": "eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@johnvoelcker.bsky.social (Bluesky): Well, yes + no, but I get your point. \n\nScaringe touched on the theme, but alway",
+        "url": "https://bsky.app/profile/did:plc:wtrz3qngarf7ifus4r7ij6il/post/3mvnl2e4bys2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T16:35:18.859Z",
+        "score": 2,
+        "snippet": "Well, yes + no, but I get your point. Scaringe touched on the theme, but always circled back around to software + tech being the way to make appealing VEHICLES.",
+        "summary": "Well, yes + no, but I get your point. Scaringe touched on the theme, but always circled back around to software + tech being the way to make appealing VEHICLES.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@johnvoelcker.bsky.social (Bluesky): Possibly some, but I suspect it was rolling it out to their ICE lineup that may ",
+        "url": "https://bsky.app/profile/did:plc:wtrz3qngarf7ifus4r7ij6il/post/3mvnjls3vk22y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T16:09:16.359Z",
+        "score": 2,
+        "snippet": "Possibly some, but I suspect it was rolling it out to their ICE lineup that may have moved the needle. In the #EV world, remember, Tesla + Rivian + Lucid have never had phone mirroring.",
+        "summary": "Possibly some, but I suspect it was rolling it out to their ICE lineup that may have moved the needle. In the #EV world, remember, Tesla + Rivian + Lucid have never had phone mirroring.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
