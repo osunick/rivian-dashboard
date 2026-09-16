@@ -131210,5 +131210,199 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-16T02:01:26.614270Z",
+    "timestamp": "2026-09-16T02:01:26.614270Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "9 signals across Vehicles (5), Autonomy (1); watch Vehicle Demand, Autonomy",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 16, 2026 \u2014 2:01 AM PT \u2014 9 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 7 Rivian signals clustered around Vehicles (5), Autonomy (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Autonomy, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Waymo to deploy driverless robotaxis in Tokyo next year - Nikkei Asia\n  https://news.google.com/rss/articles/CBMipgFBVV95cUxNSExVeUc0RnViaC1PYy1BNVcxV2dEUnM1cE5VM3VhNkJzaGdvc1NpU2ltNXhad25OamppT09mbm5YaTMyVTZRRURrNmVNV1FkeXY1RnVuRjM4c1hqeFJGaWZ1alVrM2s5ay03WDVLTUt4VllmRTRCendIZVFTT19qUlF1RHR3b3JCVW5tOEJmejJMQ3BlWFBLS2JLb0F3a1NjMUVpRjVB?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 RIVIAN\u2019S GAMBIT FOR FULL AUTONOMY @spectrum.ieee.org spectrum.ieee.org/rivian-self-...\n  https://bsky.app/profile/did:plc:duevexmgsqxvk6xe4s6vji4i/post/3mvlo2yir622m\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (5)* \u2022 Rivian Automotive (RIVN) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance\n  https://news.google.com/rss/articles/CBMingFBVV95cUxOX1JvWTZGZ25wcHg5SGtUMFMzQU9wRkx6b0pUS3FXSEJ1b1Y0YlhRaE91VTJwWWdqZ1MyRmViTmx5UE9aMzlIMDV2eXNQNTZudVB0MUs0TElEWUdiR0ItT21BYzBPNjBlTFBnODFUSWY0Y1Rtc2c2dURZOGNFeV9SMVNTY1F6d0ZYWW9PRTFpeHFlNHBzNnp6Z3RvMVpjQQ?oc=5\n*Business (1)* \u2022 The EV Bubble Has Burst. How to Play Rivian Stock Now.\n  https://bsky.app/profile/did:plc:joxpffdd3w44tpol34fkx3rk/post/3mvlo2ubhnu23\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree",
+        "url": "https://www.cnbc.com/2026/09/16/cnbc-daily-open-is-ai-safe-industry-leaders-and-trump-disagree.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree",
+        "summary": "cnbc signal: CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1JvWTZGZ25wcHg5SGtUMFMzQU9wRkx6b0pUS3FXSEJ1b1Y0YlhRaE91VTJwWWdqZ1MyRmViTmx5UE9aMzlIMDV2eXNQNTZudVB0MUs0TElEWUdiR0ItT21BYzBPNjBlTFBnODFUSWY0Y1Rtc2c2dURZOGNFeV9SMVNTY1F6d0ZYWW9PRTFpeHFlNHBzNnp6Z3RvMVpjQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 15 Sep 2026 21:50:05 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+        "summary": "Rivian Automotive (RIVN) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo to deploy driverless robotaxis in Tokyo next year - Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSExVeUc0RnViaC1PYy1BNVcxV2dEUnM1cE5VM3VhNkJzaGdvc1NpU2ltNXhad25OamppT09mbm5YaTMyVTZRRURrNmVNV1FkeXY1RnVuRjM4c1hqeFJGaWZ1alVrM2s5ay03WDVLTUt4VllmRTRCendIZVFTT19qUlF1RHR3b3JCVW5tOEJmejJMQ3BlWFBLS2JLb0F3a1NjMUVpRjVB?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 15 Sep 2026 16:17:00 GMT",
+        "score": 0,
+        "snippet": "Waymo to deploy driverless robotaxis in Tokyo next year - Nikkei Asia",
+        "summary": "Waymo to deploy driverless robotaxis in Tokyo next year - Nikkei Asia",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@doughoff.bsky.social (Bluesky): As this is IL, I see a lot more Rivian EV trucks than Cybertrucks, which is hear",
+        "url": "https://bsky.app/profile/did:plc:hl3ipka2fsf2ubjit5b726vp/post/3mvlvkimgus2s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-16T00:37:57.264Z",
+        "score": 0,
+        "snippet": "As this is IL, I see a lot more Rivian EV trucks than Cybertrucks, which is heartening.",
+        "summary": "As this is IL, I see a lot more Rivian EV trucks than Cybertrucks, which is heartening.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvlpgczkwc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T22:48:15.566Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvlog4oipc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T22:30:15.268Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@epesola.bsky.social (Bluesky): RIVIAN\u2019S GAMBIT FOR FULL AUTONOMY @spectrum.ieee.org \n\nspectrum.ieee.org/rivian-",
+        "url": "https://bsky.app/profile/did:plc:duevexmgsqxvk6xe4s6vji4i/post/3mvlo2yir622m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T22:24:05.968Z",
+        "score": 0,
+        "snippet": "RIVIAN\u2019S GAMBIT FOR FULL AUTONOMY @spectrum.ieee.org spectrum.ieee.org/rivian-self-...",
+        "summary": "RIVIAN\u2019S GAMBIT FOR FULL AUTONOMY @spectrum.ieee.org spectrum.ieee.org/rivian-self-...",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@beyondlink.bsky.social (Bluesky): The EV Bubble Has Burst. How to Play Rivian Stock Now.",
+        "url": "https://bsky.app/profile/did:plc:joxpffdd3w44tpol34fkx3rk/post/3mvlo2ubhnu23",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T22:23:56.959Z",
+        "score": 0,
+        "snippet": "The EV Bubble Has Burst. How to Play Rivian Stock Now.",
+        "summary": "The EV Bubble Has Burst. How to Play Rivian Stock Now.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@banditraccoon.bsky.social (Bluesky): Yoooo Rivian! \ud83d\udc9a",
+        "url": "https://bsky.app/profile/did:plc:vt7jpwnbw4b73dbblwahnfqo/post/3mvlmvca6g22q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-15T22:02:56.360Z",
+        "score": 1,
+        "snippet": "Yoooo Rivian! \ud83d\udc9a",
+        "summary": "Yoooo Rivian! \ud83d\udc9a",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
