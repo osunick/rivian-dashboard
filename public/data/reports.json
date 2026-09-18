@@ -132546,5 +132546,300 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-18T02:01:27.386963Z",
+    "timestamp": "2026-09-18T02:01:27.386963Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 93,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "16 signals across Vehicles (13), Business (1); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, September 18, 2026 \u2014 2:01 AM PT \u2014 16 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 15 Rivian signals clustered around Vehicles (13), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Business, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: R2 test drive advice?\n  https://www.reddit.com/r/RivianR2/comments/1wj4mtq/r2_test_drive_advice/\n*Vehicles (13)* \u2022 reddit_electricvehicles signal: New US and Canadian universal EV fast chargers in August 2026\n  https://www.reddit.com/r/electricvehicles/comments/1wjbe5n/new_us_and_canadian_universal_ev_fast_chargers_in/\n*Business (1)* \u2022 When did Robinhood become the fake US stock market? youtu.be/tyVTtdMH65Q?...\n  https://bsky.app/profile/did:plc:6dobdv7waezzd5jfccmwfhp3/post/3mvqx4uowmc2n\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R2 test drive advice?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wj4mtq/r2_test_drive_advice/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-17T20:01:31.212Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 test drive advice?",
+        "summary": "reddit_rivian_r2 signal: R2 test drive advice?",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "New US and Canadian universal EV fast chargers in August 2026",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wjbe5n/new_us_and_canadian_universal_ev_fast_chargers_in/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-18T00:37:52.495Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: New US and Canadian universal EV fast chargers in August 2026",
+        "summary": "reddit_electricvehicles signal: New US and Canadian universal EV fast chargers in August 2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: Trump\u2019s tariff leverage, EU warning and Iran hopes",
+        "url": "https://www.cnbc.com/2026/09/18/trump-iran-canada-europe-tariffs-hormuz-ai-palatir-.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: CNBC Daily Open: Trump\u2019s tariff leverage, EU warning and Iran hopes",
+        "summary": "cnbc signal: CNBC Daily Open: Trump\u2019s tariff leverage, EU warning and Iran hopes",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.1% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHM2WnJBYUpsVEVlVTdiWFZ4UlhIUFFzMmdaZ3Q5ZWNGajVLUlIxN1FkdHEtbWc5SGhJa0hhTTNPQXhIRVJqNFlicmdyNHZBbnFseEctVUZpdkQwVlRNS1RxTXBZdmJRWVRXelhNbWdsanFadGd5RDBmdWkzVVVXczFWRmdDYjFZbGNKSEZGQWFaMkhmbHZkeUNkYVNON0pZdy0ta3AtQ0dQNW1lZnhlamJB?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 17 Sep 2026 21:45:17 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.1% - Here's Why - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.1% - Here's Why - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Reports Q3 Deliveries for the R2 SUV in October. Here's How Investors Should Prepare. - theglobeandmail.com",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ2dKaXdlU1FJaE9rejgzcDZDa3NTWHBIV0wxY1lrMHozaDUyUzAtWWtJVGUxb0JVYlJpNkVBbGJIdHRsVTFHRXFfdGQ5M0wtX21HajA2UVVKQ0xxYlhSb2IwVDRNR1E2eDJmZ0E0aWx1TXRLcWNIQlp4LTNMaFVmempqNlhxNUxLMW1jYWc2Mk1mS0dQZFJVdmh6VDVlQ2E2a0ZkamVZOHJKaUVaRlNScUZ1cWd1M3JQbW5uUWV6VTJrSGNxOVEyMEJXczFDUDdZSHZpVVdCalJIRFdMVk5DWXN2S0IyUl9QVmo3VlI3eVJ2QXNsNTBBV2tWTnExQ0xPaTRwaw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 17 Sep 2026 20:48:24 GMT",
+        "score": 0,
+        "snippet": "Rivian Reports Q3 Deliveries for the R2 SUV in October. Here's How Investors Should Prepare. - theglobeandmail.com",
+        "summary": "Rivian Reports Q3 Deliveries for the R2 SUV in October. Here's How Investors Should Prepare. - theglobeandmail.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Insider Callahan Michael John Sells 15,000 Shares at $16.29 Each - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW5ITDhJMnZKSF9kWXV1WnVoMGM4MGRlWjk3M1dFMm04V3hTRGVIU19zbUFkUDUzOGtyN1VVckJMd3c4TC0wX0h2UmVHbnBVZFBQTnkyQVUwLU5FM0hsaU0tWnZKMktIb3NvUXdhVmZjM3pHUmdsRnVHOGhXWlFGb19EeGFlWFdqeFhjQjY1cnpXMWppTlFoMHpzV3BOdDM1MTFWdUtkcFlscUFHTWFlU1VTbDNvVUpBTmluQ0dneGNRY2tJ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 17 Sep 2026 18:30:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Insider Callahan Michael John Sells 15,000 Shares at $16.29 Each - Kalkine Media",
+        "summary": "Rivian Automotive Insider Callahan Michael John Sells 15,000 Shares at $16.29 Each - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thenicklogan.bsky.social (Bluesky): If it's not a Tesla you may still be able to use their charging network (I need ",
+        "url": "https://bsky.app/profile/did:plc:rid23ijjbtop3euok7y3lcq5/post/3mvr2oak2ms26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T01:52:51.760Z",
+        "score": 0,
+        "snippet": "If it's not a Tesla you may still be able to use their charging network (I need an NACS plug adapter) but not every location allows non-Tesla charging. I use both the Plugshare and Tesla app. Rivian a",
+        "summary": "If it's not a Tesla you may still be able to use their charging network (I need an NACS plug adapter) but not every location allows non-Tesla charging. I use both the Plugshare and Tesla app. Rivian a",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvqy6q5cr22j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T01:08:22.869Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@1inagoogol.bsky.social (Bluesky): When did Robinhood become the fake US stock market? youtu.be/tyVTtdMH65Q?...",
+        "url": "https://bsky.app/profile/did:plc:6dobdv7waezzd5jfccmwfhp3/post/3mvqx4uowmc2n",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T00:49:28.768Z",
+        "score": 0,
+        "snippet": "When did Robinhood become the fake US stock market? youtu.be/tyVTtdMH65Q?...",
+        "summary": "When did Robinhood become the fake US stock market? youtu.be/tyVTtdMH65Q?...",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@scottwahlstrom.bsky.social (Bluesky): Spotted at #TheCommonMan in Hooksett, New Hampshire.\n\n#Rivian has a new model.",
+        "url": "https://bsky.app/profile/did:plc:d4c6r7jsfdb6hwgelpvvostz/post/3mvqmhe7rrk2a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-17T21:38:29.467Z",
+        "score": 0,
+        "snippet": "Spotted at #TheCommonMan in Hooksett, New Hampshire. #Rivian has a new model.",
+        "summary": "Spotted at #TheCommonMan in Hooksett, New Hampshire. #Rivian has a new model.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@usedcarsusa.bsky.social (Bluesky): \ud83d\ude97 2022 Rivian R1T\n\n\ud83d\udcb0 $47,597 | \ud83d\udccd Columbia, SC | \ud83d\udee3\ufe0f 55,657 mi\n\nCheck it out: http",
+        "url": "https://bsky.app/profile/did:plc:33wuswnohigcvpdx5e4wewqx/post/3mvqkdgu6w22n",
+        "source": "bluesky",
+        "publishedAt": "2026-09-17T21:00:28.965Z",
+        "score": 0,
+        "snippet": "\ud83d\ude97 2022 Rivian R1T \ud83d\udcb0 $47,597 | \ud83d\udccd Columbia, SC | \ud83d\udee3\ufe0f 55,657 mi Check it out: #usedcars #Rivian #cars",
+        "summary": "\ud83d\ude97 2022 Rivian R1T \ud83d\udcb0 $47,597 | \ud83d\udccd Columbia, SC | \ud83d\udee3\ufe0f 55,657 mi Check it out: #usedcars #Rivian #cars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sinkproject.com (Bluesky): www.sinkproject.com/company/rivian",
+        "url": "https://bsky.app/profile/did:plc:4rv2ffyes45edjue3gdvjpag/post/3mvqjoehch22l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-17T20:48:42.689Z",
+        "score": 0,
+        "snippet": "www.sinkproject.com/company/rivian",
+        "summary": "www.sinkproject.com/company/rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@beerandashot.wtf (Bluesky): I rode in my first Rivian last month and WOW it was so much better of an experie",
+        "url": "https://bsky.app/profile/did:plc:72pqozlntavn77rqpqnhny56/post/3mvqjdo3qd22p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-17T20:42:40.658Z",
+        "score": 1,
+        "snippet": "I rode in my first Rivian last month and WOW it was so much better of an experience than any Tesla I've ever ridden in.",
+        "summary": "I rode in my first Rivian last month and WOW it was so much better of an experience than any Tesla I've ever ridden in.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@robpegoraro.com (Bluesky): Saw one of Amazon's Rivian electric vans in downtown D.C. I didn't know they wer",
+        "url": "https://bsky.app/profile/did:plc:drsuvxemjgu367n6xn4brx4h/post/3mvqj4jrnfk2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-17T20:38:40.561Z",
+        "score": 1,
+        "snippet": "Saw one of Amazon's Rivian electric vans in downtown D.C. I didn't know they were in service anywhere in the District.",
+        "summary": "Saw one of Amazon's Rivian electric vans in downtown D.C. I didn't know they were in service anywhere in the District.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mrcippy.xyz (Bluesky): Rivian called me last night and said it had news about our R2 delivery, set for ",
+        "url": "https://bsky.app/profile/did:plc:5t5eromxfp2uif2z22jpvwft/post/3mvqi3ykwoc2d",
+        "source": "bluesky",
+        "publishedAt": "2026-09-17T20:20:30.762Z",
+        "score": 4,
+        "snippet": "Rivian called me last night and said it had news about our R2 delivery, set for next Friday. I got really nervous, thinking it was going to be pushed back. Instead, they told me it was ready early. O",
+        "summary": "Rivian called me last night and said it had news about our R2 delivery, set for next Friday. I got really nervous, thinking it was going to be pushed back. Instead, they told me it was ready early. O",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mrcippy.mrcippy.xyz.ap.brid.gy (Bluesky): Rivian called me last night and said it had news about our R2 delivery, set for ",
+        "url": "https://bsky.app/profile/did:plc:qxijxfmpdsnzz5xihuovejyj/post/3mvqhrtb2n3g2",
+        "source": "bluesky",
+        "publishedAt": "2026-09-17T20:14:50.260Z",
+        "score": 1,
+        "snippet": "Rivian called me last night and said it had news about our R2 delivery, set for next Friday. I got really nervous, thinking it was going to be pushed back. Instead, they told me it was ready early. O",
+        "summary": "Rivian called me last night and said it had news about our R2 delivery, set for next Friday. I got really nervous, thinking it was going to be pushed back. Instead, they told me it was ready early. O",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
