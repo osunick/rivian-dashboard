@@ -133168,5 +133168,206 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-18T22:01:24.175324Z",
+    "timestamp": "2026-09-18T22:01:24.175324Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 9,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Vehicle Demand"
+    ],
+    "summary": "10 signals across Vehicles (9), Competitive (1); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, September 18, 2026 \u2014 10:01 PM PT \u2014 10 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 9 Rivian signals clustered around Vehicles (9).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Tesla Q3 Deliveries Could Beat Expectations, Says Barclays \u2014 Analyst Calls Fundamentals An \u2018Afterthought\u2019 To AI Story - tradingview.com\n  https://news.google.com/rss/articles/CBMigwJBVV95cUxNdjhFLXhlMHk2M0hwQlIzNzdZTDdiUWNFRmxJdGdVQ3FqeXZaeHNjY1hFaWNZWDZ0Zy1FYXhCR0U0ejN3bWt1bUZzOHI2SmpnTXM4Vjgwemt4ZjN1b1lpazQ4SF82NU8wLWhJbXVUSVFCZE5DU1g0WkdCOFgySktQeGlaNENjTWd1UV9hVjJGaUhVcjFLYUpOeVVBZjhLam5kT2RvMEFhWUlkVzdaVWFncGlNYXcwd3BzaGY0SnIyRExiLXFPRjN5RG1mRmJGOFZxYnUybFdVN1BVeWpnU0xzMzlRQzdPel9HNXRzNGhGMTFUT25kMTNYN09LTGw1Rm1Bcm9J?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (9)* \u2022 Rivian Automotive (NASDAQ:RIVN) Trading Down 2.7% - Here's Why - marketbeat.com\n  https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3Fva0Q0cHE3NVdrUDVQQW1jaUloVDZYZ3NoOHNxb2JnTlBkYmRIc3NwN3MyWk9xVXI5cXVSWE85R2hFRXVJZnNIT0dZSC1JQTBjbTVwRlhKY0EwcDlCR1pfOHVXS3NFLXlvSzk0aUtWOGt6bkVaeEM3aWtIZG4yZUIwTkQzRkJDT0JQWFNxSU5tdXd2bFpMNmpGWkRjUkVlUjloVTFEV3ZKZksxV1hPbFJOcjJjZw?oc=5\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2.7% - Here's Why - marketbeat.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3Fva0Q0cHE3NVdrUDVQQW1jaUloVDZYZ3NoOHNxb2JnTlBkYmRIc3NwN3MyWk9xVXI5cXVSWE85R2hFRXVJZnNIT0dZSC1JQTBjbTVwRlhKY0EwcDlCR1pfOHVXS3NFLXlvSzk0aUtWOGt6bkVaeEM3aWtIZG4yZUIwTkQzRkJDT0JQWFNxSU5tdXd2bFpMNmpGWkRjUkVlUjloVTFEV3ZKZksxV1hPbFJOcjJjZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 18 Sep 2026 21:43:42 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2.7% - Here's Why - marketbeat.com",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Trading Down 2.7% - Here's Why - marketbeat.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Q3 Deliveries Could Beat Expectations, Says Barclays \u2014 Analyst Calls Fundamentals An \u2018Afterthought\u2019 To AI Story - tradingview.com",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdjhFLXhlMHk2M0hwQlIzNzdZTDdiUWNFRmxJdGdVQ3FqeXZaeHNjY1hFaWNZWDZ0Zy1FYXhCR0U0ejN3bWt1bUZzOHI2SmpnTXM4Vjgwemt4ZjN1b1lpazQ4SF82NU8wLWhJbXVUSVFCZE5DU1g0WkdCOFgySktQeGlaNENjTWd1UV9hVjJGaUhVcjFLYUpOeVVBZjhLam5kT2RvMEFhWUlkVzdaVWFncGlNYXcwd3BzaGY0SnIyRExiLXFPRjN5RG1mRmJGOFZxYnUybFdVN1BVeWpnU0xzMzlRQzdPel9HNXRzNGhGMTFUT25kMTNYN09LTGw1Rm1Bcm9J?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Fri, 18 Sep 2026 17:34:09 GMT",
+        "score": 0,
+        "snippet": "Tesla Q3 Deliveries Could Beat Expectations, Says Barclays \u2014 Analyst Calls Fundamentals An \u2018Afterthought\u2019 To AI Story - tradingview.com",
+        "summary": "Tesla Q3 Deliveries Could Beat Expectations, Says Barclays \u2014 Analyst Calls Fundamentals An \u2018Afterthought\u2019 To AI Story - tradingview.com",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Congratulations! Welcome to the #Rivian family",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvt3icgvwc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T21:12:44.959Z",
+        "score": 0,
+        "snippet": "Congratulations! Welcome to the #Rivian family",
+        "summary": "Congratulations! Welcome to the #Rivian family",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvt3gqgnw22r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T21:11:52.270Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvt3eueadk2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T21:10:49.667Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): It looks like Rivian has plans to sell a lot more upfitted vehicles...",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mvsxgmty6b2s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T20:00:13.858Z",
+        "score": 0,
+        "snippet": "It looks like Rivian has plans to sell a lot more upfitted vehicles...",
+        "summary": "It looks like Rivian has plans to sell a lot more upfitted vehicles...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thegachafish.bsky.social (Bluesky): Smh why is gas $6/gallon? Should\u2019ve gotten that Rivian R1s\u2026..",
+        "url": "https://bsky.app/profile/did:plc:lxmyuklrufgb7jlqzxoexxst/post/3mvsumm7czs22",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T19:09:52.966Z",
+        "score": 1,
+        "snippet": "Smh why is gas $6/gallon? Should\u2019ve gotten that Rivian R1s\u2026..",
+        "summary": "Smh why is gas $6/gallon? Should\u2019ve gotten that Rivian R1s\u2026..",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@skskunk.bsky.social (Bluesky): This is so dumb, it's frickin awesome!\n\nThis is coming from a Rivian body tech. ",
+        "url": "https://bsky.app/profile/did:plc:e6tzkjixnfiqf5bzblxi7xkw/post/3mvstgtkdx226",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T18:48:44.267Z",
+        "score": 6,
+        "snippet": "This is so dumb, it's frickin awesome! This is coming from a Rivian body tech. LOL",
+        "summary": "This is so dumb, it's frickin awesome! This is coming from a Rivian body tech. LOL",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@doctorrubato.com (Bluesky): A climate change denier on another social media platform told me he really wants",
+        "url": "https://bsky.app/profile/did:plc:5otyxwigslrvse4mqe5ag2ol/post/3mvssvsiicc2f",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T18:39:14.663Z",
+        "score": 1,
+        "snippet": "A climate change denier on another social media platform told me he really wants a Rivian. Debating science is not going to make a dent, but maybe, just maybe, the fact that climate friendly works out",
+        "summary": "A climate change denier on another social media platform told me he really wants a Rivian. Debating science is not going to make a dent, but maybe, just maybe, the fact that climate friendly works out",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): PSA:  How to opt-in/opt-out on Rivian Assistant, how to use it, and other import",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mvsrnqutcd2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-18T18:16:51.207Z",
+        "score": 1,
+        "snippet": "PSA: How to opt-in/opt-out on Rivian Assistant, how to use it, and other important information.",
+        "summary": "PSA: How to opt-in/opt-out on Rivian Assistant, how to use it, and other important information.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
