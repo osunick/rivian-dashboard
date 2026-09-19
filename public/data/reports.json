@@ -133477,5 +133477,255 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-19T18:01:27.109181Z",
+    "timestamp": "2026-09-19T18:01:27.109181Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 92,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "13 signals across Vehicles (8), Community (2); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, September 19, 2026 \u2014 6:01 PM PT \u2014 13 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 11 Rivian signals clustered around Vehicles (8), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Community Signals, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* VW, still so ineptly run in 2026 U.S. objectively insane, meanwhile, as the Kia EV2 storms the European sales charts, Kia\u2019s producing 8,000 a month at launch, approximately 100,000 a year VWAGs hand\n  https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mvv4gunvik2b\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Test Drive Likes and Dislikes\n  https://www.reddit.com/r/RivianR2/comments/1wkjlmi/test_drive_likes_and_dislikes/\n*Vehicles (8)* \u2022 Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle What would you choose with up to $120,000 to spend on a fully customized EV \u2013 a Lucid Air, Rivian R1S, Porsche Mac\n  https://bsky.app/profile/did:plc:cbaqyh7p4zwixmpmyh5jjoq5/post/3mvux6aonad23\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 reddit_selfdrivingcars signal: NHTSA head Jonathan Morrison speech at AI Horizons PGH Summit Sept. 17, 2026\n  https://www.reddit.com/r/SelfDrivingCars/comments/1wksug2/nhtsa_head_jonathan_morrison_speech_at_ai/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Test Drive Likes and Dislikes",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wkjlmi/test_drive_likes_and_dislikes/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-19T11:20:22.245Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test Drive Likes and Dislikes",
+        "summary": "reddit_rivian_r2 signal: Test Drive Likes and Dislikes",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "NHTSA head Jonathan Morrison speech at AI Horizons PGH Summit Sept. 17, 2026",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1wksug2/nhtsa_head_jonathan_morrison_speech_at_ai/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-09-19T17:56:56.854Z",
+        "score": 0,
+        "snippet": "reddit_selfdrivingcars signal: NHTSA head Jonathan Morrison speech at AI Horizons PGH Summit Sept. 17, 2026",
+        "summary": "reddit_selfdrivingcars signal: NHTSA head Jonathan Morrison speech at AI Horizons PGH Summit Sept. 17, 2026",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "AI Agents Test the Limits of Human Oversight",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-19/ai-agents-test-the-limits-of-human-oversight-video",
+        "source": "bloomberg_markets",
+        "publishedAt": "Sat, 19 Sep 2026 12:28:50 GMT",
+        "score": 0,
+        "snippet": "OpenAI disclosed six cases of unexpected or concerning model behavior as AI companies grapple with how to monitor increasingly autonomous agents and whether stronger independent oversight is needed. J",
+        "summary": "OpenAI disclosed six cases of unexpected or concerning model behavior as AI companies grapple with how to monitor increasingly autonomous agents and whether stronger independent oversight is needed. J",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): VW, still so ineptly run in 2026 U.S. objectively  insane, meanwhile, as the Kia",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mvv4gunvik2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T16:35:10.364Z",
+        "score": 1,
+        "snippet": "VW, still so ineptly run in 2026 U.S. objectively insane, meanwhile, as the Kia EV2 storms the European sales charts, Kia\u2019s producing 8,000 a month at launch, approximately 100,000 a year VWAGs hand",
+        "summary": "VW, still so ineptly run in 2026 U.S. objectively insane, meanwhile, as the Kia EV2 storms the European sales charts, Kia\u2019s producing 8,000 a month at launch, approximately 100,000 a year VWAGs hand",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Climate XChange is giving away more EVs than ever before in its 11th Annual EV R",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mvuzzxhrc62z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T15:52:09.364Z",
+        "score": 7,
+        "snippet": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle",
+        "summary": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@happeningnow.news (Bluesky): Climate XChange is giving away more EVs than ever before in its 11th Annual EV R",
+        "url": "https://bsky.app/profile/did:plc:cbaqyh7p4zwixmpmyh5jjoq5/post/3mvux6aonad23",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T15:00:52.272Z",
+        "score": 0,
+        "snippet": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle What would you choose with up to $120,000 to spend on a fully customized EV \u2013 a Lucid Air, Rivian R1S, Porsche Mac",
+        "summary": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle What would you choose with up to $120,000 to spend on a fully customized EV \u2013 a Lucid Air, Rivian R1S, Porsche Mac",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dezroyb.bsky.social (Bluesky): Every #Rivian Adventure starts somewhere. Understanding what's needed is critica",
+        "url": "https://bsky.app/profile/did:plc:jol4kpq3hvffv67mlvujkye5/post/3mvux3vxnck2m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T14:59:34.963Z",
+        "score": 0,
+        "snippet": "Every #Rivian Adventure starts somewhere. Understanding what's needed is critical. Great opportunity to ask questions and get real answers. Check out this event posted by the #Rivian #NJ club.",
+        "summary": "Every #Rivian Adventure starts somewhere. Understanding what's needed is critical. Great opportunity to ask questions and get real answers. Check out this event posted by the #Rivian #NJ club.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@seaonion.bsky.social (Bluesky): I want a cheap Chinese EV! Screw the big three and Elon. Sorry, Rivian.",
+        "url": "https://bsky.app/profile/did:plc:amfd2xlpwwtvaesy52mj32kt/post/3mvuujg2jq22h",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T14:13:25.375Z",
+        "score": 1,
+        "snippet": "I want a cheap Chinese EV! Screw the big three and Elon. Sorry, Rivian.",
+        "summary": "I want a cheap Chinese EV! Screw the big three and Elon. Sorry, Rivian.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bustedride.bsky.social (Bluesky): Spotted a Rivian Prime van #bustedride with the backdrop of Wayne State campus b",
+        "url": "https://bsky.app/profile/did:plc:n5hzf3ydegefwhtee25itwj2/post/3mvutnnwdgs25",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T13:57:58.369Z",
+        "score": 7,
+        "snippet": "Spotted a Rivian Prime van #bustedride with the backdrop of Wayne State campus building.",
+        "summary": "Spotted a Rivian Prime van #bustedride with the backdrop of Wayne State campus building.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): rivian.com/stories/r2-o...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvusl4fazs22",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T13:38:37.382Z",
+        "score": 0,
+        "snippet": "rivian.com/stories/r2-o...",
+        "summary": "rivian.com/stories/r2-o...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian! eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvurxgt4bk2a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T13:27:37.171Z",
+        "score": 0,
+        "snippet": "Rivian! eletric-vehicles.com/rivian/rivia...",
+        "summary": "Rivian! eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): 2026 Rivian R1T Ascend Quad Max for Sale With 21,500 Miles.\n\nRead more: bit.ly/4",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mvulx74g2a2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T11:40:04.166Z",
+        "score": 0,
+        "snippet": "2026 Rivian R1T Ascend Quad Max for Sale With 21,500 Miles. Read more: bit.ly/4y9Yhw6",
+        "summary": "2026 Rivian R1T Ascend Quad Max for Sale With 21,500 Miles. Read more: bit.ly/4y9Yhw6",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Open Reservations\n\nWhen do we get to sign up for the @Rivian R3X?",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mvujrbz7jb2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-19T11:00:58.460Z",
+        "score": 3,
+        "snippet": "Open Reservations When do we get to sign up for the @Rivian R3X?",
+        "summary": "Open Reservations When do we get to sign up for the @Rivian R3X?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
