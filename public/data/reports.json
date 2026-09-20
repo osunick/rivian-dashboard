@@ -134172,5 +134172,104 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-20T22:01:30.450789Z",
+    "timestamp": "2026-09-20T22:01:30.450789Z",
+    "sentiment": {
+      "positive": 33,
+      "neutral": 66,
+      "negative": 0
+    },
+    "sources": {
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 2,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 2,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Vehicle Demand"
+    ],
+    "summary": "3 signals across Vehicles (2), Community (1); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, September 20, 2026 \u2014 10:01 PM PT \u2014 3 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 3 Rivian signals clustered around Vehicles (2), Community (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (2)* \u2022 EV ecstacy: BMW iX3, Rivian R2 - Washington Blade\n  https://news.google.com/rss/articles/CBMihgFBVV95cUxPOWJxVFFHOEFJTGc0M3ZFdkR3VURoTWp5OGx5RXRsblQwNkdsLVRoUm5YS1FxUG1fdWNEay1ROVljMDdUUkQ2UUJ2a21QS0thU1o2eE5UQUJPWGxXZ2U2a0ZCZHZNdTZlbnpaN0JEbm9Qc1JQdGNZeW0xTWt1NTFtdUwyWHRZUQ?oc=5\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 Literally 2/3 of the people I\u2019ve seen here at the Whoa Nelly Deli in Lee Vining, CA (eastern gateway to Yosemite) are taking photos of the gas price signs. But they didn\u2019t have a Jasper as a model. Me\n  https://bsky.app/profile/did:plc:lrqynwyuoqvc2kqddqsga47q/post/3mvy2kwtqo22b\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "EV ecstacy: BMW iX3, Rivian R2 - Washington Blade",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOWJxVFFHOEFJTGc0M3ZFdkR3VURoTWp5OGx5RXRsblQwNkdsLVRoUm5YS1FxUG1fdWNEay1ROVljMDdUUkQ2UUJ2a21QS0thU1o2eE5UQUJPWGxXZ2U2a0ZCZHZNdTZlbnpaN0JEbm9Qc1JQdGNZeW0xTWt1NTFtdUwyWHRZUQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sun, 20 Sep 2026 18:14:50 GMT",
+        "score": 0,
+        "snippet": "EV ecstacy: BMW iX3, Rivian R2 - Washington Blade",
+        "summary": "EV ecstacy: BMW iX3, Rivian R2 - Washington Blade",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@no-privacy.bsky.social (Bluesky): How to Make More Cars in America? Rivian\u2019s C.E.O. Has Some Ideas. www.nytimes.co",
+        "url": "https://bsky.app/profile/did:plc:gfjuigyoevbroyfy6s5unuq2/post/3mvy3bmfocc2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T20:52:19.964Z",
+        "score": 0,
+        "snippet": "How to Make More Cars in America? Rivian\u2019s C.E.O. Has Some Ideas. www.nytimes.com/2026/09/20/b... I \u2764\ufe0f my R1S! @rjscaringeelectricfuture.com",
+        "summary": "How to Make More Cars in America? Rivian\u2019s C.E.O. Has Some Ideas. www.nytimes.com/2026/09/20/b... I \u2764\ufe0f my R1S! @rjscaringeelectricfuture.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@phaneritic.bsky.social (Bluesky): Literally 2/3 of the people I\u2019ve seen here at the Whoa Nelly Deli in Lee Vining,",
+        "url": "https://bsky.app/profile/did:plc:lrqynwyuoqvc2kqddqsga47q/post/3mvy2kwtqo22b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T20:40:00.161Z",
+        "score": 16,
+        "snippet": "Literally 2/3 of the people I\u2019ve seen here at the Whoa Nelly Deli in Lee Vining, CA (eastern gateway to Yosemite) are taking photos of the gas price signs. But they didn\u2019t have a Jasper as a model. Me",
+        "summary": "Literally 2/3 of the people I\u2019ve seen here at the Whoa Nelly Deli in Lee Vining, CA (eastern gateway to Yosemite) are taking photos of the gas price signs. But they didn\u2019t have a Jasper as a model. Me",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
