@@ -134003,5 +134003,174 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-20T18:01:47.484660Z",
+    "timestamp": "2026-09-20T18:01:47.484660Z",
+    "sentiment": {
+      "positive": 12,
+      "neutral": 87,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 7,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 0,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Vehicle Demand"
+    ],
+    "summary": "8 signals across Vehicles (7), Community (1); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, September 20, 2026 \u2014 6:01 PM PT \u2014 8 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* No material rival signal surfaced in this run.\n\u2022 *Rivian posture:* 8 Rivian signals clustered around Vehicles (7), Community (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (0)\n\u2022 No competitive signals\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (7)* \u2022 reddit_rivian_r2 signal: Coastal Cloud Video Walkthrough\n  https://www.reddit.com/r/RivianR2/comments/1wl8uek/coastal_cloud_video_walkthrough/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 That\u2019s wonderful and probably all true. If the global energy markets are not maintained, famine and starvation will literally result, quickly. I hope someday everything is electric, but that\u2019s not\n  https://bsky.app/profile/did:plc:ywwy2gcx2mdzspueq44mmioq/post/3mvxr5wu5fc2e\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Coastal Cloud Video Walkthrough",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wl8uek/coastal_cloud_video_walkthrough/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-20T06:03:03.587Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Coastal Cloud Video Walkthrough",
+        "summary": "reddit_rivian_r2 signal: Coastal Cloud Video Walkthrough",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@moose-penis.bsky.social (Bluesky): That\u2019s wonderful and probably all true. \n\nIf the global energy markets are not m",
+        "url": "https://bsky.app/profile/did:plc:ywwy2gcx2mdzspueq44mmioq/post/3mvxr5wu5fc2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T17:51:18.268Z",
+        "score": 0,
+        "snippet": "That\u2019s wonderful and probably all true. If the global energy markets are not maintained, famine and starvation will literally result, quickly. I hope someday everything is electric, but that\u2019s not",
+        "summary": "That\u2019s wonderful and probably all true. If the global energy markets are not maintained, famine and starvation will literally result, quickly. I hope someday everything is electric, but that\u2019s not",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): Congratulations and welcome to the #Rivian family!",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvxr5a2cvk27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T17:50:55.061Z",
+        "score": 0,
+        "snippet": "Congratulations and welcome to the #Rivian family!",
+        "summary": "Congratulations and welcome to the #Rivian family!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mvxr4fvbqk27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T17:50:27.263Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "summary": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bnewso.bsky.social (Bluesky): \ud83d\udea8 Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America ",
+        "url": "https://bsky.app/profile/did:plc:hsxkznpef3lfmemvc5gjbyzw/post/3mvxqsietft2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T17:44:53.660Z",
+        "score": 0,
+        "snippet": "\ud83d\udea8 Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America \u2014 News Report \ud83c\udff7\ufe0f WorldNews \ud83d\udcd6 #BNewsO #Break",
+        "summary": "\ud83d\udea8 Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America \u2014 News Report \ud83c\udff7\ufe0f WorldNews \ud83d\udcd6 #BNewsO #Break",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Driving a MEVCO @Rivian R1T is proven to double Rivian waves and quadruple thumb",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mvxodiui3x2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T17:00:44.263Z",
+        "score": 1,
+        "snippet": "Driving a MEVCO @Rivian R1T is proven to double Rivian waves and quadruple thumbs up.",
+        "summary": "Driving a MEVCO @Rivian R1T is proven to double Rivian waves and quadruple thumbs up.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sherlock0hms.bsky.social (Bluesky): And I thought driving my Rivian was cheap at 25 miles to the dollar.",
+        "url": "https://bsky.app/profile/did:plc:ta4vas6p3l22zr2hoyjx6lor/post/3mvxkunmcgk2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T15:58:43.858Z",
+        "score": 1,
+        "snippet": "And I thought driving my Rivian was cheap at 25 miles to the dollar.",
+        "summary": "And I thought driving my Rivian was cheap at 25 miles to the dollar.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electricjen.bsky.social (Bluesky): I\u2019ve never even been inside a rivian of any sort. First time will be the one I\u2019m",
+        "url": "https://bsky.app/profile/did:plc:3xsicz2y6kdvogd4h3t5hno5/post/3mvxf6c56yk2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T14:16:45.563Z",
+        "score": 0,
+        "snippet": "I\u2019ve never even been inside a rivian of any sort. First time will be the one I\u2019m picking up.",
+        "summary": "I\u2019ve never even been inside a rivian of any sort. First time will be the one I\u2019m picking up.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
