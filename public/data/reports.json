@@ -133727,5 +133727,281 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-20T14:01:27.520841Z",
+    "timestamp": "2026-09-20T14:01:27.520841Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "nytimes_business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Demo Drives",
+      "Vehicle Demand"
+    ],
+    "summary": "15 signals across Vehicles (13), Competitive (1); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, September 20, 2026 \u2014 2:01 PM PT \u2014 15 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 14 Rivian signals clustered around Vehicles (13), Demo & Test Drives (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* bluesky signal: @laopinionla.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:p3ckyilbkupq6zraeuw5yufu/post/3mvxclhl3us2r\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: 3rd Test Drive Ramblings\n  https://www.reddit.com/r/RivianR2/comments/1wl52h0/3rd_test_drive_ramblings/\n*Vehicles (13)* \u2022 reddit_rivian_r2 signal: Can\u2019t order Borealis\n  https://www.reddit.com/r/RivianR2/comments/1wlezuc/cant_order_borealis/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Can\u2019t order Borealis",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wlezuc/cant_order_borealis/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-20T11:49:22.859Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Can\u2019t order Borealis",
+        "summary": "reddit_rivian_r2 signal: Can\u2019t order Borealis",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "3rd Test Drive Ramblings",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wl52h0/3rd_test_drive_ramblings/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-20T02:46:08.303Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: 3rd Test Drive Ramblings",
+        "summary": "reddit_rivian_r2 signal: 3rd Test Drive Ramblings",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Transfer Reservation?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wl3snn/transfer_reservation/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-20T01:42:27.515Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Transfer Reservation?",
+        "summary": "reddit_rivian_r2 signal: Transfer Reservation?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Was about to click \u201cOrder\u201d, but now feel like I need to wait for the next-gen hardware.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wky0wr/was_about_to_click_order_but_now_feel_like_i_need/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-19T21:22:36.732Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Was about to click \u201cOrder\u201d, but now feel like I need to wait for the next-gen hardware.",
+        "summary": "reddit_rivian_r2 signal: Was about to click \u201cOrder\u201d, but now feel like I need to wait for the next-gen hardware.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Using EV as a camper... specifically the Rivian R2",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wlfvdo/using_ev_as_a_camper_specifically_the_rivian_r2/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-20T12:31:44.909Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Using EV as a camper... specifically the Rivian R2",
+        "summary": "reddit_electricvehicles signal: Using EV as a camper... specifically the Rivian R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America",
+        "url": "https://www.nytimes.com/2026/09/20/business/rivian-rj-scaringe.html",
+        "source": "nytimes_business",
+        "publishedAt": "Sun, 20 Sep 2026 09:01:32 +0000",
+        "score": 0,
+        "snippet": "RJ Scaringe thinks it will take robots, tariffs and diplomacy to maintain a manufacturing base in the United States.",
+        "summary": "RJ Scaringe thinks it will take robots, tariffs and diplomacy to maintain a manufacturing base in the United States.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): That\u2019s awesome congrats! Shows Rivian has their shit together.",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvxe74nxxc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T13:59:19.958Z",
+        "score": 0,
+        "snippet": "That\u2019s awesome congrats! Shows Rivian has their shit together.",
+        "summary": "That\u2019s awesome congrats! Shows Rivian has their shit together.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): I can see it Rivian is far superior to Tesla only a matter of time before Rivian",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvxe3jvle22k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T13:57:19.061Z",
+        "score": 0,
+        "snippet": "I can see it Rivian is far superior to Tesla only a matter of time before Rivian buys the automotive portion company that doesn\u2019t know what it wants to be.",
+        "summary": "I can see it Rivian is far superior to Tesla only a matter of time before Rivian buys the automotive portion company that doesn\u2019t know what it wants to be.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian the only way to go. Those things are insane",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvxdbjotr22k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T13:42:46.374Z",
+        "score": 0,
+        "snippet": "Rivian the only way to go. Those things are insane",
+        "summary": "Rivian the only way to go. Those things are insane",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sleeksilhouette.blacksky.app (Bluesky): My brother bought a Rivian and it def sounds like a UFO pulling up",
+        "url": "https://bsky.app/profile/did:plc:vsp7ytrodowpagffh3hr2rp4/post/3mvxd76alvk2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T13:41:26.957Z",
+        "score": 3,
+        "snippet": "My brother bought a Rivian and it def sounds like a UFO pulling up",
+        "summary": "My brother bought a Rivian and it def sounds like a UFO pulling up",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@laopinionla.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:p3ckyilbkupq6zraeuw5yufu/post/3mvxclhl3us2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T13:30:26.356Z",
+        "score": 1,
+        "snippet": "bluesky signal: @laopinionla.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @laopinionla.bsky.social (Bluesky):",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): I\u2019ll take a Rivian R1T please",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvxceaql5c2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T13:26:24.058Z",
+        "score": 1,
+        "snippet": "I\u2019ll take a Rivian R1T please",
+        "summary": "I\u2019ll take a Rivian R1T please",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electricjen.bsky.social (Bluesky): Gas \ud83e\udd22\ud83e\udd22\ud83e\udd22\ud83e\udd22\ud83e\udd22\n\nRivian R2 incoming \ud83d\ude0e",
+        "url": "https://bsky.app/profile/did:plc:3xsicz2y6kdvogd4h3t5hno5/post/3mvxaq3z5vc2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T12:57:13.959Z",
+        "score": 2,
+        "snippet": "Gas \ud83e\udd22\ud83e\udd22\ud83e\udd22\ud83e\udd22\ud83e\udd22 Rivian R2 incoming \ud83d\ude0e",
+        "summary": "Gas \ud83e\udd22\ud83e\udd22\ud83e\udd22\ud83e\udd22\ud83e\udd22 Rivian R2 incoming \ud83d\ude0e",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electricjen.bsky.social (Bluesky): Rivian R2 \ud83d\ude0e\n\nHyundai was the last non Tesla I bought though. A genesis coupe.",
+        "url": "https://bsky.app/profile/did:plc:3xsicz2y6kdvogd4h3t5hno5/post/3mvxapahnv22z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T12:56:45.059Z",
+        "score": 1,
+        "snippet": "Rivian R2 \ud83d\ude0e Hyundai was the last non Tesla I bought though. A genesis coupe.",
+        "summary": "Rivian R2 \ud83d\ude0e Hyundai was the last non Tesla I bought though. A genesis coupe.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electricjen.bsky.social (Bluesky): So it feels like a lot of cars but we kept the S for 10 years and the Y is getti",
+        "url": "https://bsky.app/profile/did:plc:3xsicz2y6kdvogd4h3t5hno5/post/3mvxao4id4c2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-20T12:56:07.561Z",
+        "score": 1,
+        "snippet": "So it feels like a lot of cars but we kept the S for 10 years and the Y is getting traded in much quicker than we otherwise would only because the Rivian is ready now and our S didn\u2019t make it that lon",
+        "summary": "So it feels like a lot of cars but we kept the S for 10 years and the Y is getting traded in much quicker than we otherwise would only because the Rivian is ready now and our S didn\u2019t make it that lon",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
