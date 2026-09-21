@@ -134483,5 +134483,203 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-21T14:01:28.586643Z",
+    "timestamp": "2026-09-21T14:01:28.586643Z",
+    "sentiment": {
+      "positive": 11,
+      "neutral": 88,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "9 signals across Vehicles (5), Business (1); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 21, 2026 \u2014 2:01 PM PT \u2014 9 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 8 Rivian signals clustered around Vehicles (5), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Business, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Waymo's driverless cars learn to navigate Las Vegas traffic one cautious swerve at a time - Las Vegas Sun\n  https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2tCQWNBNHhtaXRraVFoQ2lCSzluRDlmY0RLN1M4QzJXUHlGZThmRXVqcEdRSE5kc1NDX0pYZ2RlTE5WRThBck9wSS1JMDI1NHQ3YkpsT08zejdUWHdhd1pvWVNBSHN0Nlk0WWhxWExPYnk1U09YWDluQkRYSFh6eHhheWdjbHZXMG92NkNacHJhbjZaaGNZ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Test Drove the R2 \u2013 Canceling My Preorder for a Model Y\n  https://www.reddit.com/r/RivianR2/comments/1wm4ebf/test_drove_the_r2_canceling_my_preorder_for_a/\n*Vehicles (5)* \u2022 thedriven.io/2026/09/20/r...\n  https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvzssgk2ps2r\n*Business (1)* \u2022 Rivian Automotive \u2022 Robinhood Token - RIVN - Stock Price & News - The Motley Fool\n  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NYnZiSW04ZEhBUkw0aWhsR2Q4WWxXcmtfY045aExFbmdRMVI5Z0txbmozWjFOQjlvNjljZlJxQ1Q3c1lBLTdrYWU1YUxPb0RE?oc=5\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 jo, pekne to svedskocinsti soudruzi z #volvo vedou.. po updatu naseho BEV Volva na 2.1.2 se rozbilo spoustu veci a evidentne je to moc netrapi.. by me zajimalo, jak to ti matlaci testujou. Nic, zbavim\n  https://bsky.app/profile/did:plc:dc6ij3xmllfuisttrvt3kuyc/post/3mvzp7o6hp22e\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Test Drove the R2 \u2013 Canceling My Preorder for a Model Y",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wm4ebf/test_drove_the_r2_canceling_my_preorder_for_a/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-21T06:02:01.691Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test Drove the R2 \u2013 Canceling My Preorder for a Model Y",
+        "summary": "reddit_rivian_r2 signal: Test Drove the R2 \u2013 Canceling My Preorder for a Model Y",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Rivian Automotive \u2022 Robinhood Token - RIVN - Stock Price & News - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NYnZiSW04ZEhBUkw0aWhsR2Q4WWxXcmtfY045aExFbmdRMVI5Z0txbmozWjFOQjlvNjljZlJxQ1Q3c1lBLTdrYWU1YUxPb0RE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 21 Sep 2026 11:54:53 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive \u2022 Robinhood Token - RIVN - Stock Price & News - The Motley Fool",
+        "summary": "Rivian Automotive \u2022 Robinhood Token - RIVN - Stock Price & News - The Motley Fool",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Waymo's driverless cars learn to navigate Las Vegas traffic one cautious swerve at a time - Las Vegas Sun",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2tCQWNBNHhtaXRraVFoQ2lCSzluRDlmY0RLN1M4QzJXUHlGZThmRXVqcEdRSE5kc1NDX0pYZ2RlTE5WRThBck9wSS1JMDI1NHQ3YkpsT08zejdUWHdhd1pvWVNBSHN0Nlk0WWhxWExPYnk1U09YWDluQkRYSFh6eHhheWdjbHZXMG92NkNacHJhbjZaaGNZ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 21 Sep 2026 09:00:00 GMT",
+        "score": 0,
+        "snippet": "Waymo's driverless cars learn to navigate Las Vegas traffic one cautious swerve at a time - Las Vegas Sun",
+        "summary": "Waymo's driverless cars learn to navigate Las Vegas traffic one cautious swerve at a time - Las Vegas Sun",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): thedriven.io/2026/09/20/r...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvzssgk2ps2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T13:26:00.562Z",
+        "score": 0,
+        "snippet": "thedriven.io/2026/09/20/r...",
+        "summary": "thedriven.io/2026/09/20/r...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): www.forbes.com/sites/brooke...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvzsqzdyck2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T13:25:14.171Z",
+        "score": 0,
+        "snippet": "www.forbes.com/sites/brooke...",
+        "summary": "www.forbes.com/sites/brooke...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): x.com/rivianledger...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvzsec75hc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T13:18:07.062Z",
+        "score": 0,
+        "snippet": "x.com/rivianledger...",
+        "summary": "x.com/rivianledger...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian RJ we need someone who knows what information to release, when to release",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mvzpxbcjp22o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T12:35:00.067Z",
+        "score": 0,
+        "snippet": "Rivian RJ we need someone who knows what information to release, when to release it and how. We need something more than a once a month podcast comment saying \u201cwe\u2019re extremely bullish\u201d and cryptic pi",
+        "summary": "Rivian RJ we need someone who knows what information to release, when to release it and how. We need something more than a once a month podcast comment saying \u201cwe\u2019re extremely bullish\u201d and cryptic pi",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@znouza.bsky.social (Bluesky): jo, pekne to svedskocinsti soudruzi z #volvo vedou.. po updatu naseho BEV Volva ",
+        "url": "https://bsky.app/profile/did:plc:dc6ij3xmllfuisttrvt3kuyc/post/3mvzp7o6hp22e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T12:21:52.066Z",
+        "score": 1,
+        "snippet": "jo, pekne to svedskocinsti soudruzi z #volvo vedou.. po updatu naseho BEV Volva na 2.1.2 se rozbilo spoustu veci a evidentne je to moc netrapi.. by me zajimalo, jak to ti matlaci testujou. Nic, zbavim",
+        "summary": "jo, pekne to svedskocinsti soudruzi z #volvo vedou.. po updatu naseho BEV Volva na 2.1.2 se rozbilo spoustu veci a evidentne je to moc netrapi.. by me zajimalo, jak to ti matlaci testujou. Nic, zbavim",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@polyonymous.bsky.social (Bluesky): This message has been sponsored by Rivian.",
+        "url": "https://bsky.app/profile/did:plc:mnbtjnhzdqaskuhhljsx5z5s/post/3mvzklfp4222k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T10:58:53.562Z",
+        "score": 0,
+        "snippet": "This message has been sponsored by Rivian.",
+        "summary": "This message has been sponsored by Rivian.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
