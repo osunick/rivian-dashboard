@@ -135055,5 +135055,285 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-22T14:01:24.660471Z",
+    "timestamp": "2026-09-22T14:01:24.660471Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 85,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "nytimes_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Competitive Threats",
+      "Demo Drives",
+      "Rivian Mentions",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (8), Competitive (2); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 22, 2026 \u2014 2:01 PM PT \u2014 14 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 10 Rivian signals clustered around Vehicles (8), Autonomy (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* reddit_selfdrivingcars signal: Wayve signs deal with Mercedes-Benz!\n  https://www.reddit.com/r/SelfDrivingCars/comments/1wn9ido/wayve_signs_deal_with_mercedesbenz/\n\u2022 *Competitive Threats:* Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.\n  https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.\n  https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Ordering without a demo drive?\n  https://www.reddit.com/r/RivianR2/comments/1wn07nv/ordering_without_a_demo_drive/\n*Vehicles (8)* \u2022 reddit_rivian_r2 signal: Delivery Timing in Charlotte\n  https://www.reddit.com/r/RivianR2/comments/1wn76tp/delivery_timing_in_charlotte/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Delivery Timing in Charlotte",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wn76tp/delivery_timing_in_charlotte/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-22T11:44:11.435Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Delivery Timing in Charlotte",
+        "summary": "reddit_rivian_r2 signal: Delivery Timing in Charlotte",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ordering without a demo drive?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wn07nv/ordering_without_a_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-22T05:06:08.075Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Ordering without a demo drive?",
+        "summary": "reddit_rivian_r2 signal: Ordering without a demo drive?",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Honeywell Aerospace Files Patent Lawsuits Against Rivian and Lucid",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wna6jd/honeywell_aerospace_files_patent_lawsuits_against/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-22T13:55:16.896Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Honeywell Aerospace Files Patent Lawsuits Against Rivian and Lucid",
+        "summary": "reddit_electricvehicles signal: Honeywell Aerospace Files Patent Lawsuits Against Rivian and Lucid",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Wayve signs deal with Mercedes-Benz!",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1wn9ido/wayve_signs_deal_with_mercedesbenz/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-09-22T13:27:39.963Z",
+        "score": 0,
+        "snippet": "reddit_selfdrivingcars signal: Wayve signs deal with Mercedes-Benz!",
+        "summary": "reddit_selfdrivingcars signal: Wayve signs deal with Mercedes-Benz!",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "As Computers Take the Driver\u2019s Seat, Experts Worry About Safety",
+        "url": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+        "source": "nytimes_tech",
+        "publishedAt": "Tue, 22 Sep 2026 09:00:22 +0000",
+        "score": 0,
+        "snippet": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
+        "summary": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+        "url": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+        "source": "cnbc_top",
+        "publishedAt": "Tue, 22 Sep 2026 11:30:01 GMT",
+        "score": 0,
+        "snippet": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+        "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "California signs six bills to speed EV adoption, charging",
+        "url": "https://www.automotiveworld.com/news/california-signs-six-bills-to-speed-ev-adoption-charging/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 22 Sep 2026 11:48:11 +0000",
+        "score": 0,
+        "snippet": "California is positioning itself to sustain EV adoption independently of whatever happens with federal incentives. By Stewart Burnett The post <a href=\"",
+        "summary": "California is positioning itself to sustain EV adoption independently of whatever happens with federal incentives. By Stewart Burnett The post <a href=\"",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Cisco Talos releases CAIRN, an open-source framework designed to classify and analyze AI-integrated malware by tracking AI metadata and behavioral fingerprints (Lily Hay Newman/Wired)",
+        "url": "https://www.techmeme.com/260922/p20#a260922p20",
+        "source": "techmeme",
+        "publishedAt": "Tue, 22 Sep 2026 08:25:05 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Today Rivian was awarded a patent on a \u201ccontainer\u201d.  Any guesses on the use case",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mw4es5h2q723",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T13:53:16.466Z",
+        "score": 1,
+        "snippet": "Today Rivian was awarded a patent on a \u201ccontainer\u201d. Any guesses on the use case?",
+        "summary": "Today Rivian was awarded a patent on a \u201ccontainer\u201d. Any guesses on the use case?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian's R2 just hit a 2030 carbon target in 2026.\n\nriviantrackr.com/news/rivian",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mw4encems22x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T13:50:34.860Z",
+        "score": 3,
+        "snippet": "Rivian's R2 just hit a 2030 carbon target in 2026. riviantrackr.com/news/rivian-...",
+        "summary": "Rivian's R2 just hit a 2030 carbon target in 2026. riviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): I\u2019ll take a Rivian any day",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mw4aimph6c2d",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T12:36:22.062Z",
+        "score": 0,
+        "snippet": "I\u2019ll take a Rivian any day",
+        "summary": "I\u2019ll take a Rivian any day",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@big-steppa.bsky.social (Bluesky): Rivian said that right after multiple mental breakdowns LMAO",
+        "url": "https://bsky.app/profile/did:plc:iqfdqthkrvhigvy2hht3hprz/post/3mw3rgoqzzk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T08:06:51.160Z",
+        "score": 0,
+        "snippet": "Rivian said that right after multiple mental breakdowns LMAO",
+        "summary": "Rivian said that right after multiple mental breakdowns LMAO",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angelogiganti.bsky.social (Bluesky): I like the newer smaller #Rivian vehicles too.",
+        "url": "https://bsky.app/profile/did:plc:l7zidxxfckv6mepubdxo7ch2/post/3mw3qjwte622o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T07:50:46.664Z",
+        "score": 0,
+        "snippet": "I like the newer smaller #Rivian vehicles too.",
+        "summary": "I like the newer smaller #Rivian vehicles too.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@autoweek.bsky.social (Bluesky): Er is een nieuwe speler in het land van de elektrische auto. Maak kennis met Cee",
+        "url": "https://bsky.app/profile/did:plc:qmwxbyb6v75avv5wuskv545k/post/3mw3pgqygkg2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T07:31:05.658Z",
+        "score": 0,
+        "snippet": "Er is een nieuwe speler in het land van de elektrische auto. Maak kennis met Ceer. Ceer komt net zoals Tesla en Rivian uit de Verenigde Staten of zoals BYD en Zeekr uit China, maar uit Saoedi-Arabi\u00eb.",
+        "summary": "Er is een nieuwe speler in het land van de elektrische auto. Maak kennis met Ceer. Ceer komt net zoals Tesla en Rivian uit de Verenigde Staten of zoals BYD en Zeekr uit China, maar uit Saoedi-Arabi\u00eb.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
