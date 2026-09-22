@@ -135584,5 +135584,189 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-22T22:01:25.715940Z",
+    "timestamp": "2026-09-22T22:01:25.715940Z",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 88,
+      "negative": 11
+    },
+    "sources": {
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 6,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Vehicle Demand"
+    ],
+    "summary": "9 signals across Vehicles (6), Community (2); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 22, 2026 \u2014 10:01 PM PT \u2014 9 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 8 Rivian signals clustered around Vehicles (6), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Community Signals, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* A driverless Waymo car wandered into a farmers market, and nobody knew how to stop it - TechSpot\n  https://news.google.com/rss/articles/CBMipAFBVV95cUxObDR6RFp6cGtlYXhpc2dQRTAwOTZOWmlvQl9KWGJ0VmdkWlJNYVJSRXl3cF95cXREdWpkLU5haThjTC1JbHR3cXljaUR2SWI2SWRfUEk4eW91ZFl4YjZ2TDVEejA1OUV4cHhYeG43dWN5TGdxbWdzQ0ttekJ0dHBJbmJURjdLd0VwOC1jeTlCVDczVkRKSG5UYkFsYmtFelB4YWxxTQ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (6)* \u2022 Rivian claims the R2 has half the lifetime carbon footprint of the R1S due to lighter efficiency, recycled materials, and cleaner charging practices.\n  https://bsky.app/profile/did:plc:w534tfzyazi7bthyum5yyvj4/post/3mw57l6jqbm2l\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (2)* \u2022 bluesky signal: @blueresearch.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mw54prpn6j23\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "A driverless Waymo car wandered into a farmers market, and nobody knew how to stop it - TechSpot",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDR6RFp6cGtlYXhpc2dQRTAwOTZOWmlvQl9KWGJ0VmdkWlJNYVJSRXl3cF95cXREdWpkLU5haThjTC1JbHR3cXljaUR2SWI2SWRfUEk4eW91ZFl4YjZ2TDVEejA1OUV4cHhYeG43dWN5TGdxbWdzQ0ttekJ0dHBJbmJURjdLd0VwOC1jeTlCVDczVkRKSG5UYkFsYmtFelB4YWxxTQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 22 Sep 2026 12:33:00 GMT",
+        "score": 0,
+        "snippet": "A driverless Waymo car wandered into a farmers market, and nobody knew how to stop it - TechSpot",
+        "summary": "A driverless Waymo car wandered into a farmers market, and nobody knew how to stop it - TechSpot",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@environmentbriefly.bsky.social (Bluesky): Rivian claims the R2 has half the lifetime carbon footprint of the R1S due to li",
+        "url": "https://bsky.app/profile/did:plc:w534tfzyazi7bthyum5yyvj4/post/3mw57l6jqbm2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T21:52:33.965Z",
+        "score": 0,
+        "snippet": "Rivian claims the R2 has half the lifetime carbon footprint of the R1S due to lighter efficiency, recycled materials, and cleaner charging practices.",
+        "summary": "Rivian claims the R2 has half the lifetime carbon footprint of the R1S due to lighter efficiency, recycled materials, and cleaner charging practices.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Rivian R3 will be \u2018materially\u2019 cheaper than R2, and R4 goes even lower",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mw572jhhx62k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T21:43:14.561Z",
+        "score": 8,
+        "snippet": "Rivian R3 will be \u2018materially\u2019 cheaper than R2, and R4 goes even lower",
+        "summary": "Rivian R3 will be \u2018materially\u2019 cheaper than R2, and R4 goes even lower",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@borgdad.bsky.social (Bluesky): The main question is: is there bespoke bone-saw storage? My Rivian has a nifty f",
+        "url": "https://bsky.app/profile/did:plc:rybvey7es7bkltiskkyo67ze/post/3mw56zs7jus2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T21:42:50.265Z",
+        "score": 0,
+        "snippet": "The main question is: is there bespoke bone-saw storage? My Rivian has a nifty flashlight in the driver's door that is always charged. Is there a push to eject bone saw dispenser standard with these",
+        "summary": "The main question is: is there bespoke bone-saw storage? My Rivian has a nifty flashlight in the driver's door that is always charged. Is there a push to eject bone saw dispenser standard with these",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@moonyriot.dftba.social (Bluesky): I do think it's kinda interesting that in my parents wealthy neighborhood, in a ",
+        "url": "https://bsky.app/profile/did:plc:3zreuc2exixhupehlsgssrgb/post/3mw564bwhlk2b",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T21:26:20.259Z",
+        "score": 0,
+        "snippet": "I do think it's kinda interesting that in my parents wealthy neighborhood, in a fairly conservative district, Rivian has still mostly replaced Tesla for the popular EV",
+        "summary": "I do think it's kinda interesting that in my parents wealthy neighborhood, in a fairly conservative district, Rivian has still mostly replaced Tesla for the popular EV",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): Electric trucks finally have a pecking order \u2014 here's who each one is really for",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mw55xmyf4m2t",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T21:23:44.065Z",
+        "score": 0,
+        "snippet": "Electric trucks finally have a pecking order \u2014 here's who each one is really for #ElectricTrucks #SustainableTransport",
+        "summary": "Electric trucks finally have a pecking order \u2014 here's who each one is really for #ElectricTrucks #SustainableTransport",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mw54prpn6j23",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T21:01:26.364Z",
+        "score": 0,
+        "snippet": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@amithero.bot (Bluesky): the sequel just dropped youtu.be/MnwCQZ_6Ssg",
+        "url": "https://bsky.app/profile/did:plc:tj2pxmoos64rzl2ofxkeke2d/post/3mw4yfg2k7c2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T19:44:06.285Z",
+        "score": 6,
+        "snippet": "the sequel just dropped youtu.be/MnwCQZ_6Ssg",
+        "summary": "the sequel just dropped youtu.be/MnwCQZ_6Ssg",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@tigard-stripes.bsky.social (Bluesky): One of these electric vehicles was used to take a kid to school in the suburbs, ",
+        "url": "https://bsky.app/profile/did:plc:5ojyn5dmuvjsr7m4ro2abhlq/post/3mw4x3w67d22k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T19:20:56.765Z",
+        "score": 71,
+        "snippet": "One of these electric vehicles was used to take a kid to school in the suburbs, commute 10 miles into downtown and move 2 heavy items within the city for just 3 cents of electricity. \ud83d\udeb2\u2696\ufe0f\ud83d\udefb",
+        "summary": "One of these electric vehicles was used to take a kid to school in the suburbs, commute 10 miles into downtown and move 2 heavy items within the city for just 3 cents of electricity. \ud83d\udeb2\u2696\ufe0f\ud83d\udefb",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
