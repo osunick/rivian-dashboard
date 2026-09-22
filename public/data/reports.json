@@ -135335,5 +135335,254 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-22T18:01:27.877693Z",
+    "timestamp": "2026-09-22T18:01:27.877693Z",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 69,
+      "negative": 23
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "13 signals across Vehicles (10), Community (1); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 22, 2026 \u2014 6:01 PM PT \u2014 13 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 12 Rivian signals clustered around Vehicles (10), Community (1).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 3 negative signals; watch Vehicle Demand, Community Signals, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Tesla FSD (Supervised) approved in Czechia - electrive.com\n  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1hSLW1MTkFkdFhfNzc4aWJqd1dEN2MtY3ZsWDVKcGpwT3lFWHFuV25yV25TdzhPT2t5ejJNbEVOeFpzYVFLUkNSM0I0UGh5UnlzeENKUVdjZmlHNzRrTDhsbERxSHNwZEtwa3RhOE1UZEI5WFVzSlNwanBSTUZBbzVmVEM2b0RZ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (10)* \u2022 reddit_rivian_r2 signal: Invited to order but stumped on color\u2026.\n  https://www.reddit.com/r/RivianR2/comments/1wnda5t/invited_to_order_but_stumped_on_color/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2 #ElectricVehicles #GoogleMaps #OTA #Rivian #RivianR1\n  https://bsky.app/profile/did:plc:qn5gra6syrf3leluvjtdenwr/post/3mw4mi2xre32w\n*Community (1)* \u2022 bluesky signal: @schmidtisblog.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3mw4md7bg6x2c\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Invited to order but stumped on color\u2026.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wnda5t/invited_to_order_but_stumped_on_color/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-22T15:52:03.290Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Invited to order but stumped on color\u2026.",
+        "summary": "reddit_rivian_r2 signal: Invited to order but stumped on color\u2026.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Could Nail R2 And Still Go Nowhere (Downgrade) (NASDAQ:RIVN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlNCX1hTRHNYTV9TbW8wbU1PVTduSW9UeWxIU2c5V2V1M25KcmRrMkU0Rm84bFBtQThFdU9RMnBZdjBmdlJrRXZMNFM0bWtld1RBaHRUZVJ5RWU3UGpsbjlsaHlZdzgxeHZEbUJLYVFKdEZ2ZmZRZUc0elluWHJoVHVBeFlVMUhwaEJtUU96MUNGYjZjemlJ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 22 Sep 2026 14:09:52 GMT",
+        "score": 0,
+        "snippet": "Rivian Could Nail R2 And Still Go Nowhere (Downgrade) (NASDAQ:RIVN) - Seeking Alpha",
+        "summary": "Rivian Could Nail R2 And Still Go Nowhere (Downgrade) (NASDAQ:RIVN) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla FSD (Supervised) approved in Czechia - electrive.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1hSLW1MTkFkdFhfNzc4aWJqd1dEN2MtY3ZsWDVKcGpwT3lFWHFuV25yV25TdzhPT2t5ejJNbEVOeFpzYVFLUkNSM0I0UGh5UnlzeENKUVdjZmlHNzRrTDhsbERxSHNwZEtwa3RhOE1UZEI5WFVzSlNwanBSTUZBbzVmVEM2b0RZ?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Tue, 22 Sep 2026 12:30:00 GMT",
+        "score": 0,
+        "snippet": "Tesla FSD (Supervised) approved in Czechia - electrive.com",
+        "summary": "Tesla FSD (Supervised) approved in Czechia - electrive.com",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): Honeywell Aerospace Sues Rivian and Lucid Over Patents share.google/IN30Gl2QsPPW",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mw4pg3rlt22k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T17:03:24.468Z",
+        "score": 0,
+        "snippet": "Honeywell Aerospace Sues Rivian and Lucid Over Patents share.google/IN30Gl2QsPPW...",
+        "summary": "Honeywell Aerospace Sues Rivian and Lucid Over Patents share.google/IN30Gl2QsPPW...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Adapt and React\n\n@Rivian Gen 2 R1S and R1T were the first vehicles in America fi",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mw4pcpldav2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T17:01:30.560Z",
+        "score": 1,
+        "snippet": "Adapt and React @Rivian Gen 2 R1S and R1T were the first vehicles in America fitted with adaptive headlights. Great for this time of year as the days get shorter. Certain pixels turn off around and",
+        "summary": "Adapt and React @Rivian Gen 2 R1S and R1T were the first vehicles in America fitted with adaptive headlights. Great for this time of year as the days get shorter. Certain pixels turn off around and",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mw4of3ultw2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T16:44:56.264Z",
+        "score": 0,
+        "snippet": "bluesky signal: @rivianwave.com (Bluesky):",
+        "summary": "bluesky signal: @rivianwave.com (Bluesky):",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bigearthdata.ai (Bluesky): Rivian's R2 beat its own climate goals four years early\n->The Verge | More on \"R",
+        "url": "https://bsky.app/profile/did:plc:lc6hdhnjkgccd6ysi7e23pll/post/3mw4nvtkca32l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T16:36:24.271Z",
+        "score": 4,
+        "snippet": "Rivian's R2 beat its own climate goals four years early ->The Verge | More on \"Rivian R2 carbon emission reduction\" at BigEarthData.ai | #ClimateGoal",
+        "summary": "Rivian's R2 beat its own climate goals four years early ->The Verge | More on \"Rivian R2 carbon emission reduction\" at BigEarthData.ai | #ClimateGoal",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@kcurry.bsky.social (Bluesky): rivian's r2 electric vehicle just beat its own climate goals four years early, u",
+        "url": "https://bsky.app/profile/did:plc:3s4yefqenph2uxsf3rje3avq/post/3mw4ngkebig26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T16:27:51.257Z",
+        "score": 0,
+        "snippet": "rivian's r2 electric vehicle just beat its own climate goals four years early, using more renewable energy in production and featuring recycled materials. that's some good news for the future {https:/",
+        "summary": "rivian's r2 electric vehicle just beat its own climate goals four years early, using more renewable energy in production and featuring recycled materials. that's some good news for the future {https:/",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Honeywell Aerospace is suing Rivian over seven patents covering sensor fusion, h",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mw4mihwuhs2f",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T16:11:03.657Z",
+        "score": 4,
+        "snippet": "Honeywell Aerospace is suing Rivian over seven patents covering sensor fusion, hazard detection, autonomous navigation, and more. Lucid got hit with its own lawsuit the same day. riviantrackr.com/new",
+        "summary": "Honeywell Aerospace is suing Rivian over seven patents covering sensor fusion, hazard detection, autonomous navigation, and more. Lucid got hit with its own lawsuit the same day. riviantrackr.com/new",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@vehiclesinfo.bsky.social (Bluesky): Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New",
+        "url": "https://bsky.app/profile/did:plc:qn5gra6syrf3leluvjtdenwr/post/3mw4mi2xre32w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T16:10:47.760Z",
+        "score": 0,
+        "snippet": "Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2 #ElectricVehicles #GoogleMaps #OTA #Rivian #RivianR1",
+        "summary": "Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2 #ElectricVehicles #GoogleMaps #OTA #Rivian #RivianR1",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@feed.igeek.gamer-geek-news.com.ap.brid.gy (Bluesky): \ud83d\udcf0 **Rivian\u2019s R2 beat its own climate goals four years early**\n\nRivian always pla",
+        "url": "https://bsky.app/profile/did:plc:m2yuqynl2cttvi4k5453yegh/post/3mw4mej5m4rc2",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T16:10:14.878Z",
+        "score": 0,
+        "snippet": "\ud83d\udcf0 **Rivian\u2019s R2 beat its own climate goals four years early** Rivian always planned for its all-important R2 vehicle to be less expensive than its pricey R1 predecessors, but also less polluting. The",
+        "summary": "\ud83d\udcf0 **Rivian\u2019s R2 beat its own climate goals four years early** Rivian always planned for its all-important R2 vehicle to be less expensive than its pricey R1 predecessors, but also less polluting. The",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@schmidtisblog.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3mw4md7bg6x2c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T16:08:05.758Z",
+        "score": 0,
+        "snippet": "bluesky signal: @schmidtisblog.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @schmidtisblog.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): I received word that a large number of Rivian R2 invites are going out today, so",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mw4l2fi6rc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T15:45:17.063Z",
+        "score": 9,
+        "snippet": "I received word that a large number of Rivian R2 invites are going out today, so if you're waiting for your invite to build, keep an eye on your inbox!",
+        "summary": "I received word that a large number of Rivian R2 invites are going out today, so if you're waiting for your invite to build, keep an eye on your inbox!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
