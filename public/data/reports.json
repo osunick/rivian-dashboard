@@ -134681,5 +134681,379 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-22T02:01:26.327948Z",
+    "timestamp": "2026-09-22T02:01:26.327948Z",
+    "sentiment": {
+      "positive": 9,
+      "neutral": 71,
+      "negative": 19
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Rivian Mentions",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "21 signals across Vehicles (12), Competitive (3); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 22, 2026 \u2014 2:01 AM PT \u2014 21 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 15 Rivian signals clustered around Vehicles (12), Business (2).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 4 negative signals; watch Vehicle Demand, Competitive Threats, Rivian Mentions.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* reddit_electricvehicles signal: Hyundai Ioniq 5: America\u2019s Most Successful Non-Tesla\n  https://www.reddit.com/r/electricvehicles/comments/1wmk1wj/hyundai_ioniq_5_americas_most_successful_nontesla/\n\u2022 *Competitive Threats:* How the Hyundai Ioniq 5 Became America's Most Successful Non-Tesla ->Heatmap News | More on \"Hyundai Ioniq 5 EV success\" at BigEarthData.ai\n  https://bsky.app/profile/did:plc:lc6hdhnjkgccd6ysi7e23pll/post/3mw2vcri3mf2l\n\u2022 *Competitive Threats:* So these people hear themselves? I seriously doubt they do any of their own shopping. \u201cIf you can\u2019t afford beef, get salmon.\u201d Yeah that makes total sense. If I can\u2019t afford a 2007 Toyota Corolla,\n  https://bsky.app/profile/did:plc:for6mcwlrbcepwq36om7ity2/post/3mw2lwfcsk223\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (12)* \u2022 reddit_rivian_r2 signal: Nightmare of an ordering experience\n  https://www.reddit.com/r/RivianR2/comments/1wmwd44/nightmare_of_an_ordering_experience/\n*Business (2)* \u2022 Rivian\u2019s Remarkable Three Month Stock Collapse - Yahoo Finance\n  https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHZ5YW1RMC1ESWwtU0VXalJJcGJZS2plSDlWZ3M3MHBDS1pIWEg5OUlwak0yNExmSmxqVE4zSTdybzFaMlJNV2hiNEhCRURic3ZfQUlIOElBMTVTaTlXLXNWbEtWUHNJaklrMFg0b29yVWtxbWwydGNBa2FzVERxb3VUUWs2RWNCNXJfRkU3ZDNuVDhTMUhoVVR5WHBoZ3EwQVE?oc=5\n*Software (1)* \u2022 Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2 #ElectricVehicles #GoogleMaps #OTA #Rivian #RivianR1\n  https://bsky.app/profile/did:plc:qn5gra6syrf3leluvjtdenwr/post/3mw2w4pluzk26\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Nightmare of an ordering experience",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wmwd44/nightmare_of_an_ordering_experience/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-22T01:55:53.545Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Nightmare of an ordering experience",
+        "summary": "reddit_rivian_r2 signal: Nightmare of an ordering experience",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone experience glitch where it would not change gears and hazard lights not working on hard restart?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wmj958/anyone_experience_glitch_where_it_would_not/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-21T17:23:34.838Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Anyone experience glitch where it would not change gears and hazard lights not working on hard restart?",
+        "summary": "reddit_rivian_r2 signal: Anyone experience glitch where it would not change gears and hazard lights not working on hard restart?",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hyundai Ioniq 5: America\u2019s Most Successful Non-Tesla",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wmk1wj/hyundai_ioniq_5_americas_most_successful_nontesla/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-21T17:51:54.305Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Hyundai Ioniq 5: America\u2019s Most Successful Non-Tesla",
+        "summary": "reddit_electricvehicles signal: Hyundai Ioniq 5: America\u2019s Most Successful Non-Tesla",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "CNBC Daily Open: All that glitters is another U.S.-China d\u00e9tente",
+        "url": "https://www.cnbc.com/2026/09/22/us-china-trump-xi-summit-trade-tariffs-ai-openai-nissan-pharma.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: CNBC Daily Open: All that glitters is another U.S.-China d\u00e9tente",
+        "summary": "cnbc signal: CNBC Daily Open: All that glitters is another U.S.-China d\u00e9tente",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Automotive Mobility Newsletter \u2013 September 21 2026",
+        "url": "https://www.automotiveworld.com/newsletters/automotive-mobility-newsletter-september-21-2026/",
+        "source": "automotive_world",
+        "publishedAt": "Mon, 21 Sep 2026 15:35:00 +0000",
+        "score": 0,
+        "snippet": "Your weekly roundup of the key developments shaping the future of autonomous mobility. Part of the Automotive World Intelligence Feed. News on Mondays. Analysis on Thursdays. The post <a hre",
+        "summary": "Your weekly roundup of the key developments shaping the future of autonomous mobility. Part of the Automotive World Intelligence Feed. News on Mondays. Analysis on Thursdays. The post <a hre",
+        "category": "other",
+        "sentiment": "neutral",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
+        "url": "https://www.techmeme.com/260921/p45#a260921p45",
+        "source": "techmeme",
+        "publishedAt": "Mon, 21 Sep 2026 14:00:39 -0400",
+        "score": 0,
+        "snippet": "<A HREF=\"",
+        "summary": "<A HREF=\"",
+        "category": "other",
+        "sentiment": "negative",
+        "themes": [
+          "Rivian Mentions"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Remarkable Three Month Stock Collapse - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHZ5YW1RMC1ESWwtU0VXalJJcGJZS2plSDlWZ3M3MHBDS1pIWEg5OUlwak0yNExmSmxqVE4zSTdybzFaMlJNV2hiNEhCRURic3ZfQUlIOElBMTVTaTlXLXNWbEtWUHNJaklrMFg0b29yVWtxbWwydGNBa2FzVERxb3VUUWs2RWNCNXJfRkU3ZDNuVDhTMUhoVVR5WHBoZ3EwQVE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 21 Sep 2026 14:24:29 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Remarkable Three Month Stock Collapse - Yahoo Finance",
+        "summary": "Rivian\u2019s Remarkable Three Month Stock Collapse - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Remarkable Three Month Stock Collapse - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTW1HNVBxcEhkUEs0WU5rR3V2OVlPc0tueGlFQ1lxVVNvUFlyRFNiMjdJMllZNm51TmxiZFVtM0NlbExfMnVwbUhFVkVqbGltSU1TUEExaG1RMFpJZ09FUjRkRmJVTGZPTEpQRFRIT2hoemUwZ0FSc2VQTGJPOVFfNmVhOW5MbTNrNFV0MkZTZW85NTQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 21 Sep 2026 14:24:00 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Remarkable Three Month Stock Collapse - 24/7 Wall St.",
+        "summary": "Rivian\u2019s Remarkable Three Month Stock Collapse - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "What\u2019s Really Driving Rivian Automotive (NASDAQ:RIVN) Now? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmZ4ZmpLMHZVVU1wRnVqc2M3RmVIOGJSSWl3QVFLSGxZa2d5Qm5GbVVFa24zOHpJQTFTMENYZ2xtWmxpbmFLNHV3ZFREZERpUVFjaFE2dnh1X1VfblJMbFlISE42MmFIako5ZGpNbUR0aVVTRE5OcWJfMTgyRkppTGpDcFgzcVFWMTMyZ0pLTGJSTWR3ZGRfa0pEYzJ5MkNk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 21 Sep 2026 18:54:00 GMT",
+        "score": 0,
+        "snippet": "What\u2019s Really Driving Rivian Automotive (NASDAQ:RIVN) Now? - Kalkine Media",
+        "summary": "What\u2019s Really Driving Rivian Automotive (NASDAQ:RIVN) Now? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Trading 2.5% Higher - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2R4RkJJaW90NVZ1ZW05Z2RodG4wSHVUV21rUXM3SUIzQUl3WFctR25MZ2FXcktBUEdVR0M0TzFYamFVa19uRm1jN2ZjNlRiUER0UXlTWDRfRktRQnNsWlJlT3plZjlmRmk3MnQ0dEZCb0syRTN2R0JPRkhaOWNqTlQ2RGVNWWF5ck1FbHFVR0lFMFJ0bGV4S3l6WVItb25nOEx3TzJpM0FJOUtUVzBPVndlNllTQjdUbzRj?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 21 Sep 2026 21:44:23 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Trading 2.5% Higher - Still a Buy? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Trading 2.5% Higher - Still a Buy? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Faces Electric-vehicle production discipline - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0w2VGNBcTNyeWdQNzAzQUJXQVB5TVpoVWdtRmZpZTBGTGFJVHRNalgtRUxUQklEUjZrc1FxT3dsc3ZER2tlTVdtVk9VOWZFQmw1OVdFTHNtT0wxTjU0bXZEUDhWN3Itazl3VnBBTzZqWDBYZ3VHc3lUYjZNUlFHV21oaGhsV1pCTVJLb3BLWjBUVGFTOXd0d0Yzc0lBanJoNkViSnNWSU5mQ0VackdQRW9WUFdEbVh0bUdN?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 21 Sep 2026 19:59:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Faces Electric-vehicle production discipline - Kalkine Media",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Faces Electric-vehicle production discipline - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thedriven.io (Bluesky): A rare sighting of the Rivian R1T charging in Australia as electric ute market r",
+        "url": "https://bsky.app/profile/did:plc:ozrvstykdz65npyeyltryyvm/post/3mw2z2sbuc322",
+        "source": "bluesky",
+        "publishedAt": "2026-09-22T00:50:42.259Z",
+        "score": 1,
+        "snippet": "A rare sighting of the Rivian R1T charging in Australia as electric ute market remains limited",
+        "summary": "A rare sighting of the Rivian R1T charging in Australia as electric ute market remains limited",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@vehiclesinfo.bsky.social (Bluesky): Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New",
+        "url": "https://bsky.app/profile/did:plc:qn5gra6syrf3leluvjtdenwr/post/3mw2w4pluzk26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T23:58:04.759Z",
+        "score": 0,
+        "snippet": "Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2 #ElectricVehicles #GoogleMaps #OTA #Rivian #RivianR1",
+        "summary": "Understanding your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2 #ElectricVehicles #GoogleMaps #OTA #Rivian #RivianR1",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@bigearthdata.ai (Bluesky): How the Hyundai Ioniq 5 Became America's Most Successful Non-Tesla\n->Heatmap New",
+        "url": "https://bsky.app/profile/did:plc:lc6hdhnjkgccd6ysi7e23pll/post/3mw2vcri3mf2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T23:43:34.168Z",
+        "score": 1,
+        "snippet": "How the Hyundai Ioniq 5 Became America's Most Successful Non-Tesla ->Heatmap News | More on \"Hyundai Ioniq 5 EV success\" at BigEarthData.ai",
+        "summary": "How the Hyundai Ioniq 5 Became America's Most Successful Non-Tesla ->Heatmap News | More on \"Hyundai Ioniq 5 EV success\" at BigEarthData.ai",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@peterbucci.bsky.social (Bluesky): I always smile when I see the electric Amazon van (made by Rivian!) from my elec",
+        "url": "https://bsky.app/profile/did:plc:3flzsf23vifskoop3yp3sfum/post/3mw2rnzvfok2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T22:38:17.067Z",
+        "score": 0,
+        "snippet": "I always smile when I see the electric Amazon van (made by Rivian!) from my electric car. It's a clever/cool marketing tool in addition to being climate-friendly; perfect for stopping & starting 200 t",
+        "summary": "I always smile when I see the electric Amazon van (made by Rivian!) from my electric car. It's a clever/cool marketing tool in addition to being climate-friendly; perfect for stopping & starting 200 t",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@oanababy.bsky.social (Bluesky): Love ours. Thought we\u2019d be upgrading to a Rivian R2 but don\u2019t see any need to.",
+        "url": "https://bsky.app/profile/did:plc:ucvim6sli66p33xui3urplbb/post/3mw2pmqo6ik2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T22:01:46.967Z",
+        "score": 0,
+        "snippet": "Love ours. Thought we\u2019d be upgrading to a Rivian R2 but don\u2019t see any need to.",
+        "summary": "Love ours. Thought we\u2019d be upgrading to a Rivian R2 but don\u2019t see any need to.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Rivian wouldn't survive, it's why the lobbying group they belong to with Lucid a",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mw2nxea7zc2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T21:31:55.368Z",
+        "score": 3,
+        "snippet": "Rivian wouldn't survive, it's why the lobbying group they belong to with Lucid and Tesla (and Korean battery manufacturers) are fighting against it.",
+        "summary": "Rivian wouldn't survive, it's why the lobbying group they belong to with Lucid and Tesla (and Korean battery manufacturers) are fighting against it.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@montoulieu.dev (Bluesky): \ud83d\udccd Rivian Service Center\nOther \u00b7 Denver, Colorado, US\n\u2600\ufe0f 77\u00b0F\n\u2605\u2605\u2605\u2605\u2605\n\nBeen waiting",
+        "url": "https://bsky.app/profile/did:plc:e5zplwgiznavptdxhx5n2zlp/post/3mw2nvp6njt2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T21:30:59.364Z",
+        "score": 14,
+        "snippet": "\ud83d\udccd Rivian Service Center Other \u00b7 Denver, Colorado, US \u2600\ufe0f 77\u00b0F \u2605\u2605\u2605\u2605\u2605 Been waiting 2 1/2 years for this day #BeaconBits",
+        "summary": "\ud83d\udccd Rivian Service Center Other \u00b7 Denver, Colorado, US \u2600\ufe0f 77\u00b0F \u2605\u2605\u2605\u2605\u2605 Been waiting 2 1/2 years for this day #BeaconBits",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@smenor.phd (Bluesky): Now do Ford and GM and Tesla and Rivian and and and",
+        "url": "https://bsky.app/profile/did:plc:sczlpovw32qb4sbayubq5olf/post/3mw2mcjkccc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T21:02:22.765Z",
+        "score": 5,
+        "snippet": "Now do Ford and GM and Tesla and Rivian and and and",
+        "summary": "Now do Ford and GM and Tesla and Rivian and and and",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@antipatriot.bsky.social (Bluesky): So these people hear themselves?\n\nI seriously doubt they do any of their own sho",
+        "url": "https://bsky.app/profile/did:plc:for6mcwlrbcepwq36om7ity2/post/3mw2lwfcsk223",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T20:55:35.359Z",
+        "score": 1,
+        "snippet": "So these people hear themselves? I seriously doubt they do any of their own shopping. \u201cIf you can\u2019t afford beef, get salmon.\u201d Yeah that makes total sense. If I can\u2019t afford a 2007 Toyota Corolla,",
+        "summary": "So these people hear themselves? I seriously doubt they do any of their own shopping. \u201cIf you can\u2019t afford beef, get salmon.\u201d Yeah that makes total sense. If I can\u2019t afford a 2007 Toyota Corolla,",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Honeywell Aerospace Files Patent Lawsuits Against Rivian and Lucid",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mw2kqioxuj2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-21T20:34:24.258Z",
+        "score": 0,
+        "snippet": "Honeywell Aerospace Files Patent Lawsuits Against Rivian and Lucid",
+        "summary": "Honeywell Aerospace Files Patent Lawsuits Against Rivian and Lucid",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
