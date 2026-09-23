@@ -135773,9 +135773,9 @@
     "id": "2026-09-23T21:35:04.662562Z",
     "timestamp": "2026-09-23T21:35:04.662562Z",
     "sentiment": {
-      "positive": 4,
-      "neutral": 76,
-      "negative": 19
+      "positive": 5,
+      "neutral": 73,
+      "negative": 21
     },
     "sources": {
       "reddit_rivian_r2": {
@@ -135787,14 +135787,10 @@
         "sentiment": "neutral"
       },
       "bloomberg_tech": {
-        "found": 2,
-        "sentiment": "neutral"
-      },
-      "cnbc_top": {
         "found": 1,
         "sentiment": "neutral"
       },
-      "marketwatch": {
+      "cnbc_top": {
         "found": 1,
         "sentiment": "neutral"
       },
@@ -135803,11 +135799,11 @@
         "sentiment": "neutral"
       },
       "insideevs": {
-        "found": 7,
+        "found": 6,
         "sentiment": "neutral"
       },
       "electrek": {
-        "found": 6,
+        "found": 5,
         "sentiment": "neutral"
       },
       "google_news": {
@@ -135853,7 +135849,7 @@
         "sentiment": null
       },
       "competitive": {
-        "found": 13,
+        "found": 12,
         "sentiment": null
       }
     },
@@ -135861,12 +135857,11 @@
       "Business",
       "Competitive Threats",
       "Demo Drives",
-      "Rivian Mentions",
       "Software",
       "Vehicle Demand"
     ],
-    "summary": "42 signals across Vehicles (18), Competitive (13); watch Vehicle Demand, Competitive Threats",
-    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 23, 2026 \u2014 9:35 PM PT \u2014 42 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 13 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 26 Rivian signals clustered around Vehicles (18), Business (3).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 8 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (13)\n\u2022 *Competitive Threats:* Bloomberg\u2019s Ed Ludlow breaks down Anthropic's new faster, cheaper AI model as the startup tries to stay ahead of rivals before its IPO. Plus, Morgan Stanley's Adam Jonas discusses SpaceX, Tesla and t\n  https://www.bloomberg.com/news/videos/2026-09-23/bloomberg-tech-9-23-2026-video\n\u2022 *Competitive Threats:* Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive.\n  https://www.cnbc.com/2026/09/23/tesla-roadster-reveal-is-creating-a-unique-options-opportunity-says-mike-khouw.html\n\u2022 *Competitive Threats:* Royal Caribbean plans to take a 50% stake in Sandals, a move that gives the cruise line access to wealthier customers.\n  https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories\n\u2022 *Competitive Threats:* BYD stunned the industry with its Flash chargers. Geely's 2.25 megawatt system leaves it, and everyone else, behind.\n  https://insideevs.com/news/809271/geely-2-megawatt-smart-charging-system/\n\u2022 *Competitive Threats:* The German automaker is opening the order books for the sleek electric sedan ahead of schedule.\n  https://insideevs.com/news/809247/bmw-i3-us-reservations-sooner-than-expected/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 reddit_rivian_r2 signal: R1T Dual Standard Owner Test Driving the R2\n  https://www.reddit.com/r/RivianR2/comments/1wo8wce/r1t_dual_standard_owner_test_driving_the_r2/\n*Vehicles (18)* \u2022 reddit_rivian_r2 signal: Pickup Day\n  https://www.reddit.com/r/RivianR2/comments/1wogo4l/pickup_day/\n*Business (3)* \u2022 Rivian Stock (RIVN) Flat as EV Maker Faces Another Recall - TipRanks\n  https://news.google.com/rss/articles/CBMijgFBVV95cUxONFB5eXVYUXYwQXZvS3A1cU5qRzVBVXpCaVNlOG1FVVdnc3M5cnVzam5sdGdrWlJIWXl3RXU2SUtlWkk4a2gxV1Rud1VZWGVGYVQ1a1Y2ejFCbGVRRGRpZjdFU2FPVHRQa2tBblYxSXVTLVBWWVJJSkhjcFI3S2h4aVphWFAxVmRfeFFqZEJn?oc=5\n*Software (3)* \u2022 Nearly 99,000 Rivian vehicles\u2014including some new R2s\u2014were recalled this week due to a camera-related safety problem.\n  https://insideevs.com/news/809297/rivian-r1-r2-recall-camera/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Rivian Mentions\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "summary": "38 signals across Vehicles (18), Competitive (12); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 23, 2026 \u2014 2:35 PM PT \u2014 38 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 12 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 26 Rivian signals clustered around Vehicles (18), Business (3).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 8 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (12)\n\u2022 *Competitive Threats:* Bloomberg\u2019s Ed Ludlow breaks down Anthropic's new faster, cheaper AI model as the startup tries to stay ahead of rivals before its IPO. Plus, Morgan Stanley's Adam Jonas discusses SpaceX, Tesla and t\n  https://www.bloomberg.com/news/videos/2026-09-23/bloomberg-tech-9-23-2026-video\n\u2022 *Competitive Threats:* Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive.\n  https://www.cnbc.com/2026/09/23/tesla-roadster-reveal-is-creating-a-unique-options-opportunity-says-mike-khouw.html\n\u2022 *Competitive Threats:* BYD stunned the industry with its Flash chargers. Geely's 2.25 megawatt system leaves it, and everyone else, behind.\n  https://insideevs.com/news/809271/geely-2-megawatt-smart-charging-system/\n\u2022 *Competitive Threats:* The German automaker is opening the order books for the sleek electric sedan ahead of schedule.\n  https://insideevs.com/news/809247/bmw-i3-us-reservations-sooner-than-expected/\n\u2022 *Competitive Threats:* Demand for EVs is exploding in Germany, so Volkswagen needs to rethink how it builds cars in its home country.\n  https://insideevs.com/news/809219/vw-more-orders-evs-combustion-cars-germany/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (2)* \u2022 reddit_rivian_r2 signal: R1T Dual Standard Owner Test Driving the R2\n  https://www.reddit.com/r/RivianR2/comments/1wo8wce/r1t_dual_standard_owner_test_driving_the_r2/\n*Vehicles (18)* \u2022 reddit_rivian_r2 signal: Pickup Day\n  https://www.reddit.com/r/RivianR2/comments/1wogo4l/pickup_day/\n*Business (3)* \u2022 Rivian Stock (RIVN) Flat as EV Maker Faces Another Recall - TipRanks\n  https://news.google.com/rss/articles/CBMijgFBVV95cUxONFB5eXVYUXYwQXZvS3A1cU5qRzVBVXpCaVNlOG1FVVdnc3M5cnVzam5sdGdrWlJIWXl3RXU2SUtlWkk4a2gxV1Rud1VZWGVGYVQ1a1Y2ejFCbGVRRGRpZjdFU2FPVHRQa2tBblYxSXVTLVBWWVJJSkhjcFI3S2h4aVphWFAxVmRfeFFqZEJn?oc=5\n*Software (3)* \u2022 Nearly 99,000 Rivian vehicles\u2014including some new R2s\u2014were recalled this week due to a camera-related safety problem.\n  https://insideevs.com/news/809297/rivian-r1-r2-recall-camera/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
     "items": [
       {
         "title": "Pickup Day",
@@ -135876,11 +135871,11 @@
         "score": 0,
         "snippet": "reddit_rivian_r2 signal: Pickup Day",
         "summary": "reddit_rivian_r2 signal: Pickup Day",
-        "category": "vehicles",
         "sentiment": "positive",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Quality Control worries",
@@ -135890,11 +135885,11 @@
         "score": 0,
         "snippet": "reddit_rivian_r2 signal: Quality Control worries",
         "summary": "reddit_rivian_r2 signal: Quality Control worries",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "R1T Dual Standard Owner Test Driving the R2",
@@ -135904,11 +135899,11 @@
         "score": 0,
         "snippet": "reddit_rivian_r2 signal: R1T Dual Standard Owner Test Driving the R2",
         "summary": "reddit_rivian_r2 signal: R1T Dual Standard Owner Test Driving the R2",
-        "category": "demo_drives",
         "sentiment": "neutral",
         "themes": [
           "Demo Drives"
-        ]
+        ],
+        "category": "demo_drives"
       },
       {
         "title": "My test drive Observations",
@@ -135918,11 +135913,11 @@
         "score": 0,
         "snippet": "reddit_rivian_r2 signal: My test drive Observations",
         "summary": "reddit_rivian_r2 signal: My test drive Observations",
-        "category": "demo_drives",
         "sentiment": "neutral",
         "themes": [
           "Demo Drives"
-        ]
+        ],
+        "category": "demo_drives"
       },
       {
         "title": "R2 review from a known Tesla fan - Sawyer Merritt",
@@ -135932,11 +135927,11 @@
         "score": 0,
         "snippet": "reddit_rivian_r2 signal: R2 review from a known Tesla fan - Sawyer Merritt",
         "summary": "reddit_rivian_r2 signal: R2 review from a known Tesla fan - Sawyer Merritt",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown",
@@ -135946,11 +135941,11 @@
         "score": 0,
         "snippet": "reddit_electricvehicles signal: Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown",
         "summary": "reddit_electricvehicles signal: Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "CCS1 Death Watch - Down to the Final 13 Models in North America for MY27",
@@ -135960,25 +135955,11 @@
         "score": 0,
         "snippet": "reddit_electricvehicles signal: CCS1 Death Watch - Down to the Final 13 Models in North America for MY27",
         "summary": "reddit_electricvehicles signal: CCS1 Death Watch - Down to the Final 13 Models in North America for MY27",
-        "category": "vehicles",
         "sentiment": "negative",
         "themes": [
           "Vehicle Demand"
-        ]
-      },
-      {
-        "title": "AI Agents Fuel a New Cybersecurity Boom",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-23/ai-agents-fuel-a-new-cybersecurity-boom-video",
-        "source": "bloomberg_tech",
-        "publishedAt": "Wed, 23 Sep 2026 19:22:22 GMT",
-        "score": 0,
-        "snippet": "As AI shifts from technology that talks to technology that acts, Rosenblatt Securities Analyst Catharine Trebnick says securing autonomous agents is becoming a major new opportunity for cybersecurity",
-        "summary": "As AI shifts from technology that talks to technology that acts, Rosenblatt Securities Analyst Catharine Trebnick says securing autonomous agents is becoming a major new opportunity for cybersecurity",
-        "category": "other",
-        "sentiment": "neutral",
-        "themes": [
-          "Rivian Mentions"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "From Anthropic to Robots: AI\u2019s Next Frontier",
@@ -135988,11 +135969,11 @@
         "score": 0,
         "snippet": "Bloomberg\u2019s Ed Ludlow breaks down Anthropic's new faster, cheaper AI model as the startup tries to stay ahead of rivals before its IPO. Plus, Morgan Stanley's Adam Jonas discusses SpaceX, Tesla and t",
         "summary": "Bloomberg\u2019s Ed Ludlow breaks down Anthropic's new faster, cheaper AI model as the startup tries to stay ahead of rivals before its IPO. Plus, Morgan Stanley's Adam Jonas discusses SpaceX, Tesla and t",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
@@ -136002,25 +135983,11 @@
         "score": 0,
         "snippet": "Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive.",
         "summary": "Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive.",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
-      },
-      {
-        "title": "What\u2019s behind Royal Caribbean\u2019s \u2018highly surprising\u2019 push into Sandals vacation resorts",
-        "url": "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories",
-        "source": "marketwatch",
-        "publishedAt": "Wed, 23 Sep 2026 20:24:00 GMT",
-        "score": 0,
-        "snippet": "Royal Caribbean plans to take a 50% stake in Sandals, a move that gives the cruise line access to wealthier customers.",
-        "summary": "Royal Caribbean plans to take a 50% stake in Sandals, a move that gives the cruise line access to wealthier customers.",
-        "category": "competitive",
-        "sentiment": "neutral",
-        "themes": [
-          "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Rivian\u2019s R3 will cost \u201cmaterially\u201d less than the R2",
@@ -136030,25 +135997,11 @@
         "score": 0,
         "snippet": "Rivian inches closer and closer to the mass market, but remains exposed to supplier prices and China tariff uncertainty. By Stewart Burnett The post <a href=\"",
         "summary": "Rivian inches closer and closer to the mass market, but remains exposed to supplier prices and China tariff uncertainty. By Stewart Burnett The post <a href=\"",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
-      },
-      {
-        "title": "Eight Cheap EVs Were Driven Until They Died. One Was A Clear Overachiever",
-        "url": "https://insideevs.com/news/809323/fiat-grande-panda-range-test/",
-        "source": "insideevs",
-        "publishedAt": "Wed, 23 Sep 2026 20:52:40 +0000",
-        "score": 0,
-        "snippet": "It may not be the most efficient in the test, but it managed to beat its officially claimed range in a real-world highway range test.",
-        "summary": "It may not be the most efficient in the test, but it managed to beat its officially claimed range in a real-world highway range test.",
-        "category": "other",
-        "sentiment": "neutral",
-        "themes": [
-          "Rivian Mentions"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Bentley\u2019s First EV Charges Faster Than You Can Finish Lunch",
@@ -136058,11 +136011,11 @@
         "score": 0,
         "snippet": "Bentley enters the electric era with an opulent midsize SUV called the Torcal.",
         "summary": "Bentley enters the electric era with an opulent midsize SUV called the Torcal.",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "The Rivian R2 Just Got Its First Recall",
@@ -136072,11 +136025,11 @@
         "score": 0,
         "snippet": "Nearly 99,000 Rivian vehicles\u2014including some new R2s\u2014were recalled this week due to a camera-related safety problem.",
         "summary": "Nearly 99,000 Rivian vehicles\u2014including some new R2s\u2014were recalled this week due to a camera-related safety problem.",
-        "category": "software",
         "sentiment": "negative",
         "themes": [
           "Software"
-        ]
+        ],
+        "category": "software"
       },
       {
         "title": "Geely's New EV Charger Is Absurdly Powerful: 2.2 Megawatts",
@@ -136086,11 +136039,11 @@
         "score": 0,
         "snippet": "BYD stunned the industry with its Flash chargers. Geely's 2.25 megawatt system leaves it, and everyone else, behind.",
         "summary": "BYD stunned the industry with its Flash chargers. Geely's 2.25 megawatt system leaves it, and everyone else, behind.",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "The New BMW i3 EV Is Coming To The U.S. Sooner Than Expected",
@@ -136100,11 +136053,11 @@
         "score": 0,
         "snippet": "The German automaker is opening the order books for the sleek electric sedan ahead of schedule.",
         "summary": "The German automaker is opening the order books for the sleek electric sedan ahead of schedule.",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Volkswagen Is Now Selling More EVs Than Gas Cars In Germany. That Changes The Plan",
@@ -136114,11 +136067,11 @@
         "score": 0,
         "snippet": "Demand for EVs is exploding in Germany, so Volkswagen needs to rethink how it builds cars in its home country.",
         "summary": "Demand for EVs is exploding in Germany, so Volkswagen needs to rethink how it builds cars in its home country.",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "The Tesla Semi Just Got A Massive Boost From The Biggest U.S. Electric Truck Order Ever",
@@ -136128,25 +136081,11 @@
         "score": 0,
         "snippet": "The record-setting order will double the number of electric Class 8 trucks in the U.S.",
         "summary": "The record-setting order will double the number of electric Class 8 trucks in the U.S.",
-        "category": "competitive",
         "sentiment": "negative",
         "themes": [
           "Competitive Threats"
-        ]
-      },
-      {
-        "title": "Bentley unveils Torcal, its first EV: 888 PS, 375 miles of range",
-        "url": "https://electrek.co/2026/09/23/bentley-torcal-first-electric-bentley-unveiled/",
-        "source": "electrek",
-        "publishedAt": "Wed, 23 Sep 2026 19:33:17 +0000",
-        "score": 0,
-        "snippet": "Bentley has",
-        "summary": "Bentley has",
-        "category": "other",
-        "sentiment": "neutral",
-        "themes": [
-          "Rivian Mentions"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "BYD\u2019s new ultra-luxe EV has coach doors and may be its first with solid-state batteries",
@@ -136156,11 +136095,11 @@
         "score": 0,
         "snippet": "<p class=\"wp-block-",
         "summary": "<p class=\"wp-block-",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Toyota is finally taking its best-seller electric",
@@ -136170,11 +136109,11 @@
         "score": 0,
         "snippet": "<a h",
         "summary": "<a h",
-        "category": "competitive",
         "sentiment": "negative",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Nissan reveals its newest EV, an affordable electric city cruiser with 259 km of range [Images]",
@@ -136184,11 +136123,11 @@
         "score": 0,
         "snippet": "The",
         "summary": "The",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Tesla\u2019s \u2018hardcore lawyers\u2019 went a little too hardcore",
@@ -136198,11 +136137,11 @@
         "score": 0,
         "snippet": "<p class=\"wp-block-para",
         "summary": "<p class=\"wp-block-para",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Get paid to charge, a free charger, *and* save the grid with a new GM EV in CA",
@@ -136212,11 +136151,11 @@
         "score": 0,
         "snippet": "General Motors and Pacific Gas and Electric ar",
         "summary": "General Motors and Pacific Gas and Electric ar",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       },
       {
         "title": "Rivian Stock (RIVN) Flat as EV Maker Faces Another Recall - TipRanks",
@@ -136226,11 +136165,11 @@
         "score": 0,
         "snippet": "Rivian Stock (RIVN) Flat as EV Maker Faces Another Recall - TipRanks",
         "summary": "Rivian Stock (RIVN) Flat as EV Maker Faces Another Recall - TipRanks",
-        "category": "business",
         "sentiment": "negative",
         "themes": [
           "Business"
-        ]
+        ],
+        "category": "business"
       },
       {
         "title": "Rivian recalls about 100,700 vehicles over rearview camera display issue - Reuters",
@@ -136240,11 +136179,11 @@
         "score": 0,
         "snippet": "Rivian recalls about 100,700 vehicles over rearview camera display issue - Reuters",
         "summary": "Rivian recalls about 100,700 vehicles over rearview camera display issue - Reuters",
-        "category": "software",
         "sentiment": "negative",
         "themes": [
           "Software"
-        ]
+        ],
+        "category": "software"
       },
       {
         "title": "Rivian (RIVN) dominates Reddit chatter with 716 comments and a bearish lean - 24/7 Wall St.",
@@ -136254,11 +136193,11 @@
         "score": 0,
         "snippet": "Rivian (RIVN) dominates Reddit chatter with 716 comments and a bearish lean - 24/7 Wall St.",
         "summary": "Rivian (RIVN) dominates Reddit chatter with 716 comments and a bearish lean - 24/7 Wall St.",
-        "category": "vehicles",
         "sentiment": "negative",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian Ready to Launch $30,000 EV? CEO Says R3 Will Be \u2018Materially Cheaper\u2019 Than R2 - Benzinga",
@@ -136268,11 +136207,11 @@
         "score": 0,
         "snippet": "Rivian Ready to Launch $30,000 EV? CEO Says R3 Will Be \u2018Materially Cheaper\u2019 Than R2 - Benzinga",
         "summary": "Rivian Ready to Launch $30,000 EV? CEO Says R3 Will Be \u2018Materially Cheaper\u2019 Than R2 - Benzinga",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian Automotive, Inc. $RIVN Position Reduced by Corient Private Wealth LP - MarketBeat",
@@ -136282,11 +136221,11 @@
         "score": 0,
         "snippet": "Rivian Automotive, Inc. $RIVN Position Reduced by Corient Private Wealth LP - MarketBeat",
         "summary": "Rivian Automotive, Inc. $RIVN Position Reduced by Corient Private Wealth LP - MarketBeat",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Why is Rivian Automotive (NASDAQ:RIVN) in focus amid today\u2019s midcap stocks discussion? - Kalkine Media",
@@ -136296,11 +136235,11 @@
         "score": 0,
         "snippet": "Why is Rivian Automotive (NASDAQ:RIVN) in focus amid today\u2019s midcap stocks discussion? - Kalkine Media",
         "summary": "Why is Rivian Automotive (NASDAQ:RIVN) in focus amid today\u2019s midcap stocks discussion? - Kalkine Media",
-        "category": "business",
         "sentiment": "neutral",
         "themes": [
           "Business"
-        ]
+        ],
+        "category": "business"
       },
       {
         "title": "Can Rivian Automotive (NASDAQ:RIVN) turn vehicle launches and manufacturing efficiency into a stronger market story? - Kalkine Media",
@@ -136310,11 +136249,11 @@
         "score": 0,
         "snippet": "Can Rivian Automotive (NASDAQ:RIVN) turn vehicle launches and manufacturing efficiency into a stronger market story? - Kalkine Media",
         "summary": "Can Rivian Automotive (NASDAQ:RIVN) turn vehicle launches and manufacturing efficiency into a stronger market story? - Kalkine Media",
-        "category": "vehicles",
         "sentiment": "positive",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Discipline and Rules-Based Execution in RIVN Response - Stock Traders Daily",
@@ -136324,11 +136263,11 @@
         "score": 0,
         "snippet": "Discipline and Rules-Based Execution in RIVN Response - Stock Traders Daily",
         "summary": "Discipline and Rules-Based Execution in RIVN Response - Stock Traders Daily",
-        "category": "business",
         "sentiment": "neutral",
         "themes": [
           "Business"
-        ]
+        ],
+        "category": "business"
       },
       {
         "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Manistee News Advocate",
@@ -136338,11 +136277,11 @@
         "score": 0,
         "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Manistee News Advocate",
         "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Manistee News Advocate",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - AP News",
@@ -136352,11 +136291,11 @@
         "score": 0,
         "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - AP News",
         "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - AP News",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - The Seattle Times",
@@ -136366,11 +136305,11 @@
         "score": 0,
         "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - The Seattle Times",
         "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - The Seattle Times",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian Says Some Early R2 Roof Glass Won\u2019t Provide Enough Solar Protection, and Its Fix Is Replacing the Entire Panel - Torque News",
@@ -136380,11 +136319,11 @@
         "score": 0,
         "snippet": "Rivian Says Some Early R2 Roof Glass Won\u2019t Provide Enough Solar Protection, and Its Fix Is Replacing the Entire Panel - Torque News",
         "summary": "Rivian Says Some Early R2 Roof Glass Won\u2019t Provide Enough Solar Protection, and Its Fix Is Replacing the Entire Panel - Torque News",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - KSAT",
@@ -136394,11 +136333,11 @@
         "score": 0,
         "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - KSAT",
         "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - KSAT",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Mankato Free Press",
@@ -136408,11 +136347,11 @@
         "score": 0,
         "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Mankato Free Press",
         "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Mankato Free Press",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - News4JAX",
@@ -136422,11 +136361,11 @@
         "score": 0,
         "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - News4JAX",
         "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - News4JAX",
-        "category": "vehicles",
         "sentiment": "neutral",
         "themes": [
           "Vehicle Demand"
-        ]
+        ],
+        "category": "vehicles"
       },
       {
         "title": "The Rivian R2 Just Got Its First Recall - InsideEVs",
@@ -136436,11 +136375,11 @@
         "score": 0,
         "snippet": "The Rivian R2 Just Got Its First Recall - InsideEVs",
         "summary": "The Rivian R2 Just Got Its First Recall - InsideEVs",
-        "category": "software",
         "sentiment": "negative",
         "themes": [
           "Software"
-        ]
+        ],
+        "category": "software"
       },
       {
         "title": "I drove one of the most popular non-Tesla EVs. Hyundai's Ioniq 5 wows - USA Today",
@@ -136450,11 +136389,11 @@
         "score": 0,
         "snippet": "I drove one of the most popular non-Tesla EVs. Hyundai's Ioniq 5 wows - USA Today",
         "summary": "I drove one of the most popular non-Tesla EVs. Hyundai's Ioniq 5 wows - USA Today",
-        "category": "competitive",
         "sentiment": "neutral",
         "themes": [
           "Competitive Threats"
-        ]
+        ],
+        "category": "competitive"
       }
     ]
   }

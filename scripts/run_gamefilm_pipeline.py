@@ -7,11 +7,13 @@ directly to Signal and WhatsApp without relying on agent-session visibility.
 """
 import json, subprocess, sys, os
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 REPORTS_JSON = "/Users/osunick/.openclaw/workspace/rivian-dashboard/public/data/reports.json"
 FETCH_LOG = "/tmp/gamefilm_fetch.log"
 RAW_JSON = "/tmp/gamefilm_raw.json"
 BRIEF_FILE = "/tmp/gamefilm_brief.txt"
+PT = ZoneInfo("America/Los_Angeles")
 
 def run(cmd, timeout=60):
     try:
@@ -58,22 +60,23 @@ def ensure_item_summaries(items):
 
 def format_date(iso_str):
     try:
-        dt = datetime.fromisoformat(iso_str.replace('Z','+00:00'))
+        dt = datetime.fromisoformat(iso_str.replace('Z','+00:00')).astimezone(PT)
         return dt.strftime('%A, %B %d, %Y')
     except:
         return iso_str
 
 def format_time(iso_str):
     try:
-        dt = datetime.fromisoformat(iso_str.replace('Z','+00:00'))
+        dt = datetime.fromisoformat(iso_str.replace('Z','+00:00')).astimezone(PT)
         return dt.strftime('%I:%M %p PT').lstrip('0')
     except:
         return iso_str
 
 # Known competitor keywords (mirrors dashboard COMPETITORS keywords)
+ROBOTAXI_KW = ['waymo','aurora','cruise','zoox','mobileye','robotaxi','lidar','full self-driving','unsupervised fsd','waymo one','waymo driver','aurora driver','driverless']
 COMPETITOR_KW = {
     'tesla': ['tesla','tsla','model y','model 3','model x','model s','cybertruck','fsd','grok','optimus','cybercab'],
-    'robotaxi': ['waymo','aurora','cruise','zoox','mobileye','robotaxi','lidar','full self-driving','unsupervised fsd','waymo one','waymo driver','aurora driver','driverless'],
+    'robotaxi': ROBOTAXI_KW,
     'oems': ['ford','f-150 lightning','mach-e','mustang mach-e','gm','general motors','chevrolet','chevy','silverado ev','equinox ev','hummer ev','toyota','honda','stellantis','ram ev','blazer ev','scout motors','scout traveler','scout terra','volkswagen','vw','id4','bmw','mercedes','audi','hyundai','ioniq','kia','ev9'],
     'chinese_av': ['byd','xpev','xpeng','nio','li auto','huawei','baidu','xiaomi su7','byd seal','zeekr','polestar','catl','lucid gravity'],
 }
@@ -106,10 +109,14 @@ def guess_category(item):
         return item['category']
     title = (item.get('title','') + ' ' + item.get('snippet','')).lower()
     source = item.get('source','').lower()
+    if 'royal caribbean' in title or 'sandals' in title or 'cruise line' in title or 'cruise ship' in title:
+        return 'other'
 
     is_rivian = any(k in title for k in ['rivian','r1','r2','r1t','r1s'])
     is_demo_drive = is_rivian and any(k in title for k in DEMO_DRIVE_TERMS)
-    is_autonomy = any(k in title for k in ['autonomy','fsd','self-driving','waymo','cruise','autopilot','bluecruise','super cruise'])
+    is_autonomy = any(k in title for k in ['autonomy','fsd','self-driving','waymo','autopilot','bluecruise','super cruise']) or (
+        'cruise' in title and any(k in title for k in ['robotaxi', 'driverless', 'autonomous', 'self-driving'])
+    )
     is_vehicle = any(k in title for k in ['vehicle','truck','suv','delivery','launch','polestar','tesla ev','electric suv','electric truck'])
     is_business = any(k in title for k in ['stock','earnings','revenue','profit','layoff','financial','ipo','acquisition','merger'])
     is_software = any(k in title for k in ['ota','update','bug','infotainment','software','recall'])
@@ -125,6 +132,8 @@ def guess_category(item):
 
     # Competitor intel: ONLY if item contains a competitor keyword
     has_comp_kw = any(kw in title for kw in ALL_COMPETITOR_KW)
+    if 'cruise' in title and not any(kw in title for kw in ROBOTAXI_KW if kw != 'cruise'):
+        has_comp_kw = any(kw in title for kw in ALL_COMPETITOR_KW if kw != 'cruise')
     if has_comp_kw:
         # Noisy sources get 'other' unless it's a specific product launch/review
         if source in NOISY_SOURCES:
@@ -415,7 +424,7 @@ def main():
         new_count = 0
         items = []
 
-    now_ts = datetime.utcnow().isoformat() + 'Z'
+    now_ts = datetime.now(PT).isoformat()
 
     # Analyze and save if new items
     if items:
@@ -423,6 +432,8 @@ def main():
         for item in items:
             # Always re-classify — category from fetch may be stale
             item['category'] = guess_category(item)
+        items = [item for item in items if item.get('category') != 'other']
+        print(f"[2] Relevant items after classification: {len(items)}")
         # Sentiment from Rivian's perspective, using local heuristics.
         assign_sentiments(items)
 
