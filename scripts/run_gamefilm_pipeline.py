@@ -74,8 +74,8 @@ def format_time(iso_str):
 COMPETITOR_KW = {
     'tesla': ['tesla','tsla','model y','model 3','model x','model s','cybertruck','fsd','grok','optimus','cybercab'],
     'robotaxi': ['waymo','aurora','cruise','zoox','mobileye','robotaxi','lidar','full self-driving','unsupervised fsd','waymo one','waymo driver','aurora driver','driverless'],
-    'oems': ['ford','f-150 lightning','mach-e','mustang mach-e','gm','general motors','chevrolet','chevy','silverado ev','equinox ev','hummer ev','toyota','honda','stellantis','ram ev','blazer ev','scout motors','volkswagen','vw','id4','bmw','mercedes','audi'],
-    'chinese_av': ['byd','xpev','xpeng','nio','li auto','huawei','baidu','xiaomi su7','byd seal','zeekr','polestar','catl'],
+    'oems': ['ford','f-150 lightning','mach-e','mustang mach-e','gm','general motors','chevrolet','chevy','silverado ev','equinox ev','hummer ev','toyota','honda','stellantis','ram ev','blazer ev','scout motors','scout traveler','scout terra','volkswagen','vw','id4','bmw','mercedes','audi','hyundai','ioniq','kia','ev9'],
+    'chinese_av': ['byd','xpev','xpeng','nio','li auto','huawei','baidu','xiaomi su7','byd seal','zeekr','polestar','catl','lucid gravity'],
 }
 ALL_COMPETITOR_KW = [kw for kws in COMPETITOR_KW.values() for kw in kws]
 
@@ -130,7 +130,7 @@ def guess_category(item):
         if source in NOISY_SOURCES:
             strong_comp = any(kw in title for kw in [
                 'cybertruck','model y','model 3','model x','model s',
-                'f-150 lightning','mach-e','equinox ev','silverado ev','hummer ev','ioniq','ipace',
+                'f-150 lightning','mach-e','equinox ev','silverado ev','hummer ev','ioniq','ev9','scout traveler','scout terra','ipace',
                 'waymo','aurora','zoox','byd seal','xpeng','xpev','nio ',('li auto'),
                 'tesla','tsla','ford','gm ','chevrolet','volkswagen','honda','toyota',
             ])
@@ -188,10 +188,15 @@ THEME_RULES = [
     ('Demo Drives', DEMO_DRIVE_TERMS),
     ('Audio System', ['sound system', 'audio', 'speaker']),
     ('Charging', ['charging', 'charger', 'supercharger', 'nacs', 'level 1', 'level 2']),
+    ('Charging Access', ['charging network', 'nacs', 'rivian adventure network', 'ran charger', 'supercharger access']),
     ('Service Experience', ['service', 'maintenance', 'repair', 'warranty']),
     ('Vehicle Quality', ['quality', 'defect', 'damage', 'bumper', 'concern', 'problem', 'issue']),
     ('RIVN Stock', ['rivn', 'stock', 'nasdaq', 'shares', 'price target', 'forecast']),
     ('Commercial Vans', ['commercial van', 'edv', 'delivery van']),
+    ('Manufacturing', ['normal plant', 'georgia plant', 'factory', 'production line', 'capacity', 'supplier']),
+    ('Supply Chain', ['battery supply', 'battery plant', 'lithium', 'cells', 'cell supplier', 'catl', 'lg energy', 'panasonic']),
+    ('Pricing & Incentives', ['lease', 'leasing', 'incentive', 'discount', 'used price', 'resale', 'residual']),
+    ('Service Network', ['service center', 'mobile service', 'repair', 'warranty', 'parts availability']),
     ('Autonomy', ['autonomy', 'adas', 'self-driving', 'driver assist', 'highway assist']),
     ('Software', ['software', 'ota', 'infotainment', 'update']),
     ('Tesla Competition', ['tesla', 'model y', 'model 3', 'cybertruck', 'fsd']),

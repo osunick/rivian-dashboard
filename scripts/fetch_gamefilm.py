@@ -259,12 +259,21 @@ def fetch_google_news():
         ('https://news.google.com/rss/search?q=Rivian+RIVN&hl=en-US&gl=US&ceid=US:en', 'google_news'),
         ('https://news.google.com/rss/search?q=Rivian+R2+electric+SUV&hl=en-US&gl=US&ceid=US:en', 'google_news_r2'),
         ('https://news.google.com/rss/search?q=Rivian+autonomy+driver+assist&hl=en-US&gl=US&ceid=US:en', 'google_news_autonomy'),
+        ('https://news.google.com/rss/search?q=Rivian+service+recall+quality+repair&hl=en-US&gl=US&ceid=US:en', 'google_news_service'),
+        ('https://news.google.com/rss/search?q=Rivian+charging+NACS+charger+network&hl=en-US&gl=US&ceid=US:en', 'google_news_charging'),
+        ('https://news.google.com/rss/search?q=Rivian+battery+supply+plant+factory+Georgia+Normal&hl=en-US&gl=US&ceid=US:en', 'google_news_supply_chain'),
+        ('https://news.google.com/rss/search?q=Rivian+software+OTA+infotainment+ADAS&hl=en-US&gl=US&ceid=US:en', 'google_news_software'),
+        ('https://news.google.com/rss/search?q=Rivian+Amazon+EDV+commercial+van&hl=en-US&gl=US&ceid=US:en', 'google_news_commercial'),
+        ('https://news.google.com/rss/search?q=Rivian+lease+incentive+used+prices+resale&hl=en-US&gl=US&ceid=US:en', 'google_news_marketplace'),
         # Competitor intel feeds
         ('https://news.google.com/rss/search?q=Tesla+FSD+autonomy+self-driving&hl=en-US&gl=US&ceid=US:en', 'google_news_tesla'),
         ('https://news.google.com/rss/search?q=Waymo+robotaxi+driverless&hl=en-US&gl=US&ceid=US:en', 'google_news_waymo'),
         ('https://news.google.com/rss/search?q=Ford+GM+electric+vehicle+EV+pickup&hl=en-US&gl=US&ceid=US:en', 'google_news_oems'),
         ('https://news.google.com/rss/search?q=BYD+XPeng+NIO+electric+autonomy&hl=en-US&gl=US&ceid=US:en', 'google_news_chinese'),
         ('https://news.google.com/rss/search?q=Cybertruck+Model+Y+electric+pickup&hl=en-US&gl=US&ceid=US:en', 'google_news_cybertruck'),
+        ('https://news.google.com/rss/search?q=Scout+Motors+Volkswagen+electric+SUV+truck&hl=en-US&gl=US&ceid=US:en', 'google_news_scout'),
+        ('https://news.google.com/rss/search?q=Lucid+Gravity+electric+SUV&hl=en-US&gl=US&ceid=US:en', 'google_news_lucid'),
+        ('https://news.google.com/rss/search?q=Hyundai+Ioniq+5+Kia+EV9+electric+SUV&hl=en-US&gl=US&ceid=US:en', 'google_news_korea_ev'),
     ]
     for url, label in rss_urls:
         fetched = _fetch_rss(url, label)
@@ -273,14 +282,26 @@ def fetch_google_news():
     for item in items:
         item['snippet'] = item.get('title', '')[:200]
     # Filter to today PT + keywords (feed-specific)
-    rivian_kw = ['rivian','rivn','r1t','r1s','r2','rj','scaringe','electric truck','electric suv']
-    competitor_kw = ['tesla','fsd','waymo','aurora','byd','xpeng','gm','ford','hummer','equinox','mach-e','cybertruck','model y','zoox','mobileye','lucid','polestar','ioniq']
+    rivian_kw = [
+        'rivian','rivn','r1t','r1s','r2','rj','scaringe','amazon edv',
+        'electric truck','electric suv','normal plant','georgia plant'
+    ]
+    competitor_kw = [
+        'tesla','fsd','waymo','aurora','byd','xpeng','gm','ford','hummer',
+        'equinox','mach-e','cybertruck','model y','zoox','mobileye','lucid',
+        'polestar','ioniq','ev9','scout motors','volkswagen','hyundai','kia'
+    ]
+    competitor_sources = {
+        'google_news_tesla', 'google_news_waymo', 'google_news_oems',
+        'google_news_chinese', 'google_news_cybertruck', 'google_news_scout',
+        'google_news_lucid', 'google_news_korea_ev'
+    }
     today_items = []
     for item in items:
         text = (item['title'] + ' ' + item['snippet']).lower()
         source = item.get('source','').lower()
         # Rivian feeds require Rivian keywords; competitor feeds require competitor keywords
-        if 'competitive' in source or 'tesla' in source or 'waymo' in source or 'oems' in source or 'chinese' in source or 'cybertruck' in source:
+        if source in competitor_sources:
             if not any(k in text for k in competitor_kw):
                 continue
         else:
@@ -364,6 +385,10 @@ def fetch_rss_feeds():
         ('https://www.cnbc.com/id/100003114/device/rss/rss.html', 'cnbc_top'),
         ('https://feeds.marketwatch.com/marketwatch/topstories', 'marketwatch'),
         ('https://www.automotiveworld.com/feed/', 'automotive_world'),
+        ('https://insideevs.com/rss/articles/all/', 'insideevs'),
+        ('https://electrek.co/feed/', 'electrek'),
+        ('https://www.theverge.com/rss/transportation/index.xml', 'theverge_transportation'),
+        ('https://www.greencarreports.com/rss', 'green_car_reports'),
         ('https://techmeme.com/feed.xml', 'techmeme'),
     ]
 
@@ -373,8 +398,18 @@ def fetch_rss_feeds():
         all_items.extend(items)
 
     import re
-    rivian_kw = [r'\brivian\b', r'\brivn\b', r'\br1t\b', r'\br1s\b', r'\br2\b', r'\brj scaringe\b', r'\belectric trucks?\b', r'\belectric suvs?\b']
-    ev_av_kw = [r'\btesla\b', r'\bwaymo\b', r'\bcruise\b', r'\bzoox\b', r'\blucid\b', r'\bself-driving\b', r'\bautonomous\b', r'\brobotaxis?\b', r'\bfsd\b', r'\bnio\b', r'\bbyd\b', r'\bevs?\b', r'\bavs?\b']
+    rivian_kw = [
+        r'\brivian\b', r'\brivn\b', r'\br1t\b', r'\br1s\b', r'\br2\b',
+        r'\brj scaringe\b', r'\bamazon edv\b', r'\belectric trucks?\b',
+        r'\belectric suvs?\b', r'\bnacs\b', r'\bcharging network\b',
+        r'\bsoftware update\b', r'\bdriver\+\b',
+    ]
+    ev_av_kw = [
+        r'\btesla\b', r'\bwaymo\b', r'\bcruise\b', r'\bzoox\b', r'\blucid\b',
+        r'\bself-driving\b', r'\bautonomous\b', r'\brobotaxis?\b', r'\bfsd\b',
+        r'\bnio\b', r'\bbyd\b', r'\bscout motors\b', r'\bioniq\b', r'\bev9\b',
+        r'\bevs?\b', r'\bavs?\b',
+    ]
     
     rivian_pattern = re.compile('|'.join(rivian_kw), re.IGNORECASE)
     ev_av_pattern = re.compile('|'.join(ev_av_kw), re.IGNORECASE)
@@ -410,13 +445,22 @@ def fetch_rss_feeds():
 def fetch_bluesky():
     items = []
     try:
-        url = 'https://api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Rivian&sort=latest&limit=10'
-        req = urllib.request.Request(url, headers={
-            'Accept': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-        })
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            data = json.loads(resp.read())
+        import urllib.parse
+        queries = ['Rivian', 'Rivian R2', 'R1S R1T', 'Rivian service Driver+']
+        seen_posts = set()
+        for query in queries:
+            try:
+                params = urllib.parse.urlencode({'q': query, 'sort': 'latest', 'limit': 12})
+                url = f'https://api.bsky.app/xrpc/app.bsky.feed.searchPosts?{params}'
+                req = urllib.request.Request(url, headers={
+                    'Accept': 'application/json',
+                    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+                })
+                with urllib.request.urlopen(req, timeout=10) as resp:
+                    data = json.loads(resp.read())
+            except Exception as e:
+                print(f"[fetch_gamefilm] Bluesky query skipped ({query}): {e}", file=sys.stderr)
+                continue
             for post in data.get('posts', []):
                 author = post.get('author', {})
                 record = post.get('record', {})
@@ -425,6 +469,9 @@ def fetch_bluesky():
                 did = author.get('did', '')
                 uri = post.get('uri', '')
                 post_id = uri.split('/')[-1] if uri else ''
+                if not post_id or post_id in seen_posts:
+                    continue
+                seen_posts.add(post_id)
                 url = f"https://bsky.app/profile/{did}/post/{post_id}"
                 items.append({
                     'title': f"@{handle} (Bluesky): {text[:80]}",
@@ -608,19 +655,29 @@ def fetch_youtube():
 
     try:
         import urllib.parse
-        params = urllib.parse.urlencode({
-            'part': 'snippet',
-            'q': 'Rivian',
-            'type': 'video',
-            'order': 'date',
-            'maxResults': 10,
-            'key': api_key,
-        })
-        url = f'https://www.googleapis.com/youtube/v3/search?{params}'
-        req = urllib.request.Request(url, headers={'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read())
-            search_items = data.get('items') or []
+        queries = ['Rivian', 'Rivian R2 test drive', 'Rivian software update', 'Rivian R1S R1T review']
+        search_items = []
+        seen_video_ids = set()
+        for query in queries:
+            params = urllib.parse.urlencode({
+                'part': 'snippet',
+                'q': query,
+                'type': 'video',
+                'order': 'date',
+                'maxResults': 8,
+                'key': api_key,
+            })
+            url = f'https://www.googleapis.com/youtube/v3/search?{params}'
+            req = urllib.request.Request(url, headers={'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read())
+            for entry in data.get('items') or []:
+                video_id = entry.get('id', {}).get('videoId', '')
+                if video_id and video_id not in seen_video_ids:
+                    seen_video_ids.add(video_id)
+                    search_items.append(entry)
+
+        if search_items:
             video_ids = [entry.get('id', {}).get('videoId', '') for entry in search_items]
             video_ids = [video_id for video_id in video_ids if video_id]
             details_by_id = {}

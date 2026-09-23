@@ -8,7 +8,7 @@ import {
   getEffectiveDate,
   getSentimentByPublishDate,
 } from '@/lib/data';
-import { CATEGORY_KEYS, CATEGORY_LABELS, COMPETITORS, SOURCE_KEYS, SOURCE_LABELS, SentimentLabel } from '@/lib/types';
+import { CATEGORY_KEYS, CATEGORY_LABELS, COMPETITORS, SOURCE_LABELS, SentimentLabel } from '@/lib/types';
 import { getItemSummary } from '@/lib/item-summary';
 import SearchButton from '@/components/SearchButton';
 import ChatButton from '@/components/ChatButton';
@@ -142,10 +142,52 @@ const DEMO_DRIVE_TERMS = [
   'walk around',
 ];
 
+const STRATEGIC_COVERAGE_AREAS = [
+  {
+    key: 'r2',
+    label: 'R2 Launch',
+    terms: ['r2', 'demo drive', 'test drive', 'first drive', 'reservation', 'launch'],
+  },
+  {
+    key: 'autonomy',
+    label: 'Autonomy & ADAS',
+    terms: ['driver+', 'driver plus', 'highway assist', 'autonomy', 'adas', 'self-driving', 'hands free'],
+  },
+  {
+    key: 'service',
+    label: 'Service & Quality',
+    terms: ['service', 'repair', 'recall', 'warranty', 'quality', 'defect', 'parts'],
+  },
+  {
+    key: 'charging',
+    label: 'Charging Access',
+    terms: ['charging', 'charger', 'nacs', 'supercharger', 'adventure network'],
+  },
+  {
+    key: 'supply',
+    label: 'Supply Chain',
+    terms: ['battery', 'supplier', 'factory', 'plant', 'production', 'georgia', 'normal'],
+  },
+  {
+    key: 'marketplace',
+    label: 'Pricing & Resale',
+    terms: ['lease', 'incentive', 'discount', 'used price', 'resale', 'residual'],
+  },
+  {
+    key: 'commercial',
+    label: 'Commercial Vans',
+    terms: ['edv', 'commercial van', 'delivery van', 'amazon'],
+  },
+] as const;
+
 function isDemoDriveFeedback(item: { category?: string; title: string; snippet?: string }) {
   if (item.category === 'demo_drives') return true;
   const text = `${item.title} ${item.snippet ?? ''}`.toLowerCase();
   return DEMO_DRIVE_TERMS.some(term => text.includes(term));
+}
+
+function itemText(item: { title: string; snippet?: string; themes?: string[]; source?: string }) {
+  return `${item.title} ${item.snippet ?? ''} ${(item.themes ?? []).join(' ')} ${item.source ?? ''}`.toLowerCase();
 }
 
 // Vehicle-dynamics analysis: classify signals into how-it-drives sub-topics.
@@ -385,11 +427,17 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
     ? Math.round((scopeItems.filter(i => i.publishedAt).length / totalSignals) * 100)
     : 0;
 
-  const sourceCounts = SOURCE_KEYS.map(source => ({
-    key: source,
-    label: SOURCE_LABELS[source],
-    count: scopeItems.filter(item => item.source === source).length,
-  }))
+  const sourceCounts = Object.entries(
+    scopeItems.reduce<Record<string, number>>((acc, item) => {
+      acc[item.source] = (acc[item.source] ?? 0) + 1;
+      return acc;
+    }, {})
+  )
+    .map(([source, count]) => ({
+      key: source,
+      label: SOURCE_LABELS[source] ?? source.replace(/_/g, ' '),
+      count,
+    }))
     .filter(source => source.count > 0)
     .sort((a, b) => b.count - a.count);
 
@@ -476,6 +524,18 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
   const datedSignals = scopeItems.filter(item => item.publishedAt);
   const competitiveSignals = scopeItems.filter(item => item.category === 'competitive');
   const demoDriveSignals = scopeItems.filter(isDemoDriveFeedback);
+  const coverageAreas = STRATEGIC_COVERAGE_AREAS.map(area => {
+    const items = scopeItems.filter(item => area.terms.some(term => itemText(item).includes(term)));
+    const negative = items.filter(item => item.sentiment === 'negative').length;
+    const positive = items.filter(item => item.sentiment === 'positive').length;
+    return {
+      ...area,
+      items,
+      count: items.length,
+      riskShare: items.length ? Math.round((negative / items.length) * 100) : 0,
+      positiveShare: items.length ? Math.round((positive / items.length) * 100) : 0,
+    };
+  }).sort((a, b) => b.count - a.count);
 
   const socialSources = ['twitter', 'youtube', 'hackernews', 'rivianforums', 'bluesky', 'reddit_rivian', 'reddit_rivian_r2', 'reddit_ev', 'reddit_sdc', 'reddit_stocks'];
   const pressNewsSignals = scopeItems.filter(item => {
@@ -678,6 +738,43 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             )}
           </Card>
         </div>
+
+        <Card title="Strategic Coverage Map" meta={`${coverageAreas.filter(area => area.count > 0).length}/${coverageAreas.length} lanes active`}>
+          <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+            {coverageAreas.map(area => (
+              <DrillDown
+                key={area.key}
+                title={area.label}
+                items={area.items}
+                label="Coverage Drilldown"
+                description={`Signals matching ${area.label.toLowerCase()} coverage terms in the current scope.`}
+                footerSuffix={`in ${area.label}`}
+                className={`block rounded-lg border p-3 text-left transition-colors ${
+                  area.count > 0
+                    ? 'border-claude-border bg-white/70 hover:border-claude-accent/45 hover:bg-[#F7FAFF]'
+                    : 'border-dashed border-claude-border bg-[#FCFAF5] text-claude-muted'
+                }`}
+              >
+                <div className="flex items-start justify-between gap-3">
+                  <div className="min-w-0">
+                    <div className="text-[14px] font-semibold leading-snug text-claude-text">{area.label}</div>
+                    <div className="mt-1 font-mono-num text-[11px] text-claude-muted">
+                      {area.count} signal{area.count !== 1 ? 's' : ''}
+                    </div>
+                  </div>
+                  <div className="font-mono-num text-[11px] text-claude-muted">
+                    {area.count > 0 ? `${area.positiveShare}%+ / ${area.riskShare}%-` : 'gap'}
+                  </div>
+                </div>
+                <div className="mt-3 flex h-1.5 overflow-hidden rounded-full bg-claude-border">
+                  <div style={{ width: `${area.positiveShare}%`, background: '#2DD4A7' }} />
+                  <div style={{ width: `${Math.max(0, 100 - area.positiveShare - area.riskShare)}%`, background: '#8B8F99' }} />
+                  <div style={{ width: `${area.riskShare}%`, background: '#F0453A' }} />
+                </div>
+              </DrillDown>
+            ))}
+          </div>
+        </Card>
 
         <div className="grid gap-4 xl:grid-cols-[0.8fr_1.2fr]">
           <Card title="Intelligence Sources" meta={`${sourceCounts.length} active`}>
