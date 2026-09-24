@@ -136897,5 +136897,434 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-24T07:01:40.484550-07:00",
+    "timestamp": "2026-09-24T07:01:40.484550-07:00",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 75,
+      "negative": 20
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_service": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 14,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 5,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "24 signals across Vehicles (10), Competitive (6); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, September 24, 2026 \u2014 7:01 AM PT \u2014 24 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (10), Software (5).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 5 negative signals; watch Vehicle Demand, Competitive Threats, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Competitive Threats:* reddit_electricvehicles signal: Why doesn\u2019t Tesla build bigger-sized SUVs?\n  https://www.reddit.com/r/electricvehicles/comments/1wouiun/why_doesnt_tesla_build_biggersized_suvs/\n\u2022 *Competitive Threats:* reddit_selfdrivingcars signal: XPeng L03 self-driving hardware limited to $64,990 Ultra\n  https://www.reddit.com/r/SelfDrivingCars/comments/1woti8t/xpeng_l03_selfdriving_hardware_limited_to_64990/\n\u2022 *Competitive Threats:* Customers can get a $1,999 Level 2 home charger, plus monthly credits in their account if they help balance the grid.\n  https://insideevs.com/news/809418/gm-ev-free-charger-money-back/\n\u2022 *Competitive Threats:* Waymo has re\n  https://electrek.co/2026/09/24/waymo-says-it-has-stopped-841-injuries-in-271-million-autonomous-miles/\n\u2022 *Competitive Threats:* Waymo says it has stopped 841 injuries in 271 million autonomous miles - Electrek\n  https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmZkSGdFWWdDVUw3X2FXbU1QVTNZQ2RqWm9QcmhHNEJKdTdsMlZERDFCQ244dEJOSjlyS1hrTUNoRVVWR3Bzb0tWdVIweWw2eE5obGdaeUVCeGxBLW83cHEzdDl6Zll4N281bXdIUlFwVEpsQWo4MUxkX3RiSlljZ2RzalBYbjB2SkZGbnBJNUJqdmhBdFpJc0pfZjN5eHJ1cDBMUg?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Here\u2019s a very detailed autonomy job description at Rivian. Does this read like they are doing training on AWS or training on their own GPUs? I think it kind of feels like a build out of a GPU farm. \ud83d\udc40\n  https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mwbegtg3il24\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Found test drive video on my R2!\n  https://www.reddit.com/r/RivianR2/comments/1woqliu/found_test_drive_video_on_my_r2/\n*Vehicles (10)* \u2022 reddit_rivian_r2 signal: Fear of overpaying?\n  https://www.reddit.com/r/RivianR2/comments/1wop9yb/fear_of_overpaying/\n*Business (1)* \u2022 I hate trump and maga and everything they stand for and I think Rivian stock is going to be $500 a share in the next 5 years is that enough?\n  https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mwbbwu6cz22e\n*Software (5)* \u2022 Rivian R2 Gets Its First Recall, but 96% Are Already Fixed - autos.yahoo.com\n  https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1RUQnBPbWpGYXNOTjNROTNoRWdNQjFFMDRoZUl1MWNxSUw5OEJqMDhTWE5KSG9pdUpsZ1N2R2ItRUZSOWZ0YUplUUozOEVQOWg1RC04NlBSZkJIZ0xZQ0sxcUZxandhajRpWXFQRW5LVmNBZjcyWGdJYUg0a0wzVXhPWGZUUGJBZVRqWllwa0FZTkpTWTN0X3NB?oc=5\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Found test drive video on my R2!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1woqliu/found_test_drive_video_on_my_r2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-24T03:15:47.775Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Found test drive video on my R2!",
+        "summary": "reddit_rivian_r2 signal: Found test drive video on my R2!",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Fear of overpaying?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wop9yb/fear_of_overpaying/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-24T02:12:14.244Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Fear of overpaying?",
+        "summary": "reddit_rivian_r2 signal: Fear of overpaying?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why doesn\u2019t Tesla build bigger-sized SUVs?",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wouiun/why_doesnt_tesla_build_biggersized_suvs/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-24T06:51:43.869Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Why doesn\u2019t Tesla build bigger-sized SUVs?",
+        "summary": "reddit_electricvehicles signal: Why doesn\u2019t Tesla build bigger-sized SUVs?",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "XPeng L03 self-driving hardware limited to $64,990 Ultra",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1woti8t/xpeng_l03_selfdriving_hardware_limited_to_64990/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-09-24T05:52:33.281Z",
+        "score": 0,
+        "snippet": "reddit_selfdrivingcars signal: XPeng L03 self-driving hardware limited to $64,990 Ultra",
+        "summary": "reddit_selfdrivingcars signal: XPeng L03 self-driving hardware limited to $64,990 Ultra",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "GM Is Giving Away Free EV Chargers\u2014And Paying New Owners To Charge",
+        "url": "https://insideevs.com/news/809418/gm-ev-free-charger-money-back/",
+        "source": "insideevs",
+        "publishedAt": "Thu, 24 Sep 2026 10:46:18 +0000",
+        "score": 0,
+        "snippet": "Customers can get a $1,999 Level 2 home charger, plus monthly credits in their account if they help balance the grid.",
+        "summary": "Customers can get a $1,999 Level 2 home charger, plus monthly credits in their account if they help balance the grid.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo says it has stopped 841 injuries in 271 million autonomous miles",
+        "url": "https://electrek.co/2026/09/24/waymo-says-it-has-stopped-841-injuries-in-271-million-autonomous-miles/",
+        "source": "electrek",
+        "publishedAt": "Thu, 24 Sep 2026 13:00:00 +0000",
+        "score": 0,
+        "snippet": "Waymo has re",
+        "summary": "Waymo has re",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Andra AP fonden Takes $6.92 Million Position in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEEyeWxjQjVJZUR1dWR6MEVDUDhlM0tJemM0b3FDRVlQTEtabTZ4NE1KWVhUOF9PblY3c1dFWTJLVEZPa1Q3RUpUMnR4Z2FxWC13dTZUX0U3Z3AwdEZSOXZXMXNMNW5VMlQ2UFZ2UVFrWVJsbXE0NHI2R0Vzc2YyVmQ2UHFraFUyTlZEbXpZNVhBd1puNEZHZVc3dGZtcndRSERnQzhHOXlKOTNwTy1adTd5bUFSUG5CVHJwSVZEWkY3VHdMN3VzTGRmU3VOQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 24 Sep 2026 07:14:11 GMT",
+        "score": 0,
+        "snippet": "Andra AP fonden Takes $6.92 Million Position in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "summary": "Andra AP fonden Takes $6.92 Million Position in Rivian Automotive, Inc. $RIVN - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Laredo Morning Times",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjdmckJ3SWFwN2g5TlRScjBXTTlYTlJFVGxZYlliQUhDdkNMMjZLSFNfLXo5cHM4YTZ4NVhOSVlVeG9oTWJyWS13NzJYa3VEM3VRT0ZJSUdfX0ZQNUNORW5fSUJGZHBMUzhGYlZjY3h5MURlQXBocTFLZVV3OHhVSlp3RmpHREdsczF1WEYwNjJmZi1ONmJjUXEydTZyaUNibGc?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 24 Sep 2026 09:39:24 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Laredo Morning Times",
+        "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Laredo Morning Times",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Gets Its First Recall, but 96% Are Already Fixed - autos.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1RUQnBPbWpGYXNOTjNROTNoRWdNQjFFMDRoZUl1MWNxSUw5OEJqMDhTWE5KSG9pdUpsZ1N2R2ItRUZSOWZ0YUplUUozOEVQOWg1RC04NlBSZkJIZ0xZQ0sxcUZxandhajRpWXFQRW5LVmNBZjcyWGdJYUg0a0wzVXhPWGZUUGJBZVRqWllwa0FZTkpTWTN0X3NB?oc=5",
+        "source": "google_news_service",
+        "publishedAt": "Thu, 24 Sep 2026 10:30:00 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Gets Its First Recall, but 96% Are Already Fixed - autos.yahoo.com",
+        "summary": "Rivian R2 Gets Its First Recall, but 96% Are Already Fixed - autos.yahoo.com",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Waymo says it has stopped 841 injuries in 271 million autonomous miles - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmZkSGdFWWdDVUw3X2FXbU1QVTNZQ2RqWm9QcmhHNEJKdTdsMlZERDFCQ244dEJOSjlyS1hrTUNoRVVWR3Bzb0tWdVIweWw2eE5obGdaeUVCeGxBLW83cHEzdDl6Zll4N281bXdIUlFwVEpsQWo4MUxkX3RiSlljZ2RzalBYbjB2SkZGbnBJNUJqdmhBdFpJc0pfZjN5eHJ1cDBMUg?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 24 Sep 2026 13:00:00 GMT",
+        "score": 0,
+        "snippet": "Waymo says it has stopped 841 injuries in 271 million autonomous miles - Electrek",
+        "summary": "Waymo says it has stopped 841 injuries in 271 million autonomous miles - Electrek",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@batteriesincluded.bsky.social (Bluesky): A 268-mile drive every two weeks. \u221240\u00b0 winters. One EV has to handle it all. \ud83e\udd76\n\n",
+        "url": "https://bsky.app/profile/did:plc:slwacrbq5xb6hy5gszprghfu/post/3mwbg2qpacc2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T13:59:20.366Z",
+        "score": 1,
+        "snippet": "A 268-mile drive every two weeks. \u221240\u00b0 winters. One EV has to handle it all. \ud83e\udd76 I made my pick. My co-hosts told me I'm wrong. Model 3, Lucid Air or EQS: which would YOU trust in \u221240\u00b0? Battery Barga",
+        "summary": "A 268-mile drive every two weeks. \u221240\u00b0 winters. One EV has to handle it all. \ud83e\udd76 I made my pick. My co-hosts told me I'm wrong. Model 3, Lucid Air or EQS: which would YOU trust in \u221240\u00b0? Battery Barga",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): It's important to check if your Rivian is affected by this recall. Visit the off",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwbfoshtf32a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T13:52:36.265Z",
+        "score": 0,
+        "snippet": "It's important to check if your Rivian is affected by this recall. Visit the official Rivian website or contact an authorized dealer for details on the camera-related safety issue and next steps.",
+        "summary": "It's important to check if your Rivian is affected by this recall. Visit the official Rivian website or contact an authorized dealer for details on the camera-related safety issue and next steps.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Love the tech, love the people behind it, but open source driver assistance need",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwbfkoehn22s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T13:50:20.158Z",
+        "score": 1,
+        "snippet": "Love the tech, love the people behind it, but open source driver assistance needs extra caution. NHTSA just opened an investigation into Comma AI after fatal crashes, and here's what Rivian owners sho",
+        "summary": "Love the tech, love the people behind it, but open source driver assistance needs extra caution. NHTSA just opened an investigation into Comma AI after fatal crashes, and here's what Rivian owners sho",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jmode6.bsky.social (Bluesky): Why is Tesla, ran by Elon and the right-with super surveillance cameras the best",
+        "url": "https://bsky.app/profile/did:plc:ram5psxogayvcx4fky6n64rd/post/3mwbfex4qxk2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T13:47:05.995Z",
+        "score": 0,
+        "snippet": "Why is Tesla, ran by Elon and the right-with super surveillance cameras the best selling EV and not Rivian ran my a vegan? I believe cause ppl rather a Nazi than a Vegan. I saw one Black Man the other",
+        "summary": "Why is Tesla, ran by Elon and the right-with super surveillance cameras the best selling EV and not Rivian ran my a vegan? I believe cause ppl rather a Nazi than a Vegan. I saw one Black Man the other",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Here\u2019s a very detailed autonomy job description at Rivian. Does this read like t",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mwbegtg3il24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T13:30:15.465Z",
+        "score": 0,
+        "snippet": "Here\u2019s a very detailed autonomy job description at Rivian. Does this read like they are doing training on AWS or training on their own GPUs? I think it kind of feels like a build out of a GPU farm. \ud83d\udc40",
+        "summary": "Here\u2019s a very detailed autonomy job description at Rivian. Does this read like they are doing training on AWS or training on their own GPUs? I think it kind of feels like a build out of a GPU farm. \ud83d\udc40",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mwbdp35y2c27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T13:16:58.058Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@vero1986.bsky.social (Bluesky): Rivian has historically burned through significant cash to build its manufacturi",
+        "url": "https://bsky.app/profile/did:plc:ncva6zby5n2spqewkaps4mi4/post/3mwbcdexgdc2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T12:52:32.871Z",
+        "score": 0,
+        "snippet": "Rivian has historically burned through significant cash to build its manufacturing infrastructure. While the Volkswagen joint venture and a $6 billion Department of Energy loan provide a vital safety",
+        "summary": "Rivian has historically burned through significant cash to build its manufacturing infrastructure. While the Volkswagen joint venture and a $6 billion Department of Energy loan provide a vital safety",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mecha-sheep.bsky.social (Bluesky): \"The MSRP has not been announced, although Rivian has said that it will start at",
+        "url": "https://bsky.app/profile/did:plc:feiibhdumkm7fgadjjt2pufz/post/3mwbc2h2cts24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T12:47:31.463Z",
+        "score": 0,
+        "snippet": "\"The MSRP has not been announced, although Rivian has said that it will start at less than the R2's starting price, which the company expects to be around $45,000\" lol. I don't give a damn about any",
+        "summary": "\"The MSRP has not been announced, although Rivian has said that it will start at less than the R2's starting price, which the company expects to be around $45,000\" lol. I don't give a damn about any",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): I hate trump and maga and everything they stand for and I think Rivian stock is ",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mwbbwu6cz22e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T12:45:31.763Z",
+        "score": 0,
+        "snippet": "I hate trump and maga and everything they stand for and I think Rivian stock is going to be $500 a share in the next 5 years is that enough?",
+        "summary": "I hate trump and maga and everything they stand for and I think Rivian stock is going to be $500 a share in the next 5 years is that enough?",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian r3 and r4 can\u2019t get to Europe soon enough! www.bloomberg.com/news/article",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mwbbeundb22e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T12:35:29.861Z",
+        "score": 1,
+        "snippet": "Rivian r3 and r4 can\u2019t get to Europe soon enough! www.bloomberg.com/news/article...!",
+        "summary": "Rivian r3 and r4 can\u2019t get to Europe soon enough! www.bloomberg.com/news/article...!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@forbestest.bsky.social (Bluesky): Today\u2019s Forbes Daily covers Mark Zuckerberg's Muse-fueled rally, the FBI investi",
+        "url": "https://bsky.app/profile/did:plc:5zf5fxxqe6btwlmcgolnahyb/post/3mwb6bty6ha2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T11:40:05.973Z",
+        "score": 1,
+        "snippet": "Today\u2019s Forbes Daily covers Mark Zuckerberg's Muse-fueled rally, the FBI investigates alleged hack, a lawsuit against JPMorgan Chase, Rivian recalls EVs and more.",
+        "summary": "Today\u2019s Forbes Daily covers Mark Zuckerberg's Muse-fueled rally, the FBI investigates alleged hack, a lawsuit against JPMorgan Chase, Rivian recalls EVs and more.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@digifox.binaryden.net (Bluesky): Amazon's Rivian vans are not noisy",
+        "url": "https://bsky.app/profile/did:plc:ysutmi7poqnwgmvs7wdlfbgz/post/3mwb4kxleks2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T11:09:23.867Z",
+        "score": 0,
+        "snippet": "Amazon's Rivian vans are not noisy",
+        "summary": "Amazon's Rivian vans are not noisy",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@newestcarsusa.bsky.social (Bluesky): 2027 Rivian R2 Hit by Rearview Camera Recall",
+        "url": "https://bsky.app/profile/did:plc:njbouatmwhny5654vy2hghtg/post/3mwb3tt7tsu22",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T10:56:27.759Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2 Hit by Rearview Camera Recall",
+        "summary": "2027 Rivian R2 Hit by Rearview Camera Recall",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian R2 Gets Its First Recall, but 96% Are Already Fixed.\n\nRead more: bit.ly/4",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mwb2wlse2t2c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-24T10:40:06.966Z",
+        "score": 0,
+        "snippet": "Rivian R2 Gets Its First Recall, but 96% Are Already Fixed. Read more: bit.ly/46CDULR",
+        "summary": "Rivian R2 Gets Its First Recall, but 96% Are Already Fixed. Read more: bit.ly/46CDULR",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      }
+    ]
   }
 ]
