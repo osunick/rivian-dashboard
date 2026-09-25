@@ -138135,5 +138135,206 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-25T07:01:35.125453-07:00",
+    "timestamp": "2026-09-25T07:01:35.125453-07:00",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 88,
+      "negative": 11
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 3,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "9 signals across Vehicles (4), Competitive (3); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, September 25, 2026 \u2014 7:01 AM PT \u2014 9 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 6 Rivian signals clustered around Vehicles (4), Community (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Outside estimates put 2026 deliveries at 5,000 to 15,000 units, far below the plant's 50,000-unit annual capacity. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/tesla-begins-semi-deliveries-nine-years-after-unveiling/\n\u2022 *Competitive Threats:* Tesla o\n  https://electrek.co/2026/09/25/tesla-semi-volume-production-launch-nevada-factory/\n\u2022 *Competitive Threats:* <IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"\n  https://www.techmeme.com/260925/p7#a260925p7\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (4)* \u2022 reddit_rivian_r2 signal: \u200bTook delivery yesterday: My First 24 hours with the R2!\n  https://www.reddit.com/r/RivianR2/comments/1wpsohd/took_delivery_yesterday_my_first_24_hours_with/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 The recall for Rivian vehicles related to camera issues is important for safety. If you're experiencing any issues with your vehicle's cameras or need parts related to the recall, let me know if you n\n  https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwdvm2mfmi2x\n*Community (1)* \u2022 Our anniversary trip was postponed due to bad weather but we got a chance to do something special anyway! A boat ride through the sound to the Billion Oyster Party. Ate so many we almost got sick of\n  https://bsky.app/profile/did:plc:wz3eu3fzuewjtnub4ij4ndjw/post/3mwduje6r4c2l\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "\u200bTook delivery yesterday: My First 24 hours with the R2!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wpsohd/took_delivery_yesterday_my_first_24_hours_with/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-25T10:23:15.151Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: \u200bTook delivery yesterday: My First 24 hours with the R2!",
+        "summary": "reddit_rivian_r2 signal: \u200bTook delivery yesterday: My First 24 hours with the R2!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Anyone gone into the mountains yet? Range?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wpk8p3/anyone_gone_into_the_mountains_yet_range/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-25T02:08:29.704Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Anyone gone into the mountains yet? Range?",
+        "summary": "reddit_rivian_r2 signal: Anyone gone into the mountains yet? Range?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla begins Semi deliveries nine years after unveiling",
+        "url": "https://www.automotiveworld.com/news/tesla-begins-semi-deliveries-nine-years-after-unveiling/",
+        "source": "automotive_world",
+        "publishedAt": "Fri, 25 Sep 2026 09:23:05 +0000",
+        "score": 0,
+        "snippet": "Outside estimates put 2026 deliveries at 5,000 to 15,000 units, far below the plant's 50,000-unit annual capacity. By Stewart Burnett The post <a href=\"",
+        "summary": "Outside estimates put 2026 deliveries at 5,000 to 15,000 units, far below the plant's 50,000-unit annual capacity. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Semi finally enters volume production, 7 years behind schedule",
+        "url": "https://electrek.co/2026/09/25/tesla-semi-volume-production-launch-nevada-factory/",
+        "source": "electrek",
+        "publishedAt": "Fri, 25 Sep 2026 12:31:37 +0000",
+        "score": 0,
+        "snippet": "Tesla o",
+        "summary": "Tesla o",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints (The Information)",
+        "url": "https://www.techmeme.com/260925/p7#a260925p7",
+        "source": "techmeme",
+        "publishedAt": "Fri, 25 Sep 2026 09:50:30 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "NewEdge Advisors LLC Sells 94,290 Shares of Rivian Automotive, Inc. $RIVN - marketbeat.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDVxY2FGN0ZuMFNEcXl0SktpZjE1SGt2NmNMMzhKcTBHN2ZFQmlRTERReU9jR3pnRlpNWldtMUxsT3ZGNTZ5bFdtanZiQkdjbXZxbV9qVi1PWVNBYldlajBvZzJSbm9kSVJRTW1HZTI2TURsRENkM3ROal80bVNoeXo1SkMzS19GZ21SeWI3LUZYcUNEN0FRZVp4cjB6LUM3WTE1T2NmNkRhRGtCelpFb2k1amI1QTBvMFhpa1BPMTdRS3ZYWkxkeFNR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 25 Sep 2026 07:31:07 GMT",
+        "score": 0,
+        "snippet": "NewEdge Advisors LLC Sells 94,290 Shares of Rivian Automotive, Inc. $RIVN - marketbeat.com",
+        "summary": "NewEdge Advisors LLC Sells 94,290 Shares of Rivian Automotive, Inc. $RIVN - marketbeat.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): The recall for Rivian vehicles related to camera issues is important for safety.",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwdvm2mfmi2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T13:42:43.459Z",
+        "score": 1,
+        "snippet": "The recall for Rivian vehicles related to camera issues is important for safety. If you're experiencing any issues with your vehicle's cameras or need parts related to the recall, let me know if you n",
+        "summary": "The recall for Rivian vehicles related to camera issues is important for safety. If you're experiencing any issues with your vehicle's cameras or need parts related to the recall, let me know if you n",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): \u201cAccording to a VW spokesperson, the future SSP electric platform will serve as ",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mwdvjwuytk2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T13:41:33.593Z",
+        "score": 1,
+        "snippet": "\u201cAccording to a VW spokesperson, the future SSP electric platform will serve as the basis for this. Until then, the ID.4 and ID. Buzz are to remain the focus.\u201d lol, Rivian strikes again \ud83e\udd2a \u201cThe reaso",
+        "summary": "\u201cAccording to a VW spokesperson, the future SSP electric platform will serve as the basis for this. Until then, the ID.4 and ID. Buzz are to remain the focus.\u201d lol, Rivian strikes again \ud83e\udd2a \u201cThe reaso",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@alyssamerc.bsky.social (Bluesky): Our anniversary trip was postponed due to bad weather but we got a chance to do ",
+        "url": "https://bsky.app/profile/did:plc:wz3eu3fzuewjtnub4ij4ndjw/post/3mwduje6r4c2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T13:23:25.460Z",
+        "score": 51,
+        "snippet": "Our anniversary trip was postponed due to bad weather but we got a chance to do something special anyway! A boat ride through the sound to the Billion Oyster Party. Ate so many we almost got sick of",
+        "summary": "Our anniversary trip was postponed due to bad weather but we got a chance to do something special anyway! A boat ride through the sound to the Billion Oyster Party. Ate so many we almost got sick of",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
