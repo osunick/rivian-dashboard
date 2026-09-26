@@ -138831,5 +138831,361 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-25T19:01:35.503357-07:00",
+    "timestamp": "2026-09-25T19:01:35.503357-07:00",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 85,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 13,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "20 signals across Vehicles (15), Competitive (2); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, September 25, 2026 \u2014 7:01 PM PT \u2014 20 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (15), Autonomy (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Competitive Threats, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Volume production of the Tesla Semi has started a decade after it was revealed. And yet, the timing feels ripe.\n  https://insideevs.com/news/809648/tesla-semi-deliveries-begin-high-diesel-prices/\n\u2022 *Competitive Threats:* <a\n  https://electrek.co/2026/09/25/byd-sets-launch-date-flagship-han-ev-1000-km-range/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Time for another @rivianofficial.bsky.social Recap. - The #R2our is complete (quick hit pros & cons) - We get a teaser for R3 and R4 $ - The 3rd quarter Autonomy+ improvements are MIA - A fun YouTube\n  https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3mweoxhwerk2k\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 reddit_rivian_r2 signal: She didn\u2019t quite make it to delivery day\u2026\n  https://www.reddit.com/r/RivianR2/comments/1wq799i/she_didnt_quite_make_it_to_delivery_day/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Rivian Recalls Nearly 100,000 Vehicles Over Camera Issue\n  https://bsky.app/profile/did:plc:njbouatmwhny5654vy2hghtg/post/3mwepulwgbh22\n*Community (1)* \u2022 bluesky signal: @blessyourheart32.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:c4ydgqkpnd4opqlxihoqtlno/post/3mwesermapc2w\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "She didn\u2019t quite make it to delivery day\u2026",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wq799i/she_didnt_quite_make_it_to_delivery_day/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-25T20:38:38.842Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: She didn\u2019t quite make it to delivery day\u2026",
+        "summary": "reddit_rivian_r2 signal: She didn\u2019t quite make it to delivery day\u2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Finally Kicks Off Semi Deliveries As Diesel Prices Skyrocket",
+        "url": "https://insideevs.com/news/809648/tesla-semi-deliveries-begin-high-diesel-prices/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 25 Sep 2026 18:06:46 +0000",
+        "score": 0,
+        "snippet": "Volume production of the Tesla Semi has started a decade after it was revealed. And yet, the timing feels ripe.",
+        "summary": "Volume production of the Tesla Semi has started a decade after it was revealed. And yet, the timing feels ripe.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD sets launch date for the new flagship Han EV with over 1,000 km of range",
+        "url": "https://electrek.co/2026/09/25/byd-sets-launch-date-flagship-han-ev-1000-km-range/",
+        "source": "electrek",
+        "publishedAt": "Fri, 25 Sep 2026 19:49:20 +0000",
+        "score": 0,
+        "snippet": "<a",
+        "summary": "<a",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUNjVk1JU3VCNkZWdm91cmZDV1JRQW5EQzBjWDRHOFJjbWpXZ3FHWXI0d2ltMkNwUnBKamRTUTFjYmxpMzVhLTMzV1hHZ3h3Z0E1X1loUF9PdElEQ2M4dE1LcXJEWWRmZnZGclZxZGcyeFk2WHBfQmp2bm8tS0RzTUpsOUNfbURZWXlwNXIxZVBLeVRrR0F6SEpJRnpfRXVjUkx6VA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 25 Sep 2026 20:45:02 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+        "summary": "Rivian Automotive (RIVN) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.2% - Should You Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVB4bVdRd1V3aDI5TVJLNFpsQnlsS1dXMmlCM1pSc08wNC1kdkFnODlYTExiWE1PVlF0c3RwajRnNFJodnF4eERPYWJTUnl3aVJMOGljRk1XWExrc3ViakJGVHVrdXcwVE5KbnA4YUU5cVByZHVIZTNwSnJYTGowaVBCZHEwdzJ5XzFPWGhzeU1jZng5X01pUDAxSmotZGdWVUNiUXB0bmNNLU9oVWJKX2tnVlRnR1Va?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 25 Sep 2026 21:24:25 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.2% - Should You Buy? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Shares Up 1.2% - Should You Buy? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian sends safety message to thousands of drivers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDBmY1dzREtJWS1oWDF4LTBBdmM0LUEwWFJjS3RaWE9sMW1kWHRzb3JjS3hURFA1SGwwcWFlSDdZVVNmM0RzUzVSaHl5SjAzRjVMYVBhcDFYemRJalVVdVJwNVpjR1o0WGZxaE5IbFpaM2RKdElwRUtqSkx3R2otN2dTWVVqYTBvUkhudXdWVnR1bXNMNzI0Ry11Y2k0YkE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 25 Sep 2026 18:17:00 GMT",
+        "score": 0,
+        "snippet": "Rivian sends safety message to thousands of drivers - Yahoo Finance",
+        "summary": "Rivian sends safety message to thousands of drivers - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Future Rivian R2 owners ask about camping with AC all night \u2014 drivers say it costs 8-10% battery - The Cool Down",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFp5c2ZNRkUtUzJPRTZ3RmpWdjlHRDdCbTlNaFdnTWNsS3RvVFI5WmtST3k2S2Z6TWtEQjBEbDE0NEtiUDhyLVN5SGNzQWdKMkpObmRpT0FIeEJzdVdORUZXazIyeS1CeDlPSURLdC1JTVl2VWw0U25ibjk5ekFFNkJWeVZmRHk3NUE?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 25 Sep 2026 22:09:00 GMT",
+        "score": 0,
+        "snippet": "Future Rivian R2 owners ask about camping with AC all night \u2014 drivers say it costs 8-10% battery - The Cool Down",
+        "summary": "Future Rivian R2 owners ask about camping with AC all night \u2014 drivers say it costs 8-10% battery - The Cool Down",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): 2025 Rivian R1S Adventure Edition for Sale With 18,300 Miles.\n\nRead more: bit.ly",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mwf6sv6vol2h",
+        "source": "bluesky",
+        "publishedAt": "2026-09-26T02:00:16.866Z",
+        "score": 0,
+        "snippet": "2025 Rivian R1S Adventure Edition for Sale With 18,300 Miles. Read more: bit.ly/4Axl4TZ",
+        "summary": "2025 Rivian R1S Adventure Edition for Sale With 18,300 Miles. Read more: bit.ly/4Axl4TZ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@shanedphillips.bsky.social (Bluesky): It's like saying Rivian is a top 10 US automaker lol\n\n(It have no idea if it's a",
+        "url": "https://bsky.app/profile/did:plc:mcarhragq2bw4wzlu3tdbubf/post/3mwf4nzanuk2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-26T01:21:47.670Z",
+        "score": 4,
+        "snippet": "It's like saying Rivian is a top 10 US automaker lol (It have no idea if it's actually in the top 10, but there aren't many so it sounds plausible)",
+        "summary": "It's like saying Rivian is a top 10 US automaker lol (It have no idea if it's actually in the top 10, but there aren't many so it sounds plausible)",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@expansioncom.bsky.social (Bluesky): Los CEO de Tesla, Rivian y Li Auto sit\u00faan su retribuci\u00f3n anual al nivel de los g",
+        "url": "https://bsky.app/profile/did:plc:dqfbjuvou6hh2syxgu62qo7v/post/3mwf27sbgpx2m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-26T00:38:01.060Z",
+        "score": 0,
+        "snippet": "Los CEO de Tesla, Rivian y Li Auto sit\u00faan su retribuci\u00f3n anual al nivel de los gigantes tecnol\u00f3gicos y las grandes entidades financieras, pese a la crisis que atraviesa el...",
+        "summary": "Los CEO de Tesla, Rivian y Li Auto sit\u00faan su retribuci\u00f3n anual al nivel de los gigantes tecnol\u00f3gicos y las grandes entidades financieras, pese a la crisis que atraviesa el...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blessyourheart32.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:c4ydgqkpnd4opqlxihoqtlno/post/3mwesermapc2w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T22:17:41.357Z",
+        "score": 1,
+        "snippet": "bluesky signal: @blessyourheart32.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @blessyourheart32.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@newestcarsusa.bsky.social (Bluesky): Rivian Recalls Nearly 100,000 Vehicles Over Camera Issue",
+        "url": "https://bsky.app/profile/did:plc:njbouatmwhny5654vy2hghtg/post/3mwepulwgbh22",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T21:32:47.266Z",
+        "score": 0,
+        "snippet": "Rivian Recalls Nearly 100,000 Vehicles Over Camera Issue",
+        "summary": "Rivian Recalls Nearly 100,000 Vehicles Over Camera Issue",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@ericblairvoyant.bsky.social (Bluesky): Let\u2019s GO, Rivian! CRUSH Tesla and the fucked-up oligarch liar.",
+        "url": "https://bsky.app/profile/did:plc:3fq26fbj3t7bt43lr2tlpgk2/post/3mwepghvgz22m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T21:24:53.664Z",
+        "score": 0,
+        "snippet": "Let\u2019s GO, Rivian! CRUSH Tesla and the fucked-up oligarch liar.",
+        "summary": "Let\u2019s GO, Rivian! CRUSH Tesla and the fucked-up oligarch liar.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@travisketchum.bsky.social (Bluesky): Time for another @rivianofficial.bsky.social Recap.\n\n- The #R2our is complete (q",
+        "url": "https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3mweoxhwerk2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T21:16:30.864Z",
+        "score": 0,
+        "snippet": "Time for another @rivianofficial.bsky.social Recap. - The #R2our is complete (quick hit pros & cons) - We get a teaser for R3 and R4 $ - The 3rd quarter Autonomy+ improvements are MIA - A fun YouTube",
+        "summary": "Time for another @rivianofficial.bsky.social Recap. - The #R2our is complete (quick hit pros & cons) - We get a teaser for R3 and R4 $ - The 3rd quarter Autonomy+ improvements are MIA - A fun YouTube",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@chiefheathen.bsky.social (Bluesky): Don\u2019t forget the largest shareholder if rivian is amazon.",
+        "url": "https://bsky.app/profile/did:plc:xygpbcokn3pklb3mh5fh3tbx/post/3mwek6unzs22p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T19:51:09.970Z",
+        "score": 1,
+        "snippet": "Don\u2019t forget the largest shareholder if rivian is amazon.",
+        "summary": "Don\u2019t forget the largest shareholder if rivian is amazon.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@borgdad.bsky.social (Bluesky): So it turns out that Rivian nav charger info only shows how many stalls are occu",
+        "url": "https://bsky.app/profile/did:plc:rybvey7es7bkltiskkyo67ze/post/3mwek6alm6c2u",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T19:50:47.960Z",
+        "score": 0,
+        "snippet": "So it turns out that Rivian nav charger info only shows how many stalls are occupied out of those installed. Today the map showed 2/4 in use at an EA charger. One was L2. Which I have filtered out.",
+        "summary": "So it turns out that Rivian nav charger info only shows how many stalls are occupied out of those installed. Today the map showed 2/4 in use at an EA charger. One was L2. Which I have filtered out.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@topherrobin.bsky.social (Bluesky): Don\u2019t forget Lucid if you\u2019d prefer a car over an SUV\n\nwww.geekwire.com/2026/the-",
+        "url": "https://bsky.app/profile/did:plc:v3vbp22zpdhkypr73zbcuudc/post/3mwej6s4q2k2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T19:33:16.758Z",
+        "score": 6,
+        "snippet": "Don\u2019t forget Lucid if you\u2019d prefer a car over an SUV www.geekwire.com/2026/the-tes...",
+        "summary": "Don\u2019t forget Lucid if you\u2019d prefer a car over an SUV www.geekwire.com/2026/the-tes...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): Well Amazon in particular uses very clean, quiet and safe delivery trucks that t",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3mwej4xkz322r",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T19:32:11.968Z",
+        "score": 2,
+        "snippet": "Well Amazon in particular uses very clean, quiet and safe delivery trucks that they clearly should not replace with drones (I work for Rivian) en.wikipedia.org/wiki/Rivian_...",
+        "summary": "Well Amazon in particular uses very clean, quiet and safe delivery trucks that they clearly should not replace with drones (I work for Rivian) en.wikipedia.org/wiki/Rivian_...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bnd.com (Bluesky): A single flaw is affecting tens of thousands of vehicles, but the real story is ",
+        "url": "https://bsky.app/profile/did:plc:3cbu2tr56nbpspt5yc7tmwkb/post/3mweihgv7sq2t",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T19:20:10.066Z",
+        "score": 0,
+        "snippet": "A single flaw is affecting tens of thousands of vehicles, but the real story is how seamlessly the company made the problem disappear.",
+        "summary": "A single flaw is affecting tens of thousands of vehicles, but the real story is how seamlessly the company made the problem disappear.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian will be focused on a 900V platform according to a job posting.  Can you i",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mweef2bnyw2w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-25T18:07:14.963Z",
+        "score": 5,
+        "snippet": "Rivian will be focused on a 900V platform according to a job posting. Can you imagine charging a 900V R2? \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "summary": "Rivian will be focused on a 900V platform according to a job posting. Can you imagine charging a 900V R2? \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
