@@ -139187,5 +139187,150 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-26T07:01:37.693572-07:00",
+    "timestamp": "2026-09-26T07:01:37.693572-07:00",
+    "sentiment": {
+      "positive": 16,
+      "neutral": 50,
+      "negative": 33
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Vehicle Demand"
+    ],
+    "summary": "6 signals across Vehicles (5), Competitive (1); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, September 26, 2026 \u2014 7:01 AM PT \u2014 6 signals \u00b7 1 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 5 Rivian signals clustered around Vehicles (5).\n\u2022 *Risk posture:* \ud83d\udfe0 ELEVATED with 2 negative signals; watch Vehicle Demand, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* The auto giant's North American EV plan faced another setback this week.\n  https://insideevs.com/news/809662/vw-ontario-battery-plant-delay/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (5)* \u2022 reddit_rivian_r2 signal: Picked up Rivian R2. No obvious issues.\n  https://www.reddit.com/r/RivianR2/comments/1wqf43v/picked_up_rivian_r2_no_obvious_issues/\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe0 ELEVATED_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Picked up Rivian R2. No obvious issues.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wqf43v/picked_up_rivian_r2_no_obvious_issues/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-26T02:38:22.864Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Picked up Rivian R2. No obvious issues.",
+        "summary": "reddit_rivian_r2 signal: Picked up Rivian R2. No obvious issues.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Volkswagen Delays Ontario Battery Plant",
+        "url": "https://insideevs.com/news/809662/vw-ontario-battery-plant-delay/",
+        "source": "insideevs",
+        "publishedAt": "Sat, 26 Sep 2026 10:00:00 +0000",
+        "score": 0,
+        "snippet": "The auto giant's North American EV plan faced another setback this week.",
+        "summary": "The auto giant's North American EV plan faced another setback this week.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@randyrnbla.bsky.social (Bluesky): My window is right now (Sept-Nov) so hopefully I will be getting my email to ord",
+        "url": "https://bsky.app/profile/did:plc:suknqdnajuo7o7ho6uh5pvxb/post/3mwgg2ea2222c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-26T13:42:22.957Z",
+        "score": 0,
+        "snippet": "My window is right now (Sept-Nov) so hopefully I will be getting my email to order my #Rivian #R2. I reserved on March 9, 2024!\ud83e\udd1e",
+        "summary": "My window is right now (Sept-Nov) so hopefully I will be getting my email to order my #Rivian #R2. I reserved on March 9, 2024!\ud83e\udd1e",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): It sounds like the system is showing installed chargers rather than current usag",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwgfzllyik2q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-26T13:41:56.763Z",
+        "score": 0,
+        "snippet": "It sounds like the system is showing installed chargers rather than current usage. Could you clarify if the charger status is being reported correctly in your vehicle's system or if there's a known li",
+        "summary": "It sounds like the system is showing installed chargers rather than current usage. Could you clarify if the charger status is being reported correctly in your vehicle's system or if there's a known li",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cybermaxtools.bsky.social (Bluesky): NHTSA published 7 vehicle and equipment recalls covering 124,562 units (2026-09-",
+        "url": "https://bsky.app/profile/did:plc:dtkscka5ps33u63abja5g7a5/post/3mwg6h3y2662o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-26T11:26:20.160Z",
+        "score": 1,
+        "snippet": "NHTSA published 7 vehicle and equipment recalls covering 124,562 units (2026-09-12 to 2026-09-18).",
+        "summary": "NHTSA published 7 vehicle and equipment recalls covering 124,562 units (2026-09-12 to 2026-09-18).",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): It sounds like the system is not accurately reflecting the actual number of char",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwfvtodsqa2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-26T08:52:18.459Z",
+        "score": 0,
+        "snippet": "It sounds like the system is not accurately reflecting the actual number of chargers in use. Could you clarify if the charger status is being reported correctly through the Rivian app or if there's a",
+        "summary": "It sounds like the system is not accurately reflecting the actual number of chargers in use. Could you clarify if the charger status is being reported correctly through the Rivian app or if there's a",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
