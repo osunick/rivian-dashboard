@@ -139332,5 +139332,273 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-27T11:01:34.275720-07:00",
+    "timestamp": "2026-09-27T11:01:34.275720-07:00",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 85,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_lucid": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 7,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (7), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, September 27, 2026 \u2014 11:01 AM PT \u2014 14 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 10 Rivian signals clustered around Vehicles (7), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* Mazda\u2019s CX-6e\n  https://electrek.co/2026/09/27/mazda-adds-lidar-to-cx-6e-rolls-out-self-driving-tech-in-china/\n\u2022 *Competitive Threats:* Here's what a Lucid Gravity would cost you for a month in California compared to the best-selling vehicle in America - supercarblondie.com\n  https://news.google.com/rss/articles/CBMifkFVX3lxTE1PWHVBQVJrZGZ5QUtxQVZaajBSeXdQekRSaUZfNXlYTm5wU0FPZkJEZ0tKa1pqaDd5czZSWi1uV2lBWGswRmk3ZGdUVWp0Qno2azgwUkxib01RM1J0TFJIdWxnTjhaMnlPUGhWd0ZsQVVLOGNiMUJIQk93NEl4dw?oc=5\n\u2022 *Competitive Threats:* Staggered Pilot Sports: how else does one really expect to put down 1025 hp and 1198 lb-ft? \ud83d\udcf7 Pentax K1000, 50mm f/2 \ud83c\udf9e\ufe0f Ilford XP2 #believeinfilm\n  https://bsky.app/profile/did:plc:23uwe5ziojmyopka6jykoh6g/post/3mwj2omepy22a\n\u2022 *Competitive Threats:* American EV starting MSRPs span key segments: \u200bBudget: Chevy Bolt ($28k) & Nissan Leaf ($30k) \u200bMid-Market SUVs & Sedans: Chevy Equinox EV ($35k), Tesla Model 3 ($38k), Hyundai Ioniq 5 ($36k), & Tesl\n  https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwiee2t3r22q\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: R2 test drive in Palo Alto: sluggish nav map on an early VIN demo car. Is this your experience?\n  https://www.reddit.com/r/RivianR2/comments/1wrpz7e/r2_test_drive_in_palo_alto_sluggish_nav_map_on_an/\n*Vehicles (7)* \u2022 reddit_rivian_r2 signal: No VIN email, but straight to purchasing notification!\n  https://www.reddit.com/r/RivianR2/comments/1wqzoik/no_vin_email_but_straight_to_purchasing/\n*Business (1)* \u2022 Rivian to report q3 production and delivery numbers this Friday. Stock about to break out. Buy this week!\n  https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mwinepuvu22m\n*Software (1)* \u2022 The stars aligned for this photo: a wild Rivian parked out front, the rotating bronco neon sign turned facing the camera, and two ravens flying by. \ud83d\udcf7 Pentax K1000, 50mm f/2 \ud83c\udf9e\ufe0f Ilford XP2 #believeinfil\n  https://bsky.app/profile/did:plc:23uwe5ziojmyopka6jykoh6g/post/3mwittvcbc22a\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R2 test drive in Palo Alto: sluggish nav map on an early VIN demo car. Is this your experience?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wrpz7e/r2_test_drive_in_palo_alto_sluggish_nav_map_on_an/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-27T17:22:53.921Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 test drive in Palo Alto: sluggish nav map on an early VIN demo car. Is this your experience?",
+        "summary": "reddit_rivian_r2 signal: R2 test drive in Palo Alto: sluggish nav map on an early VIN demo car. Is this your experience?",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "No VIN email, but straight to purchasing notification!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wqzoik/no_vin_email_but_straight_to_purchasing/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-26T19:44:45.434Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: No VIN email, but straight to purchasing notification!",
+        "summary": "reddit_rivian_r2 signal: No VIN email, but straight to purchasing notification!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Everyday Chris - Rivian R2 Was Built for Camping... So I Put it to the Test",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wrnuw4/everyday_chris_rivian_r2_was_built_for_camping_so/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-27T15:59:35.668Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Everyday Chris - Rivian R2 Was Built for Camping... So I Put it to the Test",
+        "summary": "reddit_electricvehicles signal: Everyday Chris - Rivian R2 Was Built for Camping... So I Put it to the Test",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Mazda adds LiDAR to CX-6e, rolls out \u201cself driving\u201d tech in China",
+        "url": "https://electrek.co/2026/09/27/mazda-adds-lidar-to-cx-6e-rolls-out-self-driving-tech-in-china/",
+        "source": "electrek",
+        "publishedAt": "Sun, 27 Sep 2026 16:40:43 +0000",
+        "score": 0,
+        "snippet": "Mazda\u2019s CX-6e",
+        "summary": "Mazda\u2019s CX-6e",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Here's what a Lucid Gravity would cost you for a month in California compared to the best-selling vehicle in America - supercarblondie.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PWHVBQVJrZGZ5QUtxQVZaajBSeXdQekRSaUZfNXlYTm5wU0FPZkJEZ0tKa1pqaDd5czZSWi1uV2lBWGswRmk3ZGdUVWp0Qno2azgwUkxib01RM1J0TFJIdWxnTjhaMnlPUGhWd0ZsQVVLOGNiMUJIQk93NEl4dw?oc=5",
+        "source": "google_news_lucid",
+        "publishedAt": "Sun, 27 Sep 2026 11:59:00 GMT",
+        "score": 0,
+        "snippet": "Here's what a Lucid Gravity would cost you for a month in California compared to the best-selling vehicle in America - supercarblondie.com",
+        "summary": "Here's what a Lucid Gravity would cost you for a month in California compared to the best-selling vehicle in America - supercarblondie.com",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@manykarz.bsky.social (Bluesky): Staggered Pilot Sports: how else does one really expect to put down 1025 hp and ",
+        "url": "https://bsky.app/profile/did:plc:23uwe5ziojmyopka6jykoh6g/post/3mwj2omepy22a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T14:57:00.864Z",
+        "score": 20,
+        "snippet": "Staggered Pilot Sports: how else does one really expect to put down 1025 hp and 1198 lb-ft? \ud83d\udcf7 Pentax K1000, 50mm f/2 \ud83c\udf9e\ufe0f Ilford XP2 #believeinfilm",
+        "summary": "Staggered Pilot Sports: how else does one really expect to put down 1025 hp and 1198 lb-ft? \ud83d\udcf7 Pentax K1000, 50mm f/2 \ud83c\udf9e\ufe0f Ilford XP2 #believeinfilm",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): Here is a wild Rivian quietly preying on some orange car.  \n(Nature is brutal)\n\n",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mwiyr2n2ck2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T14:22:32.659Z",
+        "score": 1,
+        "snippet": "Here is a wild Rivian quietly preying on some orange car. (Nature is brutal) youtu.be/NaErKs0RDT0?...",
+        "summary": "Here is a wild Rivian quietly preying on some orange car. (Nature is brutal) youtu.be/NaErKs0RDT0?...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@skandhurkat.bsky.social (Bluesky): I experienced this acceleration in my friend's Rivian (empty road, and we didn't",
+        "url": "https://bsky.app/profile/did:plc:ugyxnx6ecrucdmyqzxnegtck/post/3mwix54u74s2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T13:53:28.864Z",
+        "score": 1,
+        "snippet": "I experienced this acceleration in my friend's Rivian (empty road, and we didn't go past 30 mph). It is absolutely stupid \u2013 the acceleration is strong enough to move your insides, and you're so unpred",
+        "summary": "I experienced this acceleration in my friend's Rivian (empty road, and we didn't go past 30 mph). It is absolutely stupid \u2013 the acceleration is strong enough to move your insides, and you're so unpred",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): Nice to see a Rivian living free in its natural habitat.",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mwiwen634s2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T13:39:47.557Z",
+        "score": 1,
+        "snippet": "Nice to see a Rivian living free in its natural habitat.",
+        "summary": "Nice to see a Rivian living free in its natural habitat.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): It sounds like the system is showing installed chargers rather than current usag",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwivwrteiv2q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T13:32:03.070Z",
+        "score": 0,
+        "snippet": "It sounds like the system is showing installed chargers rather than current usage. Could you clarify if the charger status is being reported correctly in your vehicle's system or if there's a known li",
+        "summary": "It sounds like the system is showing installed chargers rather than current usage. Could you clarify if the charger status is being reported correctly in your vehicle's system or if there's a known li",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@citizenptnewsca.bsky.social (Bluesky): The planning commission is on board with the revised Rivian dealership project, ",
+        "url": "https://bsky.app/profile/did:plc:ln64ikjg6qe4wf2hcoykfgae/post/3mwituehtyt26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T12:54:53.872Z",
+        "score": 0,
+        "snippet": "The planning commission is on board with the revised Rivian dealership project, but crucial changes to parking and building height need careful documentation before moving forward. Get the details!",
+        "summary": "The planning commission is on board with the revised Rivian dealership project, but crucial changes to parking and building height need careful documentation before moving forward. Get the details!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@manykarz.bsky.social (Bluesky): The stars aligned for this photo: a wild Rivian parked out front, the rotating b",
+        "url": "https://bsky.app/profile/did:plc:23uwe5ziojmyopka6jykoh6g/post/3mwittvcbc22a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T12:54:42.468Z",
+        "score": 17,
+        "snippet": "The stars aligned for this photo: a wild Rivian parked out front, the rotating bronco neon sign turned facing the camera, and two ravens flying by. \ud83d\udcf7 Pentax K1000, 50mm f/2 \ud83c\udf9e\ufe0f Ilford XP2 #believeinfil",
+        "summary": "The stars aligned for this photo: a wild Rivian parked out front, the rotating bronco neon sign turned facing the camera, and two ravens flying by. \ud83d\udcf7 Pentax K1000, 50mm f/2 \ud83c\udf9e\ufe0f Ilford XP2 #believeinfil",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): Rivian to report q3 production and delivery numbers this Friday. Stock about to ",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mwinepuvu22m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T10:58:46.869Z",
+        "score": 1,
+        "snippet": "Rivian to report q3 production and delivery numbers this Friday. Stock about to break out. Buy this week!",
+        "summary": "Rivian to report q3 production and delivery numbers this Friday. Stock about to break out. Buy this week!",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): American EV starting MSRPs span key segments:\n\u200bBudget: Chevy Bolt ($28k) & Nissa",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwiee2t3r22q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T08:17:21.659Z",
+        "score": 0,
+        "snippet": "American EV starting MSRPs span key segments: \u200bBudget: Chevy Bolt ($28k) & Nissan Leaf ($30k) \u200bMid-Market SUVs & Sedans: Chevy Equinox EV ($35k), Tesla Model 3 ($38k), Hyundai Ioniq 5 ($36k), & Tesl",
+        "summary": "American EV starting MSRPs span key segments: \u200bBudget: Chevy Bolt ($28k) & Nissan Leaf ($30k) \u200bMid-Market SUVs & Sedans: Chevy Equinox EV ($35k), Tesla Model 3 ($38k), Hyundai Ioniq 5 ($36k), & Tesl",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      }
+    ]
   }
 ]
