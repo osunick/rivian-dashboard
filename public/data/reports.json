@@ -140422,5 +140422,249 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-28T15:01:34.902912-07:00",
+    "timestamp": "2026-09-28T15:01:34.902912-07:00",
+    "sentiment": {
+      "positive": 25,
+      "neutral": 75,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 5,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "12 signals across Vehicles (5), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 28, 2026 \u2014 3:01 PM PT \u2014 12 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 8 Rivian signals clustered around Vehicles (5), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* Tesla has \"made the difficult decision\" to postpone the Roadster reveal by two weeks, citing weather concerns.\n  https://insideevs.com/news/809920/tesla-roadster-reveal-event-delayed-october-15/\n\u2022 *Competitive Threats:* In a recent interview, BYD's Stella Li said that the company will \"have one model\" with solid-state batteries next year.\n  https://insideevs.com/news/809893/byd-solid-state-battery-2027/\n\u2022 *Competitive Threats:* Toyota's North American product planning boss is feeling vindicated right now.\n  https://insideevs.com/news/809894/toyota-america-evs-executive-interview/\n\u2022 *Competitive Threats:* <p c\n  https://electrek.co/2026/09/28/tesla-roadster-demo-delayed-october-15-weather/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 Absolutely. We have two EVs in our garage and love them both (a Rivian and a Volvo). Also can't wait to get my hands on an @aptera.us that doesn't just plug in, but can charge its battery via integrat\n  https://bsky.app/profile/did:plc:e43utgt7y24wbvuxbyjfhvbe/post/3mwlyatdy4c2j\n*Vehicles (5)* \u2022 reddit_rivian_r2 signal: R1S tri loaner\n  https://www.reddit.com/r/RivianR2/comments/1wsqvg1/r1s_tri_loaner/\n*Business (1)* \u2022 Rivian Automotive (NASDAQ:RIVN) Stock Price Down 4.4% - What's Next? - MarketBeat\n  https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHhVQlB5UjdkOGZjcUhCYkxZTUtmLVRZVUYyUXFYY3NNZzJEX0dOeE1HTzJoM1dCaFZKNmttRU04eDI2dml0RGxnT2tVRGRXMC1YeXJLdlVETVJCZnFzRVc5VVRPRnRpSDNMTDZXNDZkV0dRVGZadFh6UXhlVVJQWl83djdNRk1BTDFzeERUQ0VEQWdTV1hhZWlDVnlpNUwxU0dQdHdPenNTbkJDWWdyaE55Y1JNWXJUSDlnMQ?oc=5\n*Software (1)* \u2022 Rivian has to reached out to me and informed me that as of right now, only 14 R2 vehicles are being impacted. If anything changes, I\u2019ll update you!\n  https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwlvswl4ls2x\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R1S tri loaner",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wsqvg1/r1s_tri_loaner/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-28T21:04:16.823Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R1S tri loaner",
+        "summary": "reddit_rivian_r2 signal: R1S tri loaner",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian, can you please give us some clarity on the R2 Gen 3 transition?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wsnz55/rivian_can_you_please_give_us_some_clarity_on_the/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-28T19:17:36.452Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Rivian, can you please give us some clarity on the R2 Gen 3 transition?",
+        "summary": "reddit_rivian_r2 signal: Rivian, can you please give us some clarity on the R2 Gen 3 transition?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Tesla Roadster Reveal Just Got Delayed",
+        "url": "https://insideevs.com/news/809920/tesla-roadster-reveal-event-delayed-october-15/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 28 Sep 2026 19:49:03 +0000",
+        "score": 0,
+        "snippet": "Tesla has \"made the difficult decision\" to postpone the Roadster reveal by two weeks, citing weather concerns.",
+        "summary": "Tesla has \"made the difficult decision\" to postpone the Roadster reveal by two weeks, citing weather concerns.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD Will Put Solid-State Batteries In An EV Next Year: Executive",
+        "url": "https://insideevs.com/news/809893/byd-solid-state-battery-2027/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 28 Sep 2026 19:15:44 +0000",
+        "score": 0,
+        "snippet": "In a recent interview, BYD's Stella Li said that the company will \"have one model\" with solid-state batteries next year.",
+        "summary": "In a recent interview, BYD's Stella Li said that the company will \"have one model\" with solid-state batteries next year.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "A \u2018Roller Coaster Ride\u2019: What Toyota Got Right (And Wrong) About EVs, According To An Executive",
+        "url": "https://insideevs.com/news/809894/toyota-america-evs-executive-interview/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 28 Sep 2026 18:31:13 +0000",
+        "score": 0,
+        "snippet": "Toyota's North American product planning boss is feeling vindicated right now.",
+        "summary": "Toyota's North American product planning boss is feeling vindicated right now.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla delays Roadster demo two weeks to October 15, blames weather",
+        "url": "https://electrek.co/2026/09/28/tesla-roadster-demo-delayed-october-15-weather/",
+        "source": "electrek",
+        "publishedAt": "Mon, 28 Sep 2026 19:22:58 +0000",
+        "score": 0,
+        "snippet": "<p c",
+        "summary": "<p c",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 4.4% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHhVQlB5UjdkOGZjcUhCYkxZTUtmLVRZVUYyUXFYY3NNZzJEX0dOeE1HTzJoM1dCaFZKNmttRU04eDI2dml0RGxnT2tVRGRXMC1YeXJLdlVETVJCZnFzRVc5VVRPRnRpSDNMTDZXNDZkV0dRVGZadFh6UXhlVVJQWl83djdNRk1BTDFzeERUQ0VEQWdTV1hhZWlDVnlpNUwxU0dQdHdPenNTbkJDWWdyaE55Y1JNWXJUSDlnMQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 28 Sep 2026 21:54:39 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 4.4% - What's Next? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 4.4% - What's Next? - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian controller follows CFO out door - CFO Dive",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GSFVSejNDQ2hIb3E0WWhrM3FRN3Jtc093SGVOQVIxS1RGWGxWN013WXlIUlh5Wm9mWmJTZnVqcjBKUERQMkQ4R3RUcTR3czVaQTh2UUsyRjV1d2Q5YkJHOHZJUnNyVmR6X2xsN01fRVVmaHdEU2VRWnFHUQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 28 Sep 2026 20:47:41 GMT",
+        "score": 0,
+        "snippet": "Rivian controller follows CFO out door - CFO Dive",
+        "summary": "Rivian controller follows CFO out door - CFO Dive",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@nicktsiopanas.bsky.social (Bluesky): Absolutely. We have two EVs in our garage and love them both (a Rivian and a Vol",
+        "url": "https://bsky.app/profile/did:plc:e43utgt7y24wbvuxbyjfhvbe/post/3mwlyatdy4c2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T18:51:32.061Z",
+        "score": 0,
+        "snippet": "Absolutely. We have two EVs in our garage and love them both (a Rivian and a Volvo). Also can't wait to get my hands on an @aptera.us that doesn't just plug in, but can charge its battery via integrat",
+        "summary": "Absolutely. We have two EVs in our garage and love them both (a Rivian and a Volvo). Also can't wait to get my hands on an @aptera.us that doesn't just plug in, but can charge its battery via integrat",
+        "category": "demo_drives",
+        "sentiment": "positive",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): It sounds like the system is not accurately reflecting the actual number of char",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwlw3he42d2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T18:12:37.966Z",
+        "score": 0,
+        "snippet": "It sounds like the system is not accurately reflecting the actual number of chargers in use. Could you clarify if the charger status is being reported correctly through the Rivian app or if there's a",
+        "summary": "It sounds like the system is not accurately reflecting the actual number of chargers in use. Could you clarify if the charger status is being reported correctly through the Rivian app or if there's a",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian has to reached out to me and informed me that as of right now, only 14 R2",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwlvswl4ls2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T18:07:52.158Z",
+        "score": 9,
+        "snippet": "Rivian has to reached out to me and informed me that as of right now, only 14 R2 vehicles are being impacted. If anything changes, I\u2019ll update you!",
+        "summary": "Rivian has to reached out to me and informed me that as of right now, only 14 R2 vehicles are being impacted. If anything changes, I\u2019ll update you!",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): At this point I just go \u201cthat\u2019s so Rivian\u201d",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mwlvmoe55s26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T18:04:23.462Z",
+        "score": 3,
+        "snippet": "At this point I just go \u201cthat\u2019s so Rivian\u201d",
+        "summary": "At this point I just go \u201cthat\u2019s so Rivian\u201d",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
