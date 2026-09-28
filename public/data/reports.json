@@ -139600,5 +139600,278 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-27T19:01:38.760776-07:00",
+    "timestamp": "2026-09-27T19:01:38.760776-07:00",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 85,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 10,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 9,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "R2 Launch",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (9), Competitive (2); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, September 27, 2026 \u2014 7:01 PM PT \u2014 14 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 12 Rivian signals clustered around Vehicles (9), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Geely is buying into\n  https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/\n\u2022 *Competitive Threats:* One of the big factors in my choosing the IONIQ 5 was that, while it was a first year product, it was from a globally competitive carmaker that sells millions of cars a year and knows how to build the\n  https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mwjvjujwc22p\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 Test driving a Rivian tomorrow. My ID4 lease is up in November.\n  https://bsky.app/profile/did:plc:jat6ewn22ijhxsexiu24vvxt/post/3mwjvhnpd222l\n*Vehicles (9)* \u2022 reddit_rivian_r2 signal: Issues with Polarized Sunglasses?\n  https://www.reddit.com/r/RivianR2/comments/1wrrnek/issues_with_polarized_sunglasses/\n*Business (1)* \u2022 cnbc signal: China posts weakest industrial profit growth this year, expanding 4.2% in August\n  https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 apple.news/A2LXC8FwRSUO...\n  https://bsky.app/profile/did:plc:6zykijfvquv5zdjvkxd2e2fa/post/3mwjfnhkjrc2i\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Issues with Polarized Sunglasses?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wrrnek/issues_with_polarized_sunglasses/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-27T18:28:49.987Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Issues with Polarized Sunglasses?",
+        "summary": "reddit_rivian_r2 signal: Issues with Polarized Sunglasses?",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+        "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: China posts weakest industrial profit growth this year, expanding 4.2% in August",
+        "summary": "cnbc signal: China posts weakest industrial profit growth this year, expanding 4.2% in August",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "NIO sells 30% of battery swap unit to Geely at more than $2 billion",
+        "url": "https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/",
+        "source": "electrek",
+        "publishedAt": "Mon, 28 Sep 2026 01:08:29 +0000",
+        "score": 0,
+        "snippet": "Geely is buying into",
+        "summary": "Geely is buying into",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian R2 Set To Disrupt America\u2019s EV Market - Yahoo News Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zMEQ3dXVHUU1JcmV4RHNLazJzdzEtRzZsaW04M1NCS005aDI2WmJ4MmRjdXZWeVN1aGFEcmFXakpVLVBmRnZZVnNpQ0xXc1N3UzRPTUpNalE0a3lsMDI0bUVzZ285eWVCemtYajNiVG4wdTJ5b015RVNn?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Sun, 27 Sep 2026 16:08:07 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Set To Disrupt America\u2019s EV Market - Yahoo News Singapore",
+        "summary": "Rivian R2 Set To Disrupt America\u2019s EV Market - Yahoo News Singapore",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@demodad.bsky.social (Bluesky): I had no idea they had a stake in Rivian",
+        "url": "https://bsky.app/profile/did:plc:ke4ki5ik252kdxkixzoddrk4/post/3mwk5t2fduk2s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T01:25:47.261Z",
+        "score": 0,
+        "snippet": "I had no idea they had a stake in Rivian",
+        "summary": "I had no idea they had a stake in Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mistykitty3.bsky.social (Bluesky): Doesn't know they are worldwide, & Amazon owns a ton of companies, Zappos, GrubH",
+        "url": "https://bsky.app/profile/did:plc:fzczh5skw2ivqbpitgceokfq/post/3mwk5555jnk2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T01:13:31.958Z",
+        "score": 0,
+        "snippet": "Doesn't know they are worldwide, & Amazon owns a ton of companies, Zappos, GrubHub, Woot, IMDB, Whole Foods, Egghead, a stake in Rivian, the list is long.",
+        "summary": "Doesn't know they are worldwide, & Amazon owns a ton of companies, Zappos, GrubHub, Woot, IMDB, Whole Foods, Egghead, a stake in Rivian, the list is long.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hubrisdog.bsky.social (Bluesky): Moab Day 1:\nHells gate done and dusted in the Rivian!",
+        "url": "https://bsky.app/profile/did:plc:eg55tlu6gldltmfxoii3g423/post/3mwk4sso2mc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T01:07:54.159Z",
+        "score": 7,
+        "snippet": "Moab Day 1: Hells gate done and dusted in the Rivian!",
+        "summary": "Moab Day 1: Hells gate done and dusted in the Rivian!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@misscanada888.bsky.social (Bluesky): What do you think of Rivian? I was interested in Polestar but heard awful things",
+        "url": "https://bsky.app/profile/did:plc:ksuseptaytbn7mrfnav5igbx/post/3mwjzuyn7g226",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T00:15:16.962Z",
+        "score": 0,
+        "snippet": "What do you think of Rivian? I was interested in Polestar but heard awful things from past owners & I refuse to buy a Tesla.",
+        "summary": "What do you think of Rivian? I was interested in Polestar but heard awful things from past owners & I refuse to buy a Tesla.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@charlierichmond.bsky.social (Bluesky): Rivian R2 and Tesla Model Y face a shrinking price gap \u2013 EV Smarts evsmarts.com/",
+        "url": "https://bsky.app/profile/did:plc:qf326qqj6z6axummja52dzpq/post/3mwjyyio4222n",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T23:59:21.861Z",
+        "score": 1,
+        "snippet": "Rivian R2 and Tesla Model Y face a shrinking price gap \u2013 EV Smarts evsmarts.com/rivian-r2-an...",
+        "summary": "Rivian R2 and Tesla Model Y face a shrinking price gap \u2013 EV Smarts evsmarts.com/rivian-r2-an...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Kids (not just @Hilbe) can easily climb the brush guard to get into the Rivian R",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mwjvppron62o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T23:00:45.859Z",
+        "score": 2,
+        "snippet": "Kids (not just @Hilbe) can easily climb the brush guard to get into the Rivian R1T frunk. We use it reach the bottom of the frunk. Jo thought it was fun.",
+        "summary": "Kids (not just @Hilbe) can easily climb the brush guard to get into the Rivian R1T frunk. We use it reach the bottom of the frunk. Jo thought it was fun.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): One of the big factors in my choosing the IONIQ 5 was that, while it was a first",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mwjvjujwc22p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T22:57:29.768Z",
+        "score": 8,
+        "snippet": "One of the big factors in my choosing the IONIQ 5 was that, while it was a first year product, it was from a globally competitive carmaker that sells millions of cars a year and knows how to build the",
+        "summary": "One of the big factors in my choosing the IONIQ 5 was that, while it was a first year product, it was from a globally competitive carmaker that sells millions of cars a year and knows how to build the",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@bfunctionalpottery.bsky.social (Bluesky): Test driving a Rivian tomorrow. My ID4 lease is up in November.",
+        "url": "https://bsky.app/profile/did:plc:jat6ewn22ijhxsexiu24vvxt/post/3mwjvhnpd222l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T22:56:14.659Z",
+        "score": 0,
+        "snippet": "Test driving a Rivian tomorrow. My ID4 lease is up in November.",
+        "summary": "Test driving a Rivian tomorrow. My ID4 lease is up in November.",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): It sounds like the system is showing installed chargers rather than current usag",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mwjg53gyws2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T18:21:53.366Z",
+        "score": 0,
+        "snippet": "It sounds like the system is showing installed chargers rather than current usage. Could you clarify if the charger status is being reported correctly in your vehicle's system or if there's a known li",
+        "summary": "It sounds like the system is showing installed chargers rather than current usage. Could you clarify if the charger status is being reported correctly in your vehicle's system or if there's a known li",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jimrissmiller.bsky.social (Bluesky): apple.news/A2LXC8FwRSUO...",
+        "url": "https://bsky.app/profile/did:plc:6zykijfvquv5zdjvkxd2e2fa/post/3mwjfnhkjrc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-27T18:13:10.857Z",
+        "score": 1,
+        "snippet": "apple.news/A2LXC8FwRSUO...",
+        "summary": "apple.news/A2LXC8FwRSUO...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
