@@ -139873,5 +139873,554 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-28T11:01:41.756768-07:00",
+    "timestamp": "2026-09-28T11:01:41.756768-07:00",
+    "sentiment": {
+      "positive": 15,
+      "neutral": 81,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "nytimes_business": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "electrek": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 13,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 17,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 4,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Charging",
+      "Community Signals",
+      "Competitive Threats",
+      "R2 Launch",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "32 signals across Vehicles (17), Competitive (6); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 28, 2026 \u2014 11:01 AM PT \u2014 32 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 26 Rivian signals clustered around Vehicles (17), Community (4).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Competitive Threats:* Nio's swap network only pays off at high utilisation, and folding in Geely's vehicles could help it get there faster. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/geely-takes-30-stake-in-nios-battery-swap-unit/\n\u2022 *Competitive Threats:* The second-generation BYD Seagull, also known as the Dolphin Surf, flips the script in the specs department.\n  https://insideevs.com/news/809788/new-byd-seagull-dolphin-surf-5-minute-charging/\n\u2022 *Competitive Threats:* Wall S\n  https://electrek.co/2026/09/28/tesla-q3-2026-delivery-estimates-wall-street-split/\n\u2022 *Competitive Threats:* T\n  https://electrek.co/2026/09/28/byd-overhauling-cheapest-ev-bigger/\n\u2022 *Competitive Threats:* Tesla is warning guests\n  https://electrek.co/2026/09/28/tesla-roadster-demo-weather-delay-warning/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (17)* \u2022 reddit_rivian_r2 signal: First EV!\n  https://www.reddit.com/r/RivianR2/comments/1wslk18/first_ev/\n*Business (3)* \u2022 98,828 Reasons to Sell Rivian Stock - Barchart.com\n  https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFJmOW5OU2xMVHFTQndDcjg5UFNHZmZGeG5qNElsbDNGVEtKQVQyaVdqNmxOeVRfWVh2a1diQUFUcTFNRGk2dkEzbXFCN0JWc25kS1R3eWlqQVlsNWtkSUhZNm1WM1JHdE1VRWZPbkQ4X0JkQVMyakV1N25nYXVNT0JNNnpVUQ?oc=5\n*Software (2)* \u2022 The Rivian headlights are a non-starter for me. Bummer because the rest of the design is pretty hot and I love electric cars. I just can\u2019t do the Bugs Bunny shit.\n  https://bsky.app/profile/did:plc:nxkhfjzmhpa7zwmfrx2c64et/post/3mwlefds5r225\n*Community (4)* \u2022 reddit_selfdrivingcars signal: Momenta to develop advanced driver assistance for Peugeot, Jeep in China and overseas\n  https://www.reddit.com/r/SelfDrivingCars/comments/1ws6smz/momenta_to_develop_advanced_driver_assistance_for/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Charging\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 R2 Launch\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "First EV!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wslk18/first_ev/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-28T17:50:01.004Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: First EV!",
+        "summary": "reddit_rivian_r2 signal: First EV!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Motion/Car Sickness & interior durability with pets",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wskqr5/motioncar_sickness_interior_durability_with_pets/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-28T17:20:22.676Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Motion/Car Sickness & interior durability with pets",
+        "summary": "reddit_rivian_r2 signal: Motion/Car Sickness & interior durability with pets",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Insights from renting a R1S?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wsg8ik/insights_from_renting_a_r1s/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-28T14:32:23.865Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Insights from renting a R1S?",
+        "summary": "reddit_rivian_r2 signal: Insights from renting a R1S?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The argument against EVs in the USA",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wshmwp/the_argument_against_evs_in_the_usa/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-28T15:26:41.038Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: The argument against EVs in the USA",
+        "summary": "reddit_electricvehicles signal: The argument against EVs in the USA",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Momenta to develop advanced driver assistance for Peugeot, Jeep in China and overseas",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1ws6smz/momenta_to_develop_advanced_driver_assistance_for/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-09-28T06:12:53.558Z",
+        "score": 0,
+        "snippet": "reddit_selfdrivingcars signal: Momenta to develop advanced driver assistance for Peugeot, Jeep in China and overseas",
+        "summary": "reddit_selfdrivingcars signal: Momenta to develop advanced driver assistance for Peugeot, Jeep in China and overseas",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Two of China\u2019s EV Makers Announce a Deal as Auto Industry Moves Toward Consolidation",
+        "url": "https://www.nytimes.com/2026/09/28/business/china-ev-geely-nio.html",
+        "source": "nytimes_business",
+        "publishedAt": "Mon, 28 Sep 2026 16:46:59 +0000",
+        "score": 0,
+        "snippet": "Two of the country\u2019s leading makers of electric vehicles announced they are merging their battery swapping and charging operations.",
+        "summary": "Two of the country\u2019s leading makers of electric vehicles announced they are merging their battery swapping and charging operations.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Geely takes 30% stake in Nio\u2019s battery swap unit",
+        "url": "https://www.automotiveworld.com/news/geely-takes-30-stake-in-nios-battery-swap-unit/",
+        "source": "automotive_world",
+        "publishedAt": "Mon, 28 Sep 2026 11:44:41 +0000",
+        "score": 0,
+        "snippet": "Nio's swap network only pays off at high utilisation, and folding in Geely's vehicles could help it get there faster. By Stewart Burnett The post <a href=\"",
+        "summary": "Nio's swap network only pays off at high utilisation, and folding in Geely's vehicles could help it get there faster. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD\u2019s $10,000 EV Is Getting A Huge Upgrade, With 5-Minute Charging",
+        "url": "https://insideevs.com/news/809788/new-byd-seagull-dolphin-surf-5-minute-charging/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 28 Sep 2026 08:57:21 +0000",
+        "score": 0,
+        "snippet": "The second-generation BYD Seagull, also known as the Dolphin Surf, flips the script in the specs department.",
+        "summary": "The second-generation BYD Seagull, also known as the Dolphin Surf, flips the script in the specs department.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla (TSLA) Q3 2026 delivery estimates range from 422,000 to 482,000",
+        "url": "https://electrek.co/2026/09/28/tesla-q3-2026-delivery-estimates-wall-street-split/",
+        "source": "electrek",
+        "publishedAt": "Mon, 28 Sep 2026 16:33:05 +0000",
+        "score": 0,
+        "snippet": "Wall S",
+        "summary": "Wall S",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD is overhauling its cheapest EV, and it\u2019s bigger than expected",
+        "url": "https://electrek.co/2026/09/28/byd-overhauling-cheapest-ev-bigger/",
+        "source": "electrek",
+        "publishedAt": "Mon, 28 Sep 2026 16:29:06 +0000",
+        "score": 0,
+        "snippet": "T",
+        "summary": "T",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Omoda & Jaecoo confirm Canada launch in late 2026: here\u2019s the EV lineup",
+        "url": "https://electrek.co/2026/09/28/omoda-jaecoo-canada-launch-late-2026-ev-lineup/",
+        "source": "electrek",
+        "publishedAt": "Mon, 28 Sep 2026 14:51:52 +0000",
+        "score": 0,
+        "snippet": "<p clas",
+        "summary": "<p clas",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla warns weather could delay Roadster demo, and the forecast is ugly",
+        "url": "https://electrek.co/2026/09/28/tesla-roadster-demo-weather-delay-warning/",
+        "source": "electrek",
+        "publishedAt": "Mon, 28 Sep 2026 13:50:37 +0000",
+        "score": 0,
+        "snippet": "Tesla is warning guests",
+        "summary": "Tesla is warning guests",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "98,828 Reasons to Sell Rivian Stock - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFJmOW5OU2xMVHFTQndDcjg5UFNHZmZGeG5qNElsbDNGVEtKQVQyaVdqNmxOeVRfWVh2a1diQUFUcTFNRGk2dkEzbXFCN0JWc25kS1R3eWlqQVlsNWtkSUhZNm1WM1JHdE1VRWZPbkQ4X0JkQVMyakV1N25nYXVNT0JNNnpVUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 28 Sep 2026 11:15:02 GMT",
+        "score": 0,
+        "snippet": "98,828 Reasons to Sell Rivian Stock - Barchart.com",
+        "summary": "98,828 Reasons to Sell Rivian Stock - Barchart.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Is Rivian Stock Riskier Than It Looks? - trefis.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnIyd2c1Zkk1eVVqWjZQbHg3aEp0MjBoR195UmdqaHB6RXpIbG9RNFRBRXNKMWMzaWQ4OFVLYTBEYmN1UF9LR2hKUXlHSEdBOU5KOEs5dFN1WWIyWlpncWtZZy02MU5UVFpBcndyUlB0NW05cm1ybUwzV0lvVUhiMkFRZGhsTE9DVF91MEFuUk1yd3R0VUV1YUozT2V5cWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 28 Sep 2026 14:15:54 GMT",
+        "score": 0,
+        "snippet": "Is Rivian Stock Riskier Than It Looks? - trefis.com",
+        "summary": "Is Rivian Stock Riskier Than It Looks? - trefis.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Lucid vs. Rivian Automotive: Which Electric Vehicle Stock Is a Better Buy in 2026? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdXc5VmRfQzNrZl9iUjlRbUJoc2VzWGNIeGxuWGp4WnFua3dpZ0E5MkhEN0RsWUFNZ18wNDdiZVB6UG8xZnlULW5nUWl5a25EaVdYVGZEOFpvNVRud3BDTGFYdHhJbmlSdTF3cEMtdjZMbXJXWkNzNEV6TU92U0lIdlJJR2ZjNTBQSUJrR1JfcW9tUnRVbXktTEdpUFY2MTRDRGc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 28 Sep 2026 12:02:34 GMT",
+        "score": 0,
+        "snippet": "Lucid vs. Rivian Automotive: Which Electric Vehicle Stock Is a Better Buy in 2026? - Yahoo Finance",
+        "summary": "Lucid vs. Rivian Automotive: Which Electric Vehicle Stock Is a Better Buy in 2026? - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (RIVN) Reiterated at Neutral by Cantor Fitzgerald as Customer Demand Boost Likely - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcGhvUEJUQjFPTlVsWHVKT2NHak95NEpuQXNRNUpVdXlvRGpOdUZyaHdhZTlhektSV0ZldEtDcDB2WEdqaVJoQ1FqSldkZkE1enQ4RzI0dk83ZTc1UWVoZ2hRQUlFV1lfVEEtenZFWVR5SkJGOTFleHRpS29jUlh3Y3VYeUc2ME5KY1RaaEM1OGxDemxtYnd1eXNIX1JjRmJLMVlNbllIYnA3NGJ3NV9QbERpZWUtNE5tRDF2UVRVak5IZnpmVkJfelA1YnlkMENnUmxnZTJwS0RNVmhpbjJGUnZsNW91TElNekNjNmVCb0pSSDNQcjBR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 28 Sep 2026 11:15:03 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (RIVN) Reiterated at Neutral by Cantor Fitzgerald as Customer Demand Boost Likely - StreetInsider",
+        "summary": "Rivian Automotive (RIVN) Reiterated at Neutral by Cantor Fitzgerald as Customer Demand Boost Likely - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Sentinel Colorado",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGE5VjJ6eW1KVGxRaWJkV2RiWWlGVU13Z3VSRDFBT3puTWUtWVpMZDU3NHM0b2FydEluSDhiLWNUdS1VZ2tsYUJRbUZwdzRjdzBHNENoelZLc3ZIRy00U25RXzNUUzZjWlpuaTVETmNBX2xiV0ZGdG1RdlJLUHJjeW1WdFgxa210Mi1WTG1XNldQSWZfS0xNU09XaS1SR0lpX0NwOGtR?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 28 Sep 2026 12:19:24 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Sentinel Colorado",
+        "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Sentinel Colorado",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Seattle Daily Journal of Commerce",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSWxhRXRaR093MnpNZnFvWUdpakE2QnB3RUJXc01wbXpsVmd1UnhIc3F0M0E5b1l3LVkxcUNnaEducXBuWnRuRnJpQXBzU0ViUmlv?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Mon, 28 Sep 2026 07:10:24 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Seattle Daily Journal of Commerce",
+        "summary": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Seattle Daily Journal of Commerce",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "EU vote on Tesla FSD not expected before December - electrive.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUE1XdGg5UTIzUEZXVEdtZ0JwUFZ6X1dQQ1dvYXlBbU83dDBfbjZTNlNwb2hoUkgzeW84ZWFHV2FXMlJ2YW9ZNVhKWmFEb1hMM3E5ZGZZWjJoUGR2d0QwbUVIRjZIWHJVMFVnTG5BcVBqY1RqRVFCNHU4V284TDRvQlhlYk5GRjNmMFFjN1Ytam0?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Mon, 28 Sep 2026 10:30:00 GMT",
+        "score": 0,
+        "snippet": "EU vote on Tesla FSD not expected before December - electrive.com",
+        "summary": "EU vote on Tesla FSD not expected before December - electrive.com",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@luisvaldes.eurosky.social (Bluesky): www.aboutamazon.com/news/transpo...",
+        "url": "https://bsky.app/profile/did:plc:n3vhibmhccmz3gjozklxnsqu/post/3mwluznjpns2z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T17:53:43.960Z",
+        "score": 0,
+        "snippet": "www.aboutamazon.com/news/transpo...",
+        "summary": "www.aboutamazon.com/news/transpo...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@luisvaldes.eurosky.social (Bluesky): Es s\u00f3lo la \u00faltima noticia, est\u00e1n adquiriendo muchos m\u00e1s, por no hablar que son g",
+        "url": "https://bsky.app/profile/did:plc:n3vhibmhccmz3gjozklxnsqu/post/3mwluyczuz22z",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T17:53:04.371Z",
+        "score": 0,
+        "snippet": "Es s\u00f3lo la \u00faltima noticia, est\u00e1n adquiriendo muchos m\u00e1s, por no hablar que son grandes accionistas en Rivian donde hacen sus furgonetas de reparto de las que ya tienen 40.000",
+        "summary": "Es s\u00f3lo la \u00faltima noticia, est\u00e1n adquiriendo muchos m\u00e1s, por no hablar que son grandes accionistas en Rivian donde hacen sus furgonetas de reparto de las que ya tienen 40.000",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@uclalawemmett.bsky.social (Bluesky): The final DOT rule deals a blow to companies like Tesla, Rivian, and Lucid, whic",
+        "url": "https://bsky.app/profile/did:plc:q7wp74g2rscptcondkddt6bf/post/3mwlubnak332s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T17:40:19.987Z",
+        "score": 0,
+        "snippet": "The final DOT rule deals a blow to companies like Tesla, Rivian, and Lucid, which manufacture entirely electric vehicles. DOT\u2019s new rule eliminates credit trading, so that manufacturers can no longer",
+        "summary": "The final DOT rule deals a blow to companies like Tesla, Rivian, and Lucid, which manufacture entirely electric vehicles. DOT\u2019s new rule eliminates credit trading, so that manufacturers can no longer",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tiltedtimes.org (Bluesky): Read full article here: https://tiltedtimes.org/rivian-r2-review-tesla-model-y-b",
+        "url": "https://bsky.app/profile/did:plc:i26lajrgw7a4265yarkxj3ke/post/3mwlpaspxdx2o",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T16:10:21.658Z",
+        "score": 0,
+        "snippet": "Read full article here:",
+        "summary": "Read full article here:",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tiltedtimes.org (Bluesky): Did you know? The Rivian R2 isn\u2019t just chasing Tesla Model Y buyers, it\u2019s adding",
+        "url": "https://bsky.app/profile/did:plc:i26lajrgw7a4265yarkxj3ke/post/3mwlparv5fr2x",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T16:10:20.863Z",
+        "score": 0,
+        "snippet": "Did you know? The Rivian R2 isn\u2019t just chasing Tesla Model Y buyers, it\u2019s adding a tougher shape and off-road ability to the compact EV formula. #TiltedTimes #Tesla #Rangecharging",
+        "summary": "Did you know? The Rivian R2 isn\u2019t just chasing Tesla Model Y buyers, it\u2019s adding a tougher shape and off-road ability to the compact EV formula. #TiltedTimes #Tesla #Rangecharging",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@ballparkmath.bsky.social (Bluesky): Same car, two markets \u2014 the Rivian R1T:\nUnited States \u2248$79,990 vs Canada \u2248$102,5",
+        "url": "https://bsky.app/profile/did:plc:ytykhn7tx2ge3ypf7b5ox2gx/post/3mwlopn436y2h",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T16:00:46.663Z",
+        "score": 1,
+        "snippet": "Same car, two markets \u2014 the Rivian R1T: United States \u2248$79,990 vs Canada \u2248$102,517 USD a $22,527 (28%) list-price gap at the Sep 27 exchange rate. Compare \u2192 cars.ballparkmath.ca/compare #cars #carpric",
+        "summary": "Same car, two markets \u2014 the Rivian R1T: United States \u2248$79,990 vs Canada \u2248$102,517 USD a $22,527 (28%) list-price gap at the Sep 27 exchange rate. Compare \u2192 cars.ballparkmath.ca/compare #cars #carpric",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@alva.bsky.social (Bluesky): That second photo should be a Rivian ad!",
+        "url": "https://bsky.app/profile/did:plc:ivfjy74oeljpfkr3gpjf4ge7/post/3mwlnwpzv5k23",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T15:46:49.568Z",
+        "score": 1,
+        "snippet": "That second photo should be a Rivian ad!",
+        "summary": "That second photo should be a Rivian ad!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@juicegang.bsky.social (Bluesky): The Rivian headlights are a non-starter for me. Bummer because the rest of the d",
+        "url": "https://bsky.app/profile/did:plc:nxkhfjzmhpa7zwmfrx2c64et/post/3mwlefds5r225",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T12:56:02.761Z",
+        "score": 0,
+        "snippet": "The Rivian headlights are a non-starter for me. Bummer because the rest of the design is pretty hot and I love electric cars. I just can\u2019t do the Bugs Bunny shit.",
+        "summary": "The Rivian headlights are a non-starter for me. Bummer because the rest of the design is pretty hot and I love electric cars. I just can\u2019t do the Bugs Bunny shit.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@rivian4life.bsky.social (Bluesky): eletric-vehicles.com/rivian/rivia...",
+        "url": "https://bsky.app/profile/did:plc:dwojlgrmiyr5wg7gdywn2e3s/post/3mwlczfhlq22p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T12:31:29.557Z",
+        "score": 0,
+        "snippet": "eletric-vehicles.com/rivian/rivia...",
+        "summary": "eletric-vehicles.com/rivian/rivia...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Key positive traits of the Rivian R2 (starting around $45,000):  \n\u200bSolid Range: ",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwlc3bgmqc26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T12:14:38.757Z",
+        "score": 0,
+        "snippet": "Key positive traits of the Rivian R2 (starting around $45,000): \u200bSolid Range: Up to 300+ miles on a single charge. \u200bGreat Utility: 90+ cu-ft of total storage, massive frunk, fold-flat front/rear s",
+        "summary": "Key positive traits of the Rivian R2 (starting around $45,000): \u200bSolid Range: Up to 300+ miles on a single charge. \u200bGreat Utility: 90+ cu-ft of total storage, massive frunk, fold-flat front/rear s",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Yes. California has the engineering, supplier base, and funding capacity to buil",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwl3ljq2qc26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T10:18:26.958Z",
+        "score": 0,
+        "snippet": "Yes. California has the engineering, supplier base, and funding capacity to build its own EV\u2014similar to Project Arrow\u2014by combining California Energy Commission grants, local research hubs, and in-stat",
+        "summary": "Yes. California has the engineering, supplier base, and funding capacity to build its own EV\u2014similar to Project Arrow\u2014by combining California Energy Commission grants, local research hubs, and in-stat",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@schmidtisblog.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:ujuit2bewatz6cjp6ofeux3m/post/3mwkxt2afof27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T09:11:04.865Z",
+        "score": 0,
+        "snippet": "bluesky signal: @schmidtisblog.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @schmidtisblog.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Rivian ended its exclusivity deal with Amazon in 2023 to sell commercial vans to",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwkwdfp7bk26",
+        "source": "bluesky",
+        "publishedAt": "2026-09-28T08:44:25.758Z",
+        "score": 0,
+        "snippet": "Rivian ended its exclusivity deal with Amazon in 2023 to sell commercial vans to other fleet buyers (like AT&T). Its long-term survival hinges on its consumer vehicles (R1T, R1S, and the affordable R2",
+        "summary": "Rivian ended its exclusivity deal with Amazon in 2023 to sell commercial vans to other fleet buyers (like AT&T). Its long-term survival hinges on its consumer vehicles (R1T, R1S, and the affordable R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
