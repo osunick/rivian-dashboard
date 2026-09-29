@@ -140666,5 +140666,160 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-28T19:01:36.388389-07:00",
+    "timestamp": "2026-09-28T19:01:36.388389-07:00",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 66,
+      "negative": 33
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 1,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "Vehicle Demand"
+    ],
+    "summary": "6 signals across Business (2), Competitive (2); watch Business, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, September 28, 2026 \u2014 7:01 PM PT \u2014 6 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 4 Rivian signals clustered around Business (2), Demo & Test Drives (1).\n\u2022 *Risk posture:* \ud83d\udfe0 ELEVATED with 2 negative signals; watch Business, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Volkswagen announced multiple deals with China's Gotion to make LFP batteries for mass-market EVs.\n  https://insideevs.com/news/809952/volkswagen-gotion-cheaper-lfp-batteries-europe/\n\u2022 *Competitive Threats:* On today\u2019s completely predictable episode of\n  https://electrek.co/2026/09/28/teslas-two-week-notice-volvos-autonomous-milestone-and-fun-with-lego/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Test drove today\n  https://www.reddit.com/r/RivianR2/comments/1wsvjvz/test_drove_today/\n*Vehicles (1)* \u2022 Tesla Vs. Rivian Owner Satisfaction: One Clear Winner. Read more: bit.ly/4z0LawW\n  https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mwmq7ykem62a\n*Business (2)* \u2022 RIVN Stock Slides As Recall And Insider Sale Pressure Bulls - StocksToTrade\n  https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcXJ0ZUJtU2FuUGt5LUtjUTRQQUtIRDB6NkJtVFZ2NExrY3p3UVh0YXZFU0JHY2NFUTBqZTZtM1MyTC1SelRZMVRRRlBEYmhfVFJkM1NwWnFHcnkyQVZuY1pTOVNXSktwcjNCYkJ1b013LTBUTXdxVVNDVXZVNGM?oc=5\n*Software (0)* \u2022 No signals\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe0 ELEVATED_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Test drove today",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wsvjvz/test_drove_today/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-29T00:21:58.167Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test drove today",
+        "summary": "reddit_rivian_r2 signal: Test drove today",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Volkswagen Is Going Big On Cheaper LFP Batteries In Europe",
+        "url": "https://insideevs.com/news/809952/volkswagen-gotion-cheaper-lfp-batteries-europe/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 28 Sep 2026 22:35:04 +0000",
+        "score": 0,
+        "snippet": "Volkswagen announced multiple deals with China's Gotion to make LFP batteries for mass-market EVs.",
+        "summary": "Volkswagen announced multiple deals with China's Gotion to make LFP batteries for mass-market EVs.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s two week notice, Volvo\u2019s autonomous milestone, and fun with LEGO",
+        "url": "https://electrek.co/2026/09/28/teslas-two-week-notice-volvos-autonomous-milestone-and-fun-with-lego/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 00:20:13 +0000",
+        "score": 0,
+        "snippet": "On today\u2019s completely predictable episode of",
+        "summary": "On today\u2019s completely predictable episode of",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "RIVN Stock Slides As Recall And Insider Sale Pressure Bulls - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcXJ0ZUJtU2FuUGt5LUtjUTRQQUtIRDB6NkJtVFZ2NExrY3p3UVh0YXZFU0JHY2NFUTBqZTZtM1MyTC1SelRZMVRRRlBEYmhfVFJkM1NwWnFHcnkyQVZuY1pTOVNXSktwcjNCYkJ1b013LTBUTXdxVVNDVXZVNGM?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 28 Sep 2026 20:47:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Slides As Recall And Insider Sale Pressure Bulls - StocksToTrade",
+        "summary": "RIVN Stock Slides As Recall And Insider Sale Pressure Bulls - StocksToTrade",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian vs. Lucid: One EV Stock Lost 3%, the Other Lost 84% - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHFXWHl4ZmdhbE5NUkhpTVpucDNWU1JldGJ0ZS1oRm1uSkxFZWM1Z2g2NGZwWTFfVGxEWTBqYnhQRjNwVVE2VURIVmp0VEdGOEtqR21BTC1IWlpNUkVUeWQ1S2VwQXJnMWwyS1AxaFR5OHptUW5CRTNVSE5GOVdNT1VpcE9Pc0xDNFF1dkdtRXRlZUsweVotUUktMXZwcThkbFYzd003UnJkM2ZIUUFZS3FIaE9hM1BxVVBodks4U09jbEhteFE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 29 Sep 2026 00:37:41 GMT",
+        "score": 0,
+        "snippet": "Rivian vs. Lucid: One EV Stock Lost 3%, the Other Lost 84% - 24/7 Wall St.",
+        "summary": "Rivian vs. Lucid: One EV Stock Lost 3%, the Other Lost 84% - 24/7 Wall St.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Tesla Vs. Rivian Owner Satisfaction: One Clear Winner.\n\nRead more: bit.ly/4z0Law",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mwmq7ykem62a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T02:00:27.560Z",
+        "score": 0,
+        "snippet": "Tesla Vs. Rivian Owner Satisfaction: One Clear Winner. Read more: bit.ly/4z0LawW",
+        "summary": "Tesla Vs. Rivian Owner Satisfaction: One Clear Winner. Read more: bit.ly/4z0LawW",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
