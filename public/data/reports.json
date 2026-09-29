@@ -141113,5 +141113,491 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-29T15:01:36.414935-07:00",
+    "timestamp": "2026-09-29T15:01:36.414935-07:00",
+    "sentiment": {
+      "positive": 17,
+      "neutral": 72,
+      "negative": 10
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "electrek": {
+        "found": 9,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 12,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 13,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 11,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "EV Market",
+      "Manufacturing",
+      "Software",
+      "Supply Chain",
+      "Vehicle Demand"
+    ],
+    "summary": "29 signals across Vehicles (13), Competitive (11); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 29, 2026 \u2014 3:01 PM PT \u2014 29 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 11 rival signals surfaced, led by Competitive Threats, EV Market.\n\u2022 *Rivian posture:* 18 Rivian signals clustered around Vehicles (13), Community (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Competitive Threats, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (11)\n\u2022 *Competitive Threats:* Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.\n  https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise\n\u2022 *Competitive Threats:* The car is mighty cheap, even in China. It undercuts many compact and some subcompact Chinese EVs, like the BYD Dolphin.\n  https://insideevs.com/news/810077/hyundai-ioniq-v-launch-china/\n\u2022 *Manufacturing:* The automaker has confirmed the factory where it will mass-produce the lithium-manganese-rich cells.\n  https://insideevs.com/news/810064/gm-lmr-battery-production-at-spring-hill-lges/\n\u2022 *Competitive Threats:* Tesla opened $30 billion in lines\n  https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/\n\u2022 *Competitive Threats:* <p class=\"wp-block-pa\n  https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (13)* \u2022 reddit_rivian_r2 signal: FG/CC Delivery Day!\n  https://www.reddit.com/r/RivianR2/comments/1wtm8rb/fgcc_delivery_day/\n*Business (0)* \u2022 No signals\n*Software (2)* \u2022 Lucid is bringing a Gravity-like digital interface to the Air sedan. Older cars will need a $950 computer upgrade.\n  https://insideevs.com/news/810081/lucid-air-ux-update-gravity-computer-hardware-upgrade/\n*Community (3)* \u2022 Luci\n  https://electrek.co/2026/09/29/lucid-air-ux-3-0-update-950-hardware-upgrade/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 Manufacturing\n\u2022 Software\n\u2022 Supply Chain\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "FG/CC Delivery Day!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wtm8rb/fgcc_delivery_day/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-29T21:09:26.782Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: FG/CC Delivery Day!",
+        "summary": "reddit_rivian_r2 signal: FG/CC Delivery Day!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How much time do we have to order once the pre order slot opens?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wtfptp/how_much_time_do_we_have_to_order_once_the_pre/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-29T17:02:58.765Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: How much time do we have to order once the pre order slot opens?",
+        "summary": "reddit_rivian_r2 signal: How much time do we have to order once the pre order slot opens?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "It's official. Just ordered my new all-electric R2 Performance in Borealis from Rivian. Which color would you choose? Design yours #RivianR2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wtbviz/its_official_just_ordered_my_new_allelectric_r2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-29T14:38:13.281Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: It's official. Just ordered my new all-electric R2 Performance in Borealis from Rivian. Which color would you choose? Design yours #RivianR2",
+        "summary": "reddit_rivian_r2 signal: It's official. Just ordered my new all-electric R2 Performance in Borealis from Rivian. Which color would you choose? Design yours #RivianR2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
+        "source": "bloomberg_markets",
+        "publishedAt": "Tue, 29 Sep 2026 21:19:19 GMT",
+        "score": 0,
+        "snippet": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
+        "summary": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lucid Overhauled The Air's Infotainment. You Might Need $950 Hardware To Get It",
+        "url": "https://insideevs.com/news/810081/lucid-air-ux-update-gravity-computer-hardware-upgrade/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 29 Sep 2026 19:35:17 +0000",
+        "score": 0,
+        "snippet": "Lucid is bringing a Gravity-like digital interface to the Air sedan. Older cars will need a $950 computer upgrade.",
+        "summary": "Lucid is bringing a Gravity-like digital interface to the Air sedan. Older cars will need a $950 computer upgrade.",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "The Futuristic-Looking Hyundai Ioniq V Launches At Just $14,800 In China",
+        "url": "https://insideevs.com/news/810077/hyundai-ioniq-v-launch-china/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 29 Sep 2026 18:47:27 +0000",
+        "score": 0,
+        "snippet": "The car is mighty cheap, even in China. It undercuts many compact and some subcompact Chinese EVs, like the BYD Dolphin.",
+        "summary": "The car is mighty cheap, even in China. It undercuts many compact and some subcompact Chinese EVs, like the BYD Dolphin.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "General Motors Just Took A Big Step Towards Its Next-Gen EV Battery",
+        "url": "https://insideevs.com/news/810064/gm-lmr-battery-production-at-spring-hill-lges/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 29 Sep 2026 16:46:06 +0000",
+        "score": 0,
+        "snippet": "The automaker has confirmed the factory where it will mass-produce the lithium-manganese-rich cells.",
+        "summary": "The automaker has confirmed the factory where it will mass-produce the lithium-manganese-rich cells.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Manufacturing",
+          "Supply Chain",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Tesla takes on $30 billion in credit as it approaches unprofitability",
+        "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 21:55:02 +0000",
+        "score": 0,
+        "snippet": "Tesla opened $30 billion in lines",
+        "summary": "Tesla opened $30 billion in lines",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD tests new ultra-luxury EV with coach doors and a solid-state battery",
+        "url": "https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 20:49:14 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-pa",
+        "summary": "<p class=\"wp-block-pa",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "GM\u2019s new EV battery tech will cut costs without sacrificing performance or range",
+        "url": "https://electrek.co/2026/09/29/gms-new-ev-battery-tech-cut-costs-without-sacrificing-range/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 19:23:35 +0000",
+        "score": 0,
+        "snippet": "<a href=\"ht",
+        "summary": "<a href=\"ht",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lucid brings Gravity\u2019s UX to the Air, but older owners must pay $950",
+        "url": "https://electrek.co/2026/09/29/lucid-air-ux-3-0-update-950-hardware-upgrade/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 19:21:59 +0000",
+        "score": 0,
+        "snippet": "Luci",
+        "summary": "Luci",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Tesla (TSLA) wins SEC OK to auto-vote retail shares with board ahead of SpaceX merger",
+        "url": "https://electrek.co/2026/09/29/tesla-sec-retail-auto-vote-board-spacex-merger/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 16:57:19 +0000",
+        "score": 0,
+        "snippet": "Tesla (TSLA) got the SEC\u2019s blessing today t",
+        "summary": "Tesla (TSLA) got the SEC\u2019s blessing today t",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Hyundai launches electric Ioniq V for under $15,000, but you can\u2019t have it",
+        "url": "https://electrek.co/2026/09/29/hyundai-launches-electric-ioniq-v-for-under-15000-but-you-cant-have-it/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 16:04:37 +0000",
+        "score": 0,
+        "snippet": "Hyundai",
+        "summary": "Hyundai",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Two Silverado EVs and a 150 kWh battery powered this entire concert tour",
+        "url": "https://electrek.co/2026/09/29/silverado-ev-concert-tour-150-kwh-mobile-power-plant/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 15:01:52 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-bloc",
+        "summary": "<p class=\"wp-bloc",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Hyundai is launching two new EVs, the IONIQ 4 and IONIQ 7",
+        "url": "https://electrek.co/2026/09/29/hyundai-launching-two-new-evs-ioniq-4-ioniq-7/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 14:26:25 +0000",
+        "score": 0,
+        "snippet": "<a",
+        "summary": "<a",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla patents \u2018Electric Fan Car\u2019 with 4 ducted fans ahead of Roadster reveal",
+        "url": "https://electrek.co/2026/09/29/tesla-electric-fan-car-patent-model-s-roadster/",
+        "source": "electrek",
+        "publishedAt": "Tue, 29 Sep 2026 14:02:16 +0000",
+        "score": 0,
+        "snippet": "Tesla was just granted a patent for an \u201c",
+        "summary": "Tesla was just granted a patent for an \u201c",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Shares Climb 1.2% - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXNrQV9Wc0c2SG5xVWpoOElncUs1UWNOTmVoOXN5c0RnVTZ6Mk5pRDdzTThlZXBWckk1VGxMOE5GRzk0R01Bb3kyUXJYM0wyOWphT1MwOWJjZl9XOVhCalgwOUJaazVjVjJiTmNkdjI1ME5TSXBHUVVjdDBiTFRDRU1oVF9hckN5WjBMYkxoMHJkMjBYS3hZZTVKX2lxZ3ZRMWZmcXd2WHZRSktPLUVOUldtX2l4VzJC?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 29 Sep 2026 21:44:07 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Shares Climb 1.2% - Time to Buy? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Shares Climb 1.2% - Time to Buy? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@yieldgraphbeleggen.bsky.social (Bluesky): Rivian presenteert zich op Evercore's ADAS en AI-forum\n\nRivian Automotive versch",
+        "url": "https://bsky.app/profile/did:plc:5qiyxj3jprsrd55uwxnkqbi7/post/3mwotbyr2tt2f",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T22:00:35.468Z",
+        "score": 0,
+        "snippet": "Rivian presenteert zich op Evercore's ADAS en AI-forum Rivian Automotive verscheen op 29 september op Evercore's 9e jaarlijkse ADAS, AV & AI\u2026",
+        "summary": "Rivian presenteert zich op Evercore's ADAS en AI-forum Rivian Automotive verscheen op 29 september op Evercore's 9e jaarlijkse ADAS, AV & AI\u2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@toasty.cx (Bluesky): save me Rivian R3\nRivian R3 save me",
+        "url": "https://bsky.app/profile/did:plc:vm7gxmjt6xbvr75jz7gqbmfr/post/3mworbu4gks24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T21:24:46.058Z",
+        "score": 2,
+        "snippet": "save me Rivian R3 Rivian R3 save me",
+        "summary": "save me Rivian R3 Rivian R3 save me",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@autosafety.org (Bluesky): Rivian Automotive, LLC, #Rivian R1S (2022-2027), R1T (2022-2026), and R2 (2027):",
+        "url": "https://bsky.app/profile/did:plc:wym2ns6xfcyfmzm4r7gm5lo3/post/3mwoqtzcxpk2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T21:17:03.086Z",
+        "score": 0,
+        "snippet": "Rivian Automotive, LLC, #Rivian R1S (2022-2027), R1T (2022-2026), and R2 (2027): obstructed rearview camera image can reduce the driver\u2019s view behind the vehicle. 98,828 vehicles potentially affected.",
+        "summary": "Rivian Automotive, LLC, #Rivian R1S (2022-2027), R1T (2022-2026), and R2 (2027): obstructed rearview camera image can reduce the driver\u2019s view behind the vehicle. 98,828 vehicles potentially affected.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian has named Known its new media agency of record, and R2 is the reason why.",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwop2iu4x22y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T20:44:55.663Z",
+        "score": 6,
+        "snippet": "Rivian has named Known its new media agency of record, and R2 is the reason why. Expect to see a lot more Rivian ads in places you're not used to. riviantrackr.com/news/rivian-...",
+        "summary": "Rivian has named Known its new media agency of record, and R2 is the reason why. Expect to see a lot more Rivian ads in places you're not used to. riviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@kayis.literallyjustagirl.online (Bluesky): carsandbids.com/auctions/3qL... \n@thatdoll.online",
+        "url": "https://bsky.app/profile/did:plc:5jbel5pgvrwkeubvpsfxddun/post/3mwondir32k2d",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T20:18:07.159Z",
+        "score": 0,
+        "snippet": "carsandbids.com/auctions/3qL... @thatdoll.online",
+        "summary": "carsandbids.com/auctions/3qL... @thatdoll.online",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Hyundai/Kia was awarded a patent on an \"automobile for passengers\" today.  I lov",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mwoj4rl4xs2c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T18:58:43.760Z",
+        "score": 1,
+        "snippet": "Hyundai/Kia was awarded a patent on an \"automobile for passengers\" today. I love that it calls out a Motor Trend story about a Rivian Adventure Van.",
+        "summary": "Hyundai/Kia was awarded a patent on an \"automobile for passengers\" today. I love that it calls out a Motor Trend story about a Rivian Adventure Van.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@joelfeder.bsky.social (Bluesky): \"Rivian's software boss told us that Teen and Valet Mode are arriving in early 2",
+        "url": "https://bsky.app/profile/did:plc:py4p5224qepuyorepr7bcwpx/post/3mwodhhusbs2i",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T17:17:22.158Z",
+        "score": 2,
+        "snippet": "\"Rivian's software boss told us that Teen and Valet Mode are arriving in early 2027 because teenagers probably shouldn't have access to so much power or hardcore off-road features.\" Come for the intr",
+        "summary": "\"Rivian's software boss told us that Teen and Valet Mode are arriving in early 2027 because teenagers probably shouldn't have access to so much power or hardcore off-road features.\" Come for the intr",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@thedrive.com.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:txkewujt22ksxasbch22t2xz/post/3mwojhqjt4rg2",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T19:05:03.262Z",
+        "score": 0,
+        "snippet": "bluesky signal: @thedrive.com.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @thedrive.com.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@redpainter1.bsky.social (Bluesky): this rivian driver is as awful as tesla drivers in my area \n\ncutting people off,",
+        "url": "https://bsky.app/profile/did:plc:yypnbasfbygiepqjwt2q3p2f/post/3mwo7gjkkps2q",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T16:05:14.581Z",
+        "score": 3,
+        "snippet": "this rivian driver is as awful as tesla drivers in my area cutting people off, swerving into traffic, cut a bus off",
+        "summary": "this rivian driver is as awful as tesla drivers in my area cutting people off, swerving into traffic, cut a bus off",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mwo5sje54k2h",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T15:36:07.861Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian #R2",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mwo5qf2fr22h",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T15:34:56.375Z",
+        "score": 0,
+        "snippet": "#Rivian #R2",
+        "summary": "#Rivian #R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mwo5o5raos2h",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T15:33:41.662Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
