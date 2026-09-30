@@ -141777,5 +141777,505 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-30T11:01:36.488708-07:00",
+    "timestamp": "2026-09-30T11:01:36.488708-07:00",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_supply_chain": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_korea_ev": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 19,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 22,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "30 signals across Vehicles (22), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 30, 2026 \u2014 11:01 AM PT \u2014 30 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 26 Rivian signals clustered around Vehicles (22), Software (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Competitive Threats, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* The i3 promises up to 468 miles on the EPA test cycle on a charge, putting Tesla on notice.\n  https://insideevs.com/news/810281/bmw-i3-us-specs-revealed/\n\u2022 *Competitive Threats:* <p class=\"wp-bloc\n  https://electrek.co/2026/09/30/tesla-solar-factory-patent-war-chinese-suppliers-linton-jingsheng/\n\u2022 *Competitive Threats:* <p class=\"wp-block-paragrap\n  https://electrek.co/2026/09/30/kidz-ai-tesla-robotaxi-fleet-zombie-company-bitcoin-treasury/\n\u2022 *Competitive Threats:* Hyundai could introduce Ioniq 4 and Ioniq 7 \u2018soon\u2019 - electrive.com\n  https://news.google.com/rss/articles/CBMijwFBVV95cUxQSy1BVm5HTnh1Yk9JdkZGYjNtUEdNZ19jWXhnamI0aWVFVWtUeE5SZ1BNLU12S1hMWktnYm1kY0Y0aW1leGR5RWV6ZmR6TEJhX2xSWUZleC1HNGFMUFRXRzBRSmlUWUJjS2lHUWJuQlRBVDdPNThQSUgwMjgtSEk2ZHNyelFsSWNEak44cFJQcw?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Rivian's James Philbin says point-to-point is \"very much on track\" for early adopters at the end of this year, with every Gen 2 R1 and R2 on Autonomy+ getting it next year. UHF 2.0 didn't come up at a\n  https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwqsraxqn22m\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (22)* \u2022 reddit_rivian_r2 signal: Also Invited to Order Today\n  https://www.reddit.com/r/RivianR2/comments/1wttdoj/also_invited_to_order_today/\n*Business (1)* \u2022 3 Reasons to Sell RIVN and 1 Stock to Buy Instead - finance.yahoo.com\n  https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUswWnh3Q0Y3RDBGU0VOSE1BOTQ5NXBUWWNmckY4c21Ia3lmV09MX3lCWDRZbzRyQmV6empQTlQ0eVBTQUJfOWRXeF8yR1dhcjRkSkk0OEhUVVM0NHRjRmo3bDR0b2R2SVJFWWc5enlOcEJmZUhyNEVhVjBVYzFpWVZoUWZ0aUlyLWZEYmtKNA?oc=5\n*Software (2)* \u2022 reddit_rivian_r2 signal: Disabling regen as an OTA update\n  https://www.reddit.com/r/RivianR2/comments/1wubibz/disabling_regen_as_an_ota_update/\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Disabling regen as an OTA update",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wubibz/disabling_regen_as_an_ota_update/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-30T17:42:57.206Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Disabling regen as an OTA update",
+        "summary": "reddit_rivian_r2 signal: Disabling regen as an OTA update",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Also Invited to Order Today",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wttdoj/also_invited_to_order_today/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-30T02:31:47.118Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Also Invited to Order Today",
+        "summary": "reddit_rivian_r2 signal: Also Invited to Order Today",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The BMW i3\u2019s 468-Mile Range Demolishes Every Tesla",
+        "url": "https://insideevs.com/news/810281/bmw-i3-us-specs-revealed/",
+        "source": "insideevs",
+        "publishedAt": "Wed, 30 Sep 2026 14:51:53 +0000",
+        "score": 0,
+        "snippet": "The i3 promises up to 468 miles on the EPA test cycle on a charge, putting Tesla on notice.",
+        "summary": "The i3 promises up to 468 miles on the EPA test cycle on a charge, putting Tesla on notice.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "The Rivian R2\u2019s New Pet Cam Lets Owners Check On Their Pets From Anywhere",
+        "url": "https://insideevs.com/news/810201/rivian-r2-pet-cam/",
+        "source": "insideevs",
+        "publishedAt": "Wed, 30 Sep 2026 07:46:29 +0000",
+        "score": 0,
+        "snippet": "The feature uses a hidden camera in the rearview mirror to stream a live feed directly to the owner\u2019s smartphone.",
+        "summary": "The feature uses a hidden camera in the rearview mirror to stream a live feed directly to the owner\u2019s smartphone.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian: LiDAR R2 reaches customers in 2027, employees get it this year",
+        "url": "https://electrek.co/2026/09/30/rivian-lidar-r2-customers-2027-autonomy-update/",
+        "source": "electrek",
+        "publishedAt": "Wed, 30 Sep 2026 16:56:17 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-parag",
+        "summary": "<p class=\"wp-block-parag",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s solar factory dragged into patent war between Chinese suppliers",
+        "url": "https://electrek.co/2026/09/30/tesla-solar-factory-patent-war-chinese-suppliers-linton-jingsheng/",
+        "source": "electrek",
+        "publishedAt": "Wed, 30 Sep 2026 16:05:14 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-bloc",
+        "summary": "<p class=\"wp-bloc",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Robotaxi fleets are the new crypto treasury for zombie companies",
+        "url": "https://electrek.co/2026/09/30/kidz-ai-tesla-robotaxi-fleet-zombie-company-bitcoin-treasury/",
+        "source": "electrek",
+        "publishedAt": "Wed, 30 Sep 2026 14:02:17 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-paragrap",
+        "summary": "<p class=\"wp-block-paragrap",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "3 Reasons to Sell RIVN and 1 Stock to Buy Instead - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUswWnh3Q0Y3RDBGU0VOSE1BOTQ5NXBUWWNmckY4c21Ia3lmV09MX3lCWDRZbzRyQmV6empQTlQ0eVBTQUJfOWRXeF8yR1dhcjRkSkk0OEhUVVM0NHRjRmo3bDR0b2R2SVJFWWc5enlOcEJmZUhyNEVhVjBVYzFpWVZoUWZ0aUlyLWZEYmtKNA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 30 Sep 2026 16:05:13 GMT",
+        "score": 0,
+        "snippet": "3 Reasons to Sell RIVN and 1 Stock to Buy Instead - finance.yahoo.com",
+        "summary": "3 Reasons to Sell RIVN and 1 Stock to Buy Instead - finance.yahoo.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Vs. Tesla: At Least The Market Treats Rivian as What It Really Is - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakVJRkN1RFNNdWhFdFlleUhZX3pPSkVuZGFNZ0tyMWVBMzZyTTRYM1hqbEtIcmlHdVgzVUJjSWEySDZoelhmdFJOLWE0cXpIWkgwTXUyVHUyWW1xXzV6WTdnQlJoUTdYUXJ2Q05sakJpWjhMOGtMQWpyQk9OaHY2Uzk3cUwwWW1ESUw4TWVld212NmdaQ1Y2akxDNGlWX215WE9qSVZkU2NubzRWMVhCTGwyYzA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 30 Sep 2026 12:45:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Vs. Tesla: At Least The Market Treats Rivian as What It Really Is - 24/7 Wall St.",
+        "summary": "Rivian Vs. Tesla: At Least The Market Treats Rivian as What It Really Is - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Says Georgia Plant Could Supply Europe, Still Gives No Timeline - eletric-vehicles.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXVkSHFBcHdxQkVYX1Y5M1g0S2JTTm9wN0lrcEhoaVBMazllaG1ocGVRS2ZhRVIyM0RHTmpxalZFcWRGNDVaYmtRbmpWZTctVGVLWUdVZld0V0NZYXdvSUpnSmZOcGxsUnl6QVRhSVF4YlhLNlIyMTByRHJpN0Jrd2xSTmpDTE5JRFFfbXhkYlVxRDl2d2JZbjZqMzRTcVRaVmtiNVNldmEzQQ?oc=5",
+        "source": "google_news_supply_chain",
+        "publishedAt": "Wed, 30 Sep 2026 14:02:27 GMT",
+        "score": 0,
+        "snippet": "Rivian Says Georgia Plant Could Supply Europe, Still Gives No Timeline - eletric-vehicles.com",
+        "summary": "Rivian Says Georgia Plant Could Supply Europe, Still Gives No Timeline - eletric-vehicles.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Hyundai could introduce Ioniq 4 and Ioniq 7 \u2018soon\u2019 - electrive.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSy1BVm5HTnh1Yk9JdkZGYjNtUEdNZ19jWXhnamI0aWVFVWtUeE5SZ1BNLU12S1hMWktnYm1kY0Y0aW1leGR5RWV6ZmR6TEJhX2xSWUZleC1HNGFMUFRXRzBRSmlUWUJjS2lHUWJuQlRBVDdPNThQSUgwMjgtSEk2ZHNyelFsSWNEak44cFJQcw?oc=5",
+        "source": "google_news_korea_ev",
+        "publishedAt": "Wed, 30 Sep 2026 09:30:00 GMT",
+        "score": 0,
+        "snippet": "Hyundai could introduce Ioniq 4 and Ioniq 7 \u2018soon\u2019 - electrive.com",
+        "summary": "Hyundai could introduce Ioniq 4 and Ioniq 7 \u2018soon\u2019 - electrive.com",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Rivian: LiDAR R2 reaches customers in 2027, employees get it this year",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mwqvi7leb52s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T17:45:11.655Z",
+        "score": 1,
+        "snippet": "Rivian: LiDAR R2 reaches customers in 2027, employees get it this year",
+        "summary": "Rivian: LiDAR R2 reaches customers in 2027, employees get it this year",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@njtrainsit.bsky.social (Bluesky): I still wonder, however, what evidence they have that adult owners have appropri",
+        "url": "https://bsky.app/profile/did:plc:gv52xq266ms5u6fokcrypnup/post/3mwqtj3j4f22l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T17:09:53.061Z",
+        "score": 1,
+        "snippet": "I still wonder, however, what evidence they have that adult owners have appropriate discretion to determine that they\u2019re qualified to safely operate the vehicle? Rivian doesn\u2019t have an age restriction",
+        "summary": "I still wonder, however, what evidence they have that adult owners have appropriate discretion to determine that they\u2019re qualified to safely operate the vehicle? Rivian doesn\u2019t have an age restriction",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@njtrainsit.bsky.social (Bluesky): Rivian finally appears to admit that possession of a drivers license is not suff",
+        "url": "https://bsky.app/profile/did:plc:gv52xq266ms5u6fokcrypnup/post/3mwqt4cfzds2t",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T17:02:45.459Z",
+        "score": 2,
+        "snippet": "Rivian finally appears to admit that possession of a drivers license is not sufficient for safe operation of their insanely powerful and heavy vehicles.",
+        "summary": "Rivian finally appears to admit that possession of a drivers license is not sufficient for safe operation of their insanely powerful and heavy vehicles.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hubrisdog.bsky.social (Bluesky): Yeah the savings mostly come at home charging.  To be fair the Rivian is a frien",
+        "url": "https://bsky.app/profile/did:plc:eg55tlu6gldltmfxoii3g423/post/3mwqss76m3k2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T16:57:06.159Z",
+        "score": 3,
+        "snippet": "Yeah the savings mostly come at home charging. To be fair the Rivian is a friend shaped box with the aerodynamics of a brick and probably the least efficient/most expensive EV for travel costs.",
+        "summary": "Yeah the savings mostly come at home charging. To be fair the Rivian is a friend shaped box with the aerodynamics of a brick and probably the least efficient/most expensive EV for travel costs.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian's James Philbin says point-to-point is \"very much on track\" for early ado",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwqsraxqn22m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T16:56:37.160Z",
+        "score": 2,
+        "snippet": "Rivian's James Philbin says point-to-point is \"very much on track\" for early adopters at the end of this year, with every Gen 2 R1 and R2 on Autonomy+ getting it next year. UHF 2.0 didn't come up at a",
+        "summary": "Rivian's James Philbin says point-to-point is \"very much on track\" for early adopters at the end of this year, with every Gen 2 R1 and R2 on Autonomy+ getting it next year. UHF 2.0 didn't come up at a",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@horadam.bsky.social (Bluesky): Interestingly, Rivian appears to have removed aluminum from its R2 frame in exch",
+        "url": "https://bsky.app/profile/did:plc:rp4rgamibrblojq7f7pgmuxc/post/3mwqroyo4dc27",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T16:37:24.559Z",
+        "score": 4,
+        "snippet": "Interestingly, Rivian appears to have removed aluminum from its R2 frame in exchange for a reinforced lighter-weight steel...presumably to cut costs. It's good that manufacturers are looking hard at",
+        "summary": "Interestingly, Rivian appears to have removed aluminum from its R2 frame in exchange for a reinforced lighter-weight steel...presumably to cut costs. It's good that manufacturers are looking hard at",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ballparkmath.bsky.social (Bluesky): Same car, two markets \u2014 the Rivian R1S:\nUnited States \u2248$83,990 vs Canada \u2248$107,4",
+        "url": "https://bsky.app/profile/did:plc:ytykhn7tx2ge3ypf7b5ox2gx/post/3mwqpnso7g42s",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T16:00:57.457Z",
+        "score": 0,
+        "snippet": "Same car, two markets \u2014 the Rivian R1S: United States \u2248$83,990 vs Canada \u2248$107,467 USD a $23,477 (28%) list-price gap at the Sep 27 exchange rate. Compare \u2192 cars.ballparkmath.ca/compare #cars #carpric",
+        "summary": "Same car, two markets \u2014 the Rivian R1S: United States \u2248$83,990 vs Canada \u2248$107,467 USD a $23,477 (28%) list-price gap at the Sep 27 exchange rate. Compare \u2192 cars.ballparkmath.ca/compare #cars #carpric",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@forevernever.bsky.social (Bluesky): Part of me likes it when EVs are designed in unique ways (e.g., the Rivian deliv",
+        "url": "https://bsky.app/profile/did:plc:w4q5crn4whzxof2wkazkl4tt/post/3mwqog42jgk2m",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T15:38:45.466Z",
+        "score": 7,
+        "snippet": "Part of me likes it when EVs are designed in unique ways (e.g., the Rivian delivery vehicles), but it's also nice when you see EVs that look exactly like the ICE vehicles they're replacing.",
+        "summary": "Part of me likes it when EVs are designed in unique ways (e.g., the Rivian delivery vehicles), but it's also nice when you see EVs that look exactly like the ICE vehicles they're replacing.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hubrisdog.bsky.social (Bluesky): More Rivian glamor photos courtesy of \n\n@sassafras.bsky.social",
+        "url": "https://bsky.app/profile/did:plc:eg55tlu6gldltmfxoii3g423/post/3mwqiqq5ztk2w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T13:57:36.958Z",
+        "score": 32,
+        "snippet": "More Rivian glamor photos courtesy of @sassafras.bsky.social",
+        "summary": "More Rivian glamor photos courtesy of @sassafras.bsky.social",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian's bringing Pet Cam to R2 in the October software update. With Pet Comfort",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwqg3zyyo222",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T13:10:01.560Z",
+        "score": 4,
+        "snippet": "Rivian's bringing Pet Cam to R2 in the October software update. With Pet Comfort Mode on, you can check a live view of the cabin in the app or get a snapshot on your lock screen every minute. riviant",
+        "summary": "Rivian's bringing Pet Cam to R2 in the October software update. With Pet Comfort Mode on, you can check a live view of the cabin in the app or get a snapshot on your lock screen every minute. riviant",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode.\n\nRead more: bit.ly/4",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mwqfkhbbbf2k",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T13:00:06.768Z",
+        "score": 0,
+        "snippet": "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode. Read more: bit.ly/4xTcrAG",
+        "summary": "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode. Read more: bit.ly/4xTcrAG",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@megawattnews.bsky.social (Bluesky): \ud83d\udd0b The Rivian R2\u2019s New Pet Cam Lets Owners Check On Their Pets From Anywhere\n\n\ud83d\udcf0 v",
+        "url": "https://bsky.app/profile/did:plc:e3bsvsadgyewdqmaw4duwdjq/post/3mwqcd35dx32w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T12:02:17.460Z",
+        "score": 0,
+        "snippet": "\ud83d\udd0b The Rivian R2\u2019s New Pet Cam Lets Owners Check On Their Pets From Anywhere \ud83d\udcf0 via insideevs #EV #ElectricVehicles",
+        "summary": "\ud83d\udd0b The Rivian R2\u2019s New Pet Cam Lets Owners Check On Their Pets From Anywhere \ud83d\udcf0 via insideevs #EV #ElectricVehicles",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): We will keep the 100% tarriff on state subsidized CCP governed PRC. \nKey 2027 US",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwqbotmzac2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T11:50:59.960Z",
+        "score": 0,
+        "snippet": "We will keep the 100% tarriff on state subsidized CCP governed PRC. Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ,",
+        "summary": "We will keep the 100% tarriff on state subsidized CCP governed PRC. Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ,",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Key 2027 US EVs:\n\u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom,",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwqbmcw5uk2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T11:49:34.957Z",
+        "score": 0,
+        "snippet": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "summary": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Key 2027 US EVs:\n\u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom,",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwqblv5ick2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T11:49:20.658Z",
+        "score": 0,
+        "snippet": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "summary": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Key 2027 US EVs:\n\u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom,",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwqbkckgqc2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T11:48:27.562Z",
+        "score": 0,
+        "snippet": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "summary": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Key 2027 US EVs:\n\u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom,",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwqbjplnqk2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T11:48:08.660Z",
+        "score": 0,
+        "snippet": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "summary": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Key 2027 US EVs:\n\u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom,",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwqbiyl2hc2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T11:47:43.359Z",
+        "score": 0,
+        "snippet": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "summary": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Key 2027 US EVs:\n\u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom,",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mwqbhk5kd22p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T11:46:55.257Z",
+        "score": 0,
+        "snippet": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "summary": "Key 2027 US EVs: \u2022 Affordable/Mass: Next-gen Chevy Bolt, Rivian R2, Ford Fathom, Kia EV3 \u2022 Luxury/3-Row: Lexus TZ, Cadillac VISTIQ, Genesis GV90 \u2022 Performance: BMW i3/iX3 (Neue Klasse), Mercedes G 580",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
