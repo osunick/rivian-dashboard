@@ -141599,5 +141599,183 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-29T19:01:37.830539-07:00",
+    "timestamp": "2026-09-29T19:01:37.830539-07:00",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 100,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_lucid": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 4,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 4,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "8 signals across Vehicles (4), Competitive (3); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, September 29, 2026 \u2014 7:01 PM PT \u2014 8 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 5 Rivian signals clustered around Vehicles (4), Software (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Competitive Threats, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* The popular SUV is getting the same electric treatment as its bigger brother, with 350 kW charging and roughly 400 miles of range.\n  https://insideevs.com/news/810006/range-rover-sport-electric-official-battery-specs-debut/\n\u2022 *Competitive Threats:* Coincidence? Maybe. The fan system could help the Roadster fulfill some of its wildest promises.\n  https://insideevs.com/news/810100/tesla-electric-fan-car-patent/\n\u2022 *Competitive Threats:* The Range Rover Sport Electric Is Here To Take On The Lucid Gravity - InsideEVs\n  https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFdiVWhHckl4dzJaaUJKcE1kR09WUFZYT25scmZBa3hWcUU5QXpsX0pRNzJ5RTRsZV9STk9tWkpDb04wNVFPZmFqbDJrVUVkOG5yc1VmLWJyZ0loQTRXUTFrZ1NwY19jNUFUY25tTXVydDYzbDREMlVHMnNaNU5TRTFOSFhKdWFlNDUtN2t1b3pwcVEx?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (4)* \u2022 reddit_rivian_r2 signal: Got My R2 Order Invite Today \ud83c\udf89\n  https://www.reddit.com/r/RivianR2/comments/1wtnl0q/got_my_r2_order_invite_today/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 I had totally forgotten about DC/NoVA slugging. #Rivian\n  https://bsky.app/profile/did:plc:65pufxvjifiq2flklfmvylld/post/3mwp2dml4mc2p\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Got My R2 Order Invite Today \ud83c\udf89",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wtnl0q/got_my_r2_order_invite_today/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-09-29T22:02:52.284Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Got My R2 Order Invite Today \ud83c\udf89",
+        "summary": "reddit_rivian_r2 signal: Got My R2 Order Invite Today \ud83c\udf89",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Range Rover Sport Electric Is Here To Take On The Lucid Gravity",
+        "url": "https://insideevs.com/news/810006/range-rover-sport-electric-official-battery-specs-debut/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 29 Sep 2026 23:01:00 +0000",
+        "score": 0,
+        "snippet": "The popular SUV is getting the same electric treatment as its bigger brother, with 350 kW charging and roughly 400 miles of range.",
+        "summary": "The popular SUV is getting the same electric treatment as its bigger brother, with 350 kW charging and roughly 400 miles of range.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Patents 'Electric Fan Car' Weeks Before Roadster Reveal",
+        "url": "https://insideevs.com/news/810100/tesla-electric-fan-car-patent/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 29 Sep 2026 22:18:52 +0000",
+        "score": 0,
+        "snippet": "Coincidence? Maybe. The fan system could help the Roadster fulfill some of its wildest promises.",
+        "summary": "Coincidence? Maybe. The fan system could help the Roadster fulfill some of its wildest promises.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "The Range Rover Sport Electric Is Here To Take On The Lucid Gravity - InsideEVs",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFdiVWhHckl4dzJaaUJKcE1kR09WUFZYT25scmZBa3hWcUU5QXpsX0pRNzJ5RTRsZV9STk9tWkpDb04wNVFPZmFqbDJrVUVkOG5yc1VmLWJyZ0loQTRXUTFrZ1NwY19jNUFUY25tTXVydDYzbDREMlVHMnNaNU5TRTFOSFhKdWFlNDUtN2t1b3pwcVEx?oc=5",
+        "source": "google_news_lucid",
+        "publishedAt": "Tue, 29 Sep 2026 23:01:00 GMT",
+        "score": 0,
+        "snippet": "The Range Rover Sport Electric Is Here To Take On The Lucid Gravity - InsideEVs",
+        "summary": "The Range Rover Sport Electric Is Here To Take On The Lucid Gravity - InsideEVs",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@josephgruber.com (Bluesky): I had totally forgotten about DC/NoVA slugging. #Rivian",
+        "url": "https://bsky.app/profile/did:plc:65pufxvjifiq2flklfmvylld/post/3mwp2dml4mc2p",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T00:06:48.476Z",
+        "score": 0,
+        "snippet": "I had totally forgotten about DC/NoVA slugging. #Rivian",
+        "summary": "I had totally forgotten about DC/NoVA slugging. #Rivian",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@deztheopossum.bsky.social (Bluesky): The Rivian was insanely capable, probably the most capable truck out of the grou",
+        "url": "https://bsky.app/profile/did:plc:qbzs7n5bt673rhbs5dpv6oi2/post/3mwozxtfzoc2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T00:00:08.163Z",
+        "score": 1,
+        "snippet": "The Rivian was insanely capable, probably the most capable truck out of the group.",
+        "summary": "The Rivian was insanely capable, probably the most capable truck out of the group.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@yippyyote.bsky.social (Bluesky): whoa the Rivian was able to keep up?",
+        "url": "https://bsky.app/profile/did:plc:y5pndegqwwoh5qh6jxmwwh45/post/3mwoztzpds22e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T23:58:03.363Z",
+        "score": 0,
+        "snippet": "whoa the Rivian was able to keep up?",
+        "summary": "whoa the Rivian was able to keep up?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@randyrnbla.bsky.social (Bluesky): March 9, 2024: Made my #Rivian #R2 reservation\n\nSept 29, 2026: Received my invit",
+        "url": "https://bsky.app/profile/did:plc:suknqdnajuo7o7ho6uh5pvxb/post/3mwoydjq45s24",
+        "source": "bluesky",
+        "publishedAt": "2026-09-29T23:30:59.761Z",
+        "score": 2,
+        "snippet": "March 9, 2024: Made my #Rivian #R2 reservation Sept 29, 2026: Received my invite. Ordered my car at Rivian\u2019s Venice hub! \ud83d\ude97 !!FINALLY!!\ud83d\ude99 Sidecar Doughnuts for the Rivian team! Known them for years,",
+        "summary": "March 9, 2024: Made my #Rivian #R2 reservation Sept 29, 2026: Received my invite. Ordered my car at Rivian\u2019s Venice hub! \ud83d\ude97 !!FINALLY!!\ud83d\ude99 Sidecar Doughnuts for the Rivian team! Known them for years,",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
