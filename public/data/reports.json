@@ -142277,5 +142277,399 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-30T19:01:35.245574-07:00",
+    "timestamp": "2026-09-30T19:01:35.245574-07:00",
+    "sentiment": {
+      "positive": 17,
+      "neutral": 82,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_lucid": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 16,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 3,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "23 signals across Vehicles (12), Autonomy (3); watch Vehicle Demand, Autonomy",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, September 30, 2026 \u2014 7:01 PM PT \u2014 23 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 20 Rivian signals clustered around Vehicles (12), Autonomy (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Autonomy, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Th\n  https://electrek.co/2026/09/30/fords-30000-ev-pickup-production-launch-faces-uncertainty/\n\u2022 *Competitive Threats:* <p class=\"wp-block-para\n  https://electrek.co/2026/09/30/toyota-dropped-1675-lb-caravan-on-ev-truck-video/\n\u2022 *Competitive Threats:* <p class=\"wp-block-paragr\n  https://electrek.co/2026/09/30/byds-cheapest-ev-getting-bigger-fancier/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (3)* \u2022 Rivian still plans to launch its new autonomy computer and lidar this year. But you won't be able to buy it.\n  https://insideevs.com/news/810319/rivian-r2-lidar-rap1-2027/\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (12)* \u2022 reddit_electricvehicles signal: Electric as work truck\n  https://www.reddit.com/r/electricvehicles/comments/1wuce6s/electric_as_work_truck/\n*Business (0)* \u2022 No signals\n*Software (2)* \u2022 Lucid Air UX 3.0 Update Brings Faster Controls, Smarter EV Routing and Better CarPlay - Electric Cars Report\n  https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGROa3ZVZUp1ZnBXb2I0Qms4cWJhWFotSVdSMnBZT2F0Q2tYOVJaNzhHSGJ2dnNrYVh6T3pKYmxLNWo1amdWdDJBdk9aTkx4Yl9mbjJGeTVmS1Jlb0xsSno0R1hwRGNsZjdrSV9vc3ZYZnJ6ZEpua21HV1Y5LTd2Z2x4VlE4MkFxU3dockpqWG5HaGdvRVZvUl8yWTJWa1pwMlN4SzlORzNaUURwTnlEVkJjRkdHOEMycThhUVRsRjZXQQ?oc=5\n*Community (3)* \u2022 insideevs.com/news/810319/...\n  https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mwrmyoqaus2b\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Electric as work truck",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wuce6s/electric_as_work_truck/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-09-30T18:15:29.596Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Electric as work truck",
+        "summary": "reddit_electricvehicles signal: Electric as work truck",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "You Won't Be Able To Buy A Rivian R2 With Lidar This Year After All",
+        "url": "https://insideevs.com/news/810319/rivian-r2-lidar-rap1-2027/",
+        "source": "insideevs",
+        "publishedAt": "Wed, 30 Sep 2026 18:24:20 +0000",
+        "score": 0,
+        "snippet": "Rivian still plans to launch its new autonomy computer and lidar this year. But you won't be able to buy it.",
+        "summary": "Rivian still plans to launch its new autonomy computer and lidar this year. But you won't be able to buy it.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Commercial EVs take off as Workhorse announces fresh, 200 truck order",
+        "url": "https://electrek.co/2026/09/30/commercial-ev-demand-takes-off-as-workhorse-announces-fresh-200-truck-order/",
+        "source": "electrek",
+        "publishedAt": "Wed, 30 Sep 2026 21:28:34 +0000",
+        "score": 0,
+        "snippet": "Commerci",
+        "summary": "Commerci",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ford\u2019s $30,000 Fathom EV pickup production launch faces uncertainty",
+        "url": "https://electrek.co/2026/09/30/fords-30000-ev-pickup-production-launch-faces-uncertainty/",
+        "source": "electrek",
+        "publishedAt": "Wed, 30 Sep 2026 20:56:09 +0000",
+        "score": 0,
+        "snippet": "Th",
+        "summary": "Th",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Toyota dropped a 1,675 lb caravan on its electric truck, and it drove off unfazed [Video]",
+        "url": "https://electrek.co/2026/09/30/toyota-dropped-1675-lb-caravan-on-ev-truck-video/",
+        "source": "electrek",
+        "publishedAt": "Wed, 30 Sep 2026 19:45:04 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-para",
+        "summary": "<p class=\"wp-block-para",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD\u2019s cheapest EV is getting bigger and fancier",
+        "url": "https://electrek.co/2026/09/30/byds-cheapest-ev-getting-bigger-fancier/",
+        "source": "electrek",
+        "publishedAt": "Wed, 30 Sep 2026 18:04:51 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-paragr",
+        "summary": "<p class=\"wp-block-paragr",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lucid Air UX 3.0 Update Brings Faster Controls, Smarter EV Routing and Better CarPlay - Electric Cars Report",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGROa3ZVZUp1ZnBXb2I0Qms4cWJhWFotSVdSMnBZT2F0Q2tYOVJaNzhHSGJ2dnNrYVh6T3pKYmxLNWo1amdWdDJBdk9aTkx4Yl9mbjJGeTVmS1Jlb0xsSno0R1hwRGNsZjdrSV9vc3ZYZnJ6ZEpua21HV1Y5LTd2Z2x4VlE4MkFxU3dockpqWG5HaGdvRVZvUl8yWTJWa1pwMlN4SzlORzNaUURwTnlEVkJjRkdHOEMycThhUVRsRjZXQQ?oc=5",
+        "source": "google_news_lucid",
+        "publishedAt": "Wed, 30 Sep 2026 15:06:16 GMT",
+        "score": 0,
+        "snippet": "Lucid Air UX 3.0 Update Brings Faster Controls, Smarter EV Routing and Better CarPlay - Electric Cars Report",
+        "summary": "Lucid Air UX 3.0 Update Brings Faster Controls, Smarter EV Routing and Better CarPlay - Electric Cars Report",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): insideevs.com/news/810319/...",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mwrmyoqaus2b",
+        "source": "bluesky",
+        "publishedAt": "2026-10-01T00:46:01.562Z",
+        "score": 1,
+        "snippet": "insideevs.com/news/810319/...",
+        "summary": "insideevs.com/news/810319/...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@aitechmatome-eng.bsky.social (Bluesky): Shocking: Valuation Exceeds $7.1 Billion! Massive Funding Secured Through AI-Dri",
+        "url": "https://bsky.app/profile/did:plc:2j6dznyckhp42qxhemxrsy5f/post/3mwrm4swvdp2z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-01T00:30:24.675Z",
+        "score": 0,
+        "snippet": "Shocking: Valuation Exceeds $7.1 Billion! Massive Funding Secured Through AI-Driven Hardware Design Innovation \u25bcRead More",
+        "summary": "Shocking: Valuation Exceeds $7.1 Billion! Massive Funding Secured Through AI-Driven Hardware Design Innovation \u25bcRead More",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@peoriaconnected.bsky.social (Bluesky): Rivian named statewide \"Innovator of the Year\" by the Illinois Economic Developm",
+        "url": "https://bsky.app/profile/did:plc:ka5ll5mmwnag2oxkqoir65qw/post/3mwrlevbeti26",
+        "source": "bluesky",
+        "publishedAt": "2026-10-01T00:17:02.857Z",
+        "score": 0,
+        "snippet": "Rivian named statewide \"Innovator of the Year\" by the Illinois Economic Development Corporation",
+        "summary": "Rivian named statewide \"Innovator of the Year\" by the Illinois Economic Development Corporation",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mcleanconnected.bsky.social (Bluesky): Rivian named statewide \"Innovator of the Year\" by the Illinois Economic Developm",
+        "url": "https://bsky.app/profile/did:plc:plel7skiqdeb33lks4zwidbt/post/3mwrknnpgdz2z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-01T00:04:02.958Z",
+        "score": 0,
+        "snippet": "Rivian named statewide \"Innovator of the Year\" by the Illinois Economic Development Corporation",
+        "summary": "Rivian named statewide \"Innovator of the Year\" by the Illinois Economic Development Corporation",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian says point-to-point autonomy is \u201con track\u201d for year end rollout",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mwrimvvhdy2n",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T23:27:49.673Z",
+        "score": 2,
+        "snippet": "Rivian says point-to-point autonomy is \u201con track\u201d for year end rollout",
+        "summary": "Rivian says point-to-point autonomy is \u201con track\u201d for year end rollout",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@kiboti.bsky.social (Bluesky): Von Rivian bis Anduril, von Stoke Space bis Intuitive Machines: Tausende Ingenie",
+        "url": "https://bsky.app/profile/did:plc:ujriygm2jynncsufqikaqbg4/post/3mwrfopgcun2y",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T22:35:08.790Z",
+        "score": 0,
+        "snippet": "Von Rivian bis Anduril, von Stoke Space bis Intuitive Machines: Tausende Ingenieure vertrauen bereits darauf. Bei Rivian allein wuchs die Nutzung innerhalb von sieben Monaten dramatisch. Die neue 50-M",
+        "summary": "Von Rivian bis Anduril, von Stoke Space bis Intuitive Machines: Tausende Ingenieure vertrauen bereits darauf. Bei Rivian allein wuchs die Nutzung innerhalb von sieben Monaten dramatisch. Die neue 50-M",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@john-schroeder.bsky.social (Bluesky): I love the whole we had zero car plants in America for 48 years. Some needs to t",
+        "url": "https://bsky.app/profile/did:plc:qngeqgynh6wsguul2shzjbgh/post/3mwrdrlmrpk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T22:00:58.765Z",
+        "score": 1,
+        "snippet": "I love the whole we had zero car plants in America for 48 years. Some needs to tell Rivian that Illinois is no longer in America. \ud83d\ude02",
+        "summary": "I love the whole we had zero car plants in America for 48 years. Some needs to tell Rivian that Illinois is no longer in America. \ud83d\ude02",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Wassym told @thedrive.com that Teen Mode will let you mark any driver profile as",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwrasqtmmk2a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T21:08:01.069Z",
+        "score": 7,
+        "snippet": "Wassym told @thedrive.com that Teen Mode will let you mark any driver profile as a teen and restrict it with sliders and toggles similar to RAD Tuner. It's slated for early 2027 across R1 and R2. riv",
+        "summary": "Wassym told @thedrive.com that Teen Mode will let you mark any driver profile as a teen and restrict it with sliders and toggles similar to RAD Tuner. It's slated for early 2027 across R1 and R2. riv",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mwr7b3b5om2l",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T20:40:09.059Z",
+        "score": 0,
+        "snippet": "bluesky signal: @rivianwave.com (Bluesky):",
+        "summary": "bluesky signal: @rivianwave.com (Bluesky):",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gagadgetuk.bsky.social (Bluesky): Rivian \u0442\u0438\u0445\u043e \u0432\u0456\u0434\u0441\u0443\u043d\u0443\u0432 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0435 \u0437\u0430\u043b\u0456\u0437\u043e \u0434\u043b\u044f \u043f\u043e\u043a\u0443\u043f\u0446\u0456\u0432 R2 \u043d\u0430 \u0440\u0456\u043a \u2014 \u043f\u0435\u0440\u0448\u0438\u043c\u0438 \u0439\u043e\u0433\u043e \u043e\u0442\u0440\u0438",
+        "url": "https://bsky.app/profile/did:plc:32d3mrf6gogi5rmig5bpnrku/post/3mwr5zljonk2a",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T20:18:04.462Z",
+        "score": 0,
+        "snippet": "Rivian \u0442\u0438\u0445\u043e \u0432\u0456\u0434\u0441\u0443\u043d\u0443\u0432 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0435 \u0437\u0430\u043b\u0456\u0437\u043e \u0434\u043b\u044f \u043f\u043e\u043a\u0443\u043f\u0446\u0456\u0432 R2 \u043d\u0430 \u0440\u0456\u043a \u2014 \u043f\u0435\u0440\u0448\u0438\u043c\u0438 \u0439\u043e\u0433\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u044e\u0442\u044c \u0441\u0430\u043c\u0456 \u0441\u043f\u0456\u0432\u0440\u043e\u0431\u0456\u0442\u043d\u0438\u043a\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0457. #gadgets",
+        "summary": "Rivian \u0442\u0438\u0445\u043e \u0432\u0456\u0434\u0441\u0443\u043d\u0443\u0432 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0435 \u0437\u0430\u043b\u0456\u0437\u043e \u0434\u043b\u044f \u043f\u043e\u043a\u0443\u043f\u0446\u0456\u0432 R2 \u043d\u0430 \u0440\u0456\u043a \u2014 \u043f\u0435\u0440\u0448\u0438\u043c\u0438 \u0439\u043e\u0433\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u044e\u0442\u044c \u0441\u0430\u043c\u0456 \u0441\u043f\u0456\u0432\u0440\u043e\u0431\u0456\u0442\u043d\u0438\u043a\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0457. #gadgets",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angelogiganti.bsky.social (Bluesky): Now is a great time to buy a #Rivian",
+        "url": "https://bsky.app/profile/did:plc:l7zidxxfckv6mepubdxo7ch2/post/3mwr5he5zds2g",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T20:07:52.862Z",
+        "score": 1,
+        "snippet": "Now is a great time to buy a #Rivian",
+        "summary": "Now is a great time to buy a #Rivian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@potato.software (Bluesky): Rivian R1S averages around 2.3 miles per KWh\nHummer EV: 1.5\nPotato-dumpster: 2.4",
+        "url": "https://bsky.app/profile/did:plc:a3ul5q5rkrk4im4sesowx4b3/post/3mwr3k67i7o2w",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T19:33:39.168Z",
+        "score": 0,
+        "snippet": "Rivian R1S averages around 2.3 miles per KWh Hummer EV: 1.5 Potato-dumpster: 2.4",
+        "summary": "Rivian R1S averages around 2.3 miles per KWh Hummer EV: 1.5 Potato-dumpster: 2.4",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@electricjen.bsky.social (Bluesky): My husband is outside with a man I don\u2019t recognize (who parked in a Tesla model ",
+        "url": "https://bsky.app/profile/did:plc:3xsicz2y6kdvogd4h3t5hno5/post/3mwr34hrurc2e",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T19:25:59.662Z",
+        "score": 2,
+        "snippet": "My husband is outside with a man I don\u2019t recognize (who parked in a Tesla model Y) and they\u2019re looking all up in our new Rivian R2. I conclude this man is here to purchase our old model y accessori",
+        "summary": "My husband is outside with a man I don\u2019t recognize (who parked in a Tesla model Y) and they\u2019re looking all up in our new Rivian R2. I conclude this man is here to purchase our old model y accessori",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gadgetsbriefly.bsky.social (Bluesky): Rivian will install its RAP1 autonomy computer and lidar in R2 vehicles for empl",
+        "url": "https://bsky.app/profile/did:plc:yes6cn2ebbuskqzbtspoa4yf/post/3mwqyq66m7g2n",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T18:43:19.667Z",
+        "score": 0,
+        "snippet": "Rivian will install its RAP1 autonomy computer and lidar in R2 vehicles for employees this year, with customer availability beginning in 2027.",
+        "summary": "Rivian will install its RAP1 autonomy computer and lidar in R2 vehicles for employees this year, with customer availability beginning in 2027.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@socialmedialab.ca (Bluesky): 1) Scout Motors- Blythewood, South Carolina:  groundbreaking in Feb. 2025, for i",
+        "url": "https://bsky.app/profile/did:plc:o5wlr3gi4tz23ake7ef23ejs/post/3mwqy4c2pvk2c",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T18:32:15.900Z",
+        "score": 5,
+        "snippet": "1) Scout Motors- Blythewood, South Carolina: groundbreaking in Feb. 2025, for its new electric/off-road vehicle factory. www.reuters.com/en/trump-tou... 2) Rivian-Stanton Springs North, Georgia: gro",
+        "summary": "1) Scout Motors- Blythewood, South Carolina: groundbreaking in Feb. 2025, for its new electric/off-road vehicle factory. www.reuters.com/en/trump-tou... 2) Rivian-Stanton Springs North, Georgia: gro",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electrek.co.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:wd3mo7zgasbkgw7xnhq6jbyq/post/3mwqxtjpplsr2",
+        "source": "bluesky",
+        "publishedAt": "2026-09-30T18:27:23.564Z",
+        "score": 0,
+        "snippet": "bluesky signal: @electrek.co.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @electrek.co.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
