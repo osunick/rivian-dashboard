@@ -143401,5 +143401,734 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-02T11:01:42.031956-07:00",
+    "timestamp": "2026-10-02T11:01:42.031956-07:00",
+    "sentiment": {
+      "positive": 30,
+      "neutral": 63,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 5,
+        "sentiment": "positive"
+      },
+      "electrek": {
+        "found": 6,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 22,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 29,
+        "sentiment": null
+      },
+      "business": {
+        "found": 5,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 9,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Charging",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "46 signals across Vehicles (29), Competitive (9); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, October 02, 2026 \u2014 11:01 AM PT \u2014 46 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 9 rival signals surfaced, led by Competitive Threats, Charging.\n\u2022 *Rivian posture:* 37 Rivian signals clustered around Vehicles (29), Business (5).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (9)\n\u2022 *Competitive Threats:* Elon Musk's Tesla delivered 486,532 vehicles in the third quarter topping the estimate of 463,761. Sales are still down from a year ago. Bloomberg's Craig Trudell reports. (Source: Bloomberg)\n  https://www.bloomberg.com/news/videos/2026-10-02/tesla-sales-top-estimates-for-third-quarter-video\n\u2022 *Competitive Threats:* Tesla sales fell slightly in the third quarter. But it could be a lot, lot worse.\n  https://insideevs.com/news/810643/tesla-deliveries-q3-2026/\n\u2022 *Charging:* Tesla says misuse of the feature could result in \"additional penalties,\" since each use can cause up to $25,000 in damages.\n  https://insideevs.com/news/810521/tesla-emergency-eject-supercharger-port/\n\u2022 *Competitive Threats:* American Model 3s still don\u2019t have vehicle-to-load (V2L) functionality, despite the feature being introduced in China.\n  https://insideevs.com/news/810593/tesla-model-3-us-screen-range-update-2026/\n\u2022 *Competitive Threats:* <a h\n  https://electrek.co/2026/10/02/mercedes-cuts-several-evs-lineup-2027/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (29)* \u2022 reddit_rivian signal: 22\" Sport Rims clear coat peeling: fixed via mobile?\n  https://www.reddit.com/r/Rivian/comments/1wvzw2j/22_sport_rims_clear_coat_peeling_fixed_via_mobile/\n*Business (5)* \u2022 Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's\n  https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ea185akNoOEw3ckhBYXlFX3FDREhlcGl2RElaQ3gweEg1LUtKcEdMTUY0ZTE5YV8teFFfbGlqN2RTRm9KeXJ1SkZDVUpVZjQ4SjdMN29haUNPd09MSzdNX2tjSDlmQkRUUXdCVlhXVGFfUVlJcE1MZndIaw?oc=5\n*Software (2)* \u2022 reddit_rivian signal: Wireless Synch of Cam Footage\n  https://www.reddit.com/r/Rivian/comments/1ww0cra/wireless_synch_of_cam_footage/\n*Community (1)* \u2022 Germany is clearing the way for EV owners to sell power back to the grid, provided their cars and chargers are up to the job.\n  https://insideevs.com/news/810587/germany-bidirectional-ev-charging-paid/\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Charging\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Wireless Synch of Cam Footage",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ww0cra/wireless_synch_of_cam_footage/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T17:51:28.466Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Wireless Synch of Cam Footage",
+        "summary": "reddit_rivian signal: Wireless Synch of Cam Footage",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "22\" Sport Rims clear coat peeling: fixed via mobile?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wvzw2j/22_sport_rims_clear_coat_peeling_fixed_via_mobile/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T17:32:52.273Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 22\" Sport Rims clear coat peeling: fixed via mobile?",
+        "summary": "reddit_rivian signal: 22\" Sport Rims clear coat peeling: fixed via mobile?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Sad Day",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wvzcep/sad_day/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T17:11:00.160Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Sad Day",
+        "summary": "reddit_rivian signal: Sad Day",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 owners: first-time EV buyers and switchers, what's your honest take?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wvyee6/r2_owners_firsttime_ev_buyers_and_switchers_whats/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T16:33:01.037Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 owners: first-time EV buyers and switchers, what's your honest take?",
+        "summary": "reddit_rivian signal: R2 owners: first-time EV buyers and switchers, what's your honest take?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Loan Offers Timeline",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wvxhhy/r2_loan_offers_timeline/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T15:56:57.556Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 Loan Offers Timeline",
+        "summary": "reddit_rivian signal: R2 Loan Offers Timeline",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The 2027 Rivian R2 Lives Up To The Hype",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wvwkxj/the_2027_rivian_r2_lives_up_to_the_hype/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T15:21:40.640Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: The 2027 Rivian R2 Lives Up To The Hype",
+        "summary": "reddit_rivian signal: The 2027 Rivian R2 Lives Up To The Hype",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "D8SH 3.0 - Now Free to Unlock the Rivian Dashcam. Clip Any Event. Generate Timelapses. 360\u00b0 Collage Views of Every Drive.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wvw1l9/d8sh_30_now_free_to_unlock_the_rivian_dashcam/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T15:00:37.258Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: D8SH 3.0 - Now Free to Unlock the Rivian Dashcam. Clip Any Event. Generate Timelapses. 360\u00b0 Collage Views of Every Drive.",
+        "summary": "reddit_rivian signal: D8SH 3.0 - Now Free to Unlock the Rivian Dashcam. Clip Any Event. Generate Timelapses. 360\u00b0 Collage Views of Every Drive.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Got the email...but conflicted",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wvgv4l/got_the_emailbut_conflicted/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-02T01:17:33.039Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Got the email...but conflicted",
+        "summary": "reddit_rivian_r2 signal: Got the email...but conflicted",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Where are all the r2 in the Bay Area?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wvfjer/where_are_all_the_r2_in_the_bay_area/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-02T00:14:27.041Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Where are all the r2 in the Bay Area?",
+        "summary": "reddit_rivian_r2 signal: Where are all the r2 in the Bay Area?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Quality Improvement",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wvcq89/r2_quality_improvement/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-01T22:06:11.565Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 Quality Improvement",
+        "summary": "reddit_rivian_r2 signal: R2 Quality Improvement",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "EVs and nausea: common experience?",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wvzh7t/evs_and_nausea_common_experience/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-02T17:16:13.260Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: EVs and nausea: common experience?",
+        "summary": "reddit_electricvehicles signal: EVs and nausea: common experience?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian delivered 19,248 vehicles in Q3 2026, reaffirms 65K-70K 2026 delivery target",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wvtjnn/rivian_delivered_19248_vehicles_in_q3_2026/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-02T13:15:55.336Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Rivian delivered 19,248 vehicles in Q3 2026, reaffirms 65K-70K 2026 delivery target",
+        "summary": "reddit_electricvehicles signal: Rivian delivered 19,248 vehicles in Q3 2026, reaffirms 65K-70K 2026 delivery target",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Sales Top Estimates for Third Quarter",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-02/tesla-sales-top-estimates-for-third-quarter-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Fri, 02 Oct 2026 15:32:42 GMT",
+        "score": 0,
+        "snippet": "Elon Musk's Tesla delivered 486,532 vehicles in the third quarter topping the estimate of 463,761. Sales are still down from a year ago. Bloomberg's Craig Trudell reports. (Source: Bloomberg)",
+        "summary": "Elon Musk's Tesla delivered 486,532 vehicles in the third quarter topping the estimate of 463,761. Sales are still down from a year ago. Bloomberg's Craig Trudell reports. (Source: Bloomberg)",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Sales Are Down. But They're Doing A Lot Better Than Some Competitors",
+        "url": "https://insideevs.com/news/810643/tesla-deliveries-q3-2026/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 02 Oct 2026 16:02:50 +0000",
+        "score": 0,
+        "snippet": "Tesla sales fell slightly in the third quarter. But it could be a lot, lot worse.",
+        "summary": "Tesla sales fell slightly in the third quarter. But it could be a lot, lot worse.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Will Now Let You Drive Away From A Supercharger In An Emergency",
+        "url": "https://insideevs.com/news/810521/tesla-emergency-eject-supercharger-port/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 02 Oct 2026 15:54:28 +0000",
+        "score": 0,
+        "snippet": "Tesla says misuse of the feature could result in \"additional penalties,\" since each use can cause up to $25,000 in damages.",
+        "summary": "Tesla says misuse of the feature could result in \"additional penalties,\" since each use can cause up to $25,000 in damages.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Charging",
+          "Vehicle Quality",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Rivian Just Had Its Best Quarter Ever. Thank The R2",
+        "url": "https://insideevs.com/news/810613/rivian-q3-sales-2026-r2/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 02 Oct 2026 14:32:12 +0000",
+        "score": 0,
+        "snippet": "On Friday, Rivian said it delivered 19,248 vehicles in the third quarter.",
+        "summary": "On Friday, Rivian said it delivered 19,248 vehicles in the third quarter.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "The Tesla Model 3 Gets A Range Bump And A New Screen In The U.S.",
+        "url": "https://insideevs.com/news/810593/tesla-model-3-us-screen-range-update-2026/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 02 Oct 2026 13:03:15 +0000",
+        "score": 0,
+        "snippet": "American Model 3s still don\u2019t have vehicle-to-load (V2L) functionality, despite the feature being introduced in China.",
+        "summary": "American Model 3s still don\u2019t have vehicle-to-load (V2L) functionality, despite the feature being introduced in China.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Germany Wants Parked EVs To Earn Money",
+        "url": "https://insideevs.com/news/810587/germany-bidirectional-ev-charging-paid/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 02 Oct 2026 12:22:15 +0000",
+        "score": 0,
+        "snippet": "Germany is clearing the way for EV owners to sell power back to the grid, provided their cars and chargers are up to the job.",
+        "summary": "Germany is clearing the way for EV owners to sell power back to the grid, provided their cars and chargers are up to the job.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "Mercedes will no longer offer these EVs in 2027",
+        "url": "https://electrek.co/2026/10/02/mercedes-cuts-several-evs-lineup-2027/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 17:15:37 +0000",
+        "score": 0,
+        "snippet": "<a h",
+        "summary": "<a h",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Ford\u2019s Fathom pickup couldn\u2019t come soon enough as EV sales drop 80% in Q3",
+        "url": "https://electrek.co/2026/10/02/fords-fathom-pickup-couldnt-come-soon-after-ev-sales-drop-80/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 15:17:16 +0000",
+        "score": 0,
+        "snippet": "The",
+        "summary": "The",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla might charge you up $25,000 if you use its latest feature",
+        "url": "https://electrek.co/2026/10/02/tesla-emergency-drive-away-25000-supercharger-damage-who-pays/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 14:59:01 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-para",
+        "summary": "<p class=\"wp-block-para",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Kia emerges as Europe\u2019s fastest-growing top 10 car brand after EV sales surge 58%",
+        "url": "https://electrek.co/2026/10/02/kia-europes-fastest-growing-top-10-brand-ev-sales-surge-58/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 13:52:46 +0000",
+        "score": 0,
+        "snippet": "Ki",
+        "summary": "Ki",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla (TSLA) Q3 2026 deliveries slip 2% to 486,532, but beat estimates",
+        "url": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 13:11:13 +0000",
+        "score": 0,
+        "snippet": "Tesla",
+        "summary": "Tesla",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian continues to ramp with R2 even as EV market growth slows",
+        "url": "https://electrek.co/2026/10/02/rivian-continues-to-ramp-with-r2-even-as-ev-market-growth-slows/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 12:37:40 +0000",
+        "score": 0,
+        "snippet": "Rivian p",
+        "summary": "Rivian p",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ea185akNoOEw3ckhBYXlFX3FDREhlcGl2RElaQ3gweEg1LUtKcEdMTUY0ZTE5YV8teFFfbGlqN2RTRm9KeXJ1SkZDVUpVZjQ4SjdMN29haUNPd09MSzdNX2tjSDlmQkRUUXdCVlhXVGFfUVlJcE1MZndIaw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 15:15:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's",
+        "summary": "Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kZW4wTF9OQnVERVVLMW16VGNmdjVaWnNoUXpJTEtDa2YzRWNST2xJU05JVVdWMjJSNEFmZ08zbEMyb2RlczNsVWtKME5XTVcwWmgwUGFoUFNEb3BVT0xCZ2xNaUl0eTVmU1HSAW9BVV95cUxQSWJaQ1JDZ3VzOWM1LWNDOG9jZWdiRTNKb3ZrNGNjZHRYcERGb2x2RU5kV3VTUnNVZElsOGExdWw0emYzUUdMZDgxUkxXMEpoaXUzWXY5elBxTGdOTWpsMGQ4RUgyNk5MMHl3OGpDdzQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 12:30:01 GMT",
+        "score": 0,
+        "snippet": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance - CNBC",
+        "summary": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance - CNBC",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian delivers 45% more vehicles in Q3 than last year (RIVN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3FOMWRqU0s3cXVHYXZSZFNQa1RDS09XYVA0QzZiSVh3Zjcxc2g3VFNOZHpKZ3A3a0tMRHZwLWhrZUI5Tkc2T0hVOU4wWF9ieTJaTUR3REdmSXBTR0tQRHhEY0VfNnBnT0lzLW5PajR4ZDRyOVlneGRqRHpoQTJIX28tcTB3aHRBYzQ3NEIyWDhhZEptSWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 12:54:06 GMT",
+        "score": 0,
+        "snippet": "Rivian delivers 45% more vehicles in Q3 than last year (RIVN:NASDAQ) - Seeking Alpha",
+        "summary": "Rivian delivers 45% more vehicles in Q3 than last year (RIVN:NASDAQ) - Seeking Alpha",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Stock Dips Post Q3 Production and Delivery Report - benzinga.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUlMSURmeHdQTk4xRUQwa0xWWEZnRFlQZUhldDB1N0F1dHpPOWp1VzE3SFFoUnREQmdmM2lGLWlQRC1wc05QZnp3eTBpUFd5MjNXTHVfWWVReWdkWThad0FNWjQ2MGdzVkt5Mlc5V0NrVks1VWUwY0ZWMER1c3VVOFVyaTFlbmh0TDNJOTdHNzlOdHpMUE9BUlZ2NWRFVmU2aUhnN1V3WGR4VEpDNTBoZmtUVXkyaVBL?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 16:31:46 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Dips Post Q3 Production and Delivery Report - benzinga.com",
+        "summary": "Rivian Stock Dips Post Q3 Production and Delivery Report - benzinga.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Production Jumps 84% as R2 Drives Record Q3 Deliveries - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcGstdVZ0NENOVm1ISVplMktEemM5V3doTi1QSDVlTjJXTDR4Nno2d1VBZi1aaXdxLVhweUtreVNjUzRoWXVIWUJiamExd21CUG9GalJvTUN0ZGFJeExTdTAteGZpQzdzYVBIUDQ4czBiN1ZoQ2JWYVJRSUxXVFRkXzJrcUdLZjNVUzNPMTVZaXhSckx0?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 14:32:08 GMT",
+        "score": 0,
+        "snippet": "Rivian Production Jumps 84% as R2 Drives Record Q3 Deliveries - TipRanks",
+        "summary": "Rivian Production Jumps 84% as R2 Drives Record Q3 Deliveries - TipRanks",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Releases Q3 2026 Production and Delivery Figures and Sets Date for Third Quarter 2026 Financial Results - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFdGZ0VoOFQzZHY3Q3lpem5Rb1ViRXFNLVcxWTdMR243a1J0WXFBSmJuUVhiQWJUcW91bm5YQVBHdnpTdHJfUWc4dGpVa0JVdk1sWXFtRUNfZ1QtdmNVbWdfeFJsa1BJOG9sSS1QSFg4SERrVnNLNmVBZFZnNXpzYkJoNFM5U3dRckI2TG9nUk5EMnlEY0VLSnFFVkdYbDRf?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 12:30:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Releases Q3 2026 Production and Delivery Figures and Sets Date for Third Quarter 2026 Financial Results - Yahoo Finance",
+        "summary": "Rivian Releases Q3 2026 Production and Delivery Figures and Sets Date for Third Quarter 2026 Financial Results - Yahoo Finance",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Stock Is Falling Friday: What's Going On? - Rivian Automotive (NASDAQ:RIVN) - benzinga.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUxyeFhkQmpJRU0zVkFCMEdyemtnbGRUbWZxWXgtYXhSNFE4SW02WWt3UjJpRHotbjl3RGFPek1OZXYydjN3Mi1UYWlNVWJOVzNNY09waVZVbHRUcERGOG83d2pwUVluemstU2JBaGgwYjJXbi1lUGQ4VjNraTV1SFZqeW93bmk0WG5zNHdyOVRXeU5SaTNJSFhwTGp3ekNobHUxdi1SVnVOZzl3N2FEaGpLc1I?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 16:53:49 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock Is Falling Friday: What's Going On? - Rivian Automotive (NASDAQ:RIVN) - benzinga.com",
+        "summary": "Rivian Stock Is Falling Friday: What's Going On? - Rivian Automotive (NASDAQ:RIVN) - benzinga.com",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian (RIVN) Q3 2026 vehicle deliveries outperform Wall Street estimates - Shacknews",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWxyb1hvR1pxYzl2QTE1Ul9faW9MS193QkFHVlVlUHVULXl4V203dENVYzJXUEYtSHVQUENpSGQtazRKM21BSWh4YkF2dWRCSVpPTHNNM053UU1CVzBHLWtoVXFwbVRDUFNEX2ltNXJUZGRJNFE4RHo5SEdTb05PUjU4STZja241NjJnbmZSdzZtZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 14:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian (RIVN) Q3 2026 vehicle deliveries outperform Wall Street estimates - Shacknews",
+        "summary": "Rivian (RIVN) Q3 2026 vehicle deliveries outperform Wall Street estimates - Shacknews",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Q3 2026 vehicle deliveries beat Wall Street estimates - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxbVJqeHlweVc4enhDa2t5QXJKN000UHVZTEc5VEJxQ2RLZTlHajRxNnVtZHY0bGZyZ2hiTHB1LTlwTjJhbFpzdVptU29WUXVCYXMwS0trcU5mN09NamFsZTd1T1duQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 13:31:18 GMT",
+        "score": 0,
+        "snippet": "Rivian Q3 2026 vehicle deliveries beat Wall Street estimates - qz.com",
+        "summary": "Rivian Q3 2026 vehicle deliveries beat Wall Street estimates - qz.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Jumps 4% After Delivering 19,248 Vehicles and Reaffirming Full-Year Guidance; Tesla Rises 2% - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR080VUU0NGlVMlYyNUh2QjN4QUxxVGx1R3R3Wm5RWkxLZXFiNWJSZzZDS0Q5RTA0OENwYmRmQVNqM3ROQ05RVTF4Rl9fRzlISjdIRzFab1pXeDRVS0dRa0VBcE8zWjhLVkl4YzhzWjdrQUFWR2dmX2t6TzdqRlZOSkNmUE92NnowM0dOTVozbG90djhXMDdsZ0R3bmttNjliOHdQbHlURjZvWWFMNVFvSjdsbjBQVk9fZ2tjeDZqMjhab19fMFFKeUE0NF9aR19EOG9DMm5B?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 13:30:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Jumps 4% After Delivering 19,248 Vehicles and Reaffirming Full-Year Guidance; Tesla Rises 2% - 24/7 Wall St.",
+        "summary": "Rivian Jumps 4% After Delivering 19,248 Vehicles and Reaffirming Full-Year Guidance; Tesla Rises 2% - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian shares rise 4% after delivering 19,248 v... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXZMRW1OVVp5eFN6eWY2MFVBSkMxczVLWGNiR0lBeWwwOGxldV9FcmJ0RGoxSk5ra19QeUhGcXlxSC1adjExS2ZScV9kRWloaVVrLXJ4Qlg4XzVKS0t5TFBWZ3JTMnZiOVBVZU4tWnkzdUt3MjFtU3JCX0hjcHBkU2ZaMHBkYXc5V0tYM3RMVkltNlhnRGlfMTdlSGpOdXBXSExwZ0RpWDdYbUNQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 13:43:49 GMT",
+        "score": 0,
+        "snippet": "Rivian shares rise 4% after delivering 19,248 v... - Pluang",
+        "summary": "Rivian shares rise 4% after delivering 19,248 v... - Pluang",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s R2 just helped it set a new sales record - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0tTaldqd2JCMUR2RXVMMFNoZ2xWSEJZLWlLb1dkUFNXQjNqUVVOcmlJRkg3WXhsY0Jrbl9wTVBXRDVQRjdmXzA2SVpTeXJHTm1ManRhYjltbVJpYVlQY1kzclVPSjV1QjYtbGxsLVM3ZVg4SEpzWTRPazl3WGI4bXY0U3RFQkV1MVVJ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 13:17:05 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s R2 just helped it set a new sales record - TechCrunch",
+        "summary": "Rivian\u2019s R2 just helped it set a new sales record - TechCrunch",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Reports Q3 2026 Production and Deliveries - grafa.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZXUENrZ3lQWTd6TVVSdnljcjNEdjZ0cTJ4UEV5VU5RRHFzdnFzU0NPbDBmY0hVS1hTYWZRV3ZpN2h3NkoyU3dCRjFGOWhOREFNT1I3UEFCYllQekQza1REOGVjbTFnNENycjdXRkgyQ0JsUFd4RERxQUdEY2c5VkJR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 13:50:15 GMT",
+        "score": 0,
+        "snippet": "Rivian Reports Q3 2026 Production and Deliveries - grafa.com",
+        "summary": "Rivian Reports Q3 2026 Production and Deliveries - grafa.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Q3 Deliveries Hit Record \u2014 Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU25zeFFRbjdSSVQtZkhzeTBYLUZnb25iaDVfY0JqTVMyYW5kSmYzeTdQejdla2ZWXzZZeHZzMWM3U192aVpQTVFkVjRaeWpaTmFXcEZ5RU13T3RvenNjRkIzeUlteEZhZzJPSmZFVXRpa3Vob3dNOE1HVlhYa0N1RDdJeTVVZXlGUFVsVml2RlRlbm5iTE9DVmRxSW4?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 15:07:44 GMT",
+        "score": 0,
+        "snippet": "Rivian Q3 Deliveries Hit Record \u2014 Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla - Yahoo Finance",
+        "summary": "Rivian Q3 Deliveries Hit Record \u2014 Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Surges 5% as 486,532 Deliveries Top Company Consensus; Rivian Slides 3% - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXl5SUtWVWVHSWJxc3JqUmk1Z2xRWGpnRnJNUExuTjV3dGpnNi1Qdm41a1MyUE13V1dhdjF0OXNfZ0I0RjVCNlpNVV9yQzc5ZHJSWnkzZ0NHYzM1MzJwZnNlaVRtRG5JYV9ESTRQdDNmUzlyMTZkUFZoeTVkb1Nmc3NMaVRNS0NfMFRibThWWWo0RnE2WElwd21YNlV6S25QbjZZc3h4RUdUTGtIV2ZkU0tSa1BFLXlB?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 14:50:00 GMT",
+        "score": 0,
+        "snippet": "Tesla Surges 5% as 486,532 Deliveries Top Company Consensus; Rivian Slides 3% - 24/7 Wall St.",
+        "summary": "Tesla Surges 5% as 486,532 Deliveries Top Company Consensus; Rivian Slides 3% - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Cantor Fitzgerald on Rivian (RIVN): 'pre-announced that it delivered 19,248 vehicles in 3Q26, above our estimate' - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObGF0eTNWMHkwME42UFJyVkVIY3dvaVRUU3Q0UlZrZFhFZFpRdEszZzh6VTAwcjJOejRhb1Y4eUVYNmhGX0hiMFFqX1N4WEJiUnJvUjRQbVhRdFppZHZQOVpNeVNKVTJ0dW05NWhUaEVhS181eDNwbDN2YkVmMlk4UElCX0ZOd0Z6clpjOENEZUZPNURwTHlxd1VxT2V6Nm5LU1BZQ1ZBNEktUlFjSk93OGEta1phbHVJQ1dxWGVEMG9pdVZFS1JEUHo2TTl6RUlJZWdGdFBvWHNrUmlSb2xCMDc5ZmwtNm5Eek1aR1JoRGlSV3J3M2hQaGY4VjE4cS1hYlBGUmMyX1BkXy0yTGxv?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 13:30:14 GMT",
+        "score": 0,
+        "snippet": "Cantor Fitzgerald on Rivian (RIVN): 'pre-announced that it delivered 19,248 vehicles in 3Q26, above our estimate' - StreetInsider",
+        "summary": "Cantor Fitzgerald on Rivian (RIVN): 'pre-announced that it delivered 19,248 vehicles in 3Q26, above our estimate' - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian deliveries hit record high as R2 rollout gains momentum - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGZqczJZQmdkeEJ1RmcwSFpXUUtjRHMwdHRURGg4M0F4dXFHWExMazlJOGJjRTBXeTlrZ0dnSXZzTkt4TnFwZkhIR3M1S1ZlcnpxdkpLaDNtX3pNWmcxNF9nU3dWcExFM2hFblAwR0kxQ1Y0Y0ZsY25tYmVwU0lPdVlHdlhWNWxuTUg4VTh3bkRsWnVOeE5GX1VzQTA5eF9fNDN4TW5TWmswNzVELUdmRWVINnBDUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 12:32:02 GMT",
+        "score": 0,
+        "snippet": "Rivian deliveries hit record high as R2 rollout gains momentum - marketscreener.com",
+        "summary": "Rivian deliveries hit record high as R2 rollout gains momentum - marketscreener.com",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian deliveries hit record high as R2 rollout gains momentum By Reuters - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0p5elJLTHg5RkVLOTZoV3hiMHdrSmdyTTdLaFFJOXRyYUU5ZlRIeThQVG1IcmZ5S3R1LXJzY1lBWDVOOFppaGNxbThuX01TWnQ5N0tRT0J0X3R1R1dQeTNvN1hzeklUNTE3d042UGJwQnA1MjN1bVNkRzg2bUxQY2tpanhkY2oyMHZRQXRVSmppQmQ1VkhiTldPMXFqRUtodDgyeHRCX2JnRUpXTE1ETXFGODhkMllJUTVj?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 16:39:16 GMT",
+        "score": 0,
+        "snippet": "Rivian deliveries hit record high as R2 rollout gains momentum By Reuters - Investing.com",
+        "summary": "Rivian deliveries hit record high as R2 rollout gains momentum By Reuters - Investing.com",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Reaffirms 2026 Delivery Outlook After Q3 Vehicle Update - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmczX1l0OUZ5X1V3VDd1c2hlWkExZlpyLXNsTmh1NkRsYXptWHZUYXZ4SHA4bXJ5eDdBcVpjS1h5Zk9aQkxYeklCOGN5QzdzYk4wVkJHYnFzS19KdnZORVNhaVZZTUJYNVVldmlaeXpWSFRndVAtSDNmT0hoeDEwSzZxeU5XczBwNnA2NkFGSVVQYjRmM241ZE9uZmpOZ3ZxV2Z5aGxXeWp6SXZ4b2J5Q0FZQ3loTTVJR3RVOFVrSFEtNHk5?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 12:53:19 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Reaffirms 2026 Delivery Outlook After Q3 Vehicle Update - marketscreener.com",
+        "summary": "Rivian Automotive Reaffirms 2026 Delivery Outlook After Q3 Vehicle Update - marketscreener.com",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Rivian's Q3 EV sales jump 45% with new affordab... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXNWck1LSUVJUzAybGFvc0VOUnhfS0tQMGEzM2E5SVJ2UFVtcGsyekJDRG5vd3lnV2M3NXB3ckN5VkotUVlpR0xjMHl3QTQ1aFUtYlN6aEszYnVZWXF0aENqZVBBVGxWR3pseTMxS1h4UUNWLUVXQ1lJdnRUNDczcU05MA?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 13:33:51 GMT",
+        "score": 0,
+        "snippet": "Rivian's Q3 EV sales jump 45% with new affordab... - Pluang",
+        "summary": "Rivian's Q3 EV sales jump 45% with new affordab... - Pluang",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian's Q3 vehicle deliveries rise 46%, confir... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnBZUFhZWHhKRnB6bFoxRVlOWklVMXVNMkplUkRUTU5tNmtOMHFGbHFIdlBBd3dWZzBHQ1NLMEdOcVlWWkNlQmZEaTZCcUduNUh1RXd4ZE1xWHRaNDlUOWl1WlZZMmN5cFRiZHcxVmtrQUNUem5rd3JMTUdXNC0zU1Z3UUNoT0xaOWRiOWVGbWpHVGdGMko5Q2ZfSVFfY2ZCNjFoWQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 12:43:29 GMT",
+        "score": 0,
+        "snippet": "Rivian's Q3 vehicle deliveries rise 46%, confir... - Pluang",
+        "summary": "Rivian's Q3 vehicle deliveries rise 46%, confir... - Pluang",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive earnings beat by $0.03, revenue fell short of estimates - Investing.com Australia",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHdpNmJ5QWw4am1RaWNCS2QzYlpaTm8zT0lJQ3pKYnRGZlFxSlRWYWF3ZkFrNUVmSmJGWDRfVkZvNFBfdHdnSkpFRjgwWXo5OEQzbVVRcFktU2FiWnpGQ29WaVZBU21fQlBxUVQzOTJJVHFFekVPc01uY1lhMDhKS2w4TFpUSWtEaTBDYUttZ05ENWI2ajhvbUZHengzekRzcDcyVnplUm54VDAwNWtHNzRCVHBremRH?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 16:46:03 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive earnings beat by $0.03, revenue fell short of estimates - Investing.com Australia",
+        "summary": "Rivian Automotive earnings beat by $0.03, revenue fell short of estimates - Investing.com Australia",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
