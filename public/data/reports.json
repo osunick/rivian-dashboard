@@ -144130,5 +144130,719 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-02T19:01:37.516875-07:00",
+    "timestamp": "2026-10-02T19:01:37.516875-07:00",
+    "sentiment": {
+      "positive": 9,
+      "neutral": 65,
+      "negative": 25
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "marketwatch": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 11,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news_service": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_lucid": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 12,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 25,
+        "sentiment": null
+      },
+      "business": {
+        "found": 7,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "RIVN Stock",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "44 signals across Vehicles (25), Business (7); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, October 02, 2026 \u2014 7:01 PM PT \u2014 44 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats, EV Market.\n\u2022 *Rivian posture:* 38 Rivian signals clustered around Vehicles (25), Business (7).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 11 negative signals; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Rivn Stock:* EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.\n  https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories\n\u2022 *Competitive Threats:* On this week's Plugged-In Podcast, we discuss the Tesla-beating BMW, Trump's clean-car rollback, and the Chevy Bolt's limited run.\n  https://insideevs.com/features/810672/bmw-i3-cafe-chevy-bolt-ev-podcast/\n\u2022 *Competitive Threats:* With the\n  https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/\n\u2022 *Competitive Threats:* In the <a\n  https://electrek.co/2026/10/02/podcast-tesla-roadster-delay-ev-deliveries-battery-swap-comes-back-and-more/\n\u2022 *Competitive Threats:* Went with mom to pick up an EV5 (her first electric vehicle) and gotta say, it's a really impressive vehicle. Unfortunate the US isn't getting this, it sits really nicely between the EV3 and EV9 and h\n  https://bsky.app/profile/did:plc:t3qi45gk4dwlhiixjpe2wsdd/post/3mwwfj5ry3a2v\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (3)* \u2022 reddit_rivian_r2 signal: Test drove the R2, ix3 50, and Volvo Ex60 P10\n  https://www.reddit.com/r/RivianR2/comments/1wwb3d8/test_drove_the_r2_ix3_50_and_volvo_ex60_p10/\n*Vehicles (25)* \u2022 reddit_rivian signal: Paint imperfections on new 2026 R1S Tri max\n  https://www.reddit.com/r/Rivian/comments/1wwao2d/paint_imperfections_on_new_2026_r1s_tri_max/\n*Business (7)* \u2022 Why Rivian (RIVN) Stock Is Falling Today - StockStory\n  https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjdvNElWNHN2WXJxOTJ6Wmw4ckRnU1dIRmQ2WjktemU4S3FmeGpDcE9LQ01KN2NMZHRSRDNsaVJma0liUWNsQUswRTlQZmxWbW5EdmtINHBlVktkeXZIWVhKb05JV1hZYXE2ejIzYWhrWkE0RlhINkt1RHFqcFdmTnFQTHJ5bnoyRmMxU3pRLUN0ZHpOR1ZNY1VqZ0p2bGNoWFRqVw?oc=5\n*Software (2)* \u2022 2027 Rivian R2 Hit With Second Recall, This Time It's About Improperly Tightened Battery Fastener - autoevolution.com\n  https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeXA2RVRiNXNRZ2pwaEE5UkhiRm9sMF9GaEZ0ZG9ibG42ZC1nNk5iZUtZV1FXTjN1NWZDSEdYaEJKYXRsLVpZMVpjb0hLY2tSR1d1NGdKQy05SW1JcTVvc3lJdUl3NkdjTlkwaHhwMmtxUzB2dE15QnhTOFg3am11enB3aEdUSjV2ZHJZUGptakc5NnFudmxWa0s5T05zMXZWRzc3clRSd3hsVGhZX2I5Y2s0emRwWDZaaHRpYVlJeEZrVTNZTmRfRDh0dnYxV2YwUlNqZFNCTktnYlE?oc=5\n*Community (1)* \u2022 TechCrunch Daily: October 2, 2026 www.linkedin.com/pulse/techcr...\n  https://bsky.app/profile/did:plc:qlwq4sr5hufm5xxd3irdirbh/post/3mwwq4h44dk2t\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 EV Market\n\u2022 RIVN Stock\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Paint imperfections on new 2026 R1S Tri max",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwao2d/paint_imperfections_on_new_2026_r1s_tri_max/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T01:21:52.577Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Paint imperfections on new 2026 R1S Tri max",
+        "summary": "reddit_rivian signal: Paint imperfections on new 2026 R1S Tri max",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian is doing well with the R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwagex/rivian_is_doing_well_with_the_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T01:10:30.057Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian is doing well with the R2",
+        "summary": "reddit_rivian signal: Rivian is doing well with the R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Sales Pop",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ww8rmp/rivians_sales_pop/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T23:45:03.818Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian\u2019s Sales Pop",
+        "summary": "reddit_rivian signal: Rivian\u2019s Sales Pop",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Sales Pop",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ww8qwp/rivians_sales_pop/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T23:45:03.818Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian\u2019s Sales Pop",
+        "summary": "reddit_rivian signal: Rivian\u2019s Sales Pop",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New shoes",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ww7wiu/new_shoes/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T23:05:06.763Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: New shoes",
+        "summary": "reddit_rivian signal: New shoes",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Order to vin assign questions?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ww7opf/order_to_vin_assign_questions/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T22:54:44.333Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Order to vin assign questions?",
+        "summary": "reddit_rivian signal: Order to vin assign questions?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My experience Model Y vs R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ww6h0o/my_experience_model_y_vs_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T21:59:30.497Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: My experience Model Y vs R2",
+        "summary": "reddit_rivian signal: My experience Model Y vs R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Panic-ordered the last available 2026 R1S Dual Standard",
+        "url": "https://www.reddit.com/r/Rivian/comments/1ww5shs/panicordered_the_last_available_2026_r1s_dual/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-02T21:30:17.047Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Panic-ordered the last available 2026 R1S Dual Standard",
+        "summary": "reddit_rivian signal: Panic-ordered the last available 2026 R1S Dual Standard",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Test drove the R2, ix3 50, and Volvo Ex60 P10",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wwb3d8/test_drove_the_r2_ix3_50_and_volvo_ex60_p10/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-03T01:44:43.806Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Test drove the R2, ix3 50, and Volvo Ex60 P10",
+        "summary": "reddit_rivian_r2 signal: Test drove the R2, ix3 50, and Volvo Ex60 P10",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Second Demo Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ww52jd/second_demo_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-02T21:00:02.627Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Second Demo Drive",
+        "summary": "reddit_rivian_r2 signal: Second Demo Drive",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "My experience Model Y vs R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ww4s3e/my_experience_model_y_vs_r2/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-02T20:47:56.219Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: My experience Model Y vs R2",
+        "summary": "reddit_rivian_r2 signal: My experience Model Y vs R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Just test drove an R2, WOW!!!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1ww4ms8/just_test_drove_an_r2_wow/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-02T20:41:37.148Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Just test drove an R2, WOW!!!",
+        "summary": "reddit_rivian_r2 signal: Just test drove an R2, WOW!!!",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+        "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+        "source": "marketwatch",
+        "publishedAt": "Fri, 02 Oct 2026 22:29:00 GMT",
+        "score": 0,
+        "snippet": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
+        "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "RIVN Stock",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Is The BMW i3's 468-Mile Range Overkill?",
+        "url": "https://insideevs.com/features/810672/bmw-i3-cafe-chevy-bolt-ev-podcast/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 02 Oct 2026 21:45:32 +0000",
+        "score": 0,
+        "snippet": "On this week's Plugged-In Podcast, we discuss the Tesla-beating BMW, Trump's clean-car rollback, and the Chevy Bolt's limited run.",
+        "summary": "On this week's Plugged-In Podcast, we discuss the Tesla-beating BMW, Trump's clean-car rollback, and the Chevy Bolt's limited run.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Kia sweetens EV deals with up to $10,000 off",
+        "url": "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 21:06:34 +0000",
+        "score": 0,
+        "snippet": "With the",
+        "summary": "With the",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Jeep\u2019s off-road electric SUV managed just 160 miles in a real-world highway range test",
+        "url": "https://electrek.co/2026/10/02/jeeps-off-road-ev-drove-160-miles-real-world-highway-range-test/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 19:30:17 +0000",
+        "score": 0,
+        "snippet": "The",
+        "summary": "The",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Podcast: Tesla Roadster delay, EV deliveries, battery swap comes back, and more",
+        "url": "https://electrek.co/2026/10/02/podcast-tesla-roadster-delay-ev-deliveries-battery-swap-comes-back-and-more/",
+        "source": "electrek",
+        "publishedAt": "Fri, 02 Oct 2026 19:20:55 +0000",
+        "score": 0,
+        "snippet": "In the <a",
+        "summary": "In the <a",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWFsbU1VU3c0eVpxM2h5UXItNkctWlRwMmxnOEp3VUZrLWJ0ZGprQzhLeXdFM01wR0FGc2Q2UkktM1dYdy1qX1lLT3AyWUlyOHZLSXhqYVFSSkFUN2JWWkxZejBNeXZfNkdDMXVVRUJsRkR0UXZnRWVKb05JdUtxX1czRnE3WVVWMW8yU01Xend2VnFyWGJMVnh0eVJFM01rcVBUOXRR?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 03 Oct 2026 00:24:00 GMT",
+        "score": 0,
+        "snippet": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell - Yahoo Finance",
+        "summary": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Releases Q3 2026 Production and Delivery Figures - Newsroom - Rivian",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3dsdFYzYnpnTUhFbWFqeTBBSHNITkRrOHUtb1FleU5nOXIwcmw1RFlWRkpUczlHQTdDei1BbHh4bGsxU3VuSkJSSlEtT3NjS3d5MzhYNnZqenBiVG1rM295ZDU2Yk5JYlNfTy1ybVFvSGxDRU9VNEZxU0JyM25ZLXJmeThBeU5Bd3FNUVdodE9Wc0pvaWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 15:44:06 GMT",
+        "score": 0,
+        "snippet": "Rivian Releases Q3 2026 Production and Delivery Figures - Newsroom - Rivian",
+        "summary": "Rivian Releases Q3 2026 Production and Delivery Figures - Newsroom - Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Why Rivian (RIVN) Stock Is Falling Today - StockStory",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjdvNElWNHN2WXJxOTJ6Wmw4ckRnU1dIRmQ2WjktemU4S3FmeGpDcE9LQ01KN2NMZHRSRDNsaVJma0liUWNsQUswRTlQZmxWbW5EdmtINHBlVktkeXZIWVhKb05JV1hZYXE2ejIzYWhrWkE0RlhINkt1RHFqcFdmTnFQTHJ5bnoyRmMxU3pRLUN0ZHpOR1ZNY1VqZ0p2bGNoWFRqVw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 20:25:43 GMT",
+        "score": 0,
+        "snippet": "Why Rivian (RIVN) Stock Is Falling Today - StockStory",
+        "summary": "Why Rivian (RIVN) Stock Is Falling Today - StockStory",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock: Insider Michael John Callahan Sells 15,000 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGN6S1JaTy1KUlBFS0VSekNfRE82YXR1R0s2YUE5SmJ1d0VkaFRpcmU1aEhwM1NUTFVtTVRrdVdtaVo0WjZmRUYyQndkREdhUWpOWVZsTW9OU1pKSzNDWmt0WU5GamtBcXAwVVhfby1HWXNoZ2tRQTd5VHRsc3JTOHZ3V1JqejMxa2hZQnN4SkcyR3hzQ2x3RnlkQjQxOVgwcEVTbHJobEZIZGFnRjhIdTVtc2JIZHFobDhOdEEzT2wxTWRXaVR6cXVyMGF4Sk5JRjQ4SVdvX01rMW5WMzE0?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 23:19:57 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock: Insider Michael John Callahan Sells 15,000 Shares - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Stock: Insider Michael John Callahan Sells 15,000 Shares - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "RIVN Slides As Recall, Insider Selling Cloud Citi Price Target - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNDhMd0VNb2FMUDRwZUVndU10TWt0cm1yT0pHV0J2bEVMd3dXMGotZzlnREVpUzBvOGNwVTdwanRYcU1kNnlrWVpPYW9jZDhQeWJ5Ynktc25zc242MzItVUJHNjZ6NTJJUzEyNklqdUw3Ylo1bnRYTjE4cjJsbVNacTJB?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 20:50:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Slides As Recall, Insider Selling Cloud Citi Price Target - StocksToTrade",
+        "summary": "RIVN Slides As Recall, Insider Selling Cloud Citi Price Target - StocksToTrade",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "RIVN Stock Slips As Recall And Insider Sale Weigh On Outlook - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjZsVWw4UkNNUDJfYkNmSkpsbmc3S3NrNWQzRWhLbXZfaXBJSGpmbjJvcHBCZll4SnVvUWNMMXpkaWpjcVJVVWQ1NUN2blBHZEkzZ1EwVHhSR09KdFJJbjE0WGpOZFRHR2xTRVJiMDRZVV91Q2ktTDBHTG1lOW1NR2piSQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 19:02:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Slips As Recall And Insider Sale Weigh On Outlook - timothysykes.com",
+        "summary": "RIVN Stock Slips As Recall And Insider Sale Weigh On Outlook - timothysykes.com",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Falls 3.1% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREtGMmNtazZvczY3MGpzTUJ4eGRmLWJrM2l5bndRekIxcm9xMkIyN3l5Z2JTandHWDlEanh2Z19MOFlOOFlQZVpyeEZDWDJSLTBlX1BaVVF6cTY3ZW1jaXVrYjdqdjdTX1ZyVFRsMUNCdEZGNnZqbXVjRUNUTXI2OFR2UDBpSDlGRG5MZndYdl9IVUtrdmEzUURFSU1wZXFGLUNtVy1wWUNaRXdRWHZISW1kOTJ3enZC?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 21:51:22 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Falls 3.1% - Time to Sell? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Stock Falls 3.1% - Time to Sell? - MarketBeat",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Investors Buy High Volume of Rivian Automotive Call Options (NASDAQ:RIVN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXVLNUlodFNTdW1yRXZhUUFVX0QwMHNnLWx1ZmJ4VnZWbGZkQm15VXJIZTAtbGlKM3Bycnlhbno0NXRfMUNMY1NFNDVZNW91NWVlZU12OGR1bmJqVXY5MGJSSy1xUjZ1M3RnZC1IMkZsb2c4T2NuVV9iQlZpLXlIMGpLUHhKZU9YdlVSNnpsM0FvQzhkMlpOLWJwZlRvWmREX1BNYnJ3TVAtSW1CWVEwZWNNRjJhQUJWZy0xMTU0LUMyZWw0X3FPM0I3MXdaZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 22:03:24 GMT",
+        "score": 0,
+        "snippet": "Investors Buy High Volume of Rivian Automotive Call Options (NASDAQ:RIVN) - MarketBeat",
+        "summary": "Investors Buy High Volume of Rivian Automotive Call Options (NASDAQ:RIVN) - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Drops 6.6%, Wiping $1.4 Billion in Market Value - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkxLekU0aHFjR0FVRENlQkxKM3RhY2pvNkpvR0M1aF8yeXVUcXVwSjgxSkU5ZGN4SWFySnkxZnlaVzFIU3RSazBmdHRyc1A2NzgyRGFLekNxT2JQY2daaGpZSmpmWEVlMFdNc0JMWHpXOUpxdy1YeXNDX0hQU2NHTDFGUWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 18:28:52 GMT",
+        "score": 0,
+        "snippet": "Rivian Drops 6.6%, Wiping $1.4 Billion in Market Value - 24/7 Wall St.",
+        "summary": "Rivian Drops 6.6%, Wiping $1.4 Billion in Market Value - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "RIVN Stock Under Pressure As Recall And Insider Sale Hit Sentiment - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVJZM1BrTldUbEpDMm9CRVdKeDZ0VEthZlI3VmdQYjI2QkZYZ3NXdXN5d3RKdDV3SERjZHk5b0gxNFJkQVU4SC1tSDNrYmpwcVBuUE1RNVVvdkRJb3lEazNYbzhUNDJnMWJ2T0ZuOUlHbTVsR0dobTQ3M0dleXdUUDMxbkVFUQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 20:47:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Under Pressure As Recall And Insider Sale Hit Sentiment - timothysykes.com",
+        "summary": "RIVN Stock Under Pressure As Recall And Insider Sale Hit Sentiment - timothysykes.com",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "RIVN Stock Slips As Recall And Insider Sale Shadow Outlook - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zbjhfQ1d5ZXRJeXdUZENGWnZab2ctV3dMcTBFM3AxVE9wQkRzdGRGWm5JSjdjcVpva0E0VWhWRlNpNkV3c3FUTXNoMENrV2NUT0tWb1VBVTRlRk91cXUyZF80UVpnZWNSdGRqbW1zeVd6X25EVjgwSHg2enBvbWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 02 Oct 2026 19:04:00 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Slips As Recall And Insider Sale Shadow Outlook - StocksToTrade",
+        "summary": "RIVN Stock Slips As Recall And Insider Sale Shadow Outlook - StocksToTrade",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian deliveries hit record high as R2 rollout gains momentum - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFJoOWpMcE90Z1gyRnVjeU9VZjRQTzFzakFpMlIyNjVWblo4ZW1GYnFtdEticlN5T3M0YjJmSjAxdE00dC13bmEwQ2FYS0hDdXVXbmxmWlJfVHVBa2Ztdjg3OV9jb19RTE5qaFZfTW1ZQ1pPUlZueXFQbU52d3JiS3ZuR3hJM20wVTZ0WFRuVWJCajdYMFFjblo3YjJxaTB3VEkyM1FoRWxLc09wVEpUN1F2bmhhb00ySUh5ZEVPT3hJZ28?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 02 Oct 2026 15:14:21 GMT",
+        "score": 0,
+        "snippet": "Rivian deliveries hit record high as R2 rollout gains momentum - Reuters",
+        "summary": "Rivian deliveries hit record high as R2 rollout gains momentum - Reuters",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s sales pop as the company\u2019s big R2 bet starts to pay off - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2duVUxUNkYxWnl5Ni1Nb05Fa0tXLWc0UlB2UUdmN3J6cEZXTUNYOXRKakJxQjk4NEpFNmwyMGtoRlZLYjRrQTJVSXdOQ1FYeXU0UXdwMEdNRlpYaHpTSzBucDVHSG1LZk1HRG9vMGRWb3lxSjEyWUt4TG9ZamR6RDNZdTRELV9nT0wtZDd3?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 02 Oct 2026 17:15:03 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s sales pop as the company\u2019s big R2 bet starts to pay off - The Verge",
+        "summary": "Rivian\u2019s sales pop as the company\u2019s big R2 bet starts to pay off - The Verge",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 Hit With Second Recall, This Time It's About Improperly Tightened Battery Fastener - autoevolution.com",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeXA2RVRiNXNRZ2pwaEE5UkhiRm9sMF9GaEZ0ZG9ibG42ZC1nNk5iZUtZV1FXTjN1NWZDSEdYaEJKYXRsLVpZMVpjb0hLY2tSR1d1NGdKQy05SW1JcTVvc3lJdUl3NkdjTlkwaHhwMmtxUzB2dE15QnhTOFg3am11enB3aEdUSjV2ZHJZUGptakc5NnFudmxWa0s5T05zMXZWRzc3clRSd3hsVGhZX2I5Y2s0emRwWDZaaHRpYVlJeEZrVTNZTmRfRDh0dnYxV2YwUlNqZFNCTktnYlE?oc=5",
+        "source": "google_news_service",
+        "publishedAt": "Fri, 02 Oct 2026 16:17:46 GMT",
+        "score": 0,
+        "snippet": "2027 Rivian R2 Hit With Second Recall, This Time It's About Improperly Tightened Battery Fastener - autoevolution.com",
+        "summary": "2027 Rivian R2 Hit With Second Recall, This Time It's About Improperly Tightened Battery Fastener - autoevolution.com",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Lucid Launches Certified Pre-Owned Program in Four European Markets - Electric Cars Report",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdTZ1bks4LWNYazVyX0F1NEhDbGVyYUx1RTRnemRhVnJYM0xXN2ZFWHI0VEpSeVk2bVU1d09rZHUwejR4S2pLcWF4eWFxYzJ6Rk52aTRhcDh0ajY0UjVXRTB0MXZHRF8tRlliTzRhcVZBR0s0ZGN6QXVRZFZOU3E4eDBvT3lwZEVYc24wTTlKbmZoYUNJdi1NODdpSUlmbktCa2FtSnRRaEdTdG8?oc=5",
+        "source": "google_news_lucid",
+        "publishedAt": "Fri, 02 Oct 2026 18:51:41 GMT",
+        "score": 0,
+        "snippet": "Lucid Launches Certified Pre-Owned Program in Four European Markets - Electric Cars Report",
+        "summary": "Lucid Launches Certified Pre-Owned Program in Four European Markets - Electric Cars Report",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@eldonedwards.bsky.social (Bluesky): TechCrunch Daily: October 2, 2026\nwww.linkedin.com/pulse/techcr...",
+        "url": "https://bsky.app/profile/did:plc:qlwq4sr5hufm5xxd3irdirbh/post/3mwwq4h44dk2t",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T01:25:08.660Z",
+        "score": 0,
+        "snippet": "TechCrunch Daily: October 2, 2026 www.linkedin.com/pulse/techcr...",
+        "summary": "TechCrunch Daily: October 2, 2026 www.linkedin.com/pulse/techcr...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): For those keeping track of how screwed the U.S. auto industry is.\n\nFor $60k+ you",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mwwpkylqd22s",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T01:15:20.558Z",
+        "score": 1,
+        "snippet": "For those keeping track of how screwed the U.S. auto industry is. For $60k+ you can buy: Jeep Recon EV - 160 miles at 75 mph Rivian R2 - 263 miles at 75 mph Volvo EX60 P10 - 260 miles at 80 mph BMW",
+        "summary": "For those keeping track of how screwed the U.S. auto industry is. For $60k+ you can buy: Jeep Recon EV - 160 miles at 75 mph Rivian R2 - 263 miles at 75 mph Volvo EX60 P10 - 260 miles at 80 mph BMW",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): Rivian just beat delivery estimates by nearly 1,300 vehicles #Rivian #ElectricVe",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mwwlw2eywm2e",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T00:09:57.057Z",
+        "score": 0,
+        "snippet": "Rivian just beat delivery estimates by nearly 1,300 vehicles #Rivian #ElectricVehicles",
+        "summary": "Rivian just beat delivery estimates by nearly 1,300 vehicles #Rivian #ElectricVehicles",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@skipwaw42.bsky.social (Bluesky): EV sales rebound as Tesla and Rivian top expectations www.axios.com/2026/10/02/e",
+        "url": "https://bsky.app/profile/did:plc:husx3lfzywvfivyosqokxepw/post/3mwwkvp6uqs2k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T23:51:52.864Z",
+        "score": 0,
+        "snippet": "EV sales rebound as Tesla and Rivian top expectations www.axios.com/2026/10/02/e...",
+        "summary": "EV sales rebound as Tesla and Rivian top expectations www.axios.com/2026/10/02/e...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): TGIF\n\nFridays are for @Rivian shirts",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mwwi2koj232g",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T23:00:53.057Z",
+        "score": 0,
+        "snippet": "TGIF Fridays are for @Rivian shirts",
+        "summary": "TGIF Fridays are for @Rivian shirts",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@selig.bsky.social (Bluesky): Went with mom to pick up an EV5 (her first electric vehicle) and gotta say, it's",
+        "url": "https://bsky.app/profile/did:plc:t3qi45gk4dwlhiixjpe2wsdd/post/3mwwfj5ry3a2v",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T22:15:21.758Z",
+        "score": 8,
+        "snippet": "Went with mom to pick up an EV5 (her first electric vehicle) and gotta say, it's a really impressive vehicle. Unfortunate the US isn't getting this, it sits really nicely between the EV3 and EV9 and h",
+        "summary": "Went with mom to pick up an EV5 (her first electric vehicle) and gotta say, it's a really impressive vehicle. Unfortunate the US isn't getting this, it sits really nicely between the EV3 and EV9 and h",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@metooeither2.bsky.social (Bluesky): Omg wtf?? Rivian exists!!",
+        "url": "https://bsky.app/profile/did:plc:sdxunyv3j755krgnspcekr2j/post/3mwwemhu7sc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T21:59:18.864Z",
+        "score": 0,
+        "snippet": "Omg wtf?? Rivian exists!!",
+        "summary": "Omg wtf?? Rivian exists!!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@barb4rian.bsky.social (Bluesky): Cheeky post of the new EV in the fam. Meet Aurora, Rivian R2 Performance Launch ",
+        "url": "https://bsky.app/profile/did:plc:ki7u7xed6l2vnbjuyb5lrs43/post/3mwwc62t5sc2r",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T21:15:38.461Z",
+        "score": 2,
+        "snippet": "Cheeky post of the new EV in the fam. Meet Aurora, Rivian R2 Performance Launch Edition",
+        "summary": "Cheeky post of the new EV in the fam. Meet Aurora, Rivian R2 Performance Launch Edition",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian Beats Wall Street Estimates With Record Q3 2026 Deliveries",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mwwbtgcfsm22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T21:09:31.556Z",
+        "score": 0,
+        "snippet": "Rivian Beats Wall Street Estimates With Record Q3 2026 Deliveries",
+        "summary": "Rivian Beats Wall Street Estimates With Record Q3 2026 Deliveries",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@travisketchum.bsky.social (Bluesky): It's time for your @rivianofficial.bsky.social Recap.\n\n- Rivian's biggest softwa",
+        "url": "https://bsky.app/profile/did:plc:c3x2qqdk4bz7x4hykx3j2j56/post/3mwwbhswnac27",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T21:03:03.761Z",
+        "score": 1,
+        "snippet": "It's time for your @rivianofficial.bsky.social Recap. - Rivian's biggest software push is coming in hot - Spooky updates are imminent - Pet Mode features - Road trip recap - Big thermal improvements",
+        "summary": "It's time for your @rivianofficial.bsky.social Recap. - Rivian's biggest software push is coming in hot - Spooky updates are imminent - Pet Mode features - Road trip recap - Big thermal improvements",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@greenkraut.bsky.social (Bluesky): Can a heavily modified #Rivian the take the EV #Cannonball record? www.youtube.c",
+        "url": "https://bsky.app/profile/did:plc:zljaq6zjciqyvi4syrd7foog/post/3mwwbev27n22l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T21:01:26.660Z",
+        "score": 0,
+        "snippet": "Can a heavily modified #Rivian the take the EV #Cannonball record? www.youtube.com/watch?v=yfgk...",
+        "summary": "Can a heavily modified #Rivian the take the EV #Cannonball record? www.youtube.com/watch?v=yfgk...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@buyorsellstocks.com (Bluesky): Five AI models posted takes on $RIVN today and they are split, weighing a Q3 del",
+        "url": "https://bsky.app/profile/did:plc:7ywzmn55joopmxdbig37meuh/post/3mww7ot5noc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-02T20:31:08.959Z",
+        "score": 0,
+        "snippet": "Five AI models posted takes on $RIVN today and they are split, weighing a Q3 delivery beat against a slide tied to rival Tesla's surge. The stock is down 3.1% today at $14.30. Bulls or bears from here",
+        "summary": "Five AI models posted takes on $RIVN today and they are split, weighing a Q3 delivery beat against a slide tied to rival Tesla's surge. The stock is down 3.1% today at $14.30. Bulls or bears from here",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      }
+    ]
   }
 ]
