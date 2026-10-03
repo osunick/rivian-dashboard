@@ -144844,5 +144844,505 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-03T11:01:35.217459-07:00",
+    "timestamp": "2026-10-03T11:01:35.217459-07:00",
+    "sentiment": {
+      "positive": 17,
+      "neutral": 79,
+      "negative": 3
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "electrek": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 13,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Charging",
+      "Charging Access",
+      "Community Signals",
+      "Competitive Threats",
+      "Manufacturing",
+      "R2 Launch",
+      "RIVN Stock",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "29 signals across Vehicles (21), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, October 03, 2026 \u2014 11:01 AM PT \u2014 29 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats, Charging.\n\u2022 *Rivian posture:* 25 Rivian signals clustered around Vehicles (21), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.\n  https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html\n\u2022 *Competitive Threats:* Beijing wants large-scale production, but the world\u2019s biggest EV battery maker warns that making the technology affordable is another matter.\n  https://insideevs.com/news/810656/china-solid-state-batteries-2030/\n\u2022 *Charging:* All 2027 GM EVs will come out of the factory with a Tesla-style charging port, but the Escalade EV gets a little extra.\n  https://insideevs.com/news/810603/2027-cadillac-escalade-nacs-home-charging-upgrade/\n\u2022 *Competitive Threats:* Elon Musk says the main thing h\n  https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 As soon as Rivian launches its point-to-point to compete with Tesla FSD (Supervised) and people see how good it is, there\u2019s going to be quite an uptick in sales.\n  https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwy2vw35222q\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (21)* \u2022 reddit_rivian signal: Remapping screen buttons\n  https://www.reddit.com/r/Rivian/comments/1wwr953/remapping_screen_buttons/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 reddit_rivian_r2 signal: Total cost of ownership in CA\n  https://www.reddit.com/r/RivianR2/comments/1wwr4oq/total_cost_of_ownership_in_ca/\n*Community (2)* \u2022 Yep, though the USPS duckmobile is on the streets already. www.aboutamazon.com/news/transpo...\n  https://bsky.app/profile/did:plc:hdcyqtprr6yf2e2egee6imjw/post/3mwyffs2iok2m\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Charging\n\u2022 Charging Access\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Manufacturing\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Remapping screen buttons",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwr953/remapping_screen_buttons/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T16:21:00.898Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Remapping screen buttons",
+        "summary": "reddit_rivian signal: Remapping screen buttons",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Deliveries to states that restrict manufacturer direct sales",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwpeom/r2_deliveries_to_states_that_restrict/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T15:02:00.353Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 Deliveries to states that restrict manufacturer direct sales",
+        "summary": "reddit_rivian signal: R2 Deliveries to states that restrict manufacturer direct sales",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Deliveries to states that restrict manufacturer direct sales",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wwpdzf/r2_deliveries_to_states_that_restrict/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T15:02:00.353Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 Deliveries to states that restrict manufacturer direct sales",
+        "summary": "reddit_rivian signal: R2 Deliveries to states that restrict manufacturer direct sales",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian please add oscillating option to the center AC vents.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwodzo/rivian_please_add_oscillating_option_to_the/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T14:18:29.218Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian please add oscillating option to the center AC vents.",
+        "summary": "reddit_rivian signal: Rivian please add oscillating option to the center AC vents.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian please show camera view when going under 5 mph.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwocon/rivian_please_show_camera_view_when_going_under_5/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T14:16:50.605Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian please show camera view when going under 5 mph.",
+        "summary": "reddit_rivian signal: Rivian please show camera view when going under 5 mph.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "[MEGATHREAD] Saturday Switchers",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwmp1r/megathread_saturday_switchers/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T13:00:57.869Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: [MEGATHREAD] Saturday Switchers",
+        "summary": "reddit_rivian signal: [MEGATHREAD] Saturday Switchers",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Took the R1T to Anza Borrego",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwgmnb/took_the_r1t_to_anza_borrego/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T06:59:17.760Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Took the R1T to Anza Borrego",
+        "summary": "reddit_rivian signal: Took the R1T to Anza Borrego",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Backordered Bosch Motors",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wwcjdl/backordered_bosch_motors/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T03:02:17.618Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Backordered Bosch Motors",
+        "summary": "reddit_rivian signal: Backordered Bosch Motors",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Total cost of ownership in CA",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wwr4oq/total_cost_of_ownership_in_ca/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-03T16:15:43.211Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Total cost of ownership in CA",
+        "summary": "reddit_rivian_r2 signal: Total cost of ownership in CA",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Metro delivery van EV?",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wwf070/metro_delivery_van_ev/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-03T05:20:45.081Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Metro delivery van EV?",
+        "summary": "reddit_electricvehicles signal: Metro delivery van EV?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+        "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+        "source": "cnbc_top",
+        "publishedAt": "Sat, 03 Oct 2026 11:00:01 GMT",
+        "score": 0,
+        "snippet": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+        "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
+        "url": "https://insideevs.com/news/810656/china-solid-state-batteries-2030/",
+        "source": "insideevs",
+        "publishedAt": "Sat, 03 Oct 2026 15:00:00 +0000",
+        "score": 0,
+        "snippet": "Beijing wants large-scale production, but the world\u2019s biggest EV battery maker warns that making the technology affordable is another matter.",
+        "summary": "Beijing wants large-scale production, but the world\u2019s biggest EV battery maker warns that making the technology affordable is another matter.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "The 2027 Cadillac Escalade IQ Gets A NACS Port And Faster Home Charging",
+        "url": "https://insideevs.com/news/810603/2027-cadillac-escalade-nacs-home-charging-upgrade/",
+        "source": "insideevs",
+        "publishedAt": "Sat, 03 Oct 2026 12:00:00 +0000",
+        "score": 0,
+        "snippet": "All 2027 GM EVs will come out of the factory with a Tesla-style charging port, but the Escalade EV gets a little extra.",
+        "summary": "All 2027 GM EVs will come out of the factory with a Tesla-style charging port, but the Escalade EV gets a little extra.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Charging",
+          "Charging Access",
+          "Manufacturing"
+        ]
+      },
+      {
+        "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
+        "url": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+        "source": "electrek",
+        "publishedAt": "Sat, 03 Oct 2026 14:36:59 +0000",
+        "score": 0,
+        "snippet": "Elon Musk says the main thing h",
+        "summary": "Elon Musk says the main thing h",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "FedEx believes $300M electric truck spend will save them $800M in diesel",
+        "url": "https://electrek.co/2026/10/03/fedex-believes-300m-electric-truck-spend-will-save-them-800m-in-diesel/",
+        "source": "electrek",
+        "publishedAt": "Sat, 03 Oct 2026 12:54:10 +0000",
+        "score": 0,
+        "snippet": "In a reco",
+        "summary": "In a reco",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Reaffirms 2026 Delivery Outlook After Strong Quarter - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVVSNWozY3YxVWxJQTFMaGs3WXNvSHF2ZWNvZTVNRi1yUGNGZ2xmeWc5SDU0TFY0cEhuZVF1bFlKVmpaWndtWGlPUVFkdnljeEJEdlpVMzFELTA2VEpBWnVIY0lJcmJCTU4zQXM4TzZNSDZYUXlta3YyeDJrOGlBOW0xemxKQzZtREUwRkZjXzhpZ3hxUmNPdG9CQ3hZQk5WX0gwaDljT2FfUndjU2hkZjdUS285cHljLTNUX0p1a0lRNEpueGh4X2ZUQVNDeDBxVWFaYXZhMVBuWnVZ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 03 Oct 2026 12:59:21 GMT",
+        "score": 0,
+        "snippet": "Rivian Reaffirms 2026 Delivery Outlook After Strong Quarter - The Globe and Mail",
+        "summary": "Rivian Reaffirms 2026 Delivery Outlook After Strong Quarter - The Globe and Mail",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mwygwpefte2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T17:46:09.155Z",
+        "score": 0,
+        "snippet": "bluesky signal: @rivianwave.com (Bluesky):",
+        "summary": "bluesky signal: @rivianwave.com (Bluesky):",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@elgenie.bsky.social (Bluesky): Yep, though the USPS duckmobile is on the streets already. \n\nwww.aboutamazon.com",
+        "url": "https://bsky.app/profile/did:plc:hdcyqtprr6yf2e2egee6imjw/post/3mwyffs2iok2m",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T17:18:49.257Z",
+        "score": 0,
+        "snippet": "Yep, though the USPS duckmobile is on the streets already. www.aboutamazon.com/news/transpo...",
+        "summary": "Yep, though the USPS duckmobile is on the streets already. www.aboutamazon.com/news/transpo...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@trecoolx.bsky.social (Bluesky): Probably one of those \"I bought this AFTER Elon went crazy\" assholes",
+        "url": "https://bsky.app/profile/did:plc:oi3ovcfvg6h67cwljrvyljhj/post/3mwydzkyl722p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T16:54:07.861Z",
+        "score": 2,
+        "snippet": "Probably one of those \"I bought this AFTER Elon went crazy\" assholes",
+        "summary": "Probably one of those \"I bought this AFTER Elon went crazy\" assholes",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@coastally1337.bsky.social (Bluesky): A LOT of seniors will buy it if Rivian can convince their families that it\u2019s saf",
+        "url": "https://bsky.app/profile/did:plc:3nj4auo6aav7whnjejxssyak/post/3mwydhyu2f22j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T16:44:14.959Z",
+        "score": 0,
+        "snippet": "A LOT of seniors will buy it if Rivian can convince their families that it\u2019s safe.",
+        "summary": "A LOT of seniors will buy it if Rivian can convince their families that it\u2019s safe.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@on-tannhausergate.bsky.social (Bluesky): I wonder how much Amazon is eating these guys lunch with their investment in Riv",
+        "url": "https://bsky.app/profile/did:plc:t6mvdyjtqfdocyca2qqgnmy6/post/3mwycnb6x322n",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T16:29:17.874Z",
+        "score": 1,
+        "snippet": "I wonder how much Amazon is eating these guys lunch with their investment in Rivian trucks. All I see from Amazon for years is Rivian electric vehicles...",
+        "summary": "I wonder how much Amazon is eating these guys lunch with their investment in Rivian trucks. All I see from Amazon for years is Rivian electric vehicles...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jcwill324.bsky.social (Bluesky): >> \u201cElectrifying a fleet at this scale requires vehicles that can perform the wo",
+        "url": "https://bsky.app/profile/did:plc:yn7w3j4dqdc4i3np7544x3vw/post/3mwycepcrx22j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T16:24:30.456Z",
+        "score": 0,
+        "snippet": ">> \u201cElectrifying a fleet at this scale requires vehicles that can perform the work our robust operations demand\u2026\u201d So they went to a new startup? You would think the successful Amazon purchase of >40k",
+        "summary": ">> \u201cElectrifying a fleet at this scale requires vehicles that can perform the work our robust operations demand\u2026\u201d So they went to a new startup? You would think the successful Amazon purchase of >40k",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@anotherjulie.bsky.social (Bluesky): He could just take the L and get a Rivian.",
+        "url": "https://bsky.app/profile/did:plc:dfl2yvtbfncom534bkslyvxd/post/3mwy7dax5ts22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T15:30:00.859Z",
+        "score": 0,
+        "snippet": "He could just take the L and get a Rivian.",
+        "summary": "He could just take the L and get a Rivian.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@myheadlinespodcast.bsky.social (Bluesky): \ud83d\udea8 Breaking News:\n\nTesla Delivers Stronger-Than-Expected Vehicle Sales and Surpas",
+        "url": "https://bsky.app/profile/did:plc:t44nkafvol4eshlhwrrlips4/post/3mwy5oezxge2b",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T15:00:26.165Z",
+        "score": 0,
+        "snippet": "\ud83d\udea8 Breaking News: Tesla Delivers Stronger-Than-Expected Vehicle Sales and Surpasses Forecasts France Faces Debt Market Pressure as Default Odds Rise Rivian Sets New Sales Record on Strength of R2 Mo",
+        "summary": "\ud83d\udea8 Breaking News: Tesla Delivers Stronger-Than-Expected Vehicle Sales and Surpasses Forecasts France Faces Debt Market Pressure as Default Odds Rise Rivian Sets New Sales Record on Strength of R2 Mo",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "R2 Launch",
+          "RIVN Stock",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@awilm.bsky.social (Bluesky): I think Tesla and Rivian will be ok",
+        "url": "https://bsky.app/profile/did:plc:wlqwijb6fl7wevitugwerr4i/post/3mwy5fyl24c2e",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T14:55:45.057Z",
+        "score": 0,
+        "snippet": "I think Tesla and Rivian will be ok",
+        "summary": "I think Tesla and Rivian will be ok",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@solarfish.bsky.social (Bluesky): Honestly, I love seeing the brightview vans in my neighborhood. They always look",
+        "url": "https://bsky.app/profile/did:plc:4ckq4ljulpv5ii7yl4daay6k/post/3mwy5detb6k2y",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T14:54:17.066Z",
+        "score": 3,
+        "snippet": "Honestly, I love seeing the brightview vans in my neighborhood. They always look crisp. The Rivian ones, not so much.",
+        "summary": "Honestly, I love seeing the brightview vans in my neighborhood. They always look crisp. The Rivian ones, not so much.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@kenbazinet.bsky.social (Bluesky): Most auto executives agree, even in the U.S., electric vehicles will eventually ",
+        "url": "https://bsky.app/profile/did:plc:i4ip2h75ifija6zu7ib5tha5/post/3mwy3gf2qrs2y",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T14:20:11.767Z",
+        "score": 1,
+        "snippet": "Most auto executives agree, even in the U.S., electric vehicles will eventually replace conventional vehicles as prices come down and people get used to the technology. Rivian, for example, reported F",
+        "summary": "Most auto executives agree, even in the U.S., electric vehicles will eventually replace conventional vehicles as prices come down and people get used to the technology. Rivian, for example, reported F",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): As soon as Rivian launches its point-to-point to compete with Tesla FSD (Supervi",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mwy2vw35222q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T14:11:03.765Z",
+        "score": 16,
+        "snippet": "As soon as Rivian launches its point-to-point to compete with Tesla FSD (Supervised) and people see how good it is, there\u2019s going to be quite an uptick in sales.",
+        "summary": "As soon as Rivian launches its point-to-point to compete with Tesla FSD (Supervised) and people see how good it is, there\u2019s going to be quite an uptick in sales.",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@ercanceviz.bsky.social (Bluesky): Rivian tarihinin en y\u00fcksek teslimat rakam\u0131na\u00a0ula\u015ft\u0131\n\nRivian, R2'nin sat\u0131\u015fa \u00e7\u0131kma",
+        "url": "https://bsky.app/profile/did:plc:v7nvkhezqq33xrcgasafhbw4/post/3mwxi6lv6by2w",
+        "source": "bluesky",
+        "publishedAt": "2026-10-03T08:35:49.057Z",
+        "score": 0,
+        "snippet": "Rivian tarihinin en y\u00fcksek teslimat rakam\u0131na ula\u015ft\u0131 Rivian, R2'nin sat\u0131\u015fa \u00e7\u0131kmas\u0131yla \u00fc\u00e7\u00fcnc\u00fc \u00e7eyrekte 19.248 ara\u00e7 teslim ederek rekor k\u0131rd\u0131. Ancak \u015firketin y\u0131l sonu hedefini de\u011fi\u015ftirmemesi hisseleri d",
+        "summary": "Rivian tarihinin en y\u00fcksek teslimat rakam\u0131na ula\u015ft\u0131 Rivian, R2'nin sat\u0131\u015fa \u00e7\u0131kmas\u0131yla \u00fc\u00e7\u00fcnc\u00fc \u00e7eyrekte 19.248 ara\u00e7 teslim ederek rekor k\u0131rd\u0131. Ancak \u015firketin y\u0131l sonu hedefini de\u011fi\u015ftirmemesi hisseleri d",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
