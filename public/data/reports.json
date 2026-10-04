@@ -145344,5 +145344,425 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-04T07:01:43.603769-07:00",
+    "timestamp": "2026-10-04T07:01:43.603769-07:00",
+    "sentiment": {
+      "positive": 16,
+      "neutral": 62,
+      "negative": 20
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "electrek": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 12,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 2,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 16,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Audio System",
+      "Autonomy",
+      "Business",
+      "Competitive Threats",
+      "Demo Drives",
+      "Manufacturing",
+      "R2 Launch",
+      "Service Experience",
+      "Service Network",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "24 signals across Vehicles (16), Business (2); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, October 04, 2026 \u2014 7:01 AM PT \u2014 24 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 22 Rivian signals clustered around Vehicles (16), Business (2).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 5 negative signals; watch Vehicle Demand, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Doug Demuro loves his quirks and features, and the GV60 Magma has a bunch of them.\n  https://insideevs.com/news/810490/genesis-gv60-magma-doug-demuro/\n\u2022 *Competitive Threats:* Here's what Tommy and Roman from TFL think after one month with Audi's coolest EV.\n  https://insideevs.com/news/810658/audi-e-tron-gt-owner-review/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 The logistics e\n  https://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/\n*Demo & Test Drives (2)* \u2022 reddit_rivian signal: Test Drove a Rivian R2 - hooked up Apple Music and thought the audio quality was...actually pretty good?\n  https://www.reddit.com/r/Rivian/comments/1wx249d/test_drove_a_rivian_r2_hooked_up_apple_music_and/\n*Vehicles (16)* \u2022 reddit_rivian signal: Post-Repair Experience @ Normal plant\n  https://www.reddit.com/r/Rivian/comments/1wxckxg/postrepair_experience_normal_plant/\n*Business (2)* \u2022 \ud83d\udea8 Breaking News: Mass Layoffs Announced at Truck Factory in Ohio Ahead of Trump Rally Rivian Sales Surpass Delivery Estimates as R2 Model Boosts Performance Disney Restructures Television Division,\n  https://bsky.app/profile/did:plc:t44nkafvol4eshlhwrrlips4/post/3mx2krv7t3v23\n*Software (1)* \u2022 Hyundai, Lexus and Rivian vehicle recalls were reported by Transport Canada during the week of Sept. 28 to Oct. 2.\n  https://bsky.app/profile/did:plc:gmkvgncp2547iqksfr2lmyiv/post/3mx2evbf3um2z\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Audio System\n\u2022 Autonomy\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Manufacturing\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Post-Repair Experience @ Normal plant",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wxckxg/postrepair_experience_normal_plant/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-04T10:38:12.886Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Post-Repair Experience @ Normal plant",
+        "summary": "reddit_rivian signal: Post-Repair Experience @ Normal plant",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Service Experience",
+          "Manufacturing",
+          "Service Network"
+        ]
+      },
+      {
+        "title": "R2 spotted in the wild - Big Bear Lake, CA",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wx4568/r2_spotted_in_the_wild_big_bear_lake_ca/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-04T02:10:53.243Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 spotted in the wild - Big Bear Lake, CA",
+        "summary": "reddit_rivian signal: R2 spotted in the wild - Big Bear Lake, CA",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 on Genoa Peak, Lake Tahoe, NV",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wx2gra/r2_on_genoa_peak_lake_tahoe_nv/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-04T00:42:01.420Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 on Genoa Peak, Lake Tahoe, NV",
+        "summary": "reddit_rivian signal: R2 on Genoa Peak, Lake Tahoe, NV",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Test Drove a Rivian R2 - hooked up Apple Music and thought the audio quality was...actually pretty good?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wx249d/test_drove_a_rivian_r2_hooked_up_apple_music_and/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-04T00:23:57.853Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Test Drove a Rivian R2 - hooked up Apple Music and thought the audio quality was...actually pretty good?",
+        "summary": "reddit_rivian signal: Test Drove a Rivian R2 - hooked up Apple Music and thought the audio quality was...actually pretty good?",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Audio System"
+        ]
+      },
+      {
+        "title": "OS2 - please confirm you want to call \u2026",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wx1xry/os2_please_confirm_you_want_to_call/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-04T00:14:40.582Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: OS2 - please confirm you want to call \u2026",
+        "summary": "reddit_rivian signal: OS2 - please confirm you want to call \u2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian calls owner to replace R2 Front Drive Unit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wx17ef/rivian_calls_owner_to_replace_r2_front_drive_unit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T23:38:15.821Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian calls owner to replace R2 Front Drive Unit",
+        "summary": "reddit_rivian signal: Rivian calls owner to replace R2 Front Drive Unit",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Great Rivian service experience",
+        "url": "https://www.reddit.com/r/Rivian/comments/1wx12w5/great_rivian_service_experience/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-03T23:31:32.989Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Great Rivian service experience",
+        "summary": "reddit_rivian signal: Great Rivian service experience",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Interesting Test Drive",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wwx57w/interesting_test_drive/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-03T20:28:06.036Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Interesting Test Drive",
+        "summary": "reddit_rivian_r2 signal: Interesting Test Drive",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "The Genesis GV60 Magma Is One Of The Quirkiest Performance EVs On Sale",
+        "url": "https://insideevs.com/news/810490/genesis-gv60-magma-doug-demuro/",
+        "source": "insideevs",
+        "publishedAt": "Sun, 04 Oct 2026 13:00:00 +0000",
+        "score": 0,
+        "snippet": "Doug Demuro loves his quirks and features, and the GV60 Magma has a bunch of them.",
+        "summary": "Doug Demuro loves his quirks and features, and the GV60 Magma has a bunch of them.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Here's What's Good (And Bad) About Owning An Audi E-Tron GT",
+        "url": "https://insideevs.com/news/810658/audi-e-tron-gt-owner-review/",
+        "source": "insideevs",
+        "publishedAt": "Sun, 04 Oct 2026 12:00:00 +0000",
+        "score": 0,
+        "snippet": "Here's what Tommy and Roman from TFL think after one month with Audi's coolest EV.",
+        "summary": "Here's what Tommy and Roman from TFL think after one month with Audi's coolest EV.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Autonomous Orange: YMX adds Outrider self-driving tech to its electric yard trucks",
+        "url": "https://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/",
+        "source": "electrek",
+        "publishedAt": "Sun, 04 Oct 2026 13:48:54 +0000",
+        "score": 0,
+        "snippet": "The logistics e",
+        "summary": "The logistics e",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback",
+        "url": "https://electrek.co/2026/10/04/rivians-delayed-also-e-bikes-are-finally-arriving-to-first-customers-with-mixed-early-feedback/",
+        "source": "electrek",
+        "publishedAt": "Sun, 04 Oct 2026 11:42:00 +0000",
+        "score": 0,
+        "snippet": "After",
+        "summary": "After",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@myheadlinespodcast.bsky.social (Bluesky): \ud83d\udea8 Breaking News:\n\nMass Layoffs Announced at Truck Factory in Ohio Ahead of Trump",
+        "url": "https://bsky.app/profile/did:plc:t44nkafvol4eshlhwrrlips4/post/3mx2krv7t3v23",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T14:00:21.957Z",
+        "score": 0,
+        "snippet": "\ud83d\udea8 Breaking News: Mass Layoffs Announced at Truck Factory in Ohio Ahead of Trump Rally Rivian Sales Surpass Delivery Estimates as R2 Model Boosts Performance Disney Restructures Television Division,",
+        "summary": "\ud83d\udea8 Breaking News: Mass Layoffs Announced at Truck Factory in Ohio Ahead of Trump Rally Rivian Sales Surpass Delivery Estimates as R2 Model Boosts Performance Disney Restructures Television Division,",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@russelyot.bsky.social (Bluesky): Listening to the game without data and a subscription is a human right. Tesla, R",
+        "url": "https://bsky.app/profile/did:plc:axx5z5nkjkx7sscofswkmrhn/post/3mx2i6i7obs2d",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T13:13:43.058Z",
+        "score": 0,
+        "snippet": "Listening to the game without data and a subscription is a human right. Tesla, Rivian, and Volvo can shove it.",
+        "summary": "Listening to the game without data and a subscription is a human right. Tesla, Rivian, and Volvo can shove it.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@insidehalton.bsky.social (Bluesky): Hyundai, Lexus and Rivian vehicle recalls were reported by Transport Canada duri",
+        "url": "https://bsky.app/profile/did:plc:gmkvgncp2547iqksfr2lmyiv/post/3mx2evbf3um2z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T12:14:53.361Z",
+        "score": 0,
+        "snippet": "Hyundai, Lexus and Rivian vehicle recalls were reported by Transport Canada during the week of Sept. 28 to Oct. 2.",
+        "summary": "Hyundai, Lexus and Rivian vehicle recalls were reported by Transport Canada during the week of Sept. 28 to Oct. 2.",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@megawattnews.bsky.social (Bluesky): \ud83d\udd0b Rivian\u2019s delayed ALSO e-bikes are finally arriving to first customers, with mi",
+        "url": "https://bsky.app/profile/did:plc:e3bsvsadgyewdqmaw4duwdjq/post/3mx2e5ysr6r2q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T12:01:53.161Z",
+        "score": 0,
+        "snippet": "\ud83d\udd0b Rivian\u2019s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback \ud83d\udcf0 via electrek #EV #ElectricVehicles",
+        "summary": "\ud83d\udd0b Rivian\u2019s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback \ud83d\udcf0 via electrek #EV #ElectricVehicles",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Rivian\u2019s delayed ALSO e-bikes are finally arriving to first customers, with mixe",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mx2e26y5uy2k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T11:59:44.461Z",
+        "score": 6,
+        "snippet": "Rivian\u2019s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback",
+        "summary": "Rivian\u2019s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@briefing-block.bsky.social (Bluesky): Rivian reports total deliveries without an R2 split and schedules financial resu",
+        "url": "https://bsky.app/profile/did:plc:ssswiftih7izfo6oo25lvmrk/post/3mx2dzyhjik23",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T11:59:38.760Z",
+        "score": 0,
+        "snippet": "Rivian reports total deliveries without an R2 split and schedules financial results for October 29. Next quarter, pricing and factory costs will determine whether increased volume improves automotive",
+        "summary": "Rivian reports total deliveries without an R2 split and schedules financial results for October 29. Next quarter, pricing and factory costs will determine whether increased volume improves automotive",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Manufacturing",
+          "Software"
+        ]
+      },
+      {
+        "title": "@briefing-block.bsky.social (Bluesky): Rivian built 19,751 vehicles against 19,248 deliveries, a 503-vehicle gap. Next ",
+        "url": "https://bsky.app/profile/did:plc:ssswiftih7izfo6oo25lvmrk/post/3mx2dxshjsk25",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T11:58:25.060Z",
+        "score": 0,
+        "snippet": "Rivian built 19,751 vehicles against 19,248 deliveries, a 503-vehicle gap. Next quarter, production efficiency and inventory discipline will matter as the R2 ramp pushes output higher.",
+        "summary": "Rivian built 19,751 vehicles against 19,248 deliveries, a 503-vehicle gap. Next quarter, production efficiency and inventory discipline will matter as the R2 ramp pushes output higher.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@briefing-block.bsky.social (Bluesky): Rivian delivered 19,248 vehicles in Q3 versus 13,201 a year earlier, roughly 46%",
+        "url": "https://bsky.app/profile/did:plc:ssswiftih7izfo6oo25lvmrk/post/3mx2dewpeos2i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T11:47:51.861Z",
+        "score": 0,
+        "snippet": "Rivian delivered 19,248 vehicles in Q3 versus 13,201 a year earlier, roughly 46% growth. Next quarter, comparing model ramps and regional exposure will explain more than a single EV market headline.",
+        "summary": "Rivian delivered 19,248 vehicles in Q3 versus 13,201 a year earlier, roughly 46% growth. Next quarter, comparing model ramps and regional exposure will explain more than a single EV market headline.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mx2db6grg22h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T11:45:46.062Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mx2d6vyits2h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T11:44:29.764Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evnewsdaily.bsky.social (Bluesky): Rivian's Q3 2026 deliveries surged 46% year-over-year. R2 SUV driving growth\n\nPl",
+        "url": "https://bsky.app/profile/did:plc:ah7adzz4iiqh4pqtv4repaw2/post/3mx2bp3axl52l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T11:17:44.558Z",
+        "score": 1,
+        "snippet": "Rivian's Q3 2026 deliveries surged 46% year-over-year. R2 SUV driving growth Please sponsor this channel today.",
+        "summary": "Rivian's Q3 2026 deliveries surged 46% year-over-year. R2 SUV driving growth Please sponsor this channel today.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@trendalertstox.bsky.social (Bluesky): RIVN | Rivian (NASDAQ):\n\ud83d\udcc9 Weekly Top Movers DOWN - #7: RIVN moved DOWN by 7.56% ",
+        "url": "https://bsky.app/profile/did:plc:2etirfyqqgrsbe7nibl4eyx3/post/3mwzzzgj6hx2b",
+        "source": "bluesky",
+        "publishedAt": "2026-10-04T09:00:21.758Z",
+        "score": 0,
+        "snippet": "RIVN | Rivian (NASDAQ): \ud83d\udcc9 Weekly Top Movers DOWN - #7: RIVN moved DOWN by 7.56% (prev. week: 15.47 -> this week close: 14.30)",
+        "summary": "RIVN | Rivian (NASDAQ): \ud83d\udcc9 Weekly Top Movers DOWN - #7: RIVN moved DOWN by 7.56% (prev. week: 15.47 -> this week close: 14.30)",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
