@@ -1385,5 +1385,272 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-05T15:01:42.225866-07:00",
+    "timestamp": "2026-10-05T15:01:42.225866-07:00",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 78,
+      "negative": 21
+    },
+    "sources": {
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 7,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (7), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, October 05, 2026 \u2014 3:01 PM PT \u2014 14 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 10 Rivian signals clustered around Vehicles (7), Business (2).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 3 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* reddit_selfdrivingcars signal: California\u2019s New Autonomous Vehicle Law Shows What Driverless Really Requires\n  https://www.reddit.com/r/SelfDrivingCars/comments/1wyfjyk/californias_new_autonomous_vehicle_law_shows_what/\n\u2022 *Competitive Threats:* <a h\n  https://electrek.co/2026/10/05/byds-flagship-suv-topped-10000-sales-3-months-straight/\n\u2022 *Competitive Threats:* A di\n  https://electrek.co/2026/10/05/hyundai-testing-smaller-ev-could-be-ioniq-4-video/\n\u2022 *Competitive Threats:* Lucid Q3 2026 deliveries fall as automaker draws down inventory\n  https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mx5tdfnyau2t\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (7)* \u2022 Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.\n  https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html\n*Business (2)* \u2022 Rivian Automotive (NASDAQ:RIVN) Stock Price Up 2.1% - Time to Buy? - MarketBeat\n  https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWk5xdjJaLUZqVThUTWJiS2prbU1BZ2VydkJfUTd1X2g2TFBEcFBIdU5XZlRzSTlmbXItZFU4MkxISzIxYmJtdGRfNk9vSWI3eGpSNG9CWUJaSWhQNzg3Rk5SanduV2REM3ZUV29Bd3pMUmMySFhDdjRjZE1xOGlBOTRYREdldEVGQzN4UTNFcXltWlUzSktHREYwMFhLSC1vc2hGSHJYQzlaM2lyX3RFWjhWc2hYMkhxNkZZ?oc=5\n*Software (1)* \u2022 Rivian recalls 14 R2 SUVs over potential loss of drive power\n  https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mx5ly3vfrw2t\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "California\u2019s New Autonomous Vehicle Law Shows What Driverless Really Requires",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1wyfjyk/californias_new_autonomous_vehicle_law_shows_what/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-10-05T18:02:49.956Z",
+        "score": 0,
+        "snippet": "reddit_selfdrivingcars signal: California\u2019s New Autonomous Vehicle Law Shows What Driverless Really Requires",
+        "summary": "reddit_selfdrivingcars signal: California\u2019s New Autonomous Vehicle Law Shows What Driverless Really Requires",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+        "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
+        "source": "cnbc_top",
+        "publishedAt": "Mon, 05 Oct 2026 21:04:17 GMT",
+        "score": 0,
+        "snippet": "Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.",
+        "summary": "Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "BYD\u2019s flagship electric SUV has now topped 10,000 sales for 3 months straight",
+        "url": "https://electrek.co/2026/10/05/byds-flagship-suv-topped-10000-sales-3-months-straight/",
+        "source": "electrek",
+        "publishedAt": "Mon, 05 Oct 2026 20:58:41 +0000",
+        "score": 0,
+        "snippet": "<a h",
+        "summary": "<a h",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Hyundai is testing a smaller electric SUV \u2014 could it be the IONIQ 4? [Video]",
+        "url": "https://electrek.co/2026/10/05/hyundai-testing-smaller-ev-could-be-ioniq-4-video/",
+        "source": "electrek",
+        "publishedAt": "Mon, 05 Oct 2026 19:27:55 +0000",
+        "score": 0,
+        "snippet": "A di",
+        "summary": "A di",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Price Up 2.1% - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWk5xdjJaLUZqVThUTWJiS2prbU1BZ2VydkJfUTd1X2g2TFBEcFBIdU5XZlRzSTlmbXItZFU4MkxISzIxYmJtdGRfNk9vSWI3eGpSNG9CWUJaSWhQNzg3Rk5SanduV2REM3ZUV29Bd3pMUmMySFhDdjRjZE1xOGlBOTRYREdldEVGQzN4UTNFcXltWlUzSktHREYwMFhLSC1vc2hGSHJYQzlaM2lyX3RFWjhWc2hYMkhxNkZZ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 05 Oct 2026 21:24:24 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Price Up 2.1% - Time to Buy? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Stock Price Up 2.1% - Time to Buy? - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): I really don't get why folks buying the R2 are surprised at the horrible effienc",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mx5vgp6nr22e",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T21:48:59.061Z",
+        "score": 0,
+        "snippet": "I really don't get why folks buying the R2 are surprised at the horrible effiency. R1S gets poor efficiency, R2 is a similar brick with high ground clearance, and we've got several cost cutting measur",
+        "summary": "I really don't get why folks buying the R2 are surprised at the horrible effiency. R1S gets poor efficiency, R2 is a similar brick with high ground clearance, and we've got several cost cutting measur",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Lucid Q3 2026 deliveries fall as automaker draws down inventory",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mx5tdfnyau2t",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T21:11:19.460Z",
+        "score": 0,
+        "snippet": "Lucid Q3 2026 deliveries fall as automaker draws down inventory",
+        "summary": "Lucid Q3 2026 deliveries fall as automaker draws down inventory",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@seanmillerpdx.bsky.social (Bluesky): The Experiment has come to an end. Just turned in my leased 2025 Rivian R1S and ",
+        "url": "https://bsky.app/profile/did:plc:oggulzvdq3qgwpfzxoydb2dw/post/3mx5pyrbtdk27",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T20:11:45.662Z",
+        "score": 0,
+        "snippet": "The Experiment has come to an end. Just turned in my leased 2025 Rivian R1S and I think it is safe to say I'm happy to see it go. Car never lived up to its hype & always promised changes were forthcom",
+        "summary": "The Experiment has come to an end. Just turned in my leased 2025 Rivian R1S and I think it is safe to say I'm happy to see it go. Car never lived up to its hype & always promised changes were forthcom",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Rivian recalls 14 R2 SUVs over potential loss of drive power",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mx5ly3vfrw2t",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T18:59:43.666Z",
+        "score": 0,
+        "snippet": "Rivian recalls 14 R2 SUVs over potential loss of drive power",
+        "summary": "Rivian recalls 14 R2 SUVs over potential loss of drive power",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@briesmith.xyz (Bluesky): Now make a Stratos, Rivian",
+        "url": "https://bsky.app/profile/did:plc:q7s63wqps2zi7wilgqv4362v/post/3mx5lnbx2ck2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T18:53:40.762Z",
+        "score": 2,
+        "snippet": "Now make a Stratos, Rivian",
+        "summary": "Now make a Stratos, Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@shorterexcerpts.bsky.social (Bluesky): Those are some serious vents on the seats. If they actually put AC through there",
+        "url": "https://bsky.app/profile/did:plc:v42soa4g36rejhixr7v2mi7h/post/3mx5ld6sews2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T18:48:05.867Z",
+        "score": 0,
+        "snippet": "Those are some serious vents on the seats. If they actually put AC through there Rivian could have a car calibrated for southern summer",
+        "summary": "Those are some serious vents on the seats. If they actually put AC through there Rivian could have a car calibrated for southern summer",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@grateful-1.bsky.social (Bluesky): Thank you for Posting this Greedy, NO good Billionaire's Businesses\u203c\ufe0f...I no lon",
+        "url": "https://bsky.app/profile/did:plc:xewb3emct2donmwy7eoaegtb/post/3mx5kqh3y622j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T18:37:34.358Z",
+        "score": 1,
+        "snippet": "Thank you for Posting this Greedy, NO good Billionaire's Businesses\u203c\ufe0f...I no longer use Amazon; Refuse to shop at Whole Foods & have NO need for a Rivian\u203c\ufe0f...Until Americans \ud83d\uded1 using these Services/Bus",
+        "summary": "Thank you for Posting this Greedy, NO good Billionaire's Businesses\u203c\ufe0f...I no longer use Amazon; Refuse to shop at Whole Foods & have NO need for a Rivian\u203c\ufe0f...Until Americans \ud83d\uded1 using these Services/Bus",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@christineaa.bsky.social (Bluesky): Agree 100%. Boycott Amazon. Don't buy a Rivian - Amazon owns a 20% stake in elec",
+        "url": "https://bsky.app/profile/did:plc:x4kcoilkcb6aeivdehsgrmgw/post/3mx5kdiignc26",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T18:30:19.970Z",
+        "score": 2,
+        "snippet": "Agree 100%. Boycott Amazon. Don't buy a Rivian - Amazon owns a 20% stake in electric-vehicle maker Rivian. Don't shop at Whole Foods. Don't buy a RING doorbell. Here are all of the companies that Bezo",
+        "summary": "Agree 100%. Boycott Amazon. Don't buy a Rivian - Amazon owns a 20% stake in electric-vehicle maker Rivian. Don't shop at Whole Foods. Don't buy a RING doorbell. Here are all of the companies that Bezo",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian Deliveries Jump 46%, but Its Stock Falls as Tesla Stock Jumps.\n\nRead more",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mx5jre4dsb22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T18:20:09.959Z",
+        "score": 2,
+        "snippet": "Rivian Deliveries Jump 46%, but Its Stock Falls as Tesla Stock Jumps. Read more: bit.ly/4hNxSNB",
+        "summary": "Rivian Deliveries Jump 46%, but Its Stock Falls as Tesla Stock Jumps. Read more: bit.ly/4hNxSNB",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      }
+    ]
   }
 ]
