@@ -1058,5 +1058,332 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-05T11:01:39.043407-07:00",
+    "timestamp": "2026-10-05T11:01:39.043407-07:00",
+    "sentiment": {
+      "positive": 16,
+      "neutral": 66,
+      "negative": 16
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "electrek": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 12,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 12,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "18 signals across Vehicles (12), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, October 05, 2026 \u2014 11:01 AM PT \u2014 18 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 14 Rivian signals clustered around Vehicles (12), Business (1).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 3 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* Elon Musk confirmed that TSMC and his companies are discussing a possible chipmaking partnership in Texas. The project could make TSMC a supplier to Tesla, SpaceX and xAI. Carmen Reinicke has more on\n  https://www.bloomberg.com/news/videos/2026-10-05/tsmc-in-talks-to-join-musk-s-texas-terafab-project-video\n\u2022 *Competitive Threats:* More affordable EVs are attracting buyers as electric car sales surge in the EU, but price isn\u2019t the only driver of the shift.\n  https://insideevs.com/news/810822/europe-ev-sales-january-august/\n\u2022 *Competitive Threats:* electrek signal: Toyota gets the green light for a new EV built to take on China\n  https://electrek.co/2026/10/05/toyota-gets-green-light-new-ev-built-to-take-on-china/\n\u2022 *Competitive Threats:* The\n  https://electrek.co/2026/10/05/hyundai-ioniq-3-offers-308-miles-range-starts-at-25000/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (12)* \u2022 reddit_rivian_r2 signal: First 1K miles\n  https://www.reddit.com/r/RivianR2/comments/1wybel7/first_1k_miles/\n*Business (1)* \u2022 Baird reiterates Rivian stock rating on strong Q3 deliveries - Investing.com\n  https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3B1ZVZHb2J2XzRwZVVOZGhGQUVPdVNCdWh1MDZPYS1HR0pVN0RPZHNWeU9KMUpSN0psOHh3TFVNb0RsTjVNREN2SFJ3TzF1T2JnODUtcFpOWDdOQVpPMUFqLTkyOFF6VHVRb3VfMmU3SWZ5Rzd0WW1KNWJFbEN1elFfNmVMSHRXNUd4NkpTTTRPRGdXSlMxek53azBraGQ3eWcwTE1MX0h0WVk0YWxHXzcya053UzlqUDVoLQ?oc=5\n*Software (1)* \u2022 The conversation around AI is shifting from software to physical constraints. TechCrunch Disrupt 2026 will tackle whether current AI growth is sustainable given the massive demands for energy, capital\n  https://bsky.app/profile/did:plc:mw5uv7gbzksdavszshwxf3pt/post/3mx554fzo7w26\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "First 1K miles",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wybel7/first_1k_miles/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-05T15:25:07.941Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: First 1K miles",
+        "summary": "reddit_rivian_r2 signal: First 1K miles",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "TSMC in Talks to Join Musk\u2019s Texas Terafab Project",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-05/tsmc-in-talks-to-join-musk-s-texas-terafab-project-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Mon, 05 Oct 2026 15:49:55 GMT",
+        "score": 0,
+        "snippet": "Elon Musk confirmed that TSMC and his companies are discussing a possible chipmaking partnership in Texas. The project could make TSMC a supplier to Tesla, SpaceX and xAI. Carmen Reinicke has more on",
+        "summary": "Elon Musk confirmed that TSMC and his companies are discussing a possible chipmaking partnership in Texas. The project could make TSMC a supplier to Tesla, SpaceX and xAI. Carmen Reinicke has more on",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Cheaper EVs Are Helping Fuel Europe\u2019s Electric Car Boom",
+        "url": "https://insideevs.com/news/810822/europe-ev-sales-january-august/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 05 Oct 2026 17:16:54 +0000",
+        "score": 0,
+        "snippet": "More affordable EVs are attracting buyers as electric car sales surge in the EU, but price isn\u2019t the only driver of the shift.",
+        "summary": "More affordable EVs are attracting buyers as electric car sales surge in the EU, but price isn\u2019t the only driver of the shift.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Toyota gets the green light for a new EV built to take on China",
+        "url": "https://electrek.co/2026/10/05/toyota-gets-green-light-new-ev-built-to-take-on-china/",
+        "source": "electrek",
+        "publishedAt": "Mon, 05 Oct 2026 15:57:06 +0000",
+        "score": 0,
+        "snippet": "electrek signal: Toyota gets the green light for a new EV built to take on China",
+        "summary": "electrek signal: Toyota gets the green light for a new EV built to take on China",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Hyundai\u2019s electric hatch goes on sale with up to 308 miles of range, starting at about $25,000",
+        "url": "https://electrek.co/2026/10/05/hyundai-ioniq-3-offers-308-miles-range-starts-at-25000/",
+        "source": "electrek",
+        "publishedAt": "Mon, 05 Oct 2026 14:14:24 +0000",
+        "score": 0,
+        "snippet": "The",
+        "summary": "The",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Baird reiterates Rivian stock rating on strong Q3 deliveries - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3B1ZVZHb2J2XzRwZVVOZGhGQUVPdVNCdWh1MDZPYS1HR0pVN0RPZHNWeU9KMUpSN0psOHh3TFVNb0RsTjVNREN2SFJ3TzF1T2JnODUtcFpOWDdOQVpPMUFqLTkyOFF6VHVRb3VfMmU3SWZ5Rzd0WW1KNWJFbEN1elFfNmVMSHRXNUd4NkpTTTRPRGdXSlMxek53azBraGQ3eWcwTE1MX0h0WVk0YWxHXzcya053UzlqUDVoLQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 05 Oct 2026 13:23:41 GMT",
+        "score": 0,
+        "snippet": "Baird reiterates Rivian stock rating on strong Q3 deliveries - Investing.com",
+        "summary": "Baird reiterates Rivian stock rating on strong Q3 deliveries - Investing.com",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@modernminstrel.bsky.social (Bluesky): Hardened separation & speed bumps that actually work. If a Rivian doesn\u2019t slow d",
+        "url": "https://bsky.app/profile/did:plc:5cxmd4pxdp34ubnpxxviwx5i/post/3mx5i4hop3c2c",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T17:50:35.065Z",
+        "score": 0,
+        "snippet": "Hardened separation & speed bumps that actually work. If a Rivian doesn\u2019t slow down to at most 15 mph, I want the underside of that thing torn out. *This opinion may or may not be informed by one par",
+        "summary": "Hardened separation & speed bumps that actually work. If a Rivian doesn\u2019t slow down to at most 15 mph, I want the underside of that thing torn out. *This opinion may or may not be informed by one par",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@born2.besilly.online (Bluesky): WHEN RIVIAN R3X????\n\nyou wanna be Lancia and i love it and i cannot afford this\n",
+        "url": "https://bsky.app/profile/did:plc:zix3cowwpmtat6bajxmb5wii/post/3mx5hgg5p7k2e",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T17:38:16.273Z",
+        "score": 1,
+        "snippet": "WHEN RIVIAN R3X???? you wanna be Lancia and i love it and i cannot afford this www.classic.com/veh/1992-lan...",
+        "summary": "WHEN RIVIAN R3X???? you wanna be Lancia and i love it and i cannot afford this www.classic.com/veh/1992-lan...",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@davidralin.bsky.social (Bluesky): Alert: rivian with tools in the bed. I repeat, a rivian has tools in the bed.",
+        "url": "https://bsky.app/profile/did:plc:trdtxvgk3n4qmd5kj25lih6p/post/3mx5h5rds3k2h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T17:33:25.064Z",
+        "score": 0,
+        "snippet": "Alert: rivian with tools in the bed. I repeat, a rivian has tools in the bed.",
+        "summary": "Alert: rivian with tools in the bed. I repeat, a rivian has tools in the bed.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): I keep getting teased for the @Rivian Halloween mode.",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mx5fggg5lm2d",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T17:02:28.557Z",
+        "score": 1,
+        "snippet": "I keep getting teased for the @Rivian Halloween mode.",
+        "summary": "I keep getting teased for the @Rivian Halloween mode.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian Care just hit 47 states, including California, with new eligibility rules",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mx5fdd2vzk2g",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T17:00:45.166Z",
+        "score": 1,
+        "snippet": "Rivian Care just hit 47 states, including California, with new eligibility rules and a monthly invite system for existing owners. riviantrackr.com/news/rivian-...",
+        "summary": "Rivian Care just hit 47 states, including California, with new eligibility rules and a monthly invite system for existing owners. riviantrackr.com/news/rivian-...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has rolled out some big changes to Rivian Care.  Not only did they add Ca",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mx5dcum72m22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T16:24:41.957Z",
+        "score": 0,
+        "snippet": "Rivian has rolled out some big changes to Rivian Care. Not only did they add California, but also more details on PVP exclusions, pre-owned, existing owners, and second hand buyers. Second hand can",
+        "summary": "Rivian has rolled out some big changes to Rivian Care. Not only did they add California, but also more details on PVP exclusions, pre-owned, existing owners, and second hand buyers. Second hand can",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@petefowler.bsky.social (Bluesky): Rivian R1T. It had more serious problems than any new\ncar I have had in fewer mi",
+        "url": "https://bsky.app/profile/did:plc:4pvecwmne2s3sgd5k45m6brg/post/3mx5cyhfd4s2s",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T16:18:52.063Z",
+        "score": 0,
+        "snippet": "Rivian R1T. It had more serious problems than any new car I have had in fewer miles other than a 2001 Audi S4 that I lemoned. But that was over only one problem. Seriously Rivian, actual steering issu",
+        "summary": "Rivian R1T. It had more serious problems than any new car I have had in fewer miles other than a 2001 Audi S4 that I lemoned. But that was over only one problem. Seriously Rivian, actual steering issu",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Musk called LiDAR a crutch, and for years I thought that was stubbornness. Watch",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mx5c75k7wc2p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T16:04:44.859Z",
+        "score": 4,
+        "snippet": "Musk called LiDAR a crutch, and for years I thought that was stubbornness. Watching Rivian's LiDAR timeline slide while camera-based driving keeps improving, I'm starting to think Tesla may have been",
+        "summary": "Musk called LiDAR a crutch, and for years I thought that was stubbornness. Watching Rivian's LiDAR timeline slide while camera-based driving keeps improving, I'm starting to think Tesla may have been",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@anubisthejackal.bsky.social (Bluesky): Also, I live in the Midwest - THE MIDWEST, AS IN NOT NEAR A COAST - and famously",
+        "url": "https://bsky.app/profile/did:plc:vqtdcg4x2eiw67lm32mep7jz/post/3mx56oat37k2h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T15:01:33.265Z",
+        "score": 5,
+        "snippet": "Also, I live in the Midwest - THE MIDWEST, AS IN NOT NEAR A COAST - and famously liberal, progressive Amazon is swapping out old gas vans for Rivian made EV vans.",
+        "summary": "Also, I live in the Midwest - THE MIDWEST, AS IN NOT NEAR A COAST - and famously liberal, progressive Amazon is swapping out old gas vans for Rivian made EV vans.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@25newsnow.com (Bluesky): Rivian EV deliveries rise 46% in third quarter vs. same time last year\n\nhttps://",
+        "url": "https://bsky.app/profile/did:plc:cqymdpjky3b6ffia5or5bxs2/post/3mx55xu3x6i2w",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T14:49:03.767Z",
+        "score": 0,
+        "snippet": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "summary": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thedailytechfeed.com (Bluesky): Rivian, Cerebras, Benchmark & more will lead powerhouse discussions at Disrupt S",
+        "url": "https://bsky.app/profile/did:plc:mht5ub4ykjuoxpux77hikixt/post/3mx5553qz7226",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T14:34:05.275Z",
+        "score": 0,
+        "snippet": "Rivian, Cerebras, Benchmark & more will lead powerhouse discussions at Disrupt Stage Oct 13-15 covering AI scale, hardware, founders\u2019 journeys. #AI #Disrupt2026 #StartupBattlefield #Innovation thedail",
+        "summary": "Rivian, Cerebras, Benchmark & more will lead powerhouse discussions at Disrupt Stage Oct 13-15 covering AI scale, hardware, founders\u2019 journeys. #AI #Disrupt2026 #StartupBattlefield #Innovation thedail",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cryptoversenews.eu (Bluesky): The conversation around AI is shifting from software to physical constraints. Te",
+        "url": "https://bsky.app/profile/did:plc:mw5uv7gbzksdavszshwxf3pt/post/3mx554fzo7w26",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T14:33:42.377Z",
+        "score": 0,
+        "snippet": "The conversation around AI is shifting from software to physical constraints. TechCrunch Disrupt 2026 will tackle whether current AI growth is sustainable given the massive demands for energy, capital",
+        "summary": "The conversation around AI is shifting from software to physical constraints. TechCrunch Disrupt 2026 will tackle whether current AI growth is sustainable given the massive demands for energy, capital",
+        "category": "software",
+        "sentiment": "positive",
+        "themes": [
+          "Software"
+        ]
+      }
+    ]
   }
 ]
