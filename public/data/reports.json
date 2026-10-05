@@ -768,5 +768,295 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-05T07:01:39.484118-07:00",
+    "timestamp": "2026-10-05T07:01:39.484118-07:00",
+    "sentiment": {
+      "positive": 20,
+      "neutral": 73,
+      "negative": 6
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 7,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand",
+      "Vehicle Quality"
+    ],
+    "summary": "15 signals across Vehicles (10), Competitive (3); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, October 05, 2026 \u2014 7:01 AM PT \u2014 15 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats, Software.\n\u2022 *Rivian posture:* 12 Rivian signals clustered around Vehicles (10), Business (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Vehicle Quality:* Five months after praising FSD's night vision, Musk problematises an issue that LiDAR is designed to solve. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/musk-admits-teslas-robotaxis-still-struggle-to-see-at-night/\n\u2022 *Competitive Threats:* The latest teaser shows the electric M3 in its lightest camouflage yet, giving us our clearest look at the production-bound sports sedan.\n  https://insideevs.com/news/810777/bmw-m3-ev-teaser-production/\n\u2022 *Competitive Threats:* Waymo recruits New York political veterans for driverless-car push - Crain's New York Business\n  https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVk2MzBLejYxb0FnNHZ1R2ZMbzlhcE1rakRsc2dicFlUckxFZ2ZtbkFHWm5RdG80d3NBcUlhVGYzaV9nWk9Qb1EtbEZ5Z0JLVWpVbDZUZkpuRnJnM2R3M1ZEd1VnSzhsZ1N3eVJXc2tqbHRnSWdTUTVFaERyOXctT01IM1Q?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (10)* \u2022 reddit_rivian_r2 signal: Anyone using Riviamigo with an R2? Looking for real-world compatibility reports\n  https://www.reddit.com/r/RivianR2/comments/1wy614v/anyone_using_riviamigo_with_an_r2_looking_for/\n*Business (1)* \u2022 Rivian Automotive earnings beat by $0.03, revenue fell short of estimates - Investing.com\n  https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1Ezc3ZoRlNvX1czdkFDc1VuM2dZa19BVWhadkQxaE53ZUVSblhrNlI5X0tqdkZSelBEUGctRjBVY25oY1o1c0dBWUJsZUd6cXE3MEkydklybmp1bzVfUi1VbUJudjlGSE5wU0xNV2dsTGVBUFFXYTNsbnZWYzRCMHEyOUxRYWw5ZUVPc3A0WVhGWnQ3VU9fUnJHRWNGTVF0a204X3lFOVotSi1zRXI5N0plQ05wbXJxcFE?oc=5\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 bluesky signal: @mondetech.fr.web.brid.gy (Bluesky):\n  https://bsky.app/profile/did:plc:22x65cjjv4fl5fzwmdrtqddn/post/3mx52mncan6n2\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Tesla Competition\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Anyone using Riviamigo with an R2? Looking for real-world compatibility reports",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wy614v/anyone_using_riviamigo_with_an_r2_looking_for/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-05T11:23:52.800Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Anyone using Riviamigo with an R2? Looking for real-world compatibility reports",
+        "summary": "reddit_rivian_r2 signal: Anyone using Riviamigo with an R2? Looking for real-world compatibility reports",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Musk admits Tesla\u2019s robotaxis still struggle to see at night",
+        "url": "https://www.automotiveworld.com/news/musk-admits-teslas-robotaxis-still-struggle-to-see-at-night/",
+        "source": "automotive_world",
+        "publishedAt": "Mon, 05 Oct 2026 13:59:37 +0000",
+        "score": 0,
+        "snippet": "Five months after praising FSD's night vision, Musk problematises an issue that LiDAR is designed to solve. By Stewart Burnett The post <a href=\"",
+        "summary": "Five months after praising FSD's night vision, Musk problematises an issue that LiDAR is designed to solve. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Quality",
+          "Software",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "The BMW M3 EV Is Almost Done Hiding",
+        "url": "https://insideevs.com/news/810777/bmw-m3-ev-teaser-production/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 05 Oct 2026 11:32:19 +0000",
+        "score": 0,
+        "snippet": "The latest teaser shows the electric M3 in its lightest camouflage yet, giving us our clearest look at the production-bound sports sedan.",
+        "summary": "The latest teaser shows the electric M3 in its lightest camouflage yet, giving us our clearest look at the production-bound sports sedan.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Mazda\u2019s New EV SUV Can Tell Pedestrians Whatever You Want\u2014Even Naughty Words",
+        "url": "https://insideevs.com/news/810746/mazda-cx-6e-ev-external-speaker-bad-words/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 05 Oct 2026 08:33:12 +0000",
+        "score": 0,
+        "snippet": "The automaker had good intentions with the feature, but it forgot to put some guardrails in place.",
+        "summary": "The automaker had good intentions with the feature, but it forgot to put some guardrails in place.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Beats Quarterly Delivery Estimates on Strong Cheaper R2 SUV Demand - TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTUFfLU9YdTE2VHdDM1MtSUt4NExKSV8xdTgyNkFtd1FQZE1ZZDU5WGw1S3A0OFhtc0NPU0ZiSmh2Xy1TTnFDdEY0V0RGSXZJSFF6eDBGZlR6VzRvMFV4M3JQaGp5TlNUeVJOZWRobERmbFFpanFmT1E3Zlh0bzMzTzhn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 05 Oct 2026 12:55:46 GMT",
+        "score": 0,
+        "snippet": "Rivian Beats Quarterly Delivery Estimates on Strong Cheaper R2 SUV Demand - TIKR.com",
+        "summary": "Rivian Beats Quarterly Delivery Estimates on Strong Cheaper R2 SUV Demand - TIKR.com",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive earnings beat by $0.03, revenue fell short of estimates - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1Ezc3ZoRlNvX1czdkFDc1VuM2dZa19BVWhadkQxaE53ZUVSblhrNlI5X0tqdkZSelBEUGctRjBVY25oY1o1c0dBWUJsZUd6cXE3MEkydklybmp1bzVfUi1VbUJudjlGSE5wU0xNV2dsTGVBUFFXYTNsbnZWYzRCMHEyOUxRYWw5ZUVPc3A0WVhGWnQ3VU9fUnJHRWNGTVF0a204X3lFOVotSi1zRXI5N0plQ05wbXJxcFE?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 05 Oct 2026 08:36:01 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive earnings beat by $0.03, revenue fell short of estimates - Investing.com",
+        "summary": "Rivian Automotive earnings beat by $0.03, revenue fell short of estimates - Investing.com",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Baird Reiterates Outperform Rating on Rivian (RIVN) - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDc1YWtTeUpONXQ5N1g0WTJwX3c1SUttbHVFSDhaTjNjeEs4RXV4MDNGY2d0Z0xyZ3JlemxONW1TSTE0M1ZOQWU2RlgyRHYxdUhmSXdfWjRLOGFEc3d5bS1Ea1hMQ0t1T2hzSjJKUS1ZRjZFSm5lREFscDRLVVM5a3FORm1tN3Z0OU9ON2FlU2JWSVdZd2FDQ3BpTHRlSXJCaHJkNF94TUZZNnNjaFFna3d1aF9feW8?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 05 Oct 2026 11:41:45 GMT",
+        "score": 0,
+        "snippet": "Baird Reiterates Outperform Rating on Rivian (RIVN) - StreetInsider",
+        "summary": "Baird Reiterates Outperform Rating on Rivian (RIVN) - StreetInsider",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo recruits New York political veterans for driverless-car push - Crain's New York Business",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVk2MzBLejYxb0FnNHZ1R2ZMbzlhcE1rakRsc2dicFlUckxFZ2ZtbkFHWm5RdG80d3NBcUlhVGYzaV9nWk9Qb1EtbEZ5Z0JLVWpVbDZUZkpuRnJnM2R3M1ZEd1VnSzhsZ1N3eVJXc2tqbHRnSWdTUTVFaERyOXctT01IM1Q?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Mon, 05 Oct 2026 09:30:00 GMT",
+        "score": 0,
+        "snippet": "Waymo recruits New York political veterans for driverless-car push - Crain's New York Business",
+        "summary": "Waymo recruits New York political veterans for driverless-car push - Crain's New York Business",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@peoriaconnected.bsky.social (Bluesky): Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "url": "https://bsky.app/profile/did:plc:ka5ll5mmwnag2oxkqoir65qw/post/3mx4zpspho62d",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T13:32:58.462Z",
+        "score": 0,
+        "snippet": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "summary": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mcleanconnected.bsky.social (Bluesky): Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "url": "https://bsky.app/profile/did:plc:plel7skiqdeb33lks4zwidbt/post/3mx4vlmeqfz2i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T12:19:03.069Z",
+        "score": 0,
+        "snippet": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "summary": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mondetech.fr.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:22x65cjjv4fl5fzwmdrtqddn/post/3mx52mncan6n2",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T13:49:15.965Z",
+        "score": 0,
+        "snippet": "bluesky signal: @mondetech.fr.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @mondetech.fr.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@kolotipy.cz (Bluesky): Spin-off Rivianu ALSO po n\u011bkolikam\u011bs\u00ed\u010dn\u00edch odkladech za\u010dal doru\u010dovat prvn\u00ed elekt",
+        "url": "https://bsky.app/profile/did:plc:k66pdun5bq7fh2czqrxwjntc/post/3mx4t7wm2ar2c",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T11:36:42.859Z",
+        "score": 0,
+        "snippet": "Spin-off Rivianu ALSO po n\u011bkolikam\u011bs\u00ed\u010dn\u00edch odkladech za\u010dal doru\u010dovat prvn\u00ed elektrokola TM-B Launch Edition za 4 500 dolar\u016f.",
+        "summary": "Spin-off Rivianu ALSO po n\u011bkolikam\u011bs\u00ed\u010dn\u00edch odkladech za\u010dal doru\u010dovat prvn\u00ed elektrokola TM-B Launch Edition za 4 500 dolar\u016f.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@mcleanconnected.bsky.social (Bluesky): Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "url": "https://bsky.app/profile/did:plc:plel7skiqdeb33lks4zwidbt/post/3mx4rfjbyyi2q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T11:04:02.757Z",
+        "score": 0,
+        "snippet": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "summary": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ilroadnetwork.bsky.social (Bluesky): Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "url": "https://bsky.app/profile/did:plc:ulrqzwbo2pjqit3a6ultvj27/post/3mx4rdqoqc52u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T11:03:03.662Z",
+        "score": 0,
+        "snippet": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "summary": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ilroadahead.bsky.social (Bluesky): Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "url": "https://bsky.app/profile/did:plc:pva7gaxnzu3kqgbozkhyxx37/post/3mx4rdqcs6h2q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T11:03:04.060Z",
+        "score": 0,
+        "snippet": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "summary": "Rivian EV deliveries rise 46% in third quarter vs. same time last year",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
