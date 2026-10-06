@@ -1906,5 +1906,294 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-06T07:01:47.975891-07:00",
+    "timestamp": "2026-10-06T07:01:47.975891-07:00",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 86,
+      "negative": 13
+    },
+    "sources": {
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "electrek": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 8,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 8,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "EV Market",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "15 signals across Vehicles (8), Competitive (6); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, October 06, 2026 \u2014 7:01 AM PT \u2014 15 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats, EV Market.\n\u2022 *Rivian posture:* 9 Rivian signals clustered around Vehicles (8), Community (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Competitive Threats, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Competitive Threats:* Record EV sales vindicate T&#038;E's case that supply held Europe back, but subsidies and pump prices are still driving much of the demand. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/analysis/affordable-evs-and-pump-prices-drive-record-european-sales/\n\u2022 *Competitive Threats:* I drove Kia's newest and cheapest EV. With up to 321 miles of range, it's a great value.\n  https://insideevs.com/reviews/810861/kia-ev3-review-drive-best-affordable-ev/\n\u2022 *Competitive Threats:* Te\n  https://electrek.co/2026/10/06/tesla-india-first-year-under-1000-cars-model-y-l-ramp/\n\u2022 *Competitive Threats:* T\n  https://electrek.co/2026/10/06/kia-ev3-first-drive-affordable-ev/\n\u2022 *Competitive Threats:* Top high-end EVs (over $70k) available include: \u200bPorsche Taycan / Macan EV \u200bLucid Air / Gravity \u200bBMW i7 / iX \u200bMercedes-Benz EQS / EQE \u200bAudi e-tron GT / Q8 e-tron \u200bCadillac Lyriq / Celestiq \u200bTesla Mode\n  https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mx77hqxrts2k\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (8)* \u2022 Wayve CEO Alex Kendall discusses the future of driving, the market for autonomous vehicles in the US and China, as well as the possibility of a future IPO. He spoke with Bloomberg TV's Tom Mackenzie o\n  https://www.bloomberg.com/news/videos/2026-10-06/wayve-ceo-kendall-on-the-future-of-driving-video\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (1)* \u2022 youtu.be/WPB1bfehom0?...\n  https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mx6xbneil22a\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 Software\n\u2022 Tesla Competition\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Wayve CEO Kendall on the Future of Driving",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-06/wayve-ceo-kendall-on-the-future-of-driving-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Tue, 06 Oct 2026 12:16:43 GMT",
+        "score": 0,
+        "snippet": "Wayve CEO Alex Kendall discusses the future of driving, the market for autonomous vehicles in the US and China, as well as the possibility of a future IPO. He spoke with Bloomberg TV's Tom Mackenzie o",
+        "summary": "Wayve CEO Alex Kendall discusses the future of driving, the market for autonomous vehicles in the US and China, as well as the possibility of a future IPO. He spoke with Bloomberg TV's Tom Mackenzie o",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Affordable EVs and pump prices drive record European sales",
+        "url": "https://www.automotiveworld.com/analysis/affordable-evs-and-pump-prices-drive-record-european-sales/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 06 Oct 2026 09:22:42 +0000",
+        "score": 0,
+        "snippet": "Record EV sales vindicate T&#038;E's case that supply held Europe back, but subsidies and pump prices are still driving much of the demand. By Stewart Burnett The post <a href=\"",
+        "summary": "Record EV sales vindicate T&#038;E's case that supply held Europe back, but subsidies and pump prices are still driving much of the demand. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Spain is central to Renault\u2019s manufacturing plans",
+        "url": "https://www.automotiveworld.com/analysis/spain-is-central-to-renaults-manufacturing-plans/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 06 Oct 2026 07:29:16 +0000",
+        "score": 0,
+        "snippet": "Renault has announced \u20ac600m investment in its two Spanish vehicle plants, adding EV production in Spain over the next couple of years. By Ian Henry The post <a href=\"",
+        "summary": "Renault has announced \u20ac600m investment in its two Spanish vehicle plants, adding EV production in Spain over the next couple of years. By Ian Henry The post <a href=\"",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is The $30,000 Kia EV3 The Best Affordable EV Yet?",
+        "url": "https://insideevs.com/reviews/810861/kia-ev3-review-drive-best-affordable-ev/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 06 Oct 2026 13:01:00 +0000",
+        "score": 0,
+        "snippet": "I drove Kia's newest and cheapest EV. With up to 321 miles of range, it's a great value.",
+        "summary": "I drove Kia's newest and cheapest EV. With up to 321 miles of range, it's a great value.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla sold under 1,000 cars in its first year in India, but it\u2019s ramping",
+        "url": "https://electrek.co/2026/10/06/tesla-india-first-year-under-1000-cars-model-y-l-ramp/",
+        "source": "electrek",
+        "publishedAt": "Tue, 06 Oct 2026 13:58:28 +0000",
+        "score": 0,
+        "snippet": "Te",
+        "summary": "Te",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Kia EV3 first drive: the affordable EV we have been waiting for",
+        "url": "https://electrek.co/2026/10/06/kia-ev3-first-drive-affordable-ev/",
+        "source": "electrek",
+        "publishedAt": "Tue, 06 Oct 2026 13:28:02 +0000",
+        "score": 0,
+        "snippet": "T",
+        "summary": "T",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Should Reaffirmed Delivery Guidance Require Action From Rivian (RIVN) Investors? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR1M4QjM3MnN6UVhDbW9lajZFZXBzTmJFQU5RdFZEbVMwSjJobWVVS1hUNm1waVpmMGcxV0tEQVlFR2lyVEpxeW01TjhscjIxd3lvTHZvYXY4bGZHWVhHS1hMOWpwdFJ5c1NEMEpzWTExOGdIdU9Hb1RQcFFwV3o4dE5EdTJ6ZG1TNUJtbnIxRWN5bmVNOWdlWVpaRUg0UEpVLW53QWxzYTR1UXZhdWo2M0duOC1Vald2UTAzNDBqQzlCMmt6Wlg5UEN1QVl6MFloOGs4bzRn0gHbAUFVX3lxTE1BWUVWY0d4THEtNk1oQXdDTU5aTGlZdTBtbU5oalliTERkS2RBdFZRTi00VXB4QTMzQVJPYVh6OXRHcTZvaE5yVXBiOHpta3JEMnUwTmYyZ0FqSTlMUHAzUG9rbkFOcFBsN2wwcUFCZTJzb2liU2NWMHRnRm51ZUs1dm9rNEI1anVmNTRGMVlTT3ZhUE5LMnZBVVNLczluT3ZnWC00emIwanp5ZGVKWG1WOGtMWUp5MWxpZGdtb0JwVGVUbVdPM2hKeWhmN2x1VXctQWRaYW0zelFzbw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 06 Oct 2026 09:27:47 GMT",
+        "score": 0,
+        "snippet": "Should Reaffirmed Delivery Guidance Require Action From Rivian (RIVN) Investors? - Simply Wall Street",
+        "summary": "Should Reaffirmed Delivery Guidance Require Action From Rivian (RIVN) Investors? - Simply Wall Street",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@horadam.bsky.social (Bluesky): Would be interested to see if Rivian can actually expand the R1T market over the",
+        "url": "https://bsky.app/profile/did:plc:rp4rgamibrblojq7f7pgmuxc/post/3mx7kz4clsc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T13:47:43.461Z",
+        "score": 0,
+        "snippet": "Would be interested to see if Rivian can actually expand the R1T market over the next few years as tech improvements expand its use case and production scale in the Rivian family lowers BOM costs. Cou",
+        "summary": "Would be interested to see if Rivian can actually expand the R1T market over the next few years as tech improvements expand its use case and production scale in the Rivian family lowers BOM costs. Cou",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@christosilvia.bsky.social (Bluesky): Oh yeah. I was at a diner in rural NJ and was talking about rivian. An older lad",
+        "url": "https://bsky.app/profile/did:plc:p66jie34yptdjwglyftphkgj/post/3mx7jwgywyk2u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T13:28:18.956Z",
+        "score": 3,
+        "snippet": "Oh yeah. I was at a diner in rural NJ and was talking about rivian. An older lady's first question was \"is it American?\" and she was happy to hear that it was.",
+        "summary": "Oh yeah. I was at a diner in rural NJ and was talking about rivian. An older lady's first question was \"is it American?\" and she was happy to hear that it was.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@randyrnbla.bsky.social (Bluesky): Preordered my Rivian R2 Launch Green (!) last week and have no clue what to do a",
+        "url": "https://bsky.app/profile/did:plc:suknqdnajuo7o7ho6uh5pvxb/post/3mx7ga62uoc26",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T12:22:11.262Z",
+        "score": 0,
+        "snippet": "Preordered my Rivian R2 Launch Green (!) last week and have no clue what to do about all this Rivian Care stuff when it\u2019s time to purchase. \ud83d\ude40",
+        "summary": "Preordered my Rivian R2 Launch Green (!) last week and have no clue what to do about all this Rivian Care stuff when it\u2019s time to purchase. \ud83d\ude40",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mx7e2g4mxc2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T11:43:11.661Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mx7dzht7hs2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T11:42:39.957Z",
+        "score": 1,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Top high-end EVs (over $70k) available include:\n\u200bPorsche Taycan / Macan EV\n\u200bLuci",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mx77hqxrts2k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T10:21:10.462Z",
+        "score": 0,
+        "snippet": "Top high-end EVs (over $70k) available include: \u200bPorsche Taycan / Macan EV \u200bLucid Air / Gravity \u200bBMW i7 / iX \u200bMercedes-Benz EQS / EQE \u200bAudi e-tron GT / Q8 e-tron \u200bCadillac Lyriq / Celestiq \u200bTesla Mode",
+        "summary": "Top high-end EVs (over $70k) available include: \u200bPorsche Taycan / Macan EV \u200bLucid Air / Gravity \u200bBMW i7 / iX \u200bMercedes-Benz EQS / EQE \u200bAudi e-tron GT / Q8 e-tron \u200bCadillac Lyriq / Celestiq \u200bTesla Mode",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Estimates of 12-15 are realistic. Notable EVs available in the US include:\n\u200bTesl",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mx77csof322k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T10:18:24.971Z",
+        "score": 0,
+        "snippet": "Estimates of 12-15 are realistic. Notable EVs available in the US include: \u200bTesla Model 3 / Y / S / X \u200bHyundai Ioniq 5 / 6 \u200bFord Mustang Mach-E / F-150 Lightning \u200bChevrolet Equinox / Blazer EV \u200b",
+        "summary": "Estimates of 12-15 are realistic. Notable EVs available in the US include: \u200bTesla Model 3 / Y / S / X \u200bHyundai Ioniq 5 / 6 \u200bFord Mustang Mach-E / F-150 Lightning \u200bChevrolet Equinox / Blazer EV \u200b",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Software",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): youtu.be/WPB1bfehom0?...",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mx6xbneil22a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T07:54:35.964Z",
+        "score": 0,
+        "snippet": "youtu.be/WPB1bfehom0?...",
+        "summary": "youtu.be/WPB1bfehom0?...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
