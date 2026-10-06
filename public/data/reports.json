@@ -2195,5 +2195,568 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-06T15:01:36.999896-07:00",
+    "timestamp": "2026-10-06T15:01:36.999896-07:00",
+    "sentiment": {
+      "positive": 15,
+      "neutral": 72,
+      "negative": 12
+    },
+    "sources": {
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_selfdrivingcars": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "nytimes_business": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 20,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 9,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "Pricing & Incentives",
+      "R2 Launch",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "33 signals across Vehicles (18), Competitive (9); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, October 06, 2026 \u2014 3:01 PM PT \u2014 33 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 9 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 24 Rivian signals clustered around Vehicles (18), Business (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 4 negative signals; watch Vehicle Demand, Competitive Threats, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (9)\n\u2022 *Competitive Threats:* reddit_electricvehicles signal: I test drive an Ioniq 5 Limited... wow!\n  https://www.reddit.com/r/electricvehicles/comments/1wz9sbi/i_test_drive_an_ioniq_5_limited_wow/\n\u2022 *Competitive Threats:* reddit_selfdrivingcars signal: Tesla FSD: Transport Minister Bilger calls for EU approval of assistance system\n  https://www.reddit.com/r/SelfDrivingCars/comments/1wzeire/tesla_fsd_transport_minister_bilger_calls_for_eu/\n\u2022 *Competitive Threats:* Waymo increased the size of its inaugural debt raise to $5 billion, tapping lenders to help fuel the robotaxi company\u2019s growth as it expands globally.\n  https://www.bloomberg.com/news/articles/2026-10-06/waymo-boosts-private-debt-deal-to-5-billion-in-push-for-growth\n\u2022 *Competitive Threats:* Next year, Honda will begin testing out a wireless charger baked into a stretch of highway near Tokyo.\n  https://insideevs.com/news/810955/honda-wireless-highway-ev-charging/\n\u2022 *Competitive Threats:* <a href=\"\n  https://electrek.co/2026/10/06/toyota-shuts-down-rumors-slashing-prices-china/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 Thats whats up. I test drove a Rivian R2 and having to use a touch screen to adjust the AC is what pushed me to put in my pre-order for a Fastback \ud83e\udd18\n  https://bsky.app/profile/did:plc:wo6jmkbhj2xpzxbryr3zlet5/post/3mxa65iwl5s2z\n*Vehicles (18)* \u2022 How Did Rivian Automotive (NASDAQ:RIVN) Post Record Deliveries This Quarter? - Kalkine Media\n  https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEVpVDJoRVN0c3VXOHl3UU9fUVZ5ZWo1VU5lQm53QzM1SjVoRFZyRElhZU82WGxfaG0yZnJ4VHBlMGN5WHMxaFZxVmoxTTRqaU1RXzl4V1MxQW9BaUpCWVMtdWxlN2p6YTEzejd6enpWYWJHMVhrdHpseW12SVVZRkRxWWpneTNfU0piOE42R00tYzNaN1lQN2ZwT0JwTF9XTjRMOFJSWng0VVpQUUFUZlB6LU9GRUc3Tmc?oc=5\n*Business (2)* \u2022 The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.\n  https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html\n*Software (2)* \u2022 Rivian's 2026.36 update brings Rivian Assistant to R2 for the first time, with support for Gmail, Google Calendar, and Memory. R2 also gets Pet Cam, remote Pet Comfort controls, and a programmable lif\n  https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mxa4l5egzc2i\n*Community (1)* \u2022 bluesky signal: @instapundit.com.web.brid.gy (Bluesky):\n  https://bsky.app/profile/did:plc:wkobr6sktmt4ajkqj3n5uvou/post/3mxadnhgw6fk2\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 Pricing & Incentives\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "I test drive an Ioniq 5 Limited... wow!",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1wz9sbi/i_test_drive_an_ioniq_5_limited_wow/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-06T18:12:04.418Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: I test drive an Ioniq 5 Limited... wow!",
+        "summary": "reddit_electricvehicles signal: I test drive an Ioniq 5 Limited... wow!",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla FSD: Transport Minister Bilger calls for EU approval of assistance system",
+        "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1wzeire/tesla_fsd_transport_minister_bilger_calls_for_eu/",
+        "source": "reddit_selfdrivingcars",
+        "publishedAt": "2026-10-06T21:14:48.468Z",
+        "score": 0,
+        "snippet": "reddit_selfdrivingcars signal: Tesla FSD: Transport Minister Bilger calls for EU approval of assistance system",
+        "summary": "reddit_selfdrivingcars signal: Tesla FSD: Transport Minister Bilger calls for EU approval of assistance system",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "\u2018Digger,\u2019 Warner Bros.\u2019 Last Release Before Merger, Is a Major Flop",
+        "url": "https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html",
+        "source": "nytimes_business",
+        "publishedAt": "Tue, 06 Oct 2026 17:46:57 +0000",
+        "score": 0,
+        "snippet": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.",
+        "summary": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Waymo Boosts Private Debt Deal to $5 Billion in Push for Growth",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-06/waymo-boosts-private-debt-deal-to-5-billion-in-push-for-growth",
+        "source": "bloomberg_tech",
+        "publishedAt": "Tue, 06 Oct 2026 19:12:46 GMT",
+        "score": 0,
+        "snippet": "Waymo increased the size of its inaugural debt raise to $5 billion, tapping lenders to help fuel the robotaxi company\u2019s growth as it expands globally.",
+        "summary": "Waymo increased the size of its inaugural debt raise to $5 billion, tapping lenders to help fuel the robotaxi company\u2019s growth as it expands globally.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Honda Will Test Wireless EV Chargers On The Highway In 2027",
+        "url": "https://insideevs.com/news/810955/honda-wireless-highway-ev-charging/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 06 Oct 2026 19:31:09 +0000",
+        "score": 0,
+        "snippet": "Next year, Honda will begin testing out a wireless charger baked into a stretch of highway near Tokyo.",
+        "summary": "Next year, Honda will begin testing out a wireless charger baked into a stretch of highway near Tokyo.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Toyota shuts down rumors claiming that it\u2019s \u2018slashing prices\u2019 in China",
+        "url": "https://electrek.co/2026/10/06/toyota-shuts-down-rumors-slashing-prices-china/",
+        "source": "electrek",
+        "publishedAt": "Tue, 06 Oct 2026 19:08:35 +0000",
+        "score": 0,
+        "snippet": "<a href=\"",
+        "summary": "<a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Model 3 and Model Y can finally power your home",
+        "url": "https://electrek.co/2026/10/06/tesla-powershare-home-backup-model-3-model-y-powerwall-3/",
+        "source": "electrek",
+        "publishedAt": "Tue, 06 Oct 2026 16:57:17 +0000",
+        "score": 0,
+        "snippet": "T",
+        "summary": "T",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Suzuki undercuts BYD with a $13,500 mini EV powered by BYD batteries",
+        "url": "https://electrek.co/2026/10/06/suzuki-undercuts-byd-13500-mini-ev-using-byd-batteries/",
+        "source": "electrek",
+        "publishedAt": "Tue, 06 Oct 2026 14:11:47 +0000",
+        "score": 0,
+        "snippet": "The e SKY,",
+        "summary": "The e SKY,",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Sources: Waymo increased the size of its inaugural debt raise from $3B+ to $5B, as it grapples with rising AI costs and rapidly expands its robotaxi fleet (Bloomberg)",
+        "url": "https://www.techmeme.com/261006/p35#a261006p35",
+        "source": "techmeme",
+        "publishedAt": "Tue, 06 Oct 2026 15:45:01 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian & Lucid After Q3 Deliveries: Is Either Stock a Buy Now? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0JZREduV1dINl9BWTRpVF84MS1OTDlLc0VCOTFDLTkyQ1NWODczRkpVdlU2c2w0OEdYbjZRUDdyWTBrUDBibDl3ZEotdjBnQU9Ea21oTlZCa0pud1M3TEI2bS1SMkZtME5IeXM3N05IRmRTeVVaVU94bTljZVNLWmt4MlhIcFRuYk1PYlZmQ2RwVks3WlZmd3JHXzYweVBaVWZzTnkteXVZaGJ2dFgwckxYQ3Y?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 06 Oct 2026 14:35:00 GMT",
+        "score": 0,
+        "snippet": "Rivian & Lucid After Q3 Deliveries: Is Either Stock a Buy Now? - TradingView",
+        "summary": "Rivian & Lucid After Q3 Deliveries: Is Either Stock a Buy Now? - TradingView",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "How Did Rivian Automotive (NASDAQ:RIVN) Post Record Deliveries This Quarter? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEVpVDJoRVN0c3VXOHl3UU9fUVZ5ZWo1VU5lQm53QzM1SjVoRFZyRElhZU82WGxfaG0yZnJ4VHBlMGN5WHMxaFZxVmoxTTRqaU1RXzl4V1MxQW9BaUpCWVMtdWxlN2p6YTEzejd6enpWYWJHMVhrdHpseW12SVVZRkRxWWpneTNfU0piOE42R00tYzNaN1lQN2ZwT0JwTF9XTjRMOFJSWng0VVpQUUFUZlB6LU9GRUc3Tmc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Tue, 06 Oct 2026 14:06:00 GMT",
+        "score": 0,
+        "snippet": "How Did Rivian Automotive (NASDAQ:RIVN) Post Record Deliveries This Quarter? - Kalkine Media",
+        "summary": "How Did Rivian Automotive (NASDAQ:RIVN) Post Record Deliveries This Quarter? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s Strong Sales Show There\u2019s A Market For Good, Affordable Electric Cars - The Autopian",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazRfNG5RZzd2c2NpZzdPWWQ3YzkyVm5hWGlVR28wbkJKMG82aXRlZERKc0dVN1ZxQ3lLS0plcE5SV3p4TFZBZDZOQjNSSXpSbUpfVzl2Y0lQZlFyVC1zeGt6dmZwRUhKc1pRbGExdENQbkdVOFBfMUplZWMzZGxNb1BCdnhuOTNkcFlncHZNQjlBWkloYTVjb2MyTTQwNU82Zk95cTdiQQ?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Tue, 06 Oct 2026 14:58:13 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s Strong Sales Show There\u2019s A Market For Good, Affordable Electric Cars - The Autopian",
+        "summary": "Rivian\u2019s Strong Sales Show There\u2019s A Market For Good, Affordable Electric Cars - The Autopian",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla vs. Waymo: A Face-Off Between the Two Robotaxi Giants - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTU5qX3U5eTZ2aG5WUGZXQmVELUotY3dNQW4zSGxCNXVLbHJQTWxQQWdRd3J1ZmVxLWswU092Q1FfSjJ2dDQyMTJJSklNZHpFN0xveTYwcy13N0pETnNuX2ZvbWxmRmRweEtPcXJFRWVLYW4wZlNMRUtEQ0ZWNndjN2hsTUZiRml4MlZOaE5xNHpCSkt4SnFFRk5hYjEtaHhJb29GbVY0Y2lzR21iMEJLemhIRQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Tue, 06 Oct 2026 14:19:00 GMT",
+        "score": 0,
+        "snippet": "Tesla vs. Waymo: A Face-Off Between the Two Robotaxi Giants - TradingView",
+        "summary": "Tesla vs. Waymo: A Face-Off Between the Two Robotaxi Giants - TradingView",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@chevrolettahoe.bsky.social (Bluesky): Rivian's cool and I like the vehicles but they've got 5+ years and 3 more models",
+        "url": "https://bsky.app/profile/did:plc:wfjcm4szpttfxxfepnpuuowm/post/3mxaglntnut2v",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T22:01:17.194Z",
+        "score": 0,
+        "snippet": "Rivian's cool and I like the vehicles but they've got 5+ years and 3 more models before I'm snorting their stuff. This can change this at any moment, all they need to do is hire me as a technician on",
+        "summary": "Rivian's cool and I like the vehicles but they've got 5+ years and 3 more models before I'm snorting their stuff. This can change this at any moment, all they need to do is hire me as a technician on",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@chevrolettahoe.bsky.social (Bluesky): like Kia and Hyundai have a whole proven concept rolling about with the service ",
+        "url": "https://bsky.app/profile/did:plc:wfjcm4szpttfxxfepnpuuowm/post/3mxaglntmvk2v",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T22:01:17.127Z",
+        "score": 0,
+        "snippet": "like Kia and Hyundai have a whole proven concept rolling about with the service network and charger ease etc etc Rivian's doing decent but we're talking about two entirely different concepts imo Eve",
+        "summary": "like Kia and Hyundai have a whole proven concept rolling about with the service network and charger ease etc etc Rivian's doing decent but we're talking about two entirely different concepts imo Eve",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@chevrolettahoe.bsky.social (Bluesky): just an inherently different group of people than Kia and Hyundai\n\nkia's EV3 cou",
+        "url": "https://bsky.app/profile/did:plc:wfjcm4szpttfxxfepnpuuowm/post/3mxaglntkx22v",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T22:01:17.095Z",
+        "score": 0,
+        "snippet": "just an inherently different group of people than Kia and Hyundai kia's EV3 could shoot them way up the rankings, too like i'm really starting to think Rivian pays journos to write positive shit for",
+        "summary": "just an inherently different group of people than Kia and Hyundai kia's EV3 could shoot them way up the rankings, too like i'm really starting to think Rivian pays journos to write positive shit for",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): And yet competing EV models are almost outselling the entire Rivian brand. Legac",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mxafrzvbx22n",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T21:46:56.857Z",
+        "score": 0,
+        "snippet": "And yet competing EV models are almost outselling the entire Rivian brand. Legacy carmakers can sell EVs extraordinarily well when they aren't scared of them.",
+        "summary": "And yet competing EV models are almost outselling the entire Rivian brand. Legacy carmakers can sell EVs extraordinarily well when they aren't scared of them.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@airheadedaviator.bsky.social (Bluesky): Quite, but I mean Hyundai is also way bigger and older than Rivian in the first ",
+        "url": "https://bsky.app/profile/did:plc:aqhkf64qrvghpnkzkbzotfvh/post/3mxafghkxyc2c",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T21:40:28.561Z",
+        "score": 1,
+        "snippet": "Quite, but I mean Hyundai is also way bigger and older than Rivian in the first place.",
+        "summary": "Quite, but I mean Hyundai is also way bigger and older than Rivian in the first place.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@brinndraws.bsky.social (Bluesky): remember when hate for the pt cruiser was inescapable, now every day i'm forced ",
+        "url": "https://bsky.app/profile/did:plc:r4lwbh3nqwgkvdw5ndzujk4q/post/3mxae52q3bc2h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T21:17:19.760Z",
+        "score": 1,
+        "snippet": "remember when hate for the pt cruiser was inescapable, now every day i'm forced to see those fuckass rivian suv headlights",
+        "summary": "remember when hate for the pt cruiser was inescapable, now every day i'm forced to see those fuckass rivian suv headlights",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has shared new upfitting guides for R1 and RCV.\n\nR1T Upfitting Guide:  bu",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxad6kc4r62k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T21:00:15.758Z",
+        "score": 0,
+        "snippet": "Rivian has shared new upfitting guides for R1 and RCV. R1T Upfitting Guide: buff.ly/07OGhB6 R1S Upfitting Guide: buff.ly/QNruZTN Rivian Commercial Van 500 Upfitting Guide: buff.ly/ksMtOp2 Rivia",
+        "summary": "Rivian has shared new upfitting guides for R1 and RCV. R1T Upfitting Guide: buff.ly/07OGhB6 R1S Upfitting Guide: buff.ly/QNruZTN Rivian Commercial Van 500 Upfitting Guide: buff.ly/ksMtOp2 Rivia",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@instapundit.com.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:wkobr6sktmt4ajkqj3n5uvou/post/3mxadnhgw6fk2",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T21:08:44.072Z",
+        "score": 0,
+        "snippet": "bluesky signal: @instapundit.com.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @instapundit.com.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@rickmurdockagc.bsky.social (Bluesky): I am a loyal Ford buyer. They were started down the EV road and it seemed like 2",
+        "url": "https://bsky.app/profile/did:plc:ltzwj5mslgzasigic3bbvxaq/post/3mxacs3q4ak2j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T20:53:19.066Z",
+        "score": 0,
+        "snippet": "I am a loyal Ford buyer. They were started down the EV road and it seemed like 2 years ago they left the tracks. Maybe they get back on track with this new 30K EV pickup. Looking at a Rivian R1T righ",
+        "summary": "I am a loyal Ford buyer. They were started down the EV road and it seemed like 2 years ago they left the tracks. Maybe they get back on track with this new 30K EV pickup. Looking at a Rivian R1T righ",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): PSA:  Not all Rivian locations accept lease returns.  Here's the list of where t",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxabio3e4o2t",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T20:30:07.769Z",
+        "score": 0,
+        "snippet": "PSA: Not all Rivian locations accept lease returns. Here's the list of where to return a lease. Link: buff.ly/MyyfaFq",
+        "summary": "PSA: Not all Rivian locations accept lease returns. Here's the list of where to return a lease. Link: buff.ly/MyyfaFq",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ownfeed.bsky.social (Bluesky): NEWS | Rivian posted record Q3 deliveries as Tesla sales slip but beat expectati",
+        "url": "https://bsky.app/profile/did:plc:iipowqhztticiguaxkwgtiwt/post/3mxaa3xez442p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T20:05:08.659Z",
+        "score": 0,
+        "snippet": "NEWS | Rivian posted record Q3 deliveries as Tesla sales slip but beat expectations: Rivian delivered a record 19,248 vehicles in the third quarter, beating the 18,001 analysts expected, per Visible A",
+        "summary": "NEWS | Rivian posted record Q3 deliveries as Tesla sales slip but beat expectations: Rivian delivered a record 19,248 vehicles in the third quarter, beating the 18,001 analysts expected, per Visible A",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@borgdad.bsky.social (Bluesky): So with the rise in gas prices what is the EV advantage? Here in Seattle, using ",
+        "url": "https://bsky.app/profile/did:plc:rybvey7es7bkltiskkyo67ze/post/3mxa7wvs2jc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T20:02:16.067Z",
+        "score": 1,
+        "snippet": "So with the rise in gas prices what is the EV advantage? Here in Seattle, using my relatively inefficient Rivian R1S as a baseline... At current prices an equivalent SUV like the Ford Explorer EcoBoo",
+        "summary": "So with the rise in gas prices what is the EV advantage? Here in Seattle, using my relatively inefficient Rivian R1S as a baseline... At current prices an equivalent SUV like the Ford Explorer EcoBoo",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@koduh68.bsky.social (Bluesky): Thats whats up. I test drove a Rivian R2 and having to use a touch screen to adj",
+        "url": "https://bsky.app/profile/did:plc:wo6jmkbhj2xpzxbryr3zlet5/post/3mxa65iwl5s2z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T19:30:11.762Z",
+        "score": 0,
+        "snippet": "Thats whats up. I test drove a Rivian R2 and having to use a touch screen to adjust the AC is what pushed me to put in my pre-order for a Fastback \ud83e\udd18",
+        "summary": "Thats whats up. I test drove a Rivian R2 and having to use a touch screen to adjust the AC is what pushed me to put in my pre-order for a Fastback \ud83e\udd18",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian's 2026.36 update brings Rivian Assistant to R2 for the first time, with s",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mxa4l5egzc2i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T19:02:04.160Z",
+        "score": 4,
+        "snippet": "Rivian's 2026.36 update brings Rivian Assistant to R2 for the first time, with support for Gmail, Google Calendar, and Memory. R2 also gets Pet Cam, remote Pet Comfort controls, and a programmable lif",
+        "summary": "Rivian's 2026.36 update brings Rivian Assistant to R2 for the first time, with support for Gmail, Google Calendar, and Memory. R2 also gets Pet Cam, remote Pet Comfort controls, and a programmable lif",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@christosilvia.bsky.social (Bluesky): If you want an EV right now, aren't your choices:\n\nVW ID.Buzz\nKia EV9\nHyundai Io",
+        "url": "https://bsky.app/profile/did:plc:p66jie34yptdjwglyftphkgj/post/3mxa2gba7rc2u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T18:23:29.163Z",
+        "score": 4,
+        "snippet": "If you want an EV right now, aren't your choices: VW ID.Buzz Kia EV9 Hyundai Ioniq 9 Rivian R1S (maybe R2?) And I think that's it???",
+        "summary": "If you want an EV right now, aren't your choices: VW ID.Buzz Kia EV9 Hyundai Ioniq 9 Rivian R1S (maybe R2?) And I think that's it???",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian has published an R2 recommended maintenance list.",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxa2eq7i2d2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T18:22:39.761Z",
+        "score": 0,
+        "snippet": "Rivian has published an R2 recommended maintenance list.",
+        "summary": "Rivian has published an R2 recommended maintenance list.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thismachinekillsfascists.bike (Bluesky): huh the Rivian R2 is not smaller than the Mach-E, and has a higher curb weight",
+        "url": "https://bsky.app/profile/did:plc:5crwi4cylobqjypa3ljgrxer/post/3mx7zpcgxws2p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T18:10:40.060Z",
+        "score": 1,
+        "snippet": "huh the Rivian R2 is not smaller than the Mach-E, and has a higher curb weight",
+        "summary": "huh the Rivian R2 is not smaller than the Mach-E, and has a higher curb weight",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rbd.bsky.social (Bluesky): I work for Rivian, but yeah the R2 is NICE\n\nAnd if you can wait till next year f",
+        "url": "https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3mx7zlwzjvc2t",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T18:08:45.959Z",
+        "score": 0,
+        "snippet": "I work for Rivian, but yeah the R2 is NICE And if you can wait till next year for the standard trim, it's under 50 grand",
+        "summary": "I work for Rivian, but yeah the R2 is NICE And if you can wait till next year for the standard trim, it's under 50 grand",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Release notes have dropped for Rivian software update 2026.36 for R2!\n\nHighlight",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mx7z77swhm2f",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T18:01:40.859Z",
+        "score": 3,
+        "snippet": "Release notes have dropped for Rivian software update 2026.36 for R2! Highlights include: 1. Rivian Assistant 2. Programmable Liftgate Height 3. Mobile Pet Comfort Controls and Camera rivianroamer.c",
+        "summary": "Release notes have dropped for Rivian software update 2026.36 for R2! Highlights include: 1. Rivian Assistant 2. Programmable Liftgate Height 3. Mobile Pet Comfort Controls and Camera rivianroamer.c",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "R2 Launch",
+          "Pricing & Incentives",
+          "Software"
+        ]
+      },
+      {
+        "title": "@ryanlcooper.com (Bluesky): what Americans want is a medium-large SUV, even if it costs 60 grand techcrunch.",
+        "url": "https://bsky.app/profile/did:plc:p5yoii26kayabauhkym3vtms/post/3mx7y6ngnz22x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T17:43:28.658Z",
+        "score": 97,
+        "snippet": "what Americans want is a medium-large SUV, even if it costs 60 grand techcrunch.com/2026/10/02/r...",
+        "summary": "what Americans want is a medium-large SUV, even if it costs 60 grand techcrunch.com/2026/10/02/r...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
