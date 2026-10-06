@@ -1652,5 +1652,259 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-05T19:01:39.915696-07:00",
+    "timestamp": "2026-10-05T19:01:39.915696-07:00",
+    "sentiment": {
+      "positive": 28,
+      "neutral": 64,
+      "negative": 7
+    },
+    "sources": {
+      "electrek": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "bluesky": {
+        "found": 13,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (10), Community (3); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, October 05, 2026 \u2014 7:01 PM PT \u2014 14 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 13 Rivian signals clustered around Vehicles (10), Community (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Community Signals, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* <a href=\"\n  https://electrek.co/2026/10/05/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (10)* \u2022 Rivian should fucking hire you, holy shit!\n  https://bsky.app/profile/did:plc:vv7i5vxocabigk6kolgzawyc/post/3mx6cdnw4i22m\n*Business (0)* \u2022 No signals\n*Software (0)* \u2022 No signals\n*Community (3)* \u2022 But as @geekygearhead99.bsky.social rightly points out, the things you want the physical controls for \u2014 temperature, heated seats, volume \u2014 are there, and they\u2019re easy to access by feel. It\u2019s when tho\n  https://bsky.app/profile/did:plc:u22zanfmvispdwu675vml2rn/post/3mx6b5iar6c2m\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
+        "url": "https://electrek.co/2026/10/05/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
+        "source": "electrek",
+        "publishedAt": "Mon, 05 Oct 2026 23:35:00 +0000",
+        "score": 0,
+        "snippet": "<a href=\"",
+        "summary": "<a href=\"",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@ev30dd1ty.bsky.social (Bluesky): Rivian should fucking hire you, holy shit!",
+        "url": "https://bsky.app/profile/did:plc:vv7i5vxocabigk6kolgzawyc/post/3mx6cdnw4i22m",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T01:39:55.059Z",
+        "score": 1,
+        "snippet": "Rivian should fucking hire you, holy shit!",
+        "summary": "Rivian should fucking hire you, holy shit!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jalopnik.bsky.social (Bluesky): The 2026 Rivian R1S with a long-range battery offers the most impressive all-ele",
+        "url": "https://bsky.app/profile/did:plc:jkx2jmb32wbdan4plaltva62/post/3mx6c7lljlq2r",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T01:37:37.060Z",
+        "score": 1,
+        "snippet": "The 2026 Rivian R1S with a long-range battery offers the most impressive all-electric range at 410 miles, followed by the hyper-popular Tesla Model X and Y.",
+        "summary": "The 2026 Rivian R1S with a long-range battery offers the most impressive all-electric range at 410 miles, followed by the hyper-popular Tesla Model X and Y.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bgluckman.bsky.social (Bluesky): But as @geekygearhead99.bsky.social rightly points out, the things you want the ",
+        "url": "https://bsky.app/profile/did:plc:u22zanfmvispdwu675vml2rn/post/3mx6b5iar6c2m",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T01:18:33.260Z",
+        "score": 1,
+        "snippet": "But as @geekygearhead99.bsky.social rightly points out, the things you want the physical controls for \u2014 temperature, heated seats, volume \u2014 are there, and they\u2019re easy to access by feel. It\u2019s when tho",
+        "summary": "But as @geekygearhead99.bsky.social rightly points out, the things you want the physical controls for \u2014 temperature, heated seats, volume \u2014 are there, and they\u2019re easy to access by feel. It\u2019s when tho",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@chargetotheparks.com (Bluesky): Rivian is optimizing for other things.",
+        "url": "https://bsky.app/profile/did:plc:gg2b7gqarsouubfz6bujeylt/post/3mx6axeuhwk2o",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T01:15:05.971Z",
+        "score": 1,
+        "snippet": "Rivian is optimizing for other things.",
+        "summary": "Rivian is optimizing for other things.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bigearthdata.ai (Bluesky): Rivian Rolls to a New Record Quarter\n->Heatmap News | More on \"Federal permittin",
+        "url": "https://bsky.app/profile/did:plc:lc6hdhnjkgccd6ysi7e23pll/post/3mx67xee34l23",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T00:57:13.362Z",
+        "score": 0,
+        "snippet": "Rivian Rolls to a New Record Quarter ->Heatmap News | More on \"Federal permitting authority and environmental review\" at BigEarthData.ai",
+        "summary": "Rivian Rolls to a New Record Quarter ->Heatmap News | More on \"Federal permitting authority and environmental review\" at BigEarthData.ai",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): youtu.be/Uv8B0YOyRao?... it is a hard discussion. When you are new early adopter",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mx67skdpdk2z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T00:54:33.269Z",
+        "score": 0,
+        "snippet": "youtu.be/Uv8B0YOyRao?... it is a hard discussion. When you are new early adopter it always comes with those risks just like the YouTuber says. When he said that it made me think. It's very difficult,",
+        "summary": "youtu.be/Uv8B0YOyRao?... it is a hard discussion. When you are new early adopter it always comes with those risks just like the YouTuber says. When he said that it made me think. It's very difficult,",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Surprising no one, anyone paying attention to the fundamentals knows there's no ",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mx67nqlj2c2q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T00:51:50.948Z",
+        "score": 0,
+        "snippet": "Surprising no one, anyone paying attention to the fundamentals knows there's no real room for prestige in this transition, unless it's the prestige brand of a manufacturer with current success in affo",
+        "summary": "Surprising no one, anyone paying attention to the fundamentals knows there's no real room for prestige in this transition, unless it's the prestige brand of a manufacturer with current success in affo",
+        "category": "community",
+        "sentiment": "positive",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@stephanloy.bsky.social (Bluesky): Why do the bots think I love all things Tesla just because I drive one? Have the",
+        "url": "https://bsky.app/profile/did:plc:twr724rddw36fy3yygko5elb/post/3mx677zllts2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-06T00:44:11.361Z",
+        "score": 0,
+        "snippet": "Why do the bots think I love all things Tesla just because I drive one? Have they no idea that I'm ditching the nazi car and heading to a Rivian this next fall at the latest? And the nazi part is the",
+        "summary": "Why do the bots think I love all things Tesla just because I drive one? Have they no idea that I'm ditching the nazi car and heading to a Rivian this next fall at the latest? And the nazi part is the",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jalopnik.bsky.social (Bluesky): New SUVs bigger than the Hummer H2 of the early 2000s include the Jeep Wagoneer ",
+        "url": "https://bsky.app/profile/did:plc:jkx2jmb32wbdan4plaltva62/post/3mx64jvx3dh2r",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T23:56:00.868Z",
+        "score": 1,
+        "snippet": "New SUVs bigger than the Hummer H2 of the early 2000s include the Jeep Wagoneer L, Lincoln Navigator, Infiniti QX80, Lexus TX, and Rivian R1S.",
+        "summary": "New SUVs bigger than the Hummer H2 of the early 2000s include the Jeep Wagoneer L, Lincoln Navigator, Infiniti QX80, Lexus TX, and Rivian R1S.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@t8ngy.bsky.social (Bluesky): \u0623\u0635\u0628\u062d\u062a \u0623\u0633\u0631\u0639 \u0645\u0646 \u0642\u062f\u0631\u062a\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0644\u062d\u0627\u0642\u061f \u0634\u0627\u0631\u0643\u0648\u0646\u0627 \u062a\u0648\u0642\u0639\u0627\u062a\u0643\u0645 \ud83d\udc47\n\n#LucidMotors #Rivian #EV #T",
+        "url": "https://bsky.app/profile/did:plc:7z6si6cjpmulvi4tamojtlth/post/3mx5wqz455j2j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T22:12:36.465Z",
+        "score": 0,
+        "snippet": "\u0623\u0635\u0628\u062d\u062a \u0623\u0633\u0631\u0639 \u0645\u0646 \u0642\u062f\u0631\u062a\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0644\u062d\u0627\u0642\u061f \u0634\u0627\u0631\u0643\u0648\u0646\u0627 \u062a\u0648\u0642\u0639\u0627\u062a\u0643\u0645 \ud83d\udc47 #LucidMotors #Rivian #EV #TechNews #\u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a_\u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629",
+        "summary": "\u0623\u0635\u0628\u062d\u062a \u0623\u0633\u0631\u0639 \u0645\u0646 \u0642\u062f\u0631\u062a\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0644\u062d\u0627\u0642\u061f \u0634\u0627\u0631\u0643\u0648\u0646\u0627 \u062a\u0648\u0642\u0639\u0627\u062a\u0643\u0645 \ud83d\udc47 #LucidMotors #Rivian #EV #TechNews #\u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a_\u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@t8ngy.bsky.social (Bluesky): \u0645\u0639 \u0645\u0646\u0627\u0641\u0633\u062a\u0647\u0627 Rivian\u060c \u0627\u0644\u062a\u064a \u062d\u0642\u0642\u062a \u0623\u0641\u0636\u0644 \u0631\u0628\u0639 \u0644\u0647\u0627 \u0641\u064a \u062a\u0627\u0631\u064a\u062e\u0647\u0627 \u0628\u0634\u062d\u0646 \u0645\u0627 \u064a\u0642\u0627\u0631\u0628 20,000 \u0645\u0631\u0643\u0628\u0629",
+        "url": "https://bsky.app/profile/did:plc:7z6si6cjpmulvi4tamojtlth/post/3mx5wqfpfwl2c",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T22:12:16.265Z",
+        "score": 0,
+        "snippet": "\u0645\u0639 \u0645\u0646\u0627\u0641\u0633\u062a\u0647\u0627 Rivian\u060c \u0627\u0644\u062a\u064a \u062d\u0642\u0642\u062a \u0623\u0641\u0636\u0644 \u0631\u0628\u0639 \u0644\u0647\u0627 \u0641\u064a \u062a\u0627\u0631\u064a\u062e\u0647\u0627 \u0628\u0634\u062d\u0646 \u0645\u0627 \u064a\u0642\u0627\u0631\u0628 20,000 \u0645\u0631\u0643\u0628\u0629\u060c \u0645\u062f\u0641\u0648\u0639\u0629 \u0628\u0627\u0644\u0637\u0644\u0628 \u0627\u0644\u0645\u062a\u0632\u0627\u064a\u062f \u0639\u0644\u0649 \u0637\u0631\u0627\u0632 R2. \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u062a\u0646\u0641\u064a\u0630\u064a \u0644\u0634\u0631\u0643\u0629 Lucid\u060c Silvio Napoli\u060c \u0643\u0627\u0646 \u0635\u0631\u064a\u062d\u0627\u064b \u0641\u064a \u062a\u0634\u062e\u064a\u0635 \u0627\u0644\u0623\u0632\u0645\u0629\u060c \u062d\u064a\u062b \u0627\u0639\u062a\u0631\u0641",
+        "summary": "\u0645\u0639 \u0645\u0646\u0627\u0641\u0633\u062a\u0647\u0627 Rivian\u060c \u0627\u0644\u062a\u064a \u062d\u0642\u0642\u062a \u0623\u0641\u0636\u0644 \u0631\u0628\u0639 \u0644\u0647\u0627 \u0641\u064a \u062a\u0627\u0631\u064a\u062e\u0647\u0627 \u0628\u0634\u062d\u0646 \u0645\u0627 \u064a\u0642\u0627\u0631\u0628 20,000 \u0645\u0631\u0643\u0628\u0629\u060c \u0645\u062f\u0641\u0648\u0639\u0629 \u0628\u0627\u0644\u0637\u0644\u0628 \u0627\u0644\u0645\u062a\u0632\u0627\u064a\u062f \u0639\u0644\u0649 \u0637\u0631\u0627\u0632 R2. \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u062a\u0646\u0641\u064a\u0630\u064a \u0644\u0634\u0631\u0643\u0629 Lucid\u060c Silvio Napoli\u060c \u0643\u0627\u0646 \u0635\u0631\u064a\u062d\u0627\u064b \u0641\u064a \u062a\u0634\u062e\u064a\u0635 \u0627\u0644\u0623\u0632\u0645\u0629\u060c \u062d\u064a\u062b \u0627\u0639\u062a\u0631\u0641",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@t8ngy.bsky.social (Bluesky): \u0628\u064a\u0646\u0645\u0627 \u062a\u062d\u0642\u0642 Rivian \u0623\u0631\u0642\u0627\u0645\u0627\u064b \u0642\u064a\u0627\u0633\u064a\u0629\u060c \u062a\u0648\u0627\u062c\u0647 Lucid Motors \u062a\u0631\u0627\u062c\u0639\u0627\u064b \u062d\u0627\u062f\u0627\u064b \u0628\u0646\u0633\u0628\u0629 54% \u0641\u064a ",
+        "url": "https://bsky.app/profile/did:plc:7z6si6cjpmulvi4tamojtlth/post/3mx5wq3hv6o22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T22:12:05.658Z",
+        "score": 0,
+        "snippet": "\u0628\u064a\u0646\u0645\u0627 \u062a\u062d\u0642\u0642 Rivian \u0623\u0631\u0642\u0627\u0645\u0627\u064b \u0642\u064a\u0627\u0633\u064a\u0629\u060c \u062a\u0648\u0627\u062c\u0647 Lucid Motors \u062a\u0631\u0627\u062c\u0639\u0627\u064b \u062d\u0627\u062f\u0627\u064b \u0628\u0646\u0633\u0628\u0629 54% \u0641\u064a \u0625\u0646\u062a\u0627\u062c \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u062e\u0644\u0627\u0644 \u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u062b\u0627\u0644\u062b. \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0627\u0644\u0623\u062e\u064a\u0631\u0629 \u0643\u0634\u0641\u062a \u0639\u0646 \u0648\u0627\u0642\u0639 \u0635\u0639\u0628\u060c \u062d\u064a\u062b \u0627\u0646\u062e\u0641\u0636 \u0625\u0646\u062a\u0627\u062c Lucid \u0644\u064a\u0635\u0644 \u0625\u0644\u0649 \u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0645",
+        "summary": "\u0628\u064a\u0646\u0645\u0627 \u062a\u062d\u0642\u0642 Rivian \u0623\u0631\u0642\u0627\u0645\u0627\u064b \u0642\u064a\u0627\u0633\u064a\u0629\u060c \u062a\u0648\u0627\u062c\u0647 Lucid Motors \u062a\u0631\u0627\u062c\u0639\u0627\u064b \u062d\u0627\u062f\u0627\u064b \u0628\u0646\u0633\u0628\u0629 54% \u0641\u064a \u0625\u0646\u062a\u0627\u062c \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u062e\u0644\u0627\u0644 \u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u062b\u0627\u0644\u062b. \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0627\u0644\u0623\u062e\u064a\u0631\u0629 \u0643\u0634\u0641\u062a \u0639\u0646 \u0648\u0627\u0642\u0639 \u0635\u0639\u0628\u060c \u062d\u064a\u062b \u0627\u0646\u062e\u0641\u0636 \u0625\u0646\u062a\u0627\u062c Lucid \u0644\u064a\u0635\u0644 \u0625\u0644\u0649 \u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0645",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@brennan.sstools.co (Bluesky): Rivian is set to expand to a 2nd shift for producing the R2 which will increase ",
+        "url": "https://bsky.app/profile/did:plc:ogqlsbhqb3r3yyj4oo4z4v2g/post/3mx5wcwetus2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-05T22:04:47.457Z",
+        "score": 0,
+        "snippet": "Rivian is set to expand to a 2nd shift for producing the R2 which will increase deliveries heading into next year. It is projected to reach 155,000 vehicles next year. It could be a break out year for",
+        "summary": "Rivian is set to expand to a 2nd shift for producing the R2 which will increase deliveries heading into next year. It is projected to reach 155,000 vehicles next year. It could be a break out year for",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
