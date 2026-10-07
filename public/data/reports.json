@@ -2758,5 +2758,279 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-07T07:01:38.722049-07:00",
+    "timestamp": "2026-10-07T07:01:38.722049-07:00",
+    "sentiment": {
+      "positive": 7,
+      "neutral": 85,
+      "negative": 7
+    },
+    "sources": {
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 3,
+        "sentiment": "negative"
+      },
+      "google_news_lucid": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 6,
+        "sentiment": "positive"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 0,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 2,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (11), Competitive (2); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, October 07, 2026 \u2014 7:01 AM PT \u2014 14 signals \u00b7 2 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 2 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 12 Rivian signals clustered around Vehicles (11), Software (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Competitive Threats, Software.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (2)\n\u2022 *Competitive Threats:* Musk says Tesla and SpaceX will run Terafab themselves, but neither has made a wafer, and Intel's role is murkier than ever. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/musk-insists-terafab-is-his-to-run-as-intel-stays-aboard/\n\u2022 *Competitive Threats:* <a\n  https://electrek.co/2026/10/07/hyundai-cancels-ioniq-3-australia-over-cheap-chinese-evs/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (11)* \u2022 reddit_rivian_r2 signal: Demoed x 2 then got a voicemail from Sales.\n  https://www.reddit.com/r/RivianR2/comments/1wzho2e/demoed_x_2_then_got_a_voicemail_from_sales/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Imagine what will happen if Rivian motor updates its electric vehicle drivetrains with ReGenX Lenz's law free generators that turns magnetic friction into magnetic boost by delaying generator's armatu\n  https://bsky.app/profile/did:plc:v772flymdcszf5drrfzjjm7e/post/3mxbl4l6m6s2i\n*Community (0)* \u2022 No signals\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Demoed x 2 then got a voicemail from Sales.",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1wzho2e/demoed_x_2_then_got_a_voicemail_from_sales/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-06T23:34:39.346Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Demoed x 2 then got a voicemail from Sales.",
+        "summary": "reddit_rivian_r2 signal: Demoed x 2 then got a voicemail from Sales.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
+        "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
+        "source": "cnbc_top",
+        "publishedAt": "Wed, 07 Oct 2026 09:18:30 GMT",
+        "score": 0,
+        "snippet": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric.",
+        "summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Musk insists Terafab is his to run as Intel stays aboard",
+        "url": "https://www.automotiveworld.com/news/musk-insists-terafab-is-his-to-run-as-intel-stays-aboard/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 07 Oct 2026 11:25:17 +0000",
+        "score": 0,
+        "snippet": "Musk says Tesla and SpaceX will run Terafab themselves, but neither has made a wafer, and Intel's role is murkier than ever. By Stewart Burnett The post <a href=\"",
+        "summary": "Musk says Tesla and SpaceX will run Terafab themselves, but neither has made a wafer, and Intel's role is murkier than ever. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Hyundai shelves IONIQ 3 launch in Australia as cheaper Chinese EVs take over",
+        "url": "https://electrek.co/2026/10/07/hyundai-cancels-ioniq-3-australia-over-cheap-chinese-evs/",
+        "source": "electrek",
+        "publishedAt": "Wed, 07 Oct 2026 13:50:00 +0000",
+        "score": 0,
+        "snippet": "<a",
+        "summary": "<a",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Turnaround Falls Apart - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZ1l2QnZZVGE3azVLWHZ1SEJWc1dDSWt1SWoxSF9hVkg0cWVsTXlKTHpKNGpyZFp4eVMwTmlhSEt3bTAtcGpKVklYME1xTnVxN0kzOVl6NThPMGt6Rk13d29YR0x0WE9nUk5pUHB5NllGbFdsVUctVHVVT1pDZw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 07 Oct 2026 13:56:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Turnaround Falls Apart - 24/7 Wall St.",
+        "summary": "Rivian Turnaround Falls Apart - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Escapes the EV Graveyard\u2014But Can It Stay Alive? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWluWmVfWTkxSTROVjNYZ1ItdzU4M2RtSlp6emxJZkZwNEJINU5rWC00MGdoRkRod1JRYVp6RUYyWldhMjM3dTJuSmstbWlMWTFoMVdTZ0VUc3JlRHRnMWYyTmlOVEYwWTkwOW93Vy1aNDQzOWR4ZXBPcUZVZUR3LUZIbXB4WE9VYktsUnk5ZHpnbU0?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 07 Oct 2026 12:02:43 GMT",
+        "score": 0,
+        "snippet": "Rivian Escapes the EV Graveyard\u2014But Can It Stay Alive? - MarketBeat",
+        "summary": "Rivian Escapes the EV Graveyard\u2014But Can It Stay Alive? - MarketBeat",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Can Rivian Automotive (NASDAQ:RIVN) Deliver on Its Higher Delivery View? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmJKVjJSZ3QyVHpLUjdSQkZzeEdWMXY1bVNoVHFESXp0OFk1QVFLdkJLdkFacXRnREFWcTFUVVJrQV9ybkRZNkFmOHJ6eG9vcEtVdmNTb3dkMEFTeVU5VXVOMldTRHlwY1pQNERlaDdQT3BrbFZ4MVhKeEZEU0JFd1p5cHRQRy1vSTJNS2hibUE5YmhqZU5CUjRSandLOHFZdDhSdWE4RG95dzg4VnBRMkRNRzk?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 07 Oct 2026 07:17:00 GMT",
+        "score": 0,
+        "snippet": "Can Rivian Automotive (NASDAQ:RIVN) Deliver on Its Higher Delivery View? - Kalkine Media",
+        "summary": "Can Rivian Automotive (NASDAQ:RIVN) Deliver on Its Higher Delivery View? - Kalkine Media",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R1S vs. Lucid Gravity: Which Three-Row Luxury EV Is Better? - GreenCars",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRFRCb25rc2tyeGZjSHJ1ZEc3dFhqUXg4VjJsWV9iRXl0ek56bUNsUkdHeV9kOE5UbzF4MGlvZVN6V3FrR0ZJTXZCcUtUS3B6MjVZdDgwX1pER3h0aE1mUzVOdGRKa3dFcHNQQkVyVzVGNnRVRi1hUEZBbks2WTNPeHlXTl9jel90REpRSjFVSXl4S3BwYTFZZWRVXzhNOVFWZ0M3cUZLNjY?oc=5",
+        "source": "google_news_lucid",
+        "publishedAt": "Wed, 07 Oct 2026 13:57:49 GMT",
+        "score": 0,
+        "snippet": "Rivian R1S vs. Lucid Gravity: Which Three-Row Luxury EV Is Better? - GreenCars",
+        "summary": "Rivian R1S vs. Lucid Gravity: Which Three-Row Luxury EV Is Better? - GreenCars",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian was awarded a patent for \"warped rotor detection\".  This certainly would ",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxc46v5rd62j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-07T14:00:30.571Z",
+        "score": 0,
+        "snippet": "Rivian was awarded a patent for \"warped rotor detection\". This certainly would help owners with a shimmy or shake know when to go in for service.",
+        "summary": "Rivian was awarded a patent for \"warped rotor detection\". This certainly would help owners with a shimmy or shake know when to go in for service.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Rivian was awared a patent for a \"lens apparatus and related assemblies and vehi",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxbyszgw552z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-07T13:00:11.366Z",
+        "score": 1,
+        "snippet": "Rivian was awared a patent for a \"lens apparatus and related assemblies and vehicles for laser imaging systems\". I see an R1T...R1 LiDAR s00n?",
+        "summary": "Rivian was awared a patent for a \"lens apparatus and related assemblies and vehicles for laser imaging systems\". I see an R1T...R1 LiDAR s00n?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): According to Rivian Roamer, you can now buy pre-owned vehicles in the state of W",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxbuokimhk2e",
+        "source": "bluesky",
+        "publishedAt": "2026-10-07T11:46:06.361Z",
+        "score": 0,
+        "snippet": "According to Rivian Roamer, you can now buy pre-owned vehicles in the state of Washington.",
+        "summary": "According to Rivian Roamer, you can now buy pre-owned vehicles in the state of Washington.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Teddy's birthday was yesterday \n\nHe got a the Costco @Maistotoys diecast @Rivian",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mxbs57xgqf2g",
+        "source": "bluesky",
+        "publishedAt": "2026-10-07T11:00:36.969Z",
+        "score": 2,
+        "snippet": "Teddy's birthday was yesterday He got a the Costco @Maistotoys diecast @Rivian R1T and said \"I got a Rivian? We couldn't find a Rivian! It's my forever Rivian.\"",
+        "summary": "Teddy's birthday was yesterday He got a the Costco @Maistotoys diecast @Rivian R1T and said \"I got a Rivian? We couldn't find a Rivian! It's my forever Rivian.\"",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thaneheins.bsky.social (Bluesky): Imagine what will happen if Rivian motor updates its electric vehicle drivetrain",
+        "url": "https://bsky.app/profile/did:plc:v772flymdcszf5drrfzjjm7e/post/3mxbl4l6m6s2i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-07T08:54:58.766Z",
+        "score": 0,
+        "snippet": "Imagine what will happen if Rivian motor updates its electric vehicle drivetrains with ReGenX Lenz's law free generators that turns magnetic friction into magnetic boost by delaying generator's armatu",
+        "summary": "Imagine what will happen if Rivian motor updates its electric vehicle drivetrains with ReGenX Lenz's law free generators that turns magnetic friction into magnetic boost by delaying generator's armatu",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): The Rivian R2 maintenance list is a useful resource for owners. Could you share ",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mxbgzel5az2j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-07T07:41:36.064Z",
+        "score": 0,
+        "snippet": "The Rivian R2 maintenance list is a useful resource for owners. Could you share more details about what specific maintenance tasks are included or if you need help interpreting the list?",
+        "summary": "The Rivian R2 maintenance list is a useful resource for owners. Could you share more details about what specific maintenance tasks are included or if you need help interpreting the list?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
