@@ -6539,5 +6539,409 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-11T08:21:53.483722-07:00",
+    "timestamp": "2026-10-11T08:21:53.483722-07:00",
+    "sentiment": {
+      "positive": 17,
+      "neutral": 82,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "RIVN Stock",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "23 signals across Vehicles (15), Community (3); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Sunday, October 11, 2026 \u2014 8:21 AM PT \u2014 23 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 22 Rivian signals clustered around Vehicles (15), Community (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Community Signals, Business.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Will Waymo Lead a Robotaxi Revolution? - Mpls.St.Paul Magazine\n  https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRVBmQmZacTN5NE50VUk1TktSd1c2YzU4WGFSSExlaGpJVTNoOTgycXhRSGpCZEIzMWtwYWMzaXlYTFdDUTJUaGpxWUs5LXlINWFLNUhFWUR1RVRtRDdFWGc4cmhKSkh0MHFCcXRPbFpGRkpCa0ZEQ293N1NGMFE?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: R2 Demo Drive - October 20th - Holyoke, MA\n  https://www.reddit.com/r/RivianR2/comments/1x36q1l/r2_demo_drive_october_20th_holyoke_ma/\n*Vehicles (15)* \u2022 reddit_rivian signal: Lowest Allowable Charge Limit\n  https://www.reddit.com/r/Rivian/comments/1x3aaj0/lowest_allowable_charge_limit/\n*Business (2)* \u2022 How to Play Rivian Stock as RIVN Keeps Falling Despite Record Deliveries - Barchart.com\n  https://news.google.com/rss/articles/CBMitwFBVV95cUxPMW40YnBhMjlJUHpCX0lIMjU4VEQzUUdRR0g5bmFjOHBwc1ZWZW0teHdJY3pTeWNkNUplaVdfNFNQWFVMM2YyS3MzbUJZRldVVlVIbmdadm1pWUc1aUJVVFZyQWd5WmZ6dXI4ZWVESjFaR3dpekJwR0gxQTRKVkp2ZkdRTnhyX1RuaEdEbGJraFFyZHRQY1R0Q3BVa2NvbzViNktMNDJyMS1YT3htUndIZWd1LUVHZFU?oc=5\n*Software (1)* \u2022 youtu.be/GZypnlzmeMQ?... an Update for the R2 breakdown. Im glad it had been fixed by Rivian\n  https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mxm6vq2uzs2x\n*Community (3)* \u2022 youtu.be/GZypnlzmeMQ?...\n  https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mxm6xbir5k2x\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 RIVN Stock\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Lowest Allowable Charge Limit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x3aaj0/lowest_allowable_charge_limit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T14:57:35.124Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Lowest Allowable Charge Limit",
+        "summary": "reddit_rivian signal: Lowest Allowable Charge Limit",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "UHF and Halloween mode enablement caution",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x39ycw/uhf_and_halloween_mode_enablement_caution/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T14:43:14.876Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: UHF and Halloween mode enablement caution",
+        "summary": "reddit_rivian signal: UHF and Halloween mode enablement caution",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "10 Days of r2 ownership",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x36hi4/10_days_of_r2_ownership/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T12:02:02.932Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 10 Days of r2 ownership",
+        "summary": "reddit_rivian signal: 10 Days of r2 ownership",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "10 Days of r2 ownership",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x36h44/10_days_of_r2_ownership/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T12:02:02.932Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 10 Days of r2 ownership",
+        "summary": "reddit_rivian signal: 10 Days of r2 ownership",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1T Gen2 Fob with R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x369da/r1t_gen2_fob_with_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T11:50:49.563Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1T Gen2 Fob with R2",
+        "summary": "reddit_rivian signal: R1T Gen2 Fob with R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1T Gen2 Fob with R2",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x3694h/r1t_gen2_fob_with_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T11:50:49.563Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1T Gen2 Fob with R2",
+        "summary": "reddit_rivian signal: R1T Gen2 Fob with R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Can we get the ability to change menu UI colors.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x30m18/can_we_get_the_ability_to_change_menu_ui_colors/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T06:10:40.431Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Can we get the ability to change menu UI colors.",
+        "summary": "reddit_rivian signal: Can we get the ability to change menu UI colors.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Can we keep the Rivian Voice Assisant Halloween edition??",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2znqf/can_we_keep_the_rivian_voice_assisant_halloween/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T05:13:24.577Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Can we keep the Rivian Voice Assisant Halloween edition??",
+        "summary": "reddit_rivian signal: Can we keep the Rivian Voice Assisant Halloween edition??",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Spotted new 2026.36.41 build in last Out of Spec Video",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x37em8/spotted_new_20263641_build_in_last_out_of_spec/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-11T12:49:46.249Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Spotted new 2026.36.41 build in last Out of Spec Video",
+        "summary": "reddit_rivian_r2 signal: Spotted new 2026.36.41 build in last Out of Spec Video",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Demo Drive - October 20th - Holyoke, MA",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x36q1l/r2_demo_drive_october_20th_holyoke_ma/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-11T12:15:05.831Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 Demo Drive - October 20th - Holyoke, MA",
+        "summary": "reddit_rivian_r2 signal: R2 Demo Drive - October 20th - Holyoke, MA",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "As electric semi truck race heats up, SoCal is getting another charging hub",
+        "url": "https://electrek.co/2026/10/11/as-electric-semi-truck-race-heats-up-socal-is-getting-another-charging-hub/",
+        "source": "electrek",
+        "publishedAt": "Sun, 11 Oct 2026 13:21:14 +0000",
+        "score": 0,
+        "snippet": "As record-breaking d",
+        "summary": "As record-breaking d",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How to Play Rivian Stock as RIVN Keeps Falling Despite Record Deliveries - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMW40YnBhMjlJUHpCX0lIMjU4VEQzUUdRR0g5bmFjOHBwc1ZWZW0teHdJY3pTeWNkNUplaVdfNFNQWFVMM2YyS3MzbUJZRldVVlVIbmdadm1pWUc1aUJVVFZyQWd5WmZ6dXI4ZWVESjFaR3dpekJwR0gxQTRKVkp2ZkdRTnhyX1RuaEdEbGJraFFyZHRQY1R0Q3BVa2NvbzViNktMNDJyMS1YT3htUndIZWd1LUVHZFU?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 11 Oct 2026 11:15:01 GMT",
+        "score": 0,
+        "snippet": "How to Play Rivian Stock as RIVN Keeps Falling Despite Record Deliveries - Barchart.com",
+        "summary": "How to Play Rivian Stock as RIVN Keeps Falling Despite Record Deliveries - Barchart.com",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "RIVN Stock Rises 4% After-Hours \u2014 Rivian Says R2 Is Exceeding Internal Expectations, Attracting Former Tesla Owners And New EV Buyers - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUGVDNVd1ZmliQTZkV0FfZ2dJanpLTFpQTzMtSEJ6bG5RNHhaWTFpdzEzeDVWbXpjYlFoU1FHUDdxRUdDdUdRUTEyYmJJTDAxaTZXSkpJM21udDBPR0xxTGVLX0xqWGp5dDN1X2Z2bnd1QklUX1lxeEJ4Mm9maW1YNnJVN1FrVWF4R3FmdmY2NjN3UjBDUTVlbXpWc0tCeE5zN24ycXBwcHhCQV9HWDNNUTBwc3RHbDJvM0kxR2NPU3FSRUxwTWN6U0o1dFBYUHJxUGJ0MTNPWGM1SXVadkJ0a2JUNHZEX1lCT0s5LUJSSWFMSzZ5VDBjeFJBanJ1eC1kVVk2dGc5OXFSTGlPeTFZSlNyQmQ5a2hMTE5JaFB3?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sun, 11 Oct 2026 07:38:22 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Rises 4% After-Hours \u2014 Rivian Says R2 Is Exceeding Internal Expectations, Attracting Former Tesla Owners And New EV Buyers - Stocktwits",
+        "summary": "RIVN Stock Rises 4% After-Hours \u2014 Rivian Says R2 Is Exceeding Internal Expectations, Attracting Former Tesla Owners And New EV Buyers - Stocktwits",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "RIVN Stock",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "Will Waymo Lead a Robotaxi Revolution? - Mpls.St.Paul Magazine",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRVBmQmZacTN5NE50VUk1TktSd1c2YzU4WGFSSExlaGpJVTNoOTgycXhRSGpCZEIzMWtwYWMzaXlYTFdDUTJUaGpxWUs5LXlINWFLNUhFWUR1RVRtRDdFWGc4cmhKSkh0MHFCcXRPbFpGRkpCa0ZEQ293N1NGMFE?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Sun, 11 Oct 2026 12:11:41 GMT",
+        "score": 0,
+        "snippet": "Will Waymo Lead a Robotaxi Revolution? - Mpls.St.Paul Magazine",
+        "summary": "Will Waymo Lead a Robotaxi Revolution? - Mpls.St.Paul Magazine",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): youtu.be/GZypnlzmeMQ?...",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mxm6xbir5k2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T14:16:31.465Z",
+        "score": 0,
+        "snippet": "youtu.be/GZypnlzmeMQ?...",
+        "summary": "youtu.be/GZypnlzmeMQ?...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@oj006.bsky.social (Bluesky): youtu.be/GZypnlzmeMQ?... an Update for the R2 breakdown. Im glad it had been fix",
+        "url": "https://bsky.app/profile/did:plc:fyrvjlx2hri2iy6kvxn5om75/post/3mxm6vq2uzs2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T14:15:40.457Z",
+        "score": 0,
+        "snippet": "youtu.be/GZypnlzmeMQ?... an Update for the R2 breakdown. Im glad it had been fixed by Rivian",
+        "summary": "youtu.be/GZypnlzmeMQ?... an Update for the R2 breakdown. Im glad it had been fixed by Rivian",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@hacks.gr (Bluesky): Android Automotive is built into the car and can work without a phone, unlike ph",
+        "url": "https://bsky.app/profile/did:plc:diwavkkkn65d7ptmfk7ugqld/post/3mxm56y5lyncw",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T13:45:04.664Z",
+        "score": 0,
+        "snippet": "Android Automotive is built into the car and can work without a phone, unlike phone-projection apps such as Android Auto. Rivian uses the technology in Rivian\u2026",
+        "summary": "Android Automotive is built into the car and can work without a phone, unlike phone-projection apps such as Android Auto. Rivian uses the technology in Rivian\u2026",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@uzu-nakamura.bsky.social (Bluesky): \u30ea\u30f4\u30a3\u30a2\u30f3\u3001\u611b\u8eca\u304c\u300c\u30b4\u30fc\u30b9\u30c8\u30d0\u30b9\u30bf\u30fc\u30ba\u300d\u4ed5\u69d8\u306b\u306a\u308b\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u914d\u4fe1 \u4ff3\u512a\u30d3\u30eb\u30fb\u30de\u30fc\u30ec\u30a4\u6c0f\u51fa\u6f14\u306e\u52d5\u753b\u3084\u7279\u88fd\u8eca\u4e21\u3082\u516c\u958b - Car Watch https://ca",
+        "url": "https://bsky.app/profile/did:plc:gzzn2jeskecdoom226j6cmjk/post/3mxlwykktjsu2",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T11:54:07.361Z",
+        "score": 0,
+        "snippet": "\u30ea\u30f4\u30a3\u30a2\u30f3\u3001\u611b\u8eca\u304c\u300c\u30b4\u30fc\u30b9\u30c8\u30d0\u30b9\u30bf\u30fc\u30ba\u300d\u4ed5\u69d8\u306b\u306a\u308b\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u914d\u4fe1 \u4ff3\u512a\u30d3\u30eb\u30fb\u30de\u30fc\u30ec\u30a4\u6c0f\u51fa\u6f14\u306e\u52d5\u753b\u3084\u7279\u88fd\u8eca\u4e21\u3082\u516c\u958b - Car Watch",
+        "summary": "\u30ea\u30f4\u30a3\u30a2\u30f3\u3001\u611b\u8eca\u304c\u300c\u30b4\u30fc\u30b9\u30c8\u30d0\u30b9\u30bf\u30fc\u30ba\u300d\u4ed5\u69d8\u306b\u306a\u308b\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u914d\u4fe1 \u4ff3\u512a\u30d3\u30eb\u30fb\u30de\u30fc\u30ec\u30a4\u6c0f\u51fa\u6f14\u306e\u52d5\u753b\u3084\u7279\u88fd\u8eca\u4e21\u3082\u516c\u958b - Car Watch",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Ghost gear guard watching the @Rivian R1S in Halloween mode.  So many Easter egg",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mxltzmfhku2s",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T11:01:00.857Z",
+        "score": 0,
+        "snippet": "Ghost gear guard watching the @Rivian R1S in Halloween mode. So many Easter eggs",
+        "summary": "Ghost gear guard watching the @Rivian R1S in Halloween mode. So many Easter eggs",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@sethgodin.bsky.social (Bluesky): Talent becomes media\n\nRivian has a new ad, starring Bill Murray. https://youtu.b",
+        "url": "https://bsky.app/profile/did:plc:pyoc7xdcxbferg6fbzp6oz2f/post/3mxlnhfkuzc2o",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T09:03:26.953Z",
+        "score": 3,
+        "snippet": "Talent becomes media Rivian has a new ad, starring Bill Murray. It's not a great ad (more on that below) but the remarkable thing is that it features",
+        "summary": "Talent becomes media Rivian has a new ad, starring Bill Murray. It's not a great ad (more on that below) but the remarkable thing is that it features",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dmeance.bsky.social (Bluesky): Rivian transforme ses SUV \u00e9lectriques en chasseurs de fant\u00f4mes pour Halloween ww",
+        "url": "https://bsky.app/profile/did:plc:ghanf34op55r5rmslegjrm4u/post/3mxlkrep6ks2r",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T08:15:21.155Z",
+        "score": 1,
+        "snippet": "Rivian transforme ses SUV \u00e9lectriques en chasseurs de fant\u00f4mes pour Halloween www.autojournal.fr/insolite/riv... via #AutoJournal",
+        "summary": "Rivian transforme ses SUV \u00e9lectriques en chasseurs de fant\u00f4mes pour Halloween www.autojournal.fr/insolite/riv... via #AutoJournal",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gadgetbond.com (Bluesky): Rivian adds live Pet Cam to the R2 alongside upgraded pet\u00a0controls\n\nThe Rivian R",
+        "url": "https://bsky.app/profile/did:plc:hksj5icmr26mzagrebie7aa4/post/3mxljwmyppi2v",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T08:00:23.557Z",
+        "score": 0,
+        "snippet": "Rivian adds live Pet Cam to the R2 alongside upgraded pet controls The Rivian R2 gains live pet monitoring, while the R1T and R1S receive improved remote Pet Mode controls.",
+        "summary": "Rivian adds live Pet Cam to the R2 alongside upgraded pet controls The Rivian R2 gains live pet monitoring, while the R1T and R1S receive improved remote Pet Mode controls.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gadgetbond.com.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:2m7awgzbxz4cwloms7hvf6el/post/3mxloh3ne6yr2",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T09:21:15.855Z",
+        "score": 0,
+        "snippet": "bluesky signal: @gadgetbond.com.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @gadgetbond.com.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
