@@ -5966,5 +5966,578 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-10T19:01:45.158981-07:00",
+    "timestamp": "2026-10-10T19:01:45.158981-07:00",
+    "sentiment": {
+      "positive": 5,
+      "neutral": 88,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 15,
+        "sentiment": "neutral"
+      },
+      "youtube": {
+        "found": 1,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 3,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "R2 Launch",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "34 signals across Vehicles (21), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Saturday, October 10, 2026 \u2014 7:01 PM PT \u2014 34 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (21), Demo & Test Drives (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Competitive Threats, Demo Drives.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* It may not be as sophisticated as the Lucid, but at least the software works.\n  https://insideevs.com/reviews/811410/engineering-explained-mustang-mach-e/\n\u2022 *Competitive Threats:* The Chevy Bolt and Nissan Leaf failed to take off in a more difficult market for EVs. Can Kia's $30,000 crossover buck the trend?\n  https://insideevs.com/news/811416/kia-ev3-rollout-sales-us-chevy-bolt-nissan-leaf/\n\u2022 *Competitive Threats:* The BYD Q3 b\n  https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/\n\u2022 *Competitive Threats:* While oil prices an\n  https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (3)* \u2022 reddit_rivian signal: R2 Test Drive\n  https://www.reddit.com/r/Rivian/comments/1x2uuay/r2_test_drive/\n*Vehicles (21)* \u2022 reddit_rivian signal: Mapping showing accidents everywhere\n  https://www.reddit.com/r/Rivian/comments/1x2v61l/mapping_showing_accidents_everywhere/\n*Business (1)* \u2022 Rivian Stock: R2 Is A Winner (Rating Upgrade) (NASDAQ:RIVN) - Seeking Alpha\n  https://news.google.com/rss/articles/CBMigwFBVV95cUxQTHBvU2tVYUlrUFN1czBUYWRfb1p6NDJPVjVuS3F0MC1JLWk2UW1GamVQS1YyLVAyTHp4M2o4RWJQQU5Lb1dGc3lJR0VYeUpmODdqMV84MDBzZ1FSbXZNT3RIbFBKMVpaQlRYcHRKcXU2VHQ3SVJyeC1DeFhEa2xIbmJHVQ?oc=5\n*Software (3)* \u2022 reddit_rivian signal: Google maps has never had an update on rivian plant\n  https://www.reddit.com/r/Rivian/comments/1x2vn8i/google_maps_has_never_had_an_update_on_rivian/\n*Community (2)* \u2022 $RIVN: LAWSUIT STAGE, nothing to claim openclassactions.com/lawsuits/aut...\n  https://bsky.app/profile/did:plc:icarsef7tgh7qpcwp45k2qgq/post/3mxkshu5h2s2u\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\u2022 R2 Launch\n\u2022 Software\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Google maps has never had an update on rivian plant",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2vn8i/google_maps_has_never_had_an_update_on_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T01:34:44.264Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Google maps has never had an update on rivian plant",
+        "summary": "reddit_rivian signal: Google maps has never had an update on rivian plant",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Mapping showing accidents everywhere",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2v61l/mapping_showing_accidents_everywhere/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T01:09:52.946Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Mapping showing accidents everywhere",
+        "summary": "reddit_rivian signal: Mapping showing accidents everywhere",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian: test your damn software",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2v1jz/rivian_test_your_damn_software/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T01:03:25.128Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian: test your damn software",
+        "summary": "reddit_rivian signal: Rivian: test your damn software",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "R2 Test Drive",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2uuay/r2_test_drive/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T00:53:11.206Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 Test Drive",
+        "summary": "reddit_rivian signal: R2 Test Drive",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Customizable Console Organizer (updated R1 and new R2 versions)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2uowf/customizable_console_organizer_updated_r1_and_new/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T00:45:19.941Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Customizable Console Organizer (updated R1 and new R2 versions)",
+        "summary": "reddit_rivian signal: Customizable Console Organizer (updated R1 and new R2 versions)",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "4 and 1/2 minutes",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2ubpy/4_and_12_minutes/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T00:26:35.213Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 4 and 1/2 minutes",
+        "summary": "reddit_rivian signal: 4 and 1/2 minutes",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Is the recently announced VW Tiguan EV based on Rivian tech?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x2u92h/is_the_recently_announced_vw_tiguan_ev_based_on/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-11T00:22:50.801Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Is the recently announced VW Tiguan EV based on Rivian tech?",
+        "summary": "reddit_rivian signal: Is the recently announced VW Tiguan EV based on Rivian tech?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pickup Report-116XX VIN-10/10/26",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x2vpo5/pickup_report116xx_vin101026/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-11T01:38:16.163Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Pickup Report-116XX VIN-10/10/26",
+        "summary": "reddit_rivian_r2 signal: Pickup Report-116XX VIN-10/10/26",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Universal Hands Free works flawlessly with a bike rack",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x2vakp/universal_hands_free_works_flawlessly_with_a_bike/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-11T01:16:27.981Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Universal Hands Free works flawlessly with a bike rack",
+        "summary": "reddit_rivian_r2 signal: Universal Hands Free works flawlessly with a bike rack",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Got a few questions for R2 owners",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x2tkgn/got_a_few_questions_for_r2_owners/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-10T23:49:49.180Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Got a few questions for R2 owners",
+        "summary": "reddit_rivian_r2 signal: Got a few questions for R2 owners",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Point to point test drives",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x2qthq/point_to_point_test_drives/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-10T21:38:38.297Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Point to point test drives",
+        "summary": "reddit_rivian_r2 signal: Point to point test drives",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "It\u2019s actually happening",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x2foda/its_actually_happening/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-10T13:44:46.587Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: It\u2019s actually happening",
+        "summary": "reddit_rivian_r2 signal: It\u2019s actually happening",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Removes Backrest Seat Ventilation on Newer VINs",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1x0at5f/rivian_r2_removes_backrest_seat_ventilation_on/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-07T22:48:21.025Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Rivian R2 Removes Backrest Seat Ventilation on Newer VINs",
+        "summary": "reddit_electricvehicles signal: Rivian R2 Removes Backrest Seat Ventilation on Newer VINs",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
+        "url": "https://insideevs.com/reviews/811410/engineering-explained-mustang-mach-e/",
+        "source": "insideevs",
+        "publishedAt": "Sat, 10 Oct 2026 14:00:00 +0000",
+        "score": 0,
+        "snippet": "It may not be as sophisticated as the Lucid, but at least the software works.",
+        "summary": "It may not be as sophisticated as the Lucid, but at least the software works.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Kia Expects The Affordable EV3 To Be Its Best-Selling EV In The U.S.",
+        "url": "https://insideevs.com/news/811416/kia-ev3-rollout-sales-us-chevy-bolt-nissan-leaf/",
+        "source": "insideevs",
+        "publishedAt": "Sat, 10 Oct 2026 12:00:00 +0000",
+        "score": 0,
+        "snippet": "The Chevy Bolt and Nissan Leaf failed to take off in a more difficult market for EVs. Can Kia's $30,000 crossover buck the trend?",
+        "summary": "The Chevy Bolt and Nissan Leaf failed to take off in a more difficult market for EVs. Can Kia's $30,000 crossover buck the trend?",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD builds 150,000th commercial NEV \u2013\u00a0an 800 hp Q3 electric semi truck",
+        "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
+        "source": "electrek",
+        "publishedAt": "Sat, 10 Oct 2026 12:53:18 +0000",
+        "score": 0,
+        "snippet": "The BYD Q3 b",
+        "summary": "The BYD Q3 b",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
+        "url": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
+        "source": "electrek",
+        "publishedAt": "Sat, 10 Oct 2026 11:44:31 +0000",
+        "score": 0,
+        "snippet": "While oil prices an",
+        "summary": "While oil prices an",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Stock: R2 Is A Winner (Rating Upgrade) (NASDAQ:RIVN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTHBvU2tVYUlrUFN1czBUYWRfb1p6NDJPVjVuS3F0MC1JLWk2UW1GamVQS1YyLVAyTHp4M2o4RWJQQU5Lb1dGc3lJR0VYeUpmODdqMV84MDBzZ1FSbXZNT3RIbFBKMVpaQlRYcHRKcXU2VHQ3SVJyeC1DeFhEa2xIbmJHVQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 10 Oct 2026 12:52:59 GMT",
+        "score": 0,
+        "snippet": "Rivian Stock: R2 Is A Winner (Rating Upgrade) (NASDAQ:RIVN) - Seeking Alpha",
+        "summary": "Rivian Stock: R2 Is A Winner (Rating Upgrade) (NASDAQ:RIVN) - Seeking Alpha",
+        "category": "business",
+        "sentiment": "positive",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mxkthnkee22c",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T01:18:18.057Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mxksm55acs2c",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T01:02:54.661Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@openclassactions.bsky.social (Bluesky): $RIVN: LAWSUIT STAGE, nothing to claim openclassactions.com/lawsuits/aut...",
+        "url": "https://bsky.app/profile/did:plc:icarsef7tgh7qpcwp45k2qgq/post/3mxkshu5h2s2u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T01:00:31.958Z",
+        "score": 0,
+        "snippet": "$RIVN: LAWSUIT STAGE, nothing to claim openclassactions.com/lawsuits/aut...",
+        "summary": "$RIVN: LAWSUIT STAGE, nothing to claim openclassactions.com/lawsuits/aut...",
+        "category": "community",
+        "sentiment": "negative",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@leighdanield2.bsky.social (Bluesky): \ud83d\udc7b\ud83c\udf83",
+        "url": "https://bsky.app/profile/did:plc:xldzwuszg2tiwwmqzzgjyimc/post/3mxksf4afic24",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T00:58:59.960Z",
+        "score": 0,
+        "snippet": "\ud83d\udc7b\ud83c\udf83",
+        "summary": "\ud83d\udc7b\ud83c\udf83",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@quartzmedia.bsky.social (Bluesky): ICYMI: Rivian just turned your EV into a Ghostbusters prop #Rivian #Ghostbusters",
+        "url": "https://bsky.app/profile/did:plc:nasdzbpiyzph2lvcoijyxere/post/3mxks6u5xej2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T00:55:29.052Z",
+        "score": 0,
+        "snippet": "ICYMI: Rivian just turned your EV into a Ghostbusters prop #Rivian #Ghostbusters",
+        "summary": "ICYMI: Rivian just turned your EV into a Ghostbusters prop #Rivian #Ghostbusters",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@coryw.bsky.social (Bluesky): \u201cTeslas are charging at Electrify America and Rivian\u201d would bother me less if th",
+        "url": "https://bsky.app/profile/did:plc:hcqh55paf7rtvlli3ymbgk5h/post/3mxkpd5fkc22f",
+        "source": "bluesky",
+        "publishedAt": "2026-10-11T00:04:12.255Z",
+        "score": 2,
+        "snippet": "\u201cTeslas are charging at Electrify America and Rivian\u201d would bother me less if the overwhelming majority of my experience with Tesla drivers weren\u2019t completely based in how much better they view the SC",
+        "summary": "\u201cTeslas are charging at Electrify America and Rivian\u201d would bother me less if the overwhelming majority of my experience with Tesla drivers weren\u2019t completely based in how much better they view the SC",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@dogsitmatter.bsky.social (Bluesky): First sighting of a production, Rivian R2 in Glacier White \ufffc(i\u2019ve seen three pro",
+        "url": "https://bsky.app/profile/did:plc:sakwvxsk7pvrbmp5wg7fzxb5/post/3mxkoieh2r22p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T23:49:17.356Z",
+        "score": 2,
+        "snippet": "First sighting of a production, Rivian R2 in Glacier White \ufffc(i\u2019ve seen three prototypes) this one was headed down to the Santa Cruz Beach boardwalk, like you do, once you get an R2.\ufffc",
+        "summary": "First sighting of a production, Rivian R2 in Glacier White \ufffc(i\u2019ve seen three prototypes) this one was headed down to the Santa Cruz Beach boardwalk, like you do, once you get an R2.\ufffc",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rwparis2.bsky.social (Bluesky): Rivian - Halloween Mode.",
+        "url": "https://bsky.app/profile/did:plc:6h73lyjgbpv7hue7xo3m7qhe/post/3mxkklxxn3k2z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T22:39:40.158Z",
+        "score": 2,
+        "snippet": "Rivian - Halloween Mode.",
+        "summary": "Rivian - Halloween Mode.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@autoscandi.bsky.social (Bluesky): It's interesting to see more EVs at the Rivian station in Breezewood. Are you no",
+        "url": "https://bsky.app/profile/did:plc:kl2yab55hq2ypanrntsld6wi/post/3mxkhe3dxog2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T21:41:33.161Z",
+        "score": 0,
+        "snippet": "It's interesting to see more EVs at the Rivian station in Breezewood. Are you noticing any particular trends in the types of vehicles or charging behaviors?",
+        "summary": "It's interesting to see more EVs at the Rivian station in Breezewood. Are you noticing any particular trends in the types of vehicles or charging behaviors?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@lossano.bsky.social (Bluesky): This IS An Ad: Rivian (Ghostbusters Halloween Mode)",
+        "url": "https://bsky.app/profile/did:plc:ovmroqm7x7wfhdxiobr4r4nh/post/3mxkgssmpms2o",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T21:31:56.463Z",
+        "score": 1,
+        "snippet": "This IS An Ad: Rivian (Ghostbusters Halloween Mode)",
+        "summary": "This IS An Ad: Rivian (Ghostbusters Halloween Mode)",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jaehanley.social (Bluesky): There are two cars double parked and blocking one of the exit roads of the place",
+        "url": "https://bsky.app/profile/did:plc:lwopunrxdi7olxzb6dq7qzwm/post/3mxke34tole2w",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T20:42:51.556Z",
+        "score": 0,
+        "snippet": "There are two cars double parked and blocking one of the exit roads of the place I'm at. One's a Tesla, the other a Rivian. Sounds about right.",
+        "summary": "There are two cars double parked and blocking one of the exit roads of the place I'm at. One's a Tesla, the other a Rivian. Sounds about right.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@costakangaroo.bsky.social (Bluesky): RIVIAN ROAD TRIP",
+        "url": "https://bsky.app/profile/did:plc:iat2omhmh7srbkg4fumjt2dd/post/3mxkcl43wj22q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T20:15:59.362Z",
+        "score": 2,
+        "snippet": "RIVIAN ROAD TRIP",
+        "summary": "RIVIAN ROAD TRIP",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@taggzzz.rocks (Bluesky): Been waiting for a long time... \n\nHello Rivian R2, I'm gonna call you Clever Gir",
+        "url": "https://bsky.app/profile/did:plc:dboi75j6pjlvgo5lob4zhpiv/post/3mxkciywq3s2e",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T20:14:54.760Z",
+        "score": 87,
+        "snippet": "Been waiting for a long time... Hello Rivian R2, I'm gonna call you Clever Girl. \ud83e\udd96",
+        "summary": "Been waiting for a long time... Hello Rivian R2, I'm gonna call you Clever Girl. \ud83e\udd96",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tiltedtimes.org (Bluesky): Read full article here: https://tiltedtimes.org/rivian-r2-review-tesla-model-y-b",
+        "url": "https://bsky.app/profile/did:plc:i26lajrgw7a4265yarkxj3ke/post/3mxixiwmqok2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T07:25:16.759Z",
+        "score": 0,
+        "snippet": "Read full article here:",
+        "summary": "Read full article here:",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Finer Touches\n\nThere's the screen in the console for the 2nd row of our R1S and ",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mxjxpf2jno2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-10T17:01:34.255Z",
+        "score": 2,
+        "snippet": "Finer Touches There's the screen in the console for the 2nd row of our R1S and R1T our kids love to watch in Ghostbusters mode. Slimer, marshmallow men and other characters flying around.",
+        "summary": "Finer Touches There's the screen in the console for the 2nd row of our R1S and R1T our kids love to watch in Ghostbusters mode. Slimer, marshmallow men and other characters flying around.",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My Rivian R2 Test Drive Sold Me Over A Model Y",
+        "url": "https://youtube.com/watch?v=TRdtMw8duf0",
+        "source": "youtube",
+        "publishedAt": "2026-10-10T13:15:01Z",
+        "score": 0,
+        "snippet": "Join Coleton and Kyle as they spend an afternoon with a Rivian R2 Performance! Shoutout to our sponsors IONNA and Lincoln Electric:",
+        "youtubeChannel": "Out of Spec Reviews",
+        "youtubeConfidence": 12,
+        "youtubeEvidence": [
+          "trusted channel",
+          "original-reporting signal",
+          "substantive runtime",
+          "established audience"
+        ],
+        "summary": "Join Coleton and Kyle as they spend an afternoon with a Rivian R2 Performance! Shoutout to our sponsors IONNA and Lincoln Electric:",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Demo Drives",
+          "Tesla Competition"
+        ]
+      }
+    ]
   }
 ]
