@@ -9008,5 +9008,414 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-13T07:01:41.100004-07:00",
+    "timestamp": "2026-10-13T07:01:41.100004-07:00",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 82,
+      "negative": 13
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_tesla": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 15,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Commercial Vans",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "23 signals across Vehicles (15), Competitive (6); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Tuesday, October 13, 2026 \u2014 7:01 AM PT \u2014 23 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 17 Rivian signals clustered around Vehicles (15), Community (1).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Competitive Threats, Commercial Vans.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Competitive Threats:* BYD Co.\u2019s premium Denza brand may set up its own car financing operation in Europe as soon as next year, potentially a big step to challenge premium brands like BMW AG and Mercedes-Benz Group AG.\n  https://www.bloomberg.com/news/articles/2026-10-13/byd-s-denza-eyes-europe-car-finance-unit-to-rival-bmw-mercedes\n\u2022 *Competitive Threats:* Three federal actions in five weeks mean NHTSA, not Tesla, is increasingly setting the pace of the robotaxi rollout. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/school-zone-petition-adds-to-teslas-robotaxi-probe-pile/\n\u2022 *Competitive Threats:* The hybrid quota is doing what Brussels intended, converting Chinese exporters into European employers. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/analysis/frances-push-for-tariffs-may-win-it-a-byd-car-factory/\n\u2022 *Competitive Threats:* The new ID. Tiguan can\u2019t come soon enough, as the automaker is currently relying only on inventory EVs.\n  https://insideevs.com/news/811715/volkswagen-us-ev-sales-tumble-90/\n\u2022 *Competitive Threats:* <p class=\"wp-block-paragra\n  https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (15)* \u2022 reddit_rivian signal: I figured out the VIN magic trick. - It happened.\n  https://www.reddit.com/r/Rivian/comments/1x4w6kr/i_figured_out_the_vin_magic_trick_it_happened/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Top US EVs (YTD through Q3): \u200bTesla Model Y \u200bTesla Model 3 \u200bHyundai Ioniq 5 \u200bToyota bZ4X \u200bChevy Equinox EV \u200bRivian R1S \u200bFord Mustang Mach-E \u200bRivian Commercial Van \u200bHonda Prologue \u200bKia EV9 \u200bFord F-15\n  https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mxqlomsh3c2n\n*Community (1)* \u2022 bluesky signal: @mr-macheath.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:3szyuex46guho23shr3xe3vn/post/3mxr6mxi2wc22\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Commercial Vans\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Tesla Competition\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "I figured out the VIN magic trick. - It happened.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4w6kr/i_figured_out_the_vin_magic_trick_it_happened/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T13:08:52.422Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: I figured out the VIN magic trick. - It happened.",
+        "summary": "reddit_rivian signal: I figured out the VIN magic trick. - It happened.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Pricing and Trims to Break into the Mainstream.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4ufld/pricing_and_trims_to_break_into_the_mainstream/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T11:45:18.670Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Pricing and Trims to Break into the Mainstream.",
+        "summary": "reddit_rivian signal: Pricing and Trims to Break into the Mainstream.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1S prices are crazy?!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4u45k/r1s_prices_are_crazy/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T11:28:28.675Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1S prices are crazy?!",
+        "summary": "reddit_rivian signal: R1S prices are crazy?!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "People who have switched from Gen 1 R1S to R2, any regrets?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4ssme/people_who_have_switched_from_gen_1_r1s_to_r2_any/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T10:13:43.446Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: People who have switched from Gen 1 R1S to R2, any regrets?",
+        "summary": "reddit_rivian signal: People who have switched from Gen 1 R1S to R2, any regrets?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Peak Reddit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4okn1/peak_reddit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T05:42:41.805Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Peak Reddit",
+        "summary": "reddit_rivian signal: Peak Reddit",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Buying a used \u201825 R1S from CarMax, refused delivery over front-end creak, got ting washers. Walk away or take it?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4nuzh/buying_a_used_25_r1s_from_carmax_refused_delivery/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T05:00:57.627Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Buying a used \u201825 R1S from CarMax, refused delivery over front-end creak, got ting washers. Walk away or take it?",
+        "summary": "reddit_rivian signal: Buying a used \u201825 R1S from CarMax, refused delivery over front-end creak, got ting washers. Walk away or take it?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Charger communication and compatibility.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4ncvb/charger_communication_and_compatibility/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T04:32:47.404Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Charger communication and compatibility.",
+        "summary": "reddit_rivian signal: Charger communication and compatibility.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "BYD\u2019s Denza Eyes Europe Car-Finance Unit to Rival BMW, Mercedes",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-13/byd-s-denza-eyes-europe-car-finance-unit-to-rival-bmw-mercedes",
+        "source": "bloomberg_markets",
+        "publishedAt": "Tue, 13 Oct 2026 12:57:06 GMT",
+        "score": 0,
+        "snippet": "BYD Co.\u2019s premium Denza brand may set up its own car financing operation in Europe as soon as next year, potentially a big step to challenge premium brands like BMW AG and Mercedes-Benz Group AG.",
+        "summary": "BYD Co.\u2019s premium Denza brand may set up its own car financing operation in Europe as soon as next year, potentially a big step to challenge premium brands like BMW AG and Mercedes-Benz Group AG.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "School zone petition adds to Tesla\u2019s robotaxi probe pile",
+        "url": "https://www.automotiveworld.com/news/school-zone-petition-adds-to-teslas-robotaxi-probe-pile/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 13 Oct 2026 13:42:12 +0000",
+        "score": 0,
+        "snippet": "Three federal actions in five weeks mean NHTSA, not Tesla, is increasingly setting the pace of the robotaxi rollout. By Stewart Burnett The post <a href=\"",
+        "summary": "Three federal actions in five weeks mean NHTSA, not Tesla, is increasingly setting the pace of the robotaxi rollout. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "France\u2019s push for tariffs may win it a BYD car factory",
+        "url": "https://www.automotiveworld.com/analysis/frances-push-for-tariffs-may-win-it-a-byd-car-factory/",
+        "source": "automotive_world",
+        "publishedAt": "Tue, 13 Oct 2026 12:20:05 +0000",
+        "score": 0,
+        "snippet": "The hybrid quota is doing what Brussels intended, converting Chinese exporters into European employers. By Stewart Burnett The post <a href=\"",
+        "summary": "The hybrid quota is doing what Brussels intended, converting Chinese exporters into European employers. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Volkswagen\u2019s U.S. EV Sales Tumble 90%",
+        "url": "https://insideevs.com/news/811715/volkswagen-us-ev-sales-tumble-90/",
+        "source": "insideevs",
+        "publishedAt": "Tue, 13 Oct 2026 07:12:57 +0000",
+        "score": 0,
+        "snippet": "The new ID. Tiguan can\u2019t come soon enough, as the automaker is currently relying only on inventory EVs.",
+        "summary": "The new ID. Tiguan can\u2019t come soon enough, as the automaker is currently relying only on inventory EVs.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla still leads US fast-charger growth \u2013 but it\u2019s raised its prices",
+        "url": "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/",
+        "source": "electrek",
+        "publishedAt": "Tue, 13 Oct 2026 12:00:00 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-paragra",
+        "summary": "<p class=\"wp-block-paragra",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Uber's head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit (Natalie Lung/Bloomberg)",
+        "url": "https://www.techmeme.com/261013/p23#a261013p23",
+        "source": "techmeme",
+        "publishedAt": "Tue, 13 Oct 2026 09:35:01 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Changes Full Self-Driving Mode Name to Something More Accurate as Europe Continues to Express Doubts in Its Safety and Capabilities - Autonocion.com",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZk1Ibm1vYWIzOE5RZlc3WG51SmNQUG1LclZUV2RWUXBZOG1TWTFsMDRuQnZQZGM4WHR3eGl0V0wwWGpkWG9VY3ZTVFZJUWgtR3Exa0pTVFhjVDJ5OE5sZDFsR3NEZlNXRWc?oc=5",
+        "source": "google_news_tesla",
+        "publishedAt": "Tue, 13 Oct 2026 11:15:15 GMT",
+        "score": 0,
+        "snippet": "Tesla Changes Full Self-Driving Mode Name to Something More Accurate as Europe Continues to Express Doubts in Its Safety and Capabilities - Autonocion.com",
+        "summary": "Tesla Changes Full Self-Driving Mode Name to Something More Accurate as Europe Continues to Express Doubts in Its Safety and Capabilities - Autonocion.com",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@mr-macheath.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:3szyuex46guho23shr3xe3vn/post/3mxr6mxi2wc22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T13:54:08.460Z",
+        "score": 0,
+        "snippet": "bluesky signal: @mr-macheath.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @mr-macheath.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): Check out this free 3D printable mobile charger station for the Rivian Mobile Ch",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxr5rdw6qi22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T13:38:39.956Z",
+        "score": 1,
+        "snippet": "Check out this free 3D printable mobile charger station for the Rivian Mobile Charger. Link: buff.ly/qeX5zhb",
+        "summary": "Check out this free 3D printable mobile charger station for the Rivian Mobile Charger. Link: buff.ly/qeX5zhb",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Rivian, Tesla and Lucid do this now. GM and Stelantis and imports will follow Fo",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mxqsewl4is2c",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T10:14:52.456Z",
+        "score": 1,
+        "snippet": "Rivian, Tesla and Lucid do this now. GM and Stelantis and imports will follow Ford. It won't be easy but it's worth it. Rebuilding the connection between factory and customer. Do research online and s",
+        "summary": "Rivian, Tesla and Lucid do this now. GM and Stelantis and imports will follow Ford. It won't be easy but it's worth it. Rebuilding the connection between factory and customer. Do research online and s",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@trendsnewsstories.bsky.social (Bluesky): \u2018Who you gonna call?\u2019 Who you gonna call? asks the latest automotive collaborati",
+        "url": "https://bsky.app/profile/did:plc:2axwmdalt3szozn3cgf5hqrr/post/3mxqr7iw5mw2t",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T09:53:55.856Z",
+        "score": 0,
+        "snippet": "\u2018Who you gonna call?\u2019 Who you gonna call? asks the latest automotive collaboration sweeping the United States this Halloween season as major automakers embrace pop culture. Rivian has officially unvei",
+        "summary": "\u2018Who you gonna call?\u2019 Who you gonna call? asks the latest automotive collaboration sweeping the United States this Halloween season as major automakers embrace pop culture. Rivian has officially unvei",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@openclassactions.bsky.social (Bluesky): $RIVN: Cornellier v. Rivian alleges a Dec. 2025 reveal showed Gen 1 R1T/R1S lack",
+        "url": "https://bsky.app/profile/did:plc:icarsef7tgh7qpcwp45k2qgq/post/3mxqqlxssnc2n",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T09:43:00.957Z",
+        "score": 0,
+        "snippet": "$RIVN: Cornellier v. Rivian alleges a Dec. 2025 reveal showed Gen 1 R1T/R1S lacked the hardware for Level 3. Filed June 17, no class certified, nothing to claim: openclassactions.com/lawsuits/aut...",
+        "summary": "$RIVN: Cornellier v. Rivian alleges a Dec. 2025 reveal showed Gen 1 R1T/R1S lacked the hardware for Level 3. Filed June 17, no class certified, nothing to claim: openclassactions.com/lawsuits/aut...",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@soumya-goblue.bsky.social (Bluesky): I mean there\u2019s Rivian (which my brother drives), Ford Mustang Mach-E, Chevy Bolt",
+        "url": "https://bsky.app/profile/did:plc:nxlh63mkcieh3tjloibre7hp/post/3mxqow4xlgc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T09:12:53.756Z",
+        "score": 1,
+        "snippet": "I mean there\u2019s Rivian (which my brother drives), Ford Mustang Mach-E, Chevy Bolt, Chevy Equinox EV, Cadillac Lyriq, Lucid Air that are all American origin. Tesla has hemorrhaged market share even amon",
+        "summary": "I mean there\u2019s Rivian (which my brother drives), Ford Mustang Mach-E, Chevy Bolt, Chevy Equinox EV, Cadillac Lyriq, Lucid Air that are all American origin. Tesla has hemorrhaged market share even amon",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gbwilliams1956.bsky.social (Bluesky): Top US EVs (YTD through Q3):  \n\u200bTesla Model Y\n\u200bTesla Model 3\n\u200bHyundai Ioniq 5\n\u200bT",
+        "url": "https://bsky.app/profile/did:plc:djrlcnzd6octzwryjhubsl23/post/3mxqlomsh3c2n",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T08:15:03.557Z",
+        "score": 0,
+        "snippet": "Top US EVs (YTD through Q3): \u200bTesla Model Y \u200bTesla Model 3 \u200bHyundai Ioniq 5 \u200bToyota bZ4X \u200bChevy Equinox EV \u200bRivian R1S \u200bFord Mustang Mach-E \u200bRivian Commercial Van \u200bHonda Prologue \u200bKia EV9 \u200bFord F-15",
+        "summary": "Top US EVs (YTD through Q3): \u200bTesla Model Y \u200bTesla Model 3 \u200bHyundai Ioniq 5 \u200bToyota bZ4X \u200bChevy Equinox EV \u200bRivian R1S \u200bFord Mustang Mach-E \u200bRivian Commercial Van \u200bHonda Prologue \u200bKia EV9 \u200bFord F-15",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Commercial Vans",
+          "Software",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@andrewinter.bsky.social (Bluesky): Das war bei OS 2 oder 3 noch der Fall, bei 6 inzwischen ist das Geschichte, da z",
+        "url": "https://bsky.app/profile/did:plc:xo6xrq662jdd7uwnq4dkurlq/post/3mxqj7lvu622a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T07:30:49.357Z",
+        "score": 0,
+        "snippet": "Das war bei OS 2 oder 3 noch der Fall, bei 6 inzwischen ist das Geschichte, da zahlt sich die Zusammenarbeit mit Rivian aus. Chinesen tendieren dazu alles \u00fcbers Display zu machen, was teils gef\u00e4hrlich",
+        "summary": "Das war bei OS 2 oder 3 noch der Fall, bei 6 inzwischen ist das Geschichte, da zahlt sich die Zusammenarbeit mit Rivian aus. Chinesen tendieren dazu alles \u00fcbers Display zu machen, was teils gef\u00e4hrlich",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@madshrimps.be (Bluesky): 2027 Rivian R2 review: The Goldilocks electric SUV\n\nIt&#8217;s not too big, it&#",
+        "url": "https://bsky.app/profile/did:plc:mqyjzq64pdtyeyqsaazj3vep/post/3mxqixvscfe27",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T07:26:30.654Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2 review: The Goldilocks electric SUV It&#8217;s not too big, it&#8217;s not too small and it&#8217;s not too expensive. It&#8217;s just right. Read&#160;More \ud83d\udd17",
+        "summary": "2027 Rivian R2 review: The Goldilocks electric SUV It&#8217;s not too big, it&#8217;s not too small and it&#8217;s not too expensive. It&#8217;s just right. Read&#160;More \ud83d\udd17",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
