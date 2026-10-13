@@ -8395,5 +8395,618 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-12T19:01:43.030740-07:00",
+    "timestamp": "2026-10-12T19:01:43.030740-07:00",
+    "sentiment": {
+      "positive": 13,
+      "neutral": 80,
+      "negative": 5
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "nytimes_tech": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "positive"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_commercial": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "google_news_lucid": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 17,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 18,
+        "sentiment": null
+      },
+      "business": {
+        "found": 2,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 7,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 6,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Pricing & Incentives",
+      "R2 Launch",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "36 signals across Vehicles (18), Community (7); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Monday, October 12, 2026 \u2014 7:01 PM PT \u2014 36 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 6 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 30 Rivian signals clustered around Vehicles (18), Community (7).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Community Signals, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (6)\n\u2022 *Competitive Threats:* Tesla's Cybercab will make its first appearance in Europe at the Paris Motor Show this week. Elon Musk is trying to expand the company's footprint outside of the US. Bloomberg's Detroit Bureau Chief D\n  https://www.bloomberg.com/news/videos/2026-10-12/tesla-to-debut-cybercab-at-paris-motor-show-video\n\u2022 *Competitive Threats:* Musk\u2019s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.\n  https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html\n\u2022 *Competitive Threats:* The company is struggling in China, but EV sales grew 20% in Europe last quarter.\n  https://insideevs.com/news/811680/vw-ev-sales-growing-europe/\n\u2022 *Competitive Threats:* The BYD Atto 8 can recharge from 10-70% in 5 minutes, and hit 97% in under 10.\n  https://insideevs.com/news/811664/byd-flash-charging-five-minutes/\n\u2022 *Competitive Threats:* T\n  https://electrek.co/2026/10/12/tesla-model-x-fire-montreal-court-vandalism-defense/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Advances in self-driving technology have made it easier to traverse distant worlds.\n  https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (18)* \u2022 reddit_rivian signal: Key Fobs for Gen1\n  https://www.reddit.com/r/Rivian/comments/1x4igir/key_fobs_for_gen1/\n*Business (2)* \u2022 cnbc signal: S&P 500 futures are flat ahead of bank earnings; South Korea\u2019s Kospi falls below 6,000\n  https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html\n*Software (2)* \u2022 Rivian has released 2026.36.41 for R2. There are no differences in the release notes. rivianroamer.com/software-up...\n  https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mxpppcusgv2q\n*Community (7)* \u2022 Okay, this is cute. www.youtube.com/watch?v=AzEr...\n  https://bsky.app/profile/did:plc:6za3dktkc4ohji57pgr6xgly/post/3mxpw6eaknc2w\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Pricing & Incentives\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Key Fobs for Gen1",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4igir/key_fobs_for_gen1/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T00:24:48.737Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Key Fobs for Gen1",
+        "summary": "reddit_rivian signal: Key Fobs for Gen1",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian window venting in app Gen 1 no connect +",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4hyxy/rivian_window_venting_in_app_gen_1_no_connect/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-13T00:01:33.473Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian window venting in app Gen 1 no connect +",
+        "summary": "reddit_rivian signal: Rivian window venting in app Gen 1 no connect +",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Poll: Did you buy or lease your Rivian?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4hg5w/poll_did_you_buy_or_lease_your_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-12T23:37:55.560Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Poll: Did you buy or lease your Rivian?",
+        "summary": "reddit_rivian signal: Poll: Did you buy or lease your Rivian?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Another Gen1 R1T quad v R2",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4gtnk/another_gen1_r1t_quad_v_r2/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-12T23:08:46.630Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Another Gen1 R1T quad v R2",
+        "summary": "reddit_rivian signal: Another Gen1 R1T quad v R2",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 cargo crossbars not in gear shop anymore?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4fvp9/r2_cargo_crossbars_not_in_gear_shop_anymore/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-12T22:26:11.743Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 cargo crossbars not in gear shop anymore?",
+        "summary": "reddit_rivian signal: R2 cargo crossbars not in gear shop anymore?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "This Haloween Rivian Assistant is funny!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4f362/this_haloween_rivian_assistant_is_funny/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-12T21:51:49.379Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: This Haloween Rivian Assistant is funny!",
+        "summary": "reddit_rivian signal: This Haloween Rivian Assistant is funny!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian is my dream car brand",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x4bzo5/rivian_is_my_dream_car_brand/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-12T19:50:12.772Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian is my dream car brand",
+        "summary": "reddit_rivian signal: Rivian is my dream car brand",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Real-world range reports keep giving me second thoughts.  Anyone seeing good results?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x4emn9/realworld_range_reports_keep_giving_me_second/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-12T21:32:24.377Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Real-world range reports keep giving me second thoughts. Anyone seeing good results?",
+        "summary": "reddit_rivian_r2 signal: Real-world range reports keep giving me second thoughts. Anyone seeing good results?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Rivian R2 review: The Goldilocks electric SUV",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1x49n5v/2027_rivian_r2_review_the_goldilocks_electric_suv/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-12T18:23:59.900Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: 2027 Rivian R2 review: The Goldilocks electric SUV",
+        "summary": "reddit_electricvehicles signal: 2027 Rivian R2 review: The Goldilocks electric SUV",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "S&P 500 futures are flat ahead of bank earnings; South Korea\u2019s Kospi falls below 6,000",
+        "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
+        "source": "cnbc",
+        "publishedAt": null,
+        "score": 0,
+        "snippet": "cnbc signal: S&P 500 futures are flat ahead of bank earnings; South Korea\u2019s Kospi falls below 6,000",
+        "summary": "cnbc signal: S&P 500 futures are flat ahead of bank earnings; South Korea\u2019s Kospi falls below 6,000",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "NASA\u2019s Perseverance Rover Sets a Mars Driving Record",
+        "url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+        "source": "nytimes_tech",
+        "publishedAt": "Tue, 13 Oct 2026 01:20:10 +0000",
+        "score": 0,
+        "snippet": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+        "summary": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+        "category": "autonomy",
+        "sentiment": "positive",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Tesla Cybercab to Make European Debut at Paris Motor Show",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-12/tesla-to-debut-cybercab-at-paris-motor-show-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Mon, 12 Oct 2026 20:30:20 GMT",
+        "score": 0,
+        "snippet": "Tesla's Cybercab will make its first appearance in Europe at the Paris Motor Show this week. Elon Musk is trying to expand the company's footprint outside of the US. Bloomberg's Detroit Bureau Chief D",
+        "summary": "Tesla's Cybercab will make its first appearance in Europe at the Paris Motor Show this week. Elon Musk is trying to expand the company's footprint outside of the US. Bloomberg's Detroit Bureau Chief D",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+        "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+        "source": "cnbc_top",
+        "publishedAt": "Mon, 12 Oct 2026 21:17:58 GMT",
+        "score": 0,
+        "snippet": "Musk\u2019s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
+        "summary": "Musk\u2019s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Volkswagen\u2019s Family Of Cheap EVs Already Looks Like A Hit",
+        "url": "https://insideevs.com/news/811680/vw-ev-sales-growing-europe/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 12 Oct 2026 23:46:21 +0000",
+        "score": 0,
+        "snippet": "The company is struggling in China, but EV sales grew 20% in Europe last quarter.",
+        "summary": "The company is struggling in China, but EV sales grew 20% in Europe last quarter.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD's New 3-Row SUV Brings 5-Minute Flash Charging To European Families",
+        "url": "https://insideevs.com/news/811664/byd-flash-charging-five-minutes/",
+        "source": "insideevs",
+        "publishedAt": "Mon, 12 Oct 2026 18:51:12 +0000",
+        "score": 0,
+        "snippet": "The BYD Atto 8 can recharge from 10-70% in 5 minutes, and hit 97% in under 10.",
+        "summary": "The BYD Atto 8 can recharge from 10-70% in 5 minutes, and hit 97% in under 10.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla ordered to pay $162,000 for Model X fire after failed \u2018vandalism\u2019 defense",
+        "url": "https://electrek.co/2026/10/12/tesla-model-x-fire-montreal-court-vandalism-defense/",
+        "source": "electrek",
+        "publishedAt": "Mon, 12 Oct 2026 18:57:30 +0000",
+        "score": 0,
+        "snippet": "T",
+        "summary": "T",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 3% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUE0bVljY0JYSkk4NW5KaDVxSkJNaVdMSDI2Tmd0U3V0dzAtcFptX2tmakdHQU91R1F5YnNDdU1NTkZ5VW9leGRBWjU4c084QjY5S1g0RENsRXMzRkctUnIyQWY0RUc2Y1Y4VW8zNS1ZZTEyWFNSbjBuZ2JnVVhKM3lWeHZMRGpRSzlvWUowam5IVFdOdk51TXVYaUZwcjRWLXA5RDQza0Q3TzI2b0xTMlQ2blMwekQwZXlmZTVn?oc=5",
+        "source": "google_news",
+        "publishedAt": "Mon, 12 Oct 2026 21:47:07 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 3% - Time to Sell? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 3% - Time to Sell? - MarketBeat",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Wins EPA Approval for AWD, Long-Range Vans With 129 kWh Battery - Electric Vehicles",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkZhYVlBZFNiOGI2Z2k0eE5FM3dVd0J1cU15cVJ1YlBnUUN2SjF2eURNY3BfUzBKU2ZtM1BQVER6bzRXRGRVWnEzbDJoN2w5MDU4YmdyeWRyTXpzTWxXa1FWMjAtekdteUZMR0tnUkt2bWR6Rkp3NGZJcFhkQTd0eDBZTzFzMDJOMmdUUklMNnhQSElOT3NhdFdTWE1WdUxSU2JyTWxGOEx5dw?oc=5",
+        "source": "google_news_commercial",
+        "publishedAt": "Mon, 12 Oct 2026 19:11:28 GMT",
+        "score": 0,
+        "snippet": "Rivian Wins EPA Approval for AWD, Long-Range Vans With 129 kWh Battery - Electric Vehicles",
+        "summary": "Rivian Wins EPA Approval for AWD, Long-Range Vans With 129 kWh Battery - Electric Vehicles",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "2027 Lucid Gravity Review, Specs, Pricing, and Warranty - Autoblog",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sNjNRQjJfbHRXM2JWMzE0bUlvTmFBZUwxYzhoOVRxQUxyS1NZOTRmQ1dOSUVzVnZsUmRGNUZzZUh4ZU9pbTJjZWhhOU9DSnFFOC1lM2Z0Wmc5RFMx?oc=5",
+        "source": "google_news_lucid",
+        "publishedAt": "Mon, 12 Oct 2026 19:34:18 GMT",
+        "score": 0,
+        "snippet": "2027 Lucid Gravity Review, Specs, Pricing, and Warranty - Autoblog",
+        "summary": "2027 Lucid Gravity Review, Specs, Pricing, and Warranty - Autoblog",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@priorplanning.life (Bluesky): Okay, this is cute.\n\nwww.youtube.com/watch?v=AzEr...",
+        "url": "https://bsky.app/profile/did:plc:6za3dktkc4ohji57pgr6xgly/post/3mxpw6eaknc2w",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T01:50:06.453Z",
+        "score": 0,
+        "snippet": "Okay, this is cute. www.youtube.com/watch?v=AzEr...",
+        "summary": "Okay, this is cute. www.youtube.com/watch?v=AzEr...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@yusk.bsky.social (Bluesky): \u5373\u5ea7\u306b\u751f\u7523\u4e2d\u6b62\u306b\u306a\u3063\u3066\u307e\u3059\u306e\u3067\u3001\u30b5\u30a4\u30d0\u30fc\u30c8\u30e9\u30c3\u30af\u542b\u3081\u7686\u3055\u3093\u8208\u5473\u306a\u3044\u306e\u306f\u591a\u5206\u9593\u9055\u3044\u306a\u3044\u3067\u3057\u3087\u3046\u306d\u3002\u3002\u3002\u81ea\u5206\u306f\u534a\u5206\u4ee5\u4e0a\u5197\u8ac7\u3067\u8cb7\u3044\u307e\u3057\u305f\ud83d\ude05\n\nEV\u304c\u826f\u3044 / \u4e00\u5ea6\u304f\u3089",
+        "url": "https://bsky.app/profile/did:plc:4yq6cqm2obaqrn7qxxwofou2/post/3mxptxwh6u225",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T01:10:42.955Z",
+        "score": 1,
+        "snippet": "\u5373\u5ea7\u306b\u751f\u7523\u4e2d\u6b62\u306b\u306a\u3063\u3066\u307e\u3059\u306e\u3067\u3001\u30b5\u30a4\u30d0\u30fc\u30c8\u30e9\u30c3\u30af\u542b\u3081\u7686\u3055\u3093\u8208\u5473\u306a\u3044\u306e\u306f\u591a\u5206\u9593\u9055\u3044\u306a\u3044\u3067\u3057\u3087\u3046\u306d\u3002\u3002\u3002\u81ea\u5206\u306f\u534a\u5206\u4ee5\u4e0a\u5197\u8ac7\u3067\u8cb7\u3044\u307e\u3057\u305f\ud83d\ude05 EV\u304c\u826f\u3044 / \u4e00\u5ea6\u304f\u3089\u3044\u306f\u7c73\u56fd\u30e1\u30fc\u30ab\u30fc\u306e\u306b\u4e57\u3063\u3066\u307f\u3066\u3082\u826f\u3044 / \u6240\u6709\u3057\u305f\u4e8b\u306e\u306a\u3044\u30bf\u30a4\u30d7\u306e\u8eca\u304c\u826f\u3044 \u3092\u540c\u6642\u306b\u6e80\u305f\u3057\u3066\u3044\u305f\u306e\u3067\u2026\u3002\u6700\u5f8c\u306e\u306f\u3001small/midsize\u3067\u306a\u304flarge\u306b\u5206\u985e\u3055\u308c\u308b\u3068\u304b\u3001pickup truck\u306b\u5206\u985e\u3055\u308c\u308b\u3068\u304b\u305d\u3046\u3044\u3046\u3002\u6982\u306d\u6e80\u8db3\u3057\u305f\u306e",
+        "summary": "\u5373\u5ea7\u306b\u751f\u7523\u4e2d\u6b62\u306b\u306a\u3063\u3066\u307e\u3059\u306e\u3067\u3001\u30b5\u30a4\u30d0\u30fc\u30c8\u30e9\u30c3\u30af\u542b\u3081\u7686\u3055\u3093\u8208\u5473\u306a\u3044\u306e\u306f\u591a\u5206\u9593\u9055\u3044\u306a\u3044\u3067\u3057\u3087\u3046\u306d\u3002\u3002\u3002\u81ea\u5206\u306f\u534a\u5206\u4ee5\u4e0a\u5197\u8ac7\u3067\u8cb7\u3044\u307e\u3057\u305f\ud83d\ude05 EV\u304c\u826f\u3044 / \u4e00\u5ea6\u304f\u3089\u3044\u306f\u7c73\u56fd\u30e1\u30fc\u30ab\u30fc\u306e\u306b\u4e57\u3063\u3066\u307f\u3066\u3082\u826f\u3044 / \u6240\u6709\u3057\u305f\u4e8b\u306e\u306a\u3044\u30bf\u30a4\u30d7\u306e\u8eca\u304c\u826f\u3044 \u3092\u540c\u6642\u306b\u6e80\u305f\u3057\u3066\u3044\u305f\u306e\u3067\u2026\u3002\u6700\u5f8c\u306e\u306f\u3001small/midsize\u3067\u306a\u304flarge\u306b\u5206\u985e\u3055\u308c\u308b\u3068\u304b\u3001pickup truck\u306b\u5206\u985e\u3055\u308c\u308b\u3068\u304b\u305d\u3046\u3044\u3046\u3002\u6982\u306d\u6e80\u8db3\u3057\u305f\u306e",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@skippythekangaroo.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:uokti56b5finsf6kasi3aczi/post/3mxprk7rdl22k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T00:27:19.364Z",
+        "score": 2,
+        "snippet": "bluesky signal: @skippythekangaroo.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @skippythekangaroo.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@marinewater.bsky.social (Bluesky): youtu.be/AzErJdWUDTE?...",
+        "url": "https://bsky.app/profile/did:plc:5qwjjtcebcaxkmchqmeqfber/post/3mxpqgklyv22m",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T00:07:21.969Z",
+        "score": 0,
+        "snippet": "youtu.be/AzErJdWUDTE?...",
+        "summary": "youtu.be/AzErJdWUDTE?...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Rivian has released 2026.36.41 for R2. There are no differences in the release n",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mxpppcusgv2q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T23:54:19.553Z",
+        "score": 2,
+        "snippet": "Rivian has released 2026.36.41 for R2. There are no differences in the release notes. rivianroamer.com/software-up...",
+        "summary": "Rivian has released 2026.36.41 for R2. There are no differences in the release notes. rivianroamer.com/software-up...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Pricing & Incentives",
+          "Software"
+        ]
+      },
+      {
+        "title": "@clipsoflogic.bsky.social (Bluesky): Talent becomes media seths.blog/2026/10/tale...",
+        "url": "https://bsky.app/profile/did:plc:ptni3ji6w326ttzyy36k6acf/post/3mxpn6ds3x425",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T23:09:01.955Z",
+        "score": 0,
+        "snippet": "Talent becomes media seths.blog/2026/10/tale...",
+        "summary": "Talent becomes media seths.blog/2026/10/tale...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@uncrate.com.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:4ktczlepabucnfgulh3h67l5/post/3mxptgifpaxx2",
+        "source": "bluesky",
+        "publishedAt": "2026-10-13T01:01:30.462Z",
+        "score": 0,
+        "snippet": "bluesky signal: @uncrate.com.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @uncrate.com.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@rivianroamer.com (Bluesky): Not seeing much in the way of movement on 2026.36 today.\n\nevroamer.com/software-",
+        "url": "https://bsky.app/profile/did:plc:lp5akbrlyauk3z7xitgwhd2o/post/3mxpjqtqtpe24",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T22:07:47.564Z",
+        "score": 1,
+        "snippet": "Not seeing much in the way of movement on 2026.36 today. evroamer.com/software-up...",
+        "summary": "Not seeing much in the way of movement on 2026.36 today. evroamer.com/software-up...",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@bustedride.bsky.social (Bluesky): Check out my mismatched pair of Michigan #vanityplates a presumably future Rivia",
+        "url": "https://bsky.app/profile/did:plc:n5hzf3ydegefwhtee25itwj2/post/3mxpjd5y3622o",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T22:00:10.163Z",
+        "score": 9,
+        "snippet": "Check out my mismatched pair of Michigan #vanityplates a presumably future Rivian R2 driver. And I'm guessing a former Audi Driver.",
+        "summary": "Check out my mismatched pair of Michigan #vanityplates a presumably future Rivian R2 driver. And I'm guessing a former Audi Driver.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@citizenptnewsmo.bsky.social (Bluesky): The council unanimously approved plans for a groundbreaking Rivian dealership an",
+        "url": "https://bsky.app/profile/did:plc:v3imrnql4vfbwwaumh5uknp3/post/3mxpfdqgfmt2i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T20:48:53.460Z",
+        "score": 0,
+        "snippet": "The council unanimously approved plans for a groundbreaking Rivian dealership and immersive community space, promising new jobs and innovative services in Lee's Summit! Click to read more! #SummitJ",
+        "summary": "The council unanimously approved plans for a groundbreaking Rivian dealership and immersive community space, promising new jobs and innovative services in Lee's Summit! Click to read more! #SummitJ",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@indirlab.com (Bluesky): Rivian R2, tasar\u0131m\u0131, 656 beygirlik performans\u0131 ve ideal menziliyle elektrikli SU",
+        "url": "https://bsky.app/profile/did:plc:ca7tsu3t76mpqodknge7gbwh/post/3mxpepyljdv2r",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T20:37:51.265Z",
+        "score": 0,
+        "snippet": "Rivian R2, tasar\u0131m\u0131, 656 beygirlik performans\u0131 ve ideal menziliyle elektrikli SUV d\u00fcnyas\u0131n\u0131n yeni favorisi olmaya aday. Detayl\u0131 R2 incelememiz yay\u0131nda! \ud83d\udc47",
+        "summary": "Rivian R2, tasar\u0131m\u0131, 656 beygirlik performans\u0131 ve ideal menziliyle elektrikli SUV d\u00fcnyas\u0131n\u0131n yeni favorisi olmaya aday. Detayl\u0131 R2 incelememiz yay\u0131nda! \ud83d\udc47",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@lite4one.bsky.social (Bluesky): Epic. #Ghostbusters",
+        "url": "https://bsky.app/profile/did:plc:t5o7j6b7nnxgith3fdijvyup/post/3mxpefgagfk2u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T20:31:56.856Z",
+        "score": 0,
+        "snippet": "Epic. #Ghostbusters",
+        "summary": "Epic. #Ghostbusters",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@us-med.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:mrvbh3rnv4jmde3ijv4hj4mh/post/3mxpdjf3xk72u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T20:16:15.874Z",
+        "score": 0,
+        "snippet": "bluesky signal: @us-med.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @us-med.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@scoopfeeds.com (Bluesky): Rivian R2: 656hp Family EV, Cheaper Than the R1S\n\nOriginal report by Engadget: h",
+        "url": "https://bsky.app/profile/did:plc:47es52nhpquxzjjb3udmqaev/post/3mxpbuaeq2i24",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T19:46:32.562Z",
+        "score": 0,
+        "snippet": "Rivian R2: 656hp Family EV, Cheaper Than the R1S Original report by Engadget: Full story \u2192",
+        "summary": "Rivian R2: 656hp Family EV, Cheaper Than the R1S Original report by Engadget: Full story \u2192",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hacks.gr (Bluesky): Rivian's new R2 electric mid-size SUV starts at $44,900, positioning itself as a",
+        "url": "https://bsky.app/profile/did:plc:diwavkkkn65d7ptmfk7ugqld/post/3mxpbkjwfdofr",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T19:41:06.864Z",
+        "score": 0,
+        "snippet": "Rivian's new R2 electric mid-size SUV starts at $44,900, positioning itself as a more accessible alternative to the R1S. It features up to 330 miles of range, a boxy design, and multiple p\u2026 https://",
+        "summary": "Rivian's new R2 electric mid-size SUV starts at $44,900, positioning itself as a more accessible alternative to the R1S. It features up to 330 miles of range, a boxy design, and multiple p\u2026 https://",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@glitterbean.wehavecookies.social.ap.brid.gy (Bluesky): 2027 Rivian R2 review: The Goldilocks electric SUV https://www.engadget.com/2284",
+        "url": "https://bsky.app/profile/did:plc:ljt52lc2c54up5dycnljhncu/post/3mxpb3cs2vsl2",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T19:32:38.263Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2 review: The Goldilocks electric SUV",
+        "summary": "2027 Rivian R2 review: The Goldilocks electric SUV",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@starfallrealm.com (Bluesky): 2027 Rivian R2 review: The Goldilocks electric SUV\r\nArticle",
+        "url": "https://bsky.app/profile/did:plc:qewh2yezt7wj5yoztbraopzw/post/3mxp4quhlhg2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-12T18:15:10.555Z",
+        "score": 0,
+        "snippet": "2027 Rivian R2 review: The Goldilocks electric SUV Article",
+        "summary": "2027 Rivian R2 review: The Goldilocks electric SUV Article",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
