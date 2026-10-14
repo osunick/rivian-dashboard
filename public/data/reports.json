@@ -10528,5 +10528,393 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-14T07:01:44.196060-07:00",
+    "timestamp": "2026-10-14T07:01:44.196060-07:00",
+    "sentiment": {
+      "positive": 4,
+      "neutral": 90,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 5,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_lucid": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 12,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 10,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 3,
+        "sentiment": null
+      },
+      "community": {
+        "found": 5,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "22 signals across Vehicles (10), Community (5); watch Vehicle Demand, Community Signals",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, October 14, 2026 \u2014 7:01 AM PT \u2014 22 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 19 Rivian signals clustered around Vehicles (10), Community (5).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 1 negative signal; watch Vehicle Demand, Community Signals, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* Tesla has tightened its grip on US electric vehicle sales, though overall demand still trails its 2023/24 peak. By Will Girling The post <a href=\"\n  https://www.automotiveworld.com/analysis/us-bev-market-tesla-takes-a-bigger-slice-from-a-smaller-pie/\n\u2022 *Competitive Threats:* Pre-orders will open next year, but Ford is offering people the chance to beat the crowds.\n  https://insideevs.com/news/811889/ford-fathom-ev-pickup-preorder-invite/\n\u2022 *Competitive Threats:* I drove the Lucid Gravity for a week \u2014 and it sets a new benchmark for electric SUVs - Tom's Guide\n  https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSXRCOVBZS2tEMDNaUHltcWZaakwzTHFQVlpIc2owSmoxeDlHTmZZdFBEa043S3MzV192NzA0QWowQ0lFNkw1emNZTGpMTTZjb3luNmp4VXd1ZXFGTjIzY01reGZfYkZXN2pqZDVvcnJIaW13b1pB?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (10)* \u2022 reddit_rivian signal: R1S \u2192 R2 for $14k worth it?\n  https://www.reddit.com/r/Rivian/comments/1x5oluf/r1s_r2_for_14k_worth_it/\n*Business (1)* \u2022 $RIVN: Case 8:26-cv-01564 covers 2022-2024 R1T and R1S buyers from Oct. 1, 2021. Plaintiffs allege Rivian promised Level 3 in its 2021 IPO filing. No class certified: openclassactions.com/lawsuits/aut\n  https://bsky.app/profile/did:plc:icarsef7tgh7qpcwp45k2qgq/post/3mxtgx6cemk2l\n*Software (3)* \u2022 reddit_rivian signal: Has anyone else not received the Halloween update?\n  https://www.reddit.com/r/Rivian/comments/1x5j13a/has_anyone_else_not_received_the_halloween_update/\n*Community (5)* \u2022 bluesky signal: @blueresearch.bsky.social (Bluesky):\n  https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mxtnablofu2q\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R1S \u2192 R2 for $14k worth it?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x5oluf/r1s_r2_for_14k_worth_it/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T11:21:36.629Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1S \u2192 R2 for $14k worth it?",
+        "summary": "reddit_rivian signal: R1S \u2192 R2 for $14k worth it?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Has anyone else not received the Halloween update?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x5j13a/has_anyone_else_not_received_the_halloween_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T05:29:37.233Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Has anyone else not received the Halloween update?",
+        "summary": "reddit_rivian signal: Has anyone else not received the Halloween update?",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Picked up R2 CC/CC at Rocklin, CA SC! Day 1 March 2024 Res.. \ud83e\udd73\ud83d\ude99",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x5hift/picked_up_r2_cccc_at_rocklin_ca_sc_day_1_march/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T04:00:54.708Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Picked up R2 CC/CC at Rocklin, CA SC! Day 1 March 2024 Res.. \ud83e\udd73\ud83d\ude99",
+        "summary": "reddit_rivian signal: Picked up R2 CC/CC at Rocklin, CA SC! Day 1 March 2024 Res.. \ud83e\udd73\ud83d\ude99",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Picked up R2 CC/CC at Rocklin, CA SC! Day 1 March 2024 Res.. \ud83e\udd73\ud83d\ude99",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x5hi94/picked_up_r2_cccc_at_rocklin_ca_sc_day_1_march/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T04:00:54.708Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Picked up R2 CC/CC at Rocklin, CA SC! Day 1 March 2024 Res.. \ud83e\udd73\ud83d\ude99",
+        "summary": "reddit_rivian signal: Picked up R2 CC/CC at Rocklin, CA SC! Day 1 March 2024 Res.. \ud83e\udd73\ud83d\ude99",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Please let us keep the Ghostbusters rivian assistant voice!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x5ftue/please_let_us_keep_the_ghostbusters_rivian/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T02:32:05.654Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Please let us keep the Ghostbusters rivian assistant voice!",
+        "summary": "reddit_rivian signal: Please let us keep the Ghostbusters rivian assistant voice!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "How much better can the sound get through software?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x5jj3w/how_much_better_can_the_sound_get_through_software/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-14T06:00:28.303Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: How much better can the sound get through software?",
+        "summary": "reddit_rivian_r2 signal: How much better can the sound get through software?",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "US BEV market: Tesla takes a bigger slice from a smaller pie",
+        "url": "https://www.automotiveworld.com/analysis/us-bev-market-tesla-takes-a-bigger-slice-from-a-smaller-pie/",
+        "source": "automotive_world",
+        "publishedAt": "Wed, 14 Oct 2026 12:37:59 +0000",
+        "score": 0,
+        "snippet": "Tesla has tightened its grip on US electric vehicle sales, though overall demand still trails its 2023/24 peak. By Will Girling The post <a href=\"",
+        "summary": "Tesla has tightened its grip on US electric vehicle sales, though overall demand still trails its 2023/24 peak. By Will Girling The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Ford Opens Fathom EV Pickup Invite List Ahead of Launch",
+        "url": "https://insideevs.com/news/811889/ford-fathom-ev-pickup-preorder-invite/",
+        "source": "insideevs",
+        "publishedAt": "Wed, 14 Oct 2026 09:04:24 +0000",
+        "score": 0,
+        "snippet": "Pre-orders will open next year, but Ford is offering people the chance to beat the crowds.",
+        "summary": "Pre-orders will open next year, but Ford is offering people the chance to beat the crowds.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "The 2027 Rivian R2\u2019s All-Terrain Tires Come with an Unusual On-Road Performance Benefit - Car and Driver",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN285VlRsZVdTOFd1Vm9qbTZLV25QZDh6Y0ZtVmwzZ2VSRTdkaThULWs5T2ZxbXZIWC01QlQ0Q3E3ZnVhU3VrWXhXS1lJVGdHNzhmdDcyZ2YyeVdSSHJON3otcWdMRlJ1eWhHaExMQ0ZjTEhHNnZoUHdXaTNwUU04dHpPbHlKX1VI?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 14 Oct 2026 13:44:37 GMT",
+        "score": 0,
+        "snippet": "The 2027 Rivian R2\u2019s All-Terrain Tires Come with an Unusual On-Road Performance Benefit - Car and Driver",
+        "summary": "The 2027 Rivian R2\u2019s All-Terrain Tires Come with an Unusual On-Road Performance Benefit - Car and Driver",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "I drove the Lucid Gravity for a week \u2014 and it sets a new benchmark for electric SUVs - Tom's Guide",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSXRCOVBZS2tEMDNaUHltcWZaakwzTHFQVlpIc2owSmoxeDlHTmZZdFBEa043S3MzV192NzA0QWowQ0lFNkw1emNZTGpMTTZjb3luNmp4VXd1ZXFGTjIzY01reGZfYkZXN2pqZDVvcnJIaW13b1pB?oc=5",
+        "source": "google_news_lucid",
+        "publishedAt": "Wed, 14 Oct 2026 07:30:00 GMT",
+        "score": 0,
+        "snippet": "I drove the Lucid Gravity for a week \u2014 and it sets a new benchmark for electric SUVs - Tom's Guide",
+        "summary": "I drove the Lucid Gravity for a week \u2014 and it sets a new benchmark for electric SUVs - Tom's Guide",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian R2 Buyers Are Canceling Orders Over a Seat Feature Change.\n\nRead more: bi",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mxtod7p72y2d",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T13:40:18.854Z",
+        "score": 0,
+        "snippet": "Rivian R2 Buyers Are Canceling Orders Over a Seat Feature Change. Read more: bit.ly/3UopGvu",
+        "summary": "Rivian R2 Buyers Are Canceling Orders Over a Seat Feature Change. Read more: bit.ly/3UopGvu",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@porcellato.bsky.social (Bluesky): Rivian Will Squeeze More Juice Out of Its Old Batteries by Expanding This 1 Key ",
+        "url": "https://bsky.app/profile/did:plc:3eiwusriemnybmaqb4adhb45/post/3mxtn7mrcz52w",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T13:20:23.667Z",
+        "score": 0,
+        "snippet": "Rivian Will Squeeze More Juice Out of Its Old Batteries by Expanding This 1 Key Partnership",
+        "summary": "Rivian Will Squeeze More Juice Out of Its Old Batteries by Expanding This 1 Key Partnership",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@blueresearch.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:kwntu4mgap2otpkyzq5bchim/post/3mxtnablofu2q",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T13:20:45.656Z",
+        "score": 0,
+        "snippet": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @blueresearch.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@neilmitch.bsky.social (Bluesky): Why my next car won\u2019t be a Tesla (Rivian will get my money): apnews.com/article/",
+        "url": "https://bsky.app/profile/did:plc:246ettiegwnfw4nc2ow5geg5/post/3mxtltb22us2v",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T12:56:10.155Z",
+        "score": 0,
+        "snippet": "Why my next car won\u2019t be a Tesla (Rivian will get my money): apnews.com/article/elon...",
+        "summary": "Why my next car won\u2019t be a Tesla (Rivian will get my money): apnews.com/article/elon...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@evnewsdaily.bsky.social (Bluesky): Rivian R2 launches: 330-mile range, 656 HP, $44,990. A new EV SUV contender\n\nSpo",
+        "url": "https://bsky.app/profile/did:plc:ah7adzz4iiqh4pqtv4repaw2/post/3mxthhfuutg2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T11:37:23.552Z",
+        "score": 0,
+        "snippet": "Rivian R2 launches: 330-mile range, 656 HP, $44,990. A new EV SUV contender Sponsor this channel now.",
+        "summary": "Rivian R2 launches: 330-mile range, 656 HP, $44,990. A new EV SUV contender Sponsor this channel now.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@openclassactions.bsky.social (Bluesky): $RIVN: Case 8:26-cv-01564 covers 2022-2024 R1T and R1S buyers from Oct. 1, 2021.",
+        "url": "https://bsky.app/profile/did:plc:icarsef7tgh7qpcwp45k2qgq/post/3mxtgx6cemk2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T11:28:18.362Z",
+        "score": 0,
+        "snippet": "$RIVN: Case 8:26-cv-01564 covers 2022-2024 R1T and R1S buyers from Oct. 1, 2021. Plaintiffs allege Rivian promised Level 3 in its 2021 IPO filing. No class certified: openclassactions.com/lawsuits/aut",
+        "summary": "$RIVN: Case 8:26-cv-01564 covers 2022-2024 R1T and R1S buyers from Oct. 1, 2021. Plaintiffs allege Rivian promised Level 3 in its 2021 IPO filing. No class certified: openclassactions.com/lawsuits/aut",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@cprax.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:5cvob7pie7aflwdtimq2xqrv/post/3mxtggk36222l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T11:18:59.655Z",
+        "score": 0,
+        "snippet": "bluesky signal: @cprax.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @cprax.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@pt.technopolis.news (Bluesky): A Mind Robotics, startup de intelig\u00eancia artificial (IA) industrial e rob\u00f3tica q",
+        "url": "https://bsky.app/profile/did:plc:ynoppqrs5okb3mwd7crnyhfn/post/3mxtfrv5i6r2f",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T11:07:27.181Z",
+        "score": 0,
+        "snippet": "A Mind Robotics, startup de intelig\u00eancia artificial (IA) industrial e rob\u00f3tica que a Rivian criou no ano passado, contratou o ex-chefe de ve\u00edculos el\u00e9tricos da Ford, Doug Field, como presidente para c",
+        "summary": "A Mind Robotics, startup de intelig\u00eancia artificial (IA) industrial e rob\u00f3tica que a Rivian criou no ano passado, contratou o ex-chefe de ve\u00edculos el\u00e9tricos da Ford, Doug Field, como presidente para c",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@seppp.bsky.social (Bluesky): This could help $RIVN with better factory automation that will eventually lower ",
+        "url": "https://bsky.app/profile/did:plc:qza7jk6dg254ltenhgqsx5wc/post/3mxtf6tq5ks2v",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T10:56:50.678Z",
+        "score": 0,
+        "snippet": "This could help $RIVN with better factory automation that will eventually lower production costs, which has been the main challenge.",
+        "summary": "This could help $RIVN with better factory automation that will eventually lower production costs, which has been the main challenge.",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@baloo.bsky.social (Bluesky): Toyota, Lexus, Honda sont \"fiables\" parce que \u00e7a fait 40 ans qu'ils fabriquent l",
+        "url": "https://bsky.app/profile/did:plc:pb4yv7z6dyzv5lp7diunycdi/post/3mxtefdqhds2f",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T10:42:32.253Z",
+        "score": 0,
+        "snippet": "Toyota, Lexus, Honda sont \"fiables\" parce que \u00e7a fait 40 ans qu'ils fabriquent les m\u00eames voitures. Normal que \u00e7a soit rendu correct avec autant de pratique. Rivian est une startup, faut pas s'attendre",
+        "summary": "Toyota, Lexus, Honda sont \"fiables\" parce que \u00e7a fait 40 ans qu'ils fabriquent les m\u00eames voitures. Normal que \u00e7a soit rendu correct avec autant de pratique. Rivian est une startup, faut pas s'attendre",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@dmartingomez.bsky.social (Bluesky): Pues parece que Peter Venkman ha respondido a la \u00faltima llamada realizada a los ",
+        "url": "https://bsky.app/profile/did:plc:55olby6q64szjt7ge4brjzgk/post/3mxt7s7wrck27",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T09:20:18.159Z",
+        "score": 0,
+        "snippet": "Pues parece que Peter Venkman ha respondido a la \u00faltima llamada realizada a los \"Cazafantasmas\"... youtu.be/AzErJdWUDTE?...",
+        "summary": "Pues parece que Peter Venkman ha respondido a la \u00faltima llamada realizada a los \"Cazafantasmas\"... youtu.be/AzErJdWUDTE?...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@phecdaplato.bsky.social (Bluesky): \ud83c\udf19\u2728\ud83e\udebe\ud83c\udf2c\ufe0f\ud83c\udf88\ud83e\udee7\ud83d\ude05\ud83d\ude05\ud83e\udd1e\ud83c\udffb\u2764\ufe0f\u200d\ud83d\udd25",
+        "url": "https://bsky.app/profile/did:plc:i3jtoyecbzxxpbcevvw5dom6/post/3mxt2mbtbkc2d",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T07:47:28.655Z",
+        "score": 4,
+        "snippet": "\ud83c\udf19\u2728\ud83e\udebe\ud83c\udf2c\ufe0f\ud83c\udf88\ud83e\udee7\ud83d\ude05\ud83d\ude05\ud83e\udd1e\ud83c\udffb\u2764\ufe0f\u200d\ud83d\udd25",
+        "summary": "\ud83c\udf19\u2728\ud83e\udebe\ud83c\udf2c\ufe0f\ud83c\udf88\ud83e\udee7\ud83d\ude05\ud83d\ude05\ud83e\udd1e\ud83c\udffb\u2764\ufe0f\u200d\ud83d\udd25",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      }
+    ]
   }
 ]
