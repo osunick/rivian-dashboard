@@ -11480,5 +11480,586 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-14T19:01:52.246062-07:00",
+    "timestamp": "2026-10-14T19:01:52.246062-07:00",
+    "sentiment": {
+      "positive": 8,
+      "neutral": 82,
+      "negative": 8
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 7,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 4,
+        "sentiment": "positive"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 14,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 26,
+        "sentiment": null
+      },
+      "business": {
+        "found": 3,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 3,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Business",
+      "Charging",
+      "Charging Access",
+      "Community Signals",
+      "Competitive Threats",
+      "R2 Launch",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "35 signals across Vehicles (26), Business (3); watch Vehicle Demand, Business",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Wednesday, October 14, 2026 \u2014 7:01 PM PT \u2014 35 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 3 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 32 Rivian signals clustered around Vehicles (26), Business (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 3 negative signals; watch Vehicle Demand, Business, Competitive Threats.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (3)\n\u2022 *Competitive Threats:* A merger between Elon Musk\u2019s Tesla Inc. and SpaceX could be announced ahead of the electric-vehicle maker\u2019s annual general meeting, according to analysts at Barclays.\n  https://www.bloomberg.com/news/articles/2026-10-14/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says\n\u2022 *Competitive Threats:* <img src=\"\n  https://electrek.co/2026/10/14/delorean-may-have-a-flying-car-in-the-air-before-tesla-does-video/\n\u2022 *Competitive Threats:* BMW overh\n  https://electrek.co/2026/10/14/bmws-new-flagship-i7-chauffeur-vehicle/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (26)* \u2022 reddit_rivian signal: Has anyone here worked for Rivian as a product guide?\n  https://www.reddit.com/r/Rivian/comments/1x68bvk/has_anyone_here_worked_for_rivian_as_a_product/\n*Business (3)* \u2022 Rivian Automotive (NASDAQ:RIVN) Stock Falls 3.1% - Time to Sell? - MarketBeat\n  https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcC1VM25PMzlPbzVuei1hYnBKYlZjTldlUWdhZGpWV19IOG10UFFpbGpPSTJSc2d4NTJ5SmhEcFQ1S0dZX0VWdTFRMUpCN3QyWEJVYU4xMVZ0aEFYbFVHOGRRQ1NteVRLLXlyQUV5MkllNTFmaDBCbXFSSFRQNG1jMll3LVBmTjZvRkgydzMyQVl2U2JBT2N6NVlMZXBoaG5zcnM5cGRVR1lfcXdXSVRDOXpHQk1xRURW?oc=5\n*Software (2)* \u2022 reddit_rivian signal: Halloween update\n  https://www.reddit.com/r/Rivian/comments/1x66271/halloween_update/\n*Community (1)* \u2022 With more cornering grip and better braking, are these all-terrain tires some sort of magic rubber?\n  https://bsky.app/profile/did:plc:j2xma7apv4txm3tvik433nrx/post/3mxugw46uz224\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Business\n\u2022 Charging\n\u2022 Charging Access\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Has anyone here worked for Rivian as a product guide?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x68bvk/has_anyone_here_worked_for_rivian_as_a_product/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T01:01:30.458Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Has anyone here worked for Rivian as a product guide?",
+        "summary": "reddit_rivian signal: Has anyone here worked for Rivian as a product guide?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Could R3X fit into a WRC27 package?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x67wxk/could_r3x_fit_into_a_wrc27_package/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T00:40:43.225Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Could R3X fit into a WRC27 package?",
+        "summary": "reddit_rivian signal: Could R3X fit into a WRC27 package?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Spotted two Rivia mating in the wild!",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x67w9z/spotted_two_rivia_mating_in_the_wild/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T00:39:49.048Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Spotted two Rivia mating in the wild!",
+        "summary": "reddit_rivian signal: Spotted two Rivia mating in the wild!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R1s owners, question about steering and handling",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x66vnn/r1s_owners_question_about_steering_and_handling/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T23:51:54.906Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1s owners, question about steering and handling",
+        "summary": "reddit_rivian signal: R1s owners, question about steering and handling",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Top Gear picks the R2 over the iX3",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x66uvl/top_gear_picks_the_r2_over_the_ix3/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T23:50:48.047Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Top Gear picks the R2 over the iX3",
+        "summary": "reddit_rivian signal: Top Gear picks the R2 over the iX3",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Halloween update",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x66271/halloween_update/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T23:13:18.700Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Halloween update",
+        "summary": "reddit_rivian signal: Halloween update",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "2025 R1T - Included Adapters",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x65c07/2025_r1t_included_adapters/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-14T22:40:22.975Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: 2025 R1T - Included Adapters",
+        "summary": "reddit_rivian signal: 2025 R1T - Included Adapters",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Contact with service center leading up to delivery?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x68ysq/contact_with_service_center_leading_up_to_delivery/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-15T01:33:26.589Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Contact with service center leading up to delivery?",
+        "summary": "reddit_rivian_r2 signal: Contact with service center leading up to delivery?",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "OG R1T G1 - QUAD LARGE PK GW+OC  -> R2 GW+CC Transition Experience",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x66ycj/og_r1t_g1_quad_large_pk_gwoc_r2_gwcc_transition/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-14T23:55:35.931Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: OG R1T G1 - QUAD LARGE PK GW+OC -> R2 GW+CC Transition Experience",
+        "summary": "reddit_rivian_r2 signal: OG R1T G1 - QUAD LARGE PK GW+OC -> R2 GW+CC Transition Experience",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Got our order invite today",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x6674d/got_our_order_invite_today/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-14T23:19:39.460Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Got our order invite today",
+        "summary": "reddit_rivian_r2 signal: Got our order invite today",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Got my invite to order this morning!",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x5tcaq/got_my_invite_to_order_this_morning/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-14T14:54:06.859Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Got my invite to order this morning!",
+        "summary": "reddit_rivian_r2 signal: Got my invite to order this morning!",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2\u2019s All-Terrain Tires Have a Strange On-Road Performance Benefit",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1x646l3/rivian_r2s_allterrain_tires_have_a_strange_onroad/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-14T21:50:42.881Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Rivian R2\u2019s All-Terrain Tires Have a Strange On-Road Performance Benefit",
+        "summary": "reddit_electricvehicles signal: Rivian R2\u2019s All-Terrain Tires Have a Strange On-Road Performance Benefit",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Top Gear - New Rivian R2 vs BMW iX3! | 4K",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1x5zjlb/top_gear_new_rivian_r2_vs_bmw_ix3_4k/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-14T18:47:09.206Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Top Gear - New Rivian R2 vs BMW iX3! | 4K",
+        "summary": "reddit_electricvehicles signal: Top Gear - New Rivian R2 vs BMW iX3! | 4K",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla-SpaceX Deal News Possible This Year, Barclays Analyst Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says",
+        "source": "bloomberg_tech",
+        "publishedAt": "Wed, 14 Oct 2026 21:13:13 GMT",
+        "score": 0,
+        "snippet": "A merger between Elon Musk\u2019s Tesla Inc. and SpaceX could be announced ahead of the electric-vehicle maker\u2019s annual general meeting, according to analysts at Barclays.",
+        "summary": "A merger between Elon Musk\u2019s Tesla Inc. and SpaceX could be announced ahead of the electric-vehicle maker\u2019s annual general meeting, according to analysts at Barclays.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "DeLorean may have a flying car in the air before Tesla does [video]",
+        "url": "https://electrek.co/2026/10/14/delorean-may-have-a-flying-car-in-the-air-before-tesla-does-video/",
+        "source": "electrek",
+        "publishedAt": "Wed, 14 Oct 2026 20:29:55 +0000",
+        "score": 0,
+        "snippet": "<img src=\"",
+        "summary": "<img src=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BMW\u2019s new flagship i7 makes a great chauffeur vehicle [Images]",
+        "url": "https://electrek.co/2026/10/14/bmws-new-flagship-i7-chauffeur-vehicle/",
+        "source": "electrek",
+        "publishedAt": "Wed, 14 Oct 2026 19:57:26 +0000",
+        "score": 0,
+        "snippet": "BMW overh",
+        "summary": "BMW overh",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "What Is Rivian Building That Investors Should Watch? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2NfLXR0UlJYc0pxcGJUS0xubk5JdXFVUnpjLUs0d2Q4a1hrYzB0bEotYXp6Y0poTnhLSkFpdzRmaGQ5OXFMVTAxY1JZbWE4ZDR1VFVKM2w1WjNKMGFCTHBNYkhmeEE2XzVpOE0zc21sNFl6Qm9zRzdzbnVseF95NUNIbGg4dFN6RGNCMkp0YmpWXy0tazVNVEVDb1o?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 14 Oct 2026 21:38:54 GMT",
+        "score": 0,
+        "snippet": "What Is Rivian Building That Investors Should Watch? - Yahoo Finance",
+        "summary": "What Is Rivian Building That Investors Should Watch? - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Automotive (NASDAQ:RIVN) Stock Falls 3.1% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcC1VM25PMzlPbzVuei1hYnBKYlZjTldlUWdhZGpWV19IOG10UFFpbGpPSTJSc2d4NTJ5SmhEcFQ1S0dZX0VWdTFRMUpCN3QyWEJVYU4xMVZ0aEFYbFVHOGRRQ1NteVRLLXlyQUV5MkllNTFmaDBCbXFSSFRQNG1jMll3LVBmTjZvRkgydzMyQVl2U2JBT2N6NVlMZXBoaG5zcnM5cGRVR1lfcXdXSVRDOXpHQk1xRURW?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 14 Oct 2026 21:50:49 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive (NASDAQ:RIVN) Stock Falls 3.1% - Time to Sell? - MarketBeat",
+        "summary": "Rivian Automotive (NASDAQ:RIVN) Stock Falls 3.1% - Time to Sell? - MarketBeat",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "RIVN Stock Slumps Overnight: Rivian Director, Foundation File Stock Sale Notices Amid $1.5B Offering Plan - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkRXUk1mV2ZoZzlzdEkxTTNVUUpkNG9Uc1NOUS1KY24wY1h4dTZCcFU1ZFZjU0NfR19sal9fdEFaVVFLMW8xQU51S3djS2NORzU4d2k4UV96aE5XZG5zay1NbERvakxNSm9ic0lzYkl4YjJQdjVEVEpxNmdiQi1PT0ozYWs0b2xLeGI2eFU5akMwaFVfWU9VLTRIYlBvN0oyZHNOeXNEVm5EQTM0UGY5SVNOYw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 14 Oct 2026 15:15:07 GMT",
+        "score": 0,
+        "snippet": "RIVN Stock Slumps Overnight: Rivian Director, Foundation File Stock Sale Notices Amid $1.5B Offering Plan - Stocktwits",
+        "summary": "RIVN Stock Slumps Overnight: Rivian Director, Foundation File Stock Sale Notices Amid $1.5B Offering Plan - Stocktwits",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian R2 Gets Ross Gerber\u2019s Nod As He Advises Ditching Gas To Escape Energy Inflation - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS1pUeVRvMEZoRF9hREJiS0dIdjhBNmtHS1hxbWh3eDhnYXNCU0s3dms2dTRBMmtWbGxNd1FLUHc5Q3dDaDBlXzlva0hEdGN1aEpwbTAyWEpNX2FvWmRoWVBNcU9SX25hOVNCd3FObHZZcnh3MWI2aFJ3a1RpSVc2aWJPdXFmOW5XWklaQkJlek4tWTcwbTdRdE1jY05YN2NVbzA2UHllaFZiZlRhM2hZV3VvOFMtdHpuTkFXQzdfTGI5dXRXQU1sNTZHNzRsYjFpckVTZUpQMklMdW9NS0U2YV82aDQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Wed, 14 Oct 2026 20:44:48 GMT",
+        "score": 0,
+        "snippet": "Rivian R2 Gets Ross Gerber\u2019s Nod As He Advises Ditching Gas To Escape Energy Inflation - Stocktwits",
+        "summary": "Rivian R2 Gets Ross Gerber\u2019s Nod As He Advises Ditching Gas To Escape Energy Inflation - Stocktwits",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "This Is Weird: 2027 Rivian R2 Performance All-Terrain vs. All-Season Tire Test Results - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOUU0bnMwZU50R1ptMGRYQlNTNWtiSENZNFIwWGlhdEVoT05NaUpnZU1wYnd2MkU3QVJHa1drTE92bWR1X0F2V2FBZXBaOTJMNXVuVngwREhFLTk5WFl1cndJSE1PcTNMU0IyUm4zNGxqdWFpQU5Zb2o0azV2U2ZVakFB?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
+        "score": 0,
+        "snippet": "This Is Weird: 2027 Rivian R2 Performance All-Terrain vs. All-Season Tire Test Results - AOL.com",
+        "summary": "This Is Weird: 2027 Rivian R2 Performance All-Terrain vs. All-Season Tire Test Results - AOL.com",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@slashgear.bsky.social (Bluesky): Some family trucks rated better than the Chevrolet Silverado include 2026 models",
+        "url": "https://bsky.app/profile/did:plc:ashibln7aawnyzaz4sbk75tw/post/3mxuxm4qnpd2p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T01:59:01.854Z",
+        "score": 0,
+        "snippet": "Some family trucks rated better than the Chevrolet Silverado include 2026 models of the Chevy Colorado, Ford F-150 and Maverick, Ram 1500, and the Rivian R1T.",
+        "summary": "Some family trucks rated better than the Chevrolet Silverado include 2026 models of the Chevy Colorado, Ford F-150 and Maverick, Ram 1500, and the Rivian R1T.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian R2 Buyers Are Canceling Orders Over a Seat Feature Change.\n\nRead more: bi",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mxuoq4b3zp2r",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T23:20:10.364Z",
+        "score": 0,
+        "snippet": "Rivian R2 Buyers Are Canceling Orders Over a Seat Feature Change. Read more: bit.ly/3U4wf6j",
+        "summary": "Rivian R2 Buyers Are Canceling Orders Over a Seat Feature Change. Read more: bit.ly/3U4wf6j",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian just hired Jody Kerns, who ran Cybercab general assembly at Tesla\u2019s Giga ",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mxunsehk7k2h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T23:03:34.464Z",
+        "score": 9,
+        "snippet": "Rivian just hired Jody Kerns, who ran Cybercab general assembly at Tesla\u2019s Giga Texas, to lead R2 general assembly in Normal. Good timing with the second R2 shift now in place. riviantrackr.com/news/",
+        "summary": "Rivian just hired Jody Kerns, who ran Cybercab general assembly at Tesla\u2019s Giga Texas, to lead R2 general assembly in Normal. Good timing with the second R2 shift now in place. riviantrackr.com/news/",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Not much of a difference between @Rivian R1S Gen 1 and Gen 2 externally. No one ",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mxunof4fix2z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T23:01:19.253Z",
+        "score": 0,
+        "snippet": "Not much of a difference between @Rivian R1S Gen 1 and Gen 2 externally. No one noticed the exterior traffic lights until it was released.",
+        "summary": "Not much of a difference between @Rivian R1S Gen 1 and Gen 2 externally. No one noticed the exterior traffic lights until it was released.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): OpenSourceEV DCFC to NACS Adapter Holder for Rivian R2 \nThis OpenSourceEV.com Ad",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxulaeu3ne2p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T22:17:42.057Z",
+        "score": 0,
+        "snippet": "OpenSourceEV DCFC to NACS Adapter Holder for Rivian R2 This OpenSourceEV.com Adapter Holder holds a CCS-1 DCFC to NACS charging adapter securely in the driver door pocket. Printables: buff.ly/nVRKR",
+        "summary": "OpenSourceEV DCFC to NACS Adapter Holder for Rivian R2 This OpenSourceEV.com Adapter Holder holds a CCS-1 DCFC to NACS charging adapter securely in the driver door pocket. Printables: buff.ly/nVRKR",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "Charging Access"
+        ]
+      },
+      {
+        "title": "@hilbe.bsky.social (Bluesky): \nCheck out a few free 3D printable models from OpenSourceEV!\n\nOpenSourceEV DCFC ",
+        "url": "https://bsky.app/profile/did:plc:bdz542qirdhgunhb2wtsvvkt/post/3mxulad4tb42h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T22:17:40.360Z",
+        "score": 0,
+        "snippet": "Check out a few free 3D printable models from OpenSourceEV! OpenSourceEV DCFC + J1772 to NACS Adapter Holder for Rivian R2 This OpenSourceEV.com Adapter Holder holds a CCS1 + J1772 to NACS charging",
+        "summary": "Check out a few free 3D printable models from OpenSourceEV! OpenSourceEV DCFC + J1772 to NACS Adapter Holder for Rivian R2 This OpenSourceEV.com Adapter Holder holds a CCS1 + J1772 to NACS charging",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Charging",
+          "Charging Access"
+        ]
+      },
+      {
+        "title": "@finescents.bsky.social (Bluesky): F Slate and Rivian too, those Amazon/Bezos owned companies.",
+        "url": "https://bsky.app/profile/did:plc:clnzguyfdobowwd23qm4azdd/post/3mxul6xc7nk2d",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T22:16:54.352Z",
+        "score": 1,
+        "snippet": "F Slate and Rivian too, those Amazon/Bezos owned companies.",
+        "summary": "F Slate and Rivian too, those Amazon/Bezos owned companies.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ilenergynetwork.bsky.social (Bluesky): Rivian Expands Redwood Materials Deal to Cover Full Battery Lifecycle | EV",
+        "url": "https://bsky.app/profile/did:plc:4gljoij4roppiht3j4bzcnp7/post/3mxukjurou32o",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T22:05:07.155Z",
+        "score": 0,
+        "snippet": "Rivian Expands Redwood Materials Deal to Cover Full Battery Lifecycle | EV",
+        "summary": "Rivian Expands Redwood Materials Deal to Cover Full Battery Lifecycle | EV",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ilenergynetwork.bsky.social (Bluesky): Rivian and Redwood Materials Expand Partnership to Span the Lifecycle of the Bat",
+        "url": "https://bsky.app/profile/did:plc:4gljoij4roppiht3j4bzcnp7/post/3mxuh6i3b7j2e",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T21:05:03.253Z",
+        "score": 0,
+        "snippet": "Rivian and Redwood Materials Expand Partnership to Span the Lifecycle of the Battery",
+        "summary": "Rivian and Redwood Materials Expand Partnership to Span the Lifecycle of the Battery",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@caranddriver.bsky.social (Bluesky): With more cornering grip and better braking, are these all-terrain tires some so",
+        "url": "https://bsky.app/profile/did:plc:j2xma7apv4txm3tvik433nrx/post/3mxugw46uz224",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T21:00:22.168Z",
+        "score": 6,
+        "snippet": "With more cornering grip and better braking, are these all-terrain tires some sort of magic rubber?",
+        "summary": "With more cornering grip and better braking, are these all-terrain tires some sort of magic rubber?",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@the-mda.bsky.social (Bluesky): I think you\u2019re saying Rivian wouldn\u2019t exist if BYD was sold here and I\u2019m not sur",
+        "url": "https://bsky.app/profile/did:plc:57ixh57rrilzdgvhmyqelnvg/post/3mxugpy3ouc2k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T20:56:56.754Z",
+        "score": 0,
+        "snippet": "I think you\u2019re saying Rivian wouldn\u2019t exist if BYD was sold here and I\u2019m not sure I agree with that.",
+        "summary": "I think you\u2019re saying Rivian wouldn\u2019t exist if BYD was sold here and I\u2019m not sure I agree with that.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@brennan.sstools.co (Bluesky): Rivian Halloween\nyoutu.be/AzErJdWUDTE?...",
+        "url": "https://bsky.app/profile/did:plc:ogqlsbhqb3r3yyj4oo4z4v2g/post/3mxugf4e4tc2w",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T20:50:53.273Z",
+        "score": 0,
+        "snippet": "Rivian Halloween youtu.be/AzErJdWUDTE?...",
+        "summary": "Rivian Halloween youtu.be/AzErJdWUDTE?...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Rivian\u2019s upcoming 2026.41 update will stop exterior camera image collection when",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mxuaqzk6o22k",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T19:10:10.855Z",
+        "score": 9,
+        "snippet": "Rivian\u2019s upcoming 2026.41 update will stop exterior camera image collection whenever your Gen 2 R1 or R2 is near a saved Navigation location, replacing the 3-minute timer it uses today. riviantrackr.",
+        "summary": "Rivian\u2019s upcoming 2026.41 update will stop exterior camera image collection whenever your Gen 2 R1 or R2 is near a saved Navigation location, replacing the 3-minute timer it uses today. riviantrackr.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@zamafir.bsky.social (Bluesky): Wild idea, comparing models not available in market for *years*.\n\nI guess U.S. a",
+        "url": "https://bsky.app/profile/did:plc:umncueb2ocbv72q76q2xxqov/post/3mxuadsjmqk2r",
+        "source": "bluesky",
+        "publishedAt": "2026-10-14T19:02:46.060Z",
+        "score": 2,
+        "snippet": "Wild idea, comparing models not available in market for *years*. I guess U.S. automotive outlets should start doing tons of comparisons with Chinese vehicles vs the few one off drives. \ud83d\ude08",
+        "summary": "Wild idea, comparing models not available in market for *years*. I guess U.S. automotive outlets should start doing tons of comparisons with Chinese vehicles vs the few one off drives. \ud83d\ude08",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
