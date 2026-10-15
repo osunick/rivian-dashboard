@@ -12061,5 +12061,489 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-15T07:01:42.400046-07:00",
+    "timestamp": "2026-10-15T07:01:42.400046-07:00",
+    "sentiment": {
+      "positive": 3,
+      "neutral": 96,
+      "negative": 0
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "reddit_electricvehicles": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "nytimes_tech": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bluesky": {
+        "found": 9,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 0,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 21,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 1,
+        "sentiment": null
+      },
+      "community": {
+        "found": 2,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 4,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Community Signals",
+      "Competitive Threats",
+      "EV Market",
+      "R2 Launch",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "28 signals across Vehicles (21), Competitive (4); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, October 15, 2026 \u2014 7:01 AM PT \u2014 28 signals \u00b7 3 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 4 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 24 Rivian signals clustered around Vehicles (21), Community (2).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with no negative signals; watch Vehicle Demand, Competitive Threats, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (4)\n\u2022 *Competitive Threats:* reddit_electricvehicles signal: Who has driven the BMW i5 eDrive40 or i7 eDrive50? can't decide on what to rent for vacation\n  https://www.reddit.com/r/electricvehicles/comments/1x6d4sm/who_has_driven_the_bmw_i5_edrive40_or_i7_edrive50/\n\u2022 *Competitive Threats:* Elon Musk\u2019s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.\n  https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html\n\u2022 *Competitive Threats:* That\u2019s more than many gas-powered sedans on the road today.\n  https://insideevs.com/news/812073/bmw-i3-753-miles-range-test-ev/\n\u2022 *Competitive Threats:* Waymo crash map shows hundreds of driverless car collisions across LA - New York Post\n  https://news.google.com/rss/articles/CBMikwFBVV95cUxPajhtV1ZDYmVLV0N6OHVPcmRJX2p1VzQ3UlJ4TklmUDJqYTF4Vjg4LU85akpUZF9xb24yam9hSGtDamlfbGVpQ1hfTFZjbWJXU291REJRdmFJNzJkaDFzak1XR1ZkUG5NYnJmdUwycTAzV0RsR0RzU0JYdHd0dzZoa1BHUWEzUXJrMERqTElxRmczQzQ?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (0)* \u2022 No signals\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (21)* \u2022 reddit_rivian signal: The clock is too damn small and UI complains\n  https://www.reddit.com/r/Rivian/comments/1x6maw8/the_clock_is_too_damn_small_and_ui_complains/\n*Business (0)* \u2022 No signals\n*Software (1)* \u2022 Our Rivian R1T (Gen 1) still does not have the Ghostbusters update. Anyone know if this is typical, and if not, how to force an update?\n  https://bsky.app/profile/did:plc:mggrwrnm5o6oubjkevkb45zt/post/3mxw4w6j3222i\n*Community (2)* \u2022 @malars.bsky.social insideevs.com/news/812033/...\n  https://bsky.app/profile/did:plc:tlxpzpsmumfwzy3ghs7yndft/post/3mxw5ywh4zc2m\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 EV Market\n\u2022 R2 Launch\n\u2022 Software\n\u2022 Tesla Competition\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "The clock is too damn small and UI complains",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6maw8/the_clock_is_too_damn_small_and_ui_complains/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T13:55:30.407Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: The clock is too damn small and UI complains",
+        "summary": "reddit_rivian signal: The clock is too damn small and UI complains",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Will it go 175 miles in winter without needing a charge?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6lerb/will_it_go_175_miles_in_winter_without_needing_a/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T13:16:55.397Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Will it go 175 miles in winter without needing a charge?",
+        "summary": "reddit_rivian signal: Will it go 175 miles in winter without needing a charge?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Will it go 175 miles in winter without needing a charge?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x6ldlu/will_it_go_175_miles_in_winter_without_needing_a/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T13:16:55.397Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Will it go 175 miles in winter without needing a charge?",
+        "summary": "reddit_rivian signal: Will it go 175 miles in winter without needing a charge?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "TKM Auto r1t bed cap?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6l907/tkm_auto_r1t_bed_cap/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T13:11:23.615Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: TKM Auto r1t bed cap?",
+        "summary": "reddit_rivian signal: TKM Auto r1t bed cap?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Paying for UHF",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6d292/paying_for_uhf/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T05:13:00.174Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Paying for UHF",
+        "summary": "reddit_rivian signal: Paying for UHF",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Warranty repair - panel on roof",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6bmpn/warranty_repair_panel_on_roof/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T03:51:43.537Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Warranty repair - panel on roof",
+        "summary": "reddit_rivian signal: Warranty repair - panel on roof",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "From a $31K Volkswagen to a $60K Rivian \u2014 Apparently, Reliability Is Now a Luxury Feature",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6a6aq/from_a_31k_volkswagen_to_a_60k_rivian_apparently/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T02:33:43.986Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: From a $31K Volkswagen to a $60K Rivian \u2014 Apparently, Reliability Is Now a Luxury Feature",
+        "summary": "reddit_rivian signal: From a $31K Volkswagen to a $60K Rivian \u2014 Apparently, Reliability Is Now a Luxury Feature",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "From a $31K Volkswagen to a $60K Rivian \u2014 Apparently, Reliability Is Now a Luxury Feature",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x6a5p6/from_a_31k_volkswagen_to_a_60k_rivian_apparently/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T02:33:43.986Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: From a $31K Volkswagen to a $60K Rivian \u2014 Apparently, Reliability Is Now a Luxury Feature",
+        "summary": "reddit_rivian signal: From a $31K Volkswagen to a $60K Rivian \u2014 Apparently, Reliability Is Now a Luxury Feature",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Am I a bad person if I check for my VIN hourly?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x6ap88/am_i_a_bad_person_if_i_check_for_my_vin_hourly/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-15T03:01:48.065Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Am I a bad person if I check for my VIN hourly?",
+        "summary": "reddit_rivian_r2 signal: Am I a bad person if I check for my VIN hourly?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "New Rivian R2 vs BMW iX3! | 4K",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1x6fjg8/new_rivian_r2_vs_bmw_ix3_4k/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-15T07:48:21.701Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: New Rivian R2 vs BMW iX3! | 4K",
+        "summary": "reddit_electricvehicles signal: New Rivian R2 vs BMW iX3! | 4K",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Who has driven the BMW i5 eDrive40 or i7 eDrive50? can't decide on what to rent for vacation",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1x6d4sm/who_has_driven_the_bmw_i5_edrive40_or_i7_edrive50/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-15T05:17:06.169Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Who has driven the BMW i5 eDrive40 or i7 eDrive50? can't decide on what to rent for vacation",
+        "summary": "reddit_electricvehicles signal: Who has driven the BMW i5 eDrive40 or i7 eDrive50? can't decide on what to rent for vacation",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+        "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
+        "source": "nytimes_tech",
+        "publishedAt": "Thu, 15 Oct 2026 12:17:34 +0000",
+        "score": 0,
+        "snippet": "Elon Musk\u2019s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
+        "summary": "Elon Musk\u2019s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "A BMW i3 EV Went 753 Miles On A Single Charge. Its Energy Consumption Was Astonishing",
+        "url": "https://insideevs.com/news/812073/bmw-i3-753-miles-range-test-ev/",
+        "source": "insideevs",
+        "publishedAt": "Thu, 15 Oct 2026 10:58:45 +0000",
+        "score": 0,
+        "snippet": "That\u2019s more than many gas-powered sedans on the road today.",
+        "summary": "That\u2019s more than many gas-powered sedans on the road today.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian Is Taking Its Battery Recycling Game To The Next Level",
+        "url": "https://insideevs.com/news/812033/rivian-battery-recycling-energy-storage/",
+        "source": "insideevs",
+        "publishedAt": "Thu, 15 Oct 2026 08:01:50 +0000",
+        "score": 0,
+        "snippet": "From manufacturing scrap to batteries that are no longer suitable for EVs, nothing is wasted.",
+        "summary": "From manufacturing scrap to batteries that are no longer suitable for EVs, nothing is wasted.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla loses Cybercab assembly lead to Rivian R2 weeks after launch",
+        "url": "https://electrek.co/2026/10/15/tesla-cybercab-assembly-lead-leaves-rivian-r2/",
+        "source": "electrek",
+        "publishedAt": "Thu, 15 Oct 2026 12:43:06 +0000",
+        "score": 0,
+        "snippet": "Tesla\u2019s",
+        "summary": "Tesla\u2019s",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s R2 Becomes Washington\u2019s Second Most-Titled EV Behind Model Y - Electric Vehicles",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGxQMmFoTWlxeXRaZXZNOU52OHB3cEZyUS1qeGU3SFR0cVRBY1ZpOHA5TDcwRTZpMEFFdklKOTdvV2dSSW9fbzZacEcxMkV5RDdvQWFZWkJqemprNFUwMVp2bGlVbUVsbnhuTHFzcWw0NXVxQnliSTBobXVOWG5HYUh1VlJtbFpFVmxXX1JxTGpFOE8zQ3AxbEpkZmtZRDdPbEF5Q2pTYw?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 15 Oct 2026 09:11:59 GMT",
+        "score": 0,
+        "snippet": "Rivian\u2019s R2 Becomes Washington\u2019s Second Most-Titled EV Behind Model Y - Electric Vehicles",
+        "summary": "Rivian\u2019s R2 Becomes Washington\u2019s Second Most-Titled EV Behind Model Y - Electric Vehicles",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Tesla Competition",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "Tesla loses Cybercab assembly lead to Rivian R2 weeks after launch - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkZZVTk1ZlBRWVNXYUJjNEF5aWFwZFczSlB1MTFVb01ZSGhSRzVwcEwxa0xQZEhqSXpVcUYwSzU4S0M4VEFiSEdBSXNEclVtOU9KUHNfcVYwcG1HSHIyMk0zZlZSRW5KZzFGU1BxOUJBMzdqRkwxTThrNDh6NDRZSjRVNA?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 15 Oct 2026 12:43:00 GMT",
+        "score": 0,
+        "snippet": "Tesla loses Cybercab assembly lead to Rivian R2 weeks after launch - Electrek",
+        "summary": "Tesla loses Cybercab assembly lead to Rivian R2 weeks after launch - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla Cybercab production manager heads to Rivian to lead R2 assembly - driveteslacanada.ca",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXlGVkRRdC1ZTHk2YXBxVnhfSXRiM1RVVHdTODFfTEwyUDBsaExocUdYUnZ6eTNYckNKa1plQjZHbUdGQTExMF84NWNCdXFzcjYxSkhNa09hM2huOGptZFNJd05CS2ROSmhlMmNZSkhja1VwX1pIZzA2ZThtXzROR1ByZDJiQzhfNWdn?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 15 Oct 2026 13:18:00 GMT",
+        "score": 0,
+        "snippet": "Tesla Cybercab production manager heads to Rivian to lead R2 assembly - driveteslacanada.ca",
+        "summary": "Tesla Cybercab production manager heads to Rivian to lead R2 assembly - driveteslacanada.ca",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo crash map shows hundreds of driverless car collisions across LA - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPajhtV1ZDYmVLV0N6OHVPcmRJX2p1VzQ3UlJ4TklmUDJqYTF4Vjg4LU85akpUZF9xb24yam9hSGtDamlfbGVpQ1hfTFZjbWJXU291REJRdmFJNzJkaDFzak1XR1ZkUG5NYnJmdUwycTAzV0RsR0RzU0JYdHd0dzZoa1BHUWEzUXJrMERqTElxRmczQzQ?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Thu, 15 Oct 2026 13:00:00 GMT",
+        "score": 0,
+        "snippet": "Waymo crash map shows hundreds of driverless car collisions across LA - New York Post",
+        "summary": "Waymo crash map shows hundreds of driverless car collisions across LA - New York Post",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): Doug Field, the engineer who led Tesla\u2019s Model 3 and later ran Ford\u2019s EV busines",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mxw6lvbesk27",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T13:36:51.223Z",
+        "score": 2,
+        "snippet": "Doug Field, the engineer who led Tesla\u2019s Model 3 and later ran Ford\u2019s EV business, is now president of Mind Robotics, the robotics company RJ Scaringe spun out of Rivian last year. riviantrackr.com/n",
+        "summary": "Doug Field, the engineer who led Tesla\u2019s Model 3 and later ran Ford\u2019s EV business, is now president of Mind Robotics, the robotics company RJ Scaringe spun out of Rivian last year. riviantrackr.com/n",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@pierogidinner.bsky.social (Bluesky): Rivian R3X is in the ballpark if/when it gets released",
+        "url": "https://bsky.app/profile/did:plc:enf52x3frkj5tveaetzclyh5/post/3mxw6ebk7ks2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T13:32:33.560Z",
+        "score": 0,
+        "snippet": "Rivian R3X is in the ballpark if/when it gets released",
+        "summary": "Rivian R3X is in the ballpark if/when it gets released",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@bigbennyfl.bsky.social (Bluesky): @malars.bsky.social insideevs.com/news/812033/...",
+        "url": "https://bsky.app/profile/did:plc:tlxpzpsmumfwzy3ghs7yndft/post/3mxw5ywh4zc2m",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T13:26:13.960Z",
+        "score": 1,
+        "snippet": "@malars.bsky.social insideevs.com/news/812033/...",
+        "summary": "@malars.bsky.social insideevs.com/news/812033/...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@driveteslacanada.bsky.social (Bluesky): Tesla Cybercab production manager heads to Rivian to lead R2 assembly",
+        "url": "https://bsky.app/profile/did:plc:v5tcebh55wolnqnazxnhzyko/post/3mxw5ofcy5r22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T13:20:18.656Z",
+        "score": 0,
+        "snippet": "Tesla Cybercab production manager heads to Rivian to lead R2 assembly",
+        "summary": "Tesla Cybercab production manager heads to Rivian to lead R2 assembly",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@teslord.bsky.social (Bluesky): Our Rivian R1T (Gen 1) still does not have the Ghostbusters update. Anyone know ",
+        "url": "https://bsky.app/profile/did:plc:mggrwrnm5o6oubjkevkb45zt/post/3mxw4w6j3222i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T13:06:46.758Z",
+        "score": 0,
+        "snippet": "Our Rivian R1T (Gen 1) still does not have the Ghostbusters update. Anyone know if this is typical, and if not, how to force an update?",
+        "summary": "Our Rivian R1T (Gen 1) still does not have the Ghostbusters update. Anyone know if this is typical, and if not, how to force an update?",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Tesla loses Cybercab assembly lead to Rivian R2 weeks after launch",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mxw4b66tx32p",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T12:55:01.163Z",
+        "score": 21,
+        "snippet": "Tesla loses Cybercab assembly lead to Rivian R2 weeks after launch",
+        "summary": "Tesla loses Cybercab assembly lead to Rivian R2 weeks after launch",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianmom.bsky.social (Bluesky): Out in the Wild\n\nMy first @Rivian R2 sighting in KC (Leawood).  Looking forward ",
+        "url": "https://bsky.app/profile/did:plc:ko3pxqsujx4dafypfyxg3soq/post/3mxvvvsnrcv2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T11:01:18.762Z",
+        "score": 3,
+        "snippet": "Out in the Wild My first @Rivian R2 sighting in KC (Leawood). Looking forward to more soon.",
+        "summary": "Out in the Wild My first @Rivian R2 sighting in KC (Leawood). Looking forward to more soon.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@cprax.bsky.social (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:5cvob7pie7aflwdtimq2xqrv/post/3mxvua6x26o2d",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T10:31:19.454Z",
+        "score": 0,
+        "snippet": "bluesky signal: @cprax.bsky.social (Bluesky):",
+        "summary": "bluesky signal: @cprax.bsky.social (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@pasteman.bsky.social (Bluesky): Bill Murray Suits Up as Venkman Again for Rivian\u2019s Ghostbusters Halloween Ad\npas",
+        "url": "https://bsky.app/profile/did:plc:nptnq4stgvsalhmvfmhbsk6f/post/3mxvttljfys2o",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T10:24:13.554Z",
+        "score": 1,
+        "snippet": "Bill Murray Suits Up as Venkman Again for Rivian\u2019s Ghostbusters Halloween Ad pastemen.wordpress.com/2026/10/15/b...",
+        "summary": "Bill Murray Suits Up as Venkman Again for Rivian\u2019s Ghostbusters Halloween Ad pastemen.wordpress.com/2026/10/15/b...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
