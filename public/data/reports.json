@@ -13277,5 +13277,523 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-16T07:01:39.316507-07:00",
+    "timestamp": "2026-10-16T07:01:39.316507-07:00",
+    "sentiment": {
+      "positive": 6,
+      "neutral": 76,
+      "negative": 16
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "bloomberg_tech": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "automotive_world": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "insideevs": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "techmeme": {
+        "found": 1,
+        "sentiment": "negative"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 12,
+        "sentiment": "negative"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 1,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 11,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 0,
+        "sentiment": null
+      },
+      "community": {
+        "found": 3,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 13,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Charging",
+      "Community Signals",
+      "Competitive Threats",
+      "Demo Drives",
+      "EV Market",
+      "Supply Chain",
+      "Vehicle Demand"
+    ],
+    "summary": "30 signals across Competitive (13), Vehicles (11); watch Competitive Threats, Vehicle Demand",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, October 16, 2026 \u2014 7:01 AM PT \u2014 30 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 13 rival signals surfaced, led by Competitive Threats, Charging.\n\u2022 *Rivian posture:* 17 Rivian signals clustered around Vehicles (11), Community (3).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 5 negative signals; watch Competitive Threats, Vehicle Demand, Community Signals.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (13)\n\u2022 *Competitive Threats:* Elon Musk reveals a new prototype of Tesla's Roadster sports car at a SpaceX facility in Texas. The car includes air thrusters which can launch the vehicle into the sky. Musk showed off this capabilit\n  https://www.bloomberg.com/news/videos/2026-10-16/tesla-reveals-flying-roadster-built-with-spacex-tech-video\n\u2022 *Competitive Threats:* Tesla shares rose in premarket trading Friday morning after Elon Musk unveiled its long-delayed Roadster sports car that includes air thrusters. The car actually launched into the sky during an event\n  https://www.bloomberg.com/news/videos/2026-10-16/tesla-unveils-roadster-with-a-nod-to-spacex-merger-video\n\u2022 *Competitive Threats:* Malaysia wanted an export hub and BYD wanted the home market; a contract assembler now fills the gap between the two. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/byd-turns-to-a-contract-assembler-as-malaysia-lead-slips/\n\u2022 *Competitive Threats:* The Roadster's headline numbers belong to variants that can't drive on public roads; the real pitch is a Tesla-SpaceX merger. By Stewart Burnett The post <a href=\"\n  https://www.automotiveworld.com/news/teslas-flying-roadster-sells-a-spacex-merger-not-a-car/\n\u2022 *Charging:* The CLA Electric\u2019s flaws are overpowered by monster efficiency and charging speeds thanks to new silicon-containing cells.\n  https://insideevs.com/reviews/811794/mercedes-cla-350-electric-review/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 Rivian\u306e\u8eca\u306bAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u304c\u5165\u308b\u3001\u3068\u3044\u3046\u5831\u9053\u3002 \u8a73\u7d30\u306f\u540c\u793e\u306e\u300cAI & Autonomy Day\u300d\uff0812\u6708\uff09\u3067\u5206\u304b\u308b\u3068\u8a18\u4e8b\u306f\u66f8\u3044\u3066\u3044\u308b\u3002 \u63d0\u4f9b\u6642\u671f\u3084\u5bfe\u8c61\u8eca\u7a2e\u306f\u3001\u3053\u306e\u6839\u62e0\u306b\u306f\u7121\u3044\u3002 \u3072\u3068\u8a00\u3067\u3044\u3046\u3068\u3001\u8eca\u5185\u4f5c\u696d\u304c\u30a2\u30d7\u30ea\u64cd\u4f5c\u304b\u3089\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u4f9d\u983c\u3078\u5bc4\u308b\u4e88\u544a\u3002\n  https://bsky.app/profile/did:plc:3cvmauyq4m3bdvya3shioiot/post/3mxylgkkz7p2i\n*Demo & Test Drives (1)* \u2022 reddit_rivian_r2 signal: Had my second test drive (this time with the fam)\n  https://www.reddit.com/r/RivianR2/comments/1x7544f/had_my_second_test_drive_this_time_with_the_fam/\n*Vehicles (11)* \u2022 reddit_rivian signal: R1 Charging Pad Retrofit\n  https://www.reddit.com/r/Rivian/comments/1x7f4na/r1_charging_pad_retrofit/\n*Business (1)* \u2022 Meanwhile rivian stock falls every time something good happens for the company. Like who needs this in a car?\n  https://bsky.app/profile/did:plc:ijpa2tmhx3nbfjeafm5hdpmj/post/3mxyq7fxdrc2a\n*Software (0)* \u2022 No signals\n*Community (3)* \u2022 Rivan Halloween mode Ghostbusters featuring Bill Murray! youtu.be/AzErJdWUDTE?... Even though it's a car commercial and I don't drive, this was hilarious!\n  https://bsky.app/profile/did:plc:xxtk7aputzb6o3r5chhlnyvx/post/3mxybgovgfc2a\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Charging\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Demo Drives\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "R1 Charging Pad Retrofit",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x7f4na/r1_charging_pad_retrofit/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-16T12:39:23.130Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R1 Charging Pad Retrofit",
+        "summary": "reddit_rivian signal: R1 Charging Pad Retrofit",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Battery Degradation Trend",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x7eg4u/battery_degradation_trend/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-16T12:07:22.595Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Battery Degradation Trend",
+        "summary": "reddit_rivian signal: Battery Degradation Trend",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Finally pulled the trigger",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x7g2s4/finally_pulled_the_trigger/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-16T13:21:23.316Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Finally pulled the trigger",
+        "summary": "reddit_rivian_r2 signal: Finally pulled the trigger",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian R2 Glass Roof \u2013 Too Much Sunlight?",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x7da5d/rivian_r2_glass_roof_too_much_sunlight/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-16T11:05:41.987Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Rivian R2 Glass Roof \u2013 Too Much Sunlight?",
+        "summary": "reddit_rivian_r2 signal: Rivian R2 Glass Roof \u2013 Too Much Sunlight?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Had my second test drive (this time with the fam)",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x7544f/had_my_second_test_drive_this_time_with_the_fam/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-16T02:58:51.986Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: Had my second test drive (this time with the fam)",
+        "summary": "reddit_rivian_r2 signal: Had my second test drive (this time with the fam)",
+        "category": "demo_drives",
+        "sentiment": "neutral",
+        "themes": [
+          "Demo Drives"
+        ]
+      },
+      {
+        "title": "Tesla Reveals Flying Roadster Built With SpaceX Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-16/tesla-reveals-flying-roadster-built-with-spacex-tech-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Fri, 16 Oct 2026 13:42:51 GMT",
+        "score": 0,
+        "snippet": "Elon Musk reveals a new prototype of Tesla's Roadster sports car at a SpaceX facility in Texas. The car includes air thrusters which can launch the vehicle into the sky. Musk showed off this capabilit",
+        "summary": "Elon Musk reveals a new prototype of Tesla's Roadster sports car at a SpaceX facility in Texas. The car includes air thrusters which can launch the vehicle into the sky. Musk showed off this capabilit",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Unveils Roadster With a Nod to SpaceX Merger",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-16/tesla-unveils-roadster-with-a-nod-to-spacex-merger-video",
+        "source": "bloomberg_tech",
+        "publishedAt": "Fri, 16 Oct 2026 12:51:00 GMT",
+        "score": 0,
+        "snippet": "Tesla shares rose in premarket trading Friday morning after Elon Musk unveiled its long-delayed Roadster sports car that includes air thrusters. The car actually launched into the sky during an event",
+        "summary": "Tesla shares rose in premarket trading Friday morning after Elon Musk unveiled its long-delayed Roadster sports car that includes air thrusters. The car actually launched into the sky during an event",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Freelander 8 offers 886km total range and 110km EV range",
+        "url": "https://www.automotiveworld.com/news/freelander-8-offers-886km-total-range-and-110km-ev-range/",
+        "source": "automotive_world",
+        "publishedAt": "Fri, 16 Oct 2026 13:37:05 +0000",
+        "score": 0,
+        "snippet": "Freelander has detailed the powertrain, range and cabin of the left-hand drive Freelander 8 presented at its Abu Dhabi launch The post <a href=\"",
+        "summary": "Freelander has detailed the powertrain, range and cabin of the left-hand drive Freelander 8 presented at its Abu Dhabi launch The post <a href=\"",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "BYD turns to a contract assembler as Malaysia lead slips",
+        "url": "https://www.automotiveworld.com/news/byd-turns-to-a-contract-assembler-as-malaysia-lead-slips/",
+        "source": "automotive_world",
+        "publishedAt": "Fri, 16 Oct 2026 11:20:03 +0000",
+        "score": 0,
+        "snippet": "Malaysia wanted an export hub and BYD wanted the home market; a contract assembler now fills the gap between the two. By Stewart Burnett The post <a href=\"",
+        "summary": "Malaysia wanted an export hub and BYD wanted the home market; a contract assembler now fills the gap between the two. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s flying Roadster sells a SpaceX merger, not a car",
+        "url": "https://www.automotiveworld.com/news/teslas-flying-roadster-sells-a-spacex-merger-not-a-car/",
+        "source": "automotive_world",
+        "publishedAt": "Fri, 16 Oct 2026 09:19:17 +0000",
+        "score": 0,
+        "snippet": "The Roadster's headline numbers belong to variants that can't drive on public roads; the real pitch is a Tesla-SpaceX merger. By Stewart Burnett The post <a href=\"",
+        "summary": "The Roadster's headline numbers belong to variants that can't drive on public roads; the real pitch is a Tesla-SpaceX merger. By Stewart Burnett The post <a href=\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "I Drove Mercedes\u2019 New EV With A Silicon Anode Battery. The Future Is Here",
+        "url": "https://insideevs.com/reviews/811794/mercedes-cla-350-electric-review/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 16 Oct 2026 13:00:00 +0000",
+        "score": 0,
+        "snippet": "The CLA Electric\u2019s flaws are overpowered by monster efficiency and charging speeds thanks to new silicon-containing cells.",
+        "summary": "The CLA Electric\u2019s flaws are overpowered by monster efficiency and charging speeds thanks to new silicon-containing cells.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Charging",
+          "Supply Chain",
+          "EV Market"
+        ]
+      },
+      {
+        "title": "The Tesla Roadster Has 1,341 HP And Half The Range Elon Musk Once Promised. Here Are The Full Specs",
+        "url": "https://insideevs.com/news/812242/tesla-roadster-2026-specs/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 16 Oct 2026 12:46:53 +0000",
+        "score": 0,
+        "snippet": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla\u2019s most outrageous car ever.",
+        "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla\u2019s most outrageous car ever.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "The Tesla Roadster's Thrusters Last Seconds. Refilling Takes Hours",
+        "url": "https://insideevs.com/news/812205/tesla-roadster-replenishes-air-tanks/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 16 Oct 2026 09:09:00 +0000",
+        "score": 0,
+        "snippet": "The Thrust version of the Roadster gets about five seconds of boost. Tesla wants to cut the refill time dramatically.",
+        "summary": "The Thrust version of the Roadster gets about five seconds of boost. Tesla wants to cut the refill time dramatically.",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Is The New Tesla Roadster Actually A Roadster? Not Really",
+        "url": "https://insideevs.com/news/812185/is-tesla-roadster-convertible/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 16 Oct 2026 07:16:06 +0000",
+        "score": 0,
+        "snippet": "It\u2019s not a convertible, that\u2019s for sure.",
+        "summary": "It\u2019s not a convertible, that\u2019s for sure.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo picks Toronto as first Canadian city, targets riders in 2028",
+        "url": "https://electrek.co/2026/10/16/waymo-toronto-canada-robotaxi-2028/",
+        "source": "electrek",
+        "publishedAt": "Fri, 16 Oct 2026 12:07:37 +0000",
+        "score": 0,
+        "snippet": "Waymo is bringi",
+        "summary": "Waymo is bringi",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Waymo plans to launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company's first deployment in Canada (Prathik Jayaprakash/Reuters)",
+        "url": "https://www.techmeme.com/261016/p9#a261016p9",
+        "source": "techmeme",
+        "publishedAt": "Fri, 16 Oct 2026 08:45:02 -0400",
+        "score": 0,
+        "snippet": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "summary": "<IMG VSPACE=\"4\" HSPACE=\"4\" BORDER=\"0\" ALIGN=\"RIGHT\" SRC=\"",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "New Rivian R2 gets towed within a week of delivery as one controller knocks out key vehicle systems - The Cool Down",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejhubGxQdV8yMDVzVWdxYVFJZl9ZNTBIblRJNUJFTG5VbTVSTGFvSzBjSHJ3MWdXSUhrYjUtY2Jfbm42Z0dEUWU3SzlBYjVUandRWjR6WUhwTEpTd3R3dVFhN3NZWVM4cXk4YTF6YmR1bjQ2cmxhbnVOQnhWZHN6alpNMEUzMkU?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Fri, 16 Oct 2026 10:59:00 GMT",
+        "score": 0,
+        "snippet": "New Rivian R2 gets towed within a week of delivery as one controller knocks out key vehicle systems - The Cool Down",
+        "summary": "New Rivian R2 gets towed within a week of delivery as one controller knocks out key vehicle systems - The Cool Down",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Waymo plans robotaxi service in Toronto by 2028, its first in Canada - The Next Web",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRTFrZEFuWjVlS2NKV3FCWlpiSkRTblhYdXBLQkluTmZQbnUxekVtSUhaRTNEMTl0NTNzT282aWs4TlB6XzFKNDQ2SUxoeFAxbGNIcXZVMFdneEt0RVZQakVNTDcweUFDQTBHMmUtMA?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Fri, 16 Oct 2026 12:20:06 GMT",
+        "score": 0,
+        "snippet": "Waymo plans robotaxi service in Toronto by 2028, its first in Canada - The Next Web",
+        "summary": "Waymo plans robotaxi service in Toronto by 2028, its first in Canada - The Next Web",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@heartmama.bsky.social (Bluesky): Meanwhile rivian stock falls every time something good happens for the company. ",
+        "url": "https://bsky.app/profile/did:plc:ijpa2tmhx3nbfjeafm5hdpmj/post/3mxyq7fxdrc2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T13:57:16.957Z",
+        "score": 1,
+        "snippet": "Meanwhile rivian stock falls every time something good happens for the company. Like who needs this in a car?",
+        "summary": "Meanwhile rivian stock falls every time something good happens for the company. Like who needs this in a car?",
+        "category": "business",
+        "sentiment": "negative",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "@ahiruai.bsky.social (Bluesky): Rivian\u306e\u8eca\u306bAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u304c\u5165\u308b\u3001\u3068\u3044\u3046\u5831\u9053\u3002\n\u8a73\u7d30\u306f\u540c\u793e\u306e\u300cAI & Autonomy Day\u300d\uff0812\u6708\uff09\u3067\u5206\u304b\u308b\u3068\u8a18\u4e8b\u306f\u66f8\u3044\u3066\u3044\u308b\u3002\n\u63d0\u4f9b\u6642\u671f\u3084\u5bfe\u8c61",
+        "url": "https://bsky.app/profile/did:plc:3cvmauyq4m3bdvya3shioiot/post/3mxylgkkz7p2i",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T12:31:48.362Z",
+        "score": 0,
+        "snippet": "Rivian\u306e\u8eca\u306bAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u304c\u5165\u308b\u3001\u3068\u3044\u3046\u5831\u9053\u3002 \u8a73\u7d30\u306f\u540c\u793e\u306e\u300cAI & Autonomy Day\u300d\uff0812\u6708\uff09\u3067\u5206\u304b\u308b\u3068\u8a18\u4e8b\u306f\u66f8\u3044\u3066\u3044\u308b\u3002 \u63d0\u4f9b\u6642\u671f\u3084\u5bfe\u8c61\u8eca\u7a2e\u306f\u3001\u3053\u306e\u6839\u62e0\u306b\u306f\u7121\u3044\u3002 \u3072\u3068\u8a00\u3067\u3044\u3046\u3068\u3001\u8eca\u5185\u4f5c\u696d\u304c\u30a2\u30d7\u30ea\u64cd\u4f5c\u304b\u3089\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u4f9d\u983c\u3078\u5bc4\u308b\u4e88\u544a\u3002",
+        "summary": "Rivian\u306e\u8eca\u306bAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u304c\u5165\u308b\u3001\u3068\u3044\u3046\u5831\u9053\u3002 \u8a73\u7d30\u306f\u540c\u793e\u306e\u300cAI & Autonomy Day\u300d\uff0812\u6708\uff09\u3067\u5206\u304b\u308b\u3068\u8a18\u4e8b\u306f\u66f8\u3044\u3066\u3044\u308b\u3002 \u63d0\u4f9b\u6642\u671f\u3084\u5bfe\u8c61\u8eca\u7a2e\u306f\u3001\u3053\u306e\u6839\u62e0\u306b\u306f\u7121\u3044\u3002 \u3072\u3068\u8a00\u3067\u3044\u3046\u3068\u3001\u8eca\u5185\u4f5c\u696d\u304c\u30a2\u30d7\u30ea\u64cd\u4f5c\u304b\u3089\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u4f9d\u983c\u3078\u5bc4\u308b\u4e88\u544a\u3002",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@ai-ru.at.thenote.app (Bluesky): \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043f\u043e\u044f\u0432\u044f\u0442\u0441\u044f \u0432 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f\u0445 Rivian\n\n\u041c\u044b, \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e, \u0443\u0437\u043d\u0430\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u043e \u0442\u043e\u043c, \u043a\u0430\u043a ",
+        "url": "https://bsky.app/profile/did:plc:zwjhnwkjjwqfcwtijk5pyujl/post/3mxyl7eks4224",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T12:27:47.162Z",
+        "score": 0,
+        "snippet": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043f\u043e\u044f\u0432\u044f\u0442\u0441\u044f \u0432 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f\u0445 Rivian \u041c\u044b, \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e, \u0443\u0437\u043d\u0430\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u043e \u0442\u043e\u043c, \u043a\u0430\u043a \u044d\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c, \u043d\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0435\u043c \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \"\u0414\u0435\u043d\u044c \u0418\u0418 \u0438 \u0410\u0432\u0442\u043e\u043d\u043e\u043c\u0438\u0438\" \u0432 \u0434\u0435\u043a\u0430\u0431\u0440\u0435. Telegram \u0418\u0418 \u0414\u0430\u0439\u0434\u0436\u0435\u0441\u0442 #ai #news",
+        "summary": "\u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u044b \u043f\u043e\u044f\u0432\u044f\u0442\u0441\u044f \u0432 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f\u0445 Rivian \u041c\u044b, \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e, \u0443\u0437\u043d\u0430\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u043e \u0442\u043e\u043c, \u043a\u0430\u043a \u044d\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c, \u043d\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0435\u043c \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \"\u0414\u0435\u043d\u044c \u0418\u0418 \u0438 \u0410\u0432\u0442\u043e\u043d\u043e\u043c\u0438\u0438\" \u0432 \u0434\u0435\u043a\u0430\u0431\u0440\u0435. Telegram \u0418\u0418 \u0414\u0430\u0439\u0434\u0436\u0435\u0441\u0442 #ai #news",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@alexvonwitzleben.bsky.social (Bluesky): #EVs captured 6.1% of the U.S. market, their best showing since the third quarte",
+        "url": "https://bsky.app/profile/did:plc:jktjr4e347fggxxlcyco2pth/post/3mxyhi4cv6s24",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T11:21:05.555Z",
+        "score": 2,
+        "snippet": "#EVs captured 6.1% of the U.S. market, their best showing since the third quarter of 2025. EV prices have become more competitive, and high gas prices have sparked renewed consumer interest. #Toyota #",
+        "summary": "#EVs captured 6.1% of the U.S. market, their best showing since the third quarter of 2025. EV prices have become more competitive, and high gas prices have sparked renewed consumer interest. #Toyota #",
+        "category": "competitive",
+        "sentiment": "negative",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@wanderingwin0.bsky.social (Bluesky): Rivian is looking better and better for my first electric.",
+        "url": "https://bsky.app/profile/did:plc:hdrjjo3ucunsx57npjckun4v/post/3mxyfz73dks2h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T10:54:51.757Z",
+        "score": 1,
+        "snippet": "Rivian is looking better and better for my first electric.",
+        "summary": "Rivian is looking better and better for my first electric.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@tfg1mike.bsky.social (Bluesky): Rivan Halloween mode Ghostbusters featuring Bill Murray! \n\nyoutu.be/AzErJdWUDTE?",
+        "url": "https://bsky.app/profile/did:plc:xxtk7aputzb6o3r5chhlnyvx/post/3mxybgovgfc2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T09:32:54.453Z",
+        "score": 0,
+        "snippet": "Rivan Halloween mode Ghostbusters featuring Bill Murray! youtu.be/AzErJdWUDTE?... Even though it's a car commercial and I don't drive, this was hilarious!",
+        "summary": "Rivan Halloween mode Ghostbusters featuring Bill Murray! youtu.be/AzErJdWUDTE?... Even though it's a car commercial and I don't drive, this was hilarious!",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@nzz.ch (Bluesky): Der kalifornische Stromer will dem VW ID.4 und Teslas Model Y Kunden abjagen. Ge",
+        "url": "https://bsky.app/profile/did:plc:mx2psjx4bmhoa4fld24c6gla/post/3mxybcr334p2n",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T09:30:43.254Z",
+        "score": 2,
+        "snippet": "Der kalifornische Stromer will dem VW ID.4 und Teslas Model Y Kunden abjagen. Gelungenes Design trifft auf durchdachte Details f\u00fcr den Alltag.",
+        "summary": "Der kalifornische Stromer will dem VW ID.4 und Teslas Model Y Kunden abjagen. Gelungenes Design trifft auf durchdachte Details f\u00fcr den Alltag.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@artstradamagazine.bsky.social (Bluesky): Rivian halloween mode\nyoutube.com/shorts/pRoIH...",
+        "url": "https://bsky.app/profile/did:plc:ivo7pq3snewqel4rvl3nmvx3/post/3mxy3elllic2w",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T07:44:22.959Z",
+        "score": 0,
+        "snippet": "Rivian halloween mode youtube.com/shorts/pRoIH...",
+        "summary": "Rivian halloween mode youtube.com/shorts/pRoIH...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@stevelumia33.bsky.social (Bluesky): Pourquoi le magazine TIME a \u00e9lu ce v\u00e9lo \u00e9lectrique pas comme les autres parmi se",
+        "url": "https://bsky.app/profile/did:plc:udgdulijr7tphdvcho6ur3x4/post/3mxy2i3j5o22j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T07:28:27.055Z",
+        "score": 0,
+        "snippet": "Pourquoi le magazine TIME a \u00e9lu ce v\u00e9lo \u00e9lectrique pas comme les autres parmi ses inventions de l'ann\u00e9e www.frandroid.com/survoltes/ve...",
+        "summary": "Pourquoi le magazine TIME a \u00e9lu ce v\u00e9lo \u00e9lectrique pas comme les autres parmi ses inventions de l'ann\u00e9e www.frandroid.com/survoltes/ve...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@auto-blog.bsky.social (Bluesky): Rivian Vs. Tesla Safety: Crash Tests Reveal a Surprising Divide.\n\nRead more: bit",
+        "url": "https://bsky.app/profile/did:plc:c7y7frfx3k2jk6erbcu2hcaz/post/3mxxzzbih7l22",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T07:20:08.561Z",
+        "score": 0,
+        "snippet": "Rivian Vs. Tesla Safety: Crash Tests Reveal a Surprising Divide. Read more: bit.ly/3TVCv0c",
+        "summary": "Rivian Vs. Tesla Safety: Crash Tests Reveal a Surprising Divide. Read more: bit.ly/3TVCv0c",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@frandroid.com.web.brid.gy (Bluesky): ",
+        "url": "https://bsky.app/profile/did:plc:4dwxu4q6s5squ5n5opm5za7k/post/3mxxzwtd4iiy2",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T07:18:57.559Z",
+        "score": 0,
+        "snippet": "bluesky signal: @frandroid.com.web.brid.gy (Bluesky):",
+        "summary": "bluesky signal: @frandroid.com.web.brid.gy (Bluesky):",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@myheadlinespodcast.bsky.social (Bluesky): \ud83d\udea8 Breaking News:\n\nRivian Plans to Add AI Agents to Its Vehicles\n\nBluesky Expands",
+        "url": "https://bsky.app/profile/did:plc:t44nkafvol4eshlhwrrlips4/post/3mxxyvxpd252b",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T07:00:23.856Z",
+        "score": 2,
+        "snippet": "\ud83d\udea8 Breaking News: Rivian Plans to Add AI Agents to Its Vehicles Bluesky Expands Attie App to Enable AI-Powered Creation Google Rolls Out Universal Cart Shopping Tool in the United States",
+        "summary": "\ud83d\udea8 Breaking News: Rivian Plans to Add AI Agents to Its Vehicles Bluesky Expands Attie App to Enable AI-Powered Creation Google Rolls Out Universal Cart Shopping Tool in the United States",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
