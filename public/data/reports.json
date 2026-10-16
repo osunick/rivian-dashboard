@@ -12545,5 +12545,737 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-15T19:01:51.915589-07:00",
+    "timestamp": "2026-10-15T19:01:51.915589-07:00",
+    "sentiment": {
+      "positive": 8,
+      "neutral": 86,
+      "negative": 4
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 8,
+        "sentiment": "negative"
+      },
+      "reddit_electricvehicles": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "bloomberg_markets": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "cnbc_top": {
+        "found": 1,
+        "sentiment": "positive"
+      },
+      "insideevs": {
+        "found": 3,
+        "sentiment": "neutral"
+      },
+      "electrek": {
+        "found": 8,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "google_news_r2": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "google_news_autonomy": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 14,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 3,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 27,
+        "sentiment": null
+      },
+      "business": {
+        "found": 1,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 11,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Business",
+      "Community Signals",
+      "Competitive Threats",
+      "Pricing & Incentives",
+      "R2 Launch",
+      "Service Experience",
+      "Service Network",
+      "Software",
+      "Tesla Competition",
+      "Vehicle Demand"
+    ],
+    "summary": "45 signals across Vehicles (27), Competitive (11); watch Vehicle Demand, Competitive Threats",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Thursday, October 15, 2026 \u2014 7:01 PM PT \u2014 45 signals \u00b7 5 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 11 rival signals surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 34 Rivian signals clustered around Vehicles (27), Autonomy (3).\n\u2022 *Risk posture:* \ud83d\udfe2 LOW with 2 negative signals; watch Vehicle Demand, Competitive Threats, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (11)\n\u2022 *Competitive Threats:* Ross Gerber discussed Tesla\u2019s anticipated Roadster unveiling, following a Barclays note suggesting Tesla and SpaceX could merge before year-end, potentially ahead of Tesla\u2019s annual general meeting. Ge\n  https://www.bloomberg.com/news/videos/2026-10-15/ross-gerber-on-tesla-roadster-potential-spacex-merger-video\n\u2022 *Competitive Threats:* Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.\n  https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html\n\u2022 *Competitive Threats:* \"This car could suck the chrome off a trailer hitch,\" joked CEO Elon Musk. \"And it can stick upside down.\"\n  https://insideevs.com/news/812152/tesla-roadster-backflip-suction-2g/\n\u2022 *Competitive Threats:* The new Roadster can jump over a Semi truck and do 0-60 in 0.81 seconds, Tesla claims. But it's not actually available yet.\n  https://insideevs.com/news/812151/2027-tesla-roadster-price-specs-release-date/\n\u2022 *Competitive Threats:* <p class=\"wp-bloc\n  https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (3)* \u2022 Rivian Opens Invite Only Autonomy Program to Test Point-to-Point Driving - Electric Vehicles\n  https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzB5czJva2VxOHVRbHFMeE80d25yVkZCR0lXY3RzLXVxdTAxQ1JsY0V1M3Vfd3NqcWNjcEN1VXNwbEI4RzZEMFYyTXJwYnJZTnR2TXdEeVpsR0lPTVVGb2FLYWNJZXR3enVQa0ZRUFhIN29HLUstcUFvQjlNUnB5QUwyMWt6WFZ0b2VWeExZb0lOaGVLLUpyUDl5OHdEazdjMmtoajUyenFvb3FWdnc?oc=5\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (27)* \u2022 reddit_rivian signal: Halloween features not quite working?\n  https://www.reddit.com/r/Rivian/comments/1x6x0i8/halloween_features_not_quite_working/\n*Business (1)* \u2022 Cantor keeps USD 19.00 target for Rivian stock - ad-hoc-news.de\n  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3lEUGNaU0lDWUlHZGVVSjZBc1d2eEw2NmRZdjQyR2FDUUJrRkZUalNkUDFha3dqNnBPZ2d5RXVBZzBfb0NIcWJyMVFIRV91Tm5mRXZBUjBlQzQ4ZlFGdlVzcTdnU1VRdEZOd0VpSDhpaE41TkdHcVREQ3BUQVBzQzNZdDRIVFJkM3YzUWZyTk82X2p1T1FBS3ZpMmNkeExfb2UxNlVHOWc?oc=5\n*Software (2)* \u2022 reddit_rivian signal: Kneel Image Bug\n  https://www.reddit.com/r/Rivian/comments/1x73q8a/kneel_image_bug/\n*Community (1)* \u2022 electrek.co/2026/10/15/t...\n  https://bsky.app/profile/did:plc:cxkndc2okyhteyv6dah6rlzi/post/3mxwl5fvjus24\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Business\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Pricing & Incentives\n\u2022 R2 Launch\n\n_Threat: \ud83d\udfe2 LOW_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Kneel Image Bug",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x73q8a/kneel_image_bug/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-16T01:46:25.431Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Kneel Image Bug",
+        "summary": "reddit_rivian signal: Kneel Image Bug",
+        "category": "software",
+        "sentiment": "negative",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Halloween features not quite working?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6x0i8/halloween_features_not_quite_working/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T20:42:02.682Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Halloween features not quite working?",
+        "summary": "reddit_rivian signal: Halloween features not quite working?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian App R2 Owners guide never loads. Just a yellow spinner...",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6vpcu/rivian_app_r2_owners_guide_never_loads_just_a/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T19:50:22.651Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian App R2 Owners guide never loads. Just a yellow spinner...",
+        "summary": "reddit_rivian signal: Rivian App R2 Owners guide never loads. Just a yellow spinner...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian App R2 Owners guide never loads. Just a yellow spinner...",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x6vo8t/rivian_app_r2_owners_guide_never_loads_just_a/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T19:50:22.651Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Rivian App R2 Owners guide never loads. Just a yellow spinner...",
+        "summary": "reddit_rivian signal: Rivian App R2 Owners guide never loads. Just a yellow spinner...",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Trip planner now locked behind Connect+?",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6vnfb/trip_planner_now_locked_behind_connect/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T19:49:28.936Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Trip planner now locked behind Connect+?",
+        "summary": "reddit_rivian signal: Trip planner now locked behind Connect+?",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Rivian assistant not connecting",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6rkvw/r2_rivian_assistant_not_connecting/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T17:15:08.400Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: R2 Rivian assistant not connecting",
+        "summary": "reddit_rivian signal: R2 Rivian assistant not connecting",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Version 2026.36.0 fails to install over and over",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6r6eh/version_2026360_fails_to_install_over_and_over/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T17:00:30.001Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Version 2026.36.0 fails to install over and over",
+        "summary": "reddit_rivian signal: Version 2026.36.0 fails to install over and over",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "My son designed a center console organizer for the R1 with a hidden trash bin (R1S/R1T)",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x6qm9w/my_son_designed_a_center_console_organizer_for/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-15T16:39:05.696Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: My son designed a center console organizer for the R1 with a hidden trash bin (R1S/R1T)",
+        "summary": "reddit_rivian signal: My son designed a center console organizer for the R1 with a hidden trash bin (R1S/R1T)",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Every BEV that has won or been a finalist for the North American Car, Truck, and Utility Vehicle of the Year Award",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1x6t8c2/every_bev_that_has_won_or_been_a_finalist_for_the/",
+        "source": "reddit_electricvehicles",
+        "publishedAt": "2026-10-15T18:17:46.717Z",
+        "score": 0,
+        "snippet": "reddit_electricvehicles signal: Every BEV that has won or been a finalist for the North American Car, Truck, and Utility Vehicle of the Year Award",
+        "summary": "reddit_electricvehicles signal: Every BEV that has won or been a finalist for the North American Car, Truck, and Utility Vehicle of the Year Award",
+        "category": "vehicles",
+        "sentiment": "positive",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-15/ross-gerber-on-tesla-roadster-potential-spacex-merger-video",
+        "source": "bloomberg_markets",
+        "publishedAt": "Thu, 15 Oct 2026 21:18:08 GMT",
+        "score": 0,
+        "snippet": "Ross Gerber discussed Tesla\u2019s anticipated Roadster unveiling, following a Barclays note suggesting Tesla and SpaceX could merge before year-end, potentially ahead of Tesla\u2019s annual general meeting. Ge",
+        "summary": "Ross Gerber discussed Tesla\u2019s anticipated Roadster unveiling, following a Barclays note suggesting Tesla and SpaceX could merge before year-end, potentially ahead of Tesla\u2019s annual general meeting. Ge",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
+        "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+        "source": "cnbc_top",
+        "publishedAt": "Fri, 16 Oct 2026 01:34:51 GMT",
+        "score": 0,
+        "snippet": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+        "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "The New Tesla Roadster Just Did A Mid-Air Barrel Roll",
+        "url": "https://insideevs.com/news/812152/tesla-roadster-backflip-suction-2g/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 16 Oct 2026 02:00:36 +0000",
+        "score": 0,
+        "snippet": "\"This car could suck the chrome off a trailer hitch,\" joked CEO Elon Musk. \"And it can stick upside down.\"",
+        "summary": "\"This car could suck the chrome off a trailer hitch,\" joked CEO Elon Musk. \"And it can stick upside down.\"",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla Just Revealed The Roadster With A Truly Insane Demo. Here's What You Need To Know",
+        "url": "https://insideevs.com/news/812151/2027-tesla-roadster-price-specs-release-date/",
+        "source": "insideevs",
+        "publishedAt": "Fri, 16 Oct 2026 01:17:24 +0000",
+        "score": 0,
+        "snippet": "The new Roadster can jump over a Semi truck and do 0-60 in 0.81 seconds, Tesla claims. But it's not actually available yet.",
+        "summary": "The new Roadster can jump over a Semi truck and do 0-60 in 0.81 seconds, Tesla claims. But it's not actually available yet.",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Slate Opened Its First Showroom Where You Can Test Drive Its $24,950 Electric Pickup Truck",
+        "url": "https://insideevs.com/news/812128/first-slate-experience-center-chicago/",
+        "source": "insideevs",
+        "publishedAt": "Thu, 15 Oct 2026 18:04:19 +0000",
+        "score": 0,
+        "snippet": "Chicagoans can now check out Slate's electric trucks and accessories in person, and even go for test drives.",
+        "summary": "Chicagoans can now check out Slate's electric trucks and accessories in person, and even go for test drives.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Tesla unveils Cyberfied new Roadster that can kickflip",
+        "url": "https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/",
+        "source": "electrek",
+        "publishedAt": "Fri, 16 Oct 2026 01:43:32 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-bloc",
+        "summary": "<p class=\"wp-bloc",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Alef welcomes Tesla to the electric flying car race by flying over the Roadster [Video]",
+        "url": "https://electrek.co/2026/10/15/alefs-electric-flying-car-flies-over-tesla-roadster-video/",
+        "source": "electrek",
+        "publishedAt": "Fri, 16 Oct 2026 01:00:00 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-par",
+        "summary": "<p class=\"wp-block-par",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Company that put gas engines in Teslas goes bankrupt owing $37 million",
+        "url": "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/",
+        "source": "electrek",
+        "publishedAt": "Thu, 15 Oct 2026 21:26:12 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-paragrap",
+        "summary": "<p class=\"wp-block-paragrap",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Rivian limits point-to-point driving to invite-only testers under NDA",
+        "url": "https://electrek.co/2026/10/15/rivian-point-to-point-early-access-program-nda/",
+        "source": "electrek",
+        "publishedAt": "Thu, 15 Oct 2026 18:42:28 +0000",
+        "score": 0,
+        "snippet": "Rivi",
+        "summary": "Rivi",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Ford\u2019s Fathom EV pickup spotted again ahead of its upcoming debut",
+        "url": "https://electrek.co/2026/10/15/fords-fathom-ev-pickup-spotted-again-ahead-of-debut/",
+        "source": "electrek",
+        "publishedAt": "Thu, 15 Oct 2026 18:00:16 +0000",
+        "score": 0,
+        "snippet": "electrek signal: Ford\u2019s Fathom EV pickup spotted again ahead of its upcoming debut",
+        "summary": "electrek signal: Ford\u2019s Fathom EV pickup spotted again ahead of its upcoming debut",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla remote operators keep crashing its \u2018Robotaxis,\u2019 data shows",
+        "url": "https://electrek.co/2026/10/15/tesla-remote-operators-crashing-robotaxis/",
+        "source": "electrek",
+        "publishedAt": "Thu, 15 Oct 2026 16:39:08 +0000",
+        "score": 0,
+        "snippet": "<p class=\"wp-block-paragra",
+        "summary": "<p class=\"wp-block-paragra",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "BYD\u2019s electric luxury GT will get a major update for Europe in 2027",
+        "url": "https://electrek.co/2026/10/15/byds-electric-luxury-gt-major-update-europe-2027/",
+        "source": "electrek",
+        "publishedAt": "Thu, 15 Oct 2026 15:58:09 +0000",
+        "score": 0,
+        "snippet": "<",
+        "summary": "<",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Tesla confirms Autopilot/FSD was \u2018engaged\u2019 when car crossed a median and killed a man",
+        "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/",
+        "source": "electrek",
+        "publishedAt": "Thu, 15 Oct 2026 14:03:35 +0000",
+        "score": 0,
+        "snippet": "A Tesla cro",
+        "summary": "A Tesla cro",
+        "category": "competitive",
+        "sentiment": "positive",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "Cantor keeps USD 19.00 target for Rivian stock - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3lEUGNaU0lDWUlHZGVVSjZBc1d2eEw2NmRZdjQyR2FDUUJrRkZUalNkUDFha3dqNnBPZ2d5RXVBZzBfb0NIcWJyMVFIRV91Tm5mRXZBUjBlQzQ4ZlFGdlVzcTdnU1VRdEZOd0VpSDhpaE41TkdHcVREQ3BUQVBzQzNZdDRIVFJkM3YzUWZyTk82X2p1T1FBS3ZpMmNkeExfb2UxNlVHOWc?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 15 Oct 2026 19:22:37 GMT",
+        "score": 0,
+        "snippet": "Cantor keeps USD 19.00 target for Rivian stock - ad-hoc-news.de",
+        "summary": "Cantor keeps USD 19.00 target for Rivian stock - ad-hoc-news.de",
+        "category": "business",
+        "sentiment": "neutral",
+        "themes": [
+          "Business"
+        ]
+      },
+      {
+        "title": "Rivian Automotive Options Spot-On: On October 14th, 113.1K Contracts Were Traded, With 2.21 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONG9hU2VQUHM3d1VSejQ0X01JM3BEZ0FEYnRJaktfd1pXR2h5SjZrblJIUmV1bnlWWVRXdmJlS3ladTZhSmdjUTk2TnNJbGFGcFlCZ3ZJQU1vOFN3Ulhtbk9HT2VjWV9fM05sQ2gtQUQxaEJPNGVqWkszYkNrZW9iYy1FNmExbXQ3ZDBLeWdCdFFmdUxXdWE3QWF1amhkdEpm?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 15 Oct 2026 17:44:06 GMT",
+        "score": 0,
+        "snippet": "Rivian Automotive Options Spot-On: On October 14th, 113.1K Contracts Were Traded, With 2.21 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "summary": "Rivian Automotive Options Spot-On: On October 14th, 113.1K Contracts Were Traded, With 2.21 Million Open Interest - \u5bcc\u9014\u725b\u725b",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian plans to integrate third-party AI assistants into its electric vehicles for enhanced user interaction. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWS1iWmducENBT3AxVFZVZ0JZX3BZNmtqZ2JqWW9leHNIVlh5U283NTN6UldJdnRSX3FJM2FTQXBmQVl1Qk5UUzlPdXZhdzdGRGdRQk1LRC1jeENPdEtQR0tMN2JCVG1pcmRvcGpxUFFzLXR5aUpJ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 15 Oct 2026 15:53:31 GMT",
+        "score": 0,
+        "snippet": "Rivian plans to integrate third-party AI assistants into its electric vehicles for enhanced user interaction. - Pluang",
+        "summary": "Rivian plans to integrate third-party AI assistants into its electric vehicles for enhanced user interaction. - Pluang",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian, Redwood Materials broaden battery lifecycle agreement - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUtuVGQ0RzZaNFBBSWxmaUpZQUVUcWIzOXl3S2Zqdmg4bUwzVmFhTzBnRlBfTHJiUDVVR1VCQ0RhWHpuQlJQZEU2Nk53NXBuSFZHSUJ6U0pPY1JHN0c3TndIallfWDNSelY1TmhXWnJVQUkyYzB0bU5OOEVzcGxzMXc4dk9iOG5NbWF3OEJYQy1rMkU3cjVaaDVGenVTQQ?oc=5",
+        "source": "google_news",
+        "publishedAt": "Thu, 15 Oct 2026 15:54:05 GMT",
+        "score": 0,
+        "snippet": "Rivian, Redwood Materials broaden battery lifecycle agreement - Yahoo Finance",
+        "summary": "Rivian, Redwood Materials broaden battery lifecycle agreement - Yahoo Finance",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Taps Tesla Cybercab Veteran to Lead R2 Assembly - Not a Tesla App",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWYyMmxwUlgwZE5vSmsxYzJPbDhRVVo0ZElGdXllYWpPV2hwOTVkTEhVWlh5ejVsZ2Z4RVNWWXpYVXRjeDFTUmhvcmJIWnp0eVZobDlwYXVKOVlXUlplVmszZU94NEE2MldFWldBZ3YzVExwUjdyeUFpNF9FVkNhTHdHeUEyR3pEWGZQczJ2OGRLTG1GbXM4Yg?oc=5",
+        "source": "google_news_r2",
+        "publishedAt": "Thu, 15 Oct 2026 15:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Taps Tesla Cybercab Veteran to Lead R2 Assembly - Not a Tesla App",
+        "summary": "Rivian Taps Tesla Cybercab Veteran to Lead R2 Assembly - Not a Tesla App",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVVsS0M4bGhJelhwdURBMUEwdGhJZzR3aHZtOUtIOFpmSHlVS05ZOGR3UGVORFNLNXEtSndFRFpZYzdYZTJiNG1ZdkFsWVJoZ0RyZFJGcndBRzViQ1BLQmRQc19XZzBzVlJLdEI4SERsYXFuUzBXa1NvSE1UNWpENWFBNjM?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 15 Oct 2026 18:42:00 GMT",
+        "score": 0,
+        "snippet": "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+        "summary": "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Opens Invite Only Autonomy Program to Test Point-to-Point Driving - Electric Vehicles",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzB5czJva2VxOHVRbHFMeE80d25yVkZCR0lXY3RzLXVxdTAxQ1JsY0V1M3Vfd3NqcWNjcEN1VXNwbEI4RzZEMFYyTXJwYnJZTnR2TXdEeVpsR0lPTVVGb2FLYWNJZXR3enVQa0ZRUFhIN29HLUstcUFvQjlNUnB5QUwyMWt6WFZ0b2VWeExZb0lOaGVLLUpyUDl5OHdEazdjMmtoajUyenFvb3FWdnc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 15 Oct 2026 17:00:32 GMT",
+        "score": 0,
+        "snippet": "Rivian Opens Invite Only Autonomy Program to Test Point-to-Point Driving - Electric Vehicles",
+        "summary": "Rivian Opens Invite Only Autonomy Program to Test Point-to-Point Driving - Electric Vehicles",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian Debuts Autonomy Early Access Program, Looks Like Its Own Take On the Tesla FSD Beta - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZmFjUTNoQWZidFdLSnlYN2hxYlpzdU9nZmI0RktLYW4tM2cwTm5NcHNlRHN5X29sT3NrVDdwQ0lBODhHWEJPX3pFd084UlFYREo5TkI2TlFNNUw2WHVDeWJoVXAyellGU0didXRJSjV6R05sX3diWmxjWXJ1UGVlX1JidUNmTkxFYThMdndjMVJFRkpqTXYzaEp6SnN4ajRWaTI5SUpFaWExNjJ4RXVpc2owdlEyb3hpNkh1TURPSm1BdHBMUjFzM29XZFZOY0dLbXc?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 15 Oct 2026 17:34:29 GMT",
+        "score": 0,
+        "snippet": "Rivian Debuts Autonomy Early Access Program, Looks Like Its Own Take On the Tesla FSD Beta - autoevolution",
+        "summary": "Rivian Debuts Autonomy Early Access Program, Looks Like Its Own Take On the Tesla FSD Beta - autoevolution",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Rivian launches early access program for Point-to-Point hands-free driving - Drive Tesla Canada",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1hWRDhia0RLdUprTXdOcTdiYXlpQ3dlemhTZ0hMTnpTX1RsY0JXNDNHeWQtMjJvZlY4TC1wNi1leGVHSVBVSGt1Vlh6eDRnNXJOZHpVOHVNZWhRRmI4LW56MEl5eVBBSmhMR1FmNkc5cFlUOVM4SkZNekE1UXk2MHplck5weTlNUmhWZjB3?oc=5",
+        "source": "google_news_autonomy",
+        "publishedAt": "Thu, 15 Oct 2026 16:11:04 GMT",
+        "score": 0,
+        "snippet": "Rivian launches early access program for Point-to-Point hands-free driving - Drive Tesla Canada",
+        "summary": "Rivian launches early access program for Point-to-Point hands-free driving - Drive Tesla Canada",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@angel2damax.bsky.social (Bluesky): #Rivian",
+        "url": "https://bsky.app/profile/did:plc:yeyg7vgfrzf7b3cep22i6m5o/post/3mxx6zle33c2j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T23:17:07.863Z",
+        "score": 0,
+        "snippet": "#Rivian",
+        "summary": "#Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jasonrbarry.com (Bluesky): Rivian not Robin, for crying out loud",
+        "url": "https://bsky.app/profile/did:plc:aji4gre355tfomqdvziaqcg5/post/3mxx5sduvmc27",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T22:55:11.058Z",
+        "score": 0,
+        "snippet": "Rivian not Robin, for crying out loud",
+        "summary": "Rivian not Robin, for crying out loud",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gadgetstimesrd.bsky.social (Bluesky): \u00a1Atenci\u00f3n, techies! Rivian va m\u00e1s all\u00e1 del asistente de voz. Su CEO confirm\u00f3 en ",
+        "url": "https://bsky.app/profile/did:plc:yuy5p6o2cmcaj6xyf4a2maev/post/3mxx3exy3p62x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T22:11:55.660Z",
+        "score": 0,
+        "snippet": "\u00a1Atenci\u00f3n, techies! Rivian va m\u00e1s all\u00e1 del asistente de voz. Su CEO confirm\u00f3 en Disrupt que veremos agentes de IA de Anthropic, OpenAI y Meta en sus coches. La interacci\u00f3n ser\u00e1 m\u00e1s contextual y \"m\u00e1gic",
+        "summary": "\u00a1Atenci\u00f3n, techies! Rivian va m\u00e1s all\u00e1 del asistente de voz. Su CEO confirm\u00f3 en Disrupt que veremos agentes de IA de Anthropic, OpenAI y Meta en sus coches. La interacci\u00f3n ser\u00e1 m\u00e1s contextual y \"m\u00e1gic",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rogerhcharles.bsky.social (Bluesky): #Slate has diverged from its direct-to-consumer counterparts like Rivian, Tesla,",
+        "url": "https://bsky.app/profile/did:plc:at2l7z5l4mwihadntptr65k7/post/3mxx23fmq5c2h",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T21:48:40.664Z",
+        "score": 0,
+        "snippet": "#Slate has diverged from its direct-to-consumer counterparts like Rivian, Tesla, and Lucid by deciding not to build out a network of owned-and-operated service centers. #evs insideevs.com/news/812128",
+        "summary": "#Slate has diverged from its direct-to-consumer counterparts like Rivian, Tesla, and Lucid by deciding not to build out a network of owned-and-operated service centers. #evs insideevs.com/news/812128",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Service Experience",
+          "Service Network",
+          "Tesla Competition"
+        ]
+      },
+      {
+        "title": "@pt.technopolis.news (Bluesky): As vendas de VEs nos EUA cresceram pelo terceiro trimestre consecutivo, atingind",
+        "url": "https://bsky.app/profile/did:plc:ynoppqrs5okb3mwd7crnyhfn/post/3mxwxr4jpua2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T21:07:07.865Z",
+        "score": 0,
+        "snippet": "As vendas de VEs nos EUA cresceram pelo terceiro trimestre consecutivo, atingindo 6,1% de participa\u00e7\u00e3o de mercado, enquanto Toyota, Rivian e Subaru avan\u00e7am e as vendas da Tesla ca\u00edram 20%. #Neg\u00f3cios",
+        "summary": "As vendas de VEs nos EUA cresceram pelo terceiro trimestre consecutivo, atingindo 6,1% de participa\u00e7\u00e3o de mercado, enquanto Toyota, Rivian e Subaru avan\u00e7am e as vendas da Tesla ca\u00edram 20%. #Neg\u00f3cios",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "@pt.technopolis.news (Bluesky): O CEO da Rivian, RJ Scaringe, afirma que os carros da montadora eventualmente ex",
+        "url": "https://bsky.app/profile/did:plc:ynoppqrs5okb3mwd7crnyhfn/post/3mxwxr3bmyk2f",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T21:07:06.561Z",
+        "score": 0,
+        "snippet": "O CEO da Rivian, RJ Scaringe, afirma que os carros da montadora eventualmente executar\u00e3o agentes de IA de empresas externas como a Anthropic, embora n\u00e3o tenha dado um prazo. #Hardware #Rivian",
+        "summary": "O CEO da Rivian, RJ Scaringe, afirma que os carros da montadora eventualmente executar\u00e3o agentes de IA de empresas externas como a Anthropic, embora n\u00e3o tenha dado um prazo. #Hardware #Rivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): Full Story:\nhttps://www.rivianwave.com/news/4835/rivian-opens-early-access-for-p",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mxwwy4d7h624",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T20:53:08.566Z",
+        "score": 0,
+        "snippet": "Full Story:",
+        "summary": "Full Story:",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@rivianwave.com (Bluesky): Rivian Opens Early Access for Point to Point Hands-Free Driving\n\nRivian is invit",
+        "url": "https://bsky.app/profile/did:plc:vmzu6dhupr7bcoosbjr75qsr/post/3mxwwy3axsq2u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T20:53:08.563Z",
+        "score": 1,
+        "snippet": "Rivian Opens Early Access for Point to Point Hands-Free Driving Rivian is inviting select Gen 2 R1 and R2 owners on Autonomy+ to test its Point to Point hands-free driving tech before a wider release",
+        "summary": "Rivian Opens Early Access for Point to Point Hands-Free Driving Rivian is inviting select Gen 2 R1 and R2 owners on Autonomy+ to test its Point to Point hands-free driving tech before a wider release",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "R2 Launch",
+          "Pricing & Incentives",
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "@bardenp.bsky.social (Bluesky): so say the rivian segment - good.\n\ni still don't like the handles.\n\nyou need to ",
+        "url": "https://bsky.app/profile/did:plc:dguqlnj4mdiatitnjceayl7f/post/3mxwtcdla6s2a",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T19:47:17.856Z",
+        "score": 0,
+        "snippet": "so say the rivian segment - good. i still don't like the handles. you need to have full non powered handles that don't retract into the body. or if they do, there is a mechanical way to open the do",
+        "summary": "so say the rivian segment - good. i still don't like the handles. you need to have full non powered handles that don't retract into the body. or if they do, there is a mechanical way to open the do",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@electrek.co (Bluesky): Rivian limits point-to-point driving to invite-only testers under NDA",
+        "url": "https://bsky.app/profile/did:plc:7qwkxkh4lz2unhehubhbhpt5/post/3mxwskffhga2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T19:33:53.161Z",
+        "score": 10,
+        "snippet": "Rivian limits point-to-point driving to invite-only testers under NDA",
+        "summary": "Rivian limits point-to-point driving to invite-only testers under NDA",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@gagadgetuk.bsky.social (Bluesky): \u0411\u0440\u0430\u043a \u0456 \u0441\u043f\u0438\u0441\u0430\u043d\u0456 \u0431\u043b\u043e\u043a\u0438 \u0436\u0438\u0432\u0438\u0442\u0438\u043c\u0443\u0442\u044c \u043a\u043e\u043d\u0432\u0435\u0454\u0440: Rivian \u0442\u0430 Redwood \u0441\u0442\u0432\u043e\u0440\u0438\u043b\u0438 \u0437\u0430\u043c\u043a\u043d\u0435\u043d\u0438\u0439 \u0446\u0438",
+        "url": "https://bsky.app/profile/did:plc:32d3mrf6gogi5rmig5bpnrku/post/3mxwshfkxkc2j",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T19:32:13.159Z",
+        "score": 0,
+        "snippet": "\u0411\u0440\u0430\u043a \u0456 \u0441\u043f\u0438\u0441\u0430\u043d\u0456 \u0431\u043b\u043e\u043a\u0438 \u0436\u0438\u0432\u0438\u0442\u0438\u043c\u0443\u0442\u044c \u043a\u043e\u043d\u0432\u0435\u0454\u0440: Rivian \u0442\u0430 Redwood \u0441\u0442\u0432\u043e\u0440\u0438\u043b\u0438 \u0437\u0430\u043c\u043a\u043d\u0435\u043d\u0438\u0439 \u0446\u0438\u043a\u043b \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0430\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u0456\u0432. #gadgets",
+        "summary": "\u0411\u0440\u0430\u043a \u0456 \u0441\u043f\u0438\u0441\u0430\u043d\u0456 \u0431\u043b\u043e\u043a\u0438 \u0436\u0438\u0432\u0438\u0442\u0438\u043c\u0443\u0442\u044c \u043a\u043e\u043d\u0432\u0435\u0454\u0440: Rivian \u0442\u0430 Redwood \u0441\u0442\u0432\u043e\u0440\u0438\u043b\u0438 \u0437\u0430\u043c\u043a\u043d\u0435\u043d\u0438\u0439 \u0446\u0438\u043a\u043b \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0430\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u0456\u0432. #gadgets",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@topictree.bsky.social (Bluesky): \ucd5c\ub300 656\ub9c8\ub825\uc5d0 \uc8fc\ud589\uac70\ub9ac 555km\ub97c \uac16\ucd98 \ub9ac\ube44\uc548 R2\uac00 6\ucc9c\ub9cc \uc6d0\ub300 \ud569\ub9ac\uc801\uc778 \uac00\uaca9\uc73c\ub85c \ub4f1\uc7a5\ud588\uc2b5\ub2c8\ub2e4.\n\n\ud3f4\ub529 \uc2dc 2,250L\uae4c\uc9c0 \ub298\uc5b4\ub098\ub294 \uc801\uc7ac",
+        "url": "https://bsky.app/profile/did:plc:4pffxfgholj7fppy5onhbrm3/post/3mxwsemrc272z",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T19:30:39.463Z",
+        "score": 0,
+        "snippet": "\ucd5c\ub300 656\ub9c8\ub825\uc5d0 \uc8fc\ud589\uac70\ub9ac 555km\ub97c \uac16\ucd98 \ub9ac\ube44\uc548 R2\uac00 6\ucc9c\ub9cc \uc6d0\ub300 \ud569\ub9ac\uc801\uc778 \uac00\uaca9\uc73c\ub85c \ub4f1\uc7a5\ud588\uc2b5\ub2c8\ub2e4. \ud3f4\ub529 \uc2dc 2,250L\uae4c\uc9c0 \ub298\uc5b4\ub098\ub294 \uc801\uc7ac \uacf5\uac04 \ub355\ubd84\uc5d0 \ud328\ubc00\ub9ac\uce74\ub098 \uc544\uc6c3\ub3c4\uc5b4\uc6a9\uc73c\ub85c \uc815\ub9d0 \ub9e4\ub825\uc801\uc774\ub124\uc694. \uc2e4\uc6a9\uc131\uacfc \uc131\ub2a5\uc744 \ubaa8\ub450 \uc7a1\uc740 \uc804\uae30 SUV\ub97c \ucc3e\uc73c\uc2e0\ub2e4\uba74 \uaf2d \uc8fc\ubaa9\ud574 \ubcfc \ub9cc\ud569\ub2c8\ub2e4.",
+        "summary": "\ucd5c\ub300 656\ub9c8\ub825\uc5d0 \uc8fc\ud589\uac70\ub9ac 555km\ub97c \uac16\ucd98 \ub9ac\ube44\uc548 R2\uac00 6\ucc9c\ub9cc \uc6d0\ub300 \ud569\ub9ac\uc801\uc778 \uac00\uaca9\uc73c\ub85c \ub4f1\uc7a5\ud588\uc2b5\ub2c8\ub2e4. \ud3f4\ub529 \uc2dc 2,250L\uae4c\uc9c0 \ub298\uc5b4\ub098\ub294 \uc801\uc7ac \uacf5\uac04 \ub355\ubd84\uc5d0 \ud328\ubc00\ub9ac\uce74\ub098 \uc544\uc6c3\ub3c4\uc5b4\uc6a9\uc73c\ub85c \uc815\ub9d0 \ub9e4\ub825\uc801\uc774\ub124\uc694. \uc2e4\uc6a9\uc131\uacfc \uc131\ub2a5\uc744 \ubaa8\ub450 \uc7a1\uc740 \uc804\uae30 SUV\ub97c \ucc3e\uc73c\uc2e0\ub2e4\uba74 \uaf2d \uc8fc\ubaa9\ud574 \ubcfc \ub9cc\ud569\ub2c8\ub2e4.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@thenewshub.bsky.social (Bluesky): electrek.co/2026/10/15/t...",
+        "url": "https://bsky.app/profile/did:plc:cxkndc2okyhteyv6dah6rlzi/post/3mxwl5fvjus24",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T17:21:23.755Z",
+        "score": 0,
+        "snippet": "electrek.co/2026/10/15/t...",
+        "summary": "electrek.co/2026/10/15/t...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@riviantrackr.com (Bluesky): \ud83c\udd95 New at the Rivian Gear Shop: R2 Wheel Center Cap https://gearshop.rivian.com/p",
+        "url": "https://bsky.app/profile/did:plc:nrjgwugd6tg6mtyobb2p5kkc/post/3mxwkndbg4d2y",
+        "source": "bluesky",
+        "publishedAt": "2026-10-15T17:12:21.552Z",
+        "score": 3,
+        "snippet": "\ud83c\udd95 New at the Rivian Gear Shop: R2 Wheel Center Cap",
+        "summary": "\ud83c\udd95 New at the Rivian Gear Shop: R2 Wheel Center Cap",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
