@@ -14706,5 +14706,273 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-16T19:01:34.069193-07:00",
+    "timestamp": "2026-10-16T19:01:34.069193-07:00",
+    "sentiment": {
+      "positive": 0,
+      "neutral": 78,
+      "negative": 21
+    },
+    "sources": {
+      "reddit_rivian": {
+        "found": 4,
+        "sentiment": "neutral"
+      },
+      "reddit_rivian_r2": {
+        "found": 2,
+        "sentiment": "neutral"
+      },
+      "google_news": {
+        "found": 2,
+        "sentiment": "negative"
+      },
+      "google_news_waymo": {
+        "found": 1,
+        "sentiment": "neutral"
+      },
+      "bluesky": {
+        "found": 5,
+        "sentiment": "neutral"
+      }
+    },
+    "categories": {
+      "autonomy": {
+        "found": 1,
+        "sentiment": null
+      },
+      "demo_drives": {
+        "found": 0,
+        "sentiment": null
+      },
+      "vehicles": {
+        "found": 9,
+        "sentiment": null
+      },
+      "business": {
+        "found": 0,
+        "sentiment": null
+      },
+      "software": {
+        "found": 2,
+        "sentiment": null
+      },
+      "community": {
+        "found": 1,
+        "sentiment": null
+      },
+      "competitive": {
+        "found": 1,
+        "sentiment": null
+      }
+    },
+    "themes": [
+      "Autonomy",
+      "Community Signals",
+      "Competitive Threats",
+      "Software",
+      "Vehicle Demand"
+    ],
+    "summary": "14 signals across Vehicles (9), Software (2); watch Vehicle Demand, Software",
+    "fullReport": "\u25aa\ufe0f *GameFilm \u2014 Executive Intelligence Brief*\n_Friday, October 16, 2026 \u2014 7:01 PM PT \u2014 14 signals \u00b7 4 categories_\n\n*EXECUTIVE SUMMARY*\n\u2022 *Competitive landscape:* 1 rival signal surfaced, led by Competitive Threats.\n\u2022 *Rivian posture:* 13 Rivian signals clustered around Vehicles (9), Software (2).\n\u2022 *Risk posture:* \ud83d\udd35 MEDIUM with 3 negative signals; watch Vehicle Demand, Software, Autonomy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*COMPETITIVE DYNAMICS* (1)\n\u2022 *Competitive Threats:* Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028 - Reuters\n  https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5\n\n*PRODUCT & MARKET POSITIONING*\n\n*Autonomy (1)* \u2022 reddit_rivian signal: Autonomy+ Point to Point Canada\n  https://www.reddit.com/r/Rivian/comments/1x7xt7n/autonomy_point_to_point_canada/\n*Demo & Test Drives (0)* \u2022 No signals\n*Vehicles (9)* \u2022 reddit_rivian signal: Food odors\n  https://www.reddit.com/r/Rivian/comments/1x7uaxl/food_odors/\n*Business (0)* \u2022 No signals\n*Software (2)* \u2022 reddit_rivian signal: Colors from the Halloween Update this year.\n  https://www.reddit.com/r/Rivian/comments/1x7xanz/colors_from_the_halloween_update_this_year/\n*Community (1)* \u2022 Oh man people are gonna die in this finance.yahoo.com/markets/stoc...\n  https://bsky.app/profile/did:plc:gkqqohpjl7hoixrrg4dntsa4/post/3mxzvgb5jfc2u\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*STRATEGIC IMPERATIVES*\n\u2022 Autonomy\n\u2022 Community Signals\n\u2022 Competitive Threats\n\u2022 Software\n\u2022 Vehicle Demand\n\n_Threat: \ud83d\udd35 MEDIUM_\n_Dashboard: https://watchgamefilm.vercel.app_",
+    "items": [
+      {
+        "title": "Autonomy+ Point to Point Canada",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x7xt7n/autonomy_point_to_point_canada/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-17T01:33:26.858Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Autonomy+ Point to Point Canada",
+        "summary": "reddit_rivian signal: Autonomy+ Point to Point Canada",
+        "category": "autonomy",
+        "sentiment": "neutral",
+        "themes": [
+          "Autonomy"
+        ]
+      },
+      {
+        "title": "Colors from the Halloween Update this year.",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x7xanz/colors_from_the_halloween_update_this_year/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-17T01:07:04.751Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Colors from the Halloween Update this year.",
+        "summary": "reddit_rivian signal: Colors from the Halloween Update this year.",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Food odors",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x7uaxl/food_odors/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-16T22:43:07.532Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Food odors",
+        "summary": "reddit_rivian signal: Food odors",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Updated 3D Printable Mount for Larger Devices",
+        "url": "https://www.reddit.com/r/Rivian/comments/1x7tcmq/updated_3d_printable_mount_for_larger_devices/",
+        "source": "reddit_rivian",
+        "publishedAt": "2026-10-16T22:01:23.701Z",
+        "score": 0,
+        "snippet": "reddit_rivian signal: Updated 3D Printable Mount for Larger Devices",
+        "summary": "reddit_rivian signal: Updated 3D Printable Mount for Larger Devices",
+        "category": "software",
+        "sentiment": "neutral",
+        "themes": [
+          "Software"
+        ]
+      },
+      {
+        "title": "R2 Windshield Distortion",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x7wg2c/r2_windshield_distortion/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-17T00:23:50.822Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 Windshield Distortion",
+        "summary": "reddit_rivian_r2 signal: R2 Windshield Distortion",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "R2 Borealis pics",
+        "url": "https://www.reddit.com/r/RivianR2/comments/1x7u0qz/r2_borealis_pics/",
+        "source": "reddit_rivian_r2",
+        "publishedAt": "2026-10-16T22:30:29.617Z",
+        "score": 0,
+        "snippet": "reddit_rivian_r2 signal: R2 Borealis pics",
+        "summary": "reddit_rivian_r2 signal: R2 Borealis pics",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "A Look at Rivian Automotive Inc (RIVN) After 4.6% Decline -- GF Value $15.68 vs Price $12.42 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHBIMGFjbG5LNjk5VmpOdDBlOW1BQnJoa0NqUjUtYWdzaWRTMDVSZEF5RFV3c0VkZVRpTGZMRUdTaXh6ZWVwdU1PWUFFWHkxU2hzMG1BdGJ1TVRBSmZ4ZGJLb0NvSXI2SHU5Qm1iSjk1SzZOY2F1bnllOEFTcFB1S1hrcVFuRUJyUVBiYWFyUDd6NWlfa2Yxb3VQWUdaOTRLZV8xMGV5aXo1Z2RoZHFCTlRMby12UUJzbWU0bw?oc=5",
+        "source": "google_news",
+        "publishedAt": "Fri, 16 Oct 2026 22:34:31 GMT",
+        "score": 0,
+        "snippet": "A Look at Rivian Automotive Inc (RIVN) After 4.6% Decline -- GF Value $15.68 vs Price $12.42 - GuruFocus",
+        "summary": "A Look at Rivian Automotive Inc (RIVN) After 4.6% Decline -- GF Value $15.68 vs Price $12.42 - GuruFocus",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Rivian Falls to a Fresh 52-Week Low at $12.42 - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzFLRFR3YXhTSHpmLW13aHJDbFVpTzltWTRXR041ajFVRGFPMk1KWWx3MDl5azgweVktQjNSV3g2Z1RMaDJPZGRqZUhsazFXSFBLcWRlU0V3SkN3eW53eGlWY3Z4aU45ay1TandUbHVtT1JSUFB6eHBOdGZXOHNGZHZQekIySy1yZE43R1QtUnVMTmZ0R1ZjYThzSVRwcTJ1SHRmcjJCcUhDYVo5WUczdGo4NS13MDhoaHpYb1EtYnd0dXplbTk4eFBkX3I?oc=5",
+        "source": "google_news",
+        "publishedAt": "Sat, 17 Oct 2026 00:00:00 GMT",
+        "score": 0,
+        "snippet": "Rivian Falls to a Fresh 52-Week Low at $12.42 - 24/7 Wall St.",
+        "summary": "Rivian Falls to a Fresh 52-Week Low at $12.42 - 24/7 Wall St.",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5",
+        "source": "google_news_waymo",
+        "publishedAt": "Fri, 16 Oct 2026 12:04:45 GMT",
+        "score": 0,
+        "snippet": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028 - Reuters",
+        "summary": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028 - Reuters",
+        "category": "competitive",
+        "sentiment": "neutral",
+        "themes": [
+          "Competitive Threats"
+        ]
+      },
+      {
+        "title": "@queenanthai.bsky.social (Bluesky): Oh man people are gonna die in this \n\nfinance.yahoo.com/markets/stoc...",
+        "url": "https://bsky.app/profile/did:plc:gkqqohpjl7hoixrrg4dntsa4/post/3mxzvgb5jfc2u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-17T01:03:15.756Z",
+        "score": 0,
+        "snippet": "Oh man people are gonna die in this finance.yahoo.com/markets/stoc...",
+        "summary": "Oh man people are gonna die in this finance.yahoo.com/markets/stoc...",
+        "category": "community",
+        "sentiment": "neutral",
+        "themes": [
+          "Community Signals"
+        ]
+      },
+      {
+        "title": "@astruckpersonn.bsky.social (Bluesky): rivian would do it",
+        "url": "https://bsky.app/profile/did:plc:ri4mua3vf4hgyqk23guxafgu/post/3mxztvdnqws2u",
+        "source": "bluesky",
+        "publishedAt": "2026-10-17T00:35:53.559Z",
+        "score": 0,
+        "snippet": "rivian would do it",
+        "summary": "rivian would do it",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@ethelmay.bsky.social (Bluesky): If nothing else I bet you someone out there must have a vanity plate on their Ri",
+        "url": "https://bsky.app/profile/did:plc:425iqiminfyp2u3yebxddxks/post/3mxzp7dy7pc2x",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T23:12:01.263Z",
+        "score": 2,
+        "snippet": "If nothing else I bet you someone out there must have a vanity plate on their Rivian that says Vivian",
+        "summary": "If nothing else I bet you someone out there must have a vanity plate on their Rivian that says Vivian",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@powerful.crabf.art (Bluesky): If money was no concern a Rivian would be sick",
+        "url": "https://bsky.app/profile/did:plc:cxqhno5qwqkpig2k2gaqjmj2/post/3mxzndy5d6k2l",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T22:38:48.759Z",
+        "score": 1,
+        "snippet": "If money was no concern a Rivian would be sick",
+        "summary": "If money was no concern a Rivian would be sick",
+        "category": "vehicles",
+        "sentiment": "negative",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      },
+      {
+        "title": "@jack-hoff.bsky.social (Bluesky): Here's hoping Rivian can become the company everyone thought Tesla was set to be",
+        "url": "https://bsky.app/profile/did:plc:j4nodad7raj6mdrevurjs4dn/post/3mxzlxx4yz227",
+        "source": "bluesky",
+        "publishedAt": "2026-10-16T22:14:12.559Z",
+        "score": 2,
+        "snippet": "Here's hoping Rivian can become the company everyone thought Tesla was set to be back in 2014.",
+        "summary": "Here's hoping Rivian can become the company everyone thought Tesla was set to be back in 2014.",
+        "category": "vehicles",
+        "sentiment": "neutral",
+        "themes": [
+          "Vehicle Demand"
+        ]
+      }
+    ]
   }
 ]
